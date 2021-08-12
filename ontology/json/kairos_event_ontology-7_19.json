@@ -1,0 +1,5648 @@
+{
+    "artifactexistence": {
+        "artifactfailure": {
+            "mechanicalfailure": [
+                {
+                    "constraints": [
+                        "COM",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "MechanicalArtifact"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "WEA"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "FAC",
+                        "LOC",
+                        "GPE"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "contamination": {
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "EVENT"
+                    ],
+                    "role": "Agent"
+                },
+                {
+                    "constraints": [
+                        "BOD",
+                        "FAC",
+                        "COM",
+                        "NAT",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Thing Contaminated"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "NAT",
+                        "PTH",
+                        "BOD"
+                    ],
+                    "role": "Contaminant"
+                },
+                {
+                    "constraints": [
+                        "FAC",
+                        "LOC",
+                        "GPE"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "creation": {
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "EVENT"
+                    ],
+                    "role": "Creator"
+                },
+                {
+                    "constraints": [
+                        "ABS",
+                        "FAC",
+                        "COM",
+                        "VEH",
+                        "WEA",
+                        "PTH",
+                        "INF"
+                    ],
+                    "role": "Thing Created"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "NAT"
+                    ],
+                    "role": "Components/Material"
+                },
+                {
+                    "constraints": [
+                        "FAC",
+                        "LOC",
+                        "GPE"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "damagedestroydisabledismantle": {
+            "damage": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Damager"
+                },
+                {
+                    "constraints": [
+                        "BAL",
+                        "COM",
+                        "FAC",
+                        "LOC",
+                        "MON",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Artifact"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "FAC",
+                        "LOC",
+                        "GPE"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "destroy": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Destroyer"
+                },
+                {
+                    "constraints": [
+                        "BAL",
+                        "COM",
+                        "FAC",
+                        "LOC",
+                        "MON",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Artifact"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "FAC",
+                        "LOC",
+                        "GPE"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "disabledefuse": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Disabler"
+                },
+                {
+                    "constraints": [
+                        "ABS",
+                        "COM",
+                        "FAC",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Artifact"
+                },
+                {
+                    "constraints": [
+                        "ABS",
+                        "COM",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "FAC",
+                        "LOC",
+                        "GPE"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "dismantle": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Dismantler"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "FAC",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Artifact"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "VEH"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "COM"
+                    ],
+                    "role": "Components"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "DamagerDestroyer"
+                },
+                {
+                    "constraints": [
+                        "BAL",
+                        "COM",
+                        "FAC",
+                        "LOC",
+                        "MON",
+                        "NAT",
+                        "PTH",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Artifact"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "FAC",
+                        "LOC",
+                        "GPE"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "manufactureassemble": {
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "ManufacturerAssembler"
+                },
+                {
+                    "constraints": [
+                        "COM"
+                    ],
+                    "role": "Artifact"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "VEH",
+                        "WEA",
+                        "PTH"
+                    ],
+                    "role": "Components"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "VEH",
+                        "WEA",
+                        "FAC"
+                    ],
+                    "role": "Instrument"
+                }
+            ]
+        },
+        "shortage": {
+            "shortage": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Experiencer"
+                },
+                {
+                    "constraints": [
+                        "BAL",
+                        "COM",
+                        "FAC",
+                        "MON",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Supply"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        }
+    },
+    "cognitive": {
+        "identifycategorize": {
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Identifier"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "BAL",
+                        "COM",
+                        "FAC",
+                        "LOC",
+                        "MON",
+                        "VEH",
+                        "WEA",
+                        "AML",
+                        "BOD",
+                        "NAT",
+                        "PLA",
+                        "PTH"
+                    ],
+                    "role": "IdentifiedObject"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "BAL",
+                        "COM",
+                        "FAC",
+                        "LOC",
+                        "MON",
+                        "VEH",
+                        "WEA",
+                        "AML",
+                        "BOD",
+                        "NAT",
+                        "PLA",
+                        "PTH"
+                    ],
+                    "role": "IdentifiedRole"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "inspection": {
+            "assesstestmeasure": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Assessor"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "MHI"
+                    ],
+                    "role": "Assessed"
+                },
+                {
+                    "constraints": [
+                        "MHI",
+                        "NAT",
+                        "PTH"
+                    ],
+                    "role": "Thing Assessed for"
+                },
+                {
+                    "constraints": [
+                        "VAL"
+                    ],
+                    "role": "Result"
+                }
+            ],
+            "sensoryobserve": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Observer"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "COM",
+                        "VEH",
+                        "WEA",
+                        "FAC",
+                        "BAL",
+                        "MON",
+                        "MHI",
+                        "AML",
+                        "BOD",
+                        "NAT",
+                        "PLA",
+                        "PTH",
+                        "EVENT"
+                    ],
+                    "role": "ObservedEntity"
+                },
+                {
+                    "constraints": [
+                        "COM"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "research": {
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Researcher"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF",
+                        "ABS",
+                        "AML",
+                        "BOD",
+                        "NAT",
+                        "PLA",
+                        "PTH"
+                    ],
+                    "role": "Subject"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "ABS",
+                        "INF",
+                        "COM"
+                    ],
+                    "role": "Means"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "teachingtraininglearning": {
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "AML"
+                    ],
+                    "role": "TeacherTrainer"
+                },
+                {
+                    "constraints": [
+                        "INF"
+                    ],
+                    "role": "FieldOfKnowledge"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "COM",
+                        "AML",
+                        "ABS"
+                    ],
+                    "role": "Learner"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "ABS",
+                        "INF"
+                    ],
+                    "role": "Means"
+                }
+            ]
+        }
+    },
+    "conflict": {
+        "attack": {
+            "airstrikemissilestrike": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Attacker"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC",
+                        "PER",
+                        "COM",
+                        "VEH",
+                        "WEA",
+                        "SID"
+                    ],
+                    "role": "Target"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "biologicalchemicalpoisonattack": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Attacker"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC",
+                        "PER",
+                        "COM",
+                        "VEH",
+                        "WEA",
+                        "SID"
+                    ],
+                    "role": "Target"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "detonateexplode": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Attacker"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC",
+                        "PER",
+                        "COM",
+                        "VEH",
+                        "WEA",
+                        "SID",
+                        "AML",
+                        "PLA",
+                        "NAT"
+                    ],
+                    "role": "Target"
+                },
+                {
+                    "constraints": [
+                        "WEA",
+                        "COM"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "WEA",
+                        "COM"
+                    ],
+                    "role": "ExplosiveDevice"
+                }
+            ],
+            "firearmattack": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Attacker"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC",
+                        "PER",
+                        "COM",
+                        "VEH",
+                        "WEA",
+                        "SID"
+                    ],
+                    "role": "Target"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "hanging": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Attacker"
+                },
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Target"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "invade": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Attacker"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC",
+                        "PER",
+                        "COM",
+                        "VEH",
+                        "WEA",
+                        "SID"
+                    ],
+                    "role": "Target"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "selfdirectedbattle": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Attacker"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC",
+                        "PER",
+                        "COM",
+                        "VEH",
+                        "WEA",
+                        "SID"
+                    ],
+                    "role": "Target"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "setfire": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Attacker"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC",
+                        "PER",
+                        "COM",
+                        "VEH",
+                        "WEA",
+                        "SID"
+                    ],
+                    "role": "Target"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "stabbing": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Attacker"
+                },
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Target"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "stealrobhijack": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Attacker"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC",
+                        "PER",
+                        "COM",
+                        "VEH",
+                        "WEA",
+                        "SID"
+                    ],
+                    "role": "Target"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "stealrobhijack - hijack": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Attacker"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC",
+                        "PER",
+                        "COM",
+                        "VEH",
+                        "WEA",
+                        "SID"
+                    ],
+                    "role": "Target"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "stealrobhijack - rob": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Attacker"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC",
+                        "PER",
+                        "COM",
+                        "VEH",
+                        "WEA",
+                        "SID"
+                    ],
+                    "role": "Target"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "stealrobhijack - steal": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Attacker"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC",
+                        "PER",
+                        "COM",
+                        "VEH",
+                        "WEA",
+                        "SID"
+                    ],
+                    "role": "Target"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "strangling": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Attacker"
+                },
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Target"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Attacker"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC",
+                        "PER",
+                        "COM",
+                        "VEH",
+                        "WEA",
+                        "SID"
+                    ],
+                    "role": "Target"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "coup": {
+            "coup": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "DeposingEntity"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG"
+                    ],
+                    "role": "DeposedEntity"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "defeat": {
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "AML"
+                    ],
+                    "role": "Victor"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "AML"
+                    ],
+                    "role": "Defeated"
+                },
+                {
+                    "constraints": [
+                        "EVENT"
+                    ],
+                    "role": "ConflictOrElection"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "demonstrate": {
+            "demonstratewithviolence": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "SID"
+                    ],
+                    "role": "Demonstrator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG"
+                    ],
+                    "role": "Regulator"
+                },
+                {
+                    "constraints": [
+                        "COM"
+                    ],
+                    "role": "VisualDisplay"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF",
+                        "ABS",
+                        "AML",
+                        "BOD",
+                        "NAT",
+                        "PLA",
+                        "PTH"
+                    ],
+                    "role": "Topic"
+                }
+            ],
+            "marchprotestpoliticalgathering": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "SID"
+                    ],
+                    "role": "Demonstrator"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "SID"
+                    ],
+                    "role": "Demonstrator"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "yield": {
+            "retreat": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Retreater"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC",
+                        "PER",
+                        "COM",
+                        "VEH",
+                        "WEA",
+                        "SID"
+                    ],
+                    "role": "Origin"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Destination"
+                }
+            ],
+            "surrender": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Surrenderer"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC",
+                        "PER",
+                        "COM",
+                        "VEH",
+                        "WEA",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Yielder"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC",
+                        "PER",
+                        "COM",
+                        "VEH",
+                        "WEA",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        }
+    },
+    "contact": {
+        "collaborate": {
+            "correspondence": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "meet": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "commitmentpromiseexpressintent": {
+            "broadcast": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Communicator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF"
+                    ],
+                    "role": "Topic"
+                }
+            ],
+            "correspondence": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Communicator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF"
+                    ],
+                    "role": "Topic"
+                }
+            ],
+            "meet": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Communicator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF"
+                    ],
+                    "role": "Topic"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Communicator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF"
+                    ],
+                    "role": "Topic"
+                }
+            ]
+        },
+        "contact": {
+            "broadcast": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Communicator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "ABS",
+                        "COM"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF",
+                        "ABS",
+                        "AML",
+                        "BOD",
+                        "NAT",
+                        "PLA",
+                        "PTH"
+                    ],
+                    "role": "Topic"
+                }
+            ],
+            "correspondence": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "ABS",
+                        "COM"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF",
+                        "ABS",
+                        "AML",
+                        "BOD",
+                        "NAT",
+                        "PLA",
+                        "PTH"
+                    ],
+                    "role": "Topic"
+                }
+            ],
+            "meet": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF",
+                        "ABS",
+                        "AML",
+                        "BOD",
+                        "NAT",
+                        "PLA",
+                        "PTH"
+                    ],
+                    "role": "Topic"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF",
+                        "ABS",
+                        "AML",
+                        "BOD",
+                        "NAT",
+                        "PLA",
+                        "PTH"
+                    ],
+                    "role": "Topic"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "discussion": {
+            "correspondence": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "meet": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "funeralvigil": {
+            "meet": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Deceased"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Deceased"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "mediastatement": {
+            "broadcast": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Communicator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Communicator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "negotiate": {
+            "correspondence": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF"
+                    ],
+                    "role": "Topic"
+                }
+            ],
+            "meet": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF"
+                    ],
+                    "role": "Topic"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF"
+                    ],
+                    "role": "Topic"
+                }
+            ]
+        },
+        "prevarication": {
+            "broadcast": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Communicator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF"
+                    ],
+                    "role": "Topic"
+                }
+            ],
+            "correspondence": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Communicator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF"
+                    ],
+                    "role": "Topic"
+                }
+            ],
+            "meet": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Communicator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF"
+                    ],
+                    "role": "Topic"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Communicator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF"
+                    ],
+                    "role": "Topic"
+                }
+            ]
+        },
+        "publicstatementinperson": {
+            "broadcast": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Communicator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Communicator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "requestcommand": {
+            "broadcast": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Communicator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF"
+                    ],
+                    "role": "Topic"
+                }
+            ],
+            "correspondence": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Communicator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF"
+                    ],
+                    "role": "Topic"
+                }
+            ],
+            "meet": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Communicator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF"
+                    ],
+                    "role": "Topic"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Communicator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF"
+                    ],
+                    "role": "Topic"
+                }
+            ],
+            "unspecified - command": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Communicator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF"
+                    ],
+                    "role": "Topic"
+                }
+            ],
+            "unspecified - request": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Communicator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF"
+                    ],
+                    "role": "Topic"
+                }
+            ]
+        },
+        "threatencoerce": {
+            "broadcast": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Communicator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF"
+                    ],
+                    "role": "Topic"
+                }
+            ],
+            "correspondence": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Communicator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF"
+                    ],
+                    "role": "Topic"
+                }
+            ],
+            "meet": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Communicator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF"
+                    ],
+                    "role": "Topic"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Communicator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF"
+                    ],
+                    "role": "Topic"
+                }
+            ],
+            "unspecified - coerce": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Communicator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF"
+                    ],
+                    "role": "Topic"
+                }
+            ],
+            "unspecified - threat": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Communicator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "LAW",
+                        "RES",
+                        "VAL",
+                        "MHI",
+                        "INF"
+                    ],
+                    "role": "Topic"
+                }
+            ]
+        }
+    },
+    "control": {
+        "impedeinterferewith": {
+            "prevent": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "EVENT"
+                    ],
+                    "role": "Preventer"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "MHI"
+                    ],
+                    "role": "Prevented Thing"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Impeder"
+                },
+                {
+                    "constraints": [
+                        "EVENT"
+                    ],
+                    "role": "ImpededEvent"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        }
+    },
+    "disaster": {
+        "crash": {
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "DriverPassenger"
+                },
+                {
+                    "constraints": [
+                        "VEH"
+                    ],
+                    "role": "Vehicle"
+                },
+                {
+                    "constraints": [
+                        "AML",
+                        "COM",
+                        "FAC",
+                        "LOC",
+                        "PER",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "CrashObject"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "diseaseoutbreak": {
+            "unspecified": [
+                {
+                    "constraints": [
+                        "MHI"
+                    ],
+                    "role": "Disease"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "SID"
+                    ],
+                    "role": "Victim"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC",
+                        "VEH"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "fireexplosion": {
+            "unspecified": [
+                {
+                    "constraints": [
+                        "BAL",
+                        "VEH",
+                        "WEA",
+                        "FAC",
+                        "LOC",
+                        "COM"
+                    ],
+                    "role": "FireExplosionObject"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "VEH",
+                        "WEA",
+                        "FAC"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC",
+                        "VEH"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "unspecified - explosion": [
+                {
+                    "constraints": [
+                        "BAL",
+                        "VEH",
+                        "WEA",
+                        "FAC",
+                        "LOC",
+                        "COM"
+                    ],
+                    "role": "FireExplosionObject"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "VEH",
+                        "WEA",
+                        "FAC"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC",
+                        "VEH"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "unspecified - fire": [
+                {
+                    "constraints": [
+                        "BAL",
+                        "VEH",
+                        "WEA",
+                        "FAC",
+                        "LOC",
+                        "COM"
+                    ],
+                    "role": "FireExplosionObject"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "VEH",
+                        "WEA",
+                        "FAC"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC",
+                        "VEH"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        }
+    },
+    "genericcrime": {
+        "genericcrime": {
+            "genericcrime": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Perpetrator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "AML"
+                    ],
+                    "role": "Victim"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC",
+                        "VEH"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        }
+    },
+    "government": {
+        "agreements": {
+            "acceptagreementcontractceasefire - acceptance": [
+                {
+                    "constraints": [
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "acceptagreementcontractceasefire - ceasefire": [
+                {
+                    "constraints": [
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "rejectnullifyagreementcontractceasefire": [
+                {
+                    "constraints": [
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "RejecterNullifier"
+                },
+                {
+                    "constraints": [
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "OtherParticipant"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "violateagreement": [
+                {
+                    "constraints": [
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Violator"
+                },
+                {
+                    "constraints": [
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "OtherParticipant"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "convene": {
+            "convene": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Convener"
+                },
+                {
+                    "constraints": [
+                        "ORG"
+                    ],
+                    "role": "ConvenedThing"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "formation": {
+            "mergegpe": [
+                {
+                    "constraints": [
+                        "GPE"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "GPE"
+                    ],
+                    "role": "Participant"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "startgpe": [
+                {
+                    "constraints": [
+                        "GPE"
+                    ],
+                    "role": "GPE"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Founder"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "GPE"
+                    ],
+                    "role": "GPE"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Founder"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "legislate": {
+            "legislate": [
+                {
+                    "constraints": [
+                        "ORG"
+                    ],
+                    "role": "GovernmentBody"
+                },
+                {
+                    "constraints": [
+                        "LAW"
+                    ],
+                    "role": "Law"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "spy": {
+            "spy": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Spy"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "ObservedEntity"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Beneficiary"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "vote": {
+            "castvote": [
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Voter"
+                },
+                {
+                    "constraints": [
+                        "LAW",
+                        "PER",
+                        "SID"
+                    ],
+                    "role": "Candidate"
+                },
+                {
+                    "constraints": [
+                        "BAL"
+                    ],
+                    "role": "Ballot"
+                },
+                {
+                    "constraints": [
+                        "RES"
+                    ],
+                    "role": "Result"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "SID"
+                    ],
+                    "role": "Voter"
+                },
+                {
+                    "constraints": [
+                        "LAW",
+                        "PER",
+                        "SID"
+                    ],
+                    "role": "Candidate"
+                },
+                {
+                    "constraints": [
+                        "BAL"
+                    ],
+                    "role": "Ballot"
+                },
+                {
+                    "constraints": [
+                        "RES"
+                    ],
+                    "role": "Result"
+                }
+            ],
+            "violationspreventvote - voter suppression": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Preventer"
+                },
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Voter"
+                },
+                {
+                    "constraints": [
+                        "LAW",
+                        "PER",
+                        "SID"
+                    ],
+                    "role": "Candidate"
+                },
+                {
+                    "constraints": [
+                        "BAL"
+                    ],
+                    "role": "Ballot"
+                }
+            ]
+        }
+    },
+    "inspection": {
+        "targetaimat": {
+            "targetaimat": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Targeter"
+                },
+                {
+                    "constraints": [
+                        "BAL",
+                        "COM",
+                        "FAC",
+                        "GPE",
+                        "LOC",
+                        "ORG",
+                        "PER",
+                        "SID",
+                        "VEH",
+                        "WEA",
+                        "MON"
+                    ],
+                    "role": "Target"
+                },
+                {
+                    "constraints": [
+                        "WEA",
+                        "VEH",
+                        "COM"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        }
+    },
+    "justice": {
+        "acquit": {
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "JudgeCourt"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Defendant"
+                },
+                {
+                    "constraints": [
+                        "EVENT"
+                    ],
+                    "role": "Crime"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "arrestjaildetain": {
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Jailer"
+                },
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Detainee"
+                },
+                {
+                    "constraints": [
+                        "EVENT"
+                    ],
+                    "role": "Crime"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "initiatejudicialprocess": {
+            "chargeindict": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Prosecutor"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Defendant"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "JudgeCourt"
+                },
+                {
+                    "constraints": [
+                        "EVENT"
+                    ],
+                    "role": "Crime"
+                }
+            ],
+            "trialhearing": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Prosecutor"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Defendant"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "JudgeCourt"
+                },
+                {
+                    "constraints": [
+                        "EVENT"
+                    ],
+                    "role": "Crime"
+                }
+            ],
+            "trialhearing - hearing": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Prosecutor"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Defendant"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "JudgeCourt"
+                },
+                {
+                    "constraints": [
+                        "EVENT"
+                    ],
+                    "role": "Crime"
+                }
+            ],
+            "trialhearing - trial": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Prosecutor"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Defendant"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "JudgeCourt"
+                },
+                {
+                    "constraints": [
+                        "EVENT"
+                    ],
+                    "role": "Crime"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Prosecutor"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Defendant"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "JudgeCourt"
+                },
+                {
+                    "constraints": [
+                        "EVENT"
+                    ],
+                    "role": "Crime"
+                }
+            ]
+        },
+        "investigate": {
+            "investigatecrime": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Investigator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Defendant"
+                },
+                {
+                    "constraints": [
+                        "EVENT"
+                    ],
+                    "role": "Crime"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Investigator"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Defendant"
+                },
+                {
+                    "constraints": [
+                        "EVENT"
+                    ],
+                    "role": "Crime"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "judicialconsequences": {
+            "convict": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "JudgeCourt"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Defendant"
+                },
+                {
+                    "constraints": [
+                        "EVENT"
+                    ],
+                    "role": "Crime"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "execute": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Executioner"
+                },
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Defendant"
+                },
+                {
+                    "constraints": [
+                        "EVENT"
+                    ],
+                    "role": "Crime"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "extradite": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Extraditer"
+                },
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Defendant"
+                },
+                {
+                    "constraints": [
+                        "EVENT"
+                    ],
+                    "role": "Crime"
+                },
+                {
+                    "constraints": [
+                        "<ALL>"
+                    ],
+                    "role": "Origin"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "JudgeCourt"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Defendant"
+                },
+                {
+                    "constraints": [
+                        "EVENT"
+                    ],
+                    "role": "Crime"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "releaseparole": {
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "JudgeCourt"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Defendant"
+                },
+                {
+                    "constraints": [
+                        "EVENT"
+                    ],
+                    "role": "Crime"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "sentence": {
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "JudgeCourt"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Defendant"
+                },
+                {
+                    "constraints": [
+                        "EVENT"
+                    ],
+                    "role": "Crime"
+                },
+                {
+                    "constraints": [
+                        "SEN"
+                    ],
+                    "role": "Sentence"
+                }
+            ]
+        }
+    },
+    "life": {
+        "consume": {
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "AML"
+                    ],
+                    "role": "ConsumingEntity"
+                },
+                {
+                    "constraints": [
+                        "COM"
+                    ],
+                    "role": "ConsumedThing"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "die": {
+            "deathcausedbyviolentevents": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Killer"
+                },
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Victim"
+                },
+                {
+                    "constraints": [
+                        "BAL",
+                        "COM",
+                        "VEH",
+                        "WEA",
+                        "FAC",
+                        "MON"
+                    ],
+                    "role": "Instrument"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "nonviolentdeath": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Killer"
+                },
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Victim"
+                },
+                {
+                    "constraints": [
+                        "MHI"
+                    ],
+                    "role": "MedicalIssue"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Killer"
+                },
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Victim"
+                },
+                {
+                    "constraints": [
+                        "MHI"
+                    ],
+                    "role": "MedicalIssue"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "illness": {
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Injurer"
+                },
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Victim"
+                },
+                {
+                    "constraints": [
+                        "MHI"
+                    ],
+                    "role": "Disease"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "infect": {
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "AML"
+                    ],
+                    "role": "Victim"
+                },
+                {
+                    "constraints": [
+                        "PTH"
+                    ],
+                    "role": "InfectingAgent"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID",
+                        "LOC",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "COM",
+                        "BAL",
+                        "MON",
+                        "MHI",
+                        "AML",
+                        "BOD",
+                        "NAT",
+                        "PLA",
+                        "PTH"
+                    ],
+                    "role": "Source"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "injure": {
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Injurer"
+                },
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Victim"
+                },
+                {
+                    "constraints": [
+                        "MHI"
+                    ],
+                    "role": "MedicalIssue"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "mutate": {
+            "unspecified": [
+                {
+                    "constraints": [
+                        "BOD",
+                        "PTH"
+                    ],
+                    "role": "Thing Mutating"
+                },
+                {
+                    "constraints": [
+                        "BOD",
+                        "PTH"
+                    ],
+                    "role": "End State"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        }
+    },
+    "medical": {
+        "diagnosis": {
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Treater"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "AML"
+                    ],
+                    "role": "Patient"
+                },
+                {
+                    "constraints": [
+                        "MHI"
+                    ],
+                    "role": "SymptomSign"
+                },
+                {
+                    "constraints": [
+                        "MHI"
+                    ],
+                    "role": "MedicalCondition"
+                }
+            ]
+        },
+        "intervention": {
+            "cure": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Treater"
+                },
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Patient"
+                },
+                {
+                    "constraints": [
+                        "MHI"
+                    ],
+                    "role": "MedicalIssue"
+                },
+                {
+                    "constraints": [
+                        "COM"
+                    ],
+                    "role": "Instrument"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Treater"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "AML"
+                    ],
+                    "role": "Patient"
+                },
+                {
+                    "constraints": [
+                        "MHI"
+                    ],
+                    "role": "MedicalIssue"
+                },
+                {
+                    "constraints": [
+                        "COM"
+                    ],
+                    "role": "Instrument"
+                }
+            ]
+        },
+        "vaccinate": {
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Treater"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "AML"
+                    ],
+                    "role": "Patient"
+                },
+                {
+                    "constraints": [
+                        "MHI"
+                    ],
+                    "role": "VaccineTarget"
+                },
+                {
+                    "constraints": [
+                        "COM"
+                    ],
+                    "role": "VaccineMethod"
+                }
+            ]
+        }
+    },
+    "movement": {
+        "transportation": {
+            "evacuation": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Transporter"
+                },
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Passenger"
+                },
+                {
+                    "constraints": [
+                        "VEH"
+                    ],
+                    "role": "Vehicle"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Origin"
+                }
+            ],
+            "grantallowpassage": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Transporter"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "BAL",
+                        "COM",
+                        "FAC",
+                        "LOC",
+                        "MON",
+                        "VEH",
+                        "WEA",
+                        "AML",
+                        "PTH",
+                        "PLA",
+                        "BOD",
+                        "NAT"
+                    ],
+                    "role": "PassengerArtifact"
+                },
+                {
+                    "constraints": [
+                        "VEH"
+                    ],
+                    "role": "Vehicle"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Granter"
+                }
+            ],
+            "illegaltransportation - illegal migration": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Transporter"
+                },
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Passenger"
+                },
+                {
+                    "constraints": [
+                        "VEH"
+                    ],
+                    "role": "Vehicle"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Origin"
+                }
+            ],
+            "illegaltransportation - smuggling": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Transporter"
+                },
+                {
+                    "constraints": [
+                        "BAL",
+                        "COM",
+                        "FAC",
+                        "LOC",
+                        "MON",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Artifact"
+                },
+                {
+                    "constraints": [
+                        "VEH"
+                    ],
+                    "role": "Vehicle"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Origin"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Transporter"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "BAL",
+                        "COM",
+                        "FAC",
+                        "LOC",
+                        "MON",
+                        "VEH",
+                        "WEA",
+                        "AML",
+                        "PTH",
+                        "PLA",
+                        "BOD",
+                        "NAT"
+                    ],
+                    "role": "PassengerArtifact"
+                },
+                {
+                    "constraints": [
+                        "VEH"
+                    ],
+                    "role": "Vehicle"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC",
+                        "COM",
+                        "VEH"
+                    ],
+                    "role": "Origin"
+                }
+            ],
+            "unspecified - transport": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Transporter"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "BAL",
+                        "COM",
+                        "FAC",
+                        "LOC",
+                        "MON",
+                        "VEH",
+                        "WEA",
+                        "AML",
+                        "PTH",
+                        "PLA",
+                        "BOD",
+                        "NAT"
+                    ],
+                    "role": "PassengerArtifact"
+                },
+                {
+                    "constraints": [
+                        "VEH"
+                    ],
+                    "role": "Vehicle"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC",
+                        "COM",
+                        "VEH"
+                    ],
+                    "role": "Origin"
+                }
+            ],
+            "unspecified - travel": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Transporter"
+                },
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Passenger"
+                },
+                {
+                    "constraints": [
+                        "VEH"
+                    ],
+                    "role": "Vehicle"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Origin"
+                }
+            ]
+        }
+    },
+    "personnel": {
+        "changeposition": {
+            "changejoblocation": [
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Employee"
+                },
+                {
+                    "constraints": [
+                        "GPE",
+                        "ORG"
+                    ],
+                    "role": "PlaceOfEmployment"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE"
+                    ],
+                    "role": "PreviousOrgLocation"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE"
+                    ],
+                    "role": "NewOrgLocation"
+                }
+            ],
+            "demotion": [
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Employee"
+                },
+                {
+                    "constraints": [
+                        "GPE",
+                        "ORG"
+                    ],
+                    "role": "PlaceOfEmployment"
+                },
+                {
+                    "constraints": [
+                        "TTL"
+                    ],
+                    "role": "PreviousPosition"
+                },
+                {
+                    "constraints": [
+                        "TTL"
+                    ],
+                    "role": "NewPosition"
+                }
+            ],
+            "lateral": [
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Employee"
+                },
+                {
+                    "constraints": [
+                        "GPE",
+                        "ORG"
+                    ],
+                    "role": "PlaceOfEmployment"
+                },
+                {
+                    "constraints": [
+                        "TTL"
+                    ],
+                    "role": "PreviousPosition"
+                },
+                {
+                    "constraints": [
+                        "TTL"
+                    ],
+                    "role": "NewPosition"
+                }
+            ],
+            "promotion": [
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Employee"
+                },
+                {
+                    "constraints": [
+                        "GPE",
+                        "ORG"
+                    ],
+                    "role": "PlaceOfEmployment"
+                },
+                {
+                    "constraints": [
+                        "TTL"
+                    ],
+                    "role": "PreviousPosition"
+                },
+                {
+                    "constraints": [
+                        "TTL"
+                    ],
+                    "role": "NewPosition"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Employee"
+                },
+                {
+                    "constraints": [
+                        "GPE",
+                        "ORG"
+                    ],
+                    "role": "PlaceOfEmployment"
+                },
+                {
+                    "constraints": [
+                        "<ALL>"
+                    ],
+                    "role": "PreviousPosition"
+                },
+                {
+                    "constraints": [
+                        "<ALL>"
+                    ],
+                    "role": "NewPosition"
+                }
+            ]
+        },
+        "elect": {
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "SID"
+                    ],
+                    "role": "Voter"
+                },
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Candidate"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "winelection": [
+                {
+                    "constraints": [
+                        "PER",
+                        "SID"
+                    ],
+                    "role": "Voter"
+                },
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Candidate"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "endposition": {
+            "firinglayoff": [
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Employee"
+                },
+                {
+                    "constraints": [
+                        "GPE",
+                        "ORG"
+                    ],
+                    "role": "PlaceOfEmployment"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "quitretire": [
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Employee"
+                },
+                {
+                    "constraints": [
+                        "GPE",
+                        "ORG"
+                    ],
+                    "role": "PlaceOfEmployment"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Employee"
+                },
+                {
+                    "constraints": [
+                        "GPE",
+                        "ORG"
+                    ],
+                    "role": "PlaceOfEmployment"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "startposition": {
+            "hiring": [
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Employee"
+                },
+                {
+                    "constraints": [
+                        "GPE",
+                        "ORG"
+                    ],
+                    "role": "PlaceOfEmployment"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ],
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Employee"
+                },
+                {
+                    "constraints": [
+                        "GPE",
+                        "ORG"
+                    ],
+                    "role": "PlaceOfEmployment"
+                },
+                {
+                    "constraints": [
+                        "<ALL>"
+                    ],
+                    "role": "Position"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        }
+    },
+    "socialbehavior": {
+        "clean": {
+            "sanitize": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Agent"
+                },
+                {
+                    "constraints": [
+                        "FAC",
+                        "COM",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Sanitized Object"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "NAT"
+                    ],
+                    "role": "Sanitizing Agent"
+                },
+                {
+                    "constraints": [
+                        "PTH"
+                    ],
+                    "role": "Pathogen"
+                }
+            ],
+            "wash": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Washer"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "BOD",
+                        "NAT",
+                        "COM",
+                        "VEH",
+                        "WEA"
+                    ],
+                    "role": "Thing Washed"
+                },
+                {
+                    "constraints": [
+                        "COM",
+                        "NAT"
+                    ],
+                    "role": "Cleansing Agent"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "complyobey": {
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Complier"
+                },
+                {
+                    "constraints": [
+                        "EVENT",
+                        "LAW"
+                    ],
+                    "role": "Rule"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "wear": {
+            "wear": [
+                {
+                    "constraints": [
+                        "PER"
+                    ],
+                    "role": "Wearer"
+                },
+                {
+                    "constraints": [
+                        "COM"
+                    ],
+                    "role": "Thing worn"
+                },
+                {
+                    "constraints": [
+                        "BOD"
+                    ],
+                    "role": "Body Location"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        }
+    },
+    "transaction": {
+        "aidbetweengovernments": {
+            "unspecified": [
+                {
+                    "constraints": [
+                        "GPE"
+                    ],
+                    "role": "Giver"
+                },
+                {
+                    "constraints": [
+                        "GPE"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Beneficiary"
+                },
+                {
+                    "constraints": [
+                        "MON",
+                        "COM",
+                        "BAL",
+                        "FAC",
+                        "VEH",
+                        "WEA",
+                        "AML",
+                        "PLA",
+                        "NAT",
+                        "ABS",
+                        "BOD"
+                    ],
+                    "role": "ArtifactMoney"
+                }
+            ]
+        },
+        "donation": {
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Giver"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Beneficiary"
+                },
+                {
+                    "constraints": [
+                        "LOC",
+                        "GPE",
+                        "FAC"
+                    ],
+                    "role": "Place"
+                }
+            ]
+        },
+        "exchangebuysell": {
+            "unspecified": [
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Giver"
+                },
+                {
+                    "constraints": [
+                        "PER",
+                        "ORG",
+                        "GPE",
+                        "SID"
+                    ],
+                    "role": "Recipient"
+                },
+                {
+                    "constraints": [
+                        "BAL",
+                        "COM",
+                        "GPE",
+                        "FAC",
+                        "LOC",
+                        "MON",
+                        "ORG",
+                        "VEH",
+                        "WEA",
+                        "ABS",
+                        "AML",
+                        "NAT",
+                        "PLA",
+                        "PTH"
+                    ],
+                    "role": "AcquiredEntity"
+                },
+                {
+                    "constraints": [
+                        "BAL",
+                        "COM",
+                        "GPE",
+                        "FAC",
+                        "LOC",
+                        "MON",
+                        "ORG",
+                        "VEH",
+                        "WEA",
+                        "ABS",
+                        "AML",
+                        "NAT",
+                        "PLA",
+                        "PTH"
+                    ],
+                    "role": "PaymentBarter"
+                }
+            ]
+        }
+    }
+}

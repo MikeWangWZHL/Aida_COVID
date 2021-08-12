@@ -74,6 +74,7 @@ class Ontology:
                 re_template = row[8].strip()
                 re_args = {'Arg1':row[9].strip(), 'Arg2':row[12].strip()}
                 data['relations'][re_type_str] = {'template':re_template, 'args':re_args}
+                
         
         # TODO: entities
         return data

@@ -1,0 +1,234 @@
+!artifactexistence
+	!artifactfailure
+		artifactexistence_artifactfailure_mechanicalfailure	MechanicalArtifact*:COM|VEH|WEA, Instrument*:COM|WEA, Place*:FAC|LOC|GPE
+	!contamination
+		artifactexistence_contamination_unspecified	Agent*:PER|ORG|GPE|SID|<EVENT>, Thing_Contaminated*:BOD|FAC|COM|NAT|VEH|WEA, Contaminant*:COM|NAT|PTH|BOD, Place*:FAC|LOC|GPE
+	!creation
+		artifactexistence_creation_unspecified	Creator*:PER|ORG|GPE|SID|<EVENT>, Thing_Created*:ABS|FAC|COM|VEH|WEA|PTH|INF, Components_Material*:COM|NAT, Place*:FAC|LOC|GPE
+	!damagedestroydisabledismantle
+		artifactexistence_damagedestroydisabledismantle_damage	Damager*:PER|ORG|GPE|SID, Artifact*:BAL|COM|FAC|LOC|MON|VEH|WEA, Instrument*:COM|VEH|WEA, Place*:FAC|LOC|GPE
+		artifactexistence_damagedestroydisabledismantle_destroy	Destroyer*:PER|ORG|GPE|SID, Artifact*:BAL|COM|FAC|LOC|MON|VEH|WEA, Instrument*:COM|VEH|WEA, Place*:FAC|LOC|GPE
+		artifactexistence_damagedestroydisabledismantle_disabledefuse	Disabler*:PER|ORG|GPE|SID, Artifact*:ABS|COM|FAC|VEH|WEA, Instrument*:ABS|COM|VEH|WEA, Place*:FAC|LOC|GPE
+		artifactexistence_damagedestroydisabledismantle_dismantle	Dismantler*:PER|ORG|GPE|SID, Artifact*:COM|FAC|VEH|WEA, Instrument*:COM|VEH, Components*:COM
+		artifactexistence_damagedestroydisabledismantle_unspecified	DamagerDestroyer*:PER|ORG|GPE|SID, Artifact*:BAL|COM|FAC|LOC|MON|NAT|PTH|VEH|WEA, Instrument*:COM|VEH|WEA, Place*:FAC|LOC|GPE
+	!manufactureassemble
+		artifactexistence_manufactureassemble_unspecified	ManufacturerAssembler*:PER|ORG|GPE|SID, Artifact*:COM, Components*:COM|VEH|WEA|PTH, Instrument*:COM|VEH|WEA|FAC
+	!shortage
+		artifactexistence_shortage_shortage	Experiencer*:PER|ORG|GPE|SID, Supply*:BAL|COM|FAC|MON|VEH|WEA, Place*:LOC|GPE|FAC
+!cognitive
+	!identifycategorize
+		cognitive_identifycategorize_unspecified	Identifier*:PER|ORG|GPE|SID, IdentifiedObject*:<EVENT>|PER|ORG|BAL|COM|FAC|LOC|MON|VEH|WEA|AML|BOD|NAT|PLA|PTH, IdentifiedRole*:<EVENT>|PER|ORG|BAL|COM|FAC|LOC|MON|VEH|WEA|AML|BOD|NAT|PLA|PTH, Place*:LOC|GPE|FAC
+	!inspection
+		cognitive_inspection_assesstestmeasure	Assessor*:PER|ORG|GPE|SID, Assessed*:PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|MHI, Thing_Assessed_for*:MHI|NAT|PTH, Result*:VAL
+		cognitive_inspection_sensoryobserve	Observer*:PER|ORG|GPE|SID, ObservedEntity*:PER|ORG|GPE|SID|COM|VEH|WEA|FAC|BAL|MON|MHI|AML|BOD|NAT|PLA|PTH|<EVENT>, Instrument*:COM, Place*:LOC|GPE|FAC
+	!research
+		cognitive_research_unspecified	Researcher*:PER|ORG|GPE|SID, Subject*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF|ABS|AML|BOD|NAT|PLA|PTH, Means*:<EVENT>|ABS|INF|COM, Place*:LOC|GPE|FAC
+	!teachingtraininglearning
+		cognitive_teachingtraininglearning_unspecified	TeacherTrainer*:PER|ORG|AML, FieldOfKnowledge*:INF, Learner*:PER|ORG|COM|AML|ABS, Means*:COM|ABS|INF
+!conflict
+	!attack
+		conflict_attack_airstrikemissilestrike	Attacker*:PER|ORG|GPE|SID, Target*:LOC|GPE|FAC|PER|COM|VEH|WEA|SID, Instrument*:COM|VEH|WEA, Place*:LOC|GPE|FAC
+		conflict_attack_biologicalchemicalpoisonattack	Attacker*:PER|ORG|GPE|SID, Target*:LOC|GPE|FAC|PER|COM|VEH|WEA|SID, Instrument*:COM|VEH|WEA, Place*:LOC|GPE|FAC
+		conflict_attack_detonateexplode	Attacker*:PER|ORG|GPE|SID, Target*:LOC|GPE|FAC|PER|COM|VEH|WEA|SID|AML|PLA|NAT, Instrument*:WEA|COM, ExplosiveDevice*:WEA|COM
+		conflict_attack_firearmattack	Attacker*:PER|ORG|GPE|SID, Target*:LOC|GPE|FAC|PER|COM|VEH|WEA|SID, Instrument*:COM|VEH|WEA, Place*:LOC|GPE|FAC
+		conflict_attack_hanging	Attacker*:PER|ORG|GPE|SID, Target*:PER, Instrument*:COM|VEH|WEA, Place*:LOC|GPE|FAC
+		conflict_attack_invade	Attacker*:PER|ORG|GPE|SID, Target*:LOC|GPE|FAC|PER|COM|VEH|WEA|SID, Instrument*:COM|VEH|WEA, Place*:LOC|GPE|FAC
+		conflict_attack_selfdirectedbattle	Attacker*:PER|ORG|GPE|SID, Target*:LOC|GPE|FAC|PER|COM|VEH|WEA|SID, Instrument*:COM|VEH|WEA, Place*:LOC|GPE|FAC
+		conflict_attack_setfire	Attacker*:PER|ORG|GPE|SID, Target*:LOC|GPE|FAC|PER|COM|VEH|WEA|SID, Instrument*:COM|VEH|WEA, Place*:LOC|GPE|FAC
+		conflict_attack_stabbing	Attacker*:PER|ORG|GPE|SID, Target*:PER, Instrument*:COM|VEH|WEA, Place*:LOC|GPE|FAC
+		conflict_attack_stealrobhijack	Attacker*:PER|ORG|GPE|SID, Target*:LOC|GPE|FAC|PER|COM|VEH|WEA|SID, Instrument*:COM|VEH|WEA, Place*:LOC|GPE|FAC
+		conflict_attack_stealrobhijack-hijack	Attacker*:PER|ORG|GPE|SID, Target*:LOC|GPE|FAC|PER|COM|VEH|WEA|SID, Instrument*:COM|VEH|WEA, Place*:LOC|GPE|FAC
+		conflict_attack_stealrobhijack-rob	Attacker*:PER|ORG|GPE|SID, Target*:LOC|GPE|FAC|PER|COM|VEH|WEA|SID, Instrument*:COM|VEH|WEA, Place*:LOC|GPE|FAC
+		conflict_attack_stealrobhijack-steal	Attacker*:PER|ORG|GPE|SID, Target*:LOC|GPE|FAC|PER|COM|VEH|WEA|SID, Instrument*:COM|VEH|WEA, Place*:LOC|GPE|FAC
+		conflict_attack_strangling	Attacker*:PER|ORG|GPE|SID, Target*:PER, Instrument*:COM|VEH|WEA, Place*:LOC|GPE|FAC
+		conflict_attack_unspecified	Attacker*:PER|ORG|GPE|SID, Target*:LOC|GPE|FAC|PER|COM|VEH|WEA|SID, Instrument*:COM|VEH|WEA, Place*:LOC|GPE|FAC
+	!coup
+		conflict_coup_coup	DeposingEntity*:PER|ORG|GPE|SID, DeposedEntity*:PER|ORG, Place*:LOC|GPE|FAC
+	!defeat
+		conflict_defeat_unspecified	Victor*:PER|ORG|GPE|SID|AML, Defeated*:PER|ORG|GPE|SID|AML, ConflictOrElection*:<EVENT>, Place*:LOC|GPE|FAC
+	!demonstrate
+		conflict_demonstrate_demonstratewithviolence	Demonstrator*:PER|ORG|SID, Regulator*:PER|ORG, VisualDisplay*:COM, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF|ABS|AML|BOD|NAT|PLA|PTH
+		conflict_demonstrate_marchprotestpoliticalgathering	Demonstrator*:PER|ORG|SID, Place*:LOC|GPE|FAC
+		conflict_demonstrate_unspecified	Demonstrator*:PER|ORG|SID, Place*:LOC|GPE|FAC
+	!yield
+		conflict_yield_retreat	Retreater*:PER|ORG|GPE|SID, Origin*:LOC|GPE|FAC|PER|COM|VEH|WEA|SID, Destination*:LOC|GPE|FAC
+		conflict_yield_surrender	Surrenderer*:PER|ORG|GPE|SID, Recipient*:LOC|GPE|FAC|PER|COM|VEH|WEA|SID, Place*:LOC|GPE|FAC
+		conflict_yield_unspecified	Yielder*:PER|ORG|GPE|SID, Recipient*:LOC|GPE|FAC|PER|COM|VEH|WEA|SID, Place*:LOC|GPE|FAC
+!contact_
+	!collaborate
+		contact_collaborate_correspondence	Participant*:PER|ORG|GPE|SID, Participant1?:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC
+		contact_collaborate_meet	Participant*:PER|ORG|GPE|SID, Participant1?:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC
+		contact_collaborate_unspecified	Participant*:PER|ORG|GPE|SID, Participant1?:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC
+	!commitmentpromiseexpressintent
+		contact_commitmentpromiseexpressintent_broadcast	Communicator*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF
+		contact_commitmentpromiseexpressintent_correspondence	Communicator*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF
+		contact_commitmentpromiseexpressintent_meet	Communicator*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF
+		contact_commitmentpromiseexpressintent_unspecified	Communicator*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF
+	!contact
+		contact_contact_broadcast	Communicator*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, Instrument*:ABS|COM, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF|ABS|AML|BOD|NAT|PLA|PTH
+		contact_contact_correspondence	Participant*:PER|ORG|GPE|SID, Participant1?:PER|ORG|GPE|SID, Instrument*:ABS|COM, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF|ABS|AML|BOD|NAT|PLA|PTH
+		contact_contact_meet	Participant*:PER|ORG|GPE|SID, Participant1?:PER|ORG|GPE|SID, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF|ABS|AML|BOD|NAT|PLA|PTH, Place*:LOC|GPE|FAC
+		contact_contact_unspecified	Participant*:PER|ORG|GPE|SID, Participant1?:PER|ORG|GPE|SID, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF|ABS|AML|BOD|NAT|PLA|PTH, Place*:LOC|GPE|FAC
+	!discussion
+		contact_discussion_correspondence	Participant*:PER|ORG|GPE|SID, Participant1?:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC
+		contact_discussion_meet	Participant*:PER|ORG|GPE|SID, Participant1?:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC
+		contact_discussion_unspecified	Participant*:PER|ORG|GPE|SID, Participant1?:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC
+	!funeralvigil
+		contact_funeralvigil_meet	Participant*:PER|ORG|GPE|SID, Participant1?:PER|ORG|GPE|SID, Deceased*:PER, Place*:LOC|GPE|FAC
+		contact_funeralvigil_unspecified	Participant*:PER|ORG|GPE|SID, Participant1?:PER|ORG|GPE|SID, Deceased*:PER, Place*:LOC|GPE|FAC
+	!mediastatement
+		contact_mediastatement_broadcast	Communicator*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC
+		contact_mediastatement_unspecified	Communicator*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC
+	!negotiate
+		contact_negotiate_correspondence	Participant*:PER|ORG|GPE|SID, Participant1?:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF
+		contact_negotiate_meet	Participant*:PER|ORG|GPE|SID, Participant1?:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF
+		contact_negotiate_unspecified	Participant*:PER|ORG|GPE|SID, Participant1?:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF
+	!prevarication
+		contact_prevarication_broadcast	Communicator*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF
+		contact_prevarication_correspondence	Communicator*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF
+		contact_prevarication_meet	Communicator*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF
+		contact_prevarication_unspecified	Communicator*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF
+	!publicstatementinperson
+		contact_publicstatementinperson_broadcast	Communicator*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC
+		contact_publicstatementinperson_unspecified	Communicator*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC
+	!requestcommand
+		contact_requestcommand_broadcast	Communicator*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF
+		contact_requestcommand_correspondence	Communicator*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF
+		contact_requestcommand_meet	Communicator*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF
+		contact_requestcommand_unspecified	Communicator*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF
+		contact_requestcommand_unspecified-command	Communicator*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF
+		contact_requestcommand_unspecified-request	Communicator*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF
+	!threatencoerce
+		contact_threatencoerce_broadcast	Communicator*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF
+		contact_threatencoerce_correspondence	Communicator*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF
+		contact_threatencoerce_meet	Communicator*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF
+		contact_threatencoerce_unspecified	Communicator*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF
+		contact_threatencoerce_unspecified-coerce	Communicator*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF
+		contact_threatencoerce_unspecified-threat	Communicator*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC, Topic*:<EVENT>|PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|LAW|RES|VAL|MHI|INF
+!control
+	!impedeinterferewith
+		control_impedeinterferewith_prevent	Preventer*:PER|ORG|GPE|SID|<EVENT>, Prevented_Thing*:<EVENT>|MHI, Place*:LOC|GPE|FAC
+		control_impedeinterferewith_unspecified	Impeder*:PER|ORG|GPE|SID, ImpededEvent*:<EVENT>, Place*:LOC|GPE|FAC
+!disaster
+	!crash
+		disaster_crash_unspecified	DriverPassenger*:PER, Vehicle*:VEH, CrashObject*:AML|COM|FAC|LOC|PER|VEH|WEA, Place*:LOC|GPE|FAC
+	!diseaseoutbreak
+		disaster_diseaseoutbreak_unspecified	Disease*:MHI, Victim*:PER|ORG|SID, Place*:LOC|GPE|FAC|VEH
+	!fireexplosion
+		disaster_fireexplosion_unspecified	FireExplosionObject*:BAL|VEH|WEA|FAC|LOC|COM, Instrument*:COM|VEH|WEA|FAC, Place*:LOC|GPE|FAC|VEH
+		disaster_fireexplosion_unspecified-explosion	FireExplosionObject*:BAL|VEH|WEA|FAC|LOC|COM, Instrument*:COM|VEH|WEA|FAC, Place*:LOC|GPE|FAC|VEH
+		disaster_fireexplosion_unspecified-fire	FireExplosionObject*:BAL|VEH|WEA|FAC|LOC|COM, Instrument*:COM|VEH|WEA|FAC, Place*:LOC|GPE|FAC|VEH
+!genericcrime_
+	!genericcrime
+		genericcrime_genericcrime_genericcrime	Perpetrator*:PER|ORG|GPE|SID, Victim*:PER|ORG|GPE|SID|AML, Place*:LOC|GPE|FAC|VEH
+!government
+	!agreements
+		government_agreements_acceptagreementcontractceasefire-acceptance	Participant*:GPE|SID, Participant1?:GPE|SID, Place*:LOC|GPE|FAC
+		government_agreements_acceptagreementcontractceasefire-ceasefire	Participant*:GPE|SID, Participant1?:GPE|SID, Place*:LOC|GPE|FAC
+		government_agreements_rejectnullifyagreementcontractceasefire	RejecterNullifier*:GPE|SID, OtherParticipant*:GPE|SID, Place*:LOC|GPE|FAC
+		government_agreements_unspecified	Participant*:GPE|SID, Participant1?:GPE|SID, Place*:LOC|GPE|FAC
+		government_agreements_violateagreement	Violator*:GPE|SID, OtherParticipant*:GPE|SID, Place*:LOC|GPE|FAC
+	!convene
+		government_convene_convene	Convener*:PER|ORG|GPE|SID, ConvenedThing*:ORG, Place*:LOC|GPE|FAC
+	!formation
+		government_formation_mergegpe	Participant*:GPE, Participant1?:GPE, Place*:LOC|GPE|FAC
+		government_formation_startgpe	GPE*:GPE, Founder*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC
+		government_formation_unspecified	GPE*:GPE, Founder*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC
+	!legislate
+		government_legislate_legislate	GovernmentBody*:ORG, Law*:LAW, Place*:LOC|GPE|FAC
+	!spy
+		government_spy_spy	Spy*:PER|ORG|GPE|SID, ObservedEntity*:PER|ORG|GPE|SID, Beneficiary*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC
+	!vote
+		government_vote_castvote	Voter*:PER, Candidate*:LAW|PER|SID, Ballot*:BAL, Result*:RES
+		government_vote_unspecified	Voter*:PER|SID, Candidate*:LAW|PER|SID, Ballot*:BAL, Result*:RES
+		government_vote_violationspreventvote-voter-suppression	Preventer*:PER|ORG|GPE|SID, Voter*:PER, Candidate*:LAW|PER|SID, Ballot*:BAL
+!inspection_
+	!targetaimat
+		inspection_targetaimat_targetaimat	Targeter*:PER|ORG|GPE|SID, Target1?:BAL|COM|FAC|GPE|LOC|ORG|PER|SID|VEH|WEA|MON, Instrument*:WEA|VEH|COM, Place*:LOC|GPE|FAC
+!justice
+	!acquit
+		justice_acquit_unspecified	JudgeCourt*:PER|ORG|GPE|SID, Defendant*:PER|ORG|GPE|SID, Crime*:<EVENT>, Place*:LOC|GPE|FAC
+	!arrestjaildetain
+		justice_arrestjaildetain_unspecified	Jailer*:PER|ORG|GPE|SID, Detainee*:PER, Crime*:<EVENT>, Place*:LOC|GPE|FAC
+	!initiatejudicialprocess
+		justice_initiatejudicialprocess_chargeindict	Prosecutor*:PER|ORG|GPE|SID, Defendant*:PER|ORG|GPE|SID, JudgeCourt*:PER|ORG|GPE|SID, Crime*:<EVENT>
+		justice_initiatejudicialprocess_trialhearing	Prosecutor*:PER|ORG|GPE|SID, Defendant*:PER|ORG|GPE|SID, JudgeCourt*:PER|ORG|GPE|SID, Crime*:<EVENT>
+		justice_initiatejudicialprocess_trialhearing-hearing	Prosecutor*:PER|ORG|GPE|SID, Defendant*:PER|ORG|GPE|SID, JudgeCourt*:PER|ORG|GPE|SID, Crime*:<EVENT>
+		justice_initiatejudicialprocess_trialhearing-trial	Prosecutor*:PER|ORG|GPE|SID, Defendant*:PER|ORG|GPE|SID, JudgeCourt*:PER|ORG|GPE|SID, Crime*:<EVENT>
+		justice_initiatejudicialprocess_unspecified	Prosecutor*:PER|ORG|GPE|SID, Defendant*:PER|ORG|GPE|SID, JudgeCourt*:PER|ORG|GPE|SID, Crime*:<EVENT>
+	!investigate
+		justice_investigate_investigatecrime	Investigator*:PER|ORG|GPE|SID, Defendant*:PER|ORG|GPE|SID, Crime*:<EVENT>, Place*:LOC|GPE|FAC
+		justice_investigate_unspecified	Investigator*:PER|ORG|GPE|SID, Defendant*:PER|ORG|GPE|SID, Crime*:<EVENT>, Place*:LOC|GPE|FAC
+	!judicialconsequences
+		justice_judicialconsequences_convict	JudgeCourt*:PER|ORG|GPE|SID, Defendant*:PER|ORG|GPE|SID, Crime*:<EVENT>, Place*:LOC|GPE|FAC
+		justice_judicialconsequences_execute	Executioner*:PER|ORG|GPE|SID, Defendant*:PER, Crime*:<EVENT>, Place*:LOC|GPE|FAC
+		justice_judicialconsequences_extradite	Extraditer*:PER|ORG|GPE|SID, Defendant*:PER, Crime*:<EVENT>, Origin*:<ALL>
+		justice_judicialconsequences_unspecified	JudgeCourt*:PER|ORG|GPE|SID, Defendant*:PER|ORG|GPE|SID, Crime*:<EVENT>, Place*:LOC|GPE|FAC
+	!releaseparole
+		justice_releaseparole_unspecified	JudgeCourt*:PER|ORG|GPE|SID, Defendant*:PER|ORG|GPE|SID, Crime*:<EVENT>, Place*:LOC|GPE|FAC
+	!sentence
+		justice_sentence_unspecified	JudgeCourt*:PER|ORG|GPE|SID, Defendant*:PER|ORG|GPE|SID, Crime*:<EVENT>, Sentence*:SEN
+!life
+	!consume
+		life_consume_unspecified	ConsumingEntity*:PER|AML, ConsumedThing*:COM, Place*:LOC|GPE|FAC
+	!die
+		life_die_deathcausedbyviolentevents	Killer*:PER|ORG|GPE|SID, Victim*:PER, Instrument*:BAL|COM|VEH|WEA|FAC|MON, Place*:LOC|GPE|FAC
+		life_die_nonviolentdeath	Killer*:PER|ORG|GPE|SID, Victim*:PER, MedicalIssue*:MHI, Place*:LOC|GPE|FAC
+		life_die_unspecified	Killer*:PER|ORG|GPE|SID, Victim*:PER, MedicalIssue*:MHI, Place*:LOC|GPE|FAC
+	!illness
+		life_illness_unspecified	Injurer*:PER|ORG|GPE|SID, Victim*:PER, Disease*:MHI, Place*:LOC|GPE|FAC
+	!infect
+		life_infect_unspecified	Victim*:PER|AML, InfectingAgent*:PTH, Source*:PER|ORG|GPE|SID|LOC|FAC|VEH|WEA|COM|BAL|MON|MHI|AML|BOD|NAT|PLA|PTH, Place*:LOC|GPE|FAC
+	!injure
+		life_injure_unspecified	Injurer*:PER|ORG|GPE|SID, Victim*:PER, MedicalIssue*:MHI, Place*:LOC|GPE|FAC
+	!mutate
+		life_mutate_unspecified	Thing_Mutating*:BOD|PTH, End_State*:BOD|PTH, Place*:LOC|GPE|FAC
+!medical
+	!diagnosis
+		medical_diagnosis_unspecified	Treater*:PER|ORG|GPE|SID, Patient*:PER|AML, SymptomSign*:MHI, MedicalCondition*:MHI
+	!intervention
+		medical_intervention_cure	Treater*:PER|ORG|GPE|SID, Patient*:PER, MedicalIssue*:MHI, Instrument*:COM, Place*:LOC|GPE|FAC
+		medical_intervention_unspecified	Treater*:PER|ORG|GPE|SID, Patient*:PER|AML, MedicalIssue*:MHI, Instrument*:COM
+	!vaccinate
+		medical_vaccinate_unspecified	Treater*:PER|ORG|GPE|SID, Patient*:PER|AML, VaccineTarget*:MHI, VaccineMethod*:COM
+!movement
+	!transportation
+		movement_transportation_evacuation	Transporter*:PER|ORG|GPE|SID, Passenger*:PER, Vehicle*:VEH, Origin*:LOC|GPE|FAC
+		movement_transportation_grantallowpassage	Transporter*:PER|ORG|GPE|SID, PassengerArtifact*:PER|BAL|COM|FAC|LOC|MON|VEH|WEA|AML|PTH|PLA|BOD|NAT, Vehicle*:VEH, Granter*:PER|ORG|GPE|SID
+		movement_transportation_illegaltransportation-illegal-migration	Transporter*:PER|ORG|GPE|SID, Passenger*:PER, Vehicle*:VEH, Origin*:LOC|GPE|FAC
+		movement_transportation_illegaltransportation-smuggling	Transporter*:PER|ORG|GPE|SID, Artifact*:BAL|COM|FAC|LOC|MON|VEH|WEA, Vehicle*:VEH, Origin*:LOC|GPE|FAC
+		movement_transportation_unspecified	Transporter*:PER|ORG|GPE|SID, PassengerArtifact*:PER|BAL|COM|FAC|LOC|MON|VEH|WEA|AML|PTH|PLA|BOD|NAT, Vehicle*:VEH, Origin*:LOC|GPE|FAC|COM|VEH
+		movement_transportation_unspecified-transport	Transporter*:PER|ORG|GPE|SID, PassengerArtifact*:PER|BAL|COM|FAC|LOC|MON|VEH|WEA|AML|PTH|PLA|BOD|NAT, Vehicle*:VEH, Origin*:LOC|GPE|FAC|COM|VEH
+		movement_transportation_unspecified-travel	Transporter*:PER|ORG|GPE|SID, Passenger*:PER, Vehicle*:VEH, Origin*:LOC|GPE|FAC
+!personnel
+	!changeposition
+		personnel_changeposition_changejoblocation	Employee*:PER, PlaceOfEmployment*:GPE|ORG, PreviousOrgLocation*:LOC|GPE, NewOrgLocation*:LOC|GPE
+		personnel_changeposition_demotion	Employee*:PER, PlaceOfEmployment*:GPE|ORG, PreviousPosition*:TTL, NewPosition*:TTL
+		personnel_changeposition_lateral	Employee*:PER, PlaceOfEmployment*:GPE|ORG, PreviousPosition*:TTL, NewPosition*:TTL
+		personnel_changeposition_promotion	Employee*:PER, PlaceOfEmployment*:GPE|ORG, PreviousPosition*:TTL, NewPosition*:TTL
+		personnel_changeposition_unspecified	Employee*:PER, PlaceOfEmployment*:GPE|ORG, PreviousPosition*:<ALL>, NewPosition*:<ALL>
+	!elect
+		personnel_elect_unspecified	Voter*:PER|SID, Candidate*:PER, Place*:LOC|GPE|FAC
+		personnel_elect_winelection	Voter*:PER|SID, Candidate*:PER, Place*:LOC|GPE|FAC
+	!endposition
+		personnel_endposition_firinglayoff	Employee*:PER, PlaceOfEmployment*:GPE|ORG, Place1?:LOC|GPE|FAC
+		personnel_endposition_quitretire	Employee*:PER, PlaceOfEmployment*:GPE|ORG, Place1?:LOC|GPE|FAC
+		personnel_endposition_unspecified	Employee*:PER, PlaceOfEmployment*:GPE|ORG, Place1?:LOC|GPE|FAC
+	!startposition
+		personnel_startposition_hiring	Employee*:PER, PlaceOfEmployment*:GPE|ORG, Place1?:LOC|GPE|FAC
+		personnel_startposition_unspecified	Employee*:PER, PlaceOfEmployment*:GPE|ORG, Position*:<ALL>, Place1?:LOC|GPE|FAC
+!socialbehavior
+	!clean
+		socialbehavior_clean_sanitize	Agent*:PER|ORG|GPE|SID, Sanitized_Object*:FAC|COM|VEH|WEA, Sanitizing_Agent*:COM|NAT, Pathogen*:PTH
+		socialbehavior_clean_wash	Washer*:PER|ORG|GPE|SID, Thing_Washed*:PER|BOD|NAT|COM|VEH|WEA, Cleansing_Agent*:COM|NAT, Place*:LOC|GPE|FAC
+	!complyobey
+		socialbehavior_complyobey_unspecified	Complier*:PER|ORG|GPE|SID, Rule*:<EVENT>|LAW, Place*:LOC|GPE|FAC
+	!wear
+		socialbehavior_wear_wear	Wearer*:PER, Thing_worn*:COM, Body_Location*:BOD, Place*:LOC|GPE|FAC
+!transaction
+	!aidbetweengovernments
+		transaction_aidbetweengovernments_unspecified	Giver*:GPE, Recipient*:GPE, Beneficiary*:PER|ORG|GPE|SID, ArtifactMoney*:MON|COM|BAL|FAC|VEH|WEA|AML|PLA|NAT|ABS|BOD
+	!donation
+		transaction_donation_unspecified	Giver*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, Beneficiary*:PER|ORG|GPE|SID, Place*:LOC|GPE|FAC
+	!exchangebuysell
+		transaction_exchangebuysell_unspecified	Giver*:PER|ORG|GPE|SID, Recipient*:PER|ORG|GPE|SID, AcquiredEntity*:BAL|COM|GPE|FAC|LOC|MON|ORG|VEH|WEA|ABS|AML|NAT|PLA|PTH, PaymentBarter*:BAL|COM|GPE|FAC|LOC|MON|ORG|VEH|WEA|ABS|AML|NAT|PLA|PTH

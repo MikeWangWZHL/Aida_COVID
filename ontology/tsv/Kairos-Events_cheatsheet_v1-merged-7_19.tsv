@@ -1,0 +1,612 @@
+	LDC Tag - WD Q-name	LDC code - PB	A0	A1	A2	A3	A4	
+LDC	artifactexistence.creation.unspecified	NEW	Creator = per, org, gpe, sid, event	Thing Created = abs, fac, com, veh, wea, pth, inf	Components/Material = com, nat	Place = fac, loc, gpe		
+xpo	creation_Q11398090	create.01	A0-pag_Agent_creator = +organism_Q7239 | +machine_Q11019 | +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_Result_thing_created = +abstract_object_Q7184903 | +artificial_physical_object_Q8205328	A2-vsp_Material_materials_used = None	AM-LOC		
+Comments								
+								
+LDC	artifactexistence.artifactfailure.mechanicalfailure	LDC_evt_152	MechanicalArtifact = com, veh, wea	Instrument = com, wea	Place  = fac, loc, gpe			
+xpo	breakdown_Q28777323	break_down.12	A1-PPT_Patient_thing_broken_down = +physical_object_Q223557	A0-PAG_Agent_cause_of_breaking = +organism_Q7239 | +machine_Q11019	AM-LOC			
+Comments								
+								
+LDC	artifactexistence.damagedestroydisabledismantle.damage	LDC_evt_002	Damager = per, org, gpe, sid	Artifact = bal, com, fac, loc, mon, veh, wea	Instrument = com, veh, wea	Place = fac, loc, gpe		
+xpo	damage_Q481609	damage.01	A0-pag_agent_agent_causer = +organism_Q7239 | +person_Q215627 | +machine_Q11019 | +group_of_humans_Q16334295	A1-ppt_patient_entity damaged = +concrete_object_Q4406616	A2-mnr_instrument_instrument = +concrete_object_Q4406616	AM-LOC		
+Comments								
+								
+LDC	artifactexistence.damagedestroydisabledismantle.destroy	LDC_evt_003	Destroyer = per, org, gpe, sid	Artifact = bal, com, fac, loc, mon, veh, wea	Instrument = com, veh, wea	Place = fac, loc, gpe		
+xpo	destruction_Q17781833	annihilate.01, destroy.01, destruct.01	A0-pag_agent_destroyer = +organism_Q7239 | +person_Q215627 | +machine_Q11019 | +group_of_humans_Q16334295 | +health_problem_Q2057971	A1-ppt_patient_thing destroyed = +concrete_object_Q4406616 | +organism_Q7239 | +person_Q215627	A2-mnr_instrument_instrument of destruction = +concrete_object_Q4406616	AM-LOC		
+Comments								
+								
+LDC	artifactexistence.damagedestroydisabledismantle.disabledefuse	LDC_KAIROS_evt_003	Disabler = per, org, gpe, sid	Artifact = abs, com, fac, veh, wea	Instrument = abs, com, veh, wea	Place = fac, loc, gpe		
+xpo	bomb_disposal_Q649416	disable.01, defuse.01	A0-pag_agent_defuser = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_patient_bomb = +bomb_Q127197 | +concrete_object_Q4406616 | +abstract_object_Q7184903	AM-MNR	AM-LOC		
+Comments	Nothing in WD, maybe bomb_disposal_Q649416							
+								
+LDC	artifactexistence.damagedestroydisabledismantle.dismantle	LDC_KAIROS_evt_004	Dismantler = per, org, gpe, sid	Artifact = com, fac, veh, wea	Instrument = com, veh	Components = com	Place = fac, loc, gpe	
+xpo	disassembly_Q52161698	disassemble.01, dismantle.01	A0-pag_agent_agent = +organism_Q7239 | +person_Q215627 | +machine_Q11019 | +group_of_humans_Q16334295	A1-ppt_patient_thing_disassembled = +concrete_object_Q4406616 | +physical_object_Q223557	AM-MNR		AM-LOC	
+Comments								
+								
+LDC	artifactexistence.damagedestroydisabledismantle.unspecified	LDC_KAIROS_evt_005	DamagerDestroyer = per, org, gpe, sid	Artifact = bal, com, fac, loc, mon, nat, pth, veh, wea	Instrument = com, veh, wea	Place = fac, loc, gpe		
+xpo	damage_Q481609 | destruction_Q17781833 | disassembly_Q52161698		A0-pag_agent_xx = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_patient_xx = +concrete_object_Q4406616 | +physical_object_Q223557 | geographic_entity_Q27096213	AM-MNR	AM-LOC		
+Comments	Each has its own frame, but the numbered arguments, function tags, and VN thematic roles are the same. So we can ignore PB descriptions. But what to do with selectional restrictions?							
+								
+LDC	artifactexistence.manufactureassemble.unspecified	LDC_evt_096	ManufacturerAssembler = per, org, gpe, sid	Artifact = com	Components = com, veh, wea, pth	Instrument = com, veh, wea, fac	Place = loc, gpe, fac	
+xpo	assembly_Q3625549 | manufacturing_Q187939	assemble.01, manufacture.01	A0-pag_agent_creator = +organism_Q7239 | +machine_Q11019 | +person_Q215627 | +group_of_humans_Q16334295	A1-prd_result_creation = +artificial_physical_object_Q8205328	A2-vsp_material_created-from_thing_changed = None	AM-MNR	AM-LOC	
+Comments	same as AIDA manufacture.artifact.artifact							
+								
+LDC	artifactexistence.contamination.unspecified	NEW	Agent = per, org, gpe, sid, event	Thing Contaminated = bod, fac, com, nat, veh, wea	Contaminant = com, nat, pth, bod	Place = fac, loc, gpe		
+xpo	contamination_Q60528603	contaminate.01	A0-pag_agent_causer_of_contamination = +organism_Q7239 | +person_Q215627 | +group_of_humans_Q16334295	A1-gol_Destination_thing_becoming_contaminated = +geographic_entity_Q27096213 | +concrete_object_Q4406616 	A2-ppt_theme_contaminant = +concrete_object_Q4406616	AM-LOC		
+Comments	NEW EVENT, No LDC Argument yet							
+								
+LDC	artifactexistence.shortage.shortage	LDC_evt_149	Experiencer = per, org, gpe, sid	Supply  = bal, com, fac, mon, veh, wea	Place  = loc, gpe, fac			
+xpo	scarcity_Q815758	provide.01	A2-gol_Recipient_xx = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_Theme_xx = None	AM-LOC			
+Comments	There is nothing in PB that is similar to scarcity	CU used provide, as this is the negation of provide, so the arg roles should be the same, only with different descriptions. What would be the SelRes?						
+								
+LDC	cognitive.identifycategorize.unspecified	LDC_KAIROS_evt_007	Identifier = per, org, gpe, sid	IdentifiedObject = event, per, org, bal, com, fac, loc, mon, veh, wea, aml, bod, nat, pla, pth	IdentifiedRole = event, per, org, bal, com, fac, loc, mon, veh, wea, aml, bod, nat, pla, pth	Place  = loc, gpe, fac		
+xpo	identification_Q3265221	identify.01	A0-pag_agent_caller = +organism_Q7239 | +person_Q215627 | +organization_Q43229	A1-ppt_theme_item_being_labelled = +concrete_object_Q4406616 | +organization_Q43229 | ???	A2-prd_attribute_attribute = None	AM-LOC		
+Comments								
+								
+LDC	cognitive.inspection.sensoryobserve	LDC_KAIROS_evt_008	Observer = per, org, gpe, sid	ObservedEntity = per, org, gpe, sid, com, veh, wea, fac, bal, mon, mhi, aml, bod, nat, pla, pth, event	Instrument = com	Place  = loc, gpe, fac		
+xpo	observation_Q193181	observe.01, watch.01, inspect.01	A0-ppt_experiencer_observer = +organism_Q7239 | +person_Q215627 | +group_of_humans_Q16334295	A1-pag_stimulus_thing_looked_at = None	AM-MNR	AM-LOC		
+Comments								
+								
+LDC	inspection.targetaimat.targetaimat	LDC_evt_153	Targeter = per, org, gpe, sid	Target = bal, com, fac, gpe, loc, org, per, sid, veh, wea, mon	Instrument = wea, veh, com	Place = loc, gpe, fac		
+xpo	targeting_Q7685924	target.01	A0-pag_agent_targeter = +organism_Q7239 | +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_theme_thing_aimed_at = None	A2-mnr_Instrument_instrument = None	AM-LOC		
+Comments								
+								
+LDC	cognitive.inspection.assesstestmeasure	NEW	Assessor = per, org, gpe, sid	Assessed = per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, mhi	Thing Assessed for = mhi, nat, pth	Result = val	Place = loc, gpe, fac	
+xpo	estimation_process_Q791801	approximate.01, estimate.01	A0-pag_agent_estimator = +person_Q215627 | +group_of_humans_Q16334295 | +device_Q1183543	A1-ppt_theme_thing_estimated = +concrete_object_Q4406616 | +physical_object_Q223557 | ???		A2-PRD_value_estimated-to-be = ???	AM-LOC	
+Comments								
+								
+LDC	cognitive.research.unspecified	LDC_KAIROS_evt_009	Researcher = per, org, gpe, sid	Subject = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf, abs, aml, bod, nat, pla, pth	Means = event, abs, inf, com	Place = loc, gpe, fac		
+xpo	research_Q42240	research.01	A0-pag_agent_student = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_theme_subject = None	AM-MNR	AM-LOC		
+Comments								
+								
+LDC	cognitive.teachingtraininglearning.unspecified	LDC_KAIROS_evt_010	TeacherTrainer = per, org, aml	FieldOfKnowledge = inf	Learner = per, org, com, aml, abs	Means = com, abs, inf	Institution = org	Place = loc, gpe, fac
+xpo	education_Q8434	educate.01, train.01	A0-pag_agent_teacher = +organism_Q7239 | +person_Q215627 | +group_of_humans_Q16334295 | animal_Q729	A1-PPT_topic_subject = +information_Q11028 | +knowledge_Q9081	A2-gol_recipient_student = +person_Q215627 | +group_of_humans_Q16334295 | +organism_Q7239	AM-MNR		AM-LOC
+Comments								
+								
+LDC	conflict.attack.airstrikemissilestrike	LDC_evt_005	Attacker = per, org, gpe, sid	Target = loc, gpe, fac, per, com, veh, wea, sid	Instrument = com, veh, wea	Place = loc, gpe, fac		
+xpo	airstrike_Q2380335	airstrike.12, strike.01	A0-pag_agent_striker = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_patient_target_struck/attacked = None	A2-mnr_instrument_weapon = None	AM-LOC		
+Comments								
+								
+LDC	conflict.attack.biologicalchemicalpoisonattack	LDC_evt_006	Attacker = per, org, gpe, sid	Target = loc, gpe, fac, per, com, veh, wea, sid	Instrument = com, veh, wea	Place = loc, gpe, fac		
+xpo	biological_warfare_Q8242560 | chemical_warfare_Q483610	kill.01	A0-pag_agent_animate_volitional_hitter = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_patient_thing_hit = +person_Q215627 | +group_of_humans_Q16334295	A2-gol_instrument_instrument = +biological_weapon _Q170907 | +chemical_weapon_Q3639228	AM-LOC		
+Comments	There are no specific corresponding PB role sets	attack.01 is criticizing, not physical attack.						
+								
+LDC	conflict.attack.detonateexplode	LDC_KAIROS_evt_011	Attacker = per, org, gpe, sid	Target = loc, gpe, fac, per, com, veh, wea, sid, aml, pla, nat	Instrument = wea, com	ExplosiveDevice = wea, com	Place = loc, gpe, fac	
+xpo	bomb_attack_Q891854	bomb.01, detonate.01	A0-pag_agent_attacker = +person_Q215627 | +group_of_humans_Q16334295 | +organism_Q7239	A1-ppt_patient_entity_bombed = +physical_object_Q223557	AM-MNR	A1-ppt_patient_bomb = +physical_object_Q223557	AM-LOC	
+Comments	detonate.01 has ExplosiveDevice but not Target, bomb.01 the other way round. Can we take each from the roleset that has it?							
+								
+LDC	conflict.attack.firearmattack	LDC_evt_008	Attacker = per, org, gpe, sid	Target = loc, gpe, fac, per, com, veh, wea, sid	Instrument = com, veh, wea	Place = loc, gpe, fac		
+xpo	shooting_Q2252077	shoot.02	A0-pag_agent_shooter = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_patient_corpse = +organism_Q7239 | +person_Q215627	A2-mnr_instrument_gun = +weapon_Q728	AM-LOC		
+Comments								
+								
+LDC	conflict.attack.hanging	LDC_evt_009	Attacker = per, org, gpe, sid	Target = per	Instrument = com, veh, wea	Place = loc, gpe, fac		
+xpo	hanging_Q175111	hanging.07	A0-pag_agent_executioner = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_patient_corpse = +person_Q215627	AM-MNR	A2-loc_gallows = None		
+Comments								
+								
+LDC	conflict.attack.invade	LDC_evt_010	Attacker = per, org, gpe, sid	Target = loc, gpe, fac, per, com, veh, wea, sid	Instrument = com, veh, wea	Place = loc, gpe, fac		
+xpo	invasion_Q467011	invade.01	A0-pag_agent_invader = +person_Q215627 | +group_of_humans_Q16334295 | +organism_Q7239	A1-ppt_patient_place_invaded = +physical_object_Q223557 | +geographic_entity_Q27096213	AM-MNR	AM-LOC		
+Comments								
+								
+LDC	conflict.attack.selfdirectedbattle	LDC_evt_011	Attacker = per, org, gpe, sid	Target = loc, gpe, fac, per, com, veh, wea, sid	Instrument = com, veh, wea	Place = loc, gpe, fac		
+xpo	battle_Q178561	battle.01	A0-pag_agent_combatant = +organism_Q7239 | +person_Q215627 | +group_of_humans_Q16334295	A1-com_co-agent_fight_or_other_combatant = None	AM-MNR	AM-LOC		
+Comments								
+								
+LDC	conflict.attack.setfire	LDC_evt_012	Attacker = per, org, gpe, sid	Target = loc, gpe, fac, per, com, veh, wea, sid	Instrument = com, veh, wea	Place = loc, gpe, fac		
+xpo	arson_Q327541	arson.01	A0-pag_X_fire-setter = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_X_property_burned = None	AM-MNR	AM-LOC		
+Comments								
+								
+LDC	conflict.attack.stabbing	LDC_evt_013	Attacker = per, org, gpe, sid	Target = per	Instrument = com, veh, wea	Place = loc, gpe, fac		
+xpo	stabbing_Q464643	stab.01	A0-pag_agent_stabber = +machine_Q11019 | +person_Q215627 | +group_of_humans_Q16334295 | +artificial_physical_object_Q8205328	A1-ppt_patient_victim = +organism_Q7239 | +concrete_object_Q4406616	A2-mnr_instrument_sharp_implement = None	AM-LOC		
+Comments								
+								
+LDC	conflict.attack.stealrobhijack - steal	LDC_evt_014	Attacker = per, org, gpe, sid	Target = loc, gpe, fac, per, com, veh, wea, sid	Instrument = com, veh, wea	Place = loc, gpe, fac	Artifact = bal, com, fac, loc, mon, veh, wea	
+xpo	theft_Q2727213	steal.01	A0-pag_agent_thief = +organism_Q7239 | +person_Q215627 | +group_of_humans_Q16334295	A2-dir_source_stolen_from = +organization_Q43229 | +geographic_entity_Q27096213	AM-MNR	AM-LOC	A1-ppt_theme_thing_stolen = +physical_object_Q223557	
+Comments	should we keep these separate?							
+								
+LDC	conflict.attack.stealrobhijack - rob	LDC_evt_014	Attacker = per, org, gpe, sid	Target = loc, gpe, fac, per, com, veh, wea, sid	Instrument = com, veh, wea	Place = loc, gpe, fac	Artifact = bal, com, fac, loc, mon, veh, wea	
+xpo	robbery_Q53706	rob.01	A0-pag_agent_robber = +person_Q215627 | +group_of_humans_Q16334295	A1-dir_source_person_robbed = +person_Q215627 | +group_of_humans_Q16334295 | +geographic_entity_Q27096213	AM-MNR	AM-LOC	A2-ppt_theme_money_or_valuables = None	
+Comments								
+								
+LDC	conflict.attack.stealrobhijack - hijack	LDC_evt_014	Attacker = per, org, gpe, sid	Target = loc, gpe, fac, per, com, veh, wea, sid	Instrument = com, veh, wea	Place = loc, gpe, fac	Artifact = bal, com, fac, loc, mon, veh, wea	
+xpo	hijacking_Q1933595	hijack.01	A0-pag_agent_hijacker = +person_Q215627 | +group_of_humans_Q16334295	A2-dir_X_pilot = None	AM-MNR	AM-LOC	A1-ppt_patient_airplane = +physical_object_Q223557	
+Comments								
+								
+LDC	conflict.attack.stealrobhijack	LDC_evt_014	Attacker = per, org, gpe, sid	Target = loc, gpe, fac, per, com, veh, wea, sid	Instrument = com, veh, wea	Place = loc, gpe, fac	Artifact = bal, com, fac, loc, mon, veh, wea	
+xpo	theft_Q2727213 | robbery_Q53706 | hijacking_Q1933595	steal.01, rob.01, hijack.01	A0-pag_agent_xx = +organism_Q7239 | +person_Q215627 | +group_of_humans_Q16334295	A2-dir_source_xx = +organization_Q43229 | +geographic_entity_Q27096213	AM-MNR	AM-LOC	A1-ppt_theme_xx = +physical_object_Q223557	
+Comments	merged: main LDC event							
+	ADD MERGE OF 3							
+LDC	conflict.attack.strangling	LDC_evt_015	Attacker = per, org, gpe, sid	Target = per	Instrument = com, veh, wea	Place = loc, gpe, fac		
+xpo	strangling_Q1145328	strangulate.01	A0-pag_agent_strangler = +organism_Q7239 | +person_Q215627 | +weather_Q11663 | +machine_Q11019	A1-ppt_patient_victim = +organism_Q7239 | +person_Q215627	A2-mnr_instrument_instrument = None	AM-LOC		
+Comments								
+								
+LDC	conflict.attack.unspecified	LDC_evt_004	Attacker = per, org, gpe, sid	Target = loc, gpe, fac, per, com, veh, wea, sid	Instrument = com, veh, wea	Place = loc, gpe, fac		
+xpo	attack_Q1174599	assault.01	A0-pag_agent_assaulter = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_theme_entity_assaulted = +person_Q215627 | +group_of_humans_Q16334295	AM-MNR	AM-LOC		
+Comments	attack.01 is: to make an attack, criticize strongly							
+								
+LDC	conflict.coup.coup	LDC_evt_151	DeposingEntity = per, org, gpe, sid	DeposedEntity = per, org	Place = loc, gpe, fac			
+xpo	coup_d'état_Q45382	coup.01, arrogate.01	A0-pag_agent_coup_stager = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_theme_overthrown government = None	AM-LOC			
+Comments								
+								
+LDC	conflict.defeat.unspecified	LDC_KAIROS_evt_013	Victor = per, org, gpe, sid, aml	Defeated = per, org, gpe, sid, aml	ConflictOrElection = event	Place = loc, gpe, fac		
+xpo	defeat_Q11499267	defeat.01, conquer.01	A0-pag_agent_conquering_hero = +person_Q215627 | +group_of_humans_Q16334295	A2-ppt_patient_defeated_entity = None	A1-ppt_patient_spoils	AM-LOC		
+Comments								
+								
+LDC	conflict.demonstrate.demonstratewithviolence	LDC_KAIROS_evt_014	Demonstrator = per, org, sid	Regulator = per, org	VisualDisplay = com	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf, abs, aml, bod, nat, pla, pth	Target = org, per, gpe	Place = loc, gpe, fac
+xpo	riot_Q124757	riot.01	A0-pag_X_rioter = +person_Q215627 | +group_of_humans_Q16334295			A1-cau_X_who/what_the_riot_is_against = None		AM-LOC
+Comments								
+								
+LDC	conflict.demonstrate.marchprotestpoliticalgathering	LDC_evt_017	Demonstrator = per, org, sid	Place = loc, gpe, fac				
+xpo	demonstration_Q175331	protest.01	A0-pag_agent_protester = +organism_Q7239 | +person_Q215627 | +group_of_humans_Q16334295	AM-LOC				
+Comments								
+								
+LDC	conflict.demonstrate.unspecified	LDC_evt_016	Demonstrator = per, org, sid	Place = loc, gpe, fac				
+xpo	demonstration_Q175331	protest.01	A0-pag_agent_protester = +organism_Q7239 | +person_Q215627 | +group_of_humans_Q16334295	AM-LOC				
+Comments								
+								
+LDC	conflict.yield.unspecified	LDC_evt_018	Yielder = per, org, gpe, sid	Recipient = loc, gpe, fac, per, com, veh, wea, sid	Place = loc, gpe, fac			
+xpo	withdrawal_Q1760704 | surrender_Q3769366	yield.02	A0-pag_Agent_Thing_giving_way	A1-gol_Pivot_recipient	AM-LOC			
+Comments	see withdrawal_Q1760704 and surrender_Q3769366 below							
+								
+LDC	conflict.yield.retreat	LDC_evt_019	Retreater = per, org, gpe, sid	Origin = loc, gpe, fac, per, com, veh, wea, sid	Destination = loc, gpe, fac			
+xpo	withdrawal_Q1760704	retreat.01	A1-ppt_agent_retreater = +concrete_object_Q4406616 | +organism_Q7239  | +person_Q215627 | +group_of_humans_Q16334295	A2-dir_source_scary_thing = None	AM-GOL			
+Comments								
+								
+LDC	conflict.yield.surrender	LDC_evt_020	Surrenderer = per, org, gpe, sid	Recipient = loc, gpe, fac, per, com, veh, wea, sid	Place = loc, gpe, fac			
+xpo	surrender_Q3769366	surrender.01	A0-pag_agent_one_surrendering = +person_Q215627 | +group_of_humans_Q16334295	A2-gol_Recipient_victor = +organism_Q7239  | +person_Q215627 | +group_of_humans_Q16334295	AM-LOC			
+Comments								
+								
+LDC	contact.collaborate.correspondence	LDC_evt_022	Participant = per, org, gpe, sid	Participant = per, org, gpe, sid	Place = loc, gpe, fac			
+xpo	collaboration_Q1145523	collaborate.01	A0-pag_Agent_focussed party  = +person_Q215627 | +group_of_humans_Q16334295	A1-com_Co-Agent_second_party =  +person_Q215627 | +group_of_humans_Q16334295	AM-LOC			
+Comments								
+								
+LDC	contact.collaborate.meet	LDC_evt_023	Participant = per, org, gpe, sid	Participant = per, org, gpe, sid	Place = loc, gpe, fac			
+xpo	collaboration_Q1145523	collaborate.01	A0-pag_Agent_focussed party  = +person_Q215627 | +group_of_humans_Q16334295	A1-com_Co-Agent_second_party =  +person_Q215627 | +group_of_humans_Q16334295	AM-LOC			
+Comments								
+								
+LDC	contact.collaborate.unspecified	LDC_evt_021	Participant = per, org, gpe, sid	Participant = per, org, gpe, sid	Place = loc, gpe, fac			
+xpo	collaboration_Q1145523	collaborate.01	A0-pag_Agent_focussed party  = +person_Q215627 | +group_of_humans_Q16334295	A1-com_Co-Agent_second_party =  +person_Q215627 | +group_of_humans_Q16334295	AM-LOC			
+Comments								
+								
+LDC	contact.commitmentpromiseexpressintent.broadcast	LDC_evt_029	Communicator = per, org, gpe, sid	Recipient = per, org, gpe, sid	Place = loc, gpe, fac	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf		
+xpo	promise_Q1425577	promise.01	A0-pag_agent_promiser = +person_Q215627 | +group_of_humans_Q16334295	A1-gol_goal_person_promised_to = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC	A2-ppt_theme_promised_action = None		
+Comments	stay with promise							
+								
+LDC	contact.commitmentpromiseexpressintent.correspondence	LDC_evt_030	Communicator = per, org, gpe, sid	Recipient = per, org, gpe, sid	Place = loc, gpe, fac	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf		
+xpo	promise_Q1425577	promise.01	A0-pag_agent_promiser = +person_Q215627 | +group_of_humans_Q16334295	A1-gol_goal_person_promised_to = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC	A2-ppt_theme_promised_action = None		
+Comments								
+								
+LDC	contact.commitmentpromiseexpressintent.meet	LDC_evt_31	Communicator = per, org, gpe, sid	Recipient = per, org, gpe, sid	Place = loc, gpe, fac	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf		
+xpo	promise_Q1425577	promise.01	A0-pag_agent_promiser = +person_Q215627 | +group_of_humans_Q16334295	A1-gol_goal_person_promised_to = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC	A2-ppt_theme_promised_action = None		
+Comments								
+								
+LDC	contact.commitmentpromiseexpressintent.unspecified	LDC_evt_028	Communicator = per, org, gpe, sid	Recipient = per, org, gpe, sid	Place = loc, gpe, fac	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf		
+xpo	promise_Q1425577	promise.01	A0-pag_agent_promiser = +person_Q215627 | +group_of_humans_Q16334295	A1-gol_goal_person_promised_to = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC	A2-ppt_theme_promised_action = None		
+Comments								
+								
+LDC	contact.contact.broadcast	LDC_KAIROS_evt_016	Communicator = per, org, gpe, sid	Recipient = per, org, gpe, sid	Instrument = abs, com	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf, abs, aml, bod, nat, pla, pth	Place = loc, gpe, fac	
+xpo	announcement_Q567303	announce.01	A0-pag_agent_announcer = +organization_Q43229 | +person_Q215627 | +group_of_humans_Q16334295	A2-gol_recipient_hearer = +organism_Q7239 | +organization_Q43229	AM-MNR	A1-ppt_topic_utterance = +information_Q11028	AM-LOC	
+Comments								
+								
+LDC	contact.contact.correspondence	LDC_KAIROS_evt_017	Participant = per, org, gpe, sid	Participant = per, org, gpe, sid	Instrument = abs, com	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf, abs, aml, bod, nat, pla, pth	Place = loc, gpe, fac	
+xpo	remote_communication_Q1472062	telecommunicate.01, communicate.01	A0-pag_agent_first_communicator = +person_Q215627 | +group_of_humans_Q16334295	A2-com_co-agent_other_communicator = +person_Q215627 | +group_of_humans_Q16334295	AM-MNR	A1-ppt_topic_message = None	AM-LOC	
+Comments								
+								
+LDC	contact.contact.meet	LDC_KAIROS_evt_018	Participant = per, org, gpe, sid	Participant = per, org, gpe, sid	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf, abs, aml, bod, nat, pla, pth	Place = loc, gpe, fac		
+xpo	meeting_Q21170798	meet.03, meet_up.04, visit.02	A0-pag_Agent_first_talker = +person_Q215627 | +group_of_humans_Q16334295	A1-com_co-agent_second_talker = +person_Q215627 | +group_of_humans_Q16334295	A2-ppt_X_subject_matter	AM-LOC		
+Comments								
+								
+LDC	contact.contact.unspecified	LDC_KAIROS_evt_019	Participant = per, org, gpe, sid	Participant = per, org, gpe, sid	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf, abs, aml, bod, nat, pla, pth	Place = loc, gpe, fac		
+xpo	communication_Q11024	communicate.01	A0-pag_agent_first_communicator = +person_Q215627 | +group_of_humans_Q16334295	A2-com_co-agent_other_communicator = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_topic_message = None	AM-LOC		
+Comments								
+								
+LDC	contact.discussion.correspondence	LDC_evt_033	Participant = per, org, gpe, sid	Participant = per, org, gpe, sid	Place = loc, gpe, fac			
+xpo	discussion_Q3030248 | conversation_Q52943	discuss.01, converse.01	A0-pag_agent_discussant = +person_Q215627 | +group_of_humans_Q16334295	A2-gol_co-agent_conversation_partner =  +person_Q215627 | +group_of_humans_Q16334295	AM-LOC			
+Comments								
+								
+LDC	contact.discussion.meet	LDC_evt_034	Participant = per, org, gpe, sid	Participant = per, org, gpe, sid	Place = loc, gpe, fac			
+xpo	discussion_Q3030248 | conversation_Q52943	discuss.01, converse.01	A0-pag_agent_discussant = +person_Q215627 | +group_of_humans_Q16334295	A2-gol_co-agent_conversation_partner =  +person_Q215627 | +group_of_humans_Q16334295	AM-LOC			
+Comments								
+								
+LDC	contact.discussion.unspecified	LDC_evt_032	Participant = per, org, gpe, sid	Participant = per, org, gpe, sid	Place = loc, gpe, fac			
+xpo	discussion_Q3030248 | conversation_Q52943	discuss.01, converse.01	A0-pag_agent_discussant = +person_Q215627 | +group_of_humans_Q16334295	A2-gol_co-agent_conversation_partner =  +person_Q215627 | +group_of_humans_Q16334295	AM-LOC			
+Comments								
+								
+LDC	contact.funeralvigil.meet	LDC_evt_036	Participant = per, org, gpe, sid	Participant = per, org, gpe, sid	Deceased = per	Place = loc, gpe, fac		
+xpo	funeral_Q201676	funeral.01	A0-pag_officiant = +person_Q215627 | +group_of_humans_Q16334295		A1-ppt_entity_buried = None	AM-LOC		
+Comments								
+								
+LDC	contact.funeralvigil.unspecified	LDC_evt_035	Participant = per, org, gpe, sid	Participant = per, org, gpe, sid	Deceased = per	Place = loc, gpe, fac		
+xpo	funeral_Q201676	funeral.01	A0-pag_officiant = +person_Q215627 | +group_of_humans_Q16334295		A1-ppt_entity_buried = None	AM-LOC		
+Comments								
+								
+LDC	contact.mediastatement.broadcast	LDC_evt_038	Communicator = per, org, gpe, sid	Recipient = per, org, gpe, sid	Place = loc, gpe, fac			
+xpo	public_broadcasting_Q26398	broadcast.01	A0-pag_agent_trasmitter = +person_Q215627 | +group_of_humans_Q16334295	A2-gol_recipient_audience = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC			
+Comments	this is still a media statement which is one of the two Q nodes							
+								
+LDC	contact.mediastatement.unspecified	LDC_evt_037	Communicator = per, org, gpe, sid	Recipient = per, org, gpe, sid	Place = loc, gpe, fac			
+xpo	public_broadcasting_Q26398	broadcast.01	A0-pag_agent_trasmitter = +person_Q215627 | +group_of_humans_Q16334295	A2-gol_recipient_audience = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC			
+Comments								
+								
+LDC	contact.negotiate.correspondence	LDC_evt_040	Participant = per, org, gpe, sid	Participant = per, org, gpe, sid	Place = loc, gpe, fac	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf		
+xpo	negotiation_Q202875	negotiate.01	A0-pag_agent_negotiator = +person_Q215627 | +group_of_humans_Q16334295	A1-com_co-agent_explicit_other_party = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC	A2-ppt_theme_agreement		
+Comments								
+								
+LDC	contact.negotiate.meet	LDC_evt_041	Participant = per, org, gpe, sid	Participant = per, org, gpe, sid	Place = loc, gpe, fac	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf		
+xpo	negotiation_Q202875	negotiate.01	A0-pag_agent_negotiator = +person_Q215627 | +group_of_humans_Q16334295	A1-com_co-agent_explicit_other_party = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC	A2-ppt_theme_agreement		
+Comments								
+								
+LDC	contact.negotiate.unspecified	LDC_evt_039	Participant = per, org, gpe, sid	Participant = per, org, gpe, sid	Place = loc, gpe, fac	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf		
+xpo	negotiation_Q202875	negotiate.01	A0-pag_agent_negotiator = +person_Q215627 | +group_of_humans_Q16334295	A1-com_co-agent_explicit_other_party = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC	A2-ppt_theme_agreement		
+Comments								
+								
+LDC	contact.prevarication.broadcast	LDC_evt_043	Communicator = per, org, gpe, sid	Recipient = per, org, gpe, sid	Place = loc, gpe, fac	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf		
+xpo	deception_Q170028	deceive.01	A0-pag_agent_liar = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_patient_lied_to = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC	A2-prd_lied_about = None		
+Comments								
+								
+LDC	contact.prevarication.correspondence	LDC_evt_044	Communicator = per, org, gpe, sid	Recipient = per, org, gpe, sid	Place = loc, gpe, fac	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf		
+xpo	deception_Q170028	deceive.01	A0-pag_agent_liar = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_patient_lied_to = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC	A2-prd_lied_about = None		
+Comments								
+								
+LDC	contact.prevarication.meet	LDC_evt_045	Communicator = per, org, gpe, sid	Recipient = per, org, gpe, sid	Place = loc, gpe, fac	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf		
+xpo	deception_Q170028	deceive.01	A0-pag_agent_liar = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_patient_lied_to = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC	A2-prd_lied_about = None		
+Comments								
+								
+LDC	contact.prevarication.unspecified	LDC_evt_042	Communicator = per, org, gpe, sid	Recipient = per, org, gpe, sid	Place = loc, gpe, fac	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf		
+xpo	deception_Q170028	deceive.01	A0-pag_agent_liar = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_patient_lied_to = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC	A2-prd_lied_about = None		
+Comments								
+								
+LDC	contact.publicstatementinperson.broadcast	LDC_evt_047	Communicator = per, org, gpe, sid	Recipient = per, org, gpe, sid	Place = loc, gpe, fac			
+xpo	public_statement_Q52947181	announce.01	A0-pag_agent_announcer = +person_Q215627 | +group_of_humans_Q16334295	A2-gol_recipient_hearer = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC			
+Comments								
+								
+LDC	contact.publicstatementinperson.unspecified	LDC_evt_046	Communicator = per, org, gpe, sid	Recipient = per, org, gpe, sid	Place = loc, gpe, fac			
+xpo	public_statement_Q52947181	announce.01	A0-pag_agent_announcer = +person_Q215627 | +group_of_humans_Q16334295	A2-gol_recipient_hearer = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC			
+Comments								
+								
+LDC	contact.requestcommand.broadcast	LDC_KAIROS_evt_024	Communicator = per, org, gpe, sid	Recipient = per, org, gpe, sid	Place = loc, gpe, fac	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf		
+xpo	request_Q22445448 | command_Q1665268	request.01, command.02	A0-pag_agent_xx = +person_Q215627 | +group_of_humans_Q16334295	Ax-gol_recipient_xx = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC	Ax-ppt_topic_xx = None		
+Comments								
+								
+LDC	contact.requestcommand.correspondence	LDC_KAIROS_evt_025	Communicator = per, org, gpe, sid	Recipient = per, org, gpe, sid	Place = loc, gpe, fac	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf		
+xpo	request_Q22445448 | command_Q1665268	request.01, command.02	A0-pag_agent_xx = +person_Q215627 | +group_of_humans_Q16334295	Ax-gol_recipient_xx = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC	Ax-ppt_topic_xx = None		
+Comments								
+								
+LDC	contact.requestcommand.meet	LDC_KAIROS_evt_026	Communicator = per, org, gpe, sid	Recipient = per, org, gpe, sid	Place = loc, gpe, fac	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf		
+xpo	request_Q22445448 | command_Q1665268	request.01, command.02	A0-pag_agent_xx = +person_Q215627 | +group_of_humans_Q16334295	Ax-gol_recipient_xx = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC	Ax-ppt_topic_xx = None		
+Comments								
+								
+LDC	contact.requestcommand.unspecified - command	LDC_KAIROS_evt_027	Communicator = per, org, gpe, sid	Recipient = per, org, gpe, sid	Place = loc, gpe, fac	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf		
+xpo	command_Q1665268	command.02	A0-pag_agent_commander = +person_Q215627 | +group_of_humans_Q16334295	A1-gol_recipient_impelled_agent = +person_Q215627 | +group_of_humans_Q16334295 | +organism_Q7239	AM-LOC	A2-ppt_topic_impelled_action = None		
+Comments								
+								
+LDC	contact.requestcommand.unspecified - request	LDC_KAIROS_evt_027	Communicator = per, org, gpe, sid	Recipient = per, org, gpe, sid	Place = loc, gpe, fac	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf		
+xpo	request_Q22445448	request.01	A0-pag_agent_asker = +person_Q215627 | +group_of_humans_Q16334295	A2-gol_recipient_hearer = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC	A1-ppt_topic_favor = None		
+Comments								
+								
+LDC	contact.requestcommand.unspecified	LDC_KAIROS_evt_027	Communicator = per, org, gpe, sid	Recipient = per, org, gpe, sid	Place = loc, gpe, fac	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf		
+xpo	request_Q22445448 | command_Q1665268	request.01, command.02	A0-pag_agent_xx = +person_Q215627 | +group_of_humans_Q16334295	Ax-gol_recipient_xx = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC	Ax-ppt_topic_xx = None		
+Comments								
+								
+LDC	contact.threatencoerce.broadcast	LDC_evt_053	Communicator = per, org, gpe, sid	Recipient = per, org, gpe, sid	Place = loc, gpe, fac	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf		
+xpo	threat_Q707125 | coercion_Q325980	bully.01, coerce.01	A0-pag_agent_xx = +person_Q215627 | +group_of_humans_Q16334295	A1-x_patient_xx =  = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC	A2-prd_result_xx = None		
+Comments								
+								
+LDC	contact.threatencoerce.correspondence	LDC_evt_054	Communicator = per, org, gpe, sid	Recipient = per, org, gpe, sid	Place = loc, gpe, fac	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf		
+xpo	threat_Q707125 | coercion_Q325980	bully.01, coerce.01	A0-pag_agent_xx = +person_Q215627 | +group_of_humans_Q16334295	A1-x_patient_xx =  = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC	A2-prd_result_xx = None		
+Comments								
+								
+LDC	contact.threatencoerce.meet	LDC_evt_055	Communicator = per, org, gpe, sid	Recipient = per, org, gpe, sid	Place = loc, gpe, fac	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf		
+xpo	threat_Q707125 | coercion_Q325980	bully.01, coerce.01	A0-pag_agent_xx = +person_Q215627 | +group_of_humans_Q16334295	A1-x_patient_xx =  = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC	A2-prd_result_xx = None		
+Comments								
+								
+LDC	contact.threatencoerce.unspecified - threat	LDC_evt_052	Communicator = per, org, gpe, sid	Recipient = per, org, gpe, sid	Place = loc, gpe, fac	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf		
+xpo	threat_Q707125	bully.01	A0-pag_agent_bully = +person_Q215627 | +group_of_humans_Q16334295	A1-gol_patient_victim =  = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC	A2-prd_result_impelled_action = None		
+Comments	threat and coerce are different							
+								
+LDC	contact.threatencoerce.unspecified - coerce	LDC_evt_052	Communicator = per, org, gpe, sid	Recipient = per, org, gpe, sid	Place = loc, gpe, fac	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf		
+xpo	coercion_Q325980	coerce.01	A0-pag_agent_persuasive_entity = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_patient_impelled_person = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC	A2-prd_result_action_or_Result = None		
+Comments								
+								
+LDC	contact.threatencoerce.unspecified	LDC_evt_052	Communicator = per, org, gpe, sid	Recipient = per, org, gpe, sid	Place = loc, gpe, fac	Topic = event, per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, law, res, val, mhi, inf		
+xpo	threat_Q707125 | coercion_Q325980	bully.01, coerce.01	A0-pag_agent_xx = +person_Q215627 | +group_of_humans_Q16334295	A1-x_patient_xx =  = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC	A2-prd_result_xx = None		
+Comments	threat and coerce are different							
+								
+LDC	control.impedeinterferewith.unspecified	LDC_KAIROS_evt_032	Impeder = per, org, gpe, sid	ImpededEvent = event	Place = loc, gpe, fac			
+xpo	prevention_Q1717246 | difficulty_Q16515105	prevent.01, impede.01	A0-pag_agent_blocker = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_theme_Theme = None	AM-LOC			
+Comments	What about COVID prevented or impeded travel? Add event to SelRes							
+								
+LDC	control.impedeinterferewith.prevent	NEW	Preventer = per, org, gpe, sid, event	Prevented Thing = event, mhi	Place = loc, gpe, fac			
+xpo	prevention_Q1717246	prevent.01	A0-pag_agent_Agent = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_theme_Theme = None	AM-LOC			
+Comments								
+								
+LDC	disaster.crash.unspecified	LDC_KAIROS_evt_033	DriverPassenger = per	Vehicle = veh	CrashObject = aml, com, fac, loc, per, veh, wea	Place = loc, gpe, fac		
+xpo	transport_accident_Q11822042	crash.01	A0-pag__agent_causer_of_damage = +organism_Q7239 | +weather_Q11663 | +machine_Q11019 | +person_Q215627	A1-ppt_patient_entity_crashed = +concrete_object_Q4406616	A1-ppt_patient_entity_crashed = +concrete_object_Q4406616	AM-LOC		
+Comments	Why just traffic collision? (collision was too broad -- checked the subsumed set. Transport accident is actually more accurate than both, given the subsumed set)							
+								
+LDC	disaster.diseaseoutbreak.unspecified	LDC_KAIROS_evt_034	Disease = mhi	Victim = per, org, sid	Place = loc, gpe, fac, veh			
+xpo	disease_outbreak_Q3241045	outbreak.01, burst.01	A1-ppt_theme_disease = +disease_Q12136	A2-GOL_location_victims = +organism_Q7239 | +person_Q215627	AM-LOC			
+Comments								
+								
+LDC	disaster.fireexplosion.unspecified - fire	LDC_evt_059	FireExplosionObject = bal, veh, wea, fac, loc, com	Instrument = com, veh, wea, fac	Place = loc, gpe, fac, veh			
+xpo	conflagration_Q168983	fire.05, burn.01	A1-ppt_patient_thing_burning  = +concrete_object_Q4406616	AM-MNR	AM-LOC			
+Comments	this could be natural. Definitely there is no intention in it, per definition. So it can't have an agent, so not fire.04							
+								
+LDC	disaster.fireexplosion.unspecified - explosion	LDC_evt_059	FireExplosionObject = bal, veh, wea, fac, loc, com	Instrument = com, veh, wea, fac	Place = loc, gpe, fac, veh			
+xpo	explosion_Q179057	explode.01	A1-ppt_theme_thing_exploding = +concrete_object_Q4406616	AM-MNR	AM-LOC			
+Comments								
+	ADD UNION							
+LDC	disaster.fireexplosion.unspecified	LDC_evt_059	FireExplosionObject = bal, veh, wea, fac, loc, com	Instrument = com, veh, wea, fac	Place = loc, gpe, fac, veh			
+xpo	conflagration_Q168983 | explosion_Q179057	explode.01, burn.01, fire.05	A1-ppt_X_xx = +concrete_object_Q4406616	AM-MNR	AM-LOC			
+Comments								
+	ADD UNION							
+LDC	genericcrime.genericcrime.genericcrime	LDC_KAIROS_evt_036	Perpetrator = per, org, gpe, sid	Victim = per, org, gpe, sid, aml	Place = loc, gpe, fac, veh			
+xpo	crime_Q83267	perpetrate.01	A0-pag_X_perp = +person_Q215627 | +group_of_humans_Q16334295	A2-gol_X_victim = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC			
+Comments								
+								
+LDC	government.agreements.acceptagreementcontractceasefire - acceptance	LDC_evt_061	Participant = gpe, sid	Participant = gpe, sid	Place = loc, gpe, fac			
+xpo	signature_Q50384157	sign.02, agree.01	A0-pag_agent_signer = +person_Q215627 | +group_of_humans_Q16334295	A2-com_co-agent_co-signer = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC			
+Comments								
+								
+LDC	government.agreements.acceptagreementcontractceasefire - ceasefire	LDC_evt_061	Participant = gpe, sid	Participant = gpe, sid	Place = loc, gpe, fac			
+xpo	ceasefire_Q208383	ceasefire.01, sign.02, agree.01	A0-pag_agent_implementer_of_cease-fire = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_co-agent_cease-fire_with_or_between_who? = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC			
+Comments								
+	ADD UNION							
+LDC	government.agreements.unspecified	LDC_evt_060	Participant = gpe, sid	Participant = gpe, sid	Place = loc, gpe, fac			
+xpo	agreement_Q321839	agree.01	A0-pag_agent_agreer = +person_Q215627 | +group_of_humans_Q16334295	A2-com_co-agent_other_entity_agreeing = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC			
+Comments								
+								
+LDC	government.agreements.rejectnullifyagreementcontractceasefire	LDC_evt_062	RejecterNullifier = gpe, sid	OtherParticipant = gpe, sid	Place = loc, gpe, fac			
+xpo	rejection_Q98398200	refuse.01	A0-pag_Agent_entity_refusing  = +person_Q215627 | +group_of_humans_Q16334295	A2-gol_Theme_anti-benefactive = None	AM-LOC			
+Comments	reject.01 does not have anti-benefactive, and that's what LDC arg represents.							
+								
+LDC	government.agreements.violateagreement	LDC_evt_063	Violator = gpe, sid	OtherParticipant = gpe, sid	Place = loc, gpe, fac			
+xpo	transgression_Q3537603	transgress.01	A0-pag_X_Transgressor = +person_Q215627 | +group_of_humans_Q16334295	AM-COM	AM-LOC			
+Comments		A1-ppt_Thing_transgressed is invalid as a mapping for LDC args						
+								
+LDC	government.convene.convene	LDC_evt_145	Convener = per, org, gpe, sid	ConvenedThing = org	Place = loc, gpe, fac			
+xpo	session_Q23700466	convene.01	A0-pag_Agent_agent = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_Theme_the_meeting_itself	AM-LOC			
+Comments								
+								
+LDC	government.formation.mergegpe	LDC_evt_065	Participant = gpe	Participant = gpe	Place = loc, gpe, fac			
+xpo	merger_Q452440	merge.01	A1-ppt_ingredient_one = +concrete_object_Q4406616 | +group_of_humans_Q16334295	A2-ppt_ingredient_two = +concrete_object_Q4406616 | +group_of_humans_Q16334295	AM-LOC			
+Comments								
+								
+LDC	government.formation.unspecified	LDC_evt_064	GPE = gpe	Founder = per, org, gpe, sid	Place = loc, gpe, fac			
+xpo	founding_Q3075355	found.01	A1-ppt_theme_thing_set = +group_of_humans_Q16334295	A0-pag_agent_agent = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC			
+Comments								
+								
+LDC	government.formation.startgpe	LDC_evt_066	GPE = gpe	Founder = per, org, gpe, sid	Place = loc, gpe, fac			
+xpo	founding_Q3075355	form.01	A1-ppt_patient_thing_created = +artificial_physical_object_Q8205328 | +group_of_humans_Q16334295	A0-pag_agent_creator = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC			
+Comments	government_formation_Q2137778 is arguably not startgpe. This should be the same as founding_Q3075355, with an arg constraint on the thing founded							
+								
+LDC	government.legislate.legislate	LDC_evt_068	GovernmentBody = org	Law = law	Place = loc, gpe, fac			
+xpo	legislative_process_Q3406566	enact.01	A0-pag_agent_legislative_body = +group_of_humans_Q16334295	A1-ppt_thing_enacted = None	AM-LOC			
+Comments	lawmaking.01 has no law arg							
+								
+LDC	government.spy.spy	LDC_evt_070	Spy = per, org, gpe, sid	ObservedEntity = per, org, gpe, sid	Beneficiary = per, org, gpe, sid	Place = loc, gpe, fac		
+xpo	espionage_Q165950	spy.01	A0-pag_agent_secret_agent = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_stimulus_entity_spied/seen = None	AM-GOL	AM-LOC		
+Comments								
+								
+LDC	government.vote.castvote	LDC_evt_072	Voter = per	Candidate = law, per, sid	Ballot = bal	Result = res	Place = loc, gpe, fac	
+xpo	voting_Q189760	vote.01	A0-pag_agent_voter = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_theme_candidate_or_ballot_issue = None	A1-ppt_theme_candidate_or_ballot_issue = None	A2-prd_Result_numerical_count_of_vote = None	AM-LOC	
+Comments								
+								
+LDC	government.vote.unspecified	LDC_evt_071	Voter = per, sid	Candidate = law, per, sid	Ballot = bal	Result = res	Place = loc, gpe, fac	
+xpo	voting_Q189760	vote.01	A0-pag_agent_voter = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_theme_candidate_or_ballot_issue = None	A1-ppt_theme_candidate_or_ballot_issue = None	A2-prd_Result_numerical_count_of_vote = None	AM-LOC	
+Comments								
+								
+LDC	government.vote.violationspreventvote - voter suppression	LDC_evt_073	Preventer = per, org, gpe, sid	Voter = per	Candidate = law, per, sid	Ballot = bal	Place = loc, gpe, fac	
+xpo	voter_suppression_Q7942161	prevent.01	A0-pag_agent_Agent = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_theme_Theme = None	AM-GOL		AM-LOC	
+Comments								
+								
+LDC	justice.acquit.unspecified	LDC_KAIROS_evt_037	JudgeCourt = per, org, gpe, sid	Defendant = per, org, gpe, sid	Crime = event	Place = loc, gpe, fac		
+xpo	acquittal_Q1454723	acquit.01	A0-cau_remover_of_guilt = +person_Q215627 | +group_of_humans_Q16334295	A1-dir_source_unguilty_person = +person_Q215627 | +physical_object_Q223557	A2-ppt_theme_explicit_mention_of_guilt = None	AM-LOC		
+Comments								
+								
+LDC	justice.arrestjaildetain.unspecified	LDC_evt_079	Jailer = per, org, gpe, sid	Detainee = per	Crime = event	Place = loc, gpe, fac		
+xpo	imprisonment_Q841236 | arrest_Q1403016	arrest.01, detain.01	A0-pag_agent_police = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_patient_entity_detained = +person_Q215627 | +group_of_humans_Q16334295	A2-cau_theme_detained_for_what	AM-LOC		
+Comments								
+								
+LDC	justice.judicialconsequences.convict	LDC_evt_086	JudgeCourt = per, org, gpe, sid	Defendant = per, org, gpe, sid	Crime = event	Place = loc, gpe, fac		
+xpo	conviction_Q2916183	convict.01	A0-pag_X_judge = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_X_person_convicted = +person_Q215627 | +group_of_humans_Q16334295	A2-cau_X_convicted_of = None	AM-LOC		
+Comments								
+								
+LDC	justice.initiatejudicialprocess.chargeindict	LDC_evt_081	Prosecutor = per, org, gpe, sid	Defendant = per, org, gpe, sid	JudgeCourt = per, org, gpe, sid	Crime = event	Place = loc, gpe, fac	
+xpo	accusation_Q19357312	accuse.01	A0-pag_agent_accuser = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_patient_accused = +person_Q215627 | +group_of_humans_Q16334295		A2-prd_crime = None	AM-LOC	
+Comments								
+								
+LDC	justice.initiatejudicialprocess.unspecified	LDC_evt_080	Prosecutor = per, org, gpe, sid	Defendant = per, org, gpe, sid	JudgeCourt = per, org, gpe, sid	Crime = event	Place = loc, gpe, fac	
+xpo	accusation_Q19357312 | trial_Q8016240 | legal_hearing_Q545861	prosecute.01, accuse.01	A0-pag_Agent_xx = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_Patient_xx = +person_Q215627 | +group_of_humans_Q16334295		A2-prd_X_xx = None	AM-LOC	
+Comments								
+								
+LDC	justice.investigate.investigatecrime	LDC_evt_084	Investigator = per, org, gpe, sid	Defendant = per, org, gpe, sid	Crime = event	Place = loc, gpe, fac		
+xpo	criminal_investigation_Q1964968	investigate.01	A0-pag_agent_examiner = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_location_examined =  +person_Q215627 | +group_of_humans_Q16334295	A2-ppt_theme_examined_for = None	AM-LOC		
+Comments								
+								
+LDC	justice.investigate.unspecified	LDC_evt_083	Investigator = per, org, gpe, sid	Defendant = per, org, gpe, sid	Crime = event	Place = loc, gpe, fac		
+xpo	inquiry_Q21004260	investigate.01	A0-pag_agent_examiner = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_location_examined =  +person_Q215627 | +group_of_humans_Q16334295	A2-ppt_theme_examined_for = None	AM-LOC		
+Comments								
+								
+LDC	justice.judicialconsequences.execute	LDC_evt_087	Executioner = per, org, gpe, sid	Defendant = per	Crime = event	Place = loc, gpe, fac		
+xpo	execution_Q3966286	execute.01	A0-pag_agent_killer = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_patient_corpse = +person_Q215627	AM-CAU	AM-LOC		
+Comments								
+								
+LDC	justice.judicialconsequences.extradite	LDC_evt_088	Extraditer = per, org, gpe, sid	Defendant = per	Crime = event	Origin	Destination	
+xpo	extradition_Q210603	extradite.01	A0-pag_agent_expeller = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_theme_entity_expelled = +person_Q215627	AM-CAU	A2-dir_source_expelled_from = +geographic_entity_Q27096213	A3-gol_destination_expelled_to = +geographic_entity_Q27096213	
+Comments								
+								
+LDC	justice.judicialconsequences.unspecified	LDC_evt_085	JudgeCourt = per, org, gpe, sid	Defendant = per, org, gpe, sid	Crime = event	Place = loc, gpe, fac		
+xpo	court_decision _Q327000	extradite.01, execute.01	A0-pag_agent_xx = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_X_xx = +person_Q215627	A3-CAU_X_crime	AM-LOC		
+Comments								
+								
+LDC	justice.releaseparole.unspecified	LDC_KAIROS_evt_042	JudgeCourt = per, org, gpe, sid	Defendant = per, org, gpe, sid	Crime = event	Place = loc, gpe, fac		
+xpo	release_from_prison_Q3237993	release.01	A0-cau_X_releaser = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_thing_released =  +person_Q215627 | +group_of_humans_Q16334295	Ax-CAU	AM-LOC		
+Comments								
+								
+LDC	justice.sentence.unspecified	LDC_KAIROS_evt_043	JudgeCourt = per, org, gpe, sid	Defendant = per, org, gpe, sid	Crime = event	Sentence = sen	Place = loc, gpe, fac	
+xpo	sentence_Q1763090	sentence.01	A0-pag_judge/jury = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_criminal = +person_Q215627 | +group_of_humans_Q16334295	A3-cau_crime = None	A2-ppt_punishment = None	AM-LOC	
+Comments								
+								
+LDC	justice.initiatejudicialprocess.trialhearing - hearing	LDC_evt_082	Prosecutor = per, org, gpe, sid	Defendant = per, org, gpe, sid	JudgeCourt = per, org, gpe, sid	Crime = event	Place = loc, gpe, fac	
+xpo	legal_hearing_Q545861	hearing.02	A0-pag_X_judge = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_X_person_on_trial = +person_Q215627 | +group_of_humans_Q16334295	A0-pag_X_judge  = +person_Q215627 | +group_of_humans_Q16334295	A2-cau_X_type_or_point_of_meeting/trial	AM-LOC	
+Comments								
+								
+LDC	justice.initiatejudicialprocess.trialhearing - trial	LDC_evt_082	Prosecutor = per, org, gpe, sid	Defendant = per, org, gpe, sid	JudgeCourt = per, org, gpe, sid	Crime = event	Place = loc, gpe, fac	
+xpo	trial_Q8016240	try.02	A0-pag_X_litigant = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_X_entity_tried = +person_Q215627 | +group_of_humans_Q16334295	A2-gol_X_adjudicator = +person_Q215627 | +group_of_humans_Q16334295	A3-cau_X_tried_for = None	AM-LOC	
+Comments								
+								
+LDC	justice.initiatejudicialprocess.trialhearing	LDC_evt_082	Prosecutor = per, org, gpe, sid	Defendant = per, org, gpe, sid	JudgeCourt = per, org, gpe, sid	Crime = event	Place = loc, gpe, fac	
+xpo	trial_Q8016240 | legal_hearing_Q545861	try.02, hearing.02	A0-pag_X_xx = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_X_xx = +person_Q215627 | +group_of_humans_Q16334295		Ax-cau_X_xx = None	AM-LOC	
+Comments								
+								
+LDC	life.mutate.unspecified	NEW	Thing Mutating = bod, pth	End State = bod, pth	Place = loc, gpe, fac			
+xpo	mutation_Q42918	mutate.01	A1-ppt_patient_entity_undergoing_mutation = +physical_object_Q223557 | +organism_Q7239	A2-prd_result_end_state = None	AM-LOC			
+Comments								
+								
+LDC	life.consume.unspecified	LDC_KAIROS_evt_045	ConsumingEntity = per, aml	ConsumedThing = com	Place = loc, gpe, fac			
+xpo	ingestion_Q1663054	ingest.01, consume.01	A0-pag_agent_eater = +person_Q215627 | +organism_Q7239	A1-ppt_patient_entity_ingested = None	AM-LOC			
+Comments								
+								
+LDC	life.die.deathcausedbyviolentevents	LDC_evt_090	Killer = per, org, gpe, sid	Victim = per	Instrument = bal, com, veh, wea, fac, mon	Place = loc, gpe, fac		
+xpo	violent_death_Q74948922	kill.01	A0-pag_agent_killer = +organism_Q7239 | +person_Q215627 | +group_of_humans_Q16334295 | +health_problem_Q2057971	A1-ppt_patient_corpse = +organism_Q7239 | +person_Q215627	A2-mnr_instrument_instrument = None	AM-LOC		
+Comments								
+								
+LDC	life.die.nonviolentdeath	LDC_evt_091	Killer = per, org, gpe, sid	Victim = per	MedicalIssue = mhi	Place = loc, gpe, fac		
+xpo	natural_causes_Q3739104	die.01	AM-CAU	A1-ppt_the_deceased = +person_Q215627 | +organism_Q7239 | +plant_Q756	AM-CAU	AM-LOC		
+Comments								
+								
+LDC	life.die.unspecified	LDC_evt_089	Killer = per, org, gpe, sid	Victim = per	MedicalIssue = mhi	Place = loc, gpe, fac		
+xpo	death_Q4	die.01	AM-CAU	A1-ppt_the_deceased = +person_Q215627 | +organism_Q7239 | +plant_Q756	AM-CAU	AM-LOC		
+Comments								
+								
+LDC	life.illness.unspecified	LDC_evt_150	Injurer = per, org, gpe, sid	Victim = per	Disease = mhi	Place = loc, gpe, fac		
+xpo	disease_Q12136	ill.01	AM-CAU	A1-ppt_X_sick/ill_one = +person_Q215627 | +organism_Q7239 | +plant_Q756	A2-cau_X_cause_or_disease = None	AM-LOC		
+Comments								
+								
+LDC	life.infect.unspecified	LDC_KAIROS_evt_048	Victim = per, aml	InfectingAgent = pth	Source = per, org, gpe, sid, loc, fac, veh, wea, com, bal, mon, mhi, aml, bod, nat, pla, pth	Place = loc, gpe, fac		
+xpo	infection_Q166231	infect.01	A1-gol_thing_becoming_infected = +geographic_entity_Q27096213 | +organism_Q7239 | +person_Q215627	A2-ppt_infectant = +concrete_object_Q4406616 | +health_problem_Q2057971	A0-pag_causer_of_infection = +organism_Q7239 | +person_Q215627	AM-LOC		
+Comments								
+								
+LDC	life.injure.unspecified	LDC_evt_092	Injurer = per, org, gpe, sid	Victim = per	MedicalIssue = mhi	Place = loc, gpe, fac		
+xpo	injury_Q193078	injure.01, wound.01	A0-pag_stimulus_stimulus_of_injury = +organism_Q7239 | +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_experiencer_injured_entity = +organism_Q7239 | +person_Q215627 | +group_of_humans_Q16334295 | +anatomical_structure_Q4936952	A2-mnr_X_instrument = None	AM-LOC		
+Comments								
+								
+LDC	medical.intervention.cure	LDC_evt_147	Treater = per, org, gpe, sid	Patient = per	MedicalIssue = mhi	Instrument = com	Place = loc, gpe, fac	
+xpo	remedy_Q1595418	remedy.01, cure.01, treat.03	A0-pag_causer_doctor = +person_Q215627 | +group_of_humans_Q16334295 | +drug_Q8386	A1-dir_Source_patient = +organism_Q7239 | +person_Q215627	A2-ppt_Theme_illness_or_injury = None	A3-mnr_X_instrument_treatment = None	AM-LOC	
+Comments								
+								
+LDC	medical.diagnosis.unspecified	LDC_KAIROS_evt_050	Treater = per, org, gpe, sid	Patient = per, aml	SymptomSign = mhi	MedicalCondition = mhi	Place = loc, gpe, fac	
+xpo	medical_diagnosis_Q177719	diagnose.01	A0-pag_agent_doctor = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_theme_patient = +concrete_object_Q4406616 | +organization_Q43229	A2-prd_attribute_illness	A2-prd_attribute_illness	AM-LOC	
+Comments								
+								
+LDC	medical.intervention.unspecified	LDC_KAIROS_evt_051	Treater = per, org, gpe, sid	Patient = per, aml	MedicalIssue = mhi	Instrument = com	Place = loc, gpe, fac	
+xpo	treatment_Q179661	treat.03	A0-pag_X_doctor = +person_Q215627 | +group_of_humans_Q16334295 | +drug_Q8386	A1-ppt_X_patient = +organism_Q7239 | +person_Q215627	A2-ppt_X_illness_or_injury = None	A3-mnr_X_instrument = None	AM-LOC	
+Comments								
+								
+LDC	medical.vaccinate.unspecified	LDC_KAIROS_evt_052	Treater = per, org, gpe, sid	Patient = per, aml	VaccineTarget = mhi	VaccineMethod = com	Place = loc, gpe, fac	
+xpo	vaccination_Q192995	inoculate.01, vaccinate.01	A0-pag_X_inoculator = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_X_patient_inoculated = +organism_Q7239 | +person_Q215627	A2-ppt_X_inoculated_against = None	A3-mnr_X_innoculated_with = None	AM-LOC	
+Comments								
+								
+LDC	movement.transportation.evacuation	LDC_evt_115	Transporter = per, org, gpe, sid	Passenger = per	Vehicle = veh	Origin = loc, gpe, fac	Destination = loc, gpe, fac	
+xpo	emergency_evacuation_Q606332	evacuate.01, transport.01	A0-pag_agent_transporter = +organism_Q7239 | +person_Q215627 | +group_of_humans_Q16334295	A1-PPT_thing_transported = +organism_Q7239 | +person_Q215627 | +group_of_humans_Q16334295	AM-MNR	A2-dir_initial_location_source = +geographic_entity_Q27096213	A3-gol_destination_destination = +geographic_entity_Q27096213	
+Comments								
+								
+LDC	movement.transportation.grantallowpassage	LDC_KAIROS_evt_054	Transporter = per, org, gpe, sid	PassengerArtifact = per, bal, com, fac, loc, mon, veh, wea, aml, pth, pla, bod, nat	Vehicle = veh	Granter = per, org, gpe, sid	Origin = loc, gpe, fac	Destination = loc, gpe, fac
+xpo	access_Q57699905	permit.01, admit.02	A1-ppt_theme_enterer = +organism_Q7239 | +person_Q215627 | +group_of_humans_Q16334295			A0-pag_agent_allower  = +person_Q215627 | +group_of_humans_Q16334295	AM-DIR	A2-loc_location_place entered = +geographic_entity_Q27096213
+Comments								
+								
+LDC	movement.transportation.illegaltransportation - smuggling	LDC_evt_111	Transporter = per, org, gpe, sid	Artifact = bal, com, fac, loc, mon, veh, wea	Vehicle = veh	Origin = loc, gpe, fac	Destination = loc, gpe, fac	
+xpo	smuggling_Q184840	smuggle.01	A0-pag_agent_thief = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_theme_stolen_object = +concrete_object_Q4406616	AM-MNR	A2-dir_initial_location_stolen-from  = +geographic_entity_Q27096213	A3-gol_destination_destination  = +geographic_entity_Q27096213	
+Comments								
+								
+LDC	movement.transportation.illegaltransportation - illegal migration	LDC_evt_112 (transport people)	Transporter = per, org, gpe, sid	Passenger = per	Vehicle = veh	Origin = loc, gpe, fac	Destination = loc, gpe, fac	
+xpo	illegal_migration_Q107434802	slip.02	A0-pag_agent_mover = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_patient_moved = +person_Q215627	AM-MNR	AM-DIR	A2-GOL_X_destination  = +geographic_entity_Q27096213	
+Comments								
+								
+LDC	movement.transportation.unspecified - travel	LDC_KAIROS_evt_057	Transporter = per, org, gpe, sid	Passenger = per	Vehicle = veh	Origin = loc, gpe, fac	Destination = loc, gpe, fac	
+xpo	travel_Q61509	travel.01, slip.02	A0-pag_agent_mover = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_patient_moved = +person_Q215627	AM-MNR	AM-DIR	A2-GOL_X_destination  = +geographic_entity_Q27096213	
+Comments								
+								
+LDC	movement.transportation.unspecified - transport	LDC_KAIROS_evt_057	Transporter = per, org, gpe, sid	PassengerArtifact = per, bal, com, fac, loc, mon, veh, wea, aml, pth, pla, bod, nat	Vehicle = veh	Origin = loc, gpe, fac, com, veh	Destination = loc, gpe, fac, com, veh	
+xpo	transport_Q7590	transport.01	A0-pag_agent_transporter = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_theme_thing_transported = +concrete_object_Q4406616	AM-MNR	A2-dir_Initial_location_source = None	A3-gol_destination_destination = None	
+Comments								
+								
+LDC	movement.transportation.unspecified	LDC_KAIROS_evt_057	Transporter = per, org, gpe, sid	PassengerArtifact = per, bal, com, fac, loc, mon, veh, wea, aml, pth, pla, bod, nat	Vehicle = veh	Origin = loc, gpe, fac, com, veh	Destination = loc, gpe, fac, com, veh	
+xpo	travel_Q61509 | transport_Q7590	transport.01, travel.01, slip.02	A0-pag_agent_xx = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_X_xx = +concrete_object_Q4406616	AM-MNR	Ax-dir = None	Ax-gol_X_destination = None	
+Comments								
+								
+LDC	personnel.changeposition.changejoblocation	LDC_KAIROS_evt_058	Employee = per	PlaceOfEmployment = gpe, org	PreviousOrgLocation = loc, gpe	NewOrgLocation = loc, gpe	Place = loc, gpe, fac	
+xpo	intra-company_transfer_Q6206738	relocate.01	A1-ppt_X_entity_relocated = +person_Q215627 | +group_of_humans_Q16334295	A0-pag_X_agent = +person_Q215627 | +group_of_humans_Q16334295	A3-dir_X_source = None	A2-gol_X_destination = None	AM-LOC	
+Comments	needed jumbling of general args							
+								
+LDC	personnel.changeposition.demotion	Kairos	Employee = per	PlaceOfEmployment = gpe, org	PreviousPosition = ttl	NewPosition = ttl	Place = loc, gpe, fac	
+xpo	demotion_Q464858	demote.01	A1-ppt_X_thing_in_motion = +group_of_humans_Q16334295	A0-pag_X_causer_of_motion = +person_Q215627	A3-dir_X_source = None	A2-gol_X_destination = None	AM-LOC	
+Comments								
+								
+LDC	personnel.changeposition.lateral	Kairos	Employee = per	PlaceOfEmployment = gpe, org	PreviousPosition = ttl	NewPosition = ttl	Place = loc, gpe, fac	
+xpo	intra-company_transfer_Q6206738	relocate.01	A1-ppt_X_entity_relocated = +person_Q215627	A0-pag_X_agent = +person_Q215627 | +group_of_humans_Q16334295	A3-dir_X_source = None	A2-gol_X_destination = None	AM-LOC	
+Comments								
+								
+LDC	personnel.changeposition.promotion	Kairos	Employee = per	PlaceOfEmployment = gpe, org	PreviousPosition = ttl	NewPosition = ttl	Place = loc, gpe, fac	
+xpo	promotion_Q574433	promote.01	A1-ppt_X_thing_in_motion = +person_Q215627 | +group_of_humans_Q16334295	A0-pag_X_causer_of_motion = +person_Q215627 | +group_of_humans_Q16334295	A3-dir_X_source = None	A2-gol_X_destination = None	AM-LOC	
+Comments								
+								
+LDC	personnel.changeposition.unspecified	Kairos	Employee = per	PlaceOfEmployment = gpe, org	PreviousPosition	NewPosition	Place = loc, gpe, fac	
+xpo	appointment_Q1318578	appoint.01	A1-ppt_theme_appointee = +person_Q215627 | +group_of_humans_Q16334295	A0-pag_agent_appointer =+person_Q215627 | +group_of_humans_Q16334295		A2-prd_result_job = None	AM-LOC	
+Comments	Add LDC arg argRestraints							
+								
+LDC	personnel.elect.unspecified	LDC_evt_123	Voter = per, sid	Candidate = per	Place = loc, gpe, fac			
+xpo	election_Q40231	elect.01	A0-pag_agent_voters = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_theme_candidate = +person_Q215627	AM-LOC			
+Comments								
+								
+LDC	personnel.elect.winelection	LDC_evt_124	Voter = per, sid	Candidate = per	Place = loc, gpe, fac			
+xpo	elected_Q20826785	elect.01	A0-pag_agent_voters = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_theme_candidate = +person_Q215627	AM-LOC			
+Comments								
+								
+LDC	personnel.endposition.firinglayoff	LDC_evt_126	Employee = per	PlaceOfEmployment = gpe, org	Place = loc, gpe, fac			
+xpo	dismissal_Q17052147	fire.02	A1-ppt_theme_ex-employee = +person_Q215627	A0-pag_agent_employer = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC			
+Comments								
+								
+LDC	personnel.endposition.quitretire	LDC_evt_127	Employee = per	PlaceOfEmployment = gpe, org	Place = loc, gpe, fac			
+xpo	resignation_Q796919	resign.01, quit.01	A0-pag_agent_quitter = +person_Q215627	A1-ppt_source_job = None	AM-LOC			
+Comments								
+								
+LDC	personnel.endposition.unspecified	LDC_evt_125	Employee = per	PlaceOfEmployment = gpe, org	Place = loc, gpe, fac			
+xpo	termination_of_employment_Q685744	terminate.02	A1-ppt_theme_ex-employee = +person_Q215627	A0-pag_employer = +person_Q215627 | +group_of_humans_Q16334295	AM-LOC			
+Comments								
+								
+LDC	personnel.startposition.hiring	LDC_evt_129	Employee = per	PlaceOfEmployment = gpe, org	Place = loc, gpe, fac			
+xpo	recruitment_Q899277	hire.01	A1-ppt_theme_new_employee = +person_Q215627	A0-PAG_agent_employer = +person_Q215627	AM-LOC			
+Comments								
+								
+LDC	personnel.startposition.unspecified	LDC_evt_128	Employee = per	PlaceOfEmployment = gpe, org	Position	Place = loc, gpe, fac		
+xpo	appointment_Q1318578	appoint.01	A0-pag_agent_quitter = +person_Q215627	A0-pag_agent_appointer =+person_Q215627 | +group_of_humans_Q16334295	A2-prd_result_position = None	AM-LOC		
+Comments								
+								
+LDC	transaction.aidbetweengovernments.unspecified	LDC_KAIROS_evt_065	Giver = gpe	Recipient = gpe	Beneficiary = per, org, gpe, sid	ArtifactMoney = mon, com, bal, fac, veh, wea, aml, pla, nat, abs, bod	Place = loc, gpe, fac	
+xpo	international_aid_Q2827815	help.01, aid.01, give.01	A0-pag_agent_giver = +group_of_humans_Q16334295	A2-gol_recipient_rntity_given_to = +group_of_humans_Q16334295		A1-ppt_theme_thing_given	AM-LOC	
+Comments								
+								
+LDC	transaction.donation.unspecified	LDC_evt_132	Giver = per, org, gpe, sid	Recipient = per, org, gpe, sid	Beneficiary = per, org, gpe, sid	Place = loc, gpe, fac		
+xpo	gift_Q707482	donate.01, gift.01, give.01	A0-pag_agent_giver =  +person_Q215627 +group_of_humans_Q16334295	A2-gol_recipient_rntity_given_to =  +person_Q215627 +group_of_humans_Q16334295		AM-LOC		
+Comments								
+								
+LDC	transaction.exchangebuysell.unspecified	LDC_KAIROS_evt_067	Giver = per, org, gpe, sid	Recipient = per, org, gpe, sid	AcquiredEntity = bal, com, gpe, fac, loc, mon, org, veh, wea, abs, aml, nat, pla, pth	PaymentBarter = bal, com, gpe, fac, loc, mon, org, veh, wea, abs, aml, nat, pla, pth	Beneficiary = per, org, gpe, sid	Place = loc, gpe, fac
+xpo	exchange_of_goods_Q21651837	exchange.01	A0-pag_agent_agent = +person_Q215627 | +group_of_humans_Q16334295	A2-com_co-agent_other_exchanger = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_theme_thing_being_traded = None	A3-ppt_co-theme_other_item_in_exchange_price_or_premium = None	A4-gol_X_benefactive	AM-LOC
+Comments								
+								
+LDC	socialbehavior.wear.wear	NEW	Wearer = per	Thing worn = com	Body Location = bod	Place = loc, gpe, fac		
+xpo		wear.01	A0-pag_pivot_wearer = +person_Q215627	A1-ppt_theme_clothing = +clothing_Q11460		AM-LOC		
+Comments	Nothing in WD	New Event, no LDC args yet						
+								
+LDC	socialbehavior.clean.sanitize	NEW	Agent = per, org, gpe, sid	Sanitized Object = fac, com, veh, wea	Sanitizing Agent = com, nat	Pathogen = pth	Place = loc, gpe, fac	
+xpo	disinfection_Q66869562	sanitize.01	A0-pag_X_cleaner = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_X_thing_made_clean = None	AM-MNR	AM-CAU	AM-LOC	
+Comments								
+								
+LDC	socialbehavior.clean.wash	NEW	Washer = per, org, gpe, sid	Thing Washed = per, bod, nat, com, veh, wea	Cleansing Agent = com, nat	Place = loc, gpe, fac		
+xpo	washing_Q23841	wash.01	A0-pag_agent_agent_of_washing = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_theme_thing_being_washed = +organism_Q7239 | +anatomical_structure_Q4936952 | +concrete_object_Q4406616 | +person_Q215627	A2-mnr_X_washing_liquid = None	AM-LOC		
+Comments								
+								
+LDC	socialbehavior.complyobey.unspecified	NEW	Complier = per, org, gpe, sid	Rule = event, law	Place = loc, gpe, fac			
+xpo	compliance_Q1399332	abide.01, comply.01	A0-pag_X_complier = +person_Q215627 | +group_of_humans_Q16334295	A1-ppt_X__complied-with = None	AM-LOC			
+Comments								

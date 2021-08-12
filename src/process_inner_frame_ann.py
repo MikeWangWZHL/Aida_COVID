@@ -5,6 +5,7 @@ from collections import defaultdict
 from ontology import Ontology
 from ltf_util import LTF_util
 from glob import glob
+from shutil import copyfile
 
 NA_FILLER = 'EMPTY_TBD'
 Subtype_Type_Mapping = {
@@ -42,6 +43,7 @@ Subtype_Type_Mapping = {
     "InitiateJudicialProcess":"Justice",
     "Investigate":"Justice",
     "JudicialConsequences":"Justice",
+    "Impede":'Control'
 }
 def get_entities(doc_id, lines):
     entity_dict = {}
@@ -93,7 +95,7 @@ def get_events(doc_id, lines, entities):
                 arg_type = arg_str.split(':')[0]
                 arg_entity = entities[arg_str.split(':')[1]]
                 args.append({'role_type':arg_type,'entity_id':arg_entity['id'], 'entity_ann_id':arg_str.split(':')[1]})
-            event_dict[parsed_line[0]] = {'id':ev_id,'type':ev_type_str,'trigger':ev_trigger,'arguments':args}
+            event_dict[parsed_line[0]] = {'id':ev_id,'type':ev_type_str,'trigger':ev_trigger,'arguments':args, 'event_ann_id':parsed_line[0]}
     return event_dict
 
 def get_attributes(doc_id, lines, events, entities):
@@ -114,7 +116,7 @@ def get_attributes(doc_id, lines, events, entities):
 
     return attr_dict
 
-def get_relations(doc_id, lines, entities):
+def get_relations(doc_id, lines, entities, events):
     relations = {}
     for line in lines:
         if line.startswith('R'):
@@ -125,9 +127,16 @@ def get_relations(doc_id, lines, entities):
             # get type, args
             rel_type, arg1_str, arg2_str = parsed_line[1].split(' ')
             arg2_str = arg2_str.strip()
-            arg1 = {'arg1_name':arg1_str.split(':')[0],'entity_id':entities[arg1_str.split(':')[1]]['id'], 'entity_ann_id':arg1_str.split(':')[1]}
-            arg2 = {'arg2_name':arg2_str.split(':')[0],'entity_id':entities[arg2_str.split(':')[1]]['id'], 'entity_ann_id':arg2_str.split(':')[1]}
-            relations[parsed_line[0]] = {'id':rel_id, 'type': rel_type.replace('_','.'), 'args':{'arg1':arg1,'arg2':arg2}}
+            if arg1_str.split(':')[1] in entities:
+                arg1 = {'arg1_name':arg1_str.split(':')[0],'entity_id':entities[arg1_str.split(':')[1]]['id'], 'entity_ann_id':arg1_str.split(':')[1]}
+            elif arg1_str.split(':')[1] in events:
+                arg1 = {'arg1_name':arg1_str.split(':')[0],'entity_id':events[arg1_str.split(':')[1]]['id'], 'entity_ann_id':arg1_str.split(':')[1]}
+            if arg2_str.split(':')[1] in entities:
+                arg2 = {'arg2_name':arg2_str.split(':')[0],'entity_id':entities[arg2_str.split(':')[1]]['id'], 'entity_ann_id':arg2_str.split(':')[1]}
+            elif arg2_str.split(':')[1] in events:
+                arg2 = {'arg2_name':arg2_str.split(':')[0],'entity_id':events[arg2_str.split(':')[1]]['id'], 'entity_ann_id':arg2_str.split(':')[1]}
+
+            relations[parsed_line[0]] = {'id':rel_id, 'type': rel_type.replace('_','.'), 'args':{'arg1':arg1,'arg2':arg2}, 'relation_ann_id':parsed_line[0]}
     return relations
 
 def load_ann(ann_path):
@@ -269,7 +278,7 @@ def generate_LDC_tabs(tab_name, child_id, entities, events, relations, output_di
         
         write_lines(lines)
 
-def get_claim_event_relation_mapping(attributes, relations, output_dir = '.'):
+def get_claim_event_relation_mapping(attributes, relations):
     # get relation first arg entity to relation id mapping:
     re_arg1_to_reid = defaultdict(list)
     for re in relations.values():    
@@ -278,17 +287,13 @@ def get_claim_event_relation_mapping(attributes, relations, output_dir = '.'):
     
     claim_dict = defaultdict(list)
     for attr in attributes.values():
-        if attr['type'] == 'CliamID':
+        if 'ClaimID' in attr['type']:
             # propagate to relations if it is an entity
             if attr['arg_id'] in re_arg1_to_reid: 
                 for re_id in re_arg1_to_reid[attr['arg_id']]:
                     claim_dict[attr['value']].append(re_id)
             else:
                 claim_dict[attr['value']].append(attr['arg_id']) # add event
-    # write to json
-    # with open(os.path.join(output_dir,"inner_outer_mapping.json"), 'w') as out:
-    #     json.dump(claim_dict, out, indent = 4)
-    # print(f'write mapping json to {output_dir}')
     return claim_dict
 
 def process_ann(ann_path):
@@ -299,24 +304,24 @@ def process_ann(ann_path):
     lines = load_ann(ann_path)
     
     entities = get_entities(doc_id,lines)
-    print('entity:')
-    pp.pprint(entities['T1']) # print entity
-    print('===================================')
+    # print('entity:')
+    # pp.pprint(entities['T1']) # print entity
+    # print('===================================')
     
     events = get_events(doc_id,lines,entities) 
-    print('event:')
-    pp.pprint(events['E3']) # print event
-    print('===================================')
+    # print('event:')
+    # pp.pprint(events['E3']) # print event
+    # print('===================================')
     
     attributes = get_attributes(doc_id,lines,events, entities)
-    print('attrubutes:')
-    pp.pprint(attributes['A1']) # print attr
-    print('===================================')
+    # print('attrubutes:')
+    # pp.pprint(attributes['A1']) # print attr
+    # print('===================================')
     
-    relations = get_relations(doc_id,lines,entities)
-    print('relations:')
-    pp.pprint(relations['R1'])
-    print('===================================')
+    relations = get_relations(doc_id,lines,entities, events)
+    # print('relations:')
+    # pp.pprint(relations['R1'])
+    # print('===================================')
 
     print(f'processed ann path: {ann_path}')
     print('=====================================')
@@ -342,38 +347,69 @@ def main():
     get_claim_event_relation_mapping(attributes,relations, output_dir = out_dir_path )
 
 
-def gen_mention_template(ann_dir, ltf_dir, aida_ont, kairos_ont, output_dir = None):
+def gen_mention_template(ann_dir, ltf_dir, aida_ont, kairos_ont, oneie_out_dir, output_tab_dir, output_dir = '.'):
     
     def gen_event_argument_line(arg):
-        arg_en = entities[arg['entity_ann_id']]
-        arg_en_type = arg_en['type']
-        arg_provenance = arg_en['text']
-        arg_off_start = arg_en['offsets'][0]
-        arg_off_end = arg_en['offsets'][1] - 1
-        arg_en_id = arg['entity_id']
-        arg_role_type = arg['role_type']
-        arg_offset_str = f'{doc_id}:{arg_off_start}-{arg_off_end}'
-        arg_nlp_description = ltf_util.get_original_text(arg_offset_str)
-        arg_attribute = NA_FILLER
+        if arg['entity_ann_id'] in entities:
+            arg_en = entities[arg['entity_ann_id']]
+            arg_en_type = arg_en['type']
+            arg_provenance = arg_en['text']
+            arg_off_start = arg_en['offsets'][0]
+            arg_off_end = arg_en['offsets'][1] - 1
+            arg_en_id = arg['entity_id']
+            arg_role_type = arg['role_type']
+            arg_offset_str = f'{doc_id}:{arg_off_start}-{arg_off_end}'
 
-        if arg_role_type in argrole_to_argnum:
-            arg_num = argrole_to_argnum[arg_role_type]
-        else:
-            arg_num = argrole_to_argnum[arg_role_type[:-1]]
+            # add to offsetstr dict
+            all_mention_offset_str_dict[arg_offset_str] = {'mention_type':'entity','mention_id':arg_en_id,'mention_object':arg_en}
 
-        return f'{arg_en_id}\t{arg_nlp_description}\t{arg_provenance}\t{arg_attribute}\t{arg_en_type}\t{NA_FILLER}\t{arg_num}\t{arg_role_type}\n'
+            arg_nlp_description = ltf_util.get_original_text(arg_offset_str)
+            arg_attribute = NA_FILLER
+
+            if arg_role_type in argrole_to_argnum:
+                arg_num = argrole_to_argnum[arg_role_type]
+            else:
+                arg_num = argrole_to_argnum[arg_role_type[:-1]]
+
+            return f'{arg_en_id}\t{arg_nlp_description}\t{arg_provenance}\t{arg_attribute}\t{arg_en_type}\t{NA_FILLER}\t{arg_num}\t{arg_role_type}\n'
+
+        elif arg['entity_ann_id'] in events:
+            arg_en = events[arg['entity_ann_id']]
+            arg_off_start = arg_en['trigger']['offsets'][0]
+            arg_off_end = arg_en['trigger']['offsets'][1]-1
+            arg_offset_str = f'{doc_id}:{arg_off_start}-{arg_off_end}'
+            arg_en_id = arg_en['id']
+            arg_en_type = arg_en['type']
+            arg_role_type = arg['role_type']
+
+            # add to offsetstr dict
+            all_mention_offset_str_dict[arg_offset_str] = {'mention_type':'event','mention_id':arg_en_id,'mention_object':arg_en}
+
+            arg_nlp_description = ltf_util.get_original_text(arg_offset_str)
+            arg_provenance = arg_en['trigger']['text']
+            arg_attribute = NA_FILLER
+            if arg_role_type in argrole_to_argnum:
+                arg_num = argrole_to_argnum[arg_role_type]
+            else:
+                arg_num = argrole_to_argnum[arg_role_type[:-1]]
+
+            return f'{arg_en_id}\t{arg_nlp_description}\t{arg_provenance}\t{arg_attribute}\t{arg_en_type}\t{NA_FILLER}\t{arg_num}\t{arg_role_type}\n'
 
     '''load ltf class'''
     ltf_util = LTF_util(ltf_dir)
     # usage: ltf_util.get_original_text('K0C047Z59:477-493'))
     
+    all_mention_offset_str_dict = {}
+    doc_ids = []
+
     for ann_path in glob(os.path.join(ann_dir,'*.ann')):
         entities, events, attributes, relations = process_ann(ann_path)
         # check inner outer mapping
         inner_outer_mapping = get_claim_event_relation_mapping(attributes,relations)
-        
+
         doc_id = os.path.basename(ann_path)[:-8]
-        
+        doc_ids.append(doc_id)
+
         lines_dict = {}
 
         # get event mention lines:
@@ -385,6 +421,10 @@ def gen_mention_template(ann_dir, ltf_dir, aida_ont, kairos_ont, output_dir = No
             off_start = ev['trigger']['offsets'][0]
             off_end = ev['trigger']['offsets'][1] - 1
             trigger_offset_str = f'{doc_id}:{off_start}-{off_end}'
+
+            # add to offsetstr dict
+            all_mention_offset_str_dict[trigger_offset_str] = {'mention_type':'event','mention_id':ev_id,'mention_object':ev}
+
             nlp_description = ltf_util.get_original_text(trigger_offset_str)
             ev_attribute = NA_FILLER
             ev_type = ev['type']
@@ -419,6 +459,8 @@ def gen_mention_template(ann_dir, ltf_dir, aida_ont, kairos_ont, output_dir = No
             ev_lines.append(ev_line)
             for a_l in arg_lines:
                 ev_lines.append(a_l)
+            while len(ev_lines) < 13:
+                ev_lines.append('\n')
             # add lines for one event item to dict
             lines_dict[ev_id] = ev_lines
 
@@ -428,28 +470,70 @@ def gen_mention_template(ann_dir, ltf_dir, aida_ont, kairos_ont, output_dir = No
             re_id = re['id']
             
             arg1 = re['args']['arg1']
-            arg1_en = entities[arg1['entity_ann_id']]
-            arg1_off_start = arg1_en['offsets'][0]
-            arg1_off_end = arg1_en['offsets'][1]-1
-            arg1_offset_str = f'{doc_id}:{arg1_off_start}-{arg1_off_end}'
-            arg1_nlp_description = ltf_util.get_original_text(arg1_offset_str)
-            arg1_en_id = arg1['entity_id']
-            arg1_text = arg1_en['text']
-            arg1_en_type = arg1_en['type']
+            # if arg1 is entity argument
+            if arg1['entity_ann_id'] in entities:
+                arg1_en = entities[arg1['entity_ann_id']]
+                arg1_off_start = arg1_en['offsets'][0]
+                arg1_off_end = arg1_en['offsets'][1]-1
+                arg1_offset_str = f'{doc_id}:{arg1_off_start}-{arg1_off_end}'
+                arg1_en_id = arg1['entity_id']
+                arg1_text = arg1_en['text']
+                arg1_en_type = arg1_en['type']
+                
+                # add to offsetstr dict
+                all_mention_offset_str_dict[arg1_offset_str] = {'mention_type':'entity','mention_id':arg1_en_id,'mention_object':arg1_en}
+                
+                arg1_nlp_description = ltf_util.get_original_text(arg1_offset_str)
+            # if arg1 is a event argument
+            elif arg1['entity_ann_id'] in events:
+                arg1_en = events[arg1['entity_ann_id']]
+                arg1_off_start = arg1_en['trigger']['offsets'][0]
+                arg1_off_end = arg1_en['trigger']['offsets'][1]-1
+                arg1_en_id = arg1_en['id']
+                arg1_text = arg1_en['trigger']['text']
+                arg1_en_type = arg1_en['type']
+                
+                arg1_offset_str = f'{doc_id}:{arg1_off_start}-{arg1_off_end}'
+                
+                # add to offsetstr dict
+                all_mention_offset_str_dict[arg1_offset_str] = {'mention_type':'event','mention_id':arg1_en_id,'mention_object':arg1_en}
 
-            arg2 = re['args']['arg2']
-            arg2_en = entities[arg2['entity_ann_id']]
-            arg2_off_start = arg2_en['offsets'][0]
-            arg2_off_end = arg2_en['offsets'][1]-1
-            arg2_offset_str = f'{doc_id}:{arg2_off_start}-{arg2_off_end}'
-            arg2_nlp_description = ltf_util.get_original_text(arg2_offset_str)
-            arg2_en_id = arg2['entity_id']
-            arg2_text = arg2_en['text']
-            arg2_en_type = arg2_en['type']
+                arg1_nlp_description = ltf_util.get_original_text(arg1_offset_str)
             
+            arg2 = re['args']['arg2']
+            if arg2['entity_ann_id'] in entities:
+                arg2_en = entities[arg2['entity_ann_id']]
+                arg2_off_start = arg2_en['offsets'][0]
+                arg2_off_end = arg2_en['offsets'][1]-1
+                arg2_offset_str = f'{doc_id}:{arg2_off_start}-{arg2_off_end}'
+                arg2_nlp_description = ltf_util.get_original_text(arg2_offset_str)
+                arg2_en_id = arg2['entity_id']
+                arg2_text = arg2_en['text']
+                arg2_en_type = arg2_en['type']
+
+                # add to offsetstr dict
+                all_mention_offset_str_dict[arg2_offset_str] = {'mention_type':'entity','mention_id':arg2_en_id,'mention_object':arg2_en}
+
+            elif arg2['entity_ann_id'] in events:
+                arg2_en = events[arg2['entity_ann_id']]
+                arg2_off_start = arg2_en['trigger']['offsets'][0]
+                arg2_off_end = arg2_en['trigger']['offsets'][1]-1
+                arg2_offset_str = f'{doc_id}:{arg2_off_start}-{arg2_off_end}'
+                arg2_nlp_description = ltf_util.get_original_text(arg2_offset_str)
+                arg2_en_id = arg2_en['id']
+                arg2_text = arg2_en['trigger']['text']
+                arg2_en_type = arg2_en['type']
+
+                # add to offsetstr dict
+                all_mention_offset_str_dict[arg2_offset_str] = {'mention_type':'event','mention_id':arg2_en_id,'mention_object':arg2_en}
+                
+
             re_off_start = min(arg1_off_start, arg2_off_start)
             re_off_end = max(arg1_off_end, arg2_off_end)-1
             re_offset_str = f'{doc_id}:{re_off_start}-{re_off_end}'
+
+            # add to offsetstr dict
+            all_mention_offset_str_dict[re_offset_str] = {'mention_type':'relation','mention_id':re_id, 'mention_object':re}
 
             re_nlp_description = ltf_util.get_original_text(re_offset_str)
             re_provenance = re_nlp_description
@@ -463,8 +547,15 @@ def gen_mention_template(ann_dir, ltf_dir, aida_ont, kairos_ont, output_dir = No
             arg2_role_type = re_ont['args']['Arg2']
 
             re_template = re_ont['template']
-            re_template = re_template.replace('arg1',arg1_en['text'])
-            re_template = re_template.replace('arg2',arg2_en['text'])
+            if arg1['entity_ann_id'] in entities:
+                re_template = re_template.replace('arg1',arg1_en['text'])
+            elif arg1['entity_ann_id'] in events:
+                re_template = re_template.replace('arg1',arg1_en['trigger']['text'])
+
+            if arg2['entity_ann_id'] in entities:
+                re_template = re_template.replace('arg2',arg2_en['text'])
+            elif arg2['entity_ann_id'] in events:
+                re_template = re_template.replace('arg2',arg2_en['trigger']['text'])
             
             # add relation mention line
             re_lines.append(f'{re_id}\t{re_nlp_description}\t{re_provenance}\t{re_attribute}\t{re_type}\t{NA_FILLER}\tn/a\tn/a\t{re_template}\n')
@@ -472,31 +563,150 @@ def gen_mention_template(ann_dir, ltf_dir, aida_ont, kairos_ont, output_dir = No
             # add relation arg line
             re_lines.append(f'{arg1_en_id}\t{arg1_nlp_description}\t{arg1_text}\t{NA_FILLER}\t{arg1_en_type}\t{NA_FILLER}\targ1\t{arg1_role_type}\n')
             re_lines.append(f'{arg2_en_id}\t{arg2_nlp_description}\t{arg2_text}\t{NA_FILLER}\t{arg2_en_type}\t{NA_FILLER}\targ2\t{arg2_role_type}\n')
-            
+            # add empty argument lines:
+            for _ in range(10):
+                re_lines.append('\n')
             # add lines for one relation item to dict
             lines_dict[re_id] = re_lines
 
         if output_dir:
             with open(os.path.join(output_dir,f'{doc_id}_mention_template.txt'), 'w') as out:
                 for claimid, inner_ids in inner_outer_mapping.items():
-                    out.write(f'==========Claimid: {claimid}==========\n')
+                    # out.write(f'===============================================\n')
+                    # out.write(f'==========Claimid: {claimid}==========\n')
+                    # out.write(f'===============================================\n\n')
+                    count = 0
                     for inner_id in inner_ids:
                         # if it is Relationid or Eventid
                         if not inner_id.startswith('EN'):
+                            # out.write(f'----------mention #{count}----------\n')
                             for line in lines_dict[inner_id]:
                                 out.write(line)
+                            # out.write('----------------------------------------\n')
+                            count += 1
+                    # out.write('\n')
             print('done writing:',os.path.join(output_dir,'mention_template.txt'))
-        else:
-            return lines_dict
-        
+
+            with open(os.path.join(output_dir,f"{doc_id}_inner_outer_mapping.txt"), 'w') as out:
+                for key,value in inner_outer_mapping.items():
+                    out.write(f'===ClaimID:{key}===\n')
+                    for v in value:
+                        if not v.startswith('EN'):
+                            out.write(v)
+                            out.write('\n')
+
+            print(f'write mapping txt to:', os.path.join(output_dir,f"{doc_id}_inner_outer_mapping.txt"))
+
+    '''generate tabs for edl'''
+    gen_tab_files(doc_ids, oneie_out_dir, all_mention_offset_str_dict, output_tab_dir)
+    print('created tabs at:',output_tab_dir)
+    return all_mention_offset_str_dict
+
+# only entities for now:
+def gen_tab_files(doc_ids, oneie_out_dir, all_mention_offset_str_dict, output_tab_dir):
+    
+    def filter_tab_lines(tab_file, doc_ids, offset_str_set):
+        filtered_lines = []
+        with open(tab_file) as tab:
+            for line in tab:
+                parsed_line = line.split('\t')
+                doc = parsed_line[3].split(':')[0].strip()
+                if doc in doc_ids:
+                    if int(parsed_line[1].split('-')[1].strip()) > mention_count[doc]:
+                        mention_count[doc] = int(parsed_line[1].split('-')[1].strip())
+                    offset_str_set.add(parsed_line[3].strip())
+                    filtered_lines.append(line)
+        return filtered_lines
+
+    # load original tabs:
+    tab_nam_file = os.path.join(oneie_out_dir, 'merge/mention/en.nam.tab') 
+    tab_nom_file = os.path.join(oneie_out_dir, 'merge/mention/en.nom.tab') 
+    tab_pro_file = os.path.join(oneie_out_dir, 'merge/mention/en.pro.tab') 
+    bio_nam_file = os.path.join(oneie_out_dir, 'merge/mention/en.nam.bio') 
+    
+    mention_count = defaultdict(int)
+    offset_str_set = set()
+    # filtered tab lines:
+    filtered_tab_nam_lines = filter_tab_lines(tab_nam_file, doc_ids, offset_str_set)
+    filtered_tab_nom_lines = filter_tab_lines(tab_nom_file, doc_ids, offset_str_set) 
+    filtered_tab_pro_lines = filter_tab_lines(tab_pro_file, doc_ids, offset_str_set) 
+    print('mention num(before adding): ',mention_count)
+
+    # add new lines:
+    
+    for key, value in all_mention_offset_str_dict.items():
+        if value['mention_type'] == 'entity':
+            if key not in offset_str_set:
+                doc_id = key.split(':')[0]
+                line_index = mention_count[doc_id]
+                line_id = f'{doc_id}-{line_index}'
+                en = value['mention_object']
+                en_text = en['text']
+                en_type = en['type']
+                new_line = f'json2tab\t{line_id}\t{en_text}\t{key}\tNIL\t{en_type}\tNAM\t1.0\n'
+                filtered_tab_nam_lines.append(new_line)
+                mention_count[doc_id] += 1
+    
+    out_tab_nam_file = os.path.join(output_tab_dir, 'en.nam.tab') 
+    out_tab_nom_file = os.path.join(output_tab_dir, 'en.nom.tab') 
+    out_tab_pro_file = os.path.join(output_tab_dir, 'en.pro.tab') 
+    out_bio_nam_file = os.path.join(output_tab_dir, 'en.nam.bio')
+
+    with open(out_tab_nam_file, 'w') as nam:
+        for l in filtered_tab_nam_lines:
+            nam.write(l) 
+    with open(out_tab_nom_file, 'w') as nom:
+        for l in filtered_tab_nom_lines:
+            nom.write(l) 
+    with open(out_tab_pro_file, 'w') as pro:
+        for l in filtered_tab_pro_lines:
+            pro.write(l) 
+    copyfile(bio_nam_file, out_bio_nam_file)
+    print('mention num(after adding): ', mention_count)
+
+# fill in Qnodes
+def fill_Qnodes(output_dir,edl_out_tab, all_mention_offset_str_dict):
+    def get_id_to_qnode(edl_out_tab, all_mention_offset_str_dict):
+        id_2_qnode = {}
+        with open(edl_out_tab, 'r') as edl:
+            for line in edl:
+                parsed_line = line.split('\t')
+                offstr = parsed_line[3].strip()
+                qnode = parsed_line[4].strip()
+                if offstr in all_mention_offset_str_dict:
+                    id_2_qnode[all_mention_offset_str_dict[offstr]['mention_id']] = qnode
+        return id_2_qnode
+
+    id_2_qnode = get_id_to_qnode(edl_out_tab, all_mention_offset_str_dict)
+    # print(id_2_qnode)
+    mention_template_files = glob(os.path.join(output_dir, '*mention_template.txt'))
+    for mtf in mention_template_files:
+        new_lines = []
+        with open(mtf, 'r') as f:
+            for line in f:
+                if line != '\n':
+                    parsed_line = line.split('\t')
+                    mention_id = parsed_line[0].strip()
+                    if mention_id in id_2_qnode:
+                        parsed_line[5] = id_2_qnode[mention_id]
+                    new_lines.append('\t'.join(parsed_line))
+                else:
+                    new_lines.append(line)
+        with open(mtf, 'w') as f:
+            for line in new_lines:
+                f.write(line)
+        print('updated:',mtf)
 
 if __name__ == '__main__':
     # main()
 
     '''config'''
-    ann_dir_path = '/shared/nas/data/m1/wangz3/brat/Aida_COVID/src/hw2_inner/ann'
-    ltf_dir_path = '/shared/nas/data/m1/wangz3/brat/Aida_COVID/src/hw2_inner/ltf'
-    out_dir_path = '/shared/nas/data/m1/wangz3/brat/Aida_COVID/src/hw2_inner/out'
+    ann_dir_path = '/shared/nas/data/m1/wangz3/brat/Aida_COVID/results/hw2_inner/ann/'
+    ltf_dir_path = '/shared/nas/data/m1/wangz3/brat/Aida_COVID/results/hw2_inner/ltf'
+    out_dir_path = '/shared/nas/data/m1/wangz3/brat/Aida_COVID/results/hw2_inner/out'
+    oneie_output_path = '/shared/nas/data/m1/wangz3/brat/Aida_COVID/results/hw2_inner/oneie_out'
+    output_tab_path = '/shared/nas/data/m1/wangz3/brat/Aida_COVID/results/hw2_inner/edl_in'
+    edl_out_tab_path = os.path.join(out_dir_path,'edl_out.tab')
 
     '''load ontology'''
     aida_ontology_xlsx_path = '/shared/nas/data/m1/wangz3/brat/Aida_COVID/src/ontology/AIDA_Annotation_Ontology_Phase2_V1.1.xlsx'
@@ -505,4 +715,11 @@ if __name__ == '__main__':
     kairos_ont = Ontology(kairos_ontology_xlsx_path, 'kairos')    
     
     '''generate ldc homework 2 mention template'''
-    gen_mention_template(ann_dir_path, ltf_dir_path, aida_ont, kairos_ont, output_dir = out_dir_path)
+    all_mention_offset_str_dict = gen_mention_template(ann_dir_path, ltf_dir_path, aida_ont, kairos_ont, oneie_output_path, output_tab_path, output_dir = out_dir_path)
+    fill_Qnodes(out_dir_path, edl_out_tab_path, all_mention_offset_str_dict)
+
+    """usage"""
+    # set config paths in 703-704
+    # run process_inner_frame_ann.py
+    # got to '/shared/nas/data/m1/wangz3/RESIN_TA2_Pipeline/ta2-pipeline-local' run 'docker-compuse up'
+    # run process_inner_frame_ann.py again

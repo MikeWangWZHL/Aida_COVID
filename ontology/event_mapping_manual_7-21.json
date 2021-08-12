@@ -1,0 +1,313 @@
+{
+    "Medical_Intervention_Cure": {
+        "mapped_type_name": "medical_intervention_cure",
+        "args": {
+            "Patient": "Patient",
+            "Place": "Place",
+            "Treatment": "Instrument"
+        }
+    },
+    "DiseaseOutbreak_DiseaseOutbreak": {
+        "mapped_type_name": "disaster_diseaseoutbreak_unspecified",
+        "args": {
+            "Disease": "Disease",
+            "Place": "Place",
+            "Place2": "Place2",
+            "Place3": "Place3",
+            "Place4": "Place4",
+            "Place5": "Place5",
+            "Victim": "Victim",
+            "Victim2": "Victim2",
+            "Victim3": "Victim3"
+        }
+    },
+    "Life_Consume_Unspecified": {
+        "mapped_type_name": "life_consume_unspecified",
+        "args": {
+            "ConsumedThing": "ConsumedThing"
+        }
+    },
+    "Life_Infect_Unspecified": {
+        "mapped_type_name": "life_infect_unspecified",
+        "args": {
+            "Victim": "Victim",
+            "Victim2": "Victim2",
+            "InfectingAgent": "InfectingAgent",
+            "Source": "Source",
+            "Place": "Place",
+            "Source2": "Source2"
+        }
+    },
+    "Medical_Intervention_Unspecified": {
+        "mapped_type_name": "medical_intervention_unspecified",
+        "args": {
+            "MedicalIssue": "MedicalIssue",
+            "Instrument": "Instrument",
+            "Patient": "Patient",
+            "Treater": "Treater",
+            "Patient2": "Patient2",
+            "Place": "Place",
+            "MedicalIssue2": "MedicalIssue2",
+            "MedicalIssue3": "MedicalIssue3",
+            "Instrument2": "Instrument2"
+        }
+    },
+    "Control_Impede_Prevent": {
+        "mapped_type_name": "control_impedeinterferewith_prevent",
+        "args": {
+            "Prevented_thing": "Prevented_Thing",
+            "Place": "Place",
+            "Preventer": "Preventer",
+            "Preventer2": "Preventer2",
+            "Prevented_thing2": "Prevented_Thing2"
+        }
+    },
+    "Sanitize": {
+        "mapped_type_name": "socialbehavior_clean_sanitize",
+        "args": {
+            "Sanitizing_substance": "Sanitizing_Agent",
+            "Sanitized_object": "Sanitized_object",
+            "Pathogen": "Pathogen",
+            "Sanitized_object2": "Sanitized_object2",
+            "Sanitizing_substance2": "Sanitizing_Agent2",
+            "Sanitizing_substance3": "Sanitizing_Agent3",
+            "Sanitizing_substance4": "Sanitizing_Agent4"
+        }
+    },
+    "Shortage_Shortage": {
+        "mapped_type_name": "artifactexistence_shortage_shortage",
+        "args": {
+            "Supply": "Supply",
+            "Place": "Place"
+        }
+    },
+    "RequestAdvise_Broadcast": {
+        "mapped_type_name": "contact_requestcommand_broadcast",
+        "args": {
+            "Communicator": "Communicator",
+            "Recipient": "Recipient",
+            "Topic": "Topic"
+        }
+    },
+    "PublicStatementInPerson_Broadcast": {
+        "mapped_type_name": "contact_publicstatementinperson_broadcast",
+        "args": {
+            "Communicator": "Communicator",
+            "Communicator2": "Communicator2"
+        }
+    },
+    "Discussion_Meet": {
+        "mapped_type_name": "contact_discussion_meet",
+        "args": {
+            "Participant": "Participant"
+        }
+    },
+    "MediaStatement_Broadcast": {
+        "mapped_type_name": "contact_mediastatement_broadcast",
+        "args": {
+            "Communicator": "Communicator",
+            "Communicator2": "Communicator2",
+            "Recipient": "Recipient"
+        }
+    },
+    "Assess": {
+        "mapped_type_name": "cognitive_inspection_assesstestmeasure",
+        "args": {
+            "Thing_assessed": "Assessed",
+            "Thing_assessed_for": "Thing_Assessed_for",
+            "Assessor": "Assessor"
+        }
+    },
+    "ArtifactExistence_Creation": {
+        "mapped_type_name": "artifactexistence_creation_unspecified",
+        "args": {
+            "Thing_created": "Thing_Created",
+            "Creator": "Creator",
+            "Creator2": "Creator2",
+            "Place": "Place",
+            "Place2": "Place2",
+            "Components_Materials": "Components_Material",
+            "Creator3": "Creator3"
+        }
+    },
+    "TransportArtifact": {
+        "mapped_type_name": "movement_transportation_unspecified-transport",
+        "args": {
+            "Artifact": "PassengerArtifact",
+            "Transporter": "Transporter",
+            "Destination": "Destination",
+            "Origin": "Origin"
+        }
+    },
+    "PublicStatementInPerson": {
+        "mapped_type_name": "contact_publicstatementinperson_unspecified",
+        "args": {
+            "Communicator": "Communicator",
+            "Recipient": "Recipient"
+        }
+    },
+    "Life_Injure_Unspecified": {
+        "mapped_type_name": "life_injure_unspecified",
+        "args": {
+            "Victim": "Victim"
+        }
+    },
+    "Life_Mutate": {
+        "mapped_type_name": "life_mutate_unspecified",
+        "args": {
+            "Thing_mutating": "Thing_Mutating",
+            "Thing_mutating2": "Thing_Mutating2",
+            "Thing_mutating3": "Thing_Mutating3",
+            "Thing_mutating4": "Thing_Mutating4"
+        }
+    },
+    "Medical_Vaccinate_Unspecified": {
+        "mapped_type_name": "medical_vaccinate_unspecified",
+        "args": {
+            "VaccineTarget": "VaccineTarget"
+        }
+    },
+    "DamageDestroy_Destroy": {
+        "mapped_type_name": "artifactexistence_damagedestroydisabledismantle_destroy",
+        "args": {
+            "Artifact": "Artifact",
+            "Instrument": "Instrument"
+        }
+    },
+    "TransportArtifact_PreventEntry": {
+        "mapped_type_name": "control_impedeinterferewith_prevent",
+        "args": {
+            "Artifact": "Prevented_Thing"
+        }
+    },
+    "Contaminate": {
+        "mapped_type_name": "artifactexistence_contamination_unspecified",
+        "args": {
+            "Thing_contaminated": "Thing_Contaminated",
+            "Contaminant": "Contaminant",
+            "Contaminant2": "Contaminant2",
+            "Contaminant3": "Contaminant3"
+        }
+    },
+    "Life_Illness_Unspecified": {
+        "mapped_type_name": "life_illness_unspecified",
+        "args": {
+            "Victim": "Victim",
+            "Disease": "Disease"
+        }
+    },
+    "Life_Die_Unspecified": {
+        "mapped_type_name": "life_die_unspecified",
+        "args": {
+            "Victim": "Victim",
+            "MedicalIssue": "MedicalIssue",
+            "MedicalIssue2": "MedicalIssue2"
+        }
+    },
+    "TransportArtifact_SendSupplyExport": {
+        "mapped_type_name": "movement_transportation_unspecified-transport",
+        "args": {
+            "Artifact": "PassengerArtifact",
+            "Destination": "Destination",
+            "Origin": "Origin",
+            "Transporter": "Transporter",
+            "Artifact2": "PassengerArtifact2"
+        }
+    },
+    "TransportPerson_SelfMotion": {
+        "mapped_type_name": "movement_transportation_unspecified-travel",
+        "args": {
+            "Transporter": "Transporter",
+            "Origin": "Origin",
+            "Destination": "Destination"
+        }
+    },
+    "Wear": {
+        "mapped_type_name": "socialbehavior_wear_wear",
+        "args": {
+            "Thing_worn": "Thing_worn",
+            "Wearer": "Wearer"
+        }
+    },
+    "Wash": {
+        "mapped_type_name": "socialbehavior_clean_wash",
+        "args": {
+            "Thing_washed": "Thing_Washed",
+            "Washer": "Washer"
+        }
+    },
+    "Control_ComplyObey": {
+        "mapped_type_name": "socialbehavior_complyobey_unspecified",
+        "args": {
+            "Rule": "Rule",
+            "Complier": "Complier",
+            "Complier2": "Complier2"
+        }
+    },
+    "Prevarication_Broadcast": {
+        "mapped_type_name": "contact_prevarication_broadcast",
+        "args": {
+            "Participant": "Participant",
+            "Topic": "Topic",
+            "Communicator": "Communicator",
+            "Communicator2": "Communicator2",
+            "Communicator3": "Communicator3",
+            "Recipient": "Recipient",
+            "Recipient2": "Recipient2",
+            "Recipient3": "Recipient3"
+        }
+    },
+    "MediaStatement": {
+        "mapped_type_name": "contact_mediastatement_unspecified",
+        "args": {
+            "Communicator": "Communicator",
+            "Recipient": "Recipient",
+            "Communicator2": "Communicator2"
+        }
+    },
+    "TransportPerson_PreventEntry": {
+        "mapped_type_name": "movement_transportation_unspecified-travel",
+        "args": {
+            "Passenger": "Passenger",
+            "Preventer": "Transporter",
+            "Origin": "Origin",
+            "Destination": "Destination"
+        }
+    },
+    "Prevarication": {
+        "mapped_type_name": "contact_prevarication_unspecified",
+        "args": {
+            "Topic": "Topic",
+            "Communicator": "Communicator"
+        }
+    },
+    "RequestAdvise": {
+        "mapped_type_name": "contact_requestcommand_unspecified-request",
+        "args": {
+            "Communicator": "Communicator",
+            "Recipient": "Recipient",
+            "Communicator2": "Communicator2"
+        }
+    },
+    "Artifact_CreateManufacture": {
+        "mapped_type_name": "artifactexistence_creation_unspecified",
+        "args": {
+            "Manufacturer": "Creator"
+        }
+    },
+    "Discussion_Correspondence": {
+        "mapped_type_name": "contact_discussion_correspondence",
+        "args": {}
+    },
+    "TransferMoney_GiftGrantProvideAid": {
+        "mapped_type_name": "transaction_aidbetweengovernments_unspecified",
+        "args": {
+            "Recipient": "Recipient",
+            "Giver": "Giver"
+        }
+    },
+    "TransportArtifact_DisperseSeparate": {
+        "mapped_type_name": "movement_transportation_unspecified-transport",
+        "args": {}
+    }
+}

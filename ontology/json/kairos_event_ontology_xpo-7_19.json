@@ -1,0 +1,4906 @@
+{
+    "artifactexistence.artifactfailure.mechanicalfailure": {
+        "WD_Qnode": "breakdown_Q28777323",
+        "args": [
+            {
+                "constraints": [
+                    "+physical_object_Q223557"
+                ],
+                "ldc_role": "MechanicalArtifact",
+                "xpo_role": "A1-PPT_Patient_thing_broken_down"
+            },
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+machine_Q11019"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "A0-PAG_Agent_cause_of_breaking"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "artifactexistence.contamination.unspecified": {
+        "WD_Qnode": "contamination_Q60528603",
+        "args": [
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Agent",
+                "xpo_role": "A0-pag_agent_causer_of_contamination"
+            },
+            {
+                "constraints": [
+                    "+geographic_entity_Q27096213",
+                    "+concrete_object_Q4406616"
+                ],
+                "ldc_role": "Thing Contaminated",
+                "xpo_role": "A1-gol_Destination_thing_becoming_contaminated"
+            },
+            {
+                "constraints": [
+                    "+concrete_object_Q4406616"
+                ],
+                "ldc_role": "Contaminant",
+                "xpo_role": "A2-ppt_theme_contaminant"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "artifactexistence.creation.unspecified": {
+        "WD_Qnode": "creation_Q11398090",
+        "args": [
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+machine_Q11019",
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Creator",
+                "xpo_role": "A0-pag_Agent_creator"
+            },
+            {
+                "constraints": [
+                    "+abstract_object_Q7184903",
+                    "+artificial_physical_object_Q8205328"
+                ],
+                "ldc_role": "Thing Created",
+                "xpo_role": "A1-ppt_Result_thing_created"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Components/Material",
+                "xpo_role": "A2-vsp_Material_materials_used"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "artifactexistence.damagedestroydisabledismantle.damage": {
+        "WD_Qnode": "damage_Q481609",
+        "args": [
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627",
+                    "+machine_Q11019",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Damager",
+                "xpo_role": "A0-pag_agent_agent_causer"
+            },
+            {
+                "constraints": [
+                    "+concrete_object_Q4406616"
+                ],
+                "ldc_role": "Artifact",
+                "xpo_role": "A1-ppt_patient_entity damaged"
+            },
+            {
+                "constraints": [
+                    "+concrete_object_Q4406616"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "A2-mnr_instrument_instrument"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "artifactexistence.damagedestroydisabledismantle.destroy": {
+        "WD_Qnode": "destruction_Q17781833",
+        "args": [
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627",
+                    "+machine_Q11019",
+                    "+group_of_humans_Q16334295",
+                    "+health_problem_Q2057971"
+                ],
+                "ldc_role": "Destroyer",
+                "xpo_role": "A0-pag_agent_destroyer"
+            },
+            {
+                "constraints": [
+                    "+concrete_object_Q4406616",
+                    "+organism_Q7239",
+                    "+person_Q215627"
+                ],
+                "ldc_role": "Artifact",
+                "xpo_role": "A1-ppt_patient_thing destroyed"
+            },
+            {
+                "constraints": [
+                    "+concrete_object_Q4406616"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "A2-mnr_instrument_instrument of destruction"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "artifactexistence.damagedestroydisabledismantle.disabledefuse": {
+        "WD_Qnode": "bomb_disposal_Q649416",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Disabler",
+                "xpo_role": "A0-pag_agent_defuser"
+            },
+            {
+                "constraints": [
+                    "+bomb_Q127197",
+                    "+concrete_object_Q4406616",
+                    "+abstract_object_Q7184903"
+                ],
+                "ldc_role": "Artifact",
+                "xpo_role": "A1-ppt_patient_bomb"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "AM-MNR"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "artifactexistence.damagedestroydisabledismantle.dismantle": {
+        "WD_Qnode": "disassembly_Q52161698",
+        "args": [
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627",
+                    "+machine_Q11019",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Dismantler",
+                "xpo_role": "A0-pag_agent_agent"
+            },
+            {
+                "constraints": [
+                    "+concrete_object_Q4406616",
+                    "+physical_object_Q223557"
+                ],
+                "ldc_role": "Artifact",
+                "xpo_role": "A1-ppt_patient_thing_disassembled"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "AM-MNR"
+            }
+        ]
+    },
+    "artifactexistence.damagedestroydisabledismantle.unspecified": {
+        "WD_Qnode": "damage_Q481609 | destruction_Q17781833 | disassembly_Q52161698",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "DamagerDestroyer",
+                "xpo_role": "A0-pag_agent_xx"
+            },
+            {
+                "constraints": [
+                    "+concrete_object_Q4406616",
+                    "+physical_object_Q223557",
+                    "geographic_entity_Q27096213"
+                ],
+                "ldc_role": "Artifact",
+                "xpo_role": "A1-ppt_patient_xx"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "AM-MNR"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "artifactexistence.manufactureassemble.unspecified": {
+        "WD_Qnode": "assembly_Q3625549 | manufacturing_Q187939",
+        "args": [
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+machine_Q11019",
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "ManufacturerAssembler",
+                "xpo_role": "A0-pag_agent_creator"
+            },
+            {
+                "constraints": [
+                    "+artificial_physical_object_Q8205328"
+                ],
+                "ldc_role": "Artifact",
+                "xpo_role": "A1-prd_result_creation"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Components",
+                "xpo_role": "A2-vsp_material_created-from_thing_changed"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "AM-MNR"
+            }
+        ]
+    },
+    "artifactexistence.shortage.shortage": {
+        "WD_Qnode": "scarcity_Q815758",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Experiencer",
+                "xpo_role": "A2-gol_Recipient_xx"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Supply",
+                "xpo_role": "A1-ppt_Theme_xx"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "cognitive.identifycategorize.unspecified": {
+        "WD_Qnode": "identification_Q3265221",
+        "args": [
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627",
+                    "+organization_Q43229"
+                ],
+                "ldc_role": "Identifier",
+                "xpo_role": "A0-pag_agent_caller"
+            },
+            {
+                "constraints": [
+                    "+concrete_object_Q4406616",
+                    "+organization_Q43229",
+                    "???"
+                ],
+                "ldc_role": "IdentifiedObject",
+                "xpo_role": "A1-ppt_theme_item_being_labelled"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "IdentifiedRole",
+                "xpo_role": "A2-prd_attribute_attribute"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "cognitive.inspection.assesstestmeasure": {
+        "WD_Qnode": "estimation_process_Q791801",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295",
+                    "+device_Q1183543"
+                ],
+                "ldc_role": "Assessor",
+                "xpo_role": "A0-pag_agent_estimator"
+            },
+            {
+                "constraints": [
+                    "+concrete_object_Q4406616",
+                    "+physical_object_Q223557",
+                    "???"
+                ],
+                "ldc_role": "Assessed",
+                "xpo_role": "A1-ppt_theme_thing_estimated"
+            },
+            {
+                "constraints": [
+                    "???"
+                ],
+                "ldc_role": "Result",
+                "xpo_role": "A2-PRD_value_estimated-to-be"
+            }
+        ]
+    },
+    "cognitive.inspection.sensoryobserve": {
+        "WD_Qnode": "observation_Q193181",
+        "args": [
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Observer",
+                "xpo_role": "A0-ppt_experiencer_observer"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "ObservedEntity",
+                "xpo_role": "A1-pag_stimulus_thing_looked_at"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "AM-MNR"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "cognitive.research.unspecified": {
+        "WD_Qnode": "research_Q42240",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Researcher",
+                "xpo_role": "A0-pag_agent_student"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Subject",
+                "xpo_role": "A1-ppt_theme_subject"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Means",
+                "xpo_role": "AM-MNR"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "cognitive.teachingtraininglearning.unspecified": {
+        "WD_Qnode": "education_Q8434",
+        "args": [
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295",
+                    "animal_Q729"
+                ],
+                "ldc_role": "TeacherTrainer",
+                "xpo_role": "A0-pag_agent_teacher"
+            },
+            {
+                "constraints": [
+                    "+information_Q11028",
+                    "+knowledge_Q9081"
+                ],
+                "ldc_role": "FieldOfKnowledge",
+                "xpo_role": "A1-PPT_topic_subject"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295",
+                    "+organism_Q7239"
+                ],
+                "ldc_role": "Learner",
+                "xpo_role": "A2-gol_recipient_student"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Means",
+                "xpo_role": "AM-MNR"
+            }
+        ]
+    },
+    "conflict.attack.airstrikemissilestrike": {
+        "WD_Qnode": "airstrike_Q2380335",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Attacker",
+                "xpo_role": "A0-pag_agent_striker"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Target",
+                "xpo_role": "A1-ppt_patient_target_struck/attacked"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "A2-mnr_instrument_weapon"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "conflict.attack.biologicalchemicalpoisonattack": {
+        "WD_Qnode": "biological_warfare_Q8242560 | chemical_warfare_Q483610",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Attacker",
+                "xpo_role": "A0-pag_agent_animate_volitional_hitter"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Target",
+                "xpo_role": "A1-ppt_patient_thing_hit"
+            },
+            {
+                "constraints": [
+                    "+biological_weapon _Q170907",
+                    "+chemical_weapon_Q3639228"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "A2-gol_instrument_instrument"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "conflict.attack.detonateexplode": {
+        "WD_Qnode": "bomb_attack_Q891854",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295",
+                    "+organism_Q7239"
+                ],
+                "ldc_role": "Attacker",
+                "xpo_role": "A0-pag_agent_attacker"
+            },
+            {
+                "constraints": [
+                    "+physical_object_Q223557"
+                ],
+                "ldc_role": "Target",
+                "xpo_role": "A1-ppt_patient_entity_bombed"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "AM-MNR"
+            },
+            {
+                "constraints": [
+                    "+physical_object_Q223557"
+                ],
+                "ldc_role": "ExplosiveDevice",
+                "xpo_role": "A1-ppt_patient_bomb"
+            }
+        ]
+    },
+    "conflict.attack.firearmattack": {
+        "WD_Qnode": "shooting_Q2252077",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Attacker",
+                "xpo_role": "A0-pag_agent_shooter"
+            },
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627"
+                ],
+                "ldc_role": "Target",
+                "xpo_role": "A1-ppt_patient_corpse"
+            },
+            {
+                "constraints": [
+                    "+weapon_Q728"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "A2-mnr_instrument_gun"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "conflict.attack.hanging": {
+        "WD_Qnode": "hanging_Q175111",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Attacker",
+                "xpo_role": "A0-pag_agent_executioner"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627"
+                ],
+                "ldc_role": "Target",
+                "xpo_role": "A1-ppt_patient_corpse"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "AM-MNR"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "A2-loc_gallows"
+            }
+        ]
+    },
+    "conflict.attack.invade": {
+        "WD_Qnode": "invasion_Q467011",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295",
+                    "+organism_Q7239"
+                ],
+                "ldc_role": "Attacker",
+                "xpo_role": "A0-pag_agent_invader"
+            },
+            {
+                "constraints": [
+                    "+physical_object_Q223557",
+                    "+geographic_entity_Q27096213"
+                ],
+                "ldc_role": "Target",
+                "xpo_role": "A1-ppt_patient_place_invaded"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "AM-MNR"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "conflict.attack.selfdirectedbattle": {
+        "WD_Qnode": "battle_Q178561",
+        "args": [
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Attacker",
+                "xpo_role": "A0-pag_agent_combatant"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Target",
+                "xpo_role": "A1-com_co-agent_fight_or_other_combatant"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "AM-MNR"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "conflict.attack.setfire": {
+        "WD_Qnode": "arson_Q327541",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Attacker",
+                "xpo_role": "A0-pag_X_fire-setter"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Target",
+                "xpo_role": "A1-ppt_X_property_burned"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "AM-MNR"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "conflict.attack.stabbing": {
+        "WD_Qnode": "stabbing_Q464643",
+        "args": [
+            {
+                "constraints": [
+                    "+machine_Q11019",
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295",
+                    "+artificial_physical_object_Q8205328"
+                ],
+                "ldc_role": "Attacker",
+                "xpo_role": "A0-pag_agent_stabber"
+            },
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+concrete_object_Q4406616"
+                ],
+                "ldc_role": "Target",
+                "xpo_role": "A1-ppt_patient_victim"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "A2-mnr_instrument_sharp_implement"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "conflict.attack.stealrobhijack": {
+        "WD_Qnode": "theft_Q2727213 | robbery_Q53706 | hijacking_Q1933595",
+        "args": [
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Attacker",
+                "xpo_role": "A0-pag_agent_xx"
+            },
+            {
+                "constraints": [
+                    "+organization_Q43229",
+                    "+geographic_entity_Q27096213"
+                ],
+                "ldc_role": "Target",
+                "xpo_role": "A2-dir_source_xx"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "AM-MNR"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "conflict.attack.stealrobhijack - hijack": {
+        "WD_Qnode": "hijacking_Q1933595",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Attacker",
+                "xpo_role": "A0-pag_agent_hijacker"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Target",
+                "xpo_role": "A2-dir_X_pilot"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "AM-MNR"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "conflict.attack.stealrobhijack - rob": {
+        "WD_Qnode": "robbery_Q53706",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Attacker",
+                "xpo_role": "A0-pag_agent_robber"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295",
+                    "+geographic_entity_Q27096213"
+                ],
+                "ldc_role": "Target",
+                "xpo_role": "A1-dir_source_person_robbed"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "AM-MNR"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "conflict.attack.stealrobhijack - steal": {
+        "WD_Qnode": "theft_Q2727213",
+        "args": [
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Attacker",
+                "xpo_role": "A0-pag_agent_thief"
+            },
+            {
+                "constraints": [
+                    "+organization_Q43229",
+                    "+geographic_entity_Q27096213"
+                ],
+                "ldc_role": "Target",
+                "xpo_role": "A2-dir_source_stolen_from"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "AM-MNR"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "conflict.attack.strangling": {
+        "WD_Qnode": "strangling_Q1145328",
+        "args": [
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627",
+                    "+weather_Q11663",
+                    "+machine_Q11019"
+                ],
+                "ldc_role": "Attacker",
+                "xpo_role": "A0-pag_agent_strangler"
+            },
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627"
+                ],
+                "ldc_role": "Target",
+                "xpo_role": "A1-ppt_patient_victim"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "A2-mnr_instrument_instrument"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "conflict.attack.unspecified": {
+        "WD_Qnode": "attack_Q1174599",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Attacker",
+                "xpo_role": "A0-pag_agent_assaulter"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Target",
+                "xpo_role": "A1-ppt_theme_entity_assaulted"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "AM-MNR"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "conflict.coup.coup": {
+        "WD_Qnode": "coup_d'\u00e9tat_Q45382",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "DeposingEntity",
+                "xpo_role": "A0-pag_agent_coup_stager"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "DeposedEntity",
+                "xpo_role": "A1-ppt_theme_overthrown government"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "conflict.defeat.unspecified": {
+        "WD_Qnode": "defeat_Q11499267",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Victor",
+                "xpo_role": "A0-pag_agent_conquering_hero"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Defeated",
+                "xpo_role": "A2-ppt_patient_defeated_entity"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "ConflictOrElection",
+                "xpo_role": "A1-ppt_patient_spoils"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "conflict.demonstrate.demonstratewithviolence": {
+        "WD_Qnode": "riot_Q124757",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Demonstrator",
+                "xpo_role": "A0-pag_X_rioter"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "A1-cau_X_who/what_the_riot_is_against"
+            }
+        ]
+    },
+    "conflict.demonstrate.marchprotestpoliticalgathering": {
+        "WD_Qnode": "demonstration_Q175331",
+        "args": [
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Demonstrator",
+                "xpo_role": "A0-pag_agent_protester"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "conflict.demonstrate.unspecified": {
+        "WD_Qnode": "demonstration_Q175331",
+        "args": [
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Demonstrator",
+                "xpo_role": "A0-pag_agent_protester"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "conflict.yield.retreat": {
+        "WD_Qnode": "withdrawal_Q1760704",
+        "args": [
+            {
+                "constraints": [
+                    "+concrete_object_Q4406616",
+                    "+organism_Q7239",
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Retreater",
+                "xpo_role": "A1-ppt_agent_retreater"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Origin",
+                "xpo_role": "A2-dir_source_scary_thing"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Destination",
+                "xpo_role": "AM-GOL"
+            }
+        ]
+    },
+    "conflict.yield.surrender": {
+        "WD_Qnode": "surrender_Q3769366",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Surrenderer",
+                "xpo_role": "A0-pag_agent_one_surrendering"
+            },
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "A2-gol_Recipient_victor"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "conflict.yield.unspecified": {
+        "WD_Qnode": "withdrawal_Q1760704 | surrender_Q3769366",
+        "args": [
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Yielder",
+                "xpo_role": "A0-pag_Agent_Thing_giving_way"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "A1-gol_Pivot_recipient"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "contact.collaborate.correspondence": {
+        "WD_Qnode": "collaboration_Q1145523",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A0-pag_Agent_focussed party"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A1-com_Co-Agent_second_party"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "contact.collaborate.meet": {
+        "WD_Qnode": "collaboration_Q1145523",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A0-pag_Agent_focussed party"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A1-com_Co-Agent_second_party"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "contact.collaborate.unspecified": {
+        "WD_Qnode": "collaboration_Q1145523",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A0-pag_Agent_focussed party"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A1-com_Co-Agent_second_party"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "contact.commitmentpromiseexpressintent.broadcast": {
+        "WD_Qnode": "promise_Q1425577",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Communicator",
+                "xpo_role": "A0-pag_agent_promiser"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "A1-gol_goal_person_promised_to"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "A2-ppt_theme_promised_action"
+            }
+        ]
+    },
+    "contact.commitmentpromiseexpressintent.correspondence": {
+        "WD_Qnode": "promise_Q1425577",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Communicator",
+                "xpo_role": "A0-pag_agent_promiser"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "A1-gol_goal_person_promised_to"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "A2-ppt_theme_promised_action"
+            }
+        ]
+    },
+    "contact.commitmentpromiseexpressintent.meet": {
+        "WD_Qnode": "promise_Q1425577",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Communicator",
+                "xpo_role": "A0-pag_agent_promiser"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "A1-gol_goal_person_promised_to"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "A2-ppt_theme_promised_action"
+            }
+        ]
+    },
+    "contact.commitmentpromiseexpressintent.unspecified": {
+        "WD_Qnode": "promise_Q1425577",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Communicator",
+                "xpo_role": "A0-pag_agent_promiser"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "A1-gol_goal_person_promised_to"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "A2-ppt_theme_promised_action"
+            }
+        ]
+    },
+    "contact.contact.broadcast": {
+        "WD_Qnode": "announcement_Q567303",
+        "args": [
+            {
+                "constraints": [
+                    "+organization_Q43229",
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Communicator",
+                "xpo_role": "A0-pag_agent_announcer"
+            },
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+organization_Q43229"
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "A2-gol_recipient_hearer"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "AM-MNR"
+            },
+            {
+                "constraints": [
+                    "+information_Q11028"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "A1-ppt_topic_utterance"
+            }
+        ]
+    },
+    "contact.contact.correspondence": {
+        "WD_Qnode": "remote_communication_Q1472062",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A0-pag_agent_first_communicator"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A2-com_co-agent_other_communicator"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "AM-MNR"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "A1-ppt_topic_message"
+            }
+        ]
+    },
+    "contact.contact.meet": {
+        "WD_Qnode": "meeting_Q21170798",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A0-pag_Agent_first_talker"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A1-com_co-agent_second_talker"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "A2-ppt_X_subject_matter"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "contact.contact.unspecified": {
+        "WD_Qnode": "communication_Q11024",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A0-pag_agent_first_communicator"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A2-com_co-agent_other_communicator"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "A1-ppt_topic_message"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "contact.discussion.correspondence": {
+        "WD_Qnode": "discussion_Q3030248 | conversation_Q52943",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A0-pag_agent_discussant"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A2-gol_co-agent_conversation_partner"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "contact.discussion.meet": {
+        "WD_Qnode": "discussion_Q3030248 | conversation_Q52943",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A0-pag_agent_discussant"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A2-gol_co-agent_conversation_partner"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "contact.discussion.unspecified": {
+        "WD_Qnode": "discussion_Q3030248 | conversation_Q52943",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A0-pag_agent_discussant"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A2-gol_co-agent_conversation_partner"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "contact.funeralvigil.meet": {
+        "WD_Qnode": "funeral_Q201676",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A0-pag_officiant"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Deceased",
+                "xpo_role": "A1-ppt_entity_buried"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "contact.funeralvigil.unspecified": {
+        "WD_Qnode": "funeral_Q201676",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A0-pag_officiant"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Deceased",
+                "xpo_role": "A1-ppt_entity_buried"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "contact.mediastatement.broadcast": {
+        "WD_Qnode": "public_broadcasting_Q26398",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Communicator",
+                "xpo_role": "A0-pag_agent_trasmitter"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "A2-gol_recipient_audience"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "contact.mediastatement.unspecified": {
+        "WD_Qnode": "public_broadcasting_Q26398",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Communicator",
+                "xpo_role": "A0-pag_agent_trasmitter"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "A2-gol_recipient_audience"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "contact.negotiate.correspondence": {
+        "WD_Qnode": "negotiation_Q202875",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A0-pag_agent_negotiator"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A1-com_co-agent_explicit_other_party"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "A2-ppt_theme_agreement"
+            }
+        ]
+    },
+    "contact.negotiate.meet": {
+        "WD_Qnode": "negotiation_Q202875",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A0-pag_agent_negotiator"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A1-com_co-agent_explicit_other_party"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "A2-ppt_theme_agreement"
+            }
+        ]
+    },
+    "contact.negotiate.unspecified": {
+        "WD_Qnode": "negotiation_Q202875",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A0-pag_agent_negotiator"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A1-com_co-agent_explicit_other_party"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "A2-ppt_theme_agreement"
+            }
+        ]
+    },
+    "contact.prevarication.broadcast": {
+        "WD_Qnode": "deception_Q170028",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Communicator",
+                "xpo_role": "A0-pag_agent_liar"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "A1-ppt_patient_lied_to"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "A2-prd_lied_about"
+            }
+        ]
+    },
+    "contact.prevarication.correspondence": {
+        "WD_Qnode": "deception_Q170028",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Communicator",
+                "xpo_role": "A0-pag_agent_liar"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "A1-ppt_patient_lied_to"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "A2-prd_lied_about"
+            }
+        ]
+    },
+    "contact.prevarication.meet": {
+        "WD_Qnode": "deception_Q170028",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Communicator",
+                "xpo_role": "A0-pag_agent_liar"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "A1-ppt_patient_lied_to"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "A2-prd_lied_about"
+            }
+        ]
+    },
+    "contact.prevarication.unspecified": {
+        "WD_Qnode": "deception_Q170028",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Communicator",
+                "xpo_role": "A0-pag_agent_liar"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "A1-ppt_patient_lied_to"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "A2-prd_lied_about"
+            }
+        ]
+    },
+    "contact.publicstatementinperson.broadcast": {
+        "WD_Qnode": "public_statement_Q52947181",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Communicator",
+                "xpo_role": "A0-pag_agent_announcer"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "A2-gol_recipient_hearer"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "contact.publicstatementinperson.unspecified": {
+        "WD_Qnode": "public_statement_Q52947181",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Communicator",
+                "xpo_role": "A0-pag_agent_announcer"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "A2-gol_recipient_hearer"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "contact.requestcommand.broadcast": {
+        "WD_Qnode": "request_Q22445448 | command_Q1665268",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Communicator",
+                "xpo_role": "A0-pag_agent_xx"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "Ax-gol_recipient_xx"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "Ax-ppt_topic_xx"
+            }
+        ]
+    },
+    "contact.requestcommand.correspondence": {
+        "WD_Qnode": "request_Q22445448 | command_Q1665268",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Communicator",
+                "xpo_role": "A0-pag_agent_xx"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "Ax-gol_recipient_xx"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "Ax-ppt_topic_xx"
+            }
+        ]
+    },
+    "contact.requestcommand.meet": {
+        "WD_Qnode": "request_Q22445448 | command_Q1665268",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Communicator",
+                "xpo_role": "A0-pag_agent_xx"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "Ax-gol_recipient_xx"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "Ax-ppt_topic_xx"
+            }
+        ]
+    },
+    "contact.requestcommand.unspecified": {
+        "WD_Qnode": "request_Q22445448 | command_Q1665268",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Communicator",
+                "xpo_role": "A0-pag_agent_xx"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "Ax-gol_recipient_xx"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "Ax-ppt_topic_xx"
+            }
+        ]
+    },
+    "contact.requestcommand.unspecified - command": {
+        "WD_Qnode": "command_Q1665268",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Communicator",
+                "xpo_role": "A0-pag_agent_commander"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295",
+                    "+organism_Q7239"
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "A1-gol_recipient_impelled_agent"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "A2-ppt_topic_impelled_action"
+            }
+        ]
+    },
+    "contact.requestcommand.unspecified - request": {
+        "WD_Qnode": "request_Q22445448",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Communicator",
+                "xpo_role": "A0-pag_agent_asker"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "A2-gol_recipient_hearer"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "A1-ppt_topic_favor"
+            }
+        ]
+    },
+    "contact.threatencoerce.broadcast": {
+        "WD_Qnode": "threat_Q707125 | coercion_Q325980",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Communicator",
+                "xpo_role": "A0-pag_agent_xx"
+            },
+            {
+                "constraints": [
+                    ""
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "A1-x_patient_xx"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "A2-prd_result_xx"
+            }
+        ]
+    },
+    "contact.threatencoerce.correspondence": {
+        "WD_Qnode": "threat_Q707125 | coercion_Q325980",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Communicator",
+                "xpo_role": "A0-pag_agent_xx"
+            },
+            {
+                "constraints": [
+                    ""
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "A1-x_patient_xx"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "A2-prd_result_xx"
+            }
+        ]
+    },
+    "contact.threatencoerce.meet": {
+        "WD_Qnode": "threat_Q707125 | coercion_Q325980",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Communicator",
+                "xpo_role": "A0-pag_agent_xx"
+            },
+            {
+                "constraints": [
+                    ""
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "A1-x_patient_xx"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "A2-prd_result_xx"
+            }
+        ]
+    },
+    "contact.threatencoerce.unspecified": {
+        "WD_Qnode": "threat_Q707125 | coercion_Q325980",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Communicator",
+                "xpo_role": "A0-pag_agent_xx"
+            },
+            {
+                "constraints": [
+                    ""
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "A1-x_patient_xx"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "A2-prd_result_xx"
+            }
+        ]
+    },
+    "contact.threatencoerce.unspecified - coerce": {
+        "WD_Qnode": "coercion_Q325980",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Communicator",
+                "xpo_role": "A0-pag_agent_persuasive_entity"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "A1-ppt_patient_impelled_person"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "A2-prd_result_action_or_Result"
+            }
+        ]
+    },
+    "contact.threatencoerce.unspecified - threat": {
+        "WD_Qnode": "threat_Q707125",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Communicator",
+                "xpo_role": "A0-pag_agent_bully"
+            },
+            {
+                "constraints": [
+                    ""
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "A1-gol_patient_victim"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Topic",
+                "xpo_role": "A2-prd_result_impelled_action"
+            }
+        ]
+    },
+    "control.impedeinterferewith.prevent": {
+        "WD_Qnode": "prevention_Q1717246",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Preventer",
+                "xpo_role": "A0-pag_agent_Agent"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Prevented Thing",
+                "xpo_role": "A1-ppt_theme_Theme"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "control.impedeinterferewith.unspecified": {
+        "WD_Qnode": "prevention_Q1717246 | difficulty_Q16515105",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Impeder",
+                "xpo_role": "A0-pag_agent_blocker"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "ImpededEvent",
+                "xpo_role": "A1-ppt_theme_Theme"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "disaster.crash.unspecified": {
+        "WD_Qnode": "transport_accident_Q11822042",
+        "args": [
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+weather_Q11663",
+                    "+machine_Q11019",
+                    "+person_Q215627"
+                ],
+                "ldc_role": "DriverPassenger",
+                "xpo_role": "A0-pag__agent_causer_of_damage"
+            },
+            {
+                "constraints": [
+                    "+concrete_object_Q4406616"
+                ],
+                "ldc_role": "Vehicle",
+                "xpo_role": "A1-ppt_patient_entity_crashed"
+            },
+            {
+                "constraints": [
+                    "+concrete_object_Q4406616"
+                ],
+                "ldc_role": "CrashObject",
+                "xpo_role": "A1-ppt_patient_entity_crashed"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "disaster.diseaseoutbreak.unspecified": {
+        "WD_Qnode": "disease_outbreak_Q3241045",
+        "args": [
+            {
+                "constraints": [
+                    "+disease_Q12136"
+                ],
+                "ldc_role": "Disease",
+                "xpo_role": "A1-ppt_theme_disease"
+            },
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627"
+                ],
+                "ldc_role": "Victim",
+                "xpo_role": "A2-GOL_location_victims"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "disaster.fireexplosion.unspecified": {
+        "WD_Qnode": "conflagration_Q168983 | explosion_Q179057",
+        "args": [
+            {
+                "constraints": [
+                    "+concrete_object_Q4406616"
+                ],
+                "ldc_role": "FireExplosionObject",
+                "xpo_role": "A1-ppt_X_xx"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "AM-MNR"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "disaster.fireexplosion.unspecified - explosion": {
+        "WD_Qnode": "explosion_Q179057",
+        "args": [
+            {
+                "constraints": [
+                    "+concrete_object_Q4406616"
+                ],
+                "ldc_role": "FireExplosionObject",
+                "xpo_role": "A1-ppt_theme_thing_exploding"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "AM-MNR"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "disaster.fireexplosion.unspecified - fire": {
+        "WD_Qnode": "conflagration_Q168983",
+        "args": [
+            {
+                "constraints": [
+                    "+concrete_object_Q4406616"
+                ],
+                "ldc_role": "FireExplosionObject",
+                "xpo_role": "A1-ppt_patient_thing_burning"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "AM-MNR"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "genericcrime.genericcrime.genericcrime": {
+        "WD_Qnode": "crime_Q83267",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Perpetrator",
+                "xpo_role": "A0-pag_X_perp"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Victim",
+                "xpo_role": "A2-gol_X_victim"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "government.agreements.acceptagreementcontractceasefire - acceptance": {
+        "WD_Qnode": "signature_Q50384157",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A0-pag_agent_signer"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A2-com_co-agent_co-signer"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "government.agreements.acceptagreementcontractceasefire - ceasefire": {
+        "WD_Qnode": "ceasefire_Q208383",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A0-pag_agent_implementer_of_cease-fire"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A1-ppt_co-agent_cease-fire_with_or_between_who?"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "government.agreements.rejectnullifyagreementcontractceasefire": {
+        "WD_Qnode": "rejection_Q98398200",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "RejecterNullifier",
+                "xpo_role": "A0-pag_Agent_entity_refusing"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "OtherParticipant",
+                "xpo_role": "A2-gol_Theme_anti-benefactive"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "government.agreements.unspecified": {
+        "WD_Qnode": "agreement_Q321839",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A0-pag_agent_agreer"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A2-com_co-agent_other_entity_agreeing"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "government.agreements.violateagreement": {
+        "WD_Qnode": "transgression_Q3537603",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Violator",
+                "xpo_role": "A0-pag_X_Transgressor"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "OtherParticipant",
+                "xpo_role": "AM-COM"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "government.convene.convene": {
+        "WD_Qnode": "session_Q23700466",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Convener",
+                "xpo_role": "A0-pag_Agent_agent"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "ConvenedThing",
+                "xpo_role": "A1-ppt_Theme_the_meeting_itself"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "government.formation.mergegpe": {
+        "WD_Qnode": "merger_Q452440",
+        "args": [
+            {
+                "constraints": [
+                    "+concrete_object_Q4406616",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A1-ppt_ingredient_one"
+            },
+            {
+                "constraints": [
+                    "+concrete_object_Q4406616",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Participant",
+                "xpo_role": "A2-ppt_ingredient_two"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "government.formation.startgpe": {
+        "WD_Qnode": "founding_Q3075355",
+        "args": [
+            {
+                "constraints": [
+                    "+artificial_physical_object_Q8205328",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "GPE",
+                "xpo_role": "A1-ppt_patient_thing_created"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Founder",
+                "xpo_role": "A0-pag_agent_creator"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "government.formation.unspecified": {
+        "WD_Qnode": "founding_Q3075355",
+        "args": [
+            {
+                "constraints": [
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "GPE",
+                "xpo_role": "A1-ppt_theme_thing_set"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Founder",
+                "xpo_role": "A0-pag_agent_agent"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "government.legislate.legislate": {
+        "WD_Qnode": "legislative_process_Q3406566",
+        "args": [
+            {
+                "constraints": [
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "GovernmentBody",
+                "xpo_role": "A0-pag_agent_legislative_body"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Law",
+                "xpo_role": "A1-ppt_thing_enacted"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "government.spy.spy": {
+        "WD_Qnode": "espionage_Q165950",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Spy",
+                "xpo_role": "A0-pag_agent_secret_agent"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "ObservedEntity",
+                "xpo_role": "A1-ppt_stimulus_entity_spied/seen"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Beneficiary",
+                "xpo_role": "AM-GOL"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "government.vote.castvote": {
+        "WD_Qnode": "voting_Q189760",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Voter",
+                "xpo_role": "A0-pag_agent_voter"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Candidate",
+                "xpo_role": "A1-ppt_theme_candidate_or_ballot_issue"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Ballot",
+                "xpo_role": "A1-ppt_theme_candidate_or_ballot_issue"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Result",
+                "xpo_role": "A2-prd_Result_numerical_count_of_vote"
+            }
+        ]
+    },
+    "government.vote.unspecified": {
+        "WD_Qnode": "voting_Q189760",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Voter",
+                "xpo_role": "A0-pag_agent_voter"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Candidate",
+                "xpo_role": "A1-ppt_theme_candidate_or_ballot_issue"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Ballot",
+                "xpo_role": "A1-ppt_theme_candidate_or_ballot_issue"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Result",
+                "xpo_role": "A2-prd_Result_numerical_count_of_vote"
+            }
+        ]
+    },
+    "government.vote.violationspreventvote - voter suppression": {
+        "WD_Qnode": "voter_suppression_Q7942161",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Preventer",
+                "xpo_role": "A0-pag_agent_Agent"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Voter",
+                "xpo_role": "A1-ppt_theme_Theme"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Candidate",
+                "xpo_role": "AM-GOL"
+            }
+        ]
+    },
+    "inspection.targetaimat.targetaimat": {
+        "WD_Qnode": "targeting_Q7685924",
+        "args": [
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Targeter",
+                "xpo_role": "A0-pag_agent_targeter"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Target",
+                "xpo_role": "A1-ppt_theme_thing_aimed_at"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "A2-mnr_Instrument_instrument"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "justice.acquit.unspecified": {
+        "WD_Qnode": "acquittal_Q1454723",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "JudgeCourt",
+                "xpo_role": "A0-cau_remover_of_guilt"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+physical_object_Q223557"
+                ],
+                "ldc_role": "Defendant",
+                "xpo_role": "A1-dir_source_unguilty_person"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Crime",
+                "xpo_role": "A2-ppt_theme_explicit_mention_of_guilt"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "justice.arrestjaildetain.unspecified": {
+        "WD_Qnode": "imprisonment_Q841236 | arrest_Q1403016",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Jailer",
+                "xpo_role": "A0-pag_agent_police"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Detainee",
+                "xpo_role": "A1-ppt_patient_entity_detained"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Crime",
+                "xpo_role": "A2-cau_theme_detained_for_what"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "justice.initiatejudicialprocess.chargeindict": {
+        "WD_Qnode": "accusation_Q19357312",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Prosecutor",
+                "xpo_role": "A0-pag_agent_accuser"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Defendant",
+                "xpo_role": "A1-ppt_patient_accused"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Crime",
+                "xpo_role": "A2-prd_crime"
+            }
+        ]
+    },
+    "justice.initiatejudicialprocess.trialhearing": {
+        "WD_Qnode": "trial_Q8016240 | legal_hearing_Q545861",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Prosecutor",
+                "xpo_role": "A0-pag_X_xx"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Defendant",
+                "xpo_role": "A1-ppt_X_xx"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Crime",
+                "xpo_role": "Ax-cau_X_xx"
+            }
+        ]
+    },
+    "justice.initiatejudicialprocess.trialhearing - hearing": {
+        "WD_Qnode": "legal_hearing_Q545861",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Prosecutor",
+                "xpo_role": "A0-pag_X_judge"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Defendant",
+                "xpo_role": "A1-ppt_X_person_on_trial"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "JudgeCourt",
+                "xpo_role": "A0-pag_X_judge"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Crime",
+                "xpo_role": "A2-cau_X_type_or_point_of_meeting/trial"
+            }
+        ]
+    },
+    "justice.initiatejudicialprocess.trialhearing - trial": {
+        "WD_Qnode": "trial_Q8016240",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Prosecutor",
+                "xpo_role": "A0-pag_X_litigant"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Defendant",
+                "xpo_role": "A1-ppt_X_entity_tried"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "JudgeCourt",
+                "xpo_role": "A2-gol_X_adjudicator"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Crime",
+                "xpo_role": "A3-cau_X_tried_for"
+            }
+        ]
+    },
+    "justice.initiatejudicialprocess.unspecified": {
+        "WD_Qnode": "accusation_Q19357312 | trial_Q8016240 | legal_hearing_Q545861",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Prosecutor",
+                "xpo_role": "A0-pag_Agent_xx"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Defendant",
+                "xpo_role": "A1-ppt_Patient_xx"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Crime",
+                "xpo_role": "A2-prd_X_xx"
+            }
+        ]
+    },
+    "justice.investigate.investigatecrime": {
+        "WD_Qnode": "criminal_investigation_Q1964968",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Investigator",
+                "xpo_role": "A0-pag_agent_examiner"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Defendant",
+                "xpo_role": "A1-ppt_location_examined"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Crime",
+                "xpo_role": "A2-ppt_theme_examined_for"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "justice.investigate.unspecified": {
+        "WD_Qnode": "inquiry_Q21004260",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Investigator",
+                "xpo_role": "A0-pag_agent_examiner"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Defendant",
+                "xpo_role": "A1-ppt_location_examined"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Crime",
+                "xpo_role": "A2-ppt_theme_examined_for"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "justice.judicialconsequences.convict": {
+        "WD_Qnode": "conviction_Q2916183",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "JudgeCourt",
+                "xpo_role": "A0-pag_X_judge"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Defendant",
+                "xpo_role": "A1-ppt_X_person_convicted"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Crime",
+                "xpo_role": "A2-cau_X_convicted_of"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "justice.judicialconsequences.execute": {
+        "WD_Qnode": "execution_Q3966286",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Executioner",
+                "xpo_role": "A0-pag_agent_killer"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627"
+                ],
+                "ldc_role": "Defendant",
+                "xpo_role": "A1-ppt_patient_corpse"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Crime",
+                "xpo_role": "AM-CAU"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "justice.judicialconsequences.extradite": {
+        "WD_Qnode": "extradition_Q210603",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Extraditer",
+                "xpo_role": "A0-pag_agent_expeller"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627"
+                ],
+                "ldc_role": "Defendant",
+                "xpo_role": "A1-ppt_theme_entity_expelled"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Crime",
+                "xpo_role": "AM-CAU"
+            },
+            {
+                "constraints": [
+                    "+geographic_entity_Q27096213"
+                ],
+                "ldc_role": "Origin",
+                "xpo_role": "A2-dir_source_expelled_from"
+            }
+        ]
+    },
+    "justice.judicialconsequences.unspecified": {
+        "WD_Qnode": "court_decision _Q327000",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "JudgeCourt",
+                "xpo_role": "A0-pag_agent_xx"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627"
+                ],
+                "ldc_role": "Defendant",
+                "xpo_role": "A1-ppt_X_xx"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Crime",
+                "xpo_role": "A3-CAU_X_crime"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "justice.releaseparole.unspecified": {
+        "WD_Qnode": "release_from_prison_Q3237993",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "JudgeCourt",
+                "xpo_role": "A0-cau_X_releaser"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Defendant",
+                "xpo_role": "A1-ppt_thing_released"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Crime",
+                "xpo_role": "Ax-CAU"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "justice.sentence.unspecified": {
+        "WD_Qnode": "sentence_Q1763090",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "JudgeCourt",
+                "xpo_role": "A0-pag_judge/jury"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Defendant",
+                "xpo_role": "A1-ppt_criminal"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Crime",
+                "xpo_role": "A3-cau_crime"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Sentence",
+                "xpo_role": "A2-ppt_punishment"
+            }
+        ]
+    },
+    "life.consume.unspecified": {
+        "WD_Qnode": "ingestion_Q1663054",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+organism_Q7239"
+                ],
+                "ldc_role": "ConsumingEntity",
+                "xpo_role": "A0-pag_agent_eater"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "ConsumedThing",
+                "xpo_role": "A1-ppt_patient_entity_ingested"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "life.die.deathcausedbyviolentevents": {
+        "WD_Qnode": "violent_death_Q74948922",
+        "args": [
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295",
+                    "+health_problem_Q2057971"
+                ],
+                "ldc_role": "Killer",
+                "xpo_role": "A0-pag_agent_killer"
+            },
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627"
+                ],
+                "ldc_role": "Victim",
+                "xpo_role": "A1-ppt_patient_corpse"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "A2-mnr_instrument_instrument"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "life.die.nonviolentdeath": {
+        "WD_Qnode": "natural_causes_Q3739104",
+        "args": [
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Killer",
+                "xpo_role": "AM-CAU"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+organism_Q7239",
+                    "+plant_Q756"
+                ],
+                "ldc_role": "Victim",
+                "xpo_role": "A1-ppt_the_deceased"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "MedicalIssue",
+                "xpo_role": "AM-CAU"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "life.die.unspecified": {
+        "WD_Qnode": "death_Q4",
+        "args": [
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Killer",
+                "xpo_role": "AM-CAU"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+organism_Q7239",
+                    "+plant_Q756"
+                ],
+                "ldc_role": "Victim",
+                "xpo_role": "A1-ppt_the_deceased"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "MedicalIssue",
+                "xpo_role": "AM-CAU"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "life.illness.unspecified": {
+        "WD_Qnode": "disease_Q12136",
+        "args": [
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Injurer",
+                "xpo_role": "AM-CAU"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+organism_Q7239",
+                    "+plant_Q756"
+                ],
+                "ldc_role": "Victim",
+                "xpo_role": "A1-ppt_X_sick/ill_one"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Disease",
+                "xpo_role": "A2-cau_X_cause_or_disease"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "life.infect.unspecified": {
+        "WD_Qnode": "infection_Q166231",
+        "args": [
+            {
+                "constraints": [
+                    "+geographic_entity_Q27096213",
+                    "+organism_Q7239",
+                    "+person_Q215627"
+                ],
+                "ldc_role": "Victim",
+                "xpo_role": "A1-gol_thing_becoming_infected"
+            },
+            {
+                "constraints": [
+                    "+concrete_object_Q4406616",
+                    "+health_problem_Q2057971"
+                ],
+                "ldc_role": "InfectingAgent",
+                "xpo_role": "A2-ppt_infectant"
+            },
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627"
+                ],
+                "ldc_role": "Source",
+                "xpo_role": "A0-pag_causer_of_infection"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "life.injure.unspecified": {
+        "WD_Qnode": "injury_Q193078",
+        "args": [
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Injurer",
+                "xpo_role": "A0-pag_stimulus_stimulus_of_injury"
+            },
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295",
+                    "+anatomical_structure_Q4936952"
+                ],
+                "ldc_role": "Victim",
+                "xpo_role": "A1-ppt_experiencer_injured_entity"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "MedicalIssue",
+                "xpo_role": "A2-mnr_X_instrument"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "life.mutate.unspecified": {
+        "WD_Qnode": "mutation_Q42918",
+        "args": [
+            {
+                "constraints": [
+                    "+physical_object_Q223557",
+                    "+organism_Q7239"
+                ],
+                "ldc_role": "Thing Mutating",
+                "xpo_role": "A1-ppt_patient_entity_undergoing_mutation"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "End State",
+                "xpo_role": "A2-prd_result_end_state"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "medical.diagnosis.unspecified": {
+        "WD_Qnode": "medical_diagnosis_Q177719",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Treater",
+                "xpo_role": "A0-pag_agent_doctor"
+            },
+            {
+                "constraints": [
+                    "+concrete_object_Q4406616",
+                    "+organization_Q43229"
+                ],
+                "ldc_role": "Patient",
+                "xpo_role": "A1-ppt_theme_patient"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "SymptomSign",
+                "xpo_role": "A2-prd_attribute_illness"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "MedicalCondition",
+                "xpo_role": "A2-prd_attribute_illness"
+            }
+        ]
+    },
+    "medical.intervention.cure": {
+        "WD_Qnode": "remedy_Q1595418",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295",
+                    "+drug_Q8386"
+                ],
+                "ldc_role": "Treater",
+                "xpo_role": "A0-pag_causer_doctor"
+            },
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627"
+                ],
+                "ldc_role": "Patient",
+                "xpo_role": "A1-dir_Source_patient"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "MedicalIssue",
+                "xpo_role": "A2-ppt_Theme_illness_or_injury"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "A3-mnr_X_instrument_treatment"
+            }
+        ]
+    },
+    "medical.intervention.unspecified": {
+        "WD_Qnode": "treatment_Q179661",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295",
+                    "+drug_Q8386"
+                ],
+                "ldc_role": "Treater",
+                "xpo_role": "A0-pag_X_doctor"
+            },
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627"
+                ],
+                "ldc_role": "Patient",
+                "xpo_role": "A1-ppt_X_patient"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "MedicalIssue",
+                "xpo_role": "A2-ppt_X_illness_or_injury"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Instrument",
+                "xpo_role": "A3-mnr_X_instrument"
+            }
+        ]
+    },
+    "medical.vaccinate.unspecified": {
+        "WD_Qnode": "vaccination_Q192995",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Treater",
+                "xpo_role": "A0-pag_X_inoculator"
+            },
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627"
+                ],
+                "ldc_role": "Patient",
+                "xpo_role": "A1-ppt_X_patient_inoculated"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "VaccineTarget",
+                "xpo_role": "A2-ppt_X_inoculated_against"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "VaccineMethod",
+                "xpo_role": "A3-mnr_X_innoculated_with"
+            }
+        ]
+    },
+    "movement.transportation.evacuation": {
+        "WD_Qnode": "emergency_evacuation_Q606332",
+        "args": [
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Transporter",
+                "xpo_role": "A0-pag_agent_transporter"
+            },
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Passenger",
+                "xpo_role": "A1-PPT_thing_transported"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Vehicle",
+                "xpo_role": "AM-MNR"
+            },
+            {
+                "constraints": [
+                    "+geographic_entity_Q27096213"
+                ],
+                "ldc_role": "Origin",
+                "xpo_role": "A2-dir_initial_location_source"
+            }
+        ]
+    },
+    "movement.transportation.grantallowpassage": {
+        "WD_Qnode": "access_Q57699905",
+        "args": [
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Transporter",
+                "xpo_role": "A1-ppt_theme_enterer"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Granter",
+                "xpo_role": "A0-pag_agent_allower"
+            }
+        ]
+    },
+    "movement.transportation.illegaltransportation - illegal migration": {
+        "WD_Qnode": "illegal_migration_Q107434802",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Transporter",
+                "xpo_role": "A0-pag_agent_mover"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627"
+                ],
+                "ldc_role": "Passenger",
+                "xpo_role": "A1-ppt_patient_moved"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Vehicle",
+                "xpo_role": "AM-MNR"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Origin",
+                "xpo_role": "AM-DIR"
+            }
+        ]
+    },
+    "movement.transportation.illegaltransportation - smuggling": {
+        "WD_Qnode": "smuggling_Q184840",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Transporter",
+                "xpo_role": "A0-pag_agent_thief"
+            },
+            {
+                "constraints": [
+                    "+concrete_object_Q4406616"
+                ],
+                "ldc_role": "Artifact",
+                "xpo_role": "A1-ppt_theme_stolen_object"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Vehicle",
+                "xpo_role": "AM-MNR"
+            },
+            {
+                "constraints": [
+                    "+geographic_entity_Q27096213"
+                ],
+                "ldc_role": "Origin",
+                "xpo_role": "A2-dir_initial_location_stolen-from"
+            }
+        ]
+    },
+    "movement.transportation.unspecified": {
+        "WD_Qnode": "travel_Q61509 | transport_Q7590",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Transporter",
+                "xpo_role": "A0-pag_agent_xx"
+            },
+            {
+                "constraints": [
+                    "+concrete_object_Q4406616"
+                ],
+                "ldc_role": "PassengerArtifact",
+                "xpo_role": "A1-ppt_X_xx"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Vehicle",
+                "xpo_role": "AM-MNR"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Origin",
+                "xpo_role": "Ax-dir"
+            }
+        ]
+    },
+    "movement.transportation.unspecified - transport": {
+        "WD_Qnode": "transport_Q7590",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Transporter",
+                "xpo_role": "A0-pag_agent_transporter"
+            },
+            {
+                "constraints": [
+                    "+concrete_object_Q4406616"
+                ],
+                "ldc_role": "PassengerArtifact",
+                "xpo_role": "A1-ppt_theme_thing_transported"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Vehicle",
+                "xpo_role": "AM-MNR"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Origin",
+                "xpo_role": "A2-dir_Initial_location_source"
+            }
+        ]
+    },
+    "movement.transportation.unspecified - travel": {
+        "WD_Qnode": "travel_Q61509",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Transporter",
+                "xpo_role": "A0-pag_agent_mover"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627"
+                ],
+                "ldc_role": "Passenger",
+                "xpo_role": "A1-ppt_patient_moved"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Vehicle",
+                "xpo_role": "AM-MNR"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Origin",
+                "xpo_role": "AM-DIR"
+            }
+        ]
+    },
+    "personnel.changeposition.changejoblocation": {
+        "WD_Qnode": "intra-company_transfer_Q6206738",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Employee",
+                "xpo_role": "A1-ppt_X_entity_relocated"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "PlaceOfEmployment",
+                "xpo_role": "A0-pag_X_agent"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "PreviousOrgLocation",
+                "xpo_role": "A3-dir_X_source"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "NewOrgLocation",
+                "xpo_role": "A2-gol_X_destination"
+            }
+        ]
+    },
+    "personnel.changeposition.demotion": {
+        "WD_Qnode": "demotion_Q464858",
+        "args": [
+            {
+                "constraints": [
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Employee",
+                "xpo_role": "A1-ppt_X_thing_in_motion"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627"
+                ],
+                "ldc_role": "PlaceOfEmployment",
+                "xpo_role": "A0-pag_X_causer_of_motion"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "PreviousPosition",
+                "xpo_role": "A3-dir_X_source"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "NewPosition",
+                "xpo_role": "A2-gol_X_destination"
+            }
+        ]
+    },
+    "personnel.changeposition.lateral": {
+        "WD_Qnode": "intra-company_transfer_Q6206738",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627"
+                ],
+                "ldc_role": "Employee",
+                "xpo_role": "A1-ppt_X_entity_relocated"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "PlaceOfEmployment",
+                "xpo_role": "A0-pag_X_agent"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "PreviousPosition",
+                "xpo_role": "A3-dir_X_source"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "NewPosition",
+                "xpo_role": "A2-gol_X_destination"
+            }
+        ]
+    },
+    "personnel.changeposition.promotion": {
+        "WD_Qnode": "promotion_Q574433",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Employee",
+                "xpo_role": "A1-ppt_X_thing_in_motion"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "PlaceOfEmployment",
+                "xpo_role": "A0-pag_X_causer_of_motion"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "PreviousPosition",
+                "xpo_role": "A3-dir_X_source"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "NewPosition",
+                "xpo_role": "A2-gol_X_destination"
+            }
+        ]
+    },
+    "personnel.changeposition.unspecified": {
+        "WD_Qnode": "appointment_Q1318578",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Employee",
+                "xpo_role": "A1-ppt_theme_appointee"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "PlaceOfEmployment",
+                "xpo_role": "A0-pag_agent_appointer"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "NewPosition",
+                "xpo_role": "A2-prd_result_job"
+            }
+        ]
+    },
+    "personnel.elect.unspecified": {
+        "WD_Qnode": "election_Q40231",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Voter",
+                "xpo_role": "A0-pag_agent_voters"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627"
+                ],
+                "ldc_role": "Candidate",
+                "xpo_role": "A1-ppt_theme_candidate"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "personnel.elect.winelection": {
+        "WD_Qnode": "elected_Q20826785",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Voter",
+                "xpo_role": "A0-pag_agent_voters"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627"
+                ],
+                "ldc_role": "Candidate",
+                "xpo_role": "A1-ppt_theme_candidate"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "personnel.endposition.firinglayoff": {
+        "WD_Qnode": "dismissal_Q17052147",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627"
+                ],
+                "ldc_role": "Employee",
+                "xpo_role": "A1-ppt_theme_ex-employee"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "PlaceOfEmployment",
+                "xpo_role": "A0-pag_agent_employer"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "personnel.endposition.quitretire": {
+        "WD_Qnode": "resignation_Q796919",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627"
+                ],
+                "ldc_role": "Employee",
+                "xpo_role": "A0-pag_agent_quitter"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "PlaceOfEmployment",
+                "xpo_role": "A1-ppt_source_job"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "personnel.endposition.unspecified": {
+        "WD_Qnode": "termination_of_employment_Q685744",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627"
+                ],
+                "ldc_role": "Employee",
+                "xpo_role": "A1-ppt_theme_ex-employee"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "PlaceOfEmployment",
+                "xpo_role": "A0-pag_employer"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "personnel.startposition.hiring": {
+        "WD_Qnode": "recruitment_Q899277",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627"
+                ],
+                "ldc_role": "Employee",
+                "xpo_role": "A1-ppt_theme_new_employee"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627"
+                ],
+                "ldc_role": "PlaceOfEmployment",
+                "xpo_role": "A0-PAG_agent_employer"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "personnel.startposition.unspecified": {
+        "WD_Qnode": "appointment_Q1318578",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627"
+                ],
+                "ldc_role": "Employee",
+                "xpo_role": "A0-pag_agent_quitter"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "PlaceOfEmployment",
+                "xpo_role": "A0-pag_agent_appointer"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Position",
+                "xpo_role": "A2-prd_result_position"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "socialbehavior.clean.sanitize": {
+        "WD_Qnode": "disinfection_Q66869562",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Agent",
+                "xpo_role": "A0-pag_X_cleaner"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Sanitized Object",
+                "xpo_role": "A1-ppt_X_thing_made_clean"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Sanitizing Agent",
+                "xpo_role": "AM-MNR"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Pathogen",
+                "xpo_role": "AM-CAU"
+            }
+        ]
+    },
+    "socialbehavior.clean.wash": {
+        "WD_Qnode": "washing_Q23841",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Washer",
+                "xpo_role": "A0-pag_agent_agent_of_washing"
+            },
+            {
+                "constraints": [
+                    "+organism_Q7239",
+                    "+anatomical_structure_Q4936952",
+                    "+concrete_object_Q4406616",
+                    "+person_Q215627"
+                ],
+                "ldc_role": "Thing Washed",
+                "xpo_role": "A1-ppt_theme_thing_being_washed"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Cleansing Agent",
+                "xpo_role": "A2-mnr_X_washing_liquid"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "socialbehavior.complyobey.unspecified": {
+        "WD_Qnode": "compliance_Q1399332",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Complier",
+                "xpo_role": "A0-pag_X_complier"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "Rule",
+                "xpo_role": "A1-ppt_X__complied-with"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "socialbehavior.wear.wear": {
+        "WD_Qnode": "",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627"
+                ],
+                "ldc_role": "Wearer",
+                "xpo_role": "A0-pag_pivot_wearer"
+            },
+            {
+                "constraints": [
+                    "+clothing_Q11460"
+                ],
+                "ldc_role": "Thing worn",
+                "xpo_role": "A1-ppt_theme_clothing"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "transaction.aidbetweengovernments.unspecified": {
+        "WD_Qnode": "international_aid_Q2827815",
+        "args": [
+            {
+                "constraints": [
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Giver",
+                "xpo_role": "A0-pag_agent_giver"
+            },
+            {
+                "constraints": [
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "A2-gol_recipient_rntity_given_to"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "ArtifactMoney",
+                "xpo_role": "A1-ppt_theme_thing_given"
+            }
+        ]
+    },
+    "transaction.donation.unspecified": {
+        "WD_Qnode": "gift_Q707482",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627 +group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Giver",
+                "xpo_role": "A0-pag_agent_giver"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627 +group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "A2-gol_recipient_rntity_given_to"
+            },
+            {
+                "constraints": [
+                    "<ALL>"
+                ],
+                "ldc_role": "Place",
+                "xpo_role": "AM-LOC"
+            }
+        ]
+    },
+    "transaction.exchangebuysell.unspecified": {
+        "WD_Qnode": "exchange_of_goods_Q21651837",
+        "args": [
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Giver",
+                "xpo_role": "A0-pag_agent_agent"
+            },
+            {
+                "constraints": [
+                    "+person_Q215627",
+                    "+group_of_humans_Q16334295"
+                ],
+                "ldc_role": "Recipient",
+                "xpo_role": "A2-com_co-agent_other_exchanger"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "AcquiredEntity",
+                "xpo_role": "A1-ppt_theme_thing_being_traded"
+            },
+            {
+                "constraints": [
+                    "None"
+                ],
+                "ldc_role": "PaymentBarter",
+                "xpo_role": "A3-ppt_co-theme_other_item_in_exchange_price_or_premium"
+            }
+        ]
+    }
+}
