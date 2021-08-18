@@ -50,20 +50,22 @@ def generate_LDC_tabs_TA3(tab_name, child_id, entities, events, relations, outpu
         lines.append(first_line)
         for re in relations.values():
             re_id = re['id']
-            type_, subtype, subsubtype = re['type'].split('_')
+            type_, subtype, subsubtype = re['type'].split('.')
             arg1 = entities[re['args']['arg1']['arg_ann_id']]
             arg2 = entities[re['args']['arg2']['arg_ann_id']]
             off_start = min(arg1['offsets'][0], arg2['offsets'][0])
             off_end = max(arg1['offsets'][1]-1, arg2['offsets'][1]-1)
             if ltf_dir:
                 # add LTF description
-                offset_str = f'{child_id}:{arg1['offsets'][0]}-{arg1['offsets'][1]-1}'
+                arg1_off_start = arg1['offsets'][0]
+                arg1_off_end = arg1['offsets'][1]-1
+                offset_str = f'{child_id}:{arg1_off_start}-{arg1_off_end}'
                 description = ltf_util.get_original_text(offset_str)
             else:
                 description = NA_FILLER
             type_qnode = NA_FILLER # TODO
             text_string = NA_FILLER
-            line = f'{root_id}\t{re_id}\t{child_id}\t{off_start}\t{off_end}\t{text_string}\t{NA_FILLER}\t{NA_FILLER}\t{NA_FILLER}\t{NA_FILLER}\t{NA_FILLER}\t{NA_FILLER}\t{description}\t{type_}\t{subtype}\t{subsubtype}\t{type_qnode}\t{NA_FILLER}\t{NA_FILLER}\t{NA_FILLER}\t{NA_FILLER}\t{NA_FILLER}\t{NA_FILLER}\n'
+            line = f'{root_id}\t{re_id}\t{child_id}\t{off_start}\t{off_end}\t{text_string}\t{NA_FILLER}\t{NA_FILLER}\t{NA_FILLER}\t{NA_FILLER}\t{NA_FILLER}\t{description}\t{type_}\t{subtype}\t{subsubtype}\t{type_qnode}\t{NA_FILLER}\t{NA_FILLER}\t{NA_FILLER}\t{NA_FILLER}\t{NA_FILLER}\t{NA_FILLER}\n'
             lines.append(line)
         
         write_lines(lines)
@@ -103,7 +105,8 @@ def generate_LDC_tabs_TA3(tab_name, child_id, entities, events, relations, outpu
                 off_start = arg_ev['trigger']['offsets'][0]
                 off_end = arg_ev['trigger']['offsets'][1]-1
                 text_string = arg_ev['trigger']['text']
-                type_, subtype, subsubtype = arg_ev['type']
+                print(arg_ev['type'])
+                type_, subtype, subsubtype = arg_ev['type'].split('.')
             
             elif arg_ann_id in entities:
                 # it is a entity type argument
@@ -134,7 +137,7 @@ def generate_LDC_tabs_TA3(tab_name, child_id, entities, events, relations, outpu
         
         write_lines(lines)
     
-    elif tab_name == 'TA3_rel_slots.tab'
+    elif tab_name == 'TA3_rel_slots.tab':
         first_line = 'root_uid\trelationmention_id\tslot_type\tgeneral_slot_type\targmention_id\n'
         lines = []
         lines.append(first_line)

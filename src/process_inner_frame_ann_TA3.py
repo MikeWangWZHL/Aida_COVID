@@ -35,7 +35,7 @@ def get_event_argument_type_qnode(event_type, arg_role, xpo_ontology):
     print(f'ERROR: cannot find matched argument for event:{event_type}, arg_role:{arg_role}')
     return None
 
-def get_event_arg_general_role_type(ev_type_str, arg_type, xpo_ontology):
+def get_event_arg_general_role_type(event_type, arg_role, xpo_ontology):
     assert event_type in xpo_ontology
     args = xpo_ontology[event_type]['args']
     for arg in args:
@@ -45,6 +45,10 @@ def get_event_arg_general_role_type(ev_type_str, arg_type, xpo_ontology):
             return arg['xpo_role']
     print(f'ERROR: cannot find matched argument for event:{event_type}, arg_role:{arg_role}')
     return None
+
+def get_relation_arg_general_role_type(event_type, arg_num, xpo_ontology):
+    # TODO:
+    return NA_FILLER
 
 
 def get_relation_type_qnode(rel_type, rel_ontology):
@@ -102,7 +106,7 @@ def get_events(doc_id, lines, entities, xpo_ontology = None):
                 args.append(
                     {
                         'role_type':arg_type,
-                        'general_role_type':get_event_arg_general_role_type(ev_type_str, arg_type),
+                        'general_role_type':get_event_arg_general_role_type(ev_type_str, arg_type, xpo_ontology),
                         'arg_id':arg_object['id'],
                         'arg_ann_id':arg_id,
                         'arg_type_qnode':get_event_argument_type_qnode(ev_type_str, arg_type, xpo_ontology)
@@ -152,28 +156,32 @@ def get_relations(doc_id, lines, entities, events, relation_ontology = None):
                     'arg1_name':arg1_str.split(':')[0],
                     'arg_id':entities[arg1_str.split(':')[1]]['id'], 
                     'arg_ann_id':arg1_str.split(':')[1],
-                    'arg_type_qnode':get_relation_argument_type_qnode(rel_type, 'arg1', relation_ontology)
+                    'arg_type_qnode':get_relation_argument_type_qnode(rel_type, 'arg1', relation_ontology),
+                    'arg_general_role_type':get_relation_arg_general_role_type(rel_type, 'arg1', relation_ontology)
                     }
             elif arg1_str.split(':')[1] in events:
                 arg1 = {
                     'arg1_name':arg1_str.split(':')[0],
                     'arg_id':events[arg1_str.split(':')[1]]['id'], 
                     'arg_ann_id':arg1_str.split(':')[1],
-                    'arg_type_qnode':get_relation_argument_type_qnode(rel_type, 'arg1', relation_ontology)
+                    'arg_type_qnode':get_relation_argument_type_qnode(rel_type, 'arg1', relation_ontology),
+                    'arg_general_role_type':get_relation_arg_general_role_type(rel_type, 'arg1', relation_ontology)
                     }
             if arg2_str.split(':')[1] in entities:
                 arg2 = {
                     'arg2_name':arg2_str.split(':')[0],
                     'arg_id':entities[arg2_str.split(':')[1]]['id'], 
                     'arg_ann_id':arg2_str.split(':')[1],
-                    'arg_type_qnode':get_relation_argument_type_qnode(rel_type, 'arg2', relation_ontology)
+                    'arg_type_qnode':get_relation_argument_type_qnode(rel_type, 'arg2', relation_ontology),
+                    'arg_general_role_type':get_relation_arg_general_role_type(rel_type, 'arg2', relation_ontology)
                     }
             elif arg2_str.split(':')[1] in events:
                 arg2 = {
                     'arg2_name':arg2_str.split(':')[0],
                     'arg_id':events[arg2_str.split(':')[1]]['id'], 
                     'arg_ann_id':arg2_str.split(':')[1],
-                    'arg_type_qnode':get_relation_argument_type_qnode(rel_type, 'arg2', relation_ontology)
+                    'arg_type_qnode':get_relation_argument_type_qnode(rel_type, 'arg2', relation_ontology),
+                    'arg_general_role_type':get_relation_arg_general_role_type(rel_type, 'arg2', relation_ontology)
                     }
 
             relations[parsed_line[0]] = {
@@ -315,9 +323,29 @@ def main():
         generate_LDC_tabs_TA3('TA3_evt_slots.tab', child_id, entities, events, relations, output_dir = doc_out_dir, root_id = NA_FILLER, ltf_dir = ltf_dir_path)
         generate_LDC_tabs_TA3('TA3_rel_slots.tab', child_id, entities, events, relations, output_dir = doc_out_dir, root_id = NA_FILLER, ltf_dir = ltf_dir_path)
 
+        # output events, entities, relations, attributes
+        # change keys to unique ids:
+        for key in list(events.keys()):
+            new_key = events[key]['id']
+            events[new_key] = events.pop(key)
+        for key in list(entities.keys()):
+            new_key = entities[key]['id']
+            entities[new_key] = entities.pop(key)
+        for key in list(relations.keys()):
+            new_key = relations[key]['id']
+            relations[new_key] = relations.pop(key)
+        for key in list(attributes.keys()):
+            new_key = attributes[key]['id']
+            attributes[new_key] = attributes.pop(key)
 
-
-
+        with open(os.path.join(doc_out_dir, 'entities.json'), 'w') as out:
+            json.dump(entities,out,indent=4)
+        with open(os.path.join(doc_out_dir, 'events.json'), 'w') as out:
+            json.dump(events,out,indent=4)
+        with open(os.path.join(doc_out_dir, 'relations.json'), 'w') as out:
+            json.dump(relations,out,indent=4)
+        with open(os.path.join(doc_out_dir, 'attributes.json'), 'w') as out:
+            json.dump(attributes,out,indent=4)
 
 if __name__ == '__main__':
     main()
