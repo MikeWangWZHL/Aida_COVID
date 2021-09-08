@@ -4,7 +4,8 @@
         "args": {
             "Patient": "Patient",
             "Place": "Place",
-            "Treatment": "Instrument"
+            "Treatment": "Instrument",
+            "Affliction":"MedicalIssue"
         }
     },
     "DiseaseOutbreak_DiseaseOutbreak": {

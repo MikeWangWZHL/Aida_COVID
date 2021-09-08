@@ -50,15 +50,28 @@ def generate_LDC_tabs_TA3(tab_name, child_id, entities, events, relations, outpu
         lines.append(first_line)
         for re in relations.values():
             re_id = re['id']
+            if len(re['type'].split('.')) != 3:
+                continue
             type_, subtype, subsubtype = re['type'].split('.')
-            arg1 = entities[re['args']['arg1']['arg_ann_id']]
-            arg2 = entities[re['args']['arg2']['arg_ann_id']]
-            off_start = min(arg1['offsets'][0], arg2['offsets'][0])
-            off_end = max(arg1['offsets'][1]-1, arg2['offsets'][1]-1)
+            if re['args']['arg1']['arg_ann_id'].startswith('T'):
+                arg1 = entities[re['args']['arg1']['arg_ann_id']]
+                arg1_offset = arg1['offsets']
+            else:
+                arg1 = events[re['args']['arg1']['arg_ann_id']]
+                arg1_offset = arg1['trigger']['offsets']
+            if re['args']['arg2']['arg_ann_id'].startswith('T'):
+                arg2 = entities[re['args']['arg2']['arg_ann_id']]
+                arg2_offset = arg2['offsets']
+            else:
+                arg2 = events[re['args']['arg2']['arg_ann_id']]
+                arg2_offset = arg2['trigger']['offsets']
+
+            off_start = min(arg1_offset[0], arg2_offset[0])
+            off_end = max(arg1_offset[1]-1, arg2_offset[1]-1)
             if ltf_dir:
                 # add LTF description
-                arg1_off_start = arg1['offsets'][0]
-                arg1_off_end = arg1['offsets'][1]-1
+                arg1_off_start = arg1_offset[0]
+                arg1_off_end = arg1_offset[1]-1
                 offset_str = f'{child_id}:{arg1_off_start}-{arg1_off_end}'
                 description = ltf_util.get_original_text(offset_str)
             else:

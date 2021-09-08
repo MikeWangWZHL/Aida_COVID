@@ -11,14 +11,20 @@ from generate_LDC_tabs import generate_LDC_tabs_TA3
 
 """Macro"""
 NA_FILLER = 'EMPTY_NA'
+ONT_MAPPING = json.load(open('/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/ontology/event_mapping_manual_7-21.json'))
 
 """helper functions"""
 def get_event_type_qnode(event_type, xpo_ontology):
-    assert event_type in xpo_ontology
-    return xpo_ontology[event_type]['WD_Qnode'].split('_')[1].strip()
+    if event_type in xpo_ontology:
+        if len(xpo_ontology[event_type]['WD_Qnode'].split('_'))<2:
+            return NA_FILLER
+        return xpo_ontology[event_type]['WD_Qnode'].split('_')[1].strip()
+    else:
+        return NA_FILLER
 
 def get_event_argument_type_qnode(event_type, arg_role, xpo_ontology):
-    assert event_type in xpo_ontology
+    if event_type not in xpo_ontology:
+        return NA_FILLER
     args = xpo_ontology[event_type]['args']
     for arg in args:
         key = arg['ldc_role'].replace('/','_').replace(' ','_')
@@ -36,7 +42,8 @@ def get_event_argument_type_qnode(event_type, arg_role, xpo_ontology):
     return None
 
 def get_event_arg_general_role_type(event_type, arg_role, xpo_ontology):
-    assert event_type in xpo_ontology
+    if event_type not in xpo_ontology:
+        return NA_FILLER
     args = xpo_ontology[event_type]['args']
     for arg in args:
         key = arg['ldc_role'].replace('/','_').replace(' ','_')
@@ -50,7 +57,6 @@ def get_relation_arg_general_role_type(event_type, arg_num, xpo_ontology):
     # TODO:
     return NA_FILLER
 
-
 def get_relation_type_qnode(rel_type, rel_ontology):
     # TODO:
     return NA_FILLER
@@ -61,6 +67,7 @@ def get_relation_argument_type_qnode(rel_type, arg_num, rel_ontology):
 
 """process ann"""
 def get_entities(doc_id, lines):
+    print(doc_id)
     entity_dict = {}
     for line in lines:
         if line.startswith('T'):
@@ -69,7 +76,13 @@ def get_entities(doc_id, lines):
             en_index = int(parsed_line[0][1:])
             en_id = f'EN{doc_id}.{en_index:06d}'
             # get type, offsets
-            en_type, offset_start, offset_end = parsed_line[1].split(' ')
+            # print(parsed_line)
+            if ';' in parsed_line[1]:
+                parsed_line_offset = parsed_line[1].split(';')[0]
+            else:
+                parsed_line_offset = parsed_line[1]
+
+            en_type, offset_start, offset_end = parsed_line_offset.split(' ')
             offset_start = int(offset_start)
             offset_end = int(offset_end)
             # get text
@@ -87,8 +100,16 @@ def get_events(doc_id, lines, entities, xpo_ontology = None):
             ev_index = int(parsed_line[0][1:])
             ev_id = f'EV{doc_id}.{ev_index:06d}'
             # get full type str
-            ev_type_str = parsed_line[1].split(' ')[0].split(':')[0].replace('_','.')
-            
+            '''do mapping on old ontology'''
+            ann_type_str = parsed_line[1].split(' ')[0].split(':')[0]
+            args_mapping = None
+            if ann_type_str in ONT_MAPPING:
+                args_mapping = ONT_MAPPING[ann_type_str]['args']
+                ann_type_str = ONT_MAPPING[ann_type_str]['mapped_type_name']
+                print('mapped:',ann_type_str)
+
+            ev_type_str = ann_type_str.replace('_','.')
+
             trigger_id = parsed_line[1].split(' ')[0].split(':')[1]
             ev_trigger = {'offsets':entities[trigger_id]['offsets'], 'text':entities[trigger_id]['text']}
             # get args
@@ -98,20 +119,35 @@ def get_events(doc_id, lines, entities, xpo_ontology = None):
                 if arg_str == '':
                     continue
                 arg_type, arg_id = arg_str.split(':')
+                # map args for old ontology
+                if args_mapping:
+                    if arg_type not in  args_mapping:
+                        print(ann_type_str)
+                    arg_type = args_mapping[arg_type]
+
                 if arg_id.startswith('E'):
-                    assert arg_id in event_dict 
-                    arg_object = event_dict[arg_id]
+                    # print(parsed_line)
+                    # assert arg_id in event_dict 
+                    args.append(
+                        {
+                            'role_type':arg_type,
+                            'general_role_type':get_event_arg_general_role_type(ev_type_str, arg_type, xpo_ontology),
+                            'arg_id':None,
+                            'arg_ann_id':arg_id,
+                            'arg_type_qnode':get_event_argument_type_qnode(ev_type_str, arg_type, xpo_ontology)
+                        }
+                    )
                 else:
                     arg_object = entities[arg_id]
-                args.append(
-                    {
-                        'role_type':arg_type,
-                        'general_role_type':get_event_arg_general_role_type(ev_type_str, arg_type, xpo_ontology),
-                        'arg_id':arg_object['id'],
-                        'arg_ann_id':arg_id,
-                        'arg_type_qnode':get_event_argument_type_qnode(ev_type_str, arg_type, xpo_ontology)
-                    }
-                )
+                    args.append(
+                        {
+                            'role_type':arg_type,
+                            'general_role_type':get_event_arg_general_role_type(ev_type_str, arg_type, xpo_ontology),
+                            'arg_id':arg_object['id'],
+                            'arg_ann_id':arg_id,
+                            'arg_type_qnode':get_event_argument_type_qnode(ev_type_str, arg_type, xpo_ontology)
+                        }
+                    )
             # brat id
             event_dict[parsed_line[0]] = {
                 'id':ev_id,
@@ -121,6 +157,11 @@ def get_events(doc_id, lines, entities, xpo_ontology = None):
                 'event_ann_id':parsed_line[0],
                 'event_type_qnode':get_event_type_qnode(ev_type_str, xpo_ontology)
             }
+    for ev,value in event_dict.items():
+        for arg in value['arguments']:
+            if arg['arg_id'] is None:
+                assert arg['arg_ann_id'] in event_dict
+                arg['arg_id'] = event_dict[arg['arg_ann_id']]['id']
     return event_dict
 
 def get_attributes(doc_id, lines, events, entities):
@@ -223,30 +264,30 @@ def process_ann(ann_path, xpo_ontology):
     lines = load_ann(ann_path)
 
     entities = get_entities(doc_id, lines)
-    print('entity:')
-    pp.pprint(entities['T1']) # print entity
-    print('===================================')
+    # print('entity:')
+    # pp.pprint(entities['T1']) # print entity
+    # print('===================================')
     
     events = get_events(doc_id, lines, entities, xpo_ontology) 
-    print('event:')
-    # pp.pprint(events['E1']) # print event
-    pp.pprint(events) # print event
-    print('===================================')
+    # print('event:')
+    # # pp.pprint(events['E1']) # print event
+    # pp.pprint(events) # print event
+    # print('===================================')
     
     attributes = get_attributes(doc_id, lines, events, entities)
-    print('attrubutes:')
-    # pp.pprint(attributes['A1']) # print attr
-    pp.pprint(attributes) # print attr
-    print('===================================')
+    # print('attrubutes:')
+    # # pp.pprint(attributes['A1']) # print attr
+    # pp.pprint(attributes) # print attr
+    # print('===================================')
     
     relations = get_relations(doc_id, lines, entities, events, xpo_ontology)
-    print('relations:')
-    # pp.pprint(relations['R1'])
-    pp.pprint(relations)
-    print('===================================')
+    # print('relations:')
+    # # pp.pprint(relations['R1'])
+    # pp.pprint(relations)
+    # print('===================================')
 
-    print(f'processed ann path: {ann_path}')
-    print('=====================================')
+    # print(f'processed ann path: {ann_path}')
+    # print('=====================================')
 
     return entities, events, attributes, relations
 
@@ -266,23 +307,28 @@ def get_claim_semantic_associate_dict(attributes, relations):
             if attr['arg_id'] in re_arg1_to_reid: 
                 for re_id in re_arg1_to_reid[attr['arg_id']]:
                     claim_semantic_dict[attr['value']].append(re_id)
+                    claim_associate_dict[attr['value']].append(re_id)
             else:
                 claim_semantic_dict[attr['value']].append(attr['arg_id']) # add event
+                claim_associate_dict[attr['value']].append(attr['arg_id']) # add event
         if 'ClaimID_Associate' in attr['type']:
             # propagate to relations if it is an entity
             if attr['arg_id'] in re_arg1_to_reid: 
                 for re_id in re_arg1_to_reid[attr['arg_id']]:
-                    claim_associate_dict[attr['value']].append(re_id)
+                    if re_id not in claim_associate_dict[attr['value']]:
+                        claim_associate_dict[attr['value']].append(re_id)
             else:
-                claim_associate_dict[attr['value']].append(attr['arg_id']) # add event
+                if attr['arg_id'] not in claim_associate_dict[attr['value']]:
+                    claim_associate_dict[attr['value']].append(attr['arg_id']) # add event
     return claim_semantic_dict, claim_associate_dict
 
 def main():
 
     '''config'''
-    annotated_innerframe_dir_path = '/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/results/TA3_test/annotated_inner_frame'
-    ltf_dir_path = '/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/results/TA3_test/ltf'
-    out_dir_path = '/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/results/TA3_test/out'
+    annotated_innerframe_dir_path = '/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/results/9-4-dump/annotated_inner_frame/LDC2021E11_TA3_annotation_batch_1_EN'
+    ltf_dir_path = '/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/brat/Aida_TA3_First_batch/ltf/en'
+    out_dir_path = '/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/results/9-4-dump/out/TA3'
+    
     xpo_ontology_json = '/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/ontology/json/kairos_event_ontology_xpo-7_19.json'
     
     '''load ontology'''
@@ -297,7 +343,7 @@ def main():
 
     '''get ann file paths'''
     inner_frame_dirs = glob(os.path.join(annotated_innerframe_dir_path,'*'))
-    ann_file_paths = [os.path.join(dir_path, os.path.basename(dir_path) + '.rsd.ann') for dir_path in inner_frame_dirs]
+    ann_file_paths = [os.path.join(dir_path, os.path.basename(dir_path) + '.rsd.ann') for dir_path in inner_frame_dirs if os.path.isdir(dir_path)]
     
     '''inner frame'''
     for ann_path in ann_file_paths: 
@@ -347,5 +393,137 @@ def main():
         with open(os.path.join(doc_out_dir, 'attributes.json'), 'w') as out:
             json.dump(attributes,out,indent=4)
 
+def get_clean_annotation():
+    pp = pprint.PrettyPrinter(indent=4)
+
+    '''config'''
+    
+    # annotated_innerframe_dir_path = '/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/results/9-7-dump/rsd_ann/covid19_scenario_en'
+    # out_dir_path = '/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/results/9-7-dump/inner_frame_annotation_processed/covid19_scenario_en'
+    
+    annotated_innerframe_dir_path = '/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/results/9-7-dump/rsd_ann/LDC2021E11_TA3_annotation_batch_1_EN'
+    out_dir_path = '/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/results/9-7-dump/inner_frame_annotation_processed/LDC2021E11_TA3_annotation_batch_1_EN'
+    
+    xpo_ontology_json = '/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/ontology/json/kairos_event_ontology_xpo-7_19.json'
+    
+    '''load ontology'''
+    xpo_ontology = json.load(open(xpo_ontology_json))
+    xpo_ontology_new = {}
+    # fix config names
+    for key,value in xpo_ontology.items():
+        new_key = key.replace(' - ','-')
+        new_key = new_key.replace(' ','-')
+        xpo_ontology_new[new_key] = value
+    xpo_ontology = xpo_ontology_new
+
+    '''get ann file paths'''
+    inner_frame_dirs = glob(os.path.join(annotated_innerframe_dir_path,'*'))
+    ann_file_paths = [os.path.join(dir_path, os.path.basename(dir_path) + '.rsd.ann') for dir_path in inner_frame_dirs if os.path.isdir(dir_path)]
+    
+
+    filtered_event_count = 0
+    claim_sentence_count = 0
+    filtered_relations_count = 0
+    event_count_total = 0
+    relation_count_total = 0
+    document_count_total = 0
+
+    '''inner frame'''
+    for ann_path in ann_file_paths: 
+        # make dir for each document
+        doc_out_dir = os.path.join(out_dir_path, os.path.basename(ann_path)[:-8])
+        
+        if not os.path.exists(doc_out_dir):
+            os.makedirs(doc_out_dir)
+
+        entities, events, attributes, relations = process_ann(ann_path, xpo_ontology)
+        # counting
+        if events != {}:
+            event_count_total += len(events)
+            document_count_total += 1
+        if relations != {}:
+            relation_count_total += len(relations)
+        
+        # claim_semantic_dict, claim_associate_dict = get_claim_semantic_associate_dict(attributes, relations)
+        claim_sentences = []
+        claim_sentences_offsets = []
+        for en in entities.values():
+            if en['type'] == 'Claim_Sentence':
+                # Claim_Boundary, Claim_Sentence
+                claim_sentences.append(en)
+                claim_sentences_offsets.append(en['offsets'])
+        # pp.pprint(claim_sentences)
+        # pp.pprint(claim_sentences_offsets)
+        
+        filtered_events = []
+        filtered_relations = []
+
+        # filtered events
+        for ev in events.values():
+            offset_start, offset_end = ev['trigger']['offsets'][0], ev['trigger']['offsets'][1]
+            for claim_off in claim_sentences_offsets:
+                if offset_start >= claim_off[0] and offset_end <= claim_off[1]:
+                    filtered_events.append(ev)
+                    break
+
+
+        # filtered relations
+        for re in relations.values():
+            # arg1
+            arg1 = re['args']['arg1']
+            if arg1['arg_ann_id'] in entities:
+                arg1_en = entities[arg1['arg_ann_id']]
+                arg1_offset_start, arg1_offset_end = arg1_en['offsets']
+            elif arg1['arg_ann_id'] in events:
+                arg1_ev = events[arg1['arg_ann_id']]
+                arg1_offset_start, arg1_offset_end = arg1_ev['trigger']['offsets']
+            # arg2
+            arg2 = re['args']['arg2']
+            if arg2['arg_ann_id'] in entities:
+                arg2_en = entities[arg2['arg_ann_id']]
+                arg2_offset_start, arg2_offset_end = arg2_en['offsets']
+            elif arg2['arg_ann_id'] in events:
+                arg2_ev = events[arg2['arg_ann_id']]
+                arg2_offset_start, arg2_offset_end = arg2_ev['trigger']['offsets']
+
+            for claim_off in claim_sentences_offsets:
+                if (arg1_offset_start >= claim_off[0] and arg1_offset_end <= claim_off[1]) or (arg2_offset_start >= claim_off[0] and arg2_offset_end <= claim_off[1]):
+                    filtered_relations.append(re)
+                    break
+        # print(claim_sentences_offsets)
+        # print('filtered events', filtered_events)
+        # print('filtered relations', filtered_relations)
+        # print('==================================')
+
+        with open(os.path.join(doc_out_dir, 'entities.json'), 'w') as out:
+            json.dump(entities,out,indent=4)
+        with open(os.path.join(doc_out_dir, 'events.json'), 'w') as out:
+            json.dump(events,out,indent=4)
+        with open(os.path.join(doc_out_dir, 'relations.json'), 'w') as out:
+            json.dump(relations,out,indent=4)
+        with open(os.path.join(doc_out_dir, 'attributes.json'), 'w') as out:
+            json.dump(attributes,out,indent=4)
+        with open(os.path.join(doc_out_dir, 'claim_sentences.json'), 'w') as out:
+            json.dump(claim_sentences,out,indent=4)
+        with open(os.path.join(doc_out_dir, 'filtered_events.json'), 'w') as out:
+            json.dump(filtered_events,out,indent=4)
+        with open(os.path.join(doc_out_dir, 'filtered_relations.json'), 'w') as out:
+            json.dump(filtered_relations,out,indent=4)
+        
+        filtered_event_count += len(filtered_events)
+        filtered_relations_count += len(filtered_relations)
+        claim_sentence_count += len(claim_sentences)
+    
+    print('filtered_event_count:',filtered_event_count)
+    print('claim_sentence_count:',claim_sentence_count)
+    print('filtered_relations_count:',filtered_relations_count)
+    print('Event count total:',event_count_total)
+    print('Relation count total:',relation_count_total)
+    print('Document count total:',document_count_total)
+
 if __name__ == '__main__':
-    main()
+    '''process TA3'''
+    # main()
+
+    '''get inner frame clean annotation sentences'''
+    get_clean_annotation()
