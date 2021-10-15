@@ -1,0 +1,3152 @@
+{
+    "ENL0C04958V.000001": {
+        "id": "ENL0C04958V.000001",
+        "type": "GPE",
+        "offsets": [
+            14,
+            16
+        ],
+        "text": "US",
+        "arg_ann_id": "T1"
+    },
+    "ENL0C04958V.000002": {
+        "id": "ENL0C04958V.000002",
+        "type": "GPE",
+        "offsets": [
+            21,
+            26
+        ],
+        "text": "China",
+        "arg_ann_id": "T2"
+    },
+    "ENL0C04958V.000003": {
+        "id": "ENL0C04958V.000003",
+        "type": "MHI",
+        "offsets": [
+            149,
+            160
+        ],
+        "text": "coronavirus",
+        "arg_ann_id": "T3"
+    },
+    "ENL0C04958V.000004": {
+        "id": "ENL0C04958V.000004",
+        "type": "MHI",
+        "offsets": [
+            225,
+            232
+        ],
+        "text": "disease",
+        "arg_ann_id": "T4"
+    },
+    "ENL0C04958V.000005": {
+        "id": "ENL0C04958V.000005",
+        "type": "GPE",
+        "offsets": [
+            329,
+            336
+        ],
+        "text": "Chinese",
+        "arg_ann_id": "T5"
+    },
+    "ENL0C04958V.000006": {
+        "id": "ENL0C04958V.000006",
+        "type": "WEA",
+        "offsets": [
+            356,
+            363
+        ],
+        "text": "weapons",
+        "arg_ann_id": "T6"
+    },
+    "ENL0C04958V.000007": {
+        "id": "ENL0C04958V.000007",
+        "type": "GPE",
+        "offsets": [
+            404,
+            420
+        ],
+        "text": "Canadian-Chinese",
+        "arg_ann_id": "T7"
+    },
+    "ENL0C04958V.000008": {
+        "id": "ENL0C04958V.000008",
+        "type": "PER",
+        "offsets": [
+            421,
+            424
+        ],
+        "text": "spy",
+        "arg_ann_id": "T8"
+    },
+    "ENL0C04958V.000009": {
+        "id": "ENL0C04958V.000009",
+        "type": "PER",
+        "offsets": [
+            425,
+            429
+        ],
+        "text": "team",
+        "arg_ann_id": "T9"
+    },
+    "ENL0C04958V.000010": {
+        "id": "ENL0C04958V.000010",
+        "type": "GPE",
+        "offsets": [
+            454,
+            459
+        ],
+        "text": "Wuhan",
+        "arg_ann_id": "T10"
+    },
+    "ENL0C04958V.000011": {
+        "id": "ENL0C04958V.000011",
+        "type": "ORG",
+        "offsets": [
+            549,
+            557
+        ],
+        "text": "Facebook",
+        "arg_ann_id": "T11"
+    },
+    "ENL0C04958V.000012": {
+        "id": "ENL0C04958V.000012",
+        "type": "ORG",
+        "offsets": [
+            567,
+            574
+        ],
+        "text": "Twitter",
+        "arg_ann_id": "T12"
+    },
+    "ENL0C04958V.000013": {
+        "id": "ENL0C04958V.000013",
+        "type": "GPE",
+        "offsets": [
+            623,
+            630
+        ],
+        "text": "Russian",
+        "arg_ann_id": "T13"
+    },
+    "ENL0C04958V.000014": {
+        "id": "ENL0C04958V.000014",
+        "type": "GPE",
+        "offsets": [
+            631,
+            636
+        ],
+        "text": "state",
+        "arg_ann_id": "T14"
+    },
+    "ENL0C04958V.000015": {
+        "id": "ENL0C04958V.000015",
+        "type": "ORG",
+        "offsets": [
+            766,
+            776
+        ],
+        "text": "government",
+        "arg_ann_id": "T15"
+    },
+    "ENL0C04958V.000016": {
+        "id": "ENL0C04958V.000016",
+        "type": "PER",
+        "offsets": [
+            777,
+            786
+        ],
+        "text": "officials",
+        "arg_ann_id": "T16"
+    },
+    "ENL0C04958V.000017": {
+        "id": "ENL0C04958V.000017",
+        "type": "PER",
+        "offsets": [
+            795,
+            806
+        ],
+        "text": "politicians",
+        "arg_ann_id": "T17"
+    },
+    "ENL0C04958V.000020": {
+        "id": "ENL0C04958V.000020",
+        "type": "GPE",
+        "offsets": [
+            828,
+            833
+        ],
+        "text": "China",
+        "arg_ann_id": "T20"
+    },
+    "ENL0C04958V.000021": {
+        "id": "ENL0C04958V.000021",
+        "type": "GPE",
+        "offsets": [
+            842,
+            844
+        ],
+        "text": "US",
+        "arg_ann_id": "T21"
+    },
+    "ENL0C04958V.000022": {
+        "id": "ENL0C04958V.000022",
+        "type": "PER",
+        "offsets": [
+            858,
+            869
+        ],
+        "text": "Zhao Lijian",
+        "arg_ann_id": "T22"
+    },
+    "ENL0C04958V.000023": {
+        "id": "ENL0C04958V.000023",
+        "type": "GPE",
+        "offsets": [
+            873,
+            880
+        ],
+        "text": "Chinese",
+        "arg_ann_id": "T23"
+    },
+    "ENL0C04958V.000024": {
+        "id": "ENL0C04958V.000024",
+        "type": "ORG",
+        "offsets": [
+            889,
+            897
+        ],
+        "text": "ministry",
+        "arg_ann_id": "T24"
+    },
+    "ENL0C04958V.000025": {
+        "id": "ENL0C04958V.000025",
+        "type": "PER",
+        "offsets": [
+            898,
+            907
+        ],
+        "text": "spokesman",
+        "arg_ann_id": "T25"
+    },
+    "ENL0C04958V.000026": {
+        "id": "ENL0C04958V.000026",
+        "type": "GPE",
+        "offsets": [
+            1006,
+            1008
+        ],
+        "text": "US",
+        "arg_ann_id": "T26"
+    },
+    "ENL0C04958V.000027": {
+        "id": "ENL0C04958V.000027",
+        "type": "PER",
+        "offsets": [
+            1024,
+            1026
+        ],
+        "text": "he",
+        "arg_ann_id": "T27"
+    },
+    "ENL0C04958V.000028": {
+        "id": "ENL0C04958V.000028",
+        "type": "GPE",
+        "offsets": [
+            1071,
+            1073
+        ],
+        "text": "US",
+        "arg_ann_id": "T28"
+    },
+    "ENL0C04958V.000029": {
+        "id": "ENL0C04958V.000029",
+        "type": "ORG",
+        "offsets": [
+            1074,
+            1078
+        ],
+        "text": "army",
+        "arg_ann_id": "T29"
+    },
+    "ENL0C04958V.000030": {
+        "id": "ENL0C04958V.000030",
+        "type": "ORG",
+        "offsets": [
+            1079,
+            1083
+        ],
+        "text": "that",
+        "arg_ann_id": "T30"
+    },
+    "ENL0C04958V.000031": {
+        "id": "ENL0C04958V.000031",
+        "type": "GPE",
+        "offsets": [
+            1105,
+            1110
+        ],
+        "text": "Wuhan",
+        "arg_ann_id": "T31"
+    },
+    "ENL0C04958V.000032": {
+        "id": "ENL0C04958V.000032",
+        "type": "PER",
+        "offsets": [
+            1126,
+            1128
+        ],
+        "text": "he",
+        "arg_ann_id": "T32"
+    },
+    "ENL0C04958V.000033": {
+        "id": "ENL0C04958V.000033",
+        "type": "ORG",
+        "offsets": [
+            1163,
+            1178
+        ],
+        "text": "Global Research",
+        "arg_ann_id": "T33"
+    },
+    "ENL0C04958V.000034": {
+        "id": "ENL0C04958V.000034",
+        "type": "GPE",
+        "offsets": [
+            1240,
+            1242
+        ],
+        "text": "US",
+        "arg_ann_id": "T34"
+    },
+    "ENL0C04958V.000035": {
+        "id": "ENL0C04958V.000035",
+        "type": "PER",
+        "offsets": [
+            1255,
+            1260
+        ],
+        "text": "users",
+        "arg_ann_id": "T35"
+    },
+    "ENL0C04958V.000036": {
+        "id": "ENL0C04958V.000036",
+        "type": "GPE",
+        "offsets": [
+            1320,
+            1327
+        ],
+        "text": "Chinese",
+        "arg_ann_id": "T36"
+    },
+    "ENL0C04958V.000037": {
+        "id": "ENL0C04958V.000037",
+        "type": "ORG",
+        "offsets": [
+            1328,
+            1333
+        ],
+        "text": "daily",
+        "arg_ann_id": "T37"
+    },
+    "ENL0C04958V.000038": {
+        "id": "ENL0C04958V.000038",
+        "type": "ORG",
+        "offsets": [
+            1338,
+            1350
+        ],
+        "text": "Global Times",
+        "arg_ann_id": "T38"
+    },
+    "ENL0C04958V.000039": {
+        "id": "ENL0C04958V.000039",
+        "type": "PER",
+        "offsets": [
+            1399,
+            1407
+        ],
+        "text": "diplomat",
+        "arg_ann_id": "T39"
+    },
+    "ENL0C04958V.000040": {
+        "id": "ENL0C04958V.000040",
+        "type": "PER",
+        "offsets": [
+            1453,
+            1456
+        ],
+        "text": "his",
+        "arg_ann_id": "T40"
+    },
+    "ENL0C04958V.000041": {
+        "id": "ENL0C04958V.000041",
+        "type": "GPE",
+        "offsets": [
+            1510,
+            1517
+        ],
+        "text": "Chinese",
+        "arg_ann_id": "T41"
+    },
+    "ENL0C04958V.000042": {
+        "id": "ENL0C04958V.000042",
+        "type": "PER",
+        "offsets": [
+            1518,
+            1524
+        ],
+        "text": "public",
+        "arg_ann_id": "T42"
+    },
+    "ENL0C04958V.000043": {
+        "id": "ENL0C04958V.000043",
+        "type": "ORG",
+        "offsets": [
+            1531,
+            1536
+        ],
+        "text": "paper",
+        "arg_ann_id": "T43"
+    },
+    "ENL0C04958V.000044": {
+        "id": "ENL0C04958V.000044",
+        "type": "GPE",
+        "offsets": [
+            1601,
+            1608
+        ],
+        "text": "Chinese",
+        "arg_ann_id": "T44"
+    },
+    "ENL0C04958V.000045": {
+        "id": "ENL0C04958V.000045",
+        "type": "ORG",
+        "offsets": [
+            1609,
+            1618
+        ],
+        "text": "embassies",
+        "arg_ann_id": "T45"
+    },
+    "ENL0C04958V.000046": {
+        "id": "ENL0C04958V.000046",
+        "type": "PER",
+        "offsets": [
+            1636,
+            1641
+        ],
+        "text": "users",
+        "arg_ann_id": "T46"
+    },
+    "ENL0C04958V.000047": {
+        "id": "ENL0C04958V.000047",
+        "type": "LOC",
+        "offsets": [
+            1655,
+            1660
+        ],
+        "text": "parts",
+        "arg_ann_id": "T47"
+    },
+    "ENL0C04958V.000048": {
+        "id": "ENL0C04958V.000048",
+        "type": "LOC",
+        "offsets": [
+            1668,
+            1673
+        ],
+        "text": "world",
+        "arg_ann_id": "T48"
+    },
+    "ENL0C04958V.000049": {
+        "id": "ENL0C04958V.000049",
+        "type": "ORG",
+        "offsets": [
+            1778,
+            1781
+        ],
+        "text": "BBC",
+        "arg_ann_id": "T49"
+    },
+    "ENL0C04958V.000050": {
+        "id": "ENL0C04958V.000050",
+        "type": "GPE",
+        "offsets": [
+            1795,
+            1800
+        ],
+        "text": "China",
+        "arg_ann_id": "T50"
+    },
+    "ENL0C04958V.000051": {
+        "id": "ENL0C04958V.000051",
+        "type": "PER",
+        "offsets": [
+            1801,
+            1811
+        ],
+        "text": "specialist",
+        "arg_ann_id": "T51"
+    },
+    "ENL0C04958V.000052": {
+        "id": "ENL0C04958V.000052",
+        "type": "PER",
+        "offsets": [
+            1812,
+            1823
+        ],
+        "text": "Kerry Allen",
+        "arg_ann_id": "T52"
+    },
+    "ENL0C04958V.000053": {
+        "id": "ENL0C04958V.000053",
+        "type": "PER",
+        "offsets": [
+            1843,
+            1847
+        ],
+        "text": "Zhao",
+        "arg_ann_id": "T53"
+    },
+    "ENL0C04958V.000054": {
+        "id": "ENL0C04958V.000054",
+        "type": "PER",
+        "offsets": [
+            1880,
+            1886
+        ],
+        "text": "figure",
+        "arg_ann_id": "T54"
+    },
+    "ENL0C04958V.000055": {
+        "id": "ENL0C04958V.000055",
+        "type": "PER",
+        "offsets": [
+            1920,
+            1922
+        ],
+        "text": "he",
+        "arg_ann_id": "T55"
+    },
+    "ENL0C04958V.000056": {
+        "id": "ENL0C04958V.000056",
+        "type": "GPE",
+        "offsets": [
+            1963,
+            1968
+        ],
+        "text": "China",
+        "arg_ann_id": "T56"
+    },
+    "ENL0C04958V.000057": {
+        "id": "ENL0C04958V.000057",
+        "type": "PER",
+        "offsets": [
+            2027,
+            2037
+        ],
+        "text": "leadership",
+        "arg_ann_id": "T57"
+    },
+    "ENL0C04958V.000058": {
+        "id": "ENL0C04958V.000058",
+        "type": "GPE",
+        "offsets": [
+            2059,
+            2065
+        ],
+        "text": "Canada",
+        "arg_ann_id": "T58"
+    },
+    "ENL0C04958V.000059": {
+        "id": "ENL0C04958V.000059",
+        "type": "ORG",
+        "offsets": [
+            2067,
+            2082
+        ],
+        "text": "Global Research",
+        "arg_ann_id": "T59"
+    },
+    "ENL0C04958V.000060": {
+        "id": "ENL0C04958V.000060",
+        "type": "ORG",
+        "offsets": [
+            2105,
+            2141
+        ],
+        "text": "Center for Research on Globalization",
+        "arg_ann_id": "T60"
+    },
+    "ENL0C04958V.000061": {
+        "id": "ENL0C04958V.000061",
+        "type": "ORG",
+        "offsets": [
+            2156,
+            2166
+        ],
+        "text": "PolitiFact",
+        "arg_ann_id": "T61"
+    },
+    "ENL0C04958V.000062": {
+        "id": "ENL0C04958V.000062",
+        "type": "ORG",
+        "offsets": [
+            2214,
+            2229
+        ],
+        "text": "Global Research",
+        "arg_ann_id": "T62"
+    },
+    "ENL0C04958V.000063": {
+        "id": "ENL0C04958V.000063",
+        "type": "PER",
+        "offsets": [
+            2365,
+            2369
+        ],
+        "text": "each",
+        "arg_ann_id": "T63"
+    },
+    "ENL0C04958V.000064": {
+        "id": "ENL0C04958V.000064",
+        "type": "PER",
+        "offsets": [
+            2380,
+            2383
+        ],
+        "text": "one",
+        "arg_ann_id": "T64"
+    },
+    "ENL0C04958V.000065": {
+        "id": "ENL0C04958V.000065",
+        "type": "PER",
+        "offsets": [
+            2387,
+            2389
+        ],
+        "text": "us",
+        "arg_ann_id": "T65"
+    },
+    "ENL0C04958V.000066": {
+        "id": "ENL0C04958V.000066",
+        "type": "GPE",
+        "offsets": [
+            2479,
+            2481
+        ],
+        "text": "US",
+        "arg_ann_id": "T66"
+    },
+    "ENL0C04958V.000067": {
+        "id": "ENL0C04958V.000067",
+        "type": "PER",
+        "offsets": [
+            2508,
+            2519
+        ],
+        "text": "Lijian Zhao",
+        "arg_ann_id": "T67"
+    },
+    "ENL0C04958V.000068": {
+        "id": "ENL0C04958V.000068",
+        "type": "ORG",
+        "offsets": [
+            2555,
+            2558
+        ],
+        "text": "BBC",
+        "arg_ann_id": "T68"
+    },
+    "ENL0C04958V.000069": {
+        "id": "ENL0C04958V.000069",
+        "type": "ORG",
+        "offsets": [
+            2635,
+            2642
+        ],
+        "text": "Twitter",
+        "arg_ann_id": "T69"
+    },
+    "ENL0C04958V.000070": {
+        "id": "ENL0C04958V.000070",
+        "type": "PER",
+        "offsets": [
+            2659,
+            2663
+        ],
+        "text": "Zhao",
+        "arg_ann_id": "T70"
+    },
+    "ENL0C04958V.000071": {
+        "id": "ENL0C04958V.000071",
+        "type": "PER",
+        "offsets": [
+            2694,
+            2705
+        ],
+        "text": "contributor",
+        "arg_ann_id": "T71"
+    },
+    "ENL0C04958V.000072": {
+        "id": "ENL0C04958V.000072",
+        "type": "PER",
+        "offsets": [
+            2706,
+            2720
+        ],
+        "text": "Larry Romanoff",
+        "arg_ann_id": "T72"
+    },
+    "ENL0C04958V.000073": {
+        "id": "ENL0C04958V.000073",
+        "type": "PER",
+        "offsets": [
+            2722,
+            2725
+        ],
+        "text": "who",
+        "arg_ann_id": "T73"
+    },
+    "ENL0C04958V.000074": {
+        "id": "ENL0C04958V.000074",
+        "type": "PER",
+        "offsets": [
+            2757,
+            2760
+        ],
+        "text": "his",
+        "arg_ann_id": "T74"
+    },
+    "ENL0C04958V.000075": {
+        "id": "ENL0C04958V.000075",
+        "type": "GPE",
+        "offsets": [
+            2827,
+            2832
+        ],
+        "text": "China",
+        "arg_ann_id": "T75"
+    },
+    "ENL0C04958V.000076": {
+        "id": "ENL0C04958V.000076",
+        "type": "GPE",
+        "offsets": [
+            2843,
+            2850
+        ],
+        "text": "Chinese",
+        "arg_ann_id": "T76"
+    },
+    "ENL0C04958V.000077": {
+        "id": "ENL0C04958V.000077",
+        "type": "PER",
+        "offsets": [
+            2902,
+            2904
+        ],
+        "text": "he",
+        "arg_ann_id": "T77"
+    },
+    "ENL0C04958V.000078": {
+        "id": "ENL0C04958V.000078",
+        "type": "GPE",
+        "offsets": [
+            2947,
+            2952
+        ],
+        "text": "China",
+        "arg_ann_id": "T78"
+    },
+    "ENL0C04958V.000079": {
+        "id": "ENL0C04958V.000079",
+        "type": "GPE",
+        "offsets": [
+            2963,
+            2968
+        ],
+        "text": "place",
+        "arg_ann_id": "T79"
+    },
+    "ENL0C04958V.000080": {
+        "id": "ENL0C04958V.000080",
+        "type": "PER",
+        "offsets": [
+            3006,
+            3010
+        ],
+        "text": "they",
+        "arg_ann_id": "T80"
+    },
+    "ENL0C04958V.000081": {
+        "id": "ENL0C04958V.000081",
+        "type": "GPE",
+        "offsets": [
+            3063,
+            3068
+        ],
+        "text": "Wuhan",
+        "arg_ann_id": "T81"
+    },
+    "ENL0C04958V.000082": {
+        "id": "ENL0C04958V.000082",
+        "type": "PER",
+        "offsets": [
+            3126,
+            3134
+        ],
+        "text": "Romanoff",
+        "arg_ann_id": "T82"
+    },
+    "ENL0C04958V.000083": {
+        "id": "ENL0C04958V.000083",
+        "type": "GPE",
+        "offsets": [
+            3152,
+            3160
+        ],
+        "text": "Japanese",
+        "arg_ann_id": "T83"
+    },
+    "ENL0C04958V.000084": {
+        "id": "ENL0C04958V.000084",
+        "type": "GPE",
+        "offsets": [
+            3165,
+            3174
+        ],
+        "text": "Taiwanese",
+        "arg_ann_id": "T84"
+    },
+    "ENL0C04958V.000085": {
+        "id": "ENL0C04958V.000085",
+        "type": "PER",
+        "offsets": [
+            3175,
+            3185
+        ],
+        "text": "scientists",
+        "arg_ann_id": "T85"
+    },
+    "ENL0C04958V.000086": {
+        "id": "ENL0C04958V.000086",
+        "type": "GPE",
+        "offsets": [
+            3257,
+            3259
+        ],
+        "text": "US",
+        "arg_ann_id": "T86"
+    },
+    "ENL0C04958V.000087": {
+        "id": "ENL0C04958V.000087",
+        "type": "GPE",
+        "offsets": [
+            3320,
+            3328
+        ],
+        "text": "Japanese",
+        "arg_ann_id": "T87"
+    },
+    "ENL0C04958V.000088": {
+        "id": "ENL0C04958V.000088",
+        "type": "GPE",
+        "offsets": [
+            3372,
+            3381
+        ],
+        "text": "Taiwanese",
+        "arg_ann_id": "T88"
+    },
+    "ENL0C04958V.000089": {
+        "id": "ENL0C04958V.000089",
+        "type": "ORG",
+        "offsets": [
+            3382,
+            3384
+        ],
+        "text": "TV",
+        "arg_ann_id": "T89"
+    },
+    "ENL0C04958V.000090": {
+        "id": "ENL0C04958V.000090",
+        "type": "ORG",
+        "offsets": [
+            3450,
+            3455
+        ],
+        "text": "party",
+        "arg_ann_id": "T90"
+    },
+    "ENL0C04958V.000091": {
+        "id": "ENL0C04958V.000091",
+        "type": "PER",
+        "offsets": [
+            3456,
+            3459
+        ],
+        "text": "who",
+        "arg_ann_id": "T91"
+    },
+    "ENL0C04958V.000092": {
+        "id": "ENL0C04958V.000092",
+        "type": "PER",
+        "offsets": [
+            3463,
+            3471
+        ],
+        "text": "Romanoff",
+        "arg_ann_id": "T92"
+    },
+    "ENL0C04958V.000093": {
+        "id": "ENL0C04958V.000093",
+        "type": "PER",
+        "offsets": [
+            3500,
+            3510
+        ],
+        "text": "virologist",
+        "arg_ann_id": "T93"
+    },
+    "ENL0C04958V.000094": {
+        "id": "ENL0C04958V.000094",
+        "type": "GPE",
+        "offsets": [
+            3554,
+            3556
+        ],
+        "text": "UK",
+        "arg_ann_id": "T94"
+    },
+    "ENL0C04958V.000095": {
+        "id": "ENL0C04958V.000095",
+        "type": "ORG",
+        "offsets": [
+            3557,
+            3567
+        ],
+        "text": "government",
+        "arg_ann_id": "T95"
+    },
+    "ENL0C04958V.000096": {
+        "id": "ENL0C04958V.000096",
+        "type": "LOC",
+        "offsets": [
+            3569,
+            3574
+        ],
+        "text": "World",
+        "arg_ann_id": "T96"
+    },
+    "ENL0C04958V.000097": {
+        "id": "ENL0C04958V.000097",
+        "type": "PER",
+        "offsets": [
+            3575,
+            3582
+        ],
+        "text": "leaders",
+        "arg_ann_id": "T97"
+    },
+    "ENL0C04958V.000098": {
+        "id": "ENL0C04958V.000098",
+        "type": "PER",
+        "offsets": [
+            3618,
+            3626
+        ],
+        "text": "Romanoff",
+        "arg_ann_id": "T98"
+    },
+    "ENL0C04958V.000099": {
+        "id": "ENL0C04958V.000099",
+        "type": "GPE",
+        "offsets": [
+            3669,
+            3671
+        ],
+        "text": "US",
+        "arg_ann_id": "T99"
+    },
+    "ENL0C04958V.000100": {
+        "id": "ENL0C04958V.000100",
+        "type": "ORG",
+        "offsets": [
+            3672,
+            3680
+        ],
+        "text": "military",
+        "arg_ann_id": "T100"
+    },
+    "ENL0C04958V.000101": {
+        "id": "ENL0C04958V.000101",
+        "type": "ORG",
+        "offsets": [
+            3686,
+            3696
+        ],
+        "text": "laboratory",
+        "arg_ann_id": "T101"
+    },
+    "ENL0C04958V.000102": {
+        "id": "ENL0C04958V.000102",
+        "type": "FAC",
+        "offsets": [
+            3700,
+            3712
+        ],
+        "text": "Fort Detrick",
+        "arg_ann_id": "T102"
+    },
+    "ENL0C04958V.000103": {
+        "id": "ENL0C04958V.000103",
+        "type": "GPE",
+        "offsets": [
+            3714,
+            3722
+        ],
+        "text": "Maryland",
+        "arg_ann_id": "T103"
+    },
+    "ENL0C04958V.000104": {
+        "id": "ENL0C04958V.000104",
+        "type": "PER",
+        "offsets": [
+            3772,
+            3774
+        ],
+        "text": "He",
+        "arg_ann_id": "T104"
+    },
+    "ENL0C04958V.000105": {
+        "id": "ENL0C04958V.000105",
+        "type": "FAC",
+        "offsets": [
+            3826,
+            3834
+        ],
+        "text": "facility",
+        "arg_ann_id": "T105"
+    },
+    "ENL0C04958V.000106": {
+        "id": "ENL0C04958V.000106",
+        "type": "ORG",
+        "offsets": [
+            3950,
+            3964
+        ],
+        "text": "New York Times",
+        "arg_ann_id": "T106"
+    },
+    "ENL0C04958V.000107": {
+        "id": "ENL0C04958V.000107",
+        "type": "FAC",
+        "offsets": [
+            3991,
+            3999
+        ],
+        "text": "facility",
+        "arg_ann_id": "T107"
+    },
+    "ENL0C04958V.000108": {
+        "id": "ENL0C04958V.000108",
+        "type": "ORG",
+        "offsets": [
+            4038,
+            4041
+        ],
+        "text": "its",
+        "arg_ann_id": "T108"
+    },
+    "ENL0C04958V.000109": {
+        "id": "ENL0C04958V.000109",
+        "type": "PER",
+        "offsets": [
+            4058,
+            4069
+        ],
+        "text": "spokeswoman",
+        "arg_ann_id": "T109"
+    },
+    "ENL0C04958V.000110": {
+        "id": "ENL0C04958V.000110",
+        "type": "FAC",
+        "offsets": [
+            4130,
+            4140
+        ],
+        "text": "laboratory",
+        "arg_ann_id": "T110"
+    },
+    "ENL0C04958V.000111": {
+        "id": "ENL0C04958V.000111",
+        "type": "PER",
+        "offsets": [
+            4168,
+            4176
+        ],
+        "text": "Romanoff",
+        "arg_ann_id": "T111"
+    },
+    "ENL0C04958V.000112": {
+        "id": "ENL0C04958V.000112",
+        "type": "PER",
+        "offsets": [
+            4188,
+            4195
+        ],
+        "text": "himself",
+        "arg_ann_id": "T112"
+    },
+    "ENL0C04958V.000113": {
+        "id": "ENL0C04958V.000113",
+        "type": "PER",
+        "offsets": [
+            4221,
+            4231
+        ],
+        "text": "consultant",
+        "arg_ann_id": "T113"
+    },
+    "ENL0C04958V.000114": {
+        "id": "ENL0C04958V.000114",
+        "type": "PER",
+        "offsets": [
+            4236,
+            4247
+        ],
+        "text": "businessman",
+        "arg_ann_id": "T114"
+    },
+    "ENL0C04958V.000115": {
+        "id": "ENL0C04958V.000115",
+        "type": "PER",
+        "offsets": [
+            4265,
+            4274
+        ],
+        "text": "professor",
+        "arg_ann_id": "T115"
+    },
+    "ENL0C04958V.000116": {
+        "id": "ENL0C04958V.000116",
+        "type": "ORG",
+        "offsets": [
+            4289,
+            4305
+        ],
+        "text": "Fudan University",
+        "arg_ann_id": "T116"
+    },
+    "ENL0C04958V.000117": {
+        "id": "ENL0C04958V.000117",
+        "type": "PER",
+        "offsets": [
+            4371,
+            4378
+        ],
+        "text": "classes",
+        "arg_ann_id": "T117"
+    },
+    "ENL0C04958V.000118": {
+        "id": "ENL0C04958V.000118",
+        "type": "ORG",
+        "offsets": [
+            4399,
+            4418
+        ],
+        "text": "Wall Street Journal",
+        "arg_ann_id": "T118"
+    },
+    "ENL0C04958V.000119": {
+        "id": "ENL0C04958V.000119",
+        "type": "PER",
+        "offsets": [
+            4420,
+            4429
+        ],
+        "text": "officials",
+        "arg_ann_id": "T119"
+    },
+    "ENL0C04958V.000120": {
+        "id": "ENL0C04958V.000120",
+        "type": "PER",
+        "offsets": [
+            4493,
+            4501
+        ],
+        "text": "Romanoff",
+        "arg_ann_id": "T120"
+    },
+    "ENL0C04958V.000121": {
+        "id": "ENL0C04958V.000121",
+        "type": "ORG",
+        "offsets": [
+            4504,
+            4512
+        ],
+        "text": "BBC News",
+        "arg_ann_id": "T121"
+    },
+    "ENL0C04958V.000122": {
+        "id": "ENL0C04958V.000122",
+        "type": "ORG",
+        "offsets": [
+            4519,
+            4535
+        ],
+        "text": "Fudan University",
+        "arg_ann_id": "T122"
+    },
+    "ENL0C04958V.000123": {
+        "id": "ENL0C04958V.000123",
+        "type": "PER",
+        "offsets": [
+            4558,
+            4566
+        ],
+        "text": "Romanoff",
+        "arg_ann_id": "T123"
+    },
+    "ENL0C04958V.000124": {
+        "id": "ENL0C04958V.000124",
+        "type": "ORG",
+        "offsets": [
+            4591,
+            4593
+        ],
+        "text": "it",
+        "arg_ann_id": "T124"
+    },
+    "ENL0C04958V.000125": {
+        "id": "ENL0C04958V.000125",
+        "type": "PER",
+        "offsets": [
+            4608,
+            4617
+        ],
+        "text": "professor",
+        "arg_ann_id": "T125"
+    },
+    "ENL0C04958V.000126": {
+        "id": "ENL0C04958V.000126",
+        "type": "ORG",
+        "offsets": [
+            4649,
+            4662
+        ],
+        "text": "Reality Check",
+        "arg_ann_id": "T126"
+    },
+    "ENL0C04958V.000127": {
+        "id": "ENL0C04958V.000127",
+        "type": "PER",
+        "offsets": [
+            4693,
+            4704
+        ],
+        "text": "politicians",
+        "arg_ann_id": "T127"
+    },
+    "ENL0C04958V.000128": {
+        "id": "ENL0C04958V.000128",
+        "type": "PER",
+        "offsets": [
+            4718,
+            4729
+        ],
+        "text": "contributor",
+        "arg_ann_id": "T128"
+    },
+    "ENL0C04958V.000129": {
+        "id": "ENL0C04958V.000129",
+        "type": "ORG",
+        "offsets": [
+            4733,
+            4748
+        ],
+        "text": "Global Research",
+        "arg_ann_id": "T129"
+    },
+    "ENL0C04958V.000130": {
+        "id": "ENL0C04958V.000130",
+        "type": "PER",
+        "offsets": [
+            4758,
+            4761
+        ],
+        "text": "his",
+        "arg_ann_id": "T130"
+    },
+    "ENL0C04958V.000131": {
+        "id": "ENL0C04958V.000131",
+        "type": "GPE",
+        "offsets": [
+            4798,
+            4800
+        ],
+        "text": "US",
+        "arg_ann_id": "T131"
+    },
+    "ENL0C04958V.000132": {
+        "id": "ENL0C04958V.000132",
+        "type": "GPE",
+        "offsets": [
+            4819,
+            4824
+        ],
+        "text": "China",
+        "arg_ann_id": "T132"
+    },
+    "ENL0C04958V.000133": {
+        "id": "ENL0C04958V.000133",
+        "type": "PER",
+        "offsets": [
+            4856,
+            4858
+        ],
+        "text": "he",
+        "arg_ann_id": "T133"
+    },
+    "ENL0C04958V.000134": {
+        "id": "ENL0C04958V.000134",
+        "type": "FAC",
+        "offsets": [
+            4878,
+            4894
+        ],
+        "text": "Tiananmen Square",
+        "arg_ann_id": "T134"
+    },
+    "ENL0C04958V.000135": {
+        "id": "ENL0C04958V.000135",
+        "type": "PER",
+        "offsets": [
+            4895,
+            4902
+        ],
+        "text": "student",
+        "arg_ann_id": "T135"
+    },
+    "ENL0C04958V.000136": {
+        "id": "ENL0C04958V.000136",
+        "type": "PER",
+        "offsets": [
+            5001,
+            5003
+        ],
+        "text": "he",
+        "arg_ann_id": "T136"
+    },
+    "ENL0C04958V.000137": {
+        "id": "ENL0C04958V.000137",
+        "type": "PER",
+        "offsets": [
+            5111,
+            5118
+        ],
+        "text": "peoples",
+        "arg_ann_id": "T137"
+    },
+    "ENL0C04958V.000138": {
+        "id": "ENL0C04958V.000138",
+        "type": "ORG",
+        "offsets": [
+            5161,
+            5169
+        ],
+        "text": "BBC News",
+        "arg_ann_id": "T138"
+    },
+    "ENL0C04958V.000139": {
+        "id": "ENL0C04958V.000139",
+        "type": "PER",
+        "offsets": [
+            5184,
+            5192
+        ],
+        "text": "Romanoff",
+        "arg_ann_id": "T139"
+    },
+    "ENL0C04958V.000140": {
+        "id": "ENL0C04958V.000140",
+        "type": "GPE",
+        "offsets": [
+            5287,
+            5294
+        ],
+        "text": "Chinese",
+        "arg_ann_id": "T140"
+    },
+    "ENL0C04958V.000141": {
+        "id": "ENL0C04958V.000141",
+        "type": "ORG",
+        "offsets": [
+            5295,
+            5305
+        ],
+        "text": "government",
+        "arg_ann_id": "T141"
+    },
+    "ENL0C04958V.000142": {
+        "id": "ENL0C04958V.000142",
+        "type": "ORG",
+        "offsets": [
+            5310,
+            5315
+        ],
+        "text": "media",
+        "arg_ann_id": "T142"
+    },
+    "ENL0C04958V.000143": {
+        "id": "ENL0C04958V.000143",
+        "type": "GPE",
+        "offsets": [
+            5326,
+            5328
+        ],
+        "text": "US",
+        "arg_ann_id": "T143"
+    },
+    "ENL0C04958V.000144": {
+        "id": "ENL0C04958V.000144",
+        "type": "GPE",
+        "offsets": [
+            5391,
+            5393
+        ],
+        "text": "US",
+        "arg_ann_id": "T144"
+    },
+    "ENL0C04958V.000145": {
+        "id": "ENL0C04958V.000145",
+        "type": "PER",
+        "offsets": [
+            5394,
+            5403
+        ],
+        "text": "President",
+        "arg_ann_id": "T145"
+    },
+    "ENL0C04958V.000146": {
+        "id": "ENL0C04958V.000146",
+        "type": "PER",
+        "offsets": [
+            5404,
+            5416
+        ],
+        "text": "Donald Trump",
+        "arg_ann_id": "T146"
+    },
+    "ENL0C04958V.000147": {
+        "id": "ENL0C04958V.000147",
+        "type": "PER",
+        "offsets": [
+            5417,
+            5420
+        ],
+        "text": "who",
+        "arg_ann_id": "T147"
+    },
+    "ENL0C04958V.000148": {
+        "id": "ENL0C04958V.000148",
+        "type": "GPE",
+        "offsets": [
+            5448,
+            5455
+        ],
+        "text": "Chinese",
+        "arg_ann_id": "T148"
+    },
+    "ENL0C04958V.000149": {
+        "id": "ENL0C04958V.000149",
+        "type": "PER",
+        "offsets": [
+            5468,
+            5477
+        ],
+        "text": "Secretary",
+        "arg_ann_id": "T149"
+    },
+    "ENL0C04958V.000150": {
+        "id": "ENL0C04958V.000150",
+        "type": "ORG",
+        "offsets": [
+            5481,
+            5486
+        ],
+        "text": "State",
+        "arg_ann_id": "T150"
+    },
+    "ENL0C04958V.000151": {
+        "id": "ENL0C04958V.000151",
+        "type": "PER",
+        "offsets": [
+            5487,
+            5498
+        ],
+        "text": "Mike Pompeo",
+        "arg_ann_id": "T151"
+    },
+    "ENL0C04958V.000152": {
+        "id": "ENL0C04958V.000152",
+        "type": "GPE",
+        "offsets": [
+            5513,
+            5518
+        ],
+        "text": "China",
+        "arg_ann_id": "T152"
+    },
+    "ENL0C04958V.000153": {
+        "id": "ENL0C04958V.000153",
+        "type": "PER",
+        "offsets": [
+            5553,
+            5562
+        ],
+        "text": "President",
+        "arg_ann_id": "T153"
+    },
+    "ENL0C04958V.000154": {
+        "id": "ENL0C04958V.000154",
+        "type": "PER",
+        "offsets": [
+            5563,
+            5568
+        ],
+        "text": "Trump",
+        "arg_ann_id": "T154"
+    },
+    "ENL0C04958V.000155": {
+        "id": "ENL0C04958V.000155",
+        "type": "PER",
+        "offsets": [
+            5593,
+            5595
+        ],
+        "text": "he",
+        "arg_ann_id": "T155"
+    },
+    "ENL0C04958V.000156": {
+        "id": "ENL0C04958V.000156",
+        "type": "ORG",
+        "offsets": [
+            5630,
+            5655
+        ],
+        "text": "World Health Organization",
+        "arg_ann_id": "T156"
+    },
+    "ENL0C04958V.000157": {
+        "id": "ENL0C04958V.000157",
+        "type": "ORG",
+        "offsets": [
+            5657,
+            5660
+        ],
+        "text": "WHO",
+        "arg_ann_id": "T157"
+    },
+    "ENL0C04958V.000158": {
+        "id": "ENL0C04958V.000158",
+        "type": "ORG",
+        "offsets": [
+            5672,
+            5674
+        ],
+        "text": "it",
+        "arg_ann_id": "T158"
+    },
+    "ENL0C04958V.000159": {
+        "id": "ENL0C04958V.000159",
+        "type": "PER",
+        "offsets": [
+            5736,
+            5762
+        ],
+        "text": "Tedros Adhanom Ghebreyesus",
+        "arg_ann_id": "T159"
+    },
+    "ENL0C04958V.000160": {
+        "id": "ENL0C04958V.000160",
+        "type": "ORG",
+        "offsets": [
+            5810,
+            5812
+        ],
+        "text": "UN",
+        "arg_ann_id": "T160"
+    },
+    "ENL0C04958V.000161": {
+        "id": "ENL0C04958V.000161",
+        "type": "ORG",
+        "offsets": [
+            5813,
+            5819
+        ],
+        "text": "agency",
+        "arg_ann_id": "T161"
+    },
+    "ENL0C04958V.000162": {
+        "id": "ENL0C04958V.000162",
+        "type": "GPE",
+        "offsets": [
+            5838,
+            5840
+        ],
+        "text": "US",
+        "arg_ann_id": "T162"
+    },
+    "ENL0C04958V.000163": {
+        "id": "ENL0C04958V.000163",
+        "type": "PER",
+        "offsets": [
+            5841,
+            5852
+        ],
+        "text": "politicians",
+        "arg_ann_id": "T163"
+    },
+    "ENL0C04958V.000164": {
+        "id": "ENL0C04958V.000164",
+        "type": "PER",
+        "offsets": [
+            5857,
+            5869
+        ],
+        "text": "commentators",
+        "arg_ann_id": "T164"
+    },
+    "ENL0C04958V.000165": {
+        "id": "ENL0C04958V.000165",
+        "type": "ORG",
+        "offsets": [
+            5934,
+            5942
+        ],
+        "text": "Fox News",
+        "arg_ann_id": "T165"
+    },
+    "ENL0C04958V.000166": {
+        "id": "ENL0C04958V.000166",
+        "type": "PER",
+        "offsets": [
+            5953,
+            5957
+        ],
+        "text": "host",
+        "arg_ann_id": "T166"
+    },
+    "ENL0C04958V.000167": {
+        "id": "ENL0C04958V.000167",
+        "type": "PER",
+        "offsets": [
+            5958,
+            5972
+        ],
+        "text": "Tucker Carlson",
+        "arg_ann_id": "T167"
+    },
+    "ENL0C04958V.000168": {
+        "id": "ENL0C04958V.000168",
+        "type": "FAC",
+        "offsets": [
+            6061,
+            6064
+        ],
+        "text": "lab",
+        "arg_ann_id": "T168"
+    },
+    "ENL0C04958V.000169": {
+        "id": "ENL0C04958V.000169",
+        "type": "GPE",
+        "offsets": [
+            6068,
+            6073
+        ],
+        "text": "Wuhan",
+        "arg_ann_id": "T169"
+    },
+    "ENL0C04958V.000170": {
+        "id": "ENL0C04958V.000170",
+        "type": "ORG",
+        "offsets": [
+            6081,
+            6091
+        ],
+        "text": "Republican",
+        "arg_ann_id": "T170"
+    },
+    "ENL0C04958V.000171": {
+        "id": "ENL0C04958V.000171",
+        "type": "PER",
+        "offsets": [
+            6092,
+            6100
+        ],
+        "text": "senators",
+        "arg_ann_id": "T171"
+    },
+    "ENL0C04958V.000172": {
+        "id": "ENL0C04958V.000172",
+        "type": "PER",
+        "offsets": [
+            6101,
+            6111
+        ],
+        "text": "Tom Cotton",
+        "arg_ann_id": "T172"
+    },
+    "ENL0C04958V.000173": {
+        "id": "ENL0C04958V.000173",
+        "type": "PER",
+        "offsets": [
+            6116,
+            6124
+        ],
+        "text": "Ted Cruz",
+        "arg_ann_id": "T173"
+    },
+    "ENL0C04958V.000174": {
+        "id": "ENL0C04958V.000174",
+        "type": "PER",
+        "offsets": [
+            6130,
+            6134
+        ],
+        "text": "both",
+        "arg_ann_id": "T174"
+    },
+    "ENL0C04958V.000175": {
+        "id": "ENL0C04958V.000175",
+        "type": "GPE",
+        "offsets": [
+            6245,
+            6252
+        ],
+        "text": "Chinese",
+        "arg_ann_id": "T175"
+    },
+    "ENL0C04958V.000176": {
+        "id": "ENL0C04958V.000176",
+        "type": "PER",
+        "offsets": [
+            6253,
+            6264
+        ],
+        "text": "researchers",
+        "arg_ann_id": "T176"
+    },
+    "ENL0C04958V.000177": {
+        "id": "ENL0C04958V.000177",
+        "type": "PER",
+        "offsets": [
+            6267,
+            6277
+        ],
+        "text": "Botao Xiao",
+        "arg_ann_id": "T177"
+    },
+    "ENL0C04958V.000178": {
+        "id": "ENL0C04958V.000178",
+        "type": "PER",
+        "offsets": [
+            6282,
+            6290
+        ],
+        "text": "Lei Xiao",
+        "arg_ann_id": "T178"
+    },
+    "ENL0C04958V.000179": {
+        "id": "ENL0C04958V.000179",
+        "type": "ORG",
+        "offsets": [
+            6308,
+            6344
+        ],
+        "text": "South China University of Technology",
+        "arg_ann_id": "T179"
+    },
+    "ENL0C04958V.000180": {
+        "id": "ENL0C04958V.000180",
+        "type": "FAC",
+        "offsets": [
+            6452,
+            6462
+        ],
+        "text": "laboratory",
+        "arg_ann_id": "T180"
+    },
+    "ENL0C04958V.000181": {
+        "id": "ENL0C04958V.000181",
+        "type": "GPE",
+        "offsets": [
+            6466,
+            6471
+        ],
+        "text": "Wuhan",
+        "arg_ann_id": "T181"
+    },
+    "ENL0C04958V.000182": {
+        "id": "ENL0C04958V.000182",
+        "type": "PER",
+        "offsets": [
+            6475,
+            6487
+        ],
+        "text": "Getty Images",
+        "arg_ann_id": "T182"
+    },
+    "ENL0C04958V.000183": {
+        "id": "ENL0C04958V.000183",
+        "type": "PER",
+        "offsets": [
+            6489,
+            6498
+        ],
+        "text": "President",
+        "arg_ann_id": "T183"
+    },
+    "ENL0C04958V.000184": {
+        "id": "ENL0C04958V.000184",
+        "type": "PER",
+        "offsets": [
+            6499,
+            6504
+        ],
+        "text": "Trump",
+        "arg_ann_id": "T184"
+    },
+    "ENL0C04958V.000185": {
+        "id": "ENL0C04958V.000185",
+        "type": "ORG",
+        "offsets": [
+            6521,
+            6524
+        ],
+        "text": "WHO",
+        "arg_ann_id": "T185"
+    },
+    "ENL0C04958V.000186": {
+        "id": "ENL0C04958V.000186",
+        "type": "PER",
+        "offsets": [
+            6559,
+            6563
+        ],
+        "text": "Xiao",
+        "arg_ann_id": "T186"
+    },
+    "ENL0C04958V.000187": {
+        "id": "ENL0C04958V.000187",
+        "type": "ORG",
+        "offsets": [
+            6583,
+            6602
+        ],
+        "text": "Wall Street Journal",
+        "arg_ann_id": "T187"
+    },
+    "ENL0C04958V.000188": {
+        "id": "ENL0C04958V.000188",
+        "type": "PER",
+        "offsets": [
+            6608,
+            6610
+        ],
+        "text": "he",
+        "arg_ann_id": "T188"
+    },
+    "ENL0C04958V.000189": {
+        "id": "ENL0C04958V.000189",
+        "type": "ORG",
+        "offsets": [
+            6785,
+            6804
+        ],
+        "text": "Wall Street Journal",
+        "arg_ann_id": "T189"
+    },
+    "ENL0C04958V.000190": {
+        "id": "ENL0C04958V.000190",
+        "type": "PER",
+        "offsets": [
+            6812,
+            6815
+        ],
+        "text": "him",
+        "arg_ann_id": "T190"
+    },
+    "ENL0C04958V.000191": {
+        "id": "ENL0C04958V.000191",
+        "type": "ORG",
+        "offsets": [
+            6832,
+            6847
+        ],
+        "text": "Washington Post",
+        "arg_ann_id": "T191"
+    },
+    "ENL0C04958V.000192": {
+        "id": "ENL0C04958V.000192",
+        "type": "PER",
+        "offsets": [
+            6887,
+            6896
+        ],
+        "text": "diplomats",
+        "arg_ann_id": "T192"
+    },
+    "ENL0C04958V.000193": {
+        "id": "ENL0C04958V.000193",
+        "type": "GPE",
+        "offsets": [
+            6906,
+            6908
+        ],
+        "text": "US",
+        "arg_ann_id": "T193"
+    },
+    "ENL0C04958V.000194": {
+        "id": "ENL0C04958V.000194",
+        "type": "ORG",
+        "offsets": [
+            6909,
+            6916
+        ],
+        "text": "embassy",
+        "arg_ann_id": "T194"
+    },
+    "ENL0C04958V.000195": {
+        "id": "ENL0C04958V.000195",
+        "type": "FAC",
+        "offsets": [
+            6944,
+            6971
+        ],
+        "text": "Wuhan Institute of Virology",
+        "arg_ann_id": "T195"
+    },
+    "ENL0C04958V.000196": {
+        "id": "ENL0C04958V.000196",
+        "type": "GPE",
+        "offsets": [
+            6991,
+            7001
+        ],
+        "text": "Washington",
+        "arg_ann_id": "T196"
+    },
+    "ENL0C04958V.000197": {
+        "id": "ENL0C04958V.000197",
+        "type": "FAC",
+        "offsets": [
+            7034,
+            7037
+        ],
+        "text": "lab",
+        "arg_ann_id": "T197"
+    },
+    "ENL0C04958V.000198": {
+        "id": "ENL0C04958V.000198",
+        "type": "FAC",
+        "offsets": [
+            7039,
+            7044
+        ],
+        "text": "which",
+        "arg_ann_id": "T198"
+    },
+    "ENL0C04958V.000199": {
+        "id": "ENL0C04958V.000199",
+        "type": "PER",
+        "offsets": [
+            7104,
+            7119
+        ],
+        "text": "Jeremy Konyndyk",
+        "arg_ann_id": "T199"
+    },
+    "ENL0C04958V.000200": {
+        "id": "ENL0C04958V.000200",
+        "type": "PER",
+        "offsets": [
+            7121,
+            7124
+        ],
+        "text": "who",
+        "arg_ann_id": "T200"
+    },
+    "ENL0C04958V.000201": {
+        "id": "ENL0C04958V.000201",
+        "type": "GPE",
+        "offsets": [
+            7133,
+            7135
+        ],
+        "text": "US",
+        "arg_ann_id": "T201"
+    },
+    "ENL0C04958V.000202": {
+        "id": "ENL0C04958V.000202",
+        "type": "FAC",
+        "offsets": [
+            7232,
+            7235
+        ],
+        "text": "lab",
+        "arg_ann_id": "T202"
+    },
+    "ENL0C04958V.000203": {
+        "id": "ENL0C04958V.000203",
+        "type": "FAC",
+        "offsets": [
+            7274,
+            7277
+        ],
+        "text": "lab",
+        "arg_ann_id": "T203"
+    },
+    "ENL0C04958V.000204": {
+        "id": "ENL0C04958V.000204",
+        "type": "ORG",
+        "offsets": [
+            7326,
+            7329
+        ],
+        "text": "BBC",
+        "arg_ann_id": "T204"
+    },
+    "ENL0C04958V.000205": {
+        "id": "ENL0C04958V.000205",
+        "type": "LOC",
+        "offsets": [
+            7415,
+            7420
+        ],
+        "text": "world",
+        "arg_ann_id": "T205"
+    },
+    "ENL0C04958V.000206": {
+        "id": "ENL0C04958V.000206",
+        "type": "PER",
+        "offsets": [
+            7422,
+            7425
+        ],
+        "text": "You",
+        "arg_ann_id": "T206"
+    },
+    "ENL0C04958V.000207": {
+        "id": "ENL0C04958V.000207",
+        "type": "ORG",
+        "offsets": [
+            7437,
+            7440
+        ],
+        "text": "BBC",
+        "arg_ann_id": "T207"
+    },
+    "ENL0C04958V.000208": {
+        "id": "ENL0C04958V.000208",
+        "type": "ORG",
+        "offsets": [
+            7456,
+            7463
+        ],
+        "text": "Twitter",
+        "arg_ann_id": "T208"
+    },
+    "ENL0C04958V.000209": {
+        "id": "ENL0C04958V.000209",
+        "type": "disaster_diseaseoutbreak_unspecified",
+        "offsets": [
+            161,
+            169
+        ],
+        "text": "outbreak",
+        "arg_ann_id": "T209"
+    },
+    "ENL0C04958V.000210": {
+        "id": "ENL0C04958V.000210",
+        "type": "contact_contact_unspecified",
+        "offsets": [
+            466,
+            471
+        ],
+        "text": "claim",
+        "arg_ann_id": "T210"
+    },
+    "ENL0C04958V.000211": {
+        "id": "ENL0C04958V.000211",
+        "type": "Claim_Boundary",
+        "offsets": [
+            1067,
+            1110
+        ],
+        "text": "the US army that brought the virus to Wuhan",
+        "arg_ann_id": "T211"
+    },
+    "ENL0C04958V.000212": {
+        "id": "ENL0C04958V.000212",
+        "type": "contact_mediastatement_broadcast",
+        "offsets": [
+            1027,
+            1031
+        ],
+        "text": "said",
+        "arg_ann_id": "T212"
+    },
+    "ENL0C04958V.000213": {
+        "id": "ENL0C04958V.000213",
+        "type": "Claim_Sentence",
+        "offsets": [
+            1011,
+            1109
+        ],
+        "text": "On 12 March, he said in a tweet that it might have been the US army that brought the virus to Wuha",
+        "arg_ann_id": "T213"
+    },
+    "ENL0C04958V.000214": {
+        "id": "ENL0C04958V.000214",
+        "type": "PER",
+        "offsets": [
+            519,
+            538
+        ],
+        "text": "numerous conspiracy",
+        "arg_ann_id": "T214"
+    },
+    "ENL0C04958V.000215": {
+        "id": "ENL0C04958V.000215",
+        "type": "INF",
+        "offsets": [
+            33,
+            52
+        ],
+        "text": "conspiracy theories",
+        "arg_ann_id": "T215"
+    },
+    "ENL0C04958V.000216": {
+        "id": "ENL0C04958V.000216",
+        "type": "INF",
+        "offsets": [
+            171,
+            190
+        ],
+        "text": "conspiracy theories",
+        "arg_ann_id": "T216"
+    },
+    "ENL0C04958V.000219": {
+        "id": "ENL0C04958V.000219",
+        "type": "disaster_diseaseoutbreak_unspecified",
+        "offsets": [
+            662,
+            670
+        ],
+        "text": "outbreak",
+        "arg_ann_id": "T219"
+    },
+    "ENL0C04958V.000220": {
+        "id": "ENL0C04958V.000220",
+        "type": "INF",
+        "offsets": [
+            692,
+            700
+        ],
+        "text": "theories",
+        "arg_ann_id": "T220"
+    },
+    "ENL0C04958V.000221": {
+        "id": "ENL0C04958V.000221",
+        "type": "ABS",
+        "offsets": [
+            1155,
+            1162
+        ],
+        "text": "website",
+        "arg_ann_id": "T221"
+    },
+    "ENL0C04958V.000222": {
+        "id": "ENL0C04958V.000222",
+        "type": "INF",
+        "offsets": [
+            1140,
+            1147
+        ],
+        "text": "article",
+        "arg_ann_id": "T222"
+    },
+    "ENL0C04958V.000223": {
+        "id": "ENL0C04958V.000223",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            924,
+            932
+        ],
+        "text": "promoted",
+        "arg_ann_id": "T223"
+    },
+    "ENL0C04958V.000224": {
+        "id": "ENL0C04958V.000224",
+        "type": "PER",
+        "offsets": [
+            1544,
+            1553
+        ],
+        "text": "Mr Zhao's",
+        "arg_ann_id": "T224"
+    },
+    "ENL0C04958V.000225": {
+        "id": "ENL0C04958V.000225",
+        "type": "INF",
+        "offsets": [
+            2648,
+            2655
+        ],
+        "text": "article",
+        "arg_ann_id": "T225"
+    },
+    "ENL0C04958V.000226": {
+        "id": "ENL0C04958V.000226",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            2664,
+            2671
+        ],
+        "text": "tweeted",
+        "arg_ann_id": "T226"
+    },
+    "ENL0C04958V.000227": {
+        "id": "ENL0C04958V.000227",
+        "type": "MHI",
+        "offsets": [
+            2800,
+            2805
+        ],
+        "text": "virus",
+        "arg_ann_id": "T227"
+    },
+    "ENL0C04958V.000228": {
+        "id": "ENL0C04958V.000228",
+        "type": "Claim_Sentence",
+        "offsets": [
+            2644,
+            2833
+        ],
+        "text": "The article Mr Zhao tweeted was penned by regular contributor Larry Romanoff, who reiterates the conclusion from his earlier piece - now deleted - that the virus did not originate in China.",
+        "arg_ann_id": "T228"
+    },
+    "ENL0C04958V.000230": {
+        "id": "ENL0C04958V.000230",
+        "type": "INF",
+        "offsets": [
+            2864,
+            2872
+        ],
+        "text": "articles",
+        "arg_ann_id": "T230"
+    },
+    "ENL0C04958V.000231": {
+        "id": "ENL0C04958V.000231",
+        "type": "disaster_diseaseoutbreak_unspecified",
+        "offsets": [
+            2979,
+            2987
+        ],
+        "text": "outbreak",
+        "arg_ann_id": "T231"
+    },
+    "ENL0C04958V.000232": {
+        "id": "ENL0C04958V.000232",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            3016,
+            3023
+        ],
+        "text": "suggest",
+        "arg_ann_id": "T232"
+    },
+    "ENL0C04958V.000233": {
+        "id": "ENL0C04958V.000233",
+        "type": "MHI",
+        "offsets": [
+            3109,
+            3120
+        ],
+        "text": "coronavirus",
+        "arg_ann_id": "T233"
+    },
+    "ENL0C04958V.000234": {
+        "id": "ENL0C04958V.000234",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            3140,
+            3146
+        ],
+        "text": "claims",
+        "arg_ann_id": "T234"
+    },
+    "ENL0C04958V.000235": {
+        "id": "ENL0C04958V.000235",
+        "type": "MHI",
+        "offsets": [
+            3216,
+            3227
+        ],
+        "text": "coronavirus",
+        "arg_ann_id": "T235"
+    },
+    "ENL0C04958V.000236": {
+        "id": "ENL0C04958V.000236",
+        "type": "INF",
+        "offsets": [
+            3271,
+            3281
+        ],
+        "text": "conclusion",
+        "arg_ann_id": "T236"
+    },
+    "ENL0C04958V.000237": {
+        "id": "ENL0C04958V.000237",
+        "type": "ORG",
+        "offsets": [
+            3390,
+            3402
+        ],
+        "text": "pharmacology",
+        "arg_ann_id": "T237"
+    },
+    "ENL0C04958V.000238": {
+        "id": "ENL0C04958V.000238",
+        "type": "PER",
+        "offsets": [
+            3403,
+            3413
+        ],
+        "text": "professor-",
+        "arg_ann_id": "T238"
+    },
+    "ENL0C04958V.000239": {
+        "id": "ENL0C04958V.000239",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            3632,
+            3638
+        ],
+        "text": "claims",
+        "arg_ann_id": "T239"
+    },
+    "ENL0C04958V.000240": {
+        "id": "ENL0C04958V.000240",
+        "type": "MHI",
+        "offsets": [
+            3765,
+            3771
+        ],
+        "text": "virus.",
+        "arg_ann_id": "T240"
+    },
+    "ENL0C04958V.000241": {
+        "id": "ENL0C04958V.000241",
+        "type": "INF",
+        "offsets": [
+            4839,
+            4846
+        ],
+        "text": "article",
+        "arg_ann_id": "T241"
+    },
+    "ENL0C04958V.000242": {
+        "id": "ENL0C04958V.000242",
+        "type": "MHI",
+        "offsets": [
+            5060,
+            5068
+        ],
+        "text": "Covid-19",
+        "arg_ann_id": "T242"
+    },
+    "ENL0C04958V.000243": {
+        "id": "ENL0C04958V.000243",
+        "type": "MHI",
+        "offsets": [
+            4671,
+            4682
+        ],
+        "text": "coronavirus",
+        "arg_ann_id": "T243"
+    },
+    "ENL0C04958V.000244": {
+        "id": "ENL0C04958V.000244",
+        "type": "contact_contact_meet",
+        "offsets": [
+            5004,
+            5008
+        ],
+        "text": "told",
+        "arg_ann_id": "T244"
+    },
+    "ENL0C04958V.000245": {
+        "id": "ENL0C04958V.000245",
+        "type": "ORG",
+        "offsets": [
+            5011,
+            5018
+        ],
+        "text": "podcast",
+        "arg_ann_id": "T245"
+    },
+    "ENL0C04958V.000246": {
+        "id": "ENL0C04958V.000246",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            5499,
+            5507
+        ],
+        "text": "demanded",
+        "arg_ann_id": "T246"
+    },
+    "ENL0C04958V.000247": {
+        "id": "ENL0C04958V.000247",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            5578,
+            5587
+        ],
+        "text": "announced",
+        "arg_ann_id": "T247"
+    },
+    "ENL0C04958V.000248": {
+        "id": "ENL0C04958V.000248",
+        "type": "MON",
+        "offsets": [
+            5614,
+            5621
+        ],
+        "text": "funding",
+        "arg_ann_id": "T248"
+    },
+    "ENL0C04958V.000249": {
+        "id": "ENL0C04958V.000249",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            5763,
+            5767
+        ],
+        "text": "said",
+        "arg_ann_id": "T249"
+    },
+    "ENL0C04958V.000250": {
+        "id": "ENL0C04958V.000250",
+        "type": "MON",
+        "offsets": [
+            5797,
+            5802
+        ],
+        "text": "funds",
+        "arg_ann_id": "T250"
+    },
+    "ENL0C04958V.000251": {
+        "id": "ENL0C04958V.000251",
+        "type": "MHI",
+        "offsets": [
+            5926,
+            5931
+        ],
+        "text": "virus",
+        "arg_ann_id": "T251"
+    },
+    "ENL0C04958V.000252": {
+        "id": "ENL0C04958V.000252",
+        "type": "contact_contact_unspecified",
+        "offsets": [
+            294,
+            299
+        ],
+        "text": "claim",
+        "arg_ann_id": "T252"
+    },
+    "ENL0C04958V.000253": {
+        "id": "ENL0C04958V.000253",
+        "type": "contact_contact_unspecified",
+        "offsets": [
+            391,
+            396
+        ],
+        "text": "claim",
+        "arg_ann_id": "T253"
+    },
+    "ENL0C04958V.000254": {
+        "id": "ENL0C04958V.000254",
+        "type": "MHI",
+        "offsets": [
+            309,
+            314
+        ],
+        "text": "virus",
+        "arg_ann_id": "T254"
+    },
+    "ENL0C04958V.000255": {
+        "id": "ENL0C04958V.000255",
+        "type": "Claim_Boundary",
+        "offsets": [
+            477,
+            499
+        ],
+        "text": "the virus was man-made",
+        "arg_ann_id": "T255"
+    },
+    "ENL0C04958V.000217": {
+        "id": "ENL0C04958V.000217",
+        "type": "Claim_Boundary",
+        "offsets": [
+            968,
+            1009
+        ],
+        "text": "Covid-19 might have originated in the US.",
+        "arg_ann_id": "T217"
+    },
+    "ENL0C04958V.000218": {
+        "id": "ENL0C04958V.000218",
+        "type": "Claim_Boundary",
+        "offsets": [
+            305,
+            374
+        ],
+        "text": "the virus was part of a Chinese \"covert biological weapons programme\"",
+        "arg_ann_id": "T218"
+    },
+    "ENL0C04958V.000256": {
+        "id": "ENL0C04958V.000256",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            1421,
+            1426
+        ],
+        "text": "claim",
+        "arg_ann_id": "T256"
+    },
+    "ENL0C04958V.000257": {
+        "id": "ENL0C04958V.000257",
+        "type": "INF",
+        "offsets": [
+            3329,
+            3338
+        ],
+        "text": "TV report",
+        "arg_ann_id": "T257"
+    },
+    "ENL0C04958V.000258": {
+        "id": "ENL0C04958V.000258",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            3357,
+            3363
+        ],
+        "text": "claims",
+        "arg_ann_id": "T258"
+    },
+    "ENL0C04958V.000259": {
+        "id": "ENL0C04958V.000259",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            3965,
+            3973
+        ],
+        "text": "reported",
+        "arg_ann_id": "T259"
+    },
+    "ENL0C04958V.000260": {
+        "id": "ENL0C04958V.000260",
+        "type": "GPE",
+        "offsets": [
+            4278,
+            4286
+        ],
+        "text": "Shanghai",
+        "arg_ann_id": "T260"
+    },
+    "ENL0C04958V.000261": {
+        "id": "ENL0C04958V.000261",
+        "type": "ORG",
+        "offsets": [
+            4437,
+            4449
+        ],
+        "text": "university's",
+        "arg_ann_id": "T261"
+    },
+    "ENL0C04958V.000262": {
+        "id": "ENL0C04958V.000262",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            1129,
+            1136
+        ],
+        "text": "tweeted",
+        "arg_ann_id": "T262"
+    },
+    "ENL0C04958V.000263": {
+        "id": "ENL0C04958V.000263",
+        "type": "ABS",
+        "offsets": [
+            1222,
+            1232
+        ],
+        "text": "originated",
+        "arg_ann_id": "T263"
+    },
+    "ENL0C04958V.000264": {
+        "id": "ENL0C04958V.000264",
+        "type": "MHI",
+        "offsets": [
+            1216,
+            1221
+        ],
+        "text": "virus",
+        "arg_ann_id": "T264"
+    },
+    "ENL0C04958V.000229": {
+        "id": "ENL0C04958V.000229",
+        "type": "Claim_Boundary",
+        "offsets": [
+            1216,
+            1242
+        ],
+        "text": "virus originated in the US",
+        "arg_ann_id": "T229"
+    },
+    "ENL0C04958V.000265": {
+        "id": "ENL0C04958V.000265",
+        "type": "Claim_Sentence",
+        "offsets": [
+            1113,
+            1281
+        ],
+        "text": "A day later, he tweeted an article by the website Global Research headlined \"Further evidence that the virus originated in the US\", and urged users to read and share it",
+        "arg_ann_id": "T265"
+    },
+    "ENL0C04958V.000266": {
+        "id": "ENL0C04958V.000266",
+        "type": "Claim_Sentence",
+        "offsets": [
+            267,
+            459
+        ],
+        "text": "Among these were the false claim that the virus was part of a Chinese \"covert biological weapons programme\", and a baseless claim that a Canadian-Chinese spy team had sent coronavirus to Wuhan",
+        "arg_ann_id": "T266"
+    },
+    "ENL0C04958V.000267": {
+        "id": "ENL0C04958V.000267",
+        "type": "Claim_Sentence",
+        "offsets": [
+            462,
+            639
+        ],
+        "text": "The claim that the virus was man-made has been pushed by numerous conspiracy groups on Facebook, obscure Twitter accounts and even found its way on to primetime Russian state TV",
+        "arg_ann_id": "T267"
+    },
+    "ENL0C04958V.000268": {
+        "id": "ENL0C04958V.000268",
+        "type": "Claim_Boundary",
+        "offsets": [
+            404,
+            459
+        ],
+        "text": "Canadian-Chinese spy team had sent coronavirus to Wuhan",
+        "arg_ann_id": "T268"
+    },
+    "ENL0C04958V.000269": {
+        "id": "ENL0C04958V.000269",
+        "type": "Claim_Sentence",
+        "offsets": [
+            858,
+            1008
+        ],
+        "text": "Zhao Lijian, a Chinese foreign ministry spokesman, has repeatedly promoted the idea - without evidence - that Covid-19 might have originated in the US",
+        "arg_ann_id": "T269"
+    },
+    "ENL0C04958V.000270": {
+        "id": "ENL0C04958V.000270",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            1576,
+            1585
+        ],
+        "text": "amplified",
+        "arg_ann_id": "T270"
+    },
+    "ENL0C04958V.000271": {
+        "id": "ENL0C04958V.000271",
+        "type": "Claim_Boundary",
+        "offsets": [
+            2451,
+            2481
+        ],
+        "text": "the Virus Originated in the US",
+        "arg_ann_id": "T271"
+    },
+    "ENL0C04958V.000272": {
+        "id": "ENL0C04958V.000272",
+        "type": "Claim_Sentence",
+        "offsets": [
+            2419,
+            2481
+        ],
+        "text": "COVID-19: Further Evidence that the Virus Originated in the US",
+        "arg_ann_id": "T272"
+    },
+    "ENL0C04958V.000273": {
+        "id": "ENL0C04958V.000273",
+        "type": "ORG",
+        "offsets": [
+            2880,
+            2896
+        ],
+        "text": "magazine Science",
+        "arg_ann_id": "T273"
+    },
+    "ENL0C04958V.000274": {
+        "id": "ENL0C04958V.000274",
+        "type": "Claim_Sentence",
+        "offsets": [
+            2835,
+            2995
+        ],
+        "text": "But the Chinese research and articles in the magazine Science that he quotes do not actually call into question China being the place where the outbreak started",
+        "arg_ann_id": "T274"
+    },
+    "ENL0C04958V.000275": {
+        "id": "ENL0C04958V.000275",
+        "type": "Claim_Boundary",
+        "offsets": [
+            3209,
+            3260
+        ],
+        "text": "he new coronavirus could have originated in the US\"",
+        "arg_ann_id": "T275"
+    },
+    "ENL0C04958V.000276": {
+        "id": "ENL0C04958V.000276",
+        "type": "Claim_Sentence",
+        "offsets": [
+            3123,
+            3261
+        ],
+        "text": "Mr Romanoff also claims that Japanese and Taiwanese scientists \"have determined that the new coronavirus could have originated in the US\".",
+        "arg_ann_id": "T276"
+    },
+    "ENL0C04958V.000277": {
+        "id": "ENL0C04958V.000277",
+        "type": "Claim_Sentence",
+        "offsets": [
+            3615,
+            3770
+        ],
+        "text": "Mr Romanoff also claims - without evidence - that the US military germ laboratory in Fort Detrick, Maryland, may have been the original source of the virus",
+        "arg_ann_id": "T277"
+    },
+    "ENL0C04958V.000278": {
+        "id": "ENL0C04958V.000278",
+        "type": "Claim_Sentence",
+        "offsets": [
+            4960,
+            5158
+        ],
+        "text": "Among several other questionable claims, he told a podcast this month that during its early stages, Covid-19 was \"Chinese-specific\" and did not infect peoples of other origins and racial backgrounds",
+        "arg_ann_id": "T278"
+    },
+    "ENL0C04958V.000279": {
+        "id": "ENL0C04958V.000279",
+        "type": "Claim_Sentence",
+        "offsets": [
+            5261,
+            5463
+        ],
+        "text": "Claims by elements in the Chinese government and media about the US being a possible origin of the virus prompted a response from US President Donald Trump who referred to Covid-19 as a \"Chinese virus\".",
+        "arg_ann_id": "T279"
+    },
+    "ENL0C04958V.000280": {
+        "id": "ENL0C04958V.000280",
+        "type": "Claim_Boundary",
+        "offsets": [
+            6016,
+            6074
+        ],
+        "text": "the coronavirus \"accidentally escaped from a lab in Wuhan\"",
+        "arg_ann_id": "T280"
+    },
+    "ENL0C04958V.000281": {
+        "id": "ENL0C04958V.000281",
+        "type": "Claim_Sentence",
+        "offsets": [
+            5934,
+            6074
+        ],
+        "text": "Fox News primetime host Tucker Carlson cited a study raising the possibility that the coronavirus \"accidentally escaped from a lab in Wuhan\"",
+        "arg_ann_id": "T281"
+    },
+    "ENL0C04958V.000282": {
+        "id": "ENL0C04958V.000282",
+        "type": "INF",
+        "offsets": [
+            5981,
+            5986
+        ],
+        "text": "study",
+        "arg_ann_id": "T282"
+    },
+    "ENL0C04958V.000283": {
+        "id": "ENL0C04958V.000283",
+        "type": "INF",
+        "offsets": [
+            6166,
+            6171
+        ],
+        "text": "study",
+        "arg_ann_id": "T283"
+    },
+    "ENL0C04958V.000284": {
+        "id": "ENL0C04958V.000284",
+        "type": "Claim_Boundary",
+        "offsets": [
+            6401,
+            6473
+        ],
+        "text": "\"the killer coronavirus probably originated from a laboratory in Wuhan\".",
+        "arg_ann_id": "T284"
+    },
+    "ENL0C04958V.000285": {
+        "id": "ENL0C04958V.000285",
+        "type": "Claim_Sentence",
+        "offsets": [
+            6383,
+            6473
+        ],
+        "text": "It concluded that \"the killer coronavirus probably originated from a laboratory in Wuhan\".",
+        "arg_ann_id": "T285"
+    },
+    "ENL0C04958V.000286": {
+        "id": "ENL0C04958V.000286",
+        "type": "MHI",
+        "offsets": [
+            7165,
+            7170
+        ],
+        "text": "Ebola",
+        "arg_ann_id": "T286"
+    },
+    "ENL0C04958V.000287": {
+        "id": "ENL0C04958V.000287",
+        "type": "disaster_diseaseoutbreak_unspecified",
+        "offsets": [
+            7171,
+            7180
+        ],
+        "text": "outbreak,",
+        "arg_ann_id": "T287"
+    },
+    "ENL0C04958V.000288": {
+        "id": "ENL0C04958V.000288",
+        "type": "INF",
+        "offsets": [
+            7204,
+            7211
+        ],
+        "text": "reports",
+        "arg_ann_id": "T288"
+    },
+    "ENL0C04958V.000289": {
+        "id": "ENL0C04958V.000289",
+        "type": "Claim_Sentence",
+        "offsets": [
+            7104,
+            7324
+        ],
+        "text": "Jeremy Konyndyk, who led the US government's response to the Ebola outbreak, tweeted in response to reports about an accidental lab leak: \"The science doesn't preclude a lab origin but does indicate it's quite unlikely.\"",
+        "arg_ann_id": "T289"
+    },
+    "ENL0C04958V.000290": {
+        "id": "ENL0C04958V.000290",
+        "type": "ORG",
+        "offsets": [
+            7470,
+            7478
+        ],
+        "text": "Facebook",
+        "arg_ann_id": "T290"
+    },
+    "ENL0C04958V.000291": {
+        "id": "ENL0C04958V.000291",
+        "type": "MHI",
+        "offsets": [
+            1,
+            13
+        ],
+        "text": "Coronavirus:",
+        "arg_ann_id": "T291"
+    },
+    "ENL0C04958V.000292": {
+        "id": "ENL0C04958V.000292",
+        "type": "MHI",
+        "offsets": [
+            91,
+            96
+        ],
+        "text": "virus",
+        "arg_ann_id": "T292"
+    },
+    "ENL0C04958V.000293": {
+        "id": "ENL0C04958V.000293",
+        "type": "movement_transportation_unspecified",
+        "offsets": [
+            238,
+            244
+        ],
+        "text": "spread",
+        "arg_ann_id": "T293"
+    },
+    "ENL0C04958V.000294": {
+        "id": "ENL0C04958V.000294",
+        "type": "contact_contact_unspecified",
+        "offsets": [
+            737,
+            743
+        ],
+        "text": "claims",
+        "arg_ann_id": "T294"
+    },
+    "ENL0C04958V.000018": {
+        "id": "ENL0C04958V.000018",
+        "type": "ORG",
+        "offsets": [
+            811,
+            824
+        ],
+        "text": "media outlets",
+        "arg_ann_id": "T18"
+    },
+    "ENL0C04958V.000019": {
+        "id": "ENL0C04958V.000019",
+        "type": "MHI",
+        "offsets": [
+            1096,
+            1101
+        ],
+        "text": "virus",
+        "arg_ann_id": "T19"
+    },
+    "ENL0C04958V.000295": {
+        "id": "ENL0C04958V.000295",
+        "type": "ABS",
+        "offsets": [
+            2205,
+            2212
+        ],
+        "text": "website",
+        "arg_ann_id": "T295"
+    },
+    "ENL0C04958V.000296": {
+        "id": "ENL0C04958V.000296",
+        "type": "INF",
+        "offsets": [
+            2331,
+            2338
+        ],
+        "text": "article",
+        "arg_ann_id": "T296"
+    },
+    "ENL0C04958V.000297": {
+        "id": "ENL0C04958V.000297",
+        "type": "MHI",
+        "offsets": [
+            2419,
+            2427
+        ],
+        "text": "COVID-19",
+        "arg_ann_id": "T297"
+    },
+    "ENL0C04958V.000298": {
+        "id": "ENL0C04958V.000298",
+        "type": "Claim_Boundary",
+        "offsets": [
+            2796,
+            2833
+        ],
+        "text": "the virus did not originate in China.",
+        "arg_ann_id": "T298"
+    },
+    "ENL0C04958V.000299": {
+        "id": "ENL0C04958V.000299",
+        "type": "Claim_Boundary",
+        "offsets": [
+            2947,
+            2995
+        ],
+        "text": "China being the place where the outbreak started",
+        "arg_ann_id": "T299"
+    },
+    "ENL0C04958V.000300": {
+        "id": "ENL0C04958V.000300",
+        "type": "Claim_Boundary",
+        "offsets": [
+            3042,
+            3120
+        ],
+        "text": "the animal market in Wuhan may not have been the origin of the new coronavirus",
+        "arg_ann_id": "T300"
+    },
+    "ENL0C04958V.000301": {
+        "id": "ENL0C04958V.000301",
+        "type": "Claim_Boundary",
+        "offsets": [
+            3665,
+            3770
+        ],
+        "text": "the US military germ laboratory in Fort Detrick, Maryland, may have been the original source of the virus",
+        "arg_ann_id": "T301"
+    },
+    "ENL0C04958V.000302": {
+        "id": "ENL0C04958V.000302",
+        "type": "Claim_Boundary",
+        "offsets": [
+            5060,
+            5091
+        ],
+        "text": "Covid-19 was \"Chinese-specific\"",
+        "arg_ann_id": "T302"
+    },
+    "ENL0C04958V.000303": {
+        "id": "ENL0C04958V.000303",
+        "type": "Claim_Boundary",
+        "offsets": [
+            5326,
+            5365
+        ],
+        "text": "US being a possible origin of the virus",
+        "arg_ann_id": "T303"
+    },
+    "ENL0C04958V.000304": {
+        "id": "ENL0C04958V.000304",
+        "type": "MHI",
+        "offsets": [
+            5360,
+            5365
+        ],
+        "text": "virus",
+        "arg_ann_id": "T304"
+    },
+    "ENL0C04958V.000305": {
+        "id": "ENL0C04958V.000305",
+        "type": "MHI",
+        "offsets": [
+            5433,
+            5441
+        ],
+        "text": "Covid-19",
+        "arg_ann_id": "T305"
+    },
+    "ENL0C04958V.000306": {
+        "id": "ENL0C04958V.000306",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            5421,
+            5429
+        ],
+        "text": "referred",
+        "arg_ann_id": "T306"
+    },
+    "ENL0C04958V.000307": {
+        "id": "ENL0C04958V.000307",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            5973,
+            5978
+        ],
+        "text": "cited",
+        "arg_ann_id": "T307"
+    },
+    "ENL0C04958V.000308": {
+        "id": "ENL0C04958V.000308",
+        "type": "MHI",
+        "offsets": [
+            6020,
+            6031
+        ],
+        "text": "coronavirus",
+        "arg_ann_id": "T308"
+    },
+    "ENL0C04958V.000309": {
+        "id": "ENL0C04958V.000309",
+        "type": "MHI",
+        "offsets": [
+            6413,
+            6424
+        ],
+        "text": "coronavirus",
+        "arg_ann_id": "T309"
+    },
+    "ENL0C04958V.000310": {
+        "id": "ENL0C04958V.000310",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            7181,
+            7188
+        ],
+        "text": "tweeted",
+        "arg_ann_id": "T310"
+    },
+    "ENL0C04958V.000311": {
+        "id": "ENL0C04958V.000311",
+        "type": "Claim_Boundary",
+        "offsets": [
+            7232,
+            7324
+        ],
+        "text": "lab leak: \"The science doesn't preclude a lab origin but does indicate it's quite unlikely.\"",
+        "arg_ann_id": "T311"
+    },
+    "ENL0C04958V.000312": {
+        "id": "ENL0C04958V.000312",
+        "type": "MHI",
+        "offsets": [
+            439,
+            450
+        ],
+        "text": "coronavirus",
+        "arg_ann_id": "T312"
+    },
+    "ENL0C04958V.000313": {
+        "id": "ENL0C04958V.000313",
+        "type": "MHI",
+        "offsets": [
+            968,
+            976
+        ],
+        "text": "Covid-19",
+        "arg_ann_id": "T313"
+    },
+    "ENL0C04958V.000314": {
+        "id": "ENL0C04958V.000314",
+        "type": "movement_transportation_unspecified",
+        "offsets": [
+            1084,
+            1091
+        ],
+        "text": "brought",
+        "arg_ann_id": "T314"
+    },
+    "ENL0C04958V.000315": {
+        "id": "ENL0C04958V.000315",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            2726,
+            2736
+        ],
+        "text": "reiterates",
+        "arg_ann_id": "T315"
+    }
+}

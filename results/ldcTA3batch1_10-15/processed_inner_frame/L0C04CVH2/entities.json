@@ -1,0 +1,1912 @@
+{
+    "ENL0C04CVH2.000001": {
+        "id": "ENL0C04CVH2.000001",
+        "type": "PER",
+        "offsets": [
+            1,
+            6
+        ],
+        "text": "Trump",
+        "arg_ann_id": "T1"
+    },
+    "ENL0C04CVH2.000002": {
+        "id": "ENL0C04CVH2.000002",
+        "type": "GPE",
+        "offsets": [
+            12,
+            18
+        ],
+        "text": "Sweden",
+        "arg_ann_id": "T2"
+    },
+    "ENL0C04CVH2.000003": {
+        "id": "ENL0C04CVH2.000003",
+        "type": "PER",
+        "offsets": [
+            80,
+            82
+        ],
+        "text": "he",
+        "arg_ann_id": "T3"
+    },
+    "ENL0C04CVH2.000004": {
+        "id": "ENL0C04CVH2.000004",
+        "type": "GPE",
+        "offsets": [
+            90,
+            92
+        ],
+        "text": "US",
+        "arg_ann_id": "T4"
+    },
+    "ENL0C04CVH2.000007": {
+        "id": "ENL0C04CVH2.000007",
+        "type": "GPE",
+        "offsets": [
+            148,
+            154
+        ],
+        "text": "Sweden",
+        "arg_ann_id": "T7"
+    },
+    "ENL0C04CVH2.000008": {
+        "id": "ENL0C04CVH2.000008",
+        "type": "GPE",
+        "offsets": [
+            221,
+            226
+        ],
+        "text": "state",
+        "arg_ann_id": "T8"
+    },
+    "ENL0C04CVH2.000009": {
+        "id": "ENL0C04CVH2.000009",
+        "type": "PER",
+        "offsets": [
+            237,
+            246
+        ],
+        "text": "officials",
+        "arg_ann_id": "T9"
+    },
+    "ENL0C04CVH2.000010": {
+        "id": "ENL0C04CVH2.000010",
+        "type": "GPE",
+        "offsets": [
+            254,
+            267
+        ],
+        "text": "United States",
+        "arg_ann_id": "T10"
+    },
+    "ENL0C04CVH2.000011": {
+        "id": "ENL0C04CVH2.000011",
+        "type": "PER",
+        "offsets": [
+            274,
+            279
+        ],
+        "text": "Trump",
+        "arg_ann_id": "T11"
+    },
+    "ENL0C04CVH2.000012": {
+        "id": "ENL0C04CVH2.000012",
+        "type": "GPE",
+        "offsets": [
+            340,
+            346
+        ],
+        "text": "Sweden",
+        "arg_ann_id": "T12"
+    },
+    "ENL0C04CVH2.000013": {
+        "id": "ENL0C04CVH2.000013",
+        "type": "ORG",
+        "offsets": [
+            369,
+            372
+        ],
+        "text": "its",
+        "arg_ann_id": "T13"
+    },
+    "ENL0C04CVH2.000014": {
+        "id": "ENL0C04CVH2.000014",
+        "type": "PER",
+        "offsets": [
+            420,
+            426
+        ],
+        "text": "people",
+        "arg_ann_id": "T14"
+    },
+    "ENL0C04CVH2.000015": {
+        "id": "ENL0C04CVH2.000015",
+        "type": "GPE",
+        "offsets": [
+            437,
+            442
+        ],
+        "text": "there",
+        "arg_ann_id": "T15"
+    },
+    "ENL0C04CVH2.000016": {
+        "id": "ENL0C04CVH2.000016",
+        "type": "GPE",
+        "offsets": [
+            486,
+            495
+        ],
+        "text": "countries",
+        "arg_ann_id": "T16"
+    },
+    "ENL0C04CVH2.000017": {
+        "id": "ENL0C04CVH2.000017",
+        "type": "GPE",
+        "offsets": [
+            499,
+            505
+        ],
+        "text": "Norway",
+        "arg_ann_id": "T17"
+    },
+    "ENL0C04CVH2.000018": {
+        "id": "ENL0C04CVH2.000018",
+        "type": "GPE",
+        "offsets": [
+            513,
+            520
+        ],
+        "text": "Finland",
+        "arg_ann_id": "T18"
+    },
+    "ENL0C04CVH2.000019": {
+        "id": "ENL0C04CVH2.000019",
+        "type": "GPE",
+        "offsets": [
+            530,
+            537
+        ],
+        "text": "Denmark",
+        "arg_ann_id": "T19"
+    },
+    "ENL0C04CVH2.000020": {
+        "id": "ENL0C04CVH2.000020",
+        "type": "GPE",
+        "offsets": [
+            552,
+            565
+        ],
+        "text": "United States",
+        "arg_ann_id": "T20"
+    },
+    "ENL0C04CVH2.000021": {
+        "id": "ENL0C04CVH2.000021",
+        "type": "PER",
+        "offsets": [
+            594,
+            599
+        ],
+        "text": "Trump",
+        "arg_ann_id": "T21"
+    },
+    "ENL0C04CVH2.000022": {
+        "id": "ENL0C04CVH2.000022",
+        "type": "GPE",
+        "offsets": [
+            615,
+            621
+        ],
+        "text": "Sweden",
+        "arg_ann_id": "T22"
+    },
+    "ENL0C04CVH2.000023": {
+        "id": "ENL0C04CVH2.000023",
+        "type": "GPE",
+        "offsets": [
+            785,
+            787
+        ],
+        "text": "US",
+        "arg_ann_id": "T23"
+    },
+    "ENL0C04CVH2.000024": {
+        "id": "ENL0C04CVH2.000024",
+        "type": "GPE",
+        "offsets": [
+            847,
+            854
+        ],
+        "text": "country",
+        "arg_ann_id": "T24"
+    },
+    "ENL0C04CVH2.000025": {
+        "id": "ENL0C04CVH2.000025",
+        "type": "GPE",
+        "offsets": [
+            899,
+            905
+        ],
+        "text": "Sweden",
+        "arg_ann_id": "T25"
+    },
+    "ENL0C04CVH2.000026": {
+        "id": "ENL0C04CVH2.000026",
+        "type": "GPE",
+        "offsets": [
+            939,
+            941
+        ],
+        "text": "US",
+        "arg_ann_id": "T26"
+    },
+    "ENL0C04CVH2.000027": {
+        "id": "ENL0C04CVH2.000027",
+        "type": "GPE",
+        "offsets": [
+            1017,
+            1027
+        ],
+        "text": "its Nordic",
+        "arg_ann_id": "T27"
+    },
+    "ENL0C04CVH2.000028": {
+        "id": "ENL0C04CVH2.000028",
+        "type": "GPE",
+        "offsets": [
+            1028,
+            1037
+        ],
+        "text": "neighbors",
+        "arg_ann_id": "T28"
+    },
+    "ENL0C04CVH2.000029": {
+        "id": "ENL0C04CVH2.000029",
+        "type": "PER",
+        "offsets": [
+            1071,
+            1076
+        ],
+        "text": "Trump",
+        "arg_ann_id": "T29"
+    },
+    "ENL0C04CVH2.000030": {
+        "id": "ENL0C04CVH2.000030",
+        "type": "ORG",
+        "offsets": [
+            1077,
+            1091
+        ],
+        "text": "administration",
+        "arg_ann_id": "T30"
+    },
+    "ENL0C04CVH2.000031": {
+        "id": "ENL0C04CVH2.000031",
+        "type": "PER",
+        "offsets": [
+            1154,
+            1161
+        ],
+        "text": "leaders",
+        "arg_ann_id": "T31"
+    },
+    "ENL0C04CVH2.000032": {
+        "id": "ENL0C04CVH2.000032",
+        "type": "PER",
+        "offsets": [
+            1172,
+            1181
+        ],
+        "text": "officials",
+        "arg_ann_id": "T32"
+    },
+    "ENL0C04CVH2.000033": {
+        "id": "ENL0C04CVH2.000033",
+        "type": "GPE",
+        "offsets": [
+            1196,
+            1202
+        ],
+        "text": "states",
+        "arg_ann_id": "T33"
+    },
+    "ENL0C04CVH2.000034": {
+        "id": "ENL0C04CVH2.000034",
+        "type": "ORG",
+        "offsets": [
+            1278,
+            1289
+        ],
+        "text": "White House",
+        "arg_ann_id": "T34"
+    },
+    "ENL0C04CVH2.000035": {
+        "id": "ENL0C04CVH2.000035",
+        "type": "GPE",
+        "offsets": [
+            1321,
+            1327
+        ],
+        "text": "states",
+        "arg_ann_id": "T35"
+    },
+    "ENL0C04CVH2.000036": {
+        "id": "ENL0C04CVH2.000036",
+        "type": "GPE",
+        "offsets": [
+            1328,
+            1331
+        ],
+        "text": "who",
+        "arg_ann_id": "T36"
+    },
+    "ENL0C04CVH2.000037": {
+        "id": "ENL0C04CVH2.000037",
+        "type": "PER",
+        "offsets": [
+            1378,
+            1381
+        ],
+        "text": "our",
+        "arg_ann_id": "T37"
+    },
+    "ENL0C04CVH2.000038": {
+        "id": "ENL0C04CVH2.000038",
+        "type": "PER",
+        "offsets": [
+            1395,
+            1400
+        ],
+        "text": "Trump",
+        "arg_ann_id": "T38"
+    },
+    "ENL0C04CVH2.000039": {
+        "id": "ENL0C04CVH2.000039",
+        "type": "GPE",
+        "offsets": [
+            1439,
+            1442
+        ],
+        "text": "our",
+        "arg_ann_id": "T39"
+    },
+    "ENL0C04CVH2.000040": {
+        "id": "ENL0C04CVH2.000040",
+        "type": "LOC",
+        "offsets": [
+            1474,
+            1482
+        ],
+        "text": "European",
+        "arg_ann_id": "T40"
+    },
+    "ENL0C04CVH2.000041": {
+        "id": "ENL0C04CVH2.000041",
+        "type": "GPE",
+        "offsets": [
+            1483,
+            1492
+        ],
+        "text": "countries",
+        "arg_ann_id": "T41"
+    },
+    "ENL0C04CVH2.000042": {
+        "id": "ENL0C04CVH2.000042",
+        "type": "GPE",
+        "offsets": [
+            1562,
+            1568
+        ],
+        "text": "Sweden",
+        "arg_ann_id": "T42"
+    },
+    "ENL0C04CVH2.000043": {
+        "id": "ENL0C04CVH2.000043",
+        "type": "PER",
+        "offsets": [
+            1577,
+            1587
+        ],
+        "text": "population",
+        "arg_ann_id": "T43"
+    },
+    "ENL0C04CVH2.000044": {
+        "id": "ENL0C04CVH2.000044",
+        "type": "PER",
+        "offsets": [
+            1641,
+            1655
+        ],
+        "text": "Anders Tegnell",
+        "arg_ann_id": "T44"
+    },
+    "ENL0C04CVH2.000045": {
+        "id": "ENL0C04CVH2.000045",
+        "type": "PER",
+        "offsets": [
+            1677,
+            1691
+        ],
+        "text": "epidemiologist",
+        "arg_ann_id": "T45"
+    },
+    "ENL0C04CVH2.000046": {
+        "id": "ENL0C04CVH2.000046",
+        "type": "PER",
+        "offsets": [
+            1700,
+            1710
+        ],
+        "text": "strategist",
+        "arg_ann_id": "T46"
+    },
+    "ENL0C04CVH2.000047": {
+        "id": "ENL0C04CVH2.000047",
+        "type": "GPE",
+        "offsets": [
+            1719,
+            1726
+        ],
+        "text": "country",
+        "arg_ann_id": "T47"
+    },
+    "ENL0C04CVH2.000048": {
+        "id": "ENL0C04CVH2.000048",
+        "type": "GPE",
+        "offsets": [
+            1820,
+            1826
+        ],
+        "text": "Sweden",
+        "arg_ann_id": "T48"
+    },
+    "ENL0C04CVH2.000049": {
+        "id": "ENL0C04CVH2.000049",
+        "type": "PER",
+        "offsets": [
+            1860,
+            1866
+        ],
+        "text": "people",
+        "arg_ann_id": "T49"
+    },
+    "ENL0C04CVH2.000050": {
+        "id": "ENL0C04CVH2.000050",
+        "type": "FAC",
+        "offsets": [
+            1880,
+            1887
+        ],
+        "text": "schools",
+        "arg_ann_id": "T50"
+    },
+    "ENL0C04CVH2.000051": {
+        "id": "ENL0C04CVH2.000051",
+        "type": "ORG",
+        "offsets": [
+            1892,
+            1904
+        ],
+        "text": "universities",
+        "arg_ann_id": "T51"
+    },
+    "ENL0C04CVH2.000052": {
+        "id": "ENL0C04CVH2.000052",
+        "type": "PER",
+        "offsets": [
+            1916,
+            1921
+        ],
+        "text": "those",
+        "arg_ann_id": "T52"
+    },
+    "ENL0C04CVH2.000053": {
+        "id": "ENL0C04CVH2.000053",
+        "type": "FAC",
+        "offsets": [
+            2002,
+            2008
+        ],
+        "text": "places",
+        "arg_ann_id": "T53"
+    },
+    "ENL0C04CVH2.000054": {
+        "id": "ENL0C04CVH2.000054",
+        "type": "FAC",
+        "offsets": [
+            2015,
+            2022
+        ],
+        "text": "schools",
+        "arg_ann_id": "T54"
+    },
+    "ENL0C04CVH2.000055": {
+        "id": "ENL0C04CVH2.000055",
+        "type": "PER",
+        "offsets": [
+            2035,
+            2043
+        ],
+        "text": "children",
+        "arg_ann_id": "T55"
+    },
+    "ENL0C04CVH2.000056": {
+        "id": "ENL0C04CVH2.000056",
+        "type": "FAC",
+        "offsets": [
+            2045,
+            2056
+        ],
+        "text": "restaurants",
+        "arg_ann_id": "T56"
+    },
+    "ENL0C04CVH2.000057": {
+        "id": "ENL0C04CVH2.000057",
+        "type": "ORG",
+        "offsets": [
+            2067,
+            2077
+        ],
+        "text": "businesses",
+        "arg_ann_id": "T57"
+    },
+    "ENL0C04CVH2.000058": {
+        "id": "ENL0C04CVH2.000058",
+        "type": "FAC",
+        "offsets": [
+            2099,
+            2110
+        ],
+        "text": "restaurants",
+        "arg_ann_id": "T58"
+    },
+    "ENL0C04CVH2.000059": {
+        "id": "ENL0C04CVH2.000059",
+        "type": "PER",
+        "offsets": [
+            2185,
+            2190
+        ],
+        "text": "local",
+        "arg_ann_id": "T59"
+    },
+    "ENL0C04CVH2.000060": {
+        "id": "ENL0C04CVH2.000060",
+        "type": "PER",
+        "offsets": [
+            2192,
+            2206
+        ],
+        "text": "Johan Mattsson",
+        "arg_ann_id": "T60"
+    },
+    "ENL0C04CVH2.000061": {
+        "id": "ENL0C04CVH2.000061",
+        "type": "ORG",
+        "offsets": [
+            2217,
+            2231
+        ],
+        "text": "New York Times",
+        "arg_ann_id": "T61"
+    },
+    "ENL0C04CVH2.000062": {
+        "id": "ENL0C04CVH2.000062",
+        "type": "PER",
+        "offsets": [
+            2234,
+            2236
+        ],
+        "text": "My",
+        "arg_ann_id": "T62"
+    },
+    "ENL0C04CVH2.000063": {
+        "id": "ENL0C04CVH2.000063",
+        "type": "PER",
+        "offsets": [
+            2249,
+            2254
+        ],
+        "text": "those",
+        "arg_ann_id": "T63"
+    },
+    "ENL0C04CVH2.000064": {
+        "id": "ENL0C04CVH2.000064",
+        "type": "PER",
+        "offsets": [
+            2269,
+            2271
+        ],
+        "text": "we",
+        "arg_ann_id": "T64"
+    },
+    "ENL0C04CVH2.000065": {
+        "id": "ENL0C04CVH2.000065",
+        "type": "GPE",
+        "offsets": [
+            2298,
+            2302
+        ],
+        "text": "here",
+        "arg_ann_id": "T65"
+    },
+    "ENL0C04CVH2.000066": {
+        "id": "ENL0C04CVH2.000066",
+        "type": "GPE",
+        "offsets": [
+            2306,
+            2312
+        ],
+        "text": "Sweden",
+        "arg_ann_id": "T66"
+    },
+    "ENL0C04CVH2.000067": {
+        "id": "ENL0C04CVH2.000067",
+        "type": "GPE",
+        "offsets": [
+            2372,
+            2381
+        ],
+        "text": "countries",
+        "arg_ann_id": "T67"
+    },
+    "ENL0C04CVH2.000068": {
+        "id": "ENL0C04CVH2.000068",
+        "type": "PER",
+        "offsets": [
+            2384,
+            2386
+        ],
+        "text": "he",
+        "arg_ann_id": "T68"
+    },
+    "ENL0C04CVH2.000069": {
+        "id": "ENL0C04CVH2.000069",
+        "type": "GPE",
+        "offsets": [
+            2404,
+            2406
+        ],
+        "text": "we",
+        "arg_ann_id": "T69"
+    },
+    "ENL0C04CVH2.000070": {
+        "id": "ENL0C04CVH2.000070",
+        "type": "ORG",
+        "offsets": [
+            2468,
+            2499
+        ],
+        "text": "Swedish Public Health Authority",
+        "arg_ann_id": "T70"
+    },
+    "ENL0C04CVH2.000071": {
+        "id": "ENL0C04CVH2.000071",
+        "type": "PER",
+        "offsets": [
+            2528,
+            2535
+        ],
+        "text": "percent",
+        "arg_ann_id": "T71"
+    },
+    "ENL0C04CVH2.000072": {
+        "id": "ENL0C04CVH2.000072",
+        "type": "PER",
+        "offsets": [
+            2555,
+            2561
+        ],
+        "text": "people",
+        "arg_ann_id": "T72"
+    },
+    "ENL0C04CVH2.000073": {
+        "id": "ENL0C04CVH2.000073",
+        "type": "GPE",
+        "offsets": [
+            2565,
+            2574
+        ],
+        "text": "Stockholm",
+        "arg_ann_id": "T73"
+    },
+    "ENL0C04CVH2.000074": {
+        "id": "ENL0C04CVH2.000074",
+        "type": "ORG",
+        "offsets": [
+            2629,
+            2638
+        ],
+        "text": "authority",
+        "arg_ann_id": "T74"
+    },
+    "ENL0C04CVH2.000075": {
+        "id": "ENL0C04CVH2.000075",
+        "type": "PER",
+        "offsets": [
+            2684,
+            2691
+        ],
+        "text": "citizen",
+        "arg_ann_id": "T75"
+    },
+    "ENL0C04CVH2.000076": {
+        "id": "ENL0C04CVH2.000076",
+        "type": "PER",
+        "offsets": [
+            2692,
+            2702
+        ],
+        "text": "population",
+        "arg_ann_id": "T76"
+    },
+    "ENL0C04CVH2.000077": {
+        "id": "ENL0C04CVH2.000077",
+        "type": "FAC",
+        "offsets": [
+            2738,
+            2745
+        ],
+        "text": "percent",
+        "arg_ann_id": "T77"
+    },
+    "ENL0C04CVH2.000078": {
+        "id": "ENL0C04CVH2.000078",
+        "type": "FAC",
+        "offsets": [
+            2773,
+            2778
+        ],
+        "text": "homes",
+        "arg_ann_id": "T78"
+    },
+    "ENL0C04CVH2.000079": {
+        "id": "ENL0C04CVH2.000079",
+        "type": "PER",
+        "offsets": [
+            2795,
+            2800
+        ],
+        "text": "Trump",
+        "arg_ann_id": "T79"
+    },
+    "ENL0C04CVH2.000080": {
+        "id": "ENL0C04CVH2.000080",
+        "type": "GPE",
+        "offsets": [
+            2848,
+            2855
+        ],
+        "text": "Swedish",
+        "arg_ann_id": "T80"
+    },
+    "ENL0C04CVH2.000081": {
+        "id": "ENL0C04CVH2.000081",
+        "type": "PER",
+        "offsets": [
+            2975,
+            2981
+        ],
+        "text": "people",
+        "arg_ann_id": "T81"
+    },
+    "ENL0C04CVH2.000082": {
+        "id": "ENL0C04CVH2.000082",
+        "type": "PER",
+        "offsets": [
+            3027,
+            3037
+        ],
+        "text": "population",
+        "arg_ann_id": "T82"
+    },
+    "ENL0C04CVH2.000083": {
+        "id": "ENL0C04CVH2.000083",
+        "type": "GPE",
+        "offsets": [
+            3041,
+            3047
+        ],
+        "text": "Sweden",
+        "arg_ann_id": "T83"
+    },
+    "ENL0C04CVH2.000084": {
+        "id": "ENL0C04CVH2.000084",
+        "type": "PER",
+        "offsets": [
+            3070,
+            3075
+        ],
+        "text": "Trump",
+        "arg_ann_id": "T84"
+    },
+    "ENL0C04CVH2.000085": {
+        "id": "ENL0C04CVH2.000085",
+        "type": "PER",
+        "offsets": [
+            3083,
+            3087
+        ],
+        "text": "They",
+        "arg_ann_id": "T85"
+    },
+    "ENL0C04CVH2.000086": {
+        "id": "ENL0C04CVH2.000086",
+        "type": "GPE",
+        "offsets": [
+            3110,
+            3116
+        ],
+        "text": "Sweden",
+        "arg_ann_id": "T86"
+    },
+    "ENL0C04CVH2.000087": {
+        "id": "ENL0C04CVH2.000087",
+        "type": "GPE",
+        "offsets": [
+            3178,
+            3185
+        ],
+        "text": "Swedish",
+        "arg_ann_id": "T87"
+    },
+    "ENL0C04CVH2.000088": {
+        "id": "ENL0C04CVH2.000088",
+        "type": "PER",
+        "offsets": [
+            3193,
+            3201
+        ],
+        "text": "Minister",
+        "arg_ann_id": "T88"
+    },
+    "ENL0C04CVH2.000089": {
+        "id": "ENL0C04CVH2.000089",
+        "type": "PER",
+        "offsets": [
+            3202,
+            3217
+        ],
+        "text": "Lena Hallengren",
+        "arg_ann_id": "T89"
+    },
+    "ENL0C04CVH2.000090": {
+        "id": "ENL0C04CVH2.000090",
+        "type": "ORG",
+        "offsets": [
+            3236,
+            3252
+        ],
+        "text": "Associated Press",
+        "arg_ann_id": "T90"
+    },
+    "ENL0C04CVH2.000091": {
+        "id": "ENL0C04CVH2.000091",
+        "type": "GPE",
+        "offsets": [
+            3255,
+            3257
+        ],
+        "text": "We",
+        "arg_ann_id": "T91"
+    },
+    "ENL0C04CVH2.000092": {
+        "id": "ENL0C04CVH2.000092",
+        "type": "ORG",
+        "offsets": [
+            3323,
+            3348
+        ],
+        "text": "World Health Organization",
+        "arg_ann_id": "T92"
+    },
+    "ENL0C04CVH2.000093": {
+        "id": "ENL0C04CVH2.000093",
+        "type": "GPE",
+        "offsets": [
+            3357,
+            3363
+        ],
+        "text": "Sweden",
+        "arg_ann_id": "T93"
+    },
+    "ENL0C04CVH2.000094": {
+        "id": "ENL0C04CVH2.000094",
+        "type": "GPE",
+        "offsets": [
+            3370,
+            3375
+        ],
+        "text": "model",
+        "arg_ann_id": "T94"
+    },
+    "ENL0C04CVH2.000095": {
+        "id": "ENL0C04CVH2.000095",
+        "type": "GPE",
+        "offsets": [
+            3387,
+            3396
+        ],
+        "text": "countries",
+        "arg_ann_id": "T95"
+    },
+    "ENL0C04CVH2.000096": {
+        "id": "ENL0C04CVH2.000096",
+        "type": "PER",
+        "offsets": [
+            3431,
+            3440
+        ],
+        "text": "Mike Ryan",
+        "arg_ann_id": "T96"
+    },
+    "ENL0C04CVH2.000097": {
+        "id": "ENL0C04CVH2.000097",
+        "type": "PER",
+        "offsets": [
+            3468,
+            3474
+        ],
+        "text": "expert",
+        "arg_ann_id": "T97"
+    },
+    "ENL0C04CVH2.000098": {
+        "id": "ENL0C04CVH2.000098",
+        "type": "GPE",
+        "offsets": [
+            3524,
+            3536
+        ],
+        "text": "Scandinavian",
+        "arg_ann_id": "T98"
+    },
+    "ENL0C04CVH2.000099": {
+        "id": "ENL0C04CVH2.000099",
+        "type": "GPE",
+        "offsets": [
+            3537,
+            3544
+        ],
+        "text": "country",
+        "arg_ann_id": "T99"
+    },
+    "ENL0C04CVH2.000100": {
+        "id": "ENL0C04CVH2.000100",
+        "type": "PER",
+        "offsets": [
+            3548,
+            3549
+        ],
+        "text": "I",
+        "arg_ann_id": "T100"
+    },
+    "ENL0C04CVH2.000101": {
+        "id": "ENL0C04CVH2.000101",
+        "type": "GPE",
+        "offsets": [
+            3586,
+            3592
+        ],
+        "text": "Sweden",
+        "arg_ann_id": "T101"
+    },
+    "ENL0C04CVH2.000102": {
+        "id": "ENL0C04CVH2.000102",
+        "type": "MHI",
+        "offsets": [
+            3650,
+            3657
+        ],
+        "text": "disease",
+        "arg_ann_id": "T102"
+    },
+    "ENL0C04CVH2.000103": {
+        "id": "ENL0C04CVH2.000103",
+        "type": "PER",
+        "offsets": [
+            3670,
+            3672
+        ],
+        "text": "he",
+        "arg_ann_id": "T103"
+    },
+    "ENL0C04CVH2.000104": {
+        "id": "ENL0C04CVH2.000104",
+        "type": "PER",
+        "offsets": [
+            3721,
+            3725
+        ],
+        "text": "Ryan",
+        "arg_ann_id": "T104"
+    },
+    "ENL0C04CVH2.000105": {
+        "id": "ENL0C04CVH2.000105",
+        "type": "GPE",
+        "offsets": [
+            3731,
+            3737
+        ],
+        "text": "Sweden",
+        "arg_ann_id": "T105"
+    },
+    "ENL0C04CVH2.000106": {
+        "id": "ENL0C04CVH2.000106",
+        "type": "PER",
+        "offsets": [
+            3839,
+            3845
+        ],
+        "text": "people",
+        "arg_ann_id": "T106"
+    },
+    "ENL0C04CVH2.000107": {
+        "id": "ENL0C04CVH2.000107",
+        "type": "FAC",
+        "offsets": [
+            3864,
+            3874
+        ],
+        "text": "facilities",
+        "arg_ann_id": "T107"
+    },
+    "ENL0C04CVH2.000108": {
+        "id": "ENL0C04CVH2.000108",
+        "type": "GPE",
+        "offsets": [
+            3884,
+            3886
+        ],
+        "text": "it",
+        "arg_ann_id": "T108"
+    },
+    "ENL0C04CVH2.000109": {
+        "id": "ENL0C04CVH2.000109",
+        "type": "GPE",
+        "offsets": [
+            3911,
+            3913
+        ],
+        "text": "it",
+        "arg_ann_id": "T109"
+    },
+    "ENL0C04CVH2.000110": {
+        "id": "ENL0C04CVH2.000110",
+        "type": "GPE",
+        "offsets": [
+            3938,
+            3941
+        ],
+        "text": "its",
+        "arg_ann_id": "T110"
+    },
+    "ENL0C04CVH2.000111": {
+        "id": "ENL0C04CVH2.000111",
+        "type": "GPE",
+        "offsets": [
+            3960,
+            3963
+        ],
+        "text": "its",
+        "arg_ann_id": "T111"
+    },
+    "ENL0C04CVH2.000112": {
+        "id": "ENL0C04CVH2.000112",
+        "type": "PER",
+        "offsets": [
+            3964,
+            3973
+        ],
+        "text": "citizenry",
+        "arg_ann_id": "T112"
+    },
+    "ENL0C04CVH2.000113": {
+        "id": "ENL0C04CVH2.000113",
+        "type": "GPE",
+        "offsets": [
+            4009,
+            4012
+        ],
+        "text": "its",
+        "arg_ann_id": "T113"
+    },
+    "ENL0C04CVH2.000114": {
+        "id": "ENL0C04CVH2.000114",
+        "type": "PER",
+        "offsets": [
+            4013,
+            4021
+        ],
+        "text": "citizens",
+        "arg_ann_id": "T114"
+    },
+    "ENL0C04CVH2.000115": {
+        "id": "ENL0C04CVH2.000115",
+        "type": "PER",
+        "offsets": [
+            4071,
+            4075
+        ],
+        "text": "Ryan",
+        "arg_ann_id": "T115"
+    },
+    "ENL0C04CVH2.000116": {
+        "id": "ENL0C04CVH2.000116",
+        "type": "PER",
+        "offsets": [
+            4099,
+            4103
+        ],
+        "text": "they",
+        "arg_ann_id": "T116"
+    },
+    "ENL0C04CVH2.000117": {
+        "id": "ENL0C04CVH2.000117",
+        "type": "PER",
+        "offsets": [
+            4169,
+            4179
+        ],
+        "text": "population",
+        "arg_ann_id": "T117"
+    },
+    "ENL0C04CVH2.000118": {
+        "id": "ENL0C04CVH2.000118",
+        "type": "PER",
+        "offsets": [
+            4184,
+            4185
+        ],
+        "text": "I",
+        "arg_ann_id": "T118"
+    },
+    "ENL0C04CVH2.000119": {
+        "id": "ENL0C04CVH2.000119",
+        "type": "GPE",
+        "offsets": [
+            4195,
+            4197
+        ],
+        "text": "we",
+        "arg_ann_id": "T119"
+    },
+    "ENL0C04CVH2.000120": {
+        "id": "ENL0C04CVH2.000120",
+        "type": "GPE",
+        "offsets": [
+            4225,
+            4231
+        ],
+        "text": "Sweden",
+        "arg_ann_id": "T120"
+    },
+    "ENL0C04CVH2.000121": {
+        "id": "ENL0C04CVH2.000121",
+        "type": "GPE",
+        "offsets": [
+            4245,
+            4250
+        ],
+        "text": "model",
+        "arg_ann_id": "T121"
+    },
+    "ENL0C04CVH2.000122": {
+        "id": "ENL0C04CVH2.000122",
+        "type": "GPE",
+        "offsets": [
+            4254,
+            4256
+        ],
+        "text": "we",
+        "arg_ann_id": "T122"
+    },
+    "ENL0C04CVH2.000123": {
+        "id": "ENL0C04CVH2.000123",
+        "type": "PER",
+        "offsets": [
+            4279,
+            4286
+        ],
+        "text": "society",
+        "arg_ann_id": "T123"
+    },
+    "ENL0C04CVH2.000124": {
+        "id": "ENL0C04CVH2.000124",
+        "type": "GPE",
+        "offsets": [
+            4296,
+            4298
+        ],
+        "text": "we",
+        "arg_ann_id": "T124"
+    },
+    "ENL0C04CVH2.000125": {
+        "id": "ENL0C04CVH2.000125",
+        "type": "PER",
+        "offsets": [
+            4322,
+            4326
+        ],
+        "text": "Ryan",
+        "arg_ann_id": "T125"
+    },
+    "ENL0C04CVH2.000126": {
+        "id": "ENL0C04CVH2.000126",
+        "type": "PER",
+        "offsets": [
+            4384,
+            4393
+        ],
+        "text": "academics",
+        "arg_ann_id": "T126"
+    },
+    "ENL0C04CVH2.000127": {
+        "id": "ENL0C04CVH2.000127",
+        "type": "PER",
+        "offsets": [
+            4394,
+            4397
+        ],
+        "text": "who",
+        "arg_ann_id": "T127"
+    },
+    "ENL0C04CVH2.000128": {
+        "id": "ENL0C04CVH2.000128",
+        "type": "ORG",
+        "offsets": [
+            4422,
+            4432
+        ],
+        "text": "government",
+        "arg_ann_id": "T128"
+    },
+    "ENL0C04CVH2.000129": {
+        "id": "ENL0C04CVH2.000129",
+        "type": "Claim_Sentence",
+        "offsets": [
+            1,
+            116
+        ],
+        "text": "Trump says Sweden is \u2018paying heavily\u2019 for not ordering coronavirus lockdown as he boasts US made \u2018correct decision\u2019",
+        "arg_ann_id": "T129"
+    },
+    "ENL0C04CVH2.000130": {
+        "id": "ENL0C04CVH2.000130",
+        "type": "Claim_Boundary",
+        "offsets": [
+            12,
+            76
+        ],
+        "text": "Sweden is \u2018paying heavily\u2019 for not ordering coronavirus lockdown",
+        "arg_ann_id": "T130"
+    },
+    "ENL0C04CVH2.000131": {
+        "id": "ENL0C04CVH2.000131",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            7,
+            11
+        ],
+        "text": "says",
+        "arg_ann_id": "T131"
+    },
+    "ENL0C04CVH2.000132": {
+        "id": "ENL0C04CVH2.000132",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            83,
+            89
+        ],
+        "text": "boasts",
+        "arg_ann_id": "T132"
+    },
+    "ENL0C04CVH2.000134": {
+        "id": "ENL0C04CVH2.000134",
+        "type": "government_legislate_legislate",
+        "offsets": [
+            47,
+            55
+        ],
+        "text": "ordering",
+        "arg_ann_id": "T134"
+    },
+    "ENL0C04CVH2.000135": {
+        "id": "ENL0C04CVH2.000135",
+        "type": "government_legislate_legislate",
+        "offsets": [
+            93,
+            97
+        ],
+        "text": "made",
+        "arg_ann_id": "T135"
+    },
+    "ENL0C04CVH2.000136": {
+        "id": "ENL0C04CVH2.000136",
+        "type": "LAW",
+        "offsets": [
+            56,
+            76
+        ],
+        "text": "coronavirus lockdown",
+        "arg_ann_id": "T136"
+    },
+    "ENL0C04CVH2.000137": {
+        "id": "ENL0C04CVH2.000137",
+        "type": "Claim_Sentence",
+        "offsets": [
+            120,
+            272
+        ],
+        "text": "PRESIDENT Donald Trump said Sweden is paying the price for not enforcing stay-at-home orders the way state and local officials in the United States did.",
+        "arg_ann_id": "T137"
+    },
+    "ENL0C04CVH2.000138": {
+        "id": "ENL0C04CVH2.000138",
+        "type": "PER",
+        "offsets": [
+            120,
+            142
+        ],
+        "text": "PRESIDENT Donald Trump",
+        "arg_ann_id": "T138"
+    },
+    "ENL0C04CVH2.000005": {
+        "id": "ENL0C04CVH2.000005",
+        "type": "Claim_Boundary",
+        "offsets": [
+            148,
+            212
+        ],
+        "text": "Sweden is paying the price for not enforcing stay-at-home orders",
+        "arg_ann_id": "T5"
+    },
+    "ENL0C04CVH2.000006": {
+        "id": "ENL0C04CVH2.000006",
+        "type": "government_legislate_legislate",
+        "offsets": [
+            183,
+            192
+        ],
+        "text": "enforcing",
+        "arg_ann_id": "T6"
+    },
+    "ENL0C04CVH2.000133": {
+        "id": "ENL0C04CVH2.000133",
+        "type": "LAW",
+        "offsets": [
+            193,
+            212
+        ],
+        "text": "stay-at-home orders",
+        "arg_ann_id": "T133"
+    },
+    "ENL0C04CVH2.000139": {
+        "id": "ENL0C04CVH2.000139",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            143,
+            147
+        ],
+        "text": "said",
+        "arg_ann_id": "T139"
+    },
+    "ENL0C04CVH2.000140": {
+        "id": "ENL0C04CVH2.000140",
+        "type": "Claim_Sentence",
+        "offsets": [
+            274,
+            399
+        ],
+        "text": "Trump tweeted on Thursday that, \"Despite reports to the contrary, Sweden is paying heavily for its decision not to lockdown.\"",
+        "arg_ann_id": "T140"
+    },
+    "ENL0C04CVH2.000141": {
+        "id": "ENL0C04CVH2.000141",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            280,
+            287
+        ],
+        "text": "tweeted",
+        "arg_ann_id": "T141"
+    },
+    "ENL0C04CVH2.000142": {
+        "id": "ENL0C04CVH2.000142",
+        "type": "Claim_Boundary",
+        "offsets": [
+            90,
+            116
+        ],
+        "text": "US made \u2018correct decision\u2019",
+        "arg_ann_id": "T142"
+    },
+    "ENL0C04CVH2.000143": {
+        "id": "ENL0C04CVH2.000143",
+        "type": "disaster_diseaseoutbreak_unspecified",
+        "offsets": [
+            350,
+            364
+        ],
+        "text": "paying heavily",
+        "arg_ann_id": "T143"
+    },
+    "ENL0C04CVH2.000145": {
+        "id": "ENL0C04CVH2.000145",
+        "type": "LAW",
+        "offsets": [
+            389,
+            397
+        ],
+        "text": "lockdown",
+        "arg_ann_id": "T145"
+    },
+    "ENL0C04CVH2.000144": {
+        "id": "ENL0C04CVH2.000144",
+        "type": "government_legislate_legislate",
+        "offsets": [
+            373,
+            381
+        ],
+        "text": "decision",
+        "arg_ann_id": "T144"
+    },
+    "ENL0C04CVH2.000146": {
+        "id": "ENL0C04CVH2.000146",
+        "type": "Claim_Boundary",
+        "offsets": [
+            340,
+            398
+        ],
+        "text": "Sweden is paying heavily for its decision not to lockdown.",
+        "arg_ann_id": "T146"
+    },
+    "ENL0C04CVH2.000147": {
+        "id": "ENL0C04CVH2.000147",
+        "type": "disaster_diseaseoutbreak_unspecified",
+        "offsets": [
+            23,
+            37
+        ],
+        "text": "paying heavily",
+        "arg_ann_id": "T147"
+    },
+    "ENL0C04CVH2.000149": {
+        "id": "ENL0C04CVH2.000149",
+        "type": "Claim_Boundary",
+        "offsets": [
+            548,
+            591
+        ],
+        "text": "The United States made the correct decision",
+        "arg_ann_id": "T149"
+    },
+    "ENL0C04CVH2.000150": {
+        "id": "ENL0C04CVH2.000150",
+        "type": "government_legislate_legislate",
+        "offsets": [
+            566,
+            570
+        ],
+        "text": "made",
+        "arg_ann_id": "T150"
+    },
+    "ENL0C04CVH2.000151": {
+        "id": "ENL0C04CVH2.000151",
+        "type": "Claim_Sentence",
+        "offsets": [
+            547,
+            593
+        ],
+        "text": "\"The United States made the correct decision!\" Trump wrote online.",
+        "arg_ann_id": "T151"
+    },
+    "ENL0C04CVH2.000148": {
+        "id": "ENL0C04CVH2.000148",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            600,
+            605
+        ],
+        "text": "wrote",
+        "arg_ann_id": "T148"
+    },
+    "ENL0C04CVH2.000152": {
+        "id": "ENL0C04CVH2.000152",
+        "type": "government_legislate_legislate",
+        "offsets": [
+            1092,
+            1098
+        ],
+        "text": "issued",
+        "arg_ann_id": "T152"
+    },
+    "ENL0C04CVH2.000153": {
+        "id": "ENL0C04CVH2.000153",
+        "type": "LAW",
+        "offsets": [
+            1099,
+            1125
+        ],
+        "text": "social distancing measures",
+        "arg_ann_id": "T153"
+    },
+    "ENL0C04CVH2.000154": {
+        "id": "ENL0C04CVH2.000154",
+        "type": "Claim_Sentence",
+        "offsets": [
+            1460,
+            1639
+        ],
+        "text": "Despite other European countries enforcing strict lockdowns to prevent the spread of the coronavirus, Sweden, with a population of 10 million, has gone for a \"low-scale approach.\"",
+        "arg_ann_id": "T154"
+    },
+    "ENL0C04CVH2.000155": {
+        "id": "ENL0C04CVH2.000155",
+        "type": "Claim_Boundary",
+        "offsets": [
+            1562,
+            1639
+        ],
+        "text": "Sweden, with a population of 10 million, has gone for a \"low-scale approach.\"",
+        "arg_ann_id": "T155"
+    },
+    "ENL0C04CVH2.000156": {
+        "id": "ENL0C04CVH2.000156",
+        "type": "Claim_Sentence",
+        "offsets": [
+            1641,
+            1818
+        ],
+        "text": "Anders Tegnell, the country\u2019s chief epidemiologist and top strategist for the country in the fight against the pandemic, said it \"is much more sustainable\" over a longer period.",
+        "arg_ann_id": "T156"
+    },
+    "ENL0C04CVH2.000157": {
+        "id": "ENL0C04CVH2.000157",
+        "type": "Claim_Boundary",
+        "offsets": [
+            1767,
+            1818
+        ],
+        "text": "it \"is much more sustainable\" over a longer period.",
+        "arg_ann_id": "T157"
+    },
+    "ENL0C04CVH2.000158": {
+        "id": "ENL0C04CVH2.000158",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            1762,
+            1766
+        ],
+        "text": "said",
+        "arg_ann_id": "T158"
+    },
+    "ENL0C04CVH2.000159": {
+        "id": "ENL0C04CVH2.000159",
+        "type": "Claim_Sentence",
+        "offsets": [
+            2181,
+            2314
+        ],
+        "text": "One local, Johan Mattsson, told The New York Times: \"My respect for those who died, but we are doing something right here in Sweden.\"",
+        "arg_ann_id": "T159"
+    },
+    "ENL0C04CVH2.000160": {
+        "id": "ENL0C04CVH2.000160",
+        "type": "contact_discussion_correspondence",
+        "offsets": [
+            2208,
+            2212
+        ],
+        "text": "told",
+        "arg_ann_id": "T160"
+    },
+    "ENL0C04CVH2.000161": {
+        "id": "ENL0C04CVH2.000161",
+        "type": "Claim_Boundary",
+        "offsets": [
+            2269,
+            2312
+        ],
+        "text": "we are doing something right here in Sweden",
+        "arg_ann_id": "T161"
+    },
+    "ENL0C04CVH2.000162": {
+        "id": "ENL0C04CVH2.000162",
+        "type": "Claim_Sentence",
+        "offsets": [
+            2795,
+            2921
+        ],
+        "text": "Trump previously suggested that the rising number of Swedish deaths is because of the country\u2019s idea to embrace herd immunity.",
+        "arg_ann_id": "T162"
+    },
+    "ENL0C04CVH2.000163": {
+        "id": "ENL0C04CVH2.000163",
+        "type": "Claim_Boundary",
+        "offsets": [
+            2827,
+            2920
+        ],
+        "text": "the rising number of Swedish deaths is because of the country\u2019s idea to embrace herd immunity",
+        "arg_ann_id": "T163"
+    },
+    "ENL0C04CVH2.000164": {
+        "id": "ENL0C04CVH2.000164",
+        "type": "government_agreements_unspecified",
+        "offsets": [
+            2899,
+            2906
+        ],
+        "text": "embrace",
+        "arg_ann_id": "T164"
+    },
+    "ENL0C04CVH2.000165": {
+        "id": "ENL0C04CVH2.000165",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            2812,
+            2821
+        ],
+        "text": "suggested",
+        "arg_ann_id": "T165"
+    },
+    "ENL0C04CVH2.000167": {
+        "id": "ENL0C04CVH2.000167",
+        "type": "Claim_Boundary",
+        "offsets": [
+            3110,
+            3146
+        ],
+        "text": "Sweden is suffering very, very badly",
+        "arg_ann_id": "T167"
+    },
+    "ENL0C04CVH2.000166": {
+        "id": "ENL0C04CVH2.000166",
+        "type": "Claim_Sentence",
+        "offsets": [
+            3110,
+            3147
+        ],
+        "text": "Sweden is suffering very, very badly.",
+        "arg_ann_id": "T166"
+    },
+    "ENL0C04CVH2.000168": {
+        "id": "ENL0C04CVH2.000168",
+        "type": "Claim_Sentence",
+        "offsets": [
+            3174,
+            3303
+        ],
+        "text": "But Swedish Health Minister Lena Hallengren recently told The Associated Press: \"We have never had a strategy for herd immunity.\"",
+        "arg_ann_id": "T168"
+    },
+    "ENL0C04CVH2.000169": {
+        "id": "ENL0C04CVH2.000169",
+        "type": "Claim_Boundary",
+        "offsets": [
+            3255,
+            3301
+        ],
+        "text": "We have never had a strategy for herd immunity",
+        "arg_ann_id": "T169"
+    },
+    "ENL0C04CVH2.000170": {
+        "id": "ENL0C04CVH2.000170",
+        "type": "government_agreements_unspecified",
+        "offsets": [
+            3275,
+            3283
+        ],
+        "text": "strategy",
+        "arg_ann_id": "T170"
+    },
+    "ENL0C04CVH2.000171": {
+        "id": "ENL0C04CVH2.000171",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            3227,
+            3231
+        ],
+        "text": "told",
+        "arg_ann_id": "T171"
+    },
+    "ENL0C04CVH2.000172": {
+        "id": "ENL0C04CVH2.000172",
+        "type": "Claim_Sentence",
+        "offsets": [
+            3305,
+            3425
+        ],
+        "text": "On Wednesday, the World Health Organization praised Sweden as a \"model\" for other countries to follow amid the pandemic.",
+        "arg_ann_id": "T172"
+    },
+    "ENL0C04CVH2.000173": {
+        "id": "ENL0C04CVH2.000173",
+        "type": "Claim_Boundary",
+        "offsets": [
+            3357,
+            3424
+        ],
+        "text": "Sweden as a \"model\" for other countries to follow amid the pandemic",
+        "arg_ann_id": "T173"
+    },
+    "ENL0C04CVH2.000174": {
+        "id": "ENL0C04CVH2.000174",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            3349,
+            3356
+        ],
+        "text": "praised",
+        "arg_ann_id": "T174"
+    },
+    "ENL0C04CVH2.000175": {
+        "id": "ENL0C04CVH2.000175",
+        "type": "Claim_Sentence",
+        "offsets": [
+            3431,
+            3545
+        ],
+        "text": "Mike Ryan, the WHO\u2019s top emergencies expert, said there are \"lessons to be learned\" from the Scandinavian country.",
+        "arg_ann_id": "T175"
+    },
+    "ENL0C04CVH2.000176": {
+        "id": "ENL0C04CVH2.000176",
+        "type": "Claim_Boundary",
+        "offsets": [
+            3481,
+            3544
+        ],
+        "text": "there are \"lessons to be learned\" from the Scandinavian country",
+        "arg_ann_id": "T176"
+    },
+    "ENL0C04CVH2.000177": {
+        "id": "ENL0C04CVH2.000177",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            3476,
+            3480
+        ],
+        "text": "said",
+        "arg_ann_id": "T177"
+    },
+    "ENL0C04CVH2.000178": {
+        "id": "ENL0C04CVH2.000178",
+        "type": "Claim_Sentence",
+        "offsets": [
+            3547,
+            3678
+        ],
+        "text": "\"I think there\u2019s a perception out that Sweden has not put in control measures and just has allowed the disease to spread,\" he said. \"Nothing can be further from the truth.\"",
+        "arg_ann_id": "T178"
+    },
+    "ENL0C04CVH2.000179": {
+        "id": "ENL0C04CVH2.000179",
+        "type": "Claim_Boundary",
+        "offsets": [
+            3680,
+            3717
+        ],
+        "text": "Nothing can be further from the truth",
+        "arg_ann_id": "T179"
+    },
+    "ENL0C04CVH2.000180": {
+        "id": "ENL0C04CVH2.000180",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            3673,
+            3677
+        ],
+        "text": "said",
+        "arg_ann_id": "T180"
+    },
+    "ENL0C04CVH2.000181": {
+        "id": "ENL0C04CVH2.000181",
+        "type": "government_legislate_legislate",
+        "offsets": [
+            3601,
+            3604
+        ],
+        "text": "put",
+        "arg_ann_id": "T181"
+    },
+    "ENL0C04CVH2.000182": {
+        "id": "ENL0C04CVH2.000182",
+        "type": "LAW",
+        "offsets": [
+            3608,
+            3624
+        ],
+        "text": "control measures",
+        "arg_ann_id": "T182"
+    },
+    "ENL0C04CVH2.000183": {
+        "id": "ENL0C04CVH2.000183",
+        "type": "Claim_Sentence",
+        "offsets": [
+            3721,
+            3876
+        ],
+        "text": "Ryan said Sweden has \"put in place a very strong public policy around social distancing, around caring and protecting people in long-term care facilities.\"",
+        "arg_ann_id": "T183"
+    },
+    "ENL0C04CVH2.000184": {
+        "id": "ENL0C04CVH2.000184",
+        "type": "Claim_Boundary",
+        "offsets": [
+            3731,
+            3876
+        ],
+        "text": "Sweden has \"put in place a very strong public policy around social distancing, around caring and protecting people in long-term care facilities.\"",
+        "arg_ann_id": "T184"
+    },
+    "ENL0C04CVH2.000185": {
+        "id": "ENL0C04CVH2.000185",
+        "type": "government_legislate_legislate",
+        "offsets": [
+            3743,
+            3755
+        ],
+        "text": "put in place",
+        "arg_ann_id": "T185"
+    },
+    "ENL0C04CVH2.000186": {
+        "id": "ENL0C04CVH2.000186",
+        "type": "LAW",
+        "offsets": [
+            3770,
+            3783
+        ],
+        "text": "public policy",
+        "arg_ann_id": "T186"
+    },
+    "ENL0C04CVH2.000187": {
+        "id": "ENL0C04CVH2.000187",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            3726,
+            3730
+        ],
+        "text": "said",
+        "arg_ann_id": "T187"
+    },
+    "ENL0C04CVH2.000188": {
+        "id": "ENL0C04CVH2.000188",
+        "type": "Claim_Sentence",
+        "offsets": [
+            4183,
+            4332
+        ],
+        "text": "\"I think if we are to reach a new normal, Sweden represents a model if we wish to get back to a society in which we don\u2019t have lockdowns,\" Ryan said.",
+        "arg_ann_id": "T188"
+    },
+    "ENL0C04CVH2.000189": {
+        "id": "ENL0C04CVH2.000189",
+        "type": "Claim_Boundary",
+        "offsets": [
+            4184,
+            4319
+        ],
+        "text": "I think if we are to reach a new normal, Sweden represents a model if we wish to get back to a society in which we don\u2019t have lockdowns",
+        "arg_ann_id": "T189"
+    },
+    "ENL0C04CVH2.000190": {
+        "id": "ENL0C04CVH2.000190",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            4327,
+            4331
+        ],
+        "text": "said",
+        "arg_ann_id": "T190"
+    },
+    "ENL0C04CVH2.000191": {
+        "id": "ENL0C04CVH2.000191",
+        "type": "disaster_diseaseoutbreak_unspecified",
+        "offsets": [
+            3416,
+            3424
+        ],
+        "text": "pandemic",
+        "arg_ann_id": "T191"
+    }
+}

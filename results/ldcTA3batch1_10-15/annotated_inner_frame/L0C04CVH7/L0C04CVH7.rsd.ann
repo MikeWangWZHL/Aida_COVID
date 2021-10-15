@@ -1,0 +1,133 @@
+T1	PER 1 6	Cuomo
+T2	PER 12 14	he
+T3	GPE 46 48	NY
+T4	GPE 69 77	New York
+T5	PER 83 95	Andrew Cuomo
+T6	PER 115 117	he
+T7	PER 156 158	he
+T8	PER 180 182	he
+T9	GPE 222 235	New York City
+T10	PER 236 245	residents
+T11	PER 361 362	I
+T12	PER 384 385	I
+T13	PER 452 457	Cuomo
+T14	FAC 488 495	shelter
+T15	GPE 528 541	San Francisco
+T16	LOC 542 550	Bay Area
+T17	PER 571 577	people
+T18	PER 587 592	their
+T19	FAC 593 598	homes
+T20	GPE 658 671	New York City
+T21	PER 678 692	Bill de Blasio
+T22	PER 706 708	he
+T23	GPE 752 756	city
+T24	GPE 758 763	which
+T25	MHI 801 809	COVID-19
+T26	PER 816 821	Cuomo
+T27	ORG 830 833	CNN
+T28	PER 929 935	people
+T29	FAC 963 967	room
+T30	PER 971 976	their
+T31	FAC 977 981	home
+T32	FAC 1004 1009	there
+T33	PER 1016 1020	they
+T34	PER 1066 1072	people
+T35	PER 1119 1124	Cuomo
+T36	PER 1136 1137	I
+T37	PER 1149 1151	my
+T38	PER 1206 1212	people
+T39	PER 1216 1221	their
+T40	FAC 1222 1227	homes
+T41	FAC 1252 1261	roadblock
+T42	GPE 1269 1282	New York City
+T43	PER 1286 1291	Cuomo
+T44	PER 1327 1342	Alisyn Camerota
+T45	PER 1362 1368	people
+T46	PER 1386 1390	they
+T47	FAC 1406 1410	park
+T48	FAC 1419 1423	home
+T49	PER 1463 1468	their
+T50	PER 1493 1494	I
+T51	PER 1520 1526	anyone
+T52	GPE 1534 1539	State
+T53	GPE 1543 1551	New York
+T54	PER 1554 1559	Cuomo
+T55	PER 1567 1568	I
+T56	GPE 1603 1608	state
+T57	GPE 1612 1620	New York
+T58	LOC 1687 1700	Hudson Valley
+T59	government_legislate_legislate 24 30	impose
+E1	government_legislate_legislate:T59 Law:T60 Place:T3
+A1	ClaimID_Semantic E1 CLL0C04CVH7.000000
+T60	LAW 31 42	martial law
+T61	contact_contact_broadcast 7 11	says
+E2	contact_contact_broadcast:T61 Communicator:T1 Topic:E1
+A2	ClaimID_Associate E2 CLL0C04CVH7.000000
+T62	Claim_Sentence 1 65	Cuomo says he will not impose martial law in NY over coronavirus
+A3	ClaimID_Associate T62 CLL0C04CVH7.000000
+T63	Claim_Boundary 12 65	he will not impose martial law in NY over coronavirus
+A4	ClaimID_Semantic T63 CLL0C04CVH7.000000
+T64	government_legislate_legislate 134 140	impose
+E3	government_legislate_legislate:T64 Law:T65 Place:T9
+A5	ClaimID_Semantic E3 CLL0C04CVH7.000000
+T65	LAW 141 152	martial law
+T66	contact_contact_broadcast 96 100	said
+E4	contact_contact_broadcast:T66 Communicator:T5 Topic:E3
+A6	ClaimID_Associate E4 CLL0C04CVH7.000000
+T67	control_impedeinterferewith_unspecified 169 174	quell
+E5	control_impedeinterferewith_unspecified:T67 Impeder:T5
+A7	ClaimID_Associate E5 CLL0C04CVH7.000000
+T68	Claim_Sentence 83 315	Andrew Cuomo said Thursday that he is not going to impose martial law as he sought to quell what he said was panic over the possibility of New York City residents being told to shelter in place to curb the spread of the coronavirus.
+A8	ClaimID_Associate T68 CLL0C04CVH7.000000
+T69	Claim_Boundary 115 315	he is not going to impose martial law as he sought to quell what he said was panic over the possibility of New York City residents being told to shelter in place to curb the spread of the coronavirus.
+A9	ClaimID_Semantic T69 CLL0C04CVH7.000000
+T70	government_legislate_legislate 725 733	imposing
+E6	government_legislate_legislate:T70 Law:T71 Place:T20
+A10	ClaimID_Semantic E6 CLL0C04CVH7.000001
+T71	LAW 739 744	rules
+A11	ClaimID_Associate T21 CLL0C04CVH7.000001
+R1	OrganizationAffiliation_Leadership_Government Arg1:T21 Arg2:T20	
+T72	contact_contact_broadcast 693 697	said
+E7	contact_contact_broadcast:T72 Communicator:T21 Topic:E6
+A12	ClaimID_Associate E7 CLL0C04CVH7.000001
+T73	life_die_nonviolentdeath 789 795	deaths
+E8	life_die_nonviolentdeath:T73 MedicalIssue:T25
+A13	ClaimID_Associate E8 CLL0C04CVH7.000001
+T74	contact_contact_meet 822 826	said
+E9	contact_contact_meet:T74 Topic:E10 Participant1:T27 Participant:T26
+A14	ClaimID_Associate E9 CLL0C04CVH7.000001
+T75	artifactexistence_creation_unspecified 865 875	originated
+E10	artifactexistence_creation_unspecified:T75 Thing_Created:T76
+T76	ABS 848 864	shelter in place
+T77	contact_contact_meet 1125 1129	said
+E11	contact_contact_meet:T77 Participant:T35
+A15	ClaimID_Associate E11 CLL0C04CVH7.000001
+T78	government_legislate_legislate 1197 1205	imprison
+E12	government_legislate_legislate:T78 Place:T42
+A16	ClaimID_Semantic E12 CLL0C04CVH7.000002
+T79	control_impedeinterferewith_unspecified 1156 1169	knocking down
+E13	control_impedeinterferewith_unspecified:T79 Impeder:T36 ImpededEvent:E14
+T80	contact_prevarication_unspecified 1170 1176	rumors
+E14	contact_prevarication_unspecified:T80 Topic:E12
+A17	ClaimID_Associate E14 CLL0C04CVH7.000002
+T81	Claim_Sentence 658 810	New York City Mayor Bill de Blasio said Tuesday he was considering imposing such rules in the city, which has recorded at least 11 deaths from COVID-19.
+A18	ClaimID_Associate T81 CLL0C04CVH7.000001
+T82	Claim_Boundary 706 756	he was considering imposing such rules in the city
+A19	ClaimID_Semantic T82 CLL0C04CVH7.000001
+T83	Claim_Sentence 1132 1283	And I spent half my day knocking down rumors that we're going to imprison people in their homes, there is going to be a roadblock around New York City.
+A20	ClaimID_Associate T83 CLL0C04CVH7.000002
+T84	Claim_Boundary 1182 1282	we're going to imprison people in their homes, there is going to be a roadblock around New York City
+A21	ClaimID_Semantic T84 CLL0C04CVH7.000002
+T85	government_legislate_legislate 1511 1519	imprison
+E15	government_legislate_legislate:T85 Place:T53
+A22	ClaimID_Semantic E15 CLL0C04CVH7.000000
+T86	contact_contact_meet 1560 1564	said
+E16	contact_contact_meet:T86 Participant:T54 Topic:E15
+A23	ClaimID_Associate E16 CLL0C04CVH7.000000
+T87	government_legislate_legislate 1585 1587	do
+E17	government_legislate_legislate:T87 Law:T88 Place:T57
+T88	LAW 1588 1599	martial law
+A24	ClaimID_Associate E17 CLL0C04CVH7.000000
+T89	MHI 303 314	coronavirus
+T90	disaster_diseaseoutbreak_unspecified 289 295	spread
+E18	disaster_diseaseoutbreak_unspecified:T90 Disease:T89

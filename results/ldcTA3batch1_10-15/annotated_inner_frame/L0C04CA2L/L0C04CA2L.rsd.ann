@@ -1,0 +1,86 @@
+T1	PER 35 42	Leaders
+T2	PER 121 130	Followers
+T3	PER 136 150	Giorgia Meloni
+T4	PER 155 169	Matteo Salvini
+T5	PER 190 221	FacebookGiorgia Melonideveloper
+T6	PER 279 290	politicians
+T7	PER 388 397	residents
+T8	PER 445 452	Salvini
+T9	PER 462 465	His
+T10	PER 558 561	his
+T11	PER 614 626	eurosceptics
+T12	PER 628 635	Salvini
+T13	PER 640 646	Meloni
+T14	GPE 745 751	states
+T15	GPE 786 791	their
+T16	PER 904 911	Salvini
+T17	PER 916 922	Meloni
+T18	PER 968 975	leaders
+T19	ORG 1026 1034	WhatsApp
+T20	ORG 1035 1041	groups
+T21	PER 1059 1064	their
+T22	PER 1077 1086	followers
+T23	ORG 1090 1098	Facebook
+T24	ORG 1103 1110	Twitter
+T25	GPE 1206 1213	Chinese
+T26	ORG 1327 1330	lab
+T27	PER 1349 1356	Salvini
+T28	GPE 1390 1397	Chinese
+T29	PER 1450 1452	WE
+T30	PER 1470 1476	Meloni
+T31	PER 1523 1530	leaders
+T32	ORG 1546 1556	government
+T33	ORG 1580 1590	parliament
+T34	GPE 1636 1643	Italian
+T35	ORG 1694 1701	Il Post
+T36	ORG 1706 1719	La Repubblica
+T37	PER 1785 1793	director
+T38	ORG 1801 1834	Italian National Research Council
+T39	ORG 1836 1839	CNR
+T40	ORG 1846 1859	La Repubblica
+T41	GPE 2038 2045	Chinese
+T42	ORG 2046 2049	lab
+T43	ORG 2108 2114	Nature
+T44	ORG 2116 2121	which
+T45	FAC 2248 2251	lab
+T46	Claim_Sentence 1112 1331	The discredited and unsubstantiated theory claims that a news programme aired in 2015 about a Chinese lab’s experiments and research on other coronaviruses was proof that the novel virus had originated in that same lab.
+T47	Claim_Boundary 1112 1331	The discredited and unsubstantiated theory claims that a news programme aired in 2015 about a Chinese lab’s experiments and research on other coronaviruses was proof that the novel virus had originated in that same lab.
+A2	ClaimID_Semantic T46 CLL0C04CA2L.000000
+A4	ClaimID_Semantic T47 CLL0C04CA2L.000000
+T48	Claim_Sentence 1349 1447	Salvini tweeted, in all caps, "2015, the Chinese created a supercoronavirus with bats and mice!!!"
+A5	ClaimID_Semantic T48 CLL0C04CA2L.000002
+T49	Claim_Boundary 1349 1447	Salvini tweeted, in all caps, "2015, the Chinese created a supercoronavirus with bats and mice!!!"
+A7	ClaimID_Semantic T49 CLL0C04CA2L.000002
+T50	Claim_Sentence 1783 1967;1968 2093	A director at the Italian National Research Council (CNR) told La Repubblica: "The current virus does not originate from the first version of Sars, and not least did it come from mice. Therefore it [COVID-19] absolutely cannot be the virus created in the Chinese lab that is discussed in the [2015] programme."
+A9	ClaimID_Semantic T50 CLL0C04CA2L.000004
+T51	Claim_Boundary 1783 1967;1968 2093	A director at the Italian National Research Council (CNR) told La Repubblica: "The current virus does not originate from the first version of Sars, and not least did it come from mice. Therefore it [COVID-19] absolutely cannot be the virus created in the Chinese lab that is discussed in the [2015] programme."
+A10	ClaimID_Semantic T51 CLL0C04CA2L.000004
+T52	Claim_Sentence 2095 2251	The magazine Nature, which published the 2015 study on which the TV programme was based, has also said that the novel coronavirus did not originate in a lab
+A11	ClaimID_Semantic T52 CLL0C04CA2L.000005
+T53	Claim_Boundary 2095 2251	The magazine Nature, which published the 2015 study on which the TV programme was based, has also said that the novel coronavirus did not originate in a lab
+A12	ClaimID_Semantic T53 CLL0C04CA2L.000005
+T54	artifactexistence_creation_unspecified 1303 1313	originated
+E1	artifactexistence_creation_unspecified:T54 Creator:T26
+T55	artifactexistence_creation_unspecified 1398 1405	created
+E2	artifactexistence_creation_unspecified:T55 Creator:T28
+T56	MHI 1408 1424	supercoronavirus
+T57	artifactexistence_creation_unspecified 1889 1898	originate
+E3	artifactexistence_creation_unspecified:T57 
+T58	MHI 1874 1879	virus
+T59	MHI 1925 1929	Sars
+T60	artifactexistence_creation_unspecified 2023 2030	created
+E4	artifactexistence_creation_unspecified:T60 Creator:T42
+T61	artifactexistence_creation_unspecified 2233 2242	originate
+E5	artifactexistence_creation_unspecified:T61 Place:T45
+T62	MHI 2213 2224	coronavirus
+A1	ClaimID2_Semantic T46 CLL0C04CA2L.000001
+A3	ClaimID2_Semantic T47 CLL0C04CA2L.000001
+A13	ClaimID_Semantic E1 CLL0C04CA2L.000000
+A14	ClaimID2_Semantic E1 CLL0C04CA2L.000001
+A15	ClaimID_Semantic E2 CLL0C04CA2L.000002
+A16	ClaimID2_Semantic E2 CLL0C04CA2L.000003
+A8	ClaimID2_Semantic T48 CLL0C04CA2L.000003
+A6	ClaimID2_Semantic T49 CLL0C04CA2L.000003
+A17	ClaimID_Semantic E3 CLL0C04CA2L.000004
+A18	ClaimID_Semantic E4 CLL0C04CA2L.000004
+A19	ClaimID_Semantic E5 CLL0C04CA2L.000005

@@ -1,0 +1,16 @@
+{
+    "EVL0C04CVH5.000001": {
+        "id": "EVL0C04CVH5.000001",
+        "type": "contact.publicstatementinperson.broadcast",
+        "trigger": {
+            "offsets": [
+                568,
+                575
+            ],
+            "text": "alleges"
+        },
+        "arguments": [],
+        "event_ann_id": "E1",
+        "event_type_qnode": "statement"
+    }
+}

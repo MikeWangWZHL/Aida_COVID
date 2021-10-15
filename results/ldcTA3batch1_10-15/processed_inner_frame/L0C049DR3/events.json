@@ -1,0 +1,233 @@
+{
+    "EVL0C049DR3.000001": {
+        "id": "EVL0C049DR3.000001",
+        "type": "disaster.diseaseoutbreak.unspecified",
+        "trigger": {
+            "offsets": [
+                77,
+                87
+            ],
+            "text": "originated"
+        },
+        "arguments": [
+            {
+                "role_type": "Place",
+                "general_role_type": "AM-LOC",
+                "arg_id": "ENL0C049DR3.000005",
+                "arg_ann_id": "T5",
+                "arg_type_qnode": "EMPTY_NA"
+            },
+            {
+                "role_type": "Disease",
+                "general_role_type": "A1-ppt_theme_disease",
+                "arg_id": "ENL0C049DR3.000227",
+                "arg_ann_id": "T227",
+                "arg_type_qnode": "Q12136"
+            }
+        ],
+        "event_ann_id": "E1",
+        "event_type_qnode": "outbreak"
+    },
+    "EVL0C049DR3.000002": {
+        "id": "EVL0C049DR3.000002",
+        "type": "disaster.diseaseoutbreak.unspecified",
+        "trigger": {
+            "offsets": [
+                116,
+                122
+            ],
+            "text": "spread"
+        },
+        "arguments": [
+            {
+                "role_type": "Place",
+                "general_role_type": "AM-LOC",
+                "arg_id": "ENL0C049DR3.000006",
+                "arg_ann_id": "T6",
+                "arg_type_qnode": "EMPTY_NA"
+            },
+            {
+                "role_type": "Disease",
+                "general_role_type": "A1-ppt_theme_disease",
+                "arg_id": "ENL0C049DR3.000227",
+                "arg_ann_id": "T227",
+                "arg_type_qnode": "Q12136"
+            }
+        ],
+        "event_ann_id": "E2",
+        "event_type_qnode": "outbreak"
+    },
+    "EVL0C049DR3.000003": {
+        "id": "EVL0C049DR3.000003",
+        "type": "contact.contact.unspecified",
+        "trigger": {
+            "offsets": [
+                1656,
+                1661
+            ],
+            "text": "cited"
+        },
+        "arguments": [
+            {
+                "role_type": "Participant",
+                "general_role_type": "A0-pag_agent_first_communicator",
+                "arg_id": "ENL0C049DR3.000045",
+                "arg_ann_id": "T45",
+                "arg_type_qnode": "Q215627|Q16334295"
+            },
+            {
+                "role_type": "Participant1",
+                "general_role_type": "A0-pag_agent_first_communicator",
+                "arg_id": "ENL0C049DR3.000046",
+                "arg_ann_id": "T46",
+                "arg_type_qnode": "Q215627|Q16334295"
+            },
+            {
+                "role_type": "Topic",
+                "general_role_type": "A1-ppt_topic_message",
+                "arg_id": "EVL0C049DR3.000004",
+                "arg_ann_id": "E4",
+                "arg_type_qnode": "EMPTY_NA"
+            }
+        ],
+        "event_ann_id": "E3",
+        "event_type_qnode": "Q11024"
+    },
+    "EVL0C049DR3.000004": {
+        "id": "EVL0C049DR3.000004",
+        "type": "artifactexistence.creation.unspecified",
+        "trigger": {
+            "offsets": [
+                1735,
+                1745
+            ],
+            "text": "engineered"
+        },
+        "arguments": [
+            {
+                "role_type": "Creator",
+                "general_role_type": "A0-pag_Agent_creator",
+                "arg_id": "ENL0C049DR3.000053",
+                "arg_ann_id": "T53",
+                "arg_type_qnode": "Q7239|Q11019|Q215627|Q16334295"
+            }
+        ],
+        "event_ann_id": "E4",
+        "event_type_qnode": "Q11398090"
+    },
+    "EVL0C049DR3.000005": {
+        "id": "EVL0C049DR3.000005",
+        "type": "artifactexistence.creation.unspecified",
+        "trigger": {
+            "offsets": [
+                2890,
+                2897
+            ],
+            "text": "created"
+        },
+        "arguments": [],
+        "event_ann_id": "E5",
+        "event_type_qnode": "Q11398090"
+    },
+    "EVL0C049DR3.000006": {
+        "id": "EVL0C049DR3.000006",
+        "type": "contact.contact.meet",
+        "trigger": {
+            "offsets": [
+                2861,
+                2868
+            ],
+            "text": "suggest"
+        },
+        "arguments": [
+            {
+                "role_type": "Participant1",
+                "general_role_type": "A0-pag_Agent_first_talker",
+                "arg_id": "ENL0C049DR3.000083",
+                "arg_ann_id": "T83",
+                "arg_type_qnode": "Q215627|Q16334295"
+            },
+            {
+                "role_type": "Participant",
+                "general_role_type": "A0-pag_Agent_first_talker",
+                "arg_id": "ENL0C049DR3.000082",
+                "arg_ann_id": "T82",
+                "arg_type_qnode": "Q215627|Q16334295"
+            },
+            {
+                "role_type": "Topic",
+                "general_role_type": "A2-ppt_X_subject_matter",
+                "arg_id": "EVL0C049DR3.000005",
+                "arg_ann_id": "E5",
+                "arg_type_qnode": "EMPTY_NA"
+            }
+        ],
+        "event_ann_id": "E6",
+        "event_type_qnode": "Q21170798"
+    },
+    "EVL0C049DR3.000007": {
+        "id": "EVL0C049DR3.000007",
+        "type": "artifactexistence.creation.unspecified",
+        "trigger": {
+            "offsets": [
+                3894,
+                3898
+            ],
+            "text": "made"
+        },
+        "arguments": [
+            {
+                "role_type": "Creator",
+                "general_role_type": "A0-pag_Agent_creator",
+                "arg_id": "ENL0C049DR3.000098",
+                "arg_ann_id": "T98",
+                "arg_type_qnode": "Q7239|Q11019|Q215627|Q16334295"
+            }
+        ],
+        "event_ann_id": "E7",
+        "event_type_qnode": "Q11398090"
+    },
+    "EVL0C049DR3.000008": {
+        "id": "EVL0C049DR3.000008",
+        "type": "artifactexistence.creation.unspecified",
+        "trigger": {
+            "offsets": [
+                4825,
+                4833
+            ],
+            "text": "man-made"
+        },
+        "arguments": [],
+        "event_ann_id": "E8",
+        "event_type_qnode": "Q11398090"
+    },
+    "EVL0C049DR3.000009": {
+        "id": "EVL0C049DR3.000009",
+        "type": "contact.contact.meet",
+        "trigger": {
+            "offsets": [
+                4779,
+                4785
+            ],
+            "text": "refute"
+        },
+        "arguments": [
+            {
+                "role_type": "Topic",
+                "general_role_type": "A2-ppt_X_subject_matter",
+                "arg_id": "EVL0C049DR3.000008",
+                "arg_ann_id": "E8",
+                "arg_type_qnode": "EMPTY_NA"
+            },
+            {
+                "role_type": "Participant",
+                "general_role_type": "A0-pag_Agent_first_talker",
+                "arg_id": "ENL0C049DR3.000106",
+                "arg_ann_id": "T106",
+                "arg_type_qnode": "Q215627|Q16334295"
+            }
+        ],
+        "event_ann_id": "E9",
+        "event_type_qnode": "Q21170798"
+    }
+}

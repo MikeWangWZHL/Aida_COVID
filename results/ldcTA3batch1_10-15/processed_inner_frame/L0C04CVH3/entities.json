@@ -1,0 +1,362 @@
+{
+    "ENL0C04CVH3.000001": {
+        "id": "ENL0C04CVH3.000001",
+        "type": "GPE",
+        "offsets": [
+            1,
+            7
+        ],
+        "text": "Sweden",
+        "arg_ann_id": "T1"
+    },
+    "ENL0C04CVH3.000002": {
+        "id": "ENL0C04CVH3.000002",
+        "type": "GPE",
+        "offsets": [
+            56,
+            63
+        ],
+        "text": "Swedish",
+        "arg_ann_id": "T2"
+    },
+    "ENL0C04CVH3.000003": {
+        "id": "ENL0C04CVH3.000003",
+        "type": "ORG",
+        "offsets": [
+            64,
+            74
+        ],
+        "text": "government",
+        "arg_ann_id": "T3"
+    },
+    "ENL0C04CVH3.000004": {
+        "id": "ENL0C04CVH3.000004",
+        "type": "GPE",
+        "offsets": [
+            163,
+            170
+        ],
+        "text": "Swedish",
+        "arg_ann_id": "T4"
+    },
+    "ENL0C04CVH3.000005": {
+        "id": "ENL0C04CVH3.000005",
+        "type": "ORG",
+        "offsets": [
+            171,
+            176
+        ],
+        "text": "media",
+        "arg_ann_id": "T5"
+    },
+    "ENL0C04CVH3.000006": {
+        "id": "ENL0C04CVH3.000006",
+        "type": "GPE",
+        "offsets": [
+            231,
+            240
+        ],
+        "text": "countries",
+        "arg_ann_id": "T6"
+    },
+    "ENL0C04CVH3.000007": {
+        "id": "ENL0C04CVH3.000007",
+        "type": "LOC",
+        "offsets": [
+            252,
+            257
+        ],
+        "text": "world",
+        "arg_ann_id": "T7"
+    },
+    "ENL0C04CVH3.000008": {
+        "id": "ENL0C04CVH3.000008",
+        "type": "GPE",
+        "offsets": [
+            341,
+            353
+        ],
+        "text": "Scandinavian",
+        "arg_ann_id": "T8"
+    },
+    "ENL0C04CVH3.000009": {
+        "id": "ENL0C04CVH3.000009",
+        "type": "ORG",
+        "offsets": [
+            364,
+            374
+        ],
+        "text": "government",
+        "arg_ann_id": "T9"
+    },
+    "ENL0C04CVH3.000010": {
+        "id": "ENL0C04CVH3.000010",
+        "type": "ORG",
+        "offsets": [
+            427,
+            429
+        ],
+        "text": "it",
+        "arg_ann_id": "T10"
+    },
+    "ENL0C04CVH3.000011": {
+        "id": "ENL0C04CVH3.000011",
+        "type": "ORG",
+        "offsets": [
+            522,
+            532
+        ],
+        "text": "parliament",
+        "arg_ann_id": "T11"
+    },
+    "ENL0C04CVH3.000012": {
+        "id": "ENL0C04CVH3.000012",
+        "type": "ORG",
+        "offsets": [
+            538,
+            548
+        ],
+        "text": "government",
+        "arg_ann_id": "T12"
+    },
+    "ENL0C04CVH3.000013": {
+        "id": "ENL0C04CVH3.000013",
+        "type": "ORG",
+        "offsets": [
+            573,
+            580
+        ],
+        "text": "parties",
+        "arg_ann_id": "T13"
+    },
+    "ENL0C04CVH3.000014": {
+        "id": "ENL0C04CVH3.000014",
+        "type": "ORG",
+        "offsets": [
+            604,
+            611
+        ],
+        "text": "parties",
+        "arg_ann_id": "T14"
+    },
+    "ENL0C04CVH3.000015": {
+        "id": "ENL0C04CVH3.000015",
+        "type": "ORG",
+        "offsets": [
+            631,
+            635
+        ],
+        "text": "they",
+        "arg_ann_id": "T15"
+    },
+    "ENL0C04CVH3.000016": {
+        "id": "ENL0C04CVH3.000016",
+        "type": "ORG",
+        "offsets": [
+            691,
+            701
+        ],
+        "text": "government",
+        "arg_ann_id": "T16"
+    },
+    "ENL0C04CVH3.000017": {
+        "id": "ENL0C04CVH3.000017",
+        "type": "ORG",
+        "offsets": [
+            745,
+            755
+        ],
+        "text": "government",
+        "arg_ann_id": "T17"
+    },
+    "ENL0C04CVH3.000018": {
+        "id": "ENL0C04CVH3.000018",
+        "type": "GPE",
+        "offsets": [
+            854,
+            860
+        ],
+        "text": "Sweden",
+        "arg_ann_id": "T18"
+    },
+    "ENL0C04CVH3.000019": {
+        "id": "ENL0C04CVH3.000019",
+        "type": "LOC",
+        "offsets": [
+            935,
+            943
+        ],
+        "text": "European",
+        "arg_ann_id": "T19"
+    },
+    "ENL0C04CVH3.000020": {
+        "id": "ENL0C04CVH3.000020",
+        "type": "GPE",
+        "offsets": [
+            944,
+            953
+        ],
+        "text": "countries",
+        "arg_ann_id": "T20"
+    },
+    "ENL0C04CVH3.000021": {
+        "id": "ENL0C04CVH3.000021",
+        "type": "ORG",
+        "offsets": [
+            980,
+            990
+        ],
+        "text": "government",
+        "arg_ann_id": "T21"
+    },
+    "ENL0C04CVH3.000022": {
+        "id": "ENL0C04CVH3.000022",
+        "type": "PER",
+        "offsets": [
+            1067,
+            1073
+        ],
+        "text": "public",
+        "arg_ann_id": "T22"
+    },
+    "ENL0C04CVH3.000023": {
+        "id": "ENL0C04CVH3.000023",
+        "type": "PER",
+        "offsets": [
+            1125,
+            1136
+        ],
+        "text": "authorities",
+        "arg_ann_id": "T23"
+    },
+    "ENL0C04CVH3.000024": {
+        "id": "ENL0C04CVH3.000024",
+        "type": "FAC",
+        "offsets": [
+            1147,
+            1153
+        ],
+        "text": "stores",
+        "arg_ann_id": "T24"
+    },
+    "ENL0C04CVH3.000025": {
+        "id": "ENL0C04CVH3.000025",
+        "type": "PER",
+        "offsets": [
+            1177,
+            1183
+        ],
+        "text": "people",
+        "arg_ann_id": "T25"
+    },
+    "ENL0C04CVH3.000026": {
+        "id": "ENL0C04CVH3.000026",
+        "type": "ORG",
+        "offsets": [
+            1219,
+            1232
+        ],
+        "text": "organizations",
+        "arg_ann_id": "T26"
+    },
+    "ENL0C04CVH3.000027": {
+        "id": "ENL0C04CVH3.000027",
+        "type": "PER",
+        "offsets": [
+            1335,
+            1341
+        ],
+        "text": "people",
+        "arg_ann_id": "T27"
+    },
+    "ENL0C04CVH3.000028": {
+        "id": "ENL0C04CVH3.000028",
+        "type": "movement_transportation_unspecified-travel",
+        "offsets": [
+            1099,
+            1106
+        ],
+        "text": "transit",
+        "arg_ann_id": "T28"
+    },
+    "ENL0C04CVH3.000029": {
+        "id": "ENL0C04CVH3.000029",
+        "type": "Claim_Sentence",
+        "offsets": [
+            52,
+            198
+        ],
+        "text": "The Swedish government is seeking more powers to implement a lockdown or stronger restrictions on public life, Swedish media reported on Saturday.",
+        "arg_ann_id": "T29"
+    },
+    "ENL0C04CVH3.000030": {
+        "id": "ENL0C04CVH3.000030",
+        "type": "Claim_Boundary",
+        "offsets": [
+            111,
+            161
+        ],
+        "text": "a lockdown or stronger restrictions on public life",
+        "arg_ann_id": "T30"
+    },
+    "ENL0C04CVH3.000031": {
+        "id": "ENL0C04CVH3.000031",
+        "type": "Claim_Sentence",
+        "offsets": [
+            199,
+            335
+        ],
+        "text": "The move comes as more and more countries around the world implement lockdowns on public life to attempt to halt the spread of COVID-19.",
+        "arg_ann_id": "T31"
+    },
+    "ENL0C04CVH3.000032": {
+        "id": "ENL0C04CVH3.000032",
+        "type": "Claim_Boundary",
+        "offsets": [
+            258,
+            292
+        ],
+        "text": "implement lockdowns on public life",
+        "arg_ann_id": "T32"
+    },
+    "ENL0C04CVH3.000033": {
+        "id": "ENL0C04CVH3.000033",
+        "type": "Claim_Sentence",
+        "offsets": [
+            843,
+            954
+        ],
+        "text": "Until now, Sweden has shied away from implementing a major lockdown the same scale as other European countries.",
+        "arg_ann_id": "T33"
+    },
+    "ENL0C04CVH3.000034": {
+        "id": "ENL0C04CVH3.000034",
+        "type": "Claim_Boundary",
+        "offsets": [
+            894,
+            953
+        ],
+        "text": "a major lockdown the same scale as other European countries",
+        "arg_ann_id": "T34"
+    },
+    "ENL0C04CVH3.000035": {
+        "id": "ENL0C04CVH3.000035",
+        "type": "Claim_Sentence",
+        "offsets": [
+            955,
+            1061
+        ],
+        "text": "Earlier in the week, the government added some restrictions to public life through a series of guidelines.",
+        "arg_ann_id": "T35"
+    },
+    "ENL0C04CVH3.000036": {
+        "id": "ENL0C04CVH3.000036",
+        "type": "Claim_Boundary",
+        "offsets": [
+            991,
+            1060
+        ],
+        "text": "added some restrictions to public life through a series of guidelines",
+        "arg_ann_id": "T36"
+    }
+}

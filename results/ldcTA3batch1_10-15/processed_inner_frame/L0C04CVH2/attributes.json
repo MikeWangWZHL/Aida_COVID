@@ -1,0 +1,275 @@
+{
+    "ATL0C04CVH2.000001": {
+        "id": "ATL0C04CVH2.000001",
+        "type": "ClaimID_Associate",
+        "arg_id": "ENL0C04CVH2.000129",
+        "value": "CLL0C04CVH2.000001",
+        "arg_ann_id": "T129"
+    },
+    "ATL0C04CVH2.000003": {
+        "id": "ATL0C04CVH2.000003",
+        "type": "ClaimID_Semantic",
+        "arg_id": "ENL0C04CVH2.000130",
+        "value": "CLL0C04CVH2.000001",
+        "arg_ann_id": "T130"
+    },
+    "ATL0C04CVH2.000004": {
+        "id": "ATL0C04CVH2.000004",
+        "type": "ClaimID_Semantic",
+        "arg_id": "EVL0C04CVH2.000001",
+        "value": "CLL0C04CVH2.000000",
+        "arg_ann_id": "E1"
+    },
+    "ATL0C04CVH2.000005": {
+        "id": "ATL0C04CVH2.000005",
+        "type": "ClaimID_Semantic",
+        "arg_id": "EVL0C04CVH2.000002",
+        "value": "CLL0C04CVH2.000001",
+        "arg_ann_id": "E2"
+    },
+    "ATL0C04CVH2.000007": {
+        "id": "ATL0C04CVH2.000007",
+        "type": "ClaimID_Semantic",
+        "arg_id": "EVL0C04CVH2.000003",
+        "value": "CLL0C04CVH2.000000",
+        "arg_ann_id": "E3"
+    },
+    "ATL0C04CVH2.000008": {
+        "id": "ATL0C04CVH2.000008",
+        "type": "ClaimID_Semantic",
+        "arg_id": "EVL0C04CVH2.000004",
+        "value": "CLL0C04CVH2.000001",
+        "arg_ann_id": "E4"
+    },
+    "ATL0C04CVH2.000002": {
+        "id": "ATL0C04CVH2.000002",
+        "type": "ClaimID_Associate",
+        "arg_id": "ENL0C04CVH2.000137",
+        "value": "CLL0C04CVH2.000001",
+        "arg_ann_id": "T137"
+    },
+    "ATL0C04CVH2.000006": {
+        "id": "ATL0C04CVH2.000006",
+        "type": "ClaimID_Semantic",
+        "arg_id": "ENL0C04CVH2.000005",
+        "value": "CLL0C04CVH2.000001",
+        "arg_ann_id": "T5"
+    },
+    "ATL0C04CVH2.000009": {
+        "id": "ATL0C04CVH2.000009",
+        "type": "ClaimID_Associate",
+        "arg_id": "ENL0C04CVH2.000140",
+        "value": "CLL0C04CVH2.000001",
+        "arg_ann_id": "T140"
+    },
+    "ATL0C04CVH2.000010": {
+        "id": "ATL0C04CVH2.000010",
+        "type": "ClaimID_Semantic",
+        "arg_id": "ENL0C04CVH2.000142",
+        "value": "CLL0C04CVH2.000002",
+        "arg_ann_id": "T142"
+    },
+    "ATL0C04CVH2.000011": {
+        "id": "ATL0C04CVH2.000011",
+        "type": "ClaimID2_Associate",
+        "arg_id": "ENL0C04CVH2.000129",
+        "value": "CLL0C04CVH2.000002",
+        "arg_ann_id": "T129"
+    },
+    "ATL0C04CVH2.000012": {
+        "id": "ATL0C04CVH2.000012",
+        "type": "ClaimID_Semantic",
+        "arg_id": "ENL0C04CVH2.000146",
+        "value": "CLL0C04CVH2.000001",
+        "arg_ann_id": "T146"
+    },
+    "ATL0C04CVH2.000013": {
+        "id": "ATL0C04CVH2.000013",
+        "type": "ClaimID_Semantic",
+        "arg_id": "ENL0C04CVH2.000149",
+        "value": "CLL0C04CVH2.000002",
+        "arg_ann_id": "T149"
+    },
+    "ATL0C04CVH2.000015": {
+        "id": "ATL0C04CVH2.000015",
+        "type": "ClaimID_Associate",
+        "arg_id": "ENL0C04CVH2.000151",
+        "value": "CLL0C04CVH2.000002",
+        "arg_ann_id": "T151"
+    },
+    "ATL0C04CVH2.000014": {
+        "id": "ATL0C04CVH2.000014",
+        "type": "ClaimID_Associate",
+        "arg_id": "EVL0C04CVH2.000013",
+        "value": "CLL0C04CVH2.000002",
+        "arg_ann_id": "E13"
+    },
+    "ATL0C04CVH2.000016": {
+        "id": "ATL0C04CVH2.000016",
+        "type": "ClaimID_Associate",
+        "arg_id": "ENL0C04CVH2.000154",
+        "value": "CLL0C04CVH2.000003",
+        "arg_ann_id": "T154"
+    },
+    "ATL0C04CVH2.000017": {
+        "id": "ATL0C04CVH2.000017",
+        "type": "ClaimID2_Semantic",
+        "arg_id": "ENL0C04CVH2.000155",
+        "value": "CLL0C04CVH2.000003",
+        "arg_ann_id": "T155"
+    },
+    "ATL0C04CVH2.000018": {
+        "id": "ATL0C04CVH2.000018",
+        "type": "ClaimID_Associate",
+        "arg_id": "ENL0C04CVH2.000156",
+        "value": "CLL0C04CVH2.000004",
+        "arg_ann_id": "T156"
+    },
+    "ATL0C04CVH2.000019": {
+        "id": "ATL0C04CVH2.000019",
+        "type": "ClaimID2_Semantic",
+        "arg_id": "ENL0C04CVH2.000157",
+        "value": "CLL0C04CVH2.000004",
+        "arg_ann_id": "T157"
+    },
+    "ATL0C04CVH2.000020": {
+        "id": "ATL0C04CVH2.000020",
+        "type": "ClaimID_Associate",
+        "arg_id": "ENL0C04CVH2.000159",
+        "value": "CLL0C04CVH2.000005",
+        "arg_ann_id": "T159"
+    },
+    "ATL0C04CVH2.000021": {
+        "id": "ATL0C04CVH2.000021",
+        "type": "ClaimID2_Semantic",
+        "arg_id": "ENL0C04CVH2.000161",
+        "value": "CLL0C04CVH2.000005",
+        "arg_ann_id": "T161"
+    },
+    "ATL0C04CVH2.000022": {
+        "id": "ATL0C04CVH2.000022",
+        "type": "ClaimID_Associate",
+        "arg_id": "ENL0C04CVH2.000162",
+        "value": "CLL0C04CVH2.000006",
+        "arg_ann_id": "T162"
+    },
+    "ATL0C04CVH2.000023": {
+        "id": "ATL0C04CVH2.000023",
+        "type": "ClaimID2_Semantic",
+        "arg_id": "ENL0C04CVH2.000163",
+        "value": "CLL0C04CVH2.000006",
+        "arg_ann_id": "T163"
+    },
+    "ATL0C04CVH2.000025": {
+        "id": "ATL0C04CVH2.000025",
+        "type": "ClaimID2_Semantic",
+        "arg_id": "ENL0C04CVH2.000167",
+        "value": "CLL0C04CVH2.000001",
+        "arg_ann_id": "T167"
+    },
+    "ATL0C04CVH2.000024": {
+        "id": "ATL0C04CVH2.000024",
+        "type": "ClaimID_Associate",
+        "arg_id": "ENL0C04CVH2.000166",
+        "value": "CLL0C04CVH2.000001",
+        "arg_ann_id": "T166"
+    },
+    "ATL0C04CVH2.000026": {
+        "id": "ATL0C04CVH2.000026",
+        "type": "ClaimID_Associate",
+        "arg_id": "ENL0C04CVH2.000168",
+        "value": "CLL0C04CVH2.000007",
+        "arg_ann_id": "T168"
+    },
+    "ATL0C04CVH2.000027": {
+        "id": "ATL0C04CVH2.000027",
+        "type": "ClaimID_Semantic",
+        "arg_id": "ENL0C04CVH2.000169",
+        "value": "CLL0C04CVH2.000007",
+        "arg_ann_id": "T169"
+    },
+    "ATL0C04CVH2.000028": {
+        "id": "ATL0C04CVH2.000028",
+        "type": "ClaimID_Associate",
+        "arg_id": "ENL0C04CVH2.000172",
+        "value": "CLL0C04CVH2.000008",
+        "arg_ann_id": "T172"
+    },
+    "ATL0C04CVH2.000029": {
+        "id": "ATL0C04CVH2.000029",
+        "type": "ClaimID_Semantic",
+        "arg_id": "ENL0C04CVH2.000173",
+        "value": "CLL0C04CVH2.000008",
+        "arg_ann_id": "T173"
+    },
+    "ATL0C04CVH2.000030": {
+        "id": "ATL0C04CVH2.000030",
+        "type": "ClaimID_Associate",
+        "arg_id": "ENL0C04CVH2.000175",
+        "value": "CLL0C04CVH2.000009",
+        "arg_ann_id": "T175"
+    },
+    "ATL0C04CVH2.000031": {
+        "id": "ATL0C04CVH2.000031",
+        "type": "ClaimID_Semantic",
+        "arg_id": "ENL0C04CVH2.000176",
+        "value": "CLL0C04CVH2.000009",
+        "arg_ann_id": "T176"
+    },
+    "ATL0C04CVH2.000032": {
+        "id": "ATL0C04CVH2.000032",
+        "type": "ClaimID_Associate",
+        "arg_id": "ENL0C04CVH2.000178",
+        "value": "CLL0C04CVH2.000010",
+        "arg_ann_id": "T178"
+    },
+    "ATL0C04CVH2.000033": {
+        "id": "ATL0C04CVH2.000033",
+        "type": "ClaimID_Semantic",
+        "arg_id": "ENL0C04CVH2.000179",
+        "value": "CLL0C04CVH2.000010",
+        "arg_ann_id": "T179"
+    },
+    "ATL0C04CVH2.000034": {
+        "id": "ATL0C04CVH2.000034",
+        "type": "ClaimID_Associate",
+        "arg_id": "EVL0C04CVH2.000022",
+        "value": "CLL0C04CVH2.000010",
+        "arg_ann_id": "E22"
+    },
+    "ATL0C04CVH2.000035": {
+        "id": "ATL0C04CVH2.000035",
+        "type": "ClaimID_Associate",
+        "arg_id": "EVL0C04CVH2.000023",
+        "value": "CLL0C04CVH2.000010",
+        "arg_ann_id": "E23"
+    },
+    "ATL0C04CVH2.000036": {
+        "id": "ATL0C04CVH2.000036",
+        "type": "ClaimID_Semantic",
+        "arg_id": "ENL0C04CVH2.000183",
+        "value": "CLL0C04CVH2.000010",
+        "arg_ann_id": "T183"
+    },
+    "ATL0C04CVH2.000037": {
+        "id": "ATL0C04CVH2.000037",
+        "type": "ClaimID_Semantic",
+        "arg_id": "ENL0C04CVH2.000184",
+        "value": "CLL0C04CVH2.000010",
+        "arg_ann_id": "T184"
+    },
+    "ATL0C04CVH2.000038": {
+        "id": "ATL0C04CVH2.000038",
+        "type": "ClaimID_Associate",
+        "arg_id": "ENL0C04CVH2.000188",
+        "value": "CLL0C04CVH2.000008",
+        "arg_ann_id": "T188"
+    },
+    "ATL0C04CVH2.000039": {
+        "id": "ATL0C04CVH2.000039",
+        "type": "ClaimID_Semantic",
+        "arg_id": "ENL0C04CVH2.000189",
+        "value": "CLL0C04CVH2.000008",
+        "arg_ann_id": "T189"
+    }
+}

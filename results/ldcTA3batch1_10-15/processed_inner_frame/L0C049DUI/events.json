@@ -1,0 +1,46 @@
+{
+    "EVL0C049DUI.000001": {
+        "id": "EVL0C049DUI.000001",
+        "type": "contact.contact.unspecified",
+        "trigger": {
+            "offsets": [
+                25,
+                31
+            ],
+            "text": "Claims"
+        },
+        "arguments": [
+            {
+                "role_type": "Topic",
+                "general_role_type": "A1-ppt_topic_message",
+                "arg_id": "ENL0C049DUI.000030",
+                "arg_ann_id": "T30",
+                "arg_type_qnode": "EMPTY_NA"
+            }
+        ],
+        "event_ann_id": "E1",
+        "event_type_qnode": "Q11024"
+    },
+    "EVL0C049DUI.000002": {
+        "id": "EVL0C049DUI.000002",
+        "type": "contact.contact.unspecified",
+        "trigger": {
+            "offsets": [
+                119,
+                126
+            ],
+            "text": "claimed"
+        },
+        "arguments": [
+            {
+                "role_type": "Topic",
+                "general_role_type": "A1-ppt_topic_message",
+                "arg_id": "ENL0C049DUI.000032",
+                "arg_ann_id": "T32",
+                "arg_type_qnode": "EMPTY_NA"
+            }
+        ],
+        "event_ann_id": "E2",
+        "event_type_qnode": "Q11024"
+    }
+}

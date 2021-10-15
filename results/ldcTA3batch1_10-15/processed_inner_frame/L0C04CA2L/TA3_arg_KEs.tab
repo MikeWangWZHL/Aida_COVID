@@ -1,0 +1,5 @@
+root_uid	argmention_id	child_uid	textoffset_startchar	textoffset_endchar	text_string	mediamention_signaltype	mediamention_starttime	mediamention_endtime	keyframe_id	mediamention_coordinates	description	type	subtype	subsubtype	qnode_type_id	arg_status	level
+L0C04C67U	ENL0C04CA2L.000026	L0C04CA2L	1327	1329	lab	EMPTY_NA	EMPTY_NA	EMPTY_NA	EMPTY_NA	EMPTY_NA	lab	ORG	Unspecified	Unspecified	Q7239|Q11019|Q215627|Q16334295	EMPTY_NA	EMPTY_NA
+L0C04C67U	ENL0C04CA2L.000028	L0C04CA2L	1390	1396	Chinese	EMPTY_NA	EMPTY_NA	EMPTY_NA	EMPTY_NA	EMPTY_NA	Chinese	GPE	Unspecified	Unspecified	Q7239|Q11019|Q215627|Q16334295	EMPTY_NA	EMPTY_NA
+L0C04C67U	ENL0C04CA2L.000042	L0C04CA2L	2046	2048	lab	EMPTY_NA	EMPTY_NA	EMPTY_NA	EMPTY_NA	EMPTY_NA	lab	ORG	Unspecified	Unspecified	Q7239|Q11019|Q215627|Q16334295	EMPTY_NA	EMPTY_NA
+L0C04C67U	ENL0C04CA2L.000045	L0C04CA2L	2248	2250	lab	EMPTY_NA	EMPTY_NA	EMPTY_NA	EMPTY_NA	EMPTY_NA	lab	FAC	Unspecified	Unspecified	EMPTY_NA	EMPTY_NA	EMPTY_NA

@@ -1,0 +1,622 @@
+{
+    "ENL0C04CA2L.000001": {
+        "id": "ENL0C04CA2L.000001",
+        "type": "PER",
+        "offsets": [
+            35,
+            42
+        ],
+        "text": "Leaders",
+        "arg_ann_id": "T1"
+    },
+    "ENL0C04CA2L.000002": {
+        "id": "ENL0C04CA2L.000002",
+        "type": "PER",
+        "offsets": [
+            121,
+            130
+        ],
+        "text": "Followers",
+        "arg_ann_id": "T2"
+    },
+    "ENL0C04CA2L.000003": {
+        "id": "ENL0C04CA2L.000003",
+        "type": "PER",
+        "offsets": [
+            136,
+            150
+        ],
+        "text": "Giorgia Meloni",
+        "arg_ann_id": "T3"
+    },
+    "ENL0C04CA2L.000004": {
+        "id": "ENL0C04CA2L.000004",
+        "type": "PER",
+        "offsets": [
+            155,
+            169
+        ],
+        "text": "Matteo Salvini",
+        "arg_ann_id": "T4"
+    },
+    "ENL0C04CA2L.000005": {
+        "id": "ENL0C04CA2L.000005",
+        "type": "PER",
+        "offsets": [
+            190,
+            221
+        ],
+        "text": "FacebookGiorgia Melonideveloper",
+        "arg_ann_id": "T5"
+    },
+    "ENL0C04CA2L.000006": {
+        "id": "ENL0C04CA2L.000006",
+        "type": "PER",
+        "offsets": [
+            279,
+            290
+        ],
+        "text": "politicians",
+        "arg_ann_id": "T6"
+    },
+    "ENL0C04CA2L.000007": {
+        "id": "ENL0C04CA2L.000007",
+        "type": "PER",
+        "offsets": [
+            388,
+            397
+        ],
+        "text": "residents",
+        "arg_ann_id": "T7"
+    },
+    "ENL0C04CA2L.000008": {
+        "id": "ENL0C04CA2L.000008",
+        "type": "PER",
+        "offsets": [
+            445,
+            452
+        ],
+        "text": "Salvini",
+        "arg_ann_id": "T8"
+    },
+    "ENL0C04CA2L.000009": {
+        "id": "ENL0C04CA2L.000009",
+        "type": "PER",
+        "offsets": [
+            462,
+            465
+        ],
+        "text": "His",
+        "arg_ann_id": "T9"
+    },
+    "ENL0C04CA2L.000010": {
+        "id": "ENL0C04CA2L.000010",
+        "type": "PER",
+        "offsets": [
+            558,
+            561
+        ],
+        "text": "his",
+        "arg_ann_id": "T10"
+    },
+    "ENL0C04CA2L.000011": {
+        "id": "ENL0C04CA2L.000011",
+        "type": "PER",
+        "offsets": [
+            614,
+            626
+        ],
+        "text": "eurosceptics",
+        "arg_ann_id": "T11"
+    },
+    "ENL0C04CA2L.000012": {
+        "id": "ENL0C04CA2L.000012",
+        "type": "PER",
+        "offsets": [
+            628,
+            635
+        ],
+        "text": "Salvini",
+        "arg_ann_id": "T12"
+    },
+    "ENL0C04CA2L.000013": {
+        "id": "ENL0C04CA2L.000013",
+        "type": "PER",
+        "offsets": [
+            640,
+            646
+        ],
+        "text": "Meloni",
+        "arg_ann_id": "T13"
+    },
+    "ENL0C04CA2L.000014": {
+        "id": "ENL0C04CA2L.000014",
+        "type": "GPE",
+        "offsets": [
+            745,
+            751
+        ],
+        "text": "states",
+        "arg_ann_id": "T14"
+    },
+    "ENL0C04CA2L.000015": {
+        "id": "ENL0C04CA2L.000015",
+        "type": "GPE",
+        "offsets": [
+            786,
+            791
+        ],
+        "text": "their",
+        "arg_ann_id": "T15"
+    },
+    "ENL0C04CA2L.000016": {
+        "id": "ENL0C04CA2L.000016",
+        "type": "PER",
+        "offsets": [
+            904,
+            911
+        ],
+        "text": "Salvini",
+        "arg_ann_id": "T16"
+    },
+    "ENL0C04CA2L.000017": {
+        "id": "ENL0C04CA2L.000017",
+        "type": "PER",
+        "offsets": [
+            916,
+            922
+        ],
+        "text": "Meloni",
+        "arg_ann_id": "T17"
+    },
+    "ENL0C04CA2L.000018": {
+        "id": "ENL0C04CA2L.000018",
+        "type": "PER",
+        "offsets": [
+            968,
+            975
+        ],
+        "text": "leaders",
+        "arg_ann_id": "T18"
+    },
+    "ENL0C04CA2L.000019": {
+        "id": "ENL0C04CA2L.000019",
+        "type": "ORG",
+        "offsets": [
+            1026,
+            1034
+        ],
+        "text": "WhatsApp",
+        "arg_ann_id": "T19"
+    },
+    "ENL0C04CA2L.000020": {
+        "id": "ENL0C04CA2L.000020",
+        "type": "ORG",
+        "offsets": [
+            1035,
+            1041
+        ],
+        "text": "groups",
+        "arg_ann_id": "T20"
+    },
+    "ENL0C04CA2L.000021": {
+        "id": "ENL0C04CA2L.000021",
+        "type": "PER",
+        "offsets": [
+            1059,
+            1064
+        ],
+        "text": "their",
+        "arg_ann_id": "T21"
+    },
+    "ENL0C04CA2L.000022": {
+        "id": "ENL0C04CA2L.000022",
+        "type": "PER",
+        "offsets": [
+            1077,
+            1086
+        ],
+        "text": "followers",
+        "arg_ann_id": "T22"
+    },
+    "ENL0C04CA2L.000023": {
+        "id": "ENL0C04CA2L.000023",
+        "type": "ORG",
+        "offsets": [
+            1090,
+            1098
+        ],
+        "text": "Facebook",
+        "arg_ann_id": "T23"
+    },
+    "ENL0C04CA2L.000024": {
+        "id": "ENL0C04CA2L.000024",
+        "type": "ORG",
+        "offsets": [
+            1103,
+            1110
+        ],
+        "text": "Twitter",
+        "arg_ann_id": "T24"
+    },
+    "ENL0C04CA2L.000025": {
+        "id": "ENL0C04CA2L.000025",
+        "type": "GPE",
+        "offsets": [
+            1206,
+            1213
+        ],
+        "text": "Chinese",
+        "arg_ann_id": "T25"
+    },
+    "ENL0C04CA2L.000026": {
+        "id": "ENL0C04CA2L.000026",
+        "type": "ORG",
+        "offsets": [
+            1327,
+            1330
+        ],
+        "text": "lab",
+        "arg_ann_id": "T26"
+    },
+    "ENL0C04CA2L.000027": {
+        "id": "ENL0C04CA2L.000027",
+        "type": "PER",
+        "offsets": [
+            1349,
+            1356
+        ],
+        "text": "Salvini",
+        "arg_ann_id": "T27"
+    },
+    "ENL0C04CA2L.000028": {
+        "id": "ENL0C04CA2L.000028",
+        "type": "GPE",
+        "offsets": [
+            1390,
+            1397
+        ],
+        "text": "Chinese",
+        "arg_ann_id": "T28"
+    },
+    "ENL0C04CA2L.000029": {
+        "id": "ENL0C04CA2L.000029",
+        "type": "PER",
+        "offsets": [
+            1450,
+            1452
+        ],
+        "text": "WE",
+        "arg_ann_id": "T29"
+    },
+    "ENL0C04CA2L.000030": {
+        "id": "ENL0C04CA2L.000030",
+        "type": "PER",
+        "offsets": [
+            1470,
+            1476
+        ],
+        "text": "Meloni",
+        "arg_ann_id": "T30"
+    },
+    "ENL0C04CA2L.000031": {
+        "id": "ENL0C04CA2L.000031",
+        "type": "PER",
+        "offsets": [
+            1523,
+            1530
+        ],
+        "text": "leaders",
+        "arg_ann_id": "T31"
+    },
+    "ENL0C04CA2L.000032": {
+        "id": "ENL0C04CA2L.000032",
+        "type": "ORG",
+        "offsets": [
+            1546,
+            1556
+        ],
+        "text": "government",
+        "arg_ann_id": "T32"
+    },
+    "ENL0C04CA2L.000033": {
+        "id": "ENL0C04CA2L.000033",
+        "type": "ORG",
+        "offsets": [
+            1580,
+            1590
+        ],
+        "text": "parliament",
+        "arg_ann_id": "T33"
+    },
+    "ENL0C04CA2L.000034": {
+        "id": "ENL0C04CA2L.000034",
+        "type": "GPE",
+        "offsets": [
+            1636,
+            1643
+        ],
+        "text": "Italian",
+        "arg_ann_id": "T34"
+    },
+    "ENL0C04CA2L.000035": {
+        "id": "ENL0C04CA2L.000035",
+        "type": "ORG",
+        "offsets": [
+            1694,
+            1701
+        ],
+        "text": "Il Post",
+        "arg_ann_id": "T35"
+    },
+    "ENL0C04CA2L.000036": {
+        "id": "ENL0C04CA2L.000036",
+        "type": "ORG",
+        "offsets": [
+            1706,
+            1719
+        ],
+        "text": "La Repubblica",
+        "arg_ann_id": "T36"
+    },
+    "ENL0C04CA2L.000037": {
+        "id": "ENL0C04CA2L.000037",
+        "type": "PER",
+        "offsets": [
+            1785,
+            1793
+        ],
+        "text": "director",
+        "arg_ann_id": "T37"
+    },
+    "ENL0C04CA2L.000038": {
+        "id": "ENL0C04CA2L.000038",
+        "type": "ORG",
+        "offsets": [
+            1801,
+            1834
+        ],
+        "text": "Italian National Research Council",
+        "arg_ann_id": "T38"
+    },
+    "ENL0C04CA2L.000039": {
+        "id": "ENL0C04CA2L.000039",
+        "type": "ORG",
+        "offsets": [
+            1836,
+            1839
+        ],
+        "text": "CNR",
+        "arg_ann_id": "T39"
+    },
+    "ENL0C04CA2L.000040": {
+        "id": "ENL0C04CA2L.000040",
+        "type": "ORG",
+        "offsets": [
+            1846,
+            1859
+        ],
+        "text": "La Repubblica",
+        "arg_ann_id": "T40"
+    },
+    "ENL0C04CA2L.000041": {
+        "id": "ENL0C04CA2L.000041",
+        "type": "GPE",
+        "offsets": [
+            2038,
+            2045
+        ],
+        "text": "Chinese",
+        "arg_ann_id": "T41"
+    },
+    "ENL0C04CA2L.000042": {
+        "id": "ENL0C04CA2L.000042",
+        "type": "ORG",
+        "offsets": [
+            2046,
+            2049
+        ],
+        "text": "lab",
+        "arg_ann_id": "T42"
+    },
+    "ENL0C04CA2L.000043": {
+        "id": "ENL0C04CA2L.000043",
+        "type": "ORG",
+        "offsets": [
+            2108,
+            2114
+        ],
+        "text": "Nature",
+        "arg_ann_id": "T43"
+    },
+    "ENL0C04CA2L.000044": {
+        "id": "ENL0C04CA2L.000044",
+        "type": "ORG",
+        "offsets": [
+            2116,
+            2121
+        ],
+        "text": "which",
+        "arg_ann_id": "T44"
+    },
+    "ENL0C04CA2L.000045": {
+        "id": "ENL0C04CA2L.000045",
+        "type": "FAC",
+        "offsets": [
+            2248,
+            2251
+        ],
+        "text": "lab",
+        "arg_ann_id": "T45"
+    },
+    "ENL0C04CA2L.000046": {
+        "id": "ENL0C04CA2L.000046",
+        "type": "Claim_Sentence",
+        "offsets": [
+            1112,
+            1331
+        ],
+        "text": "The discredited and unsubstantiated theory claims that a news programme aired in 2015 about a Chinese lab\u2019s experiments and research on other coronaviruses was proof that the novel virus had originated in that same lab.",
+        "arg_ann_id": "T46"
+    },
+    "ENL0C04CA2L.000047": {
+        "id": "ENL0C04CA2L.000047",
+        "type": "Claim_Boundary",
+        "offsets": [
+            1112,
+            1331
+        ],
+        "text": "The discredited and unsubstantiated theory claims that a news programme aired in 2015 about a Chinese lab\u2019s experiments and research on other coronaviruses was proof that the novel virus had originated in that same lab.",
+        "arg_ann_id": "T47"
+    },
+    "ENL0C04CA2L.000048": {
+        "id": "ENL0C04CA2L.000048",
+        "type": "Claim_Sentence",
+        "offsets": [
+            1349,
+            1447
+        ],
+        "text": "Salvini tweeted, in all caps, \"2015, the Chinese created a supercoronavirus with bats and mice!!!\"",
+        "arg_ann_id": "T48"
+    },
+    "ENL0C04CA2L.000049": {
+        "id": "ENL0C04CA2L.000049",
+        "type": "Claim_Boundary",
+        "offsets": [
+            1349,
+            1447
+        ],
+        "text": "Salvini tweeted, in all caps, \"2015, the Chinese created a supercoronavirus with bats and mice!!!\"",
+        "arg_ann_id": "T49"
+    },
+    "ENL0C04CA2L.000050": {
+        "id": "ENL0C04CA2L.000050",
+        "type": "Claim_Sentence",
+        "offsets": [
+            1783,
+            1967
+        ],
+        "text": "A director at the Italian National Research Council (CNR) told La Repubblica: \"The current virus does not originate from the first version of Sars, and not least did it come from mice. Therefore it [COVID-19] absolutely cannot be the virus created in the Chinese lab that is discussed in the [2015] programme.\"",
+        "arg_ann_id": "T50"
+    },
+    "ENL0C04CA2L.000051": {
+        "id": "ENL0C04CA2L.000051",
+        "type": "Claim_Boundary",
+        "offsets": [
+            1783,
+            1967
+        ],
+        "text": "A director at the Italian National Research Council (CNR) told La Repubblica: \"The current virus does not originate from the first version of Sars, and not least did it come from mice. Therefore it [COVID-19] absolutely cannot be the virus created in the Chinese lab that is discussed in the [2015] programme.\"",
+        "arg_ann_id": "T51"
+    },
+    "ENL0C04CA2L.000052": {
+        "id": "ENL0C04CA2L.000052",
+        "type": "Claim_Sentence",
+        "offsets": [
+            2095,
+            2251
+        ],
+        "text": "The magazine Nature, which published the 2015 study on which the TV programme was based, has also said that the novel coronavirus did not originate in a lab",
+        "arg_ann_id": "T52"
+    },
+    "ENL0C04CA2L.000053": {
+        "id": "ENL0C04CA2L.000053",
+        "type": "Claim_Boundary",
+        "offsets": [
+            2095,
+            2251
+        ],
+        "text": "The magazine Nature, which published the 2015 study on which the TV programme was based, has also said that the novel coronavirus did not originate in a lab",
+        "arg_ann_id": "T53"
+    },
+    "ENL0C04CA2L.000054": {
+        "id": "ENL0C04CA2L.000054",
+        "type": "artifactexistence_creation_unspecified",
+        "offsets": [
+            1303,
+            1313
+        ],
+        "text": "originated",
+        "arg_ann_id": "T54"
+    },
+    "ENL0C04CA2L.000055": {
+        "id": "ENL0C04CA2L.000055",
+        "type": "artifactexistence_creation_unspecified",
+        "offsets": [
+            1398,
+            1405
+        ],
+        "text": "created",
+        "arg_ann_id": "T55"
+    },
+    "ENL0C04CA2L.000056": {
+        "id": "ENL0C04CA2L.000056",
+        "type": "MHI",
+        "offsets": [
+            1408,
+            1424
+        ],
+        "text": "supercoronavirus",
+        "arg_ann_id": "T56"
+    },
+    "ENL0C04CA2L.000057": {
+        "id": "ENL0C04CA2L.000057",
+        "type": "artifactexistence_creation_unspecified",
+        "offsets": [
+            1889,
+            1898
+        ],
+        "text": "originate",
+        "arg_ann_id": "T57"
+    },
+    "ENL0C04CA2L.000058": {
+        "id": "ENL0C04CA2L.000058",
+        "type": "MHI",
+        "offsets": [
+            1874,
+            1879
+        ],
+        "text": "virus",
+        "arg_ann_id": "T58"
+    },
+    "ENL0C04CA2L.000059": {
+        "id": "ENL0C04CA2L.000059",
+        "type": "MHI",
+        "offsets": [
+            1925,
+            1929
+        ],
+        "text": "Sars",
+        "arg_ann_id": "T59"
+    },
+    "ENL0C04CA2L.000060": {
+        "id": "ENL0C04CA2L.000060",
+        "type": "artifactexistence_creation_unspecified",
+        "offsets": [
+            2023,
+            2030
+        ],
+        "text": "created",
+        "arg_ann_id": "T60"
+    },
+    "ENL0C04CA2L.000061": {
+        "id": "ENL0C04CA2L.000061",
+        "type": "artifactexistence_creation_unspecified",
+        "offsets": [
+            2233,
+            2242
+        ],
+        "text": "originate",
+        "arg_ann_id": "T61"
+    },
+    "ENL0C04CA2L.000062": {
+        "id": "ENL0C04CA2L.000062",
+        "type": "MHI",
+        "offsets": [
+            2213,
+            2224
+        ],
+        "text": "coronavirus",
+        "arg_ann_id": "T62"
+    }
+}

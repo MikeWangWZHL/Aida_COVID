@@ -1,0 +1,68 @@
+{
+    "REL0C049DR3.000001": {
+        "id": "REL0C049DR3.000001",
+        "type": "GeneralAffiliation.Sponsorship.Unspecified",
+        "args": {
+            "arg1": {
+                "arg1_name": "Arg1",
+                "arg_id": "EVL0C049DR3.000002",
+                "arg_ann_id": "E2",
+                "arg_type_qnode": "EMPTY_NA",
+                "arg_general_role_type": "EMPTY_NA"
+            },
+            "arg2": {
+                "arg2_name": "Arg2",
+                "arg_id": "ENL0C049DR3.000007",
+                "arg_ann_id": "T7",
+                "arg_type_qnode": "EMPTY_NA",
+                "arg_general_role_type": "EMPTY_NA"
+            }
+        },
+        "relation_ann_id": "R1",
+        "relation_type_qnode": "EMPTY_NA"
+    },
+    "REL0C049DR3.000002": {
+        "id": "REL0C049DR3.000002",
+        "type": "PartWhole.Subsidiary.OrganizationSubsidiary",
+        "args": {
+            "arg1": {
+                "arg1_name": "Arg1",
+                "arg_id": "ENL0C049DR3.000053",
+                "arg_ann_id": "T53",
+                "arg_type_qnode": "EMPTY_NA",
+                "arg_general_role_type": "EMPTY_NA"
+            },
+            "arg2": {
+                "arg2_name": "Arg2",
+                "arg_id": "ENL0C049DR3.000051",
+                "arg_ann_id": "T51",
+                "arg_type_qnode": "EMPTY_NA",
+                "arg_general_role_type": "EMPTY_NA"
+            }
+        },
+        "relation_ann_id": "R2",
+        "relation_type_qnode": "EMPTY_NA"
+    },
+    "REL0C049DR3.000003": {
+        "id": "REL0C049DR3.000003",
+        "type": "Time.Order",
+        "args": {
+            "arg1": {
+                "arg1_name": "Before",
+                "arg_id": "EVL0C049DR3.000001",
+                "arg_ann_id": "E1",
+                "arg_type_qnode": "EMPTY_NA",
+                "arg_general_role_type": "EMPTY_NA"
+            },
+            "arg2": {
+                "arg2_name": "After",
+                "arg_id": "EVL0C049DR3.000002",
+                "arg_ann_id": "E2",
+                "arg_type_qnode": "EMPTY_NA",
+                "arg_general_role_type": "EMPTY_NA"
+            }
+        },
+        "relation_ann_id": "R3",
+        "relation_type_qnode": "EMPTY_NA"
+    }
+}

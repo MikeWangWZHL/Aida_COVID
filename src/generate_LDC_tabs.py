@@ -5,7 +5,7 @@ from collections import defaultdict
 from ltf_util import LTF_util
 from glob import glob
 from shutil import copyfile
-from fuzzy_match import algorithims
+# from fuzzy_match import algorithims
 import re
 from ltf_util import LTF_util
 
@@ -14,7 +14,7 @@ NA_FILLER = 'EMPTY_NA'
 
 def generate_LDC_tabs_TA3(tab_name, child_id, entities, events, relations, output_dir = '.', root_id = NA_FILLER, ltf_dir = None):
     def write_lines(lines):
-        with open(os.path.join(output_dir,tab_name), 'w') as out:
+        with open(os.path.join(output_dir,tab_name), 'w', encoding = 'utf-8') as out:
             for l in lines:
                 out.write(l)
         print(f'write tab file to {os.path.join(output_dir,tab_name)}')
@@ -118,7 +118,7 @@ def generate_LDC_tabs_TA3(tab_name, child_id, entities, events, relations, outpu
                 off_start = arg_ev['trigger']['offsets'][0]
                 off_end = arg_ev['trigger']['offsets'][1]-1
                 text_string = arg_ev['trigger']['text']
-                print(arg_ev['type'])
+                # print(arg_ev['type'])
                 type_, subtype, subsubtype = arg_ev['type'].split('.')
             
             elif arg_ann_id in entities:

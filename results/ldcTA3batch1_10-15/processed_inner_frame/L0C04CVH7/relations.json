@@ -1,0 +1,24 @@
+{
+    "REL0C04CVH7.000001": {
+        "id": "REL0C04CVH7.000001",
+        "type": "OrganizationAffiliation.Leadership.Government",
+        "args": {
+            "arg1": {
+                "arg1_name": "Arg1",
+                "arg_id": "ENL0C04CVH7.000021",
+                "arg_ann_id": "T21",
+                "arg_type_qnode": "EMPTY_NA",
+                "arg_general_role_type": "EMPTY_NA"
+            },
+            "arg2": {
+                "arg2_name": "Arg2",
+                "arg_id": "ENL0C04CVH7.000020",
+                "arg_ann_id": "T20",
+                "arg_type_qnode": "EMPTY_NA",
+                "arg_general_role_type": "EMPTY_NA"
+            }
+        },
+        "relation_ann_id": "R1",
+        "relation_type_qnode": "EMPTY_NA"
+    }
+}

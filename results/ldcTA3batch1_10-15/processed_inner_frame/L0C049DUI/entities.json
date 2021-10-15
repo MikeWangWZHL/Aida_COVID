@@ -1,0 +1,322 @@
+{
+    "ENL0C049DUI.000001": {
+        "id": "ENL0C049DUI.000001",
+        "type": "PER",
+        "offsets": [
+            1,
+            16
+        ],
+        "text": "Jeremy Corbyn\u2019s",
+        "arg_ann_id": "T1"
+    },
+    "ENL0C049DUI.000002": {
+        "id": "ENL0C049DUI.000002",
+        "type": "PER",
+        "offsets": [
+            17,
+            24
+        ],
+        "text": "Brother",
+        "arg_ann_id": "T2"
+    },
+    "ENL0C049DUI.000003": {
+        "id": "ENL0C049DUI.000003",
+        "type": "PER",
+        "offsets": [
+            32,
+            42
+        ],
+        "text": "Bill Gates",
+        "arg_ann_id": "T3"
+    },
+    "ENL0C049DUI.000004": {
+        "id": "ENL0C049DUI.000004",
+        "type": "PER",
+        "offsets": [
+            47,
+            59
+        ],
+        "text": "George Soros",
+        "arg_ann_id": "T4"
+    },
+    "ENL0C049DUI.000005": {
+        "id": "ENL0C049DUI.000005",
+        "type": "PER",
+        "offsets": [
+            85,
+            100
+        ],
+        "text": "Jeremy Corbyn\u2019s",
+        "arg_ann_id": "T5"
+    },
+    "ENL0C049DUI.000006": {
+        "id": "ENL0C049DUI.000006",
+        "type": "PER",
+        "offsets": [
+            101,
+            108
+        ],
+        "text": "brother",
+        "arg_ann_id": "T6"
+    },
+    "ENL0C049DUI.000007": {
+        "id": "ENL0C049DUI.000007",
+        "type": "PER",
+        "offsets": [
+            109,
+            114
+        ],
+        "text": "Piers",
+        "arg_ann_id": "T7"
+    },
+    "ENL0C049DUI.000008": {
+        "id": "ENL0C049DUI.000008",
+        "type": "PER",
+        "offsets": [
+            132,
+            142
+        ],
+        "text": "Bill Gates",
+        "arg_ann_id": "T8"
+    },
+    "ENL0C049DUI.000009": {
+        "id": "ENL0C049DUI.000009",
+        "type": "PER",
+        "offsets": [
+            147,
+            159
+        ],
+        "text": "George Soros",
+        "arg_ann_id": "T9"
+    },
+    "ENL0C049DUI.000010": {
+        "id": "ENL0C049DUI.000010",
+        "type": "PER",
+        "offsets": [
+            210,
+            219
+        ],
+        "text": "followers",
+        "arg_ann_id": "T10"
+    },
+    "ENL0C049DUI.000011": {
+        "id": "ENL0C049DUI.000011",
+        "type": "ORG",
+        "offsets": [
+            223,
+            230
+        ],
+        "text": "Twitter",
+        "arg_ann_id": "T11"
+    },
+    "ENL0C049DUI.000012": {
+        "id": "ENL0C049DUI.000012",
+        "type": "PER",
+        "offsets": [
+            282,
+            292
+        ],
+        "text": "population",
+        "arg_ann_id": "T12"
+    },
+    "ENL0C049DUI.000013": {
+        "id": "ENL0C049DUI.000013",
+        "type": "PER",
+        "offsets": [
+            321,
+            323
+        ],
+        "text": "He",
+        "arg_ann_id": "T13"
+    },
+    "ENL0C049DUI.000014": {
+        "id": "ENL0C049DUI.000014",
+        "type": "PER",
+        "offsets": [
+            340,
+            348
+        ],
+        "text": "PANDEMIC",
+        "arg_ann_id": "T14"
+    },
+    "ENL0C049DUI.000015": {
+        "id": "ENL0C049DUI.000015",
+        "type": "ORG",
+        "offsets": [
+            460,
+            463
+        ],
+        "text": "AIM",
+        "arg_ann_id": "T15"
+    },
+    "ENL0C049DUI.000016": {
+        "id": "ENL0C049DUI.000016",
+        "type": "GPE",
+        "offsets": [
+            524,
+            529
+        ],
+        "text": "THEIR",
+        "arg_ann_id": "T16"
+    },
+    "ENL0C049DUI.000017": {
+        "id": "ENL0C049DUI.000017",
+        "type": "PER",
+        "offsets": [
+            602,
+            610
+        ],
+        "text": "PANDEMIC",
+        "arg_ann_id": "T17"
+    },
+    "ENL0C049DUI.000018": {
+        "id": "ENL0C049DUI.000018",
+        "type": "ORG",
+        "offsets": [
+            718,
+            721
+        ],
+        "text": "AIM",
+        "arg_ann_id": "T18"
+    },
+    "ENL0C049DUI.000019": {
+        "id": "ENL0C049DUI.000019",
+        "type": "GPE",
+        "offsets": [
+            782,
+            787
+        ],
+        "text": "THEIR",
+        "arg_ann_id": "T19"
+    },
+    "ENL0C049DUI.000020": {
+        "id": "ENL0C049DUI.000020",
+        "type": "PER",
+        "offsets": [
+            874,
+            886
+        ],
+        "text": "Piers Corbyn",
+        "arg_ann_id": "T20"
+    },
+    "ENL0C049DUI.000021": {
+        "id": "ENL0C049DUI.000021",
+        "type": "Claim_Boundary",
+        "offsets": [
+            132,
+            186
+        ],
+        "text": "Bill Gates and George Soros are behind the coronavirus",
+        "arg_ann_id": "T21"
+    },
+    "ENL0C049DUI.000022": {
+        "id": "ENL0C049DUI.000022",
+        "type": "Claim_Sentence",
+        "offsets": [
+            86,
+            186
+        ],
+        "text": "eremy Corbyn\u2019s brother Piers has claimed that Bill Gates and George Soros are behind the coronavirus",
+        "arg_ann_id": "T22"
+    },
+    "ENL0C049DUI.000023": {
+        "id": "ENL0C049DUI.000023",
+        "type": "Claim_Boundary",
+        "offsets": [
+            132,
+            186
+        ],
+        "text": "Bill Gates and George Soros are behind the coronavirus",
+        "arg_ann_id": "T23"
+    },
+    "ENL0C049DUI.000024": {
+        "id": "ENL0C049DUI.000024",
+        "type": "Claim_Sentence",
+        "offsets": [
+            85,
+            186
+        ],
+        "text": "Jeremy Corbyn\u2019s brother Piers has claimed that Bill Gates and George Soros are behind the coronavirus",
+        "arg_ann_id": "T24"
+    },
+    "ENL0C049DUI.000025": {
+        "id": "ENL0C049DUI.000025",
+        "type": "Claim_Boundary",
+        "offsets": [
+            32,
+            82
+        ],
+        "text": "Bill Gates and George Soros Are Behind Coronavirus",
+        "arg_ann_id": "T25"
+    },
+    "ENL0C049DUI.000026": {
+        "id": "ENL0C049DUI.000026",
+        "type": "Claim_Boundary",
+        "offsets": [
+            32,
+            82
+        ],
+        "text": "Bill Gates and George Soros Are Behind Coronavirus",
+        "arg_ann_id": "T26"
+    },
+    "ENL0C049DUI.000027": {
+        "id": "ENL0C049DUI.000027",
+        "type": "Claim_Sentence",
+        "offsets": [
+            1,
+            82
+        ],
+        "text": "Jeremy Corbyn\u2019s Brother Claims Bill Gates and George Soros Are Behind Coronavirus",
+        "arg_ann_id": "T27"
+    },
+    "ENL0C049DUI.000028": {
+        "id": "ENL0C049DUI.000028",
+        "type": "Claim_Sentence",
+        "offsets": [
+            1,
+            82
+        ],
+        "text": "Jeremy Corbyn\u2019s Brother Claims Bill Gates and George Soros Are Behind Coronavirus",
+        "arg_ann_id": "T28"
+    },
+    "ENL0C049DUI.000029": {
+        "id": "ENL0C049DUI.000029",
+        "type": "contact_contact_unspecified",
+        "offsets": [
+            25,
+            31
+        ],
+        "text": "Claims",
+        "arg_ann_id": "T29"
+    },
+    "ENL0C049DUI.000030": {
+        "id": "ENL0C049DUI.000030",
+        "type": "MHI",
+        "offsets": [
+            71,
+            82
+        ],
+        "text": "Coronavirus",
+        "arg_ann_id": "T30"
+    },
+    "ENL0C049DUI.000031": {
+        "id": "ENL0C049DUI.000031",
+        "type": "contact_contact_unspecified",
+        "offsets": [
+            119,
+            126
+        ],
+        "text": "claimed",
+        "arg_ann_id": "T31"
+    },
+    "ENL0C049DUI.000032": {
+        "id": "ENL0C049DUI.000032",
+        "type": "MHI",
+        "offsets": [
+            175,
+            186
+        ],
+        "text": "coronavirus",
+        "arg_ann_id": "T32"
+    }
+}

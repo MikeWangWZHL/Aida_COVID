@@ -5,13 +5,13 @@ from collections import defaultdict
 from ltf_util import LTF_util
 from glob import glob
 from shutil import copyfile
-from fuzzy_match import algorithims
+# from fuzzy_match import algorithims
 import re
 from generate_LDC_tabs import generate_LDC_tabs_TA3
 
 """Macro"""
 NA_FILLER = 'EMPTY_NA'
-ONT_MAPPING = json.load(open('/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/ontology/event_mapping_manual_7-21.json'))
+ONT_MAPPING = json.load(open('../ontology/event_mapping_manual_7-21.json'))
 
 """helper functions"""
 def get_event_type_qnode(event_type, xpo_ontology):
@@ -251,7 +251,7 @@ def get_relations(doc_id, lines, entities, events, relation_ontology = None):
 
 def load_ann(ann_path):
     lines = []
-    with open(ann_path) as f:
+    with open(ann_path, encoding="utf-8") as f:
         for line in f:
             lines.append(line)
     return lines
@@ -341,12 +341,12 @@ def get_child_parent_dict(parent_child_tab):
 def main():
 
     '''config'''
-    annotated_innerframe_dir_path = '/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/results/aida_hackathon_hw_9-21/annotated_inner_frame'
-    ltf_dir_path = '/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/brat/Aida_hackathon/aida_hackathon_hw_9-21/ltf/en'
-    out_dir_path = '/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/results/aida_hackathon_hw_9-21/processed_inner_frame'
+    annotated_innerframe_dir_path = '../results/ldcTA3batch1_10-15/annotated_inner_frame'
+    ltf_dir_path = '../brat/Aida_TA3_First_batch/ltf/en'
+    out_dir_path = '../results/ldcTA3batch1_10-15/processed_inner_frame'
     
-    xpo_ontology_json = '/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/ontology/json/kairos_event_ontology_xpo-7_19.json'
-    parent_child_tab_path = '/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/src/parent_child_tabs/LDC2021E11_AIDA_Phase_3_Practice_Topic_Source_Data_V2.0.tab'
+    xpo_ontology_json = '../ontology/json/kairos_event_ontology_xpo-7_19.json'
+    parent_child_tab_path = './parent_child_tabs/LDC2021E11_AIDA_Phase_3_Practice_Topic_Source_Data_V2.0.tab'
     
     '''load ontology'''
     xpo_ontology = json.load(open(xpo_ontology_json))

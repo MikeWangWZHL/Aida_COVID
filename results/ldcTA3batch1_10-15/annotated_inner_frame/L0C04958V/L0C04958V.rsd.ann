@@ -1,0 +1,396 @@
+T1	GPE 14 16	US
+T2	GPE 21 26	China
+T3	MHI 149 160	coronavirus
+T4	MHI 225 232	disease
+T5	GPE 329 336	Chinese
+T6	WEA 356 363	weapons
+T7	GPE 404 420	Canadian-Chinese
+T8	PER 421 424	spy
+T9	PER 425 429	team
+T10	GPE 454 459	Wuhan
+T11	ORG 549 557	Facebook
+T12	ORG 567 574	Twitter
+T13	GPE 623 630	Russian
+T14	GPE 631 636	state
+T15	ORG 766 776	government
+T16	PER 777 786	officials
+T17	PER 795 806	politicians
+T20	GPE 828 833	China
+T21	GPE 842 844	US
+T22	PER 858 869	Zhao Lijian
+T23	GPE 873 880	Chinese
+T24	ORG 889 897	ministry
+T25	PER 898 907	spokesman
+T26	GPE 1006 1008	US
+T27	PER 1024 1026	he
+T28	GPE 1071 1073	US
+T29	ORG 1074 1078	army
+T30	ORG 1079 1083	that
+T31	GPE 1105 1110	Wuhan
+T32	PER 1126 1128	he
+T33	ORG 1163 1178	Global Research
+T34	GPE 1240 1242	US
+T35	PER 1255 1260	users
+T36	GPE 1320 1327	Chinese
+T37	ORG 1328 1333	daily
+T38	ORG 1338 1350	Global Times
+T39	PER 1399 1407	diplomat
+T40	PER 1453 1456	his
+T41	GPE 1510 1517	Chinese
+T42	PER 1518 1524	public
+T43	ORG 1531 1536	paper
+T44	GPE 1601 1608	Chinese
+T45	ORG 1609 1618	embassies
+T46	PER 1636 1641	users
+T47	LOC 1655 1660	parts
+T48	LOC 1668 1673	world
+T49	ORG 1778 1781	BBC
+T50	GPE 1795 1800	China
+T51	PER 1801 1811	specialist
+T52	PER 1812 1823	Kerry Allen
+T53	PER 1843 1847	Zhao
+T54	PER 1880 1886	figure
+T55	PER 1920 1922	he
+T56	GPE 1963 1968	China
+T57	PER 2027 2037	leadership
+T58	GPE 2059 2065	Canada
+T59	ORG 2067 2082	Global Research
+T60	ORG 2105 2141	Center for Research on Globalization
+T61	ORG 2156 2166	PolitiFact
+T62	ORG 2214 2229	Global Research
+T63	PER 2365 2369	each
+T64	PER 2380 2383	one
+T65	PER 2387 2389	us
+T66	GPE 2479 2481	US
+T67	PER 2508 2519	Lijian Zhao
+T68	ORG 2555 2558	BBC
+T69	ORG 2635 2642	Twitter
+T70	PER 2659 2663	Zhao
+T71	PER 2694 2705	contributor
+T72	PER 2706 2720	Larry Romanoff
+T73	PER 2722 2725	who
+T74	PER 2757 2760	his
+T75	GPE 2827 2832	China
+T76	GPE 2843 2850	Chinese
+T77	PER 2902 2904	he
+T78	GPE 2947 2952	China
+T79	GPE 2963 2968	place
+T80	PER 3006 3010	they
+T81	GPE 3063 3068	Wuhan
+T82	PER 3126 3134	Romanoff
+T83	GPE 3152 3160	Japanese
+T84	GPE 3165 3174	Taiwanese
+T85	PER 3175 3185	scientists
+T86	GPE 3257 3259	US
+T87	GPE 3320 3328	Japanese
+T88	GPE 3372 3381	Taiwanese
+T89	ORG 3382 3384	TV
+T90	ORG 3450 3455	party
+T91	PER 3456 3459	who
+T92	PER 3463 3471	Romanoff
+T93	PER 3500 3510	virologist
+T94	GPE 3554 3556	UK
+T95	ORG 3557 3567	government
+T96	LOC 3569 3574	World
+T97	PER 3575 3582	leaders
+T98	PER 3618 3626	Romanoff
+T99	GPE 3669 3671	US
+T100	ORG 3672 3680	military
+T101	ORG 3686 3696	laboratory
+T102	FAC 3700 3712	Fort Detrick
+T103	GPE 3714 3722	Maryland
+T104	PER 3772 3774	He
+T105	FAC 3826 3834	facility
+T106	ORG 3950 3964	New York Times
+T107	FAC 3991 3999	facility
+T108	ORG 4038 4041	its
+T109	PER 4058 4069	spokeswoman
+T110	FAC 4130 4140	laboratory
+T111	PER 4168 4176	Romanoff
+T112	PER 4188 4195	himself
+T113	PER 4221 4231	consultant
+T114	PER 4236 4247	businessman
+T115	PER 4265 4274	professor
+T116	ORG 4289 4305	Fudan University
+T117	PER 4371 4378	classes
+T118	ORG 4399 4418	Wall Street Journal
+T119	PER 4420 4429	officials
+T120	PER 4493 4501	Romanoff
+T121	ORG 4504 4512	BBC News
+T122	ORG 4519 4535	Fudan University
+T123	PER 4558 4566	Romanoff
+T124	ORG 4591 4593	it
+T125	PER 4608 4617	professor
+T126	ORG 4649 4662	Reality Check
+T127	PER 4693 4704	politicians
+T128	PER 4718 4729	contributor
+T129	ORG 4733 4748	Global Research
+T130	PER 4758 4761	his
+T131	GPE 4798 4800	US
+T132	GPE 4819 4824	China
+T133	PER 4856 4858	he
+T134	FAC 4878 4894	Tiananmen Square
+T135	PER 4895 4902	student
+T136	PER 5001 5003	he
+T137	PER 5111 5118	peoples
+T138	ORG 5161 5169	BBC News
+T139	PER 5184 5192	Romanoff
+T140	GPE 5287 5294	Chinese
+T141	ORG 5295 5305	government
+T142	ORG 5310 5315	media
+T143	GPE 5326 5328	US
+T144	GPE 5391 5393	US
+T145	PER 5394 5403	President
+T146	PER 5404 5416	Donald Trump
+T147	PER 5417 5420	who
+T148	GPE 5448 5455	Chinese
+T149	PER 5468 5477	Secretary
+T150	ORG 5481 5486	State
+T151	PER 5487 5498	Mike Pompeo
+T152	GPE 5513 5518	China
+T153	PER 5553 5562	President
+T154	PER 5563 5568	Trump
+T155	PER 5593 5595	he
+T156	ORG 5630 5655	World Health Organization
+T157	ORG 5657 5660	WHO
+T158	ORG 5672 5674	it
+T159	PER 5736 5762	Tedros Adhanom Ghebreyesus
+T160	ORG 5810 5812	UN
+T161	ORG 5813 5819	agency
+T162	GPE 5838 5840	US
+T163	PER 5841 5852	politicians
+T164	PER 5857 5869	commentators
+T165	ORG 5934 5942	Fox News
+T166	PER 5953 5957	host
+T167	PER 5958 5972	Tucker Carlson
+T168	FAC 6061 6064	lab
+T169	GPE 6068 6073	Wuhan
+T170	ORG 6081 6091	Republican
+T171	PER 6092 6100	senators
+T172	PER 6101 6111	Tom Cotton
+T173	PER 6116 6124	Ted Cruz
+T174	PER 6130 6134	both
+T175	GPE 6245 6252	Chinese
+T176	PER 6253 6264	researchers
+T177	PER 6267 6277	Botao Xiao
+T178	PER 6282 6290	Lei Xiao
+T179	ORG 6308 6344	South China University of Technology
+T180	FAC 6452 6462	laboratory
+T181	GPE 6466 6471	Wuhan
+T182	PER 6475 6487	Getty Images
+T183	PER 6489 6498	President
+T184	PER 6499 6504	Trump
+T185	ORG 6521 6524	WHO
+T186	PER 6559 6563	Xiao
+T187	ORG 6583 6602	Wall Street Journal
+T188	PER 6608 6610	he
+T189	ORG 6785 6804	Wall Street Journal
+T190	PER 6812 6815	him
+T191	ORG 6832 6847	Washington Post
+T192	PER 6887 6896	diplomats
+T193	GPE 6906 6908	US
+T194	ORG 6909 6916	embassy
+T195	FAC 6944 6971	Wuhan Institute of Virology
+T196	GPE 6991 7001	Washington
+T197	FAC 7034 7037	lab
+T198	FAC 7039 7044	which
+T199	PER 7104 7119	Jeremy Konyndyk
+T200	PER 7121 7124	who
+T201	GPE 7133 7135	US
+T202	FAC 7232 7235	lab
+T203	FAC 7274 7277	lab
+T204	ORG 7326 7329	BBC
+T205	LOC 7415 7420	world
+T206	PER 7422 7425	You
+T207	ORG 7437 7440	BBC
+T208	ORG 7456 7463	Twitter
+T209	disaster_diseaseoutbreak_unspecified 161 169	outbreak
+E1	disaster_diseaseoutbreak_unspecified:T209 Disease:T3
+T210	contact_contact_unspecified 466 471	claim
+E2	contact_contact_unspecified:T210 
+T211	Claim_Boundary 1067 1110	the US army that brought the virus to Wuhan
+A2	ClaimID_Semantic T211 CLL0C04958V.000004
+T212	contact_mediastatement_broadcast 1027 1031	said
+E3	contact_mediastatement_broadcast:T212 Communicator:T22
+T213	Claim_Sentence 1011 1109	On 12 March, he said in a tweet that it might have been the US army that brought the virus to Wuha
+A4	ClaimID_Semantic T213 CLL0C04958V.000004
+T214	PER 519 538	numerous conspiracy
+T215	INF 33 52	conspiracy theories
+T216	INF 171 190	conspiracy theories
+T219	disaster_diseaseoutbreak_unspecified 662 670	outbreak
+E4	disaster_diseaseoutbreak_unspecified:T219 
+T220	INF 692 700	theories
+T221	ABS 1155 1162	website
+T222	INF 1140 1147	article
+T223	contact_contact_broadcast 924 932	promoted
+E5	contact_contact_broadcast:T223 Communicator:T22
+T224	PER 1544 1553	Mr Zhao's
+T225	INF 2648 2655	article
+T226	contact_contact_broadcast 2664 2671	tweeted
+E6	contact_contact_broadcast:T226 Topic:T225 Communicator:T70
+T227	MHI 2800 2805	virus
+T228	Claim_Sentence 2644 2833	The article Mr Zhao tweeted was penned by regular contributor Larry Romanoff, who reiterates the conclusion from his earlier piece - now deleted - that the virus did not originate in China.
+T230	INF 2864 2872	articles
+T231	disaster_diseaseoutbreak_unspecified 2979 2987	outbreak
+E7	disaster_diseaseoutbreak_unspecified:T231 
+T232	contact_contact_broadcast 3016 3023	suggest
+E8	contact_contact_broadcast:T232 Communicator:T80 Topic:T233
+T233	MHI 3109 3120	coronavirus
+T234	contact_contact_broadcast 3140 3146	claims
+E9	contact_contact_broadcast:T234 Communicator:T82 Topic:T235 Topic2:T86
+T235	MHI 3216 3227	coronavirus
+A7	ClaimID_Semantic T235 CLL0C04958V.000011
+T236	INF 3271 3281	conclusion
+T237	ORG 3390 3402	pharmacology
+T238	PER 3403 3413	professor-
+T239	contact_contact_broadcast 3632 3638	claims
+E10	contact_contact_broadcast:T239 Communicator:T98 Topic:T99 Topic2:T100 Topic3:T240
+T240	MHI 3765 3771	virus.
+T241	INF 4839 4846	article
+T242	MHI 5060 5068	Covid-19
+T243	MHI 4671 4682	coronavirus
+T244	contact_contact_meet 5004 5008	told
+E11	contact_contact_meet:T244 Participant1:T245 Topic:T242 Participant:T120
+T245	ORG 5011 5018	podcast
+T246	contact_contact_broadcast 5499 5507	demanded
+E12	contact_contact_broadcast:T246 Communicator:T151 Recipient:T152 Topic:T152
+T247	contact_contact_broadcast 5578 5587	announced
+E13	contact_contact_broadcast:T247 Communicator:T154 Topic:T248 Recipient:T156
+T248	MON 5614 5621	funding
+T249	contact_contact_broadcast 5763 5767	said
+E14	contact_contact_broadcast:T249 Communicator:T159 Topic:T250 Recipient:T160
+T250	MON 5797 5802	funds
+T251	MHI 5926 5931	virus
+T252	contact_contact_unspecified 294 299	claim
+E15	contact_contact_unspecified:T252 
+T253	contact_contact_unspecified 391 396	claim
+E16	contact_contact_unspecified:T253 
+T254	MHI 309 314	virus
+T255	Claim_Boundary 477 499	the virus was man-made
+A10	ClaimID_Semantic T255 CLL0C04958V.000002
+T217	Claim_Boundary 968 1009	Covid-19 might have originated in the US.
+T218	Claim_Boundary 305 374	the virus was part of a Chinese "covert biological weapons programme"
+A12	ClaimID_Associate T218 CLL0C04958V.000000
+T256	contact_contact_broadcast 1421 1426	claim
+E17	contact_contact_broadcast:T256 Communicator:T39
+T257	INF 3329 3338	TV report
+T258	contact_contact_broadcast 3357 3363	claims
+E18	contact_contact_broadcast:T258 Communicator:T238
+T259	contact_contact_broadcast 3965 3973	reported
+E19	contact_contact_broadcast:T259 Communicator:T106 Topic:T107
+T260	GPE 4278 4286	Shanghai
+T261	ORG 4437 4449	university's
+T262	contact_contact_broadcast 1129 1136	tweeted
+E20	contact_contact_broadcast:T262 Communicator:T32 Topic:T222
+A14	ClaimID_Associate E20 CLL0C04958V.000005
+T263	ABS 1222 1232	originated
+A15	ClaimID_Semantic T263 CLL0C04958V.000005
+T264	MHI 1216 1221	virus
+A16	ClaimID_Semantic T264 CLL0C04958V.000005
+T229	Claim_Boundary 1216 1242	virus originated in the US
+T265	Claim_Sentence 1113 1281	A day later, he tweeted an article by the website Global Research headlined "Further evidence that the virus originated in the US", and urged users to read and share it
+A13	ClaimID_Semantic T265 CLL0C04958V.000005
+A17	ClaimID_Semantic T229 CLL0C04958V.000005
+T266	Claim_Sentence 267 459	Among these were the false claim that the virus was part of a Chinese "covert biological weapons programme", and a baseless claim that a Canadian-Chinese spy team had sent coronavirus to Wuhan
+A18	ClaimID_Semantic T266 CLL0C04958V.000000
+T267	Claim_Sentence 462 639	The claim that the virus was man-made has been pushed by numerous conspiracy groups on Facebook, obscure Twitter accounts and even found its way on to primetime Russian state TV
+A19	ClaimID_Semantic T267 CLL0C04958V.000002
+T268	Claim_Boundary 404 459	Canadian-Chinese spy team had sent coronavirus to Wuhan
+A20	ClaimID_Semantic T268 CLL0C04958V.000001
+T269	Claim_Sentence 858 1008	Zhao Lijian, a Chinese foreign ministry spokesman, has repeatedly promoted the idea - without evidence - that Covid-19 might have originated in the US
+A21	ClaimID_Semantic T269 CLL0C04958V.000003
+T270	contact_contact_broadcast 1576 1585	amplified
+E21	contact_contact_broadcast:T270 Communicator:T224
+T271	Claim_Boundary 2451 2481	the Virus Originated in the US
+A22	ClaimID_Semantic T271 CLL0C04958V.000007
+T272	Claim_Sentence 2419 2481	COVID-19: Further Evidence that the Virus Originated in the US
+A23	ClaimID_Semantic T272 CLL0C04958V.000007
+T273	ORG 2880 2896	magazine Science
+T274	Claim_Sentence 2835 2995	But the Chinese research and articles in the magazine Science that he quotes do not actually call into question China being the place where the outbreak started
+A24	ClaimID_Semantic T274 CLL0C04958V.000009
+T275	Claim_Boundary 3209 3260	he new coronavirus could have originated in the US"
+A25	ClaimID_Semantic T275 CLL0C04958V.000011
+T276	Claim_Sentence 3123 3261	Mr Romanoff also claims that Japanese and Taiwanese scientists "have determined that the new coronavirus could have originated in the US".
+A26	ClaimID_Semantic T276 CLL0C04958V.000011
+T277	Claim_Sentence 3615 3770	Mr Romanoff also claims - without evidence - that the US military germ laboratory in Fort Detrick, Maryland, may have been the original source of the virus
+A27	ClaimID_Semantic T277 CLL0C04958V.000012
+T278	Claim_Sentence 4960 5158	Among several other questionable claims, he told a podcast this month that during its early stages, Covid-19 was "Chinese-specific" and did not infect peoples of other origins and racial backgrounds
+A28	ClaimID_Semantic T278 CLL0C04958V.000013
+T279	Claim_Sentence 5261 5463	Claims by elements in the Chinese government and media about the US being a possible origin of the virus prompted a response from US President Donald Trump who referred to Covid-19 as a "Chinese virus".
+A29	ClaimID_Semantic T279 CLL0C04958V.000014
+T280	Claim_Boundary 6016 6074	the coronavirus "accidentally escaped from a lab in Wuhan"
+A30	ClaimID_Semantic T280 CLL0C04958V.000015
+T281	Claim_Sentence 5934 6074	Fox News primetime host Tucker Carlson cited a study raising the possibility that the coronavirus "accidentally escaped from a lab in Wuhan"
+A31	ClaimID_Semantic T281 CLL0C04958V.000015
+T282	INF 5981 5986	study
+A32	ClaimID_Semantic T282 CLL0C04958V.000015
+T283	INF 6166 6171	study
+T284	Claim_Boundary 6401 6473	"the killer coronavirus probably originated from a laboratory in Wuhan".
+A33	ClaimID_Semantic T284 CLL0C04958V.000016
+T285	Claim_Sentence 6383 6473	It concluded that "the killer coronavirus probably originated from a laboratory in Wuhan".
+A34	ClaimID_Semantic T285 CLL0C04958V.000016
+T286	MHI 7165 7170	Ebola
+T287	disaster_diseaseoutbreak_unspecified 7171 7180	outbreak,
+E22	disaster_diseaseoutbreak_unspecified:T287 
+T288	INF 7204 7211	reports
+T289	Claim_Sentence 7104 7324	Jeremy Konyndyk, who led the US government's response to the Ebola outbreak, tweeted in response to reports about an accidental lab leak: "The science doesn't preclude a lab origin but does indicate it's quite unlikely."
+A35	ClaimID_Semantic T289 CLL0C04958V.000017
+T290	ORG 7470 7478	Facebook
+T291	MHI 1 13	Coronavirus:
+T292	MHI 91 96	virus
+T293	movement_transportation_unspecified 238 244	spread
+E23	movement_transportation_unspecified:T293 
+T294	contact_contact_unspecified 737 743	claims
+E24	contact_contact_unspecified:T294 Participant:T15 Participant1:T17
+T18	ORG 811 824	media outlets
+A11	ClaimID_Semantic T217 CLL0C04958V.000003
+T19	MHI 1096 1101	virus
+T295	ABS 2205 2212	website
+T296	INF 2331 2338	article
+T297	MHI 2419 2427	COVID-19
+A38	ClaimID_Associate T297 CLL0C04958V.000007
+T298	Claim_Boundary 2796 2833	the virus did not originate in China.
+A39	ClaimID_Semantic T298 CLL0C04958V.000008
+T299	Claim_Boundary 2947 2995	China being the place where the outbreak started
+A40	ClaimID_Semantic T299 CLL0C04958V.000009
+T300	Claim_Boundary 3042 3120	the animal market in Wuhan may not have been the origin of the new coronavirus
+A41	ClaimID_Semantic T300 CLL0C04958V.000010
+A42	ClaimID_Associate E8 CLL0C04958V.000010
+A5	ClaimID_Associate E6 CLL0C04958V.000008
+A6	ClaimID_Associate E9 CLL0C04958V.000011
+T301	Claim_Boundary 3665 3770	the US military germ laboratory in Fort Detrick, Maryland, may have been the original source of the virus
+A43	ClaimID_Semantic T301 CLL0C04958V.000012
+A8	ClaimID_Associate E10 CLL0C04958V.000012
+A9	ClaimID_Associate E11 CLL0C04958V.000013
+T302	Claim_Boundary 5060 5091	Covid-19 was "Chinese-specific"
+A44	ClaimID_Semantic T302 CLL0C04958V.000013
+T303	Claim_Boundary 5326 5365	US being a possible origin of the virus
+A45	ClaimID_Semantic T303 CLL0C04958V.000014
+T304	MHI 5360 5365	virus
+T305	MHI 5433 5441	Covid-19
+T306	contact_contact_broadcast 5421 5429	referred
+E25	contact_contact_broadcast:T306 Communicator:T146 Topic:T305
+A46	ClaimID_Associate E25 CLL0C04958V.000014
+T307	contact_contact_broadcast 5973 5978	cited
+E26	contact_contact_broadcast:T307 Communicator:T167 Topic:T282 Topic2:T308
+A47	ClaimID_Associate E26 CLL0C04958V.000015
+T308	MHI 6020 6031	coronavirus
+T309	MHI 6413 6424	coronavirus
+T310	contact_contact_broadcast 7181 7188	tweeted
+E27	contact_contact_broadcast:T310 Communicator:T199 Topic:T288 Topic2:T202
+A48	ClaimID_Associate E27 CLL0C04958V.000017
+T311	Claim_Boundary 7232 7324	lab leak: "The science doesn't preclude a lab origin but does indicate it's quite unlikely."
+A49	ClaimID_Semantic T311 CLL0C04958V.000017
+A36	ClaimID_Associate E15 CLL0C04958V.000000
+A37	ClaimID_Associate E16 CLL0C04958V.000000
+T312	MHI 439 450	coronavirus
+A1	ClaimID_Associate E2 CLL0C04958V.000002
+A50	ClaimID_Associate E5 CLL0C04958V.000003
+T313	MHI 968 976	Covid-19
+A3	ClaimID_Associate E3 CLL0C04958V.000004
+T314	movement_transportation_unspecified 1084 1091	brought
+E28	movement_transportation_unspecified:T314 
+A51	ClaimID_Associate E28 CLL0C04958V.000004
+T315	contact_contact_broadcast 2726 2736	reiterates
+E29	contact_contact_broadcast:T315 Communicator:T72 Topic:T227 Topic2:T75
+A52	ClaimID_Associate E29 CLL0C04958V.000008

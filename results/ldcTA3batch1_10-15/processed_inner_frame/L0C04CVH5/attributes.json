@@ -1,0 +1,37 @@
+{
+    "ATL0C04CVH5.000001": {
+        "id": "ATL0C04CVH5.000001",
+        "type": "ClaimID_Semantic",
+        "arg_id": "ENL0C04CVH5.000096",
+        "value": "CLL0C04CVH5.000001",
+        "arg_ann_id": "T96"
+    },
+    "ATL0C04CVH5.000002": {
+        "id": "ATL0C04CVH5.000002",
+        "type": "ClaimID_Semantic",
+        "arg_id": "ENL0C04CVH5.000097",
+        "value": "CLL0C04CVH5.000001",
+        "arg_ann_id": "T97"
+    },
+    "ATL0C04CVH5.000003": {
+        "id": "ATL0C04CVH5.000003",
+        "type": "ClaimID_Semantic",
+        "arg_id": "EVL0C04CVH5.000001",
+        "value": "CLL0C04CVH5.000001",
+        "arg_ann_id": "E1"
+    },
+    "ATL0C04CVH5.000004": {
+        "id": "ATL0C04CVH5.000004",
+        "type": "ClaimID_Semantic",
+        "arg_id": "ENL0C04CVH5.000098",
+        "value": "CLL0C04CVH5.000000",
+        "arg_ann_id": "T98"
+    },
+    "ATL0C04CVH5.000005": {
+        "id": "ATL0C04CVH5.000005",
+        "type": "ClaimID_Semantic",
+        "arg_id": "ENL0C04CVH5.000100",
+        "value": "CLL0C04CVH5.000000",
+        "arg_ann_id": "T100"
+    }
+}

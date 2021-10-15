@@ -1,0 +1,3 @@
+root_uid	argmention_id	child_uid	textoffset_startchar	textoffset_endchar	text_string	mediamention_signaltype	mediamention_starttime	mediamention_endtime	keyframe_id	mediamention_coordinates	description	type	subtype	subsubtype	qnode_type_id	arg_status	level
+L0C0496PB	ENL0C049DUI.000030	L0C049DUI	71	81	Coronavirus	EMPTY_NA	EMPTY_NA	EMPTY_NA	EMPTY_NA	EMPTY_NA	Coronavirus	MHI	Unspecified	Unspecified	EMPTY_NA	EMPTY_NA	EMPTY_NA
+L0C0496PB	ENL0C049DUI.000032	L0C049DUI	175	185	coronavirus	EMPTY_NA	EMPTY_NA	EMPTY_NA	EMPTY_NA	EMPTY_NA	coronavirus	MHI	Unspecified	Unspecified	EMPTY_NA	EMPTY_NA	EMPTY_NA

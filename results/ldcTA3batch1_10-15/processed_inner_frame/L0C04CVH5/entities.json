@@ -1,0 +1,1002 @@
+{
+    "ENL0C04CVH5.000001": {
+        "id": "ENL0C04CVH5.000001",
+        "type": "GPE",
+        "offsets": [
+            41,
+            51
+        ],
+        "text": "New Jersey",
+        "arg_ann_id": "T1"
+    },
+    "ENL0C04CVH5.000002": {
+        "id": "ENL0C04CVH5.000002",
+        "type": "GPE",
+        "offsets": [
+            62,
+            70
+        ],
+        "text": "New York",
+        "arg_ann_id": "T2"
+    },
+    "ENL0C04CVH5.000003": {
+        "id": "ENL0C04CVH5.000003",
+        "type": "GPE",
+        "offsets": [
+            106,
+            114
+        ],
+        "text": "New York",
+        "arg_ann_id": "T3"
+    },
+    "ENL0C04CVH5.000004": {
+        "id": "ENL0C04CVH5.000004",
+        "type": "GPE",
+        "offsets": [
+            115,
+            120
+        ],
+        "text": "state",
+        "arg_ann_id": "T4"
+    },
+    "ENL0C04CVH5.000005": {
+        "id": "ENL0C04CVH5.000005",
+        "type": "GPE",
+        "offsets": [
+            125,
+            135
+        ],
+        "text": "New Jersey",
+        "arg_ann_id": "T5"
+    },
+    "ENL0C04CVH5.000006": {
+        "id": "ENL0C04CVH5.000006",
+        "type": "PER",
+        "offsets": [
+            182,
+            185
+        ],
+        "text": "you",
+        "arg_ann_id": "T6"
+    },
+    "ENL0C04CVH5.000007": {
+        "id": "ENL0C04CVH5.000007",
+        "type": "GPE",
+        "offsets": [
+            223,
+            226
+        ],
+        "text": "New",
+        "arg_ann_id": "T7"
+    },
+    "ENL0C04CVH5.000008": {
+        "id": "ENL0C04CVH5.000008",
+        "type": "ORG",
+        "offsets": [
+            236,
+            280
+        ],
+        "text": "Office of Homeland Security and Preparedness",
+        "arg_ann_id": "T8"
+    },
+    "ENL0C04CVH5.000009": {
+        "id": "ENL0C04CVH5.000009",
+        "type": "PER",
+        "offsets": [
+            380,
+            382
+        ],
+        "text": "us",
+        "arg_ann_id": "T9"
+    },
+    "ENL0C04CVH5.000010": {
+        "id": "ENL0C04CVH5.000010",
+        "type": "ORG",
+        "offsets": [
+            461,
+            471
+        ],
+        "text": "government",
+        "arg_ann_id": "T10"
+    },
+    "ENL0C04CVH5.000011": {
+        "id": "ENL0C04CVH5.000011",
+        "type": "ORG",
+        "offsets": [
+            472,
+            480
+        ],
+        "text": "agencies",
+        "arg_ann_id": "T11"
+    },
+    "ENL0C04CVH5.000012": {
+        "id": "ENL0C04CVH5.000012",
+        "type": "ORG",
+        "offsets": [
+            496,
+            519
+        ],
+        "text": "New Jersey State Police",
+        "arg_ann_id": "T12"
+    },
+    "ENL0C04CVH5.000013": {
+        "id": "ENL0C04CVH5.000013",
+        "type": "ORG",
+        "offsets": [
+            525,
+            556
+        ],
+        "text": "Department of Homeland Security",
+        "arg_ann_id": "T13"
+    },
+    "ENL0C04CVH5.000014": {
+        "id": "ENL0C04CVH5.000014",
+        "type": "GPE",
+        "offsets": [
+            596,
+            604
+        ],
+        "text": "New York",
+        "arg_ann_id": "T14"
+    },
+    "ENL0C04CVH5.000015": {
+        "id": "ENL0C04CVH5.000015",
+        "type": "PER",
+        "offsets": [
+            605,
+            614
+        ],
+        "text": "residents",
+        "arg_ann_id": "T15"
+    },
+    "ENL0C04CVH5.000016": {
+        "id": "ENL0C04CVH5.000016",
+        "type": "GPE",
+        "offsets": [
+            646,
+            656
+        ],
+        "text": "New Jersey",
+        "arg_ann_id": "T16"
+    },
+    "ENL0C04CVH5.000017": {
+        "id": "ENL0C04CVH5.000017",
+        "type": "GPE",
+        "offsets": [
+            690,
+            700
+        ],
+        "text": "New Jersey",
+        "arg_ann_id": "T17"
+    },
+    "ENL0C04CVH5.000018": {
+        "id": "ENL0C04CVH5.000018",
+        "type": "ORG",
+        "offsets": [
+            701,
+            732
+        ],
+        "text": "Department of Homeland Security",
+        "arg_ann_id": "T18"
+    },
+    "ENL0C04CVH5.000019": {
+        "id": "ENL0C04CVH5.000019",
+        "type": "PER",
+        "offsets": [
+            803,
+            808
+        ],
+        "text": "those",
+        "arg_ann_id": "T19"
+    },
+    "ENL0C04CVH5.000020": {
+        "id": "ENL0C04CVH5.000020",
+        "type": "PER",
+        "offsets": [
+            809,
+            812
+        ],
+        "text": "who",
+        "arg_ann_id": "T20"
+    },
+    "ENL0C04CVH5.000021": {
+        "id": "ENL0C04CVH5.000021",
+        "type": "GPE",
+        "offsets": [
+            830,
+            840
+        ],
+        "text": "New Jersey",
+        "arg_ann_id": "T21"
+    },
+    "ENL0C04CVH5.000022": {
+        "id": "ENL0C04CVH5.000022",
+        "type": "GPE",
+        "offsets": [
+            894,
+            902
+        ],
+        "text": "New York",
+        "arg_ann_id": "T22"
+    },
+    "ENL0C04CVH5.000023": {
+        "id": "ENL0C04CVH5.000023",
+        "type": "PER",
+        "offsets": [
+            1074,
+            1077
+        ],
+        "text": "our",
+        "arg_ann_id": "T23"
+    },
+    "ENL0C04CVH5.000024": {
+        "id": "ENL0C04CVH5.000024",
+        "type": "GPE",
+        "offsets": [
+            1134,
+            1139
+        ],
+        "text": "state",
+        "arg_ann_id": "T24"
+    },
+    "ENL0C04CVH5.000025": {
+        "id": "ENL0C04CVH5.000025",
+        "type": "GPE",
+        "offsets": [
+            1148,
+            1155
+        ],
+        "text": "federal",
+        "arg_ann_id": "T25"
+    },
+    "ENL0C04CVH5.000026": {
+        "id": "ENL0C04CVH5.000026",
+        "type": "ORG",
+        "offsets": [
+            1156,
+            1166
+        ],
+        "text": "government",
+        "arg_ann_id": "T26"
+    },
+    "ENL0C04CVH5.000027": {
+        "id": "ENL0C04CVH5.000027",
+        "type": "GPE",
+        "offsets": [
+            1239,
+            1242
+        ],
+        "text": "New",
+        "arg_ann_id": "T27"
+    },
+    "ENL0C04CVH5.000028": {
+        "id": "ENL0C04CVH5.000028",
+        "type": "FAC",
+        "offsets": [
+            1261,
+            1264
+        ],
+        "text": "Hub",
+        "arg_ann_id": "T28"
+    },
+    "ENL0C04CVH5.000029": {
+        "id": "ENL0C04CVH5.000029",
+        "type": "PER",
+        "offsets": [
+            1327,
+            1336
+        ],
+        "text": "officials",
+        "arg_ann_id": "T29"
+    },
+    "ENL0C04CVH5.000030": {
+        "id": "ENL0C04CVH5.000030",
+        "type": "ORG",
+        "offsets": [
+            1352,
+            1354
+        ],
+        "text": "it",
+        "arg_ann_id": "T30"
+    },
+    "ENL0C04CVH5.000031": {
+        "id": "ENL0C04CVH5.000031",
+        "type": "PER",
+        "offsets": [
+            1394,
+            1403
+        ],
+        "text": "residents",
+        "arg_ann_id": "T31"
+    },
+    "ENL0C04CVH5.000032": {
+        "id": "ENL0C04CVH5.000032",
+        "type": "ORG",
+        "offsets": [
+            1405,
+            1413
+        ],
+        "text": "business",
+        "arg_ann_id": "T32"
+    },
+    "ENL0C04CVH5.000033": {
+        "id": "ENL0C04CVH5.000033",
+        "type": "PER",
+        "offsets": [
+            1414,
+            1420
+        ],
+        "text": "owners",
+        "arg_ann_id": "T33"
+    },
+    "ENL0C04CVH5.000034": {
+        "id": "ENL0C04CVH5.000034",
+        "type": "PER",
+        "offsets": [
+            1434,
+            1447
+        ],
+        "text": "professionals",
+        "arg_ann_id": "T34"
+    },
+    "ENL0C04CVH5.000035": {
+        "id": "ENL0C04CVH5.000035",
+        "type": "ORG",
+        "offsets": [
+            1479,
+            1484
+        ],
+        "text": "their",
+        "arg_ann_id": "T35"
+    },
+    "ENL0C04CVH5.000036": {
+        "id": "ENL0C04CVH5.000036",
+        "type": "ORG",
+        "offsets": [
+            1499,
+            1554
+        ],
+        "text": "New Jersey Office of Homeland Security and Preparedness",
+        "arg_ann_id": "T36"
+    },
+    "ENL0C04CVH5.000037": {
+        "id": "ENL0C04CVH5.000037",
+        "type": "FAC",
+        "offsets": [
+            1577,
+            1580
+        ],
+        "text": "hub",
+        "arg_ann_id": "T37"
+    },
+    "ENL0C04CVH5.000038": {
+        "id": "ENL0C04CVH5.000038",
+        "type": "ORG",
+        "offsets": [
+            1597,
+            1602
+        ],
+        "text": "Their",
+        "arg_ann_id": "T38"
+    },
+    "ENL0C04CVH5.000039": {
+        "id": "ENL0C04CVH5.000039",
+        "type": "ORG",
+        "offsets": [
+            1727,
+            1737
+        ],
+        "text": "government",
+        "arg_ann_id": "T39"
+    },
+    "ENL0C04CVH5.000040": {
+        "id": "ENL0C04CVH5.000040",
+        "type": "ORG",
+        "offsets": [
+            1907,
+            1910
+        ],
+        "text": "BBB",
+        "arg_ann_id": "T40"
+    },
+    "ENL0C04CVH5.000041": {
+        "id": "ENL0C04CVH5.000041",
+        "type": "PER",
+        "offsets": [
+            1940,
+            1948
+        ],
+        "text": "scammers",
+        "arg_ann_id": "T41"
+    },
+    "ENL0C04CVH5.000042": {
+        "id": "ENL0C04CVH5.000042",
+        "type": "PER",
+        "offsets": [
+            1960,
+            1966
+        ],
+        "text": "people",
+        "arg_ann_id": "T42"
+    },
+    "ENL0C04CVH5.000043": {
+        "id": "ENL0C04CVH5.000043",
+        "type": "ORG",
+        "offsets": [
+            1982,
+            1986
+        ],
+        "text": "they",
+        "arg_ann_id": "T43"
+    },
+    "ENL0C04CVH5.000044": {
+        "id": "ENL0C04CVH5.000044",
+        "type": "GPE",
+        "offsets": [
+            2034,
+            2044
+        ],
+        "text": "government",
+        "arg_ann_id": "T44"
+    },
+    "ENL0C04CVH5.000045": {
+        "id": "ENL0C04CVH5.000045",
+        "type": "ORG",
+        "offsets": [
+            2073,
+            2077
+        ],
+        "text": "they",
+        "arg_ann_id": "T45"
+    },
+    "ENL0C04CVH5.000046": {
+        "id": "ENL0C04CVH5.000046",
+        "type": "ORG",
+        "offsets": [
+            2089,
+            2093
+        ],
+        "text": "they",
+        "arg_ann_id": "T46"
+    },
+    "ENL0C04CVH5.000047": {
+        "id": "ENL0C04CVH5.000047",
+        "type": "PER",
+        "offsets": [
+            2106,
+            2109
+        ],
+        "text": "you",
+        "arg_ann_id": "T47"
+    },
+    "ENL0C04CVH5.000048": {
+        "id": "ENL0C04CVH5.000048",
+        "type": "PER",
+        "offsets": [
+            2193,
+            2197
+        ],
+        "text": "your",
+        "arg_ann_id": "T48"
+    },
+    "ENL0C04CVH5.000049": {
+        "id": "ENL0C04CVH5.000049",
+        "type": "PER",
+        "offsets": [
+            2299,
+            2302
+        ],
+        "text": "you",
+        "arg_ann_id": "T49"
+    },
+    "ENL0C04CVH5.000050": {
+        "id": "ENL0C04CVH5.000050",
+        "type": "PER",
+        "offsets": [
+            2352,
+            2358
+        ],
+        "text": "dealer",
+        "arg_ann_id": "T50"
+    },
+    "ENL0C04CVH5.000051": {
+        "id": "ENL0C04CVH5.000051",
+        "type": "PER",
+        "offsets": [
+            2372,
+            2380
+        ],
+        "text": "yourself",
+        "arg_ann_id": "T51"
+    },
+    "ENL0C04CVH5.000052": {
+        "id": "ENL0C04CVH5.000052",
+        "type": "PER",
+        "offsets": [
+            2395,
+            2399
+        ],
+        "text": "Your",
+        "arg_ann_id": "T52"
+    },
+    "ENL0C04CVH5.000053": {
+        "id": "ENL0C04CVH5.000053",
+        "type": "PER",
+        "offsets": [
+            2462,
+            2470
+        ],
+        "text": "scammers",
+        "arg_ann_id": "T53"
+    },
+    "ENL0C04CVH5.000054": {
+        "id": "ENL0C04CVH5.000054",
+        "type": "PER",
+        "offsets": [
+            2497,
+            2504
+        ],
+        "text": "victims",
+        "arg_ann_id": "T54"
+    },
+    "ENL0C04CVH5.000055": {
+        "id": "ENL0C04CVH5.000055",
+        "type": "PER",
+        "offsets": [
+            2506,
+            2510
+        ],
+        "text": "They",
+        "arg_ann_id": "T55"
+    },
+    "ENL0C04CVH5.000056": {
+        "id": "ENL0C04CVH5.000056",
+        "type": "PER",
+        "offsets": [
+            2536,
+            2544
+        ],
+        "text": "resident",
+        "arg_ann_id": "T56"
+    },
+    "ENL0C04CVH5.000057": {
+        "id": "ENL0C04CVH5.000057",
+        "type": "PER",
+        "offsets": [
+            2576,
+            2581
+        ],
+        "text": "their",
+        "arg_ann_id": "T57"
+    },
+    "ENL0C04CVH5.000058": {
+        "id": "ENL0C04CVH5.000058",
+        "type": "PER",
+        "offsets": [
+            2640,
+            2644
+        ],
+        "text": "they",
+        "arg_ann_id": "T58"
+    },
+    "ENL0C04CVH5.000059": {
+        "id": "ENL0C04CVH5.000059",
+        "type": "PER",
+        "offsets": [
+            2660,
+            2665
+        ],
+        "text": "their",
+        "arg_ann_id": "T59"
+    },
+    "ENL0C04CVH5.000060": {
+        "id": "ENL0C04CVH5.000060",
+        "type": "PER",
+        "offsets": [
+            2803,
+            2816
+        ],
+        "text": "Gone Phishing",
+        "arg_ann_id": "T60"
+    },
+    "ENL0C04CVH5.000061": {
+        "id": "ENL0C04CVH5.000061",
+        "type": "ORG",
+        "offsets": [
+            2823,
+            2826
+        ],
+        "text": "BBB",
+        "arg_ann_id": "T61"
+    },
+    "ENL0C04CVH5.000062": {
+        "id": "ENL0C04CVH5.000062",
+        "type": "PER",
+        "offsets": [
+            2883,
+            2889
+        ],
+        "text": "people",
+        "arg_ann_id": "T62"
+    },
+    "ENL0C04CVH5.000063": {
+        "id": "ENL0C04CVH5.000063",
+        "type": "FAC",
+        "offsets": [
+            2903,
+            2907
+        ],
+        "text": "home",
+        "arg_ann_id": "T63"
+    },
+    "ENL0C04CVH5.000064": {
+        "id": "ENL0C04CVH5.000064",
+        "type": "PER",
+        "offsets": [
+            2909,
+            2916
+        ],
+        "text": "Someone",
+        "arg_ann_id": "T64"
+    },
+    "ENL0C04CVH5.000065": {
+        "id": "ENL0C04CVH5.000065",
+        "type": "PER",
+        "offsets": [
+            2926,
+            2929
+        ],
+        "text": "you",
+        "arg_ann_id": "T65"
+    },
+    "ENL0C04CVH5.000066": {
+        "id": "ENL0C04CVH5.000066",
+        "type": "PER",
+        "offsets": [
+            2977,
+            2981
+        ],
+        "text": "your",
+        "arg_ann_id": "T66"
+    },
+    "ENL0C04CVH5.000067": {
+        "id": "ENL0C04CVH5.000067",
+        "type": "ORG",
+        "offsets": [
+            3014,
+            3018
+        ],
+        "text": "they",
+        "arg_ann_id": "T67"
+    },
+    "ENL0C04CVH5.000068": {
+        "id": "ENL0C04CVH5.000068",
+        "type": "PER",
+        "offsets": [
+            3028,
+            3031
+        ],
+        "text": "you",
+        "arg_ann_id": "T68"
+    },
+    "ENL0C04CVH5.000069": {
+        "id": "ENL0C04CVH5.000069",
+        "type": "ORG",
+        "offsets": [
+            3075,
+            3079
+        ],
+        "text": "them",
+        "arg_ann_id": "T69"
+    },
+    "ENL0C04CVH5.000070": {
+        "id": "ENL0C04CVH5.000070",
+        "type": "PER",
+        "offsets": [
+            3098,
+            3102
+        ],
+        "text": "your",
+        "arg_ann_id": "T70"
+    },
+    "ENL0C04CVH5.000071": {
+        "id": "ENL0C04CVH5.000071",
+        "type": "GPE",
+        "offsets": [
+            3134,
+            3138
+        ],
+        "text": "This",
+        "arg_ann_id": "T71"
+    },
+    "ENL0C04CVH5.000072": {
+        "id": "ENL0C04CVH5.000072",
+        "type": "PER",
+        "offsets": [
+            3146,
+            3150
+        ],
+        "text": "Your",
+        "arg_ann_id": "T72"
+    },
+    "ENL0C04CVH5.000073": {
+        "id": "ENL0C04CVH5.000073",
+        "type": "GPE",
+        "offsets": [
+            3151,
+            3161
+        ],
+        "text": "Government",
+        "arg_ann_id": "T73"
+    },
+    "ENL0C04CVH5.000074": {
+        "id": "ENL0C04CVH5.000074",
+        "type": "ORG",
+        "offsets": [
+            3182,
+            3192
+        ],
+        "text": "government",
+        "arg_ann_id": "T74"
+    },
+    "ENL0C04CVH5.000075": {
+        "id": "ENL0C04CVH5.000075",
+        "type": "PER",
+        "offsets": [
+            3233,
+            3239
+        ],
+        "text": "crooks",
+        "arg_ann_id": "T75"
+    },
+    "ENL0C04CVH5.000076": {
+        "id": "ENL0C04CVH5.000076",
+        "type": "PER",
+        "offsets": [
+            3296,
+            3299
+        ],
+        "text": "you",
+        "arg_ann_id": "T76"
+    },
+    "ENL0C04CVH5.000077": {
+        "id": "ENL0C04CVH5.000077",
+        "type": "PER",
+        "offsets": [
+            3349,
+            3353
+        ],
+        "text": "they",
+        "arg_ann_id": "T77"
+    },
+    "ENL0C04CVH5.000078": {
+        "id": "ENL0C04CVH5.000078",
+        "type": "PER",
+        "offsets": [
+            3363,
+            3366
+        ],
+        "text": "you",
+        "arg_ann_id": "T78"
+    },
+    "ENL0C04CVH5.000079": {
+        "id": "ENL0C04CVH5.000079",
+        "type": "PER",
+        "offsets": [
+            3419,
+            3423
+        ],
+        "text": "your",
+        "arg_ann_id": "T79"
+    },
+    "ENL0C04CVH5.000080": {
+        "id": "ENL0C04CVH5.000080",
+        "type": "PER",
+        "offsets": [
+            3469,
+            3473
+        ],
+        "text": "your",
+        "arg_ann_id": "T80"
+    },
+    "ENL0C04CVH5.000081": {
+        "id": "ENL0C04CVH5.000081",
+        "type": "PER",
+        "offsets": [
+            3532,
+            3536
+        ],
+        "text": "your",
+        "arg_ann_id": "T81"
+    },
+    "ENL0C04CVH5.000082": {
+        "id": "ENL0C04CVH5.000082",
+        "type": "ORG",
+        "offsets": [
+            3551,
+            3553
+        ],
+        "text": "We",
+        "arg_ann_id": "T82"
+    },
+    "ENL0C04CVH5.000083": {
+        "id": "ENL0C04CVH5.000083",
+        "type": "PER",
+        "offsets": [
+            3579,
+            3582
+        ],
+        "text": "You",
+        "arg_ann_id": "T83"
+    },
+    "ENL0C04CVH5.000084": {
+        "id": "ENL0C04CVH5.000084",
+        "type": "PER",
+        "offsets": [
+            3610,
+            3616
+        ],
+        "text": "people",
+        "arg_ann_id": "T84"
+    },
+    "ENL0C04CVH5.000085": {
+        "id": "ENL0C04CVH5.000085",
+        "type": "PER",
+        "offsets": [
+            3655,
+            3663
+        ],
+        "text": "scammers",
+        "arg_ann_id": "T85"
+    },
+    "ENL0C04CVH5.000086": {
+        "id": "ENL0C04CVH5.000086",
+        "type": "ORG",
+        "offsets": [
+            3777,
+            3786
+        ],
+        "text": "companies",
+        "arg_ann_id": "T86"
+    },
+    "ENL0C04CVH5.000087": {
+        "id": "ENL0C04CVH5.000087",
+        "type": "PER",
+        "offsets": [
+            3792,
+            3800
+        ],
+        "text": "scammers",
+        "arg_ann_id": "T87"
+    },
+    "ENL0C04CVH5.000088": {
+        "id": "ENL0C04CVH5.000088",
+        "type": "PER",
+        "offsets": [
+            3864,
+            3867
+        ],
+        "text": "you",
+        "arg_ann_id": "T88"
+    },
+    "ENL0C04CVH5.000089": {
+        "id": "ENL0C04CVH5.000089",
+        "type": "ORG",
+        "offsets": [
+            3950,
+            3957
+        ],
+        "text": "company",
+        "arg_ann_id": "T89"
+    },
+    "ENL0C04CVH5.000090": {
+        "id": "ENL0C04CVH5.000090",
+        "type": "PER",
+        "offsets": [
+            4022,
+            4025
+        ],
+        "text": "You",
+        "arg_ann_id": "T90"
+    },
+    "ENL0C04CVH5.000091": {
+        "id": "ENL0C04CVH5.000091",
+        "type": "PER",
+        "offsets": [
+            4060,
+            4061
+        ],
+        "text": "I",
+        "arg_ann_id": "T91"
+    },
+    "ENL0C04CVH5.000092": {
+        "id": "ENL0C04CVH5.000092",
+        "type": "PER",
+        "offsets": [
+            4133,
+            4134
+        ],
+        "text": "I",
+        "arg_ann_id": "T92"
+    },
+    "ENL0C04CVH5.000093": {
+        "id": "ENL0C04CVH5.000093",
+        "type": "PER",
+        "offsets": [
+            4158,
+            4159
+        ],
+        "text": "I",
+        "arg_ann_id": "T93"
+    },
+    "ENL0C04CVH5.000094": {
+        "id": "ENL0C04CVH5.000094",
+        "type": "PER",
+        "offsets": [
+            4323,
+            4331
+        ],
+        "text": "scammers",
+        "arg_ann_id": "T94"
+    },
+    "ENL0C04CVH5.000095": {
+        "id": "ENL0C04CVH5.000095",
+        "type": "PER",
+        "offsets": [
+            4369,
+            4373
+        ],
+        "text": "they",
+        "arg_ann_id": "T95"
+    },
+    "ENL0C04CVH5.000096": {
+        "id": "ENL0C04CVH5.000096",
+        "type": "Claim_Sentence",
+        "offsets": [
+            404,
+            688
+        ],
+        "text": "The bogus letter, which appears to have seals of several government agencies (including the New Jersey State Police, the Department of Homeland Security, and more) alleges that \"as of May 10, New York residents will not be permitted to enter New Jersey due to the spread of COVID-19.\"",
+        "arg_ann_id": "T96"
+    },
+    "ENL0C04CVH5.000097": {
+        "id": "ENL0C04CVH5.000097",
+        "type": "Claim_Boundary",
+        "offsets": [
+            582,
+            686
+        ],
+        "text": "as of May 10, New York residents will not be permitted to enter New Jersey due to the spread of COVID-19",
+        "arg_ann_id": "T97"
+    },
+    "ENL0C04CVH5.000099": {
+        "id": "ENL0C04CVH5.000099",
+        "type": "contact_publicstatementinperson_broadcast",
+        "offsets": [
+            568,
+            575
+        ],
+        "text": "alleges",
+        "arg_ann_id": "T99"
+    },
+    "ENL0C04CVH5.000098": {
+        "id": "ENL0C04CVH5.000098",
+        "type": "Claim_Sentence",
+        "offsets": [
+            84,
+            221
+        ],
+        "text": "NO travel ban between New York state and New Jersey has been planned, despite any internet rumors you may have read suggesting otherwise.",
+        "arg_ann_id": "T98"
+    },
+    "ENL0C04CVH5.000100": {
+        "id": "ENL0C04CVH5.000100",
+        "type": "Claim_Boundary",
+        "offsets": [
+            84,
+            152
+        ],
+        "text": "NO travel ban between New York state and New Jersey has been planned",
+        "arg_ann_id": "T100"
+    }
+}

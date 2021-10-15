@@ -1,0 +1,683 @@
+{
+    "EVL0C04CVH2.000001": {
+        "id": "EVL0C04CVH2.000001",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                7,
+                11
+            ],
+            "text": "says"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04CVH2.000001",
+                "arg_ann_id": "T1",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            },
+            {
+                "role_type": "Topic",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "EVL0C04CVH2.000003",
+                "arg_ann_id": "E3",
+                "arg_type_qnode": "Q11028"
+            }
+        ],
+        "event_ann_id": "E1",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04CVH2.000002": {
+        "id": "EVL0C04CVH2.000002",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                83,
+                89
+            ],
+            "text": "boasts"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04CVH2.000001",
+                "arg_ann_id": "T1",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            },
+            {
+                "role_type": "Topic",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "EVL0C04CVH2.000004",
+                "arg_ann_id": "E4",
+                "arg_type_qnode": "Q11028"
+            }
+        ],
+        "event_ann_id": "E2",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04CVH2.000003": {
+        "id": "EVL0C04CVH2.000003",
+        "type": "government.legislate.legislate",
+        "trigger": {
+            "offsets": [
+                47,
+                55
+            ],
+            "text": "ordering"
+        },
+        "arguments": [
+            {
+                "role_type": "Place",
+                "general_role_type": "AM-LOC",
+                "arg_id": "ENL0C04CVH2.000002",
+                "arg_ann_id": "T2",
+                "arg_type_qnode": "EMPTY_NA"
+            },
+            {
+                "role_type": "Law",
+                "general_role_type": "A1-ppt_thing_enacted",
+                "arg_id": "ENL0C04CVH2.000136",
+                "arg_ann_id": "T136",
+                "arg_type_qnode": "EMPTY_NA"
+            }
+        ],
+        "event_ann_id": "E3",
+        "event_type_qnode": "process"
+    },
+    "EVL0C04CVH2.000004": {
+        "id": "EVL0C04CVH2.000004",
+        "type": "government.legislate.legislate",
+        "trigger": {
+            "offsets": [
+                93,
+                97
+            ],
+            "text": "made"
+        },
+        "arguments": [
+            {
+                "role_type": "Place",
+                "general_role_type": "AM-LOC",
+                "arg_id": "ENL0C04CVH2.000004",
+                "arg_ann_id": "T4",
+                "arg_type_qnode": "EMPTY_NA"
+            }
+        ],
+        "event_ann_id": "E4",
+        "event_type_qnode": "process"
+    },
+    "EVL0C04CVH2.000005": {
+        "id": "EVL0C04CVH2.000005",
+        "type": "government.legislate.legislate",
+        "trigger": {
+            "offsets": [
+                183,
+                192
+            ],
+            "text": "enforcing"
+        },
+        "arguments": [
+            {
+                "role_type": "Place",
+                "general_role_type": "AM-LOC",
+                "arg_id": "ENL0C04CVH2.000007",
+                "arg_ann_id": "T7",
+                "arg_type_qnode": "EMPTY_NA"
+            },
+            {
+                "role_type": "Law",
+                "general_role_type": "A1-ppt_thing_enacted",
+                "arg_id": "ENL0C04CVH2.000133",
+                "arg_ann_id": "T133",
+                "arg_type_qnode": "EMPTY_NA"
+            }
+        ],
+        "event_ann_id": "E5",
+        "event_type_qnode": "process"
+    },
+    "EVL0C04CVH2.000006": {
+        "id": "EVL0C04CVH2.000006",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                143,
+                147
+            ],
+            "text": "said"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04CVH2.000138",
+                "arg_ann_id": "T138",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            },
+            {
+                "role_type": "Topic",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "EVL0C04CVH2.000005",
+                "arg_ann_id": "E5",
+                "arg_type_qnode": "Q11028"
+            }
+        ],
+        "event_ann_id": "E6",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04CVH2.000007": {
+        "id": "EVL0C04CVH2.000007",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                280,
+                287
+            ],
+            "text": "tweeted"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04CVH2.000011",
+                "arg_ann_id": "T11",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            },
+            {
+                "role_type": "Topic",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "EVL0C04CVH2.000008",
+                "arg_ann_id": "E8",
+                "arg_type_qnode": "Q11028"
+            }
+        ],
+        "event_ann_id": "E7",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04CVH2.000008": {
+        "id": "EVL0C04CVH2.000008",
+        "type": "disaster.diseaseoutbreak.unspecified",
+        "trigger": {
+            "offsets": [
+                350,
+                364
+            ],
+            "text": "paying heavily"
+        },
+        "arguments": [
+            {
+                "role_type": "Place",
+                "general_role_type": "AM-LOC",
+                "arg_id": "ENL0C04CVH2.000012",
+                "arg_ann_id": "T12",
+                "arg_type_qnode": "EMPTY_NA"
+            }
+        ],
+        "event_ann_id": "E8",
+        "event_type_qnode": "outbreak"
+    },
+    "EVL0C04CVH2.000009": {
+        "id": "EVL0C04CVH2.000009",
+        "type": "government.legislate.legislate",
+        "trigger": {
+            "offsets": [
+                373,
+                381
+            ],
+            "text": "decision"
+        },
+        "arguments": [
+            {
+                "role_type": "Law",
+                "general_role_type": "A1-ppt_thing_enacted",
+                "arg_id": "ENL0C04CVH2.000145",
+                "arg_ann_id": "T145",
+                "arg_type_qnode": "EMPTY_NA"
+            },
+            {
+                "role_type": "Place",
+                "general_role_type": "AM-LOC",
+                "arg_id": "ENL0C04CVH2.000012",
+                "arg_ann_id": "T12",
+                "arg_type_qnode": "EMPTY_NA"
+            },
+            {
+                "role_type": "GovernmentBody",
+                "general_role_type": "A0-pag_agent_legislative_body",
+                "arg_id": "ENL0C04CVH2.000013",
+                "arg_ann_id": "T13",
+                "arg_type_qnode": "Q16334295"
+            }
+        ],
+        "event_ann_id": "E9",
+        "event_type_qnode": "process"
+    },
+    "EVL0C04CVH2.000010": {
+        "id": "EVL0C04CVH2.000010",
+        "type": "disaster.diseaseoutbreak.unspecified",
+        "trigger": {
+            "offsets": [
+                23,
+                37
+            ],
+            "text": "paying heavily"
+        },
+        "arguments": [
+            {
+                "role_type": "Place",
+                "general_role_type": "AM-LOC",
+                "arg_id": "ENL0C04CVH2.000002",
+                "arg_ann_id": "T2",
+                "arg_type_qnode": "EMPTY_NA"
+            }
+        ],
+        "event_ann_id": "E10",
+        "event_type_qnode": "outbreak"
+    },
+    "EVL0C04CVH2.000011": {
+        "id": "EVL0C04CVH2.000011",
+        "type": "government.legislate.legislate",
+        "trigger": {
+            "offsets": [
+                566,
+                570
+            ],
+            "text": "made"
+        },
+        "arguments": [
+            {
+                "role_type": "Place",
+                "general_role_type": "AM-LOC",
+                "arg_id": "ENL0C04CVH2.000020",
+                "arg_ann_id": "T20",
+                "arg_type_qnode": "EMPTY_NA"
+            }
+        ],
+        "event_ann_id": "E11",
+        "event_type_qnode": "process"
+    },
+    "EVL0C04CVH2.000012": {
+        "id": "EVL0C04CVH2.000012",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                600,
+                605
+            ],
+            "text": "wrote"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04CVH2.000021",
+                "arg_ann_id": "T21",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            },
+            {
+                "role_type": "Topic",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "EVL0C04CVH2.000011",
+                "arg_ann_id": "E11",
+                "arg_type_qnode": "Q11028"
+            }
+        ],
+        "event_ann_id": "E12",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04CVH2.000013": {
+        "id": "EVL0C04CVH2.000013",
+        "type": "government.legislate.legislate",
+        "trigger": {
+            "offsets": [
+                1092,
+                1098
+            ],
+            "text": "issued"
+        },
+        "arguments": [
+            {
+                "role_type": "GovernmentBody",
+                "general_role_type": "A0-pag_agent_legislative_body",
+                "arg_id": "ENL0C04CVH2.000030",
+                "arg_ann_id": "T30",
+                "arg_type_qnode": "Q16334295"
+            },
+            {
+                "role_type": "Law",
+                "general_role_type": "A1-ppt_thing_enacted",
+                "arg_id": "ENL0C04CVH2.000153",
+                "arg_ann_id": "T153",
+                "arg_type_qnode": "EMPTY_NA"
+            }
+        ],
+        "event_ann_id": "E13",
+        "event_type_qnode": "process"
+    },
+    "EVL0C04CVH2.000014": {
+        "id": "EVL0C04CVH2.000014",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                1762,
+                1766
+            ],
+            "text": "said"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04CVH2.000044",
+                "arg_ann_id": "T44",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            }
+        ],
+        "event_ann_id": "E14",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04CVH2.000015": {
+        "id": "EVL0C04CVH2.000015",
+        "type": "contact.discussion.correspondence",
+        "trigger": {
+            "offsets": [
+                2208,
+                2212
+            ],
+            "text": "told"
+        },
+        "arguments": [
+            {
+                "role_type": "Participant",
+                "general_role_type": "A0-pag_agent_discussant",
+                "arg_id": "ENL0C04CVH2.000060",
+                "arg_ann_id": "T60",
+                "arg_type_qnode": "Q215627|Q16334295"
+            },
+            {
+                "role_type": "Participant1",
+                "general_role_type": "A0-pag_agent_discussant",
+                "arg_id": "ENL0C04CVH2.000061",
+                "arg_ann_id": "T61",
+                "arg_type_qnode": "Q215627|Q16334295"
+            }
+        ],
+        "event_ann_id": "E15",
+        "event_type_qnode": "Q3030248 | conversation"
+    },
+    "EVL0C04CVH2.000016": {
+        "id": "EVL0C04CVH2.000016",
+        "type": "government.agreements.unspecified",
+        "trigger": {
+            "offsets": [
+                2899,
+                2906
+            ],
+            "text": "embrace"
+        },
+        "arguments": [],
+        "event_ann_id": "E16",
+        "event_type_qnode": "Q321839"
+    },
+    "EVL0C04CVH2.000017": {
+        "id": "EVL0C04CVH2.000017",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                2812,
+                2821
+            ],
+            "text": "suggested"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04CVH2.000079",
+                "arg_ann_id": "T79",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            },
+            {
+                "role_type": "Topic",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "EVL0C04CVH2.000016",
+                "arg_ann_id": "E16",
+                "arg_type_qnode": "Q11028"
+            }
+        ],
+        "event_ann_id": "E17",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04CVH2.000018": {
+        "id": "EVL0C04CVH2.000018",
+        "type": "government.agreements.unspecified",
+        "trigger": {
+            "offsets": [
+                3275,
+                3283
+            ],
+            "text": "strategy"
+        },
+        "arguments": [],
+        "event_ann_id": "E18",
+        "event_type_qnode": "Q321839"
+    },
+    "EVL0C04CVH2.000019": {
+        "id": "EVL0C04CVH2.000019",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                3227,
+                3231
+            ],
+            "text": "told"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04CVH2.000089",
+                "arg_ann_id": "T89",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            },
+            {
+                "role_type": "Recipient",
+                "general_role_type": "A2-gol_recipient_hearer",
+                "arg_id": "ENL0C04CVH2.000090",
+                "arg_ann_id": "T90",
+                "arg_type_qnode": "Q7239|Q43229"
+            },
+            {
+                "role_type": "Topic",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "EVL0C04CVH2.000018",
+                "arg_ann_id": "E18",
+                "arg_type_qnode": "Q11028"
+            }
+        ],
+        "event_ann_id": "E19",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04CVH2.000020": {
+        "id": "EVL0C04CVH2.000020",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                3349,
+                3356
+            ],
+            "text": "praised"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04CVH2.000092",
+                "arg_ann_id": "T92",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            }
+        ],
+        "event_ann_id": "E20",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04CVH2.000021": {
+        "id": "EVL0C04CVH2.000021",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                3476,
+                3480
+            ],
+            "text": "said"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04CVH2.000096",
+                "arg_ann_id": "T96",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            }
+        ],
+        "event_ann_id": "E21",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04CVH2.000022": {
+        "id": "EVL0C04CVH2.000022",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                3673,
+                3677
+            ],
+            "text": "said"
+        },
+        "arguments": [],
+        "event_ann_id": "E22",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04CVH2.000023": {
+        "id": "EVL0C04CVH2.000023",
+        "type": "government.legislate.legislate",
+        "trigger": {
+            "offsets": [
+                3601,
+                3604
+            ],
+            "text": "put"
+        },
+        "arguments": [
+            {
+                "role_type": "Place",
+                "general_role_type": "AM-LOC",
+                "arg_id": "ENL0C04CVH2.000101",
+                "arg_ann_id": "T101",
+                "arg_type_qnode": "EMPTY_NA"
+            },
+            {
+                "role_type": "Law",
+                "general_role_type": "A1-ppt_thing_enacted",
+                "arg_id": "ENL0C04CVH2.000182",
+                "arg_ann_id": "T182",
+                "arg_type_qnode": "EMPTY_NA"
+            }
+        ],
+        "event_ann_id": "E23",
+        "event_type_qnode": "process"
+    },
+    "EVL0C04CVH2.000024": {
+        "id": "EVL0C04CVH2.000024",
+        "type": "government.legislate.legislate",
+        "trigger": {
+            "offsets": [
+                3743,
+                3755
+            ],
+            "text": "put in place"
+        },
+        "arguments": [
+            {
+                "role_type": "Place",
+                "general_role_type": "AM-LOC",
+                "arg_id": "ENL0C04CVH2.000105",
+                "arg_ann_id": "T105",
+                "arg_type_qnode": "EMPTY_NA"
+            },
+            {
+                "role_type": "Law",
+                "general_role_type": "A1-ppt_thing_enacted",
+                "arg_id": "ENL0C04CVH2.000186",
+                "arg_ann_id": "T186",
+                "arg_type_qnode": "EMPTY_NA"
+            }
+        ],
+        "event_ann_id": "E24",
+        "event_type_qnode": "process"
+    },
+    "EVL0C04CVH2.000025": {
+        "id": "EVL0C04CVH2.000025",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                3726,
+                3730
+            ],
+            "text": "said"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04CVH2.000104",
+                "arg_ann_id": "T104",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            },
+            {
+                "role_type": "Topic",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "EVL0C04CVH2.000024",
+                "arg_ann_id": "E24",
+                "arg_type_qnode": "Q11028"
+            }
+        ],
+        "event_ann_id": "E25",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04CVH2.000026": {
+        "id": "EVL0C04CVH2.000026",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                4327,
+                4331
+            ],
+            "text": "said"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04CVH2.000125",
+                "arg_ann_id": "T125",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            }
+        ],
+        "event_ann_id": "E26",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04CVH2.000027": {
+        "id": "EVL0C04CVH2.000027",
+        "type": "disaster.diseaseoutbreak.unspecified",
+        "trigger": {
+            "offsets": [
+                3416,
+                3424
+            ],
+            "text": "pandemic"
+        },
+        "arguments": [],
+        "event_ann_id": "E27",
+        "event_type_qnode": "outbreak"
+    }
+}

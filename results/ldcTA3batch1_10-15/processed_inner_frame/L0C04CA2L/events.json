@@ -1,0 +1,104 @@
+{
+    "EVL0C04CA2L.000001": {
+        "id": "EVL0C04CA2L.000001",
+        "type": "artifactexistence.creation.unspecified",
+        "trigger": {
+            "offsets": [
+                1303,
+                1313
+            ],
+            "text": "originated"
+        },
+        "arguments": [
+            {
+                "role_type": "Creator",
+                "general_role_type": "A0-pag_Agent_creator",
+                "arg_id": "ENL0C04CA2L.000026",
+                "arg_ann_id": "T26",
+                "arg_type_qnode": "Q7239|Q11019|Q215627|Q16334295"
+            }
+        ],
+        "event_ann_id": "E1",
+        "event_type_qnode": "Q11398090"
+    },
+    "EVL0C04CA2L.000002": {
+        "id": "EVL0C04CA2L.000002",
+        "type": "artifactexistence.creation.unspecified",
+        "trigger": {
+            "offsets": [
+                1398,
+                1405
+            ],
+            "text": "created"
+        },
+        "arguments": [
+            {
+                "role_type": "Creator",
+                "general_role_type": "A0-pag_Agent_creator",
+                "arg_id": "ENL0C04CA2L.000028",
+                "arg_ann_id": "T28",
+                "arg_type_qnode": "Q7239|Q11019|Q215627|Q16334295"
+            }
+        ],
+        "event_ann_id": "E2",
+        "event_type_qnode": "Q11398090"
+    },
+    "EVL0C04CA2L.000003": {
+        "id": "EVL0C04CA2L.000003",
+        "type": "artifactexistence.creation.unspecified",
+        "trigger": {
+            "offsets": [
+                1889,
+                1898
+            ],
+            "text": "originate"
+        },
+        "arguments": [],
+        "event_ann_id": "E3",
+        "event_type_qnode": "Q11398090"
+    },
+    "EVL0C04CA2L.000004": {
+        "id": "EVL0C04CA2L.000004",
+        "type": "artifactexistence.creation.unspecified",
+        "trigger": {
+            "offsets": [
+                2023,
+                2030
+            ],
+            "text": "created"
+        },
+        "arguments": [
+            {
+                "role_type": "Creator",
+                "general_role_type": "A0-pag_Agent_creator",
+                "arg_id": "ENL0C04CA2L.000042",
+                "arg_ann_id": "T42",
+                "arg_type_qnode": "Q7239|Q11019|Q215627|Q16334295"
+            }
+        ],
+        "event_ann_id": "E4",
+        "event_type_qnode": "Q11398090"
+    },
+    "EVL0C04CA2L.000005": {
+        "id": "EVL0C04CA2L.000005",
+        "type": "artifactexistence.creation.unspecified",
+        "trigger": {
+            "offsets": [
+                2233,
+                2242
+            ],
+            "text": "originate"
+        },
+        "arguments": [
+            {
+                "role_type": "Place",
+                "general_role_type": "AM-LOC",
+                "arg_id": "ENL0C04CA2L.000045",
+                "arg_ann_id": "T45",
+                "arg_type_qnode": "EMPTY_NA"
+            }
+        ],
+        "event_ann_id": "E5",
+        "event_type_qnode": "Q11398090"
+    }
+}

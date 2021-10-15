@@ -1,0 +1,1312 @@
+{
+    "ENL0C04959T.000001": {
+        "id": "ENL0C04959T.000001",
+        "type": "GPE",
+        "offsets": [
+            36,
+            42
+        ],
+        "text": "French",
+        "arg_ann_id": "T1"
+    },
+    "ENL0C04959T.000002": {
+        "id": "ENL0C04959T.000002",
+        "type": "FAC",
+        "offsets": [
+            212,
+            222
+        ],
+        "text": "laboratory",
+        "arg_ann_id": "T2"
+    },
+    "ENL0C04959T.000003": {
+        "id": "ENL0C04959T.000003",
+        "type": "ORG",
+        "offsets": [
+            381,
+            398
+        ],
+        "text": "Pasteur Institute",
+        "arg_ann_id": "T3"
+    },
+    "ENL0C04959T.000004": {
+        "id": "ENL0C04959T.000004",
+        "type": "PER",
+        "offsets": [
+            442,
+            454
+        ],
+        "text": "videographer",
+        "arg_ann_id": "T4"
+    },
+    "ENL0C04959T.000005": {
+        "id": "ENL0C04959T.000005",
+        "type": "PER",
+        "offsets": [
+            474,
+            479
+        ],
+        "text": "users",
+        "arg_ann_id": "T5"
+    },
+    "ENL0C04959T.000006": {
+        "id": "ENL0C04959T.000006",
+        "type": "PER",
+        "offsets": [
+            493,
+            497
+        ],
+        "text": "them",
+        "arg_ann_id": "T6"
+    },
+    "ENL0C04959T.000007": {
+        "id": "ENL0C04959T.000007",
+        "type": "PER",
+        "offsets": [
+            532,
+            535
+        ],
+        "text": "his",
+        "arg_ann_id": "T7"
+    },
+    "ENL0C04959T.000008": {
+        "id": "ENL0C04959T.000008",
+        "type": "ORG",
+        "offsets": [
+            715,
+            723
+        ],
+        "text": "Facebook",
+        "arg_ann_id": "T8"
+    },
+    "ENL0C04959T.000009": {
+        "id": "ENL0C04959T.000009",
+        "type": "ORG",
+        "offsets": [
+            760,
+            769
+        ],
+        "text": "Messenger",
+        "arg_ann_id": "T9"
+    },
+    "ENL0C04959T.000010": {
+        "id": "ENL0C04959T.000010",
+        "type": "ORG",
+        "offsets": [
+            774,
+            782
+        ],
+        "text": "WhatsApp",
+        "arg_ann_id": "T10"
+    },
+    "ENL0C04959T.000011": {
+        "id": "ENL0C04959T.000011",
+        "type": "PER",
+        "offsets": [
+            790,
+            792
+        ],
+        "text": "we",
+        "arg_ann_id": "T11"
+    },
+    "ENL0C04959T.000012": {
+        "id": "ENL0C04959T.000012",
+        "type": "ORG",
+        "offsets": [
+            811,
+            818
+        ],
+        "text": "YouTube",
+        "arg_ann_id": "T12"
+    },
+    "ENL0C04959T.000013": {
+        "id": "ENL0C04959T.000013",
+        "type": "ORG",
+        "offsets": [
+            841,
+            848
+        ],
+        "text": "Twitter",
+        "arg_ann_id": "T13"
+    },
+    "ENL0C04959T.000014": {
+        "id": "ENL0C04959T.000014",
+        "type": "PER",
+        "offsets": [
+            867,
+            870
+        ],
+        "text": "man",
+        "arg_ann_id": "T14"
+    },
+    "ENL0C04959T.000015": {
+        "id": "ENL0C04959T.000015",
+        "type": "ORG",
+        "offsets": [
+            932,
+            942
+        ],
+        "text": "government",
+        "arg_ann_id": "T15"
+    },
+    "ENL0C04959T.000016": {
+        "id": "ENL0C04959T.000016",
+        "type": "GPE",
+        "offsets": [
+            1067,
+            1073
+        ],
+        "text": "French",
+        "arg_ann_id": "T16"
+    },
+    "ENL0C04959T.000017": {
+        "id": "ENL0C04959T.000017",
+        "type": "ORG",
+        "offsets": [
+            1082,
+            1099
+        ],
+        "text": "Pasteur Institute",
+        "arg_ann_id": "T17"
+    },
+    "ENL0C04959T.000018": {
+        "id": "ENL0C04959T.000018",
+        "type": "PER",
+        "offsets": [
+            1102,
+            1104
+        ],
+        "text": "He",
+        "arg_ann_id": "T18"
+    },
+    "ENL0C04959T.000019": {
+        "id": "ENL0C04959T.000019",
+        "type": "PER",
+        "offsets": [
+            1117,
+            1128
+        ],
+        "text": "researchers",
+        "arg_ann_id": "T19"
+    },
+    "ENL0C04959T.000020": {
+        "id": "ENL0C04959T.000020",
+        "type": "ORG",
+        "offsets": [
+            1138,
+            1142
+        ],
+        "text": "CNRS",
+        "arg_ann_id": "T20"
+    },
+    "ENL0C04959T.000021": {
+        "id": "ENL0C04959T.000021",
+        "type": "ORG",
+        "offsets": [
+            1147,
+            1153
+        ],
+        "text": "Inserm",
+        "arg_ann_id": "T21"
+    },
+    "ENL0C04959T.000022": {
+        "id": "ENL0C04959T.000022",
+        "type": "ORG",
+        "offsets": [
+            1159,
+            1167
+        ],
+        "text": "Facebook",
+        "arg_ann_id": "T22"
+    },
+    "ENL0C04959T.000023": {
+        "id": "ENL0C04959T.000023",
+        "type": "PER",
+        "offsets": [
+            1294,
+            1300
+        ],
+        "text": "groups",
+        "arg_ann_id": "T23"
+    },
+    "ENL0C04959T.000024": {
+        "id": "ENL0C04959T.000024",
+        "type": "ORG",
+        "offsets": [
+            1389,
+            1396
+        ],
+        "text": "Twitter",
+        "arg_ann_id": "T24"
+    },
+    "ENL0C04959T.000025": {
+        "id": "ENL0C04959T.000025",
+        "type": "PER",
+        "offsets": [
+            1458,
+            1463
+        ],
+        "text": "users",
+        "arg_ann_id": "T25"
+    },
+    "ENL0C04959T.000026": {
+        "id": "ENL0C04959T.000026",
+        "type": "PER",
+        "offsets": [
+            1464,
+            1467
+        ],
+        "text": "who",
+        "arg_ann_id": "T26"
+    },
+    "ENL0C04959T.000027": {
+        "id": "ENL0C04959T.000027",
+        "type": "ORG",
+        "offsets": [
+            1577,
+            1585
+        ],
+        "text": "Facebook",
+        "arg_ann_id": "T27"
+    },
+    "ENL0C04959T.000028": {
+        "id": "ENL0C04959T.000028",
+        "type": "ORG",
+        "offsets": [
+            1738,
+            1754
+        ],
+        "text": "Institut Pasteur",
+        "arg_ann_id": "T28"
+    },
+    "ENL0C04959T.000029": {
+        "id": "ENL0C04959T.000029",
+        "type": "ORG",
+        "offsets": [
+            1790,
+            1806
+        ],
+        "text": "Institut Pasteur",
+        "arg_ann_id": "T29"
+    },
+    "ENL0C04959T.000030": {
+        "id": "ENL0C04959T.000030",
+        "type": "ORG",
+        "offsets": [
+            1942,
+            1958
+        ],
+        "text": "Institut Pasteur",
+        "arg_ann_id": "T30"
+    },
+    "ENL0C04959T.000031": {
+        "id": "ENL0C04959T.000031",
+        "type": "ORG",
+        "offsets": [
+            2027,
+            2043
+        ],
+        "text": "Institut Pasteur",
+        "arg_ann_id": "T31"
+    },
+    "ENL0C04959T.000032": {
+        "id": "ENL0C04959T.000032",
+        "type": "PER",
+        "offsets": [
+            2159,
+            2162
+        ],
+        "text": "you",
+        "arg_ann_id": "T32"
+    },
+    "ENL0C04959T.000033": {
+        "id": "ENL0C04959T.000033",
+        "type": "PER",
+        "offsets": [
+            2232,
+            2244
+        ],
+        "text": "videographer",
+        "arg_ann_id": "T33"
+    },
+    "ENL0C04959T.000034": {
+        "id": "ENL0C04959T.000034",
+        "type": "PER",
+        "offsets": [
+            2264,
+            2269
+        ],
+        "text": "users",
+        "arg_ann_id": "T34"
+    },
+    "ENL0C04959T.000035": {
+        "id": "ENL0C04959T.000035",
+        "type": "PER",
+        "offsets": [
+            2283,
+            2287
+        ],
+        "text": "them",
+        "arg_ann_id": "T35"
+    },
+    "ENL0C04959T.000036": {
+        "id": "ENL0C04959T.000036",
+        "type": "PER",
+        "offsets": [
+            2305,
+            2307
+        ],
+        "text": "He",
+        "arg_ann_id": "T36"
+    },
+    "ENL0C04959T.000037": {
+        "id": "ENL0C04959T.000037",
+        "type": "PER",
+        "offsets": [
+            2321,
+            2324
+        ],
+        "text": "his",
+        "arg_ann_id": "T37"
+    },
+    "ENL0C04959T.000038": {
+        "id": "ENL0C04959T.000038",
+        "type": "PER",
+        "offsets": [
+            2357,
+            2359
+        ],
+        "text": "he",
+        "arg_ann_id": "T38"
+    },
+    "ENL0C04959T.000039": {
+        "id": "ENL0C04959T.000039",
+        "type": "GPE",
+        "offsets": [
+            2363,
+            2368
+        ],
+        "text": "there",
+        "arg_ann_id": "T39"
+    },
+    "ENL0C04959T.000040": {
+        "id": "ENL0C04959T.000040",
+        "type": "PER",
+        "offsets": [
+            2404,
+            2406
+        ],
+        "text": "We",
+        "arg_ann_id": "T40"
+    },
+    "ENL0C04959T.000041": {
+        "id": "ENL0C04959T.000041",
+        "type": "PER",
+        "offsets": [
+            2417,
+            2420
+        ],
+        "text": "you",
+        "arg_ann_id": "T41"
+    },
+    "ENL0C04959T.000042": {
+        "id": "ENL0C04959T.000042",
+        "type": "PER",
+        "offsets": [
+            2455,
+            2458
+        ],
+        "text": "who",
+        "arg_ann_id": "T42"
+    },
+    "ENL0C04959T.000043": {
+        "id": "ENL0C04959T.000043",
+        "type": "PER",
+        "offsets": [
+            2484,
+            2486
+        ],
+        "text": "We",
+        "arg_ann_id": "T43"
+    },
+    "ENL0C04959T.000044": {
+        "id": "ENL0C04959T.000044",
+        "type": "PER",
+        "offsets": [
+            2578,
+            2581
+        ],
+        "text": "you",
+        "arg_ann_id": "T44"
+    },
+    "ENL0C04959T.000045": {
+        "id": "ENL0C04959T.000045",
+        "type": "PER",
+        "offsets": [
+            2606,
+            2616
+        ],
+        "text": "Illuminati",
+        "arg_ann_id": "T45"
+    },
+    "ENL0C04959T.000046": {
+        "id": "ENL0C04959T.000046",
+        "type": "ORG",
+        "offsets": [
+            2666,
+            2672
+        ],
+        "text": "Google",
+        "arg_ann_id": "T46"
+    },
+    "ENL0C04959T.000047": {
+        "id": "ENL0C04959T.000047",
+        "type": "PER",
+        "offsets": [
+            2682,
+            2683
+        ],
+        "text": "I",
+        "arg_ann_id": "T47"
+    },
+    "ENL0C04959T.000048": {
+        "id": "ENL0C04959T.000048",
+        "type": "PER",
+        "offsets": [
+            2689,
+            2692
+        ],
+        "text": "you",
+        "arg_ann_id": "T48"
+    },
+    "ENL0C04959T.000049": {
+        "id": "ENL0C04959T.000049",
+        "type": "PER",
+        "offsets": [
+            2713,
+            2716
+        ],
+        "text": "you",
+        "arg_ann_id": "T49"
+    },
+    "ENL0C04959T.000050": {
+        "id": "ENL0C04959T.000050",
+        "type": "PER",
+        "offsets": [
+            2740,
+            2748
+        ],
+        "text": "yourself",
+        "arg_ann_id": "T50"
+    },
+    "ENL0C04959T.000051": {
+        "id": "ENL0C04959T.000051",
+        "type": "PER",
+        "offsets": [
+            2783,
+            2787
+        ],
+        "text": "team",
+        "arg_ann_id": "T51"
+    },
+    "ENL0C04959T.000052": {
+        "id": "ENL0C04959T.000052",
+        "type": "PER",
+        "offsets": [
+            2805,
+            2811
+        ],
+        "text": "people",
+        "arg_ann_id": "T52"
+    },
+    "ENL0C04959T.000053": {
+        "id": "ENL0C04959T.000053",
+        "type": "PER",
+        "offsets": [
+            2851,
+            2857
+        ],
+        "text": "anyone",
+        "arg_ann_id": "T53"
+    },
+    "ENL0C04959T.000054": {
+        "id": "ENL0C04959T.000054",
+        "type": "LOC",
+        "offsets": [
+            3070,
+            3078
+        ],
+        "text": "European",
+        "arg_ann_id": "T54"
+    },
+    "ENL0C04959T.000055": {
+        "id": "ENL0C04959T.000055",
+        "type": "ORG",
+        "offsets": [
+            3351,
+            3367
+        ],
+        "text": "Institut Pasteur",
+        "arg_ann_id": "T55"
+    },
+    "ENL0C04959T.000056": {
+        "id": "ENL0C04959T.000056",
+        "type": "PER",
+        "offsets": [
+            3775,
+            3781
+        ],
+        "text": "humans",
+        "arg_ann_id": "T56"
+    },
+    "ENL0C04959T.000057": {
+        "id": "ENL0C04959T.000057",
+        "type": "ORG",
+        "offsets": [
+            4001,
+            4006
+        ],
+        "text": "press",
+        "arg_ann_id": "T57"
+    },
+    "ENL0C04959T.000058": {
+        "id": "ENL0C04959T.000058",
+        "type": "PER",
+        "offsets": [
+            4023,
+            4032
+        ],
+        "text": "inventors",
+        "arg_ann_id": "T58"
+    },
+    "ENL0C04959T.000059": {
+        "id": "ENL0C04959T.000059",
+        "type": "PER",
+        "offsets": [
+            4050,
+            4056
+        ],
+        "text": "owners",
+        "arg_ann_id": "T59"
+    },
+    "ENL0C04959T.000060": {
+        "id": "ENL0C04959T.000060",
+        "type": "PER",
+        "offsets": [
+            4078,
+            4084
+        ],
+        "text": "author",
+        "arg_ann_id": "T60"
+    },
+    "ENL0C04959T.000061": {
+        "id": "ENL0C04959T.000061",
+        "type": "PER",
+        "offsets": [
+            4124,
+            4132
+        ],
+        "text": "inventor",
+        "arg_ann_id": "T61"
+    },
+    "ENL0C04959T.000062": {
+        "id": "ENL0C04959T.000062",
+        "type": "PER",
+        "offsets": [
+            4165,
+            4171
+        ],
+        "text": "owners",
+        "arg_ann_id": "T62"
+    },
+    "ENL0C04959T.000063": {
+        "id": "ENL0C04959T.000063",
+        "type": "PER",
+        "offsets": [
+            4199,
+            4208
+        ],
+        "text": "inventors",
+        "arg_ann_id": "T63"
+    },
+    "ENL0C04959T.000064": {
+        "id": "ENL0C04959T.000064",
+        "type": "PER",
+        "offsets": [
+            4271,
+            4275
+        ],
+        "text": "they",
+        "arg_ann_id": "T64"
+    },
+    "ENL0C04959T.000065": {
+        "id": "ENL0C04959T.000065",
+        "type": "FAC",
+        "offsets": [
+            4391,
+            4401
+        ],
+        "text": "laboratory",
+        "arg_ann_id": "T65"
+    },
+    "ENL0C04959T.000066": {
+        "id": "ENL0C04959T.000066",
+        "type": "GPE",
+        "offsets": [
+            4413,
+            4418
+        ],
+        "text": "Wuhan",
+        "arg_ann_id": "T66"
+    },
+    "ENL0C04959T.000067": {
+        "id": "ENL0C04959T.000067",
+        "type": "ORG",
+        "offsets": [
+            4447,
+            4474
+        ],
+        "text": "Wuhan Institute of Virology",
+        "arg_ann_id": "T67"
+    },
+    "ENL0C04959T.000068": {
+        "id": "ENL0C04959T.000068",
+        "type": "FAC",
+        "offsets": [
+            4504,
+            4514
+        ],
+        "text": "laboratory",
+        "arg_ann_id": "T68"
+    },
+    "ENL0C04959T.000069": {
+        "id": "ENL0C04959T.000069",
+        "type": "PER",
+        "offsets": [
+            4750,
+            4753
+        ],
+        "text": "man",
+        "arg_ann_id": "T69"
+    },
+    "ENL0C04959T.000070": {
+        "id": "ENL0C04959T.000070",
+        "type": "GPE",
+        "offsets": [
+            4780,
+            4786
+        ],
+        "text": "French",
+        "arg_ann_id": "T70"
+    },
+    "ENL0C04959T.000071": {
+        "id": "ENL0C04959T.000071",
+        "type": "PER",
+        "offsets": [
+            4794,
+            4800
+        ],
+        "text": "author",
+        "arg_ann_id": "T71"
+    },
+    "ENL0C04959T.000072": {
+        "id": "ENL0C04959T.000072",
+        "type": "PER",
+        "offsets": [
+            4847,
+            4854
+        ],
+        "text": "husband",
+        "arg_ann_id": "T72"
+    },
+    "ENL0C04959T.000073": {
+        "id": "ENL0C04959T.000073",
+        "type": "PER",
+        "offsets": [
+            4869,
+            4887
+        ],
+        "text": "Minister of Health",
+        "arg_ann_id": "T73"
+    },
+    "ENL0C04959T.000074": {
+        "id": "ENL0C04959T.000074",
+        "type": "PER",
+        "offsets": [
+            4889,
+            4891
+        ],
+        "text": "He",
+        "arg_ann_id": "T74"
+    },
+    "ENL0C04959T.000075": {
+        "id": "ENL0C04959T.000075",
+        "type": "PER",
+        "offsets": [
+            4925,
+            4934
+        ],
+        "text": "Yves L\u00e9vy",
+        "arg_ann_id": "T75"
+    },
+    "ENL0C04959T.000076": {
+        "id": "ENL0C04959T.000076",
+        "type": "PER",
+        "offsets": [
+            4936,
+            4939
+        ],
+        "text": "CEO",
+        "arg_ann_id": "T76"
+    },
+    "ENL0C04959T.000077": {
+        "id": "ENL0C04959T.000077",
+        "type": "ORG",
+        "offsets": [
+            4943,
+            4949
+        ],
+        "text": "Inserm",
+        "arg_ann_id": "T77"
+    },
+    "ENL0C04959T.000078": {
+        "id": "ENL0C04959T.000078",
+        "type": "PER",
+        "offsets": [
+            4951,
+            4958
+        ],
+        "text": "husband",
+        "arg_ann_id": "T78"
+    },
+    "ENL0C04959T.000079": {
+        "id": "ENL0C04959T.000079",
+        "type": "PER",
+        "offsets": [
+            4962,
+            4973
+        ],
+        "text": "Agnes Buzyn",
+        "arg_ann_id": "T79"
+    },
+    "ENL0C04959T.000080": {
+        "id": "ENL0C04959T.000080",
+        "type": "PER",
+        "offsets": [
+            4989,
+            4997
+        ],
+        "text": "Minister",
+        "arg_ann_id": "T80"
+    },
+    "ENL0C04959T.000081": {
+        "id": "ENL0C04959T.000081",
+        "type": "PER",
+        "offsets": [
+            5010,
+            5027
+        ],
+        "text": "Bernard Cazeneuve",
+        "arg_ann_id": "T81"
+    },
+    "ENL0C04959T.000082": {
+        "id": "ENL0C04959T.000082",
+        "type": "GPE",
+        "offsets": [
+            5045,
+            5050
+        ],
+        "text": "Wuhan",
+        "arg_ann_id": "T82"
+    },
+    "ENL0C04959T.000083": {
+        "id": "ENL0C04959T.000083",
+        "type": "FAC",
+        "offsets": [
+            5080,
+            5086
+        ],
+        "text": "center",
+        "arg_ann_id": "T83"
+    },
+    "ENL0C04959T.000084": {
+        "id": "ENL0C04959T.000084",
+        "type": "PER",
+        "offsets": [
+            5098,
+            5103
+        ],
+        "text": "their",
+        "arg_ann_id": "T84"
+    },
+    "ENL0C04959T.000085": {
+        "id": "ENL0C04959T.000085",
+        "type": "GPE",
+        "offsets": [
+            5131,
+            5145
+        ],
+        "text": "Franco-Chinese",
+        "arg_ann_id": "T85"
+    },
+    "ENL0C04959T.000086": {
+        "id": "ENL0C04959T.000086",
+        "type": "ORG",
+        "offsets": [
+            5209,
+            5219
+        ],
+        "text": "laboratory",
+        "arg_ann_id": "T86"
+    },
+    "ENL0C04959T.000087": {
+        "id": "ENL0C04959T.000087",
+        "type": "MHI",
+        "offsets": [
+            5403,
+            5410
+        ],
+        "text": "disease",
+        "arg_ann_id": "T87"
+    },
+    "ENL0C04959T.000088": {
+        "id": "ENL0C04959T.000088",
+        "type": "PER",
+        "offsets": [
+            5433,
+            5439
+        ],
+        "text": "author",
+        "arg_ann_id": "T88"
+    },
+    "ENL0C04959T.000089": {
+        "id": "ENL0C04959T.000089",
+        "type": "ORG",
+        "offsets": [
+            5687,
+            5712
+        ],
+        "text": "World Health Organization",
+        "arg_ann_id": "T89"
+    },
+    "ENL0C04959T.000090": {
+        "id": "ENL0C04959T.000090",
+        "type": "MHI",
+        "offsets": [
+            5720,
+            5727
+        ],
+        "text": "disease",
+        "arg_ann_id": "T90"
+    },
+    "ENL0C04959T.000091": {
+        "id": "ENL0C04959T.000091",
+        "type": "PER",
+        "offsets": [
+            5761,
+            5766
+        ],
+        "text": "human",
+        "arg_ann_id": "T91"
+    },
+    "ENL0C04959T.000092": {
+        "id": "ENL0C04959T.000092",
+        "type": "ORG",
+        "offsets": [
+            5957,
+            5960
+        ],
+        "text": "AFP",
+        "arg_ann_id": "T92"
+    },
+    "ENL0C04959T.000093": {
+        "id": "ENL0C04959T.000093",
+        "type": "ORG",
+        "offsets": [
+            5975,
+            5979
+        ],
+        "text": "cell",
+        "arg_ann_id": "T93"
+    },
+    "ENL0C04959T.000094": {
+        "id": "ENL0C04959T.000094",
+        "type": "GPE",
+        "offsets": [
+            6038,
+            6043
+        ],
+        "text": "China",
+        "arg_ann_id": "T94"
+    },
+    "ENL0C04959T.000095": {
+        "id": "ENL0C04959T.000095",
+        "type": "ORG",
+        "offsets": [
+            6072,
+            6082
+        ],
+        "text": "laboratory",
+        "arg_ann_id": "T95"
+    },
+    "ENL0C04959T.000096": {
+        "id": "ENL0C04959T.000096",
+        "type": "PER",
+        "offsets": [
+            6112,
+            6118
+        ],
+        "text": "author",
+        "arg_ann_id": "T96"
+    },
+    "ENL0C04959T.000097": {
+        "id": "ENL0C04959T.000097",
+        "type": "ORG",
+        "offsets": [
+            6318,
+            6325
+        ],
+        "text": "Twitter",
+        "arg_ann_id": "T97"
+    },
+    "ENL0C04959T.000098": {
+        "id": "ENL0C04959T.000098",
+        "type": "ORG",
+        "offsets": [
+            6337,
+            6353
+        ],
+        "text": "Conspiracy Watch",
+        "arg_ann_id": "T98"
+    },
+    "ENL0C04959T.000099": {
+        "id": "ENL0C04959T.000099",
+        "type": "ORG",
+        "offsets": [
+            6358,
+            6369
+        ],
+        "text": "observatory",
+        "arg_ann_id": "T99"
+    },
+    "ENL0C04959T.000100": {
+        "id": "ENL0C04959T.000100",
+        "type": "GPE",
+        "offsets": [
+            6652,
+            6663
+        ],
+        "text": "beneficiary",
+        "arg_ann_id": "T100"
+    },
+    "ENL0C04959T.000101": {
+        "id": "ENL0C04959T.000101",
+        "type": "ORG",
+        "offsets": [
+            6670,
+            6687
+        ],
+        "text": "Pasteur Institute",
+        "arg_ann_id": "T101"
+    },
+    "ENL0C04959T.000102": {
+        "id": "ENL0C04959T.000102",
+        "type": "PER",
+        "offsets": [
+            6918,
+            6920
+        ],
+        "text": "We",
+        "arg_ann_id": "T102"
+    },
+    "ENL0C04959T.000103": {
+        "id": "ENL0C04959T.000103",
+        "type": "PER",
+        "offsets": [
+            6935,
+            6944
+        ],
+        "text": "imbeciles",
+        "arg_ann_id": "T103"
+    },
+    "ENL0C04959T.000104": {
+        "id": "ENL0C04959T.000104",
+        "type": "PER",
+        "offsets": [
+            6993,
+            6996
+        ],
+        "text": "Who",
+        "arg_ann_id": "T104"
+    },
+    "ENL0C04959T.000105": {
+        "id": "ENL0C04959T.000105",
+        "type": "PER",
+        "offsets": [
+            7031,
+            7035
+        ],
+        "text": "your",
+        "arg_ann_id": "T105"
+    },
+    "ENL0C04959T.000106": {
+        "id": "ENL0C04959T.000106",
+        "type": "PER",
+        "offsets": [
+            7074,
+            7080
+        ],
+        "text": "surfer",
+        "arg_ann_id": "T106"
+    },
+    "ENL0C04959T.000107": {
+        "id": "ENL0C04959T.000107",
+        "type": "ORG",
+        "offsets": [
+            7156,
+            7164
+        ],
+        "text": "Facebook",
+        "arg_ann_id": "T107"
+    },
+    "ENL0C04959T.000108": {
+        "id": "ENL0C04959T.000108",
+        "type": "PER",
+        "offsets": [
+            7250,
+            7269
+        ],
+        "text": "Cat Antonio (Medusa",
+        "arg_ann_id": "T108"
+    },
+    "ENL0C04959T.000109": {
+        "id": "ENL0C04959T.000109",
+        "type": "PER",
+        "offsets": [
+            7273,
+            7278
+        ],
+        "text": "whose",
+        "arg_ann_id": "T109"
+    },
+    "ENL0C04959T.000110": {
+        "id": "ENL0C04959T.000110",
+        "type": "GPE",
+        "offsets": [
+            7326,
+            7333
+        ],
+        "text": "Italian",
+        "arg_ann_id": "T110"
+    },
+    "ENL0C04959T.000111": {
+        "id": "ENL0C04959T.000111",
+        "type": "ORG",
+        "offsets": [
+            7345,
+            7348
+        ],
+        "text": "its",
+        "arg_ann_id": "T111"
+    },
+    "ENL0C04959T.000112": {
+        "id": "ENL0C04959T.000112",
+        "type": "PER",
+        "offsets": [
+            7393,
+            7396
+        ],
+        "text": "his",
+        "arg_ann_id": "T112"
+    },
+    "ENL0C04959T.000113": {
+        "id": "ENL0C04959T.000113",
+        "type": "PER",
+        "offsets": [
+            7429,
+            7431
+        ],
+        "text": "we",
+        "arg_ann_id": "T113"
+    },
+    "ENL0C04959T.000114": {
+        "id": "ENL0C04959T.000114",
+        "type": "PER",
+        "offsets": [
+            7554,
+            7557
+        ],
+        "text": "man",
+        "arg_ann_id": "T114"
+    },
+    "ENL0C04959T.000115": {
+        "id": "ENL0C04959T.000115",
+        "type": "PER",
+        "offsets": [
+            7558,
+            7561
+        ],
+        "text": "who",
+        "arg_ann_id": "T115"
+    },
+    "ENL0C04959T.000116": {
+        "id": "ENL0C04959T.000116",
+        "type": "ORG",
+        "offsets": [
+            7589,
+            7597
+        ],
+        "text": "Facebook",
+        "arg_ann_id": "T116"
+    },
+    "ENL0C04959T.000117": {
+        "id": "ENL0C04959T.000117",
+        "type": "PER",
+        "offsets": [
+            7598,
+            7602
+        ],
+        "text": "user",
+        "arg_ann_id": "T117"
+    },
+    "ENL0C04959T.000118": {
+        "id": "ENL0C04959T.000118",
+        "type": "LOC",
+        "offsets": [
+            7620,
+            7633
+        ],
+        "text": "\u00cele-de-France",
+        "arg_ann_id": "T118"
+    },
+    "ENL0C04959T.000119": {
+        "id": "ENL0C04959T.000119",
+        "type": "PER",
+        "offsets": [
+            7635,
+            7637
+        ],
+        "text": "he",
+        "arg_ann_id": "T119"
+    },
+    "ENL0C04959T.000120": {
+        "id": "ENL0C04959T.000120",
+        "type": "GPE",
+        "offsets": [
+            7752,
+            7757
+        ],
+        "text": "Paris",
+        "arg_ann_id": "T120"
+    },
+    "ENL0C04959T.000121": {
+        "id": "ENL0C04959T.000121",
+        "type": "artifactexistence_creation_unspecified",
+        "offsets": [
+            200,
+            207
+        ],
+        "text": "created",
+        "arg_ann_id": "T121"
+    },
+    "ENL0C04959T.000122": {
+        "id": "ENL0C04959T.000122",
+        "type": "PTH",
+        "offsets": [
+            184,
+            195
+        ],
+        "text": "coronavirus",
+        "arg_ann_id": "T122"
+    },
+    "ENL0C04959T.000123": {
+        "id": "ENL0C04959T.000123",
+        "type": "contact_contact_unspecified",
+        "offsets": [
+            167,
+            174
+        ],
+        "text": "affirms",
+        "arg_ann_id": "T123"
+    },
+    "ENL0C04959T.000124": {
+        "id": "ENL0C04959T.000124",
+        "type": "artifactexistence_creation_unspecified",
+        "offsets": [
+            1052,
+            1059
+        ],
+        "text": "created",
+        "arg_ann_id": "T124"
+    },
+    "ENL0C04959T.000125": {
+        "id": "ENL0C04959T.000125",
+        "type": "PTH",
+        "offsets": [
+            962,
+            970
+        ],
+        "text": "Covid-19",
+        "arg_ann_id": "T125"
+    },
+    "ENL0C04959T.000126": {
+        "id": "ENL0C04959T.000126",
+        "type": "artifactexistence_creation_unspecified",
+        "offsets": [
+            1967,
+            1973
+        ],
+        "text": "invent",
+        "arg_ann_id": "T126"
+    },
+    "ENL0C04959T.000127": {
+        "id": "ENL0C04959T.000127",
+        "type": "PTH",
+        "offsets": [
+            1974,
+            1982
+        ],
+        "text": "COVID-19",
+        "arg_ann_id": "T127"
+    },
+    "ENL0C04959T.000128": {
+        "id": "ENL0C04959T.000128",
+        "type": "PTH",
+        "offsets": [
+            2011,
+            2021
+        ],
+        "text": "Sars-CoV-2",
+        "arg_ann_id": "T128"
+    },
+    "ENL0C04959T.000129": {
+        "id": "ENL0C04959T.000129",
+        "type": "movement_transportation_unspecified",
+        "offsets": [
+            4373,
+            4380
+        ],
+        "text": "escaped",
+        "arg_ann_id": "T129"
+    },
+    "ENL0C04959T.000130": {
+        "id": "ENL0C04959T.000130",
+        "type": "PTH",
+        "offsets": [
+            4367,
+            4372
+        ],
+        "text": "virus",
+        "arg_ann_id": "T130"
+    },
+    "ENL0C04959T.000131": {
+        "id": "ENL0C04959T.000131",
+        "type": "artifactexistence_creation_unspecified",
+        "offsets": [
+            4734,
+            4742
+        ],
+        "text": "creation",
+        "arg_ann_id": "T131"
+    }
+}

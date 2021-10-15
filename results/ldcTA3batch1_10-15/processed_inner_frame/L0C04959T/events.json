@@ -1,0 +1,190 @@
+{
+    "EVL0C04959T.000001": {
+        "id": "EVL0C04959T.000001",
+        "type": "artifactexistence.creation.unspecified",
+        "trigger": {
+            "offsets": [
+                200,
+                207
+            ],
+            "text": "created"
+        },
+        "arguments": [
+            {
+                "role_type": "Place",
+                "general_role_type": "AM-LOC",
+                "arg_id": "ENL0C04959T.000002",
+                "arg_ann_id": "T2",
+                "arg_type_qnode": "EMPTY_NA"
+            },
+            {
+                "role_type": "Thing_Created",
+                "general_role_type": "A1-ppt_Result_thing_created",
+                "arg_id": "ENL0C04959T.000122",
+                "arg_ann_id": "T122",
+                "arg_type_qnode": "Q7184903|Q8205328"
+            }
+        ],
+        "event_ann_id": "E1",
+        "event_type_qnode": "Q11398090"
+    },
+    "EVL0C04959T.000002": {
+        "id": "EVL0C04959T.000002",
+        "type": "contact.contact.unspecified",
+        "trigger": {
+            "offsets": [
+                167,
+                174
+            ],
+            "text": "affirms"
+        },
+        "arguments": [
+            {
+                "role_type": "Topic",
+                "general_role_type": "A1-ppt_topic_message",
+                "arg_id": "EVL0C04959T.000001",
+                "arg_ann_id": "E1",
+                "arg_type_qnode": "EMPTY_NA"
+            }
+        ],
+        "event_ann_id": "E2",
+        "event_type_qnode": "Q11024"
+    },
+    "EVL0C04959T.000003": {
+        "id": "EVL0C04959T.000003",
+        "type": "artifactexistence.creation.unspecified",
+        "trigger": {
+            "offsets": [
+                1052,
+                1059
+            ],
+            "text": "created"
+        },
+        "arguments": [
+            {
+                "role_type": "Creator",
+                "general_role_type": "A0-pag_Agent_creator",
+                "arg_id": "ENL0C04959T.000016",
+                "arg_ann_id": "T16",
+                "arg_type_qnode": "Q7239|Q11019|Q215627|Q16334295"
+            },
+            {
+                "role_type": "Creator2",
+                "general_role_type": "A0-pag_Agent_creator",
+                "arg_id": "ENL0C04959T.000017",
+                "arg_ann_id": "T17",
+                "arg_type_qnode": "Q7239|Q11019|Q215627|Q16334295"
+            },
+            {
+                "role_type": "Thing_Created",
+                "general_role_type": "A1-ppt_Result_thing_created",
+                "arg_id": "ENL0C04959T.000125",
+                "arg_ann_id": "T125",
+                "arg_type_qnode": "Q7184903|Q8205328"
+            }
+        ],
+        "event_ann_id": "E3",
+        "event_type_qnode": "Q11398090"
+    },
+    "EVL0C04959T.000004": {
+        "id": "EVL0C04959T.000004",
+        "type": "artifactexistence.creation.unspecified",
+        "trigger": {
+            "offsets": [
+                1967,
+                1973
+            ],
+            "text": "invent"
+        },
+        "arguments": [
+            {
+                "role_type": "Thing_Created",
+                "general_role_type": "A1-ppt_Result_thing_created",
+                "arg_id": "ENL0C04959T.000127",
+                "arg_ann_id": "T127",
+                "arg_type_qnode": "Q7184903|Q8205328"
+            },
+            {
+                "role_type": "Thing_Created2",
+                "general_role_type": "A1-ppt_Result_thing_created",
+                "arg_id": "ENL0C04959T.000128",
+                "arg_ann_id": "T128",
+                "arg_type_qnode": "Q7184903|Q8205328"
+            },
+            {
+                "role_type": "Creator",
+                "general_role_type": "A0-pag_Agent_creator",
+                "arg_id": "ENL0C04959T.000030",
+                "arg_ann_id": "T30",
+                "arg_type_qnode": "Q7239|Q11019|Q215627|Q16334295"
+            }
+        ],
+        "event_ann_id": "E4",
+        "event_type_qnode": "Q11398090"
+    },
+    "EVL0C04959T.000005": {
+        "id": "EVL0C04959T.000005",
+        "type": "movement.transportation.unspecified",
+        "trigger": {
+            "offsets": [
+                4373,
+                4380
+            ],
+            "text": "escaped"
+        },
+        "arguments": [
+            {
+                "role_type": "Origin",
+                "general_role_type": "Ax-dir",
+                "arg_id": "ENL0C04959T.000065",
+                "arg_ann_id": "T65",
+                "arg_type_qnode": "EMPTY_NA"
+            },
+            {
+                "role_type": "Origin2",
+                "general_role_type": "Ax-dir",
+                "arg_id": "ENL0C04959T.000066",
+                "arg_ann_id": "T66",
+                "arg_type_qnode": "EMPTY_NA"
+            },
+            {
+                "role_type": "PassengerArtifact",
+                "general_role_type": "A1-ppt_X_xx",
+                "arg_id": "ENL0C04959T.000130",
+                "arg_ann_id": "T130",
+                "arg_type_qnode": "Q4406616"
+            }
+        ],
+        "event_ann_id": "E5",
+        "event_type_qnode": "Q61509 | transport"
+    },
+    "EVL0C04959T.000006": {
+        "id": "EVL0C04959T.000006",
+        "type": "artifactexistence.creation.unspecified",
+        "trigger": {
+            "offsets": [
+                4734,
+                4742
+            ],
+            "text": "creation"
+        },
+        "arguments": [
+            {
+                "role_type": "Creator",
+                "general_role_type": "A0-pag_Agent_creator",
+                "arg_id": "ENL0C04959T.000070",
+                "arg_ann_id": "T70",
+                "arg_type_qnode": "Q7239|Q11019|Q215627|Q16334295"
+            },
+            {
+                "role_type": "Creator2",
+                "general_role_type": "A0-pag_Agent_creator",
+                "arg_id": "ENL0C04959T.000069",
+                "arg_ann_id": "T69",
+                "arg_type_qnode": "Q7239|Q11019|Q215627|Q16334295"
+            }
+        ],
+        "event_ann_id": "E6",
+        "event_type_qnode": "Q11398090"
+    }
+}

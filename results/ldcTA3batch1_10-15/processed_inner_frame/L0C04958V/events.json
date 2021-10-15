@@ -1,0 +1,751 @@
+{
+    "EVL0C04958V.000001": {
+        "id": "EVL0C04958V.000001",
+        "type": "disaster.diseaseoutbreak.unspecified",
+        "trigger": {
+            "offsets": [
+                161,
+                169
+            ],
+            "text": "outbreak"
+        },
+        "arguments": [
+            {
+                "role_type": "Disease",
+                "general_role_type": "A1-ppt_theme_disease",
+                "arg_id": "ENL0C04958V.000003",
+                "arg_ann_id": "T3",
+                "arg_type_qnode": "Q12136"
+            }
+        ],
+        "event_ann_id": "E1",
+        "event_type_qnode": "outbreak"
+    },
+    "EVL0C04958V.000002": {
+        "id": "EVL0C04958V.000002",
+        "type": "contact.contact.unspecified",
+        "trigger": {
+            "offsets": [
+                466,
+                471
+            ],
+            "text": "claim"
+        },
+        "arguments": [],
+        "event_ann_id": "E2",
+        "event_type_qnode": "Q11024"
+    },
+    "EVL0C04958V.000003": {
+        "id": "EVL0C04958V.000003",
+        "type": "contact.mediastatement.broadcast",
+        "trigger": {
+            "offsets": [
+                1027,
+                1031
+            ],
+            "text": "said"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_trasmitter",
+                "arg_id": "ENL0C04958V.000022",
+                "arg_ann_id": "T22",
+                "arg_type_qnode": "Q215627|Q16334295"
+            }
+        ],
+        "event_ann_id": "E3",
+        "event_type_qnode": "broadcasting"
+    },
+    "EVL0C04958V.000004": {
+        "id": "EVL0C04958V.000004",
+        "type": "disaster.diseaseoutbreak.unspecified",
+        "trigger": {
+            "offsets": [
+                662,
+                670
+            ],
+            "text": "outbreak"
+        },
+        "arguments": [],
+        "event_ann_id": "E4",
+        "event_type_qnode": "outbreak"
+    },
+    "EVL0C04958V.000005": {
+        "id": "EVL0C04958V.000005",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                924,
+                932
+            ],
+            "text": "promoted"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04958V.000022",
+                "arg_ann_id": "T22",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            }
+        ],
+        "event_ann_id": "E5",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04958V.000006": {
+        "id": "EVL0C04958V.000006",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                2664,
+                2671
+            ],
+            "text": "tweeted"
+        },
+        "arguments": [
+            {
+                "role_type": "Topic",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "ENL0C04958V.000225",
+                "arg_ann_id": "T225",
+                "arg_type_qnode": "Q11028"
+            },
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04958V.000070",
+                "arg_ann_id": "T70",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            }
+        ],
+        "event_ann_id": "E6",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04958V.000007": {
+        "id": "EVL0C04958V.000007",
+        "type": "disaster.diseaseoutbreak.unspecified",
+        "trigger": {
+            "offsets": [
+                2979,
+                2987
+            ],
+            "text": "outbreak"
+        },
+        "arguments": [],
+        "event_ann_id": "E7",
+        "event_type_qnode": "outbreak"
+    },
+    "EVL0C04958V.000008": {
+        "id": "EVL0C04958V.000008",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                3016,
+                3023
+            ],
+            "text": "suggest"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04958V.000080",
+                "arg_ann_id": "T80",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            },
+            {
+                "role_type": "Topic",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "ENL0C04958V.000233",
+                "arg_ann_id": "T233",
+                "arg_type_qnode": "Q11028"
+            }
+        ],
+        "event_ann_id": "E8",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04958V.000009": {
+        "id": "EVL0C04958V.000009",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                3140,
+                3146
+            ],
+            "text": "claims"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04958V.000082",
+                "arg_ann_id": "T82",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            },
+            {
+                "role_type": "Topic",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "ENL0C04958V.000235",
+                "arg_ann_id": "T235",
+                "arg_type_qnode": "Q11028"
+            },
+            {
+                "role_type": "Topic2",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "ENL0C04958V.000086",
+                "arg_ann_id": "T86",
+                "arg_type_qnode": "Q11028"
+            }
+        ],
+        "event_ann_id": "E9",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04958V.000010": {
+        "id": "EVL0C04958V.000010",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                3632,
+                3638
+            ],
+            "text": "claims"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04958V.000098",
+                "arg_ann_id": "T98",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            },
+            {
+                "role_type": "Topic",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "ENL0C04958V.000099",
+                "arg_ann_id": "T99",
+                "arg_type_qnode": "Q11028"
+            },
+            {
+                "role_type": "Topic2",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "ENL0C04958V.000100",
+                "arg_ann_id": "T100",
+                "arg_type_qnode": "Q11028"
+            },
+            {
+                "role_type": "Topic3",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "ENL0C04958V.000240",
+                "arg_ann_id": "T240",
+                "arg_type_qnode": "Q11028"
+            }
+        ],
+        "event_ann_id": "E10",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04958V.000011": {
+        "id": "EVL0C04958V.000011",
+        "type": "contact.contact.meet",
+        "trigger": {
+            "offsets": [
+                5004,
+                5008
+            ],
+            "text": "told"
+        },
+        "arguments": [
+            {
+                "role_type": "Participant1",
+                "general_role_type": "A0-pag_Agent_first_talker",
+                "arg_id": "ENL0C04958V.000245",
+                "arg_ann_id": "T245",
+                "arg_type_qnode": "Q215627|Q16334295"
+            },
+            {
+                "role_type": "Topic",
+                "general_role_type": "A2-ppt_X_subject_matter",
+                "arg_id": "ENL0C04958V.000242",
+                "arg_ann_id": "T242",
+                "arg_type_qnode": "EMPTY_NA"
+            },
+            {
+                "role_type": "Participant",
+                "general_role_type": "A0-pag_Agent_first_talker",
+                "arg_id": "ENL0C04958V.000120",
+                "arg_ann_id": "T120",
+                "arg_type_qnode": "Q215627|Q16334295"
+            }
+        ],
+        "event_ann_id": "E11",
+        "event_type_qnode": "Q21170798"
+    },
+    "EVL0C04958V.000012": {
+        "id": "EVL0C04958V.000012",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                5499,
+                5507
+            ],
+            "text": "demanded"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04958V.000151",
+                "arg_ann_id": "T151",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            },
+            {
+                "role_type": "Recipient",
+                "general_role_type": "A2-gol_recipient_hearer",
+                "arg_id": "ENL0C04958V.000152",
+                "arg_ann_id": "T152",
+                "arg_type_qnode": "Q7239|Q43229"
+            },
+            {
+                "role_type": "Topic",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "ENL0C04958V.000152",
+                "arg_ann_id": "T152",
+                "arg_type_qnode": "Q11028"
+            }
+        ],
+        "event_ann_id": "E12",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04958V.000013": {
+        "id": "EVL0C04958V.000013",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                5578,
+                5587
+            ],
+            "text": "announced"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04958V.000154",
+                "arg_ann_id": "T154",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            },
+            {
+                "role_type": "Topic",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "ENL0C04958V.000248",
+                "arg_ann_id": "T248",
+                "arg_type_qnode": "Q11028"
+            },
+            {
+                "role_type": "Recipient",
+                "general_role_type": "A2-gol_recipient_hearer",
+                "arg_id": "ENL0C04958V.000156",
+                "arg_ann_id": "T156",
+                "arg_type_qnode": "Q7239|Q43229"
+            }
+        ],
+        "event_ann_id": "E13",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04958V.000014": {
+        "id": "EVL0C04958V.000014",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                5763,
+                5767
+            ],
+            "text": "said"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04958V.000159",
+                "arg_ann_id": "T159",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            },
+            {
+                "role_type": "Topic",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "ENL0C04958V.000250",
+                "arg_ann_id": "T250",
+                "arg_type_qnode": "Q11028"
+            },
+            {
+                "role_type": "Recipient",
+                "general_role_type": "A2-gol_recipient_hearer",
+                "arg_id": "ENL0C04958V.000160",
+                "arg_ann_id": "T160",
+                "arg_type_qnode": "Q7239|Q43229"
+            }
+        ],
+        "event_ann_id": "E14",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04958V.000015": {
+        "id": "EVL0C04958V.000015",
+        "type": "contact.contact.unspecified",
+        "trigger": {
+            "offsets": [
+                294,
+                299
+            ],
+            "text": "claim"
+        },
+        "arguments": [],
+        "event_ann_id": "E15",
+        "event_type_qnode": "Q11024"
+    },
+    "EVL0C04958V.000016": {
+        "id": "EVL0C04958V.000016",
+        "type": "contact.contact.unspecified",
+        "trigger": {
+            "offsets": [
+                391,
+                396
+            ],
+            "text": "claim"
+        },
+        "arguments": [],
+        "event_ann_id": "E16",
+        "event_type_qnode": "Q11024"
+    },
+    "EVL0C04958V.000017": {
+        "id": "EVL0C04958V.000017",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                1421,
+                1426
+            ],
+            "text": "claim"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04958V.000039",
+                "arg_ann_id": "T39",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            }
+        ],
+        "event_ann_id": "E17",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04958V.000018": {
+        "id": "EVL0C04958V.000018",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                3357,
+                3363
+            ],
+            "text": "claims"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04958V.000238",
+                "arg_ann_id": "T238",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            }
+        ],
+        "event_ann_id": "E18",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04958V.000019": {
+        "id": "EVL0C04958V.000019",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                3965,
+                3973
+            ],
+            "text": "reported"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04958V.000106",
+                "arg_ann_id": "T106",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            },
+            {
+                "role_type": "Topic",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "ENL0C04958V.000107",
+                "arg_ann_id": "T107",
+                "arg_type_qnode": "Q11028"
+            }
+        ],
+        "event_ann_id": "E19",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04958V.000020": {
+        "id": "EVL0C04958V.000020",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                1129,
+                1136
+            ],
+            "text": "tweeted"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04958V.000032",
+                "arg_ann_id": "T32",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            },
+            {
+                "role_type": "Topic",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "ENL0C04958V.000222",
+                "arg_ann_id": "T222",
+                "arg_type_qnode": "Q11028"
+            }
+        ],
+        "event_ann_id": "E20",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04958V.000021": {
+        "id": "EVL0C04958V.000021",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                1576,
+                1585
+            ],
+            "text": "amplified"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04958V.000224",
+                "arg_ann_id": "T224",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            }
+        ],
+        "event_ann_id": "E21",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04958V.000022": {
+        "id": "EVL0C04958V.000022",
+        "type": "disaster.diseaseoutbreak.unspecified",
+        "trigger": {
+            "offsets": [
+                7171,
+                7180
+            ],
+            "text": "outbreak,"
+        },
+        "arguments": [],
+        "event_ann_id": "E22",
+        "event_type_qnode": "outbreak"
+    },
+    "EVL0C04958V.000023": {
+        "id": "EVL0C04958V.000023",
+        "type": "movement.transportation.unspecified",
+        "trigger": {
+            "offsets": [
+                238,
+                244
+            ],
+            "text": "spread"
+        },
+        "arguments": [],
+        "event_ann_id": "E23",
+        "event_type_qnode": "Q61509 | transport"
+    },
+    "EVL0C04958V.000024": {
+        "id": "EVL0C04958V.000024",
+        "type": "contact.contact.unspecified",
+        "trigger": {
+            "offsets": [
+                737,
+                743
+            ],
+            "text": "claims"
+        },
+        "arguments": [
+            {
+                "role_type": "Participant",
+                "general_role_type": "A0-pag_agent_first_communicator",
+                "arg_id": "ENL0C04958V.000015",
+                "arg_ann_id": "T15",
+                "arg_type_qnode": "Q215627|Q16334295"
+            },
+            {
+                "role_type": "Participant1",
+                "general_role_type": "A0-pag_agent_first_communicator",
+                "arg_id": "ENL0C04958V.000017",
+                "arg_ann_id": "T17",
+                "arg_type_qnode": "Q215627|Q16334295"
+            }
+        ],
+        "event_ann_id": "E24",
+        "event_type_qnode": "Q11024"
+    },
+    "EVL0C04958V.000025": {
+        "id": "EVL0C04958V.000025",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                5421,
+                5429
+            ],
+            "text": "referred"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04958V.000146",
+                "arg_ann_id": "T146",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            },
+            {
+                "role_type": "Topic",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "ENL0C04958V.000305",
+                "arg_ann_id": "T305",
+                "arg_type_qnode": "Q11028"
+            }
+        ],
+        "event_ann_id": "E25",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04958V.000026": {
+        "id": "EVL0C04958V.000026",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                5973,
+                5978
+            ],
+            "text": "cited"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04958V.000167",
+                "arg_ann_id": "T167",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            },
+            {
+                "role_type": "Topic",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "ENL0C04958V.000282",
+                "arg_ann_id": "T282",
+                "arg_type_qnode": "Q11028"
+            },
+            {
+                "role_type": "Topic2",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "ENL0C04958V.000308",
+                "arg_ann_id": "T308",
+                "arg_type_qnode": "Q11028"
+            }
+        ],
+        "event_ann_id": "E26",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04958V.000027": {
+        "id": "EVL0C04958V.000027",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                7181,
+                7188
+            ],
+            "text": "tweeted"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04958V.000199",
+                "arg_ann_id": "T199",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            },
+            {
+                "role_type": "Topic",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "ENL0C04958V.000288",
+                "arg_ann_id": "T288",
+                "arg_type_qnode": "Q11028"
+            },
+            {
+                "role_type": "Topic2",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "ENL0C04958V.000202",
+                "arg_ann_id": "T202",
+                "arg_type_qnode": "Q11028"
+            }
+        ],
+        "event_ann_id": "E27",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04958V.000028": {
+        "id": "EVL0C04958V.000028",
+        "type": "movement.transportation.unspecified",
+        "trigger": {
+            "offsets": [
+                1084,
+                1091
+            ],
+            "text": "brought"
+        },
+        "arguments": [],
+        "event_ann_id": "E28",
+        "event_type_qnode": "Q61509 | transport"
+    },
+    "EVL0C04958V.000029": {
+        "id": "EVL0C04958V.000029",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                2726,
+                2736
+            ],
+            "text": "reiterates"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04958V.000072",
+                "arg_ann_id": "T72",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            },
+            {
+                "role_type": "Topic",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "ENL0C04958V.000227",
+                "arg_ann_id": "T227",
+                "arg_type_qnode": "Q11028"
+            },
+            {
+                "role_type": "Topic2",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "ENL0C04958V.000075",
+                "arg_ann_id": "T75",
+                "arg_type_qnode": "Q11028"
+            }
+        ],
+        "event_ann_id": "E29",
+        "event_type_qnode": "Q567303"
+    }
+}

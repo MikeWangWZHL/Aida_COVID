@@ -1,0 +1,44 @@
+T1	PER 1 16	Jeremy Corbyn’s
+T2	PER 17 24	Brother
+T3	PER 32 42	Bill Gates
+T4	PER 47 59	George Soros
+T5	PER 85 100	Jeremy Corbyn’s
+T6	PER 101 108	brother
+T7	PER 109 114	Piers
+T8	PER 132 142	Bill Gates
+T9	PER 147 159	George Soros
+T10	PER 210 219	followers
+T11	ORG 223 230	Twitter
+T12	PER 282 292	population
+T13	PER 321 323	He
+T14	PER 340 348	PANDEMIC
+T15	ORG 460 463	AIM
+T16	GPE 524 529	THEIR
+T17	PER 602 610	PANDEMIC
+T18	ORG 718 721	AIM
+T19	GPE 782 787	THEIR
+T20	PER 874 886	Piers Corbyn
+T21	Claim_Boundary 132 186	Bill Gates and George Soros are behind the coronavirus
+A1	ClaimID_Semantic T21 CLL0C049DUI.000000
+T22	Claim_Sentence 86 186	eremy Corbyn’s brother Piers has claimed that Bill Gates and George Soros are behind the coronavirus
+A2	ClaimID_Semantic T22 CLL0C049DUI.000000
+T23	Claim_Boundary 132 186	Bill Gates and George Soros are behind the coronavirus
+A3	ClaimID_Semantic T23 CLL0C049DUI.000001
+T24	Claim_Sentence 85 186	Jeremy Corbyn’s brother Piers has claimed that Bill Gates and George Soros are behind the coronavirus
+A4	ClaimID_Semantic T24 CLL0C049DUI.000001
+T25	Claim_Boundary 32 82	Bill Gates and George Soros Are Behind Coronavirus
+A5	ClaimID_Semantic T25 CLL0C049DUI.000000
+T26	Claim_Boundary 32 82	Bill Gates and George Soros Are Behind Coronavirus
+A6	ClaimID_Semantic T26 CLL0C049DUI.000001
+T27	Claim_Sentence 1 82	Jeremy Corbyn’s Brother Claims Bill Gates and George Soros Are Behind Coronavirus
+A7	ClaimID_Semantic T27 CLL0C049DUI.000000
+T28	Claim_Sentence 1 82	Jeremy Corbyn’s Brother Claims Bill Gates and George Soros Are Behind Coronavirus
+A8	ClaimID_Semantic T28 CLL0C049DUI.000001
+T29	contact_contact_unspecified 25 31	Claims
+E1	contact_contact_unspecified:T29 Topic:T30
+A9	ClaimID_Associate E1 CLL0C049DUI.000000
+T30	MHI 71 82	Coronavirus
+T31	contact_contact_unspecified 119 126	claimed
+E2	contact_contact_unspecified:T31 Topic:T32
+A10	ClaimID_Associate E2 CLL0C049DUI.000001
+T32	MHI 175 186	coronavirus

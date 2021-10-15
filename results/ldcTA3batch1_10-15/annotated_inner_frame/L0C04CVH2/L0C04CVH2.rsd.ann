@@ -1,0 +1,257 @@
+T1	PER 1 6	Trump
+T2	GPE 12 18	Sweden
+T3	PER 80 82	he
+T4	GPE 90 92	US
+T7	GPE 148 154	Sweden
+T8	GPE 221 226	state
+T9	PER 237 246	officials
+T10	GPE 254 267	United States
+T11	PER 274 279	Trump
+T12	GPE 340 346	Sweden
+T13	ORG 369 372	its
+T14	PER 420 426	people
+T15	GPE 437 442	there
+T16	GPE 486 495	countries
+T17	GPE 499 505	Norway
+T18	GPE 513 520	Finland
+T19	GPE 530 537	Denmark
+T20	GPE 552 565	United States
+T21	PER 594 599	Trump
+T22	GPE 615 621	Sweden
+T23	GPE 785 787	US
+T24	GPE 847 854	country
+T25	GPE 899 905	Sweden
+T26	GPE 939 941	US
+T27	GPE 1017 1027	its Nordic
+T28	GPE 1028 1037	neighbors
+T29	PER 1071 1076	Trump
+T30	ORG 1077 1091	administration
+T31	PER 1154 1161	leaders
+T32	PER 1172 1181	officials
+T33	GPE 1196 1202	states
+T34	ORG 1278 1289	White House
+T35	GPE 1321 1327	states
+T36	GPE 1328 1331	who
+T37	PER 1378 1381	our
+T38	PER 1395 1400	Trump
+T39	GPE 1439 1442	our
+T40	LOC 1474 1482	European
+T41	GPE 1483 1492	countries
+T42	GPE 1562 1568	Sweden
+T43	PER 1577 1587	population
+T44	PER 1641 1655	Anders Tegnell
+T45	PER 1677 1691	epidemiologist
+T46	PER 1700 1710	strategist
+T47	GPE 1719 1726	country
+T48	GPE 1820 1826	Sweden
+T49	PER 1860 1866	people
+T50	FAC 1880 1887	schools
+T51	ORG 1892 1904	universities
+T52	PER 1916 1921	those
+T53	FAC 2002 2008	places
+T54	FAC 2015 2022	schools
+T55	PER 2035 2043	children
+T56	FAC 2045 2056	restaurants
+T57	ORG 2067 2077	businesses
+T58	FAC 2099 2110	restaurants
+T59	PER 2185 2190	local
+T60	PER 2192 2206	Johan Mattsson
+T61	ORG 2217 2231	New York Times
+T62	PER 2234 2236	My
+T63	PER 2249 2254	those
+T64	PER 2269 2271	we
+T65	GPE 2298 2302	here
+T66	GPE 2306 2312	Sweden
+T67	GPE 2372 2381	countries
+T68	PER 2384 2386	he
+T69	GPE 2404 2406	we
+T70	ORG 2468 2499	Swedish Public Health Authority
+T71	PER 2528 2535	percent
+T72	PER 2555 2561	people
+T73	GPE 2565 2574	Stockholm
+T74	ORG 2629 2638	authority
+T75	PER 2684 2691	citizen
+T76	PER 2692 2702	population
+T77	FAC 2738 2745	percent
+T78	FAC 2773 2778	homes
+T79	PER 2795 2800	Trump
+T80	GPE 2848 2855	Swedish
+T81	PER 2975 2981	people
+T82	PER 3027 3037	population
+T83	GPE 3041 3047	Sweden
+T84	PER 3070 3075	Trump
+T85	PER 3083 3087	They
+T86	GPE 3110 3116	Sweden
+T87	GPE 3178 3185	Swedish
+T88	PER 3193 3201	Minister
+T89	PER 3202 3217	Lena Hallengren
+T90	ORG 3236 3252	Associated Press
+T91	GPE 3255 3257	We
+T92	ORG 3323 3348	World Health Organization
+T93	GPE 3357 3363	Sweden
+T94	GPE 3370 3375	model
+T95	GPE 3387 3396	countries
+T96	PER 3431 3440	Mike Ryan
+T97	PER 3468 3474	expert
+T98	GPE 3524 3536	Scandinavian
+T99	GPE 3537 3544	country
+T100	PER 3548 3549	I
+T101	GPE 3586 3592	Sweden
+T102	MHI 3650 3657	disease
+T103	PER 3670 3672	he
+T104	PER 3721 3725	Ryan
+T105	GPE 3731 3737	Sweden
+T106	PER 3839 3845	people
+T107	FAC 3864 3874	facilities
+T108	GPE 3884 3886	it
+T109	GPE 3911 3913	it
+T110	GPE 3938 3941	its
+T111	GPE 3960 3963	its
+T112	PER 3964 3973	citizenry
+T113	GPE 4009 4012	its
+T114	PER 4013 4021	citizens
+T115	PER 4071 4075	Ryan
+T116	PER 4099 4103	they
+T117	PER 4169 4179	population
+T118	PER 4184 4185	I
+T119	GPE 4195 4197	we
+T120	GPE 4225 4231	Sweden
+T121	GPE 4245 4250	model
+T122	GPE 4254 4256	we
+T123	PER 4279 4286	society
+T124	GPE 4296 4298	we
+T125	PER 4322 4326	Ryan
+T126	PER 4384 4393	academics
+T127	PER 4394 4397	who
+T128	ORG 4422 4432	government
+T129	Claim_Sentence 1 116	Trump says Sweden is ‘paying heavily’ for not ordering coronavirus lockdown as he boasts US made ‘correct decision’
+A1	ClaimID_Associate T129 CLL0C04CVH2.000001
+T130	Claim_Boundary 12 76	Sweden is ‘paying heavily’ for not ordering coronavirus lockdown
+A3	ClaimID_Semantic T130 CLL0C04CVH2.000001
+T131	contact_contact_broadcast 7 11	says
+E1	contact_contact_broadcast:T131 Communicator:T1 Topic:E3
+A4	ClaimID_Semantic E1 CLL0C04CVH2.000000
+T132	contact_contact_broadcast 83 89	boasts
+E2	contact_contact_broadcast:T132 Communicator:T1 Topic:E4
+A5	ClaimID_Semantic E2 CLL0C04CVH2.000001
+T134	government_legislate_legislate 47 55	ordering
+E3	government_legislate_legislate:T134 Place:T2 Law:T136
+A7	ClaimID_Semantic E3 CLL0C04CVH2.000000
+T135	government_legislate_legislate 93 97	made
+E4	government_legislate_legislate:T135 Place:T4
+A8	ClaimID_Semantic E4 CLL0C04CVH2.000001
+T136	LAW 56 76	coronavirus lockdown
+T137	Claim_Sentence 120 272	PRESIDENT Donald Trump said Sweden is paying the price for not enforcing stay-at-home orders the way state and local officials in the United States did.
+A2	ClaimID_Associate T137 CLL0C04CVH2.000001
+T138	PER 120 142	PRESIDENT Donald Trump
+T5	Claim_Boundary 148 212	Sweden is paying the price for not enforcing stay-at-home orders
+A6	ClaimID_Semantic T5 CLL0C04CVH2.000001
+T6	government_legislate_legislate 183 192	enforcing
+E5	government_legislate_legislate:T6 Place:T7 Law:T133
+T133	LAW 193 212	stay-at-home orders
+T139	contact_contact_broadcast 143 147	said
+E6	contact_contact_broadcast:T139 Communicator:T138 Topic:E5
+T140	Claim_Sentence 274 399	Trump tweeted on Thursday that, "Despite reports to the contrary, Sweden is paying heavily for its decision not to lockdown."
+A9	ClaimID_Associate T140 CLL0C04CVH2.000001
+T141	contact_contact_broadcast 280 287	tweeted
+E7	contact_contact_broadcast:T141 Communicator:T11 Topic:E8
+T142	Claim_Boundary 90 116	US made ‘correct decision’
+A10	ClaimID_Semantic T142 CLL0C04CVH2.000002
+A11	ClaimID2_Associate T129 CLL0C04CVH2.000002
+T143	disaster_diseaseoutbreak_unspecified 350 364	paying heavily
+E8	disaster_diseaseoutbreak_unspecified:T143 Place:T12
+T145	LAW 389 397	lockdown
+T144	government_legislate_legislate 373 381	decision
+E9	government_legislate_legislate:T144 Law:T145 Place:T12 GovernmentBody:T13
+T146	Claim_Boundary 340 398	Sweden is paying heavily for its decision not to lockdown.
+A12	ClaimID_Semantic T146 CLL0C04CVH2.000001
+T147	disaster_diseaseoutbreak_unspecified 23 37	paying heavily
+E10	disaster_diseaseoutbreak_unspecified:T147 Place:T2
+T149	Claim_Boundary 548 591	The United States made the correct decision
+A13	ClaimID_Semantic T149 CLL0C04CVH2.000002
+T150	government_legislate_legislate 566 570	made
+E11	government_legislate_legislate:T150 Place:T20
+T151	Claim_Sentence 547 593;594 613	"The United States made the correct decision!" Trump wrote online.
+A15	ClaimID_Associate T151 CLL0C04CVH2.000002
+T148	contact_contact_broadcast 600 605	wrote
+E12	contact_contact_broadcast:T148 Communicator:T21 Topic:E11
+T152	government_legislate_legislate 1092 1098	issued
+E13	government_legislate_legislate:T152 GovernmentBody:T30 Law:T153
+A14	ClaimID_Associate E13 CLL0C04CVH2.000002
+T153	LAW 1099 1125	social distancing measures
+T154	Claim_Sentence 1460 1639	Despite other European countries enforcing strict lockdowns to prevent the spread of the coronavirus, Sweden, with a population of 10 million, has gone for a "low-scale approach."
+A16	ClaimID_Associate T154 CLL0C04CVH2.000003
+T155	Claim_Boundary 1562 1639	Sweden, with a population of 10 million, has gone for a "low-scale approach."
+A17	ClaimID2_Semantic T155 CLL0C04CVH2.000003
+T156	Claim_Sentence 1641 1818	Anders Tegnell, the country’s chief epidemiologist and top strategist for the country in the fight against the pandemic, said it "is much more sustainable" over a longer period.
+A18	ClaimID_Associate T156 CLL0C04CVH2.000004
+T157	Claim_Boundary 1767 1818	it "is much more sustainable" over a longer period.
+A19	ClaimID2_Semantic T157 CLL0C04CVH2.000004
+T158	contact_contact_broadcast 1762 1766	said
+E14	contact_contact_broadcast:T158 Communicator:T44
+T159	Claim_Sentence 2181 2314	One local, Johan Mattsson, told The New York Times: "My respect for those who died, but we are doing something right here in Sweden."
+A20	ClaimID_Associate T159 CLL0C04CVH2.000005
+T160	contact_discussion_correspondence 2208 2212	told
+E15	contact_discussion_correspondence:T160 Participant:T60 Participant1:T61
+T161	Claim_Boundary 2269 2312	we are doing something right here in Sweden
+A21	ClaimID2_Semantic T161 CLL0C04CVH2.000005
+T162	Claim_Sentence 2795 2921	Trump previously suggested that the rising number of Swedish deaths is because of the country’s idea to embrace herd immunity.
+A22	ClaimID_Associate T162 CLL0C04CVH2.000006
+T163	Claim_Boundary 2827 2920	the rising number of Swedish deaths is because of the country’s idea to embrace herd immunity
+A23	ClaimID2_Semantic T163 CLL0C04CVH2.000006
+T164	government_agreements_unspecified 2899 2906	embrace
+E16	government_agreements_unspecified:T164 
+T165	contact_contact_broadcast 2812 2821	suggested
+E17	contact_contact_broadcast:T165 Communicator:T79 Topic:E16
+T167	Claim_Boundary 3110 3146	Sweden is suffering very, very badly
+A25	ClaimID2_Semantic T167 CLL0C04CVH2.000001
+T166	Claim_Sentence 3110 3147	Sweden is suffering very, very badly.
+A24	ClaimID_Associate T166 CLL0C04CVH2.000001
+T168	Claim_Sentence 3174 3303	But Swedish Health Minister Lena Hallengren recently told The Associated Press: "We have never had a strategy for herd immunity."
+A26	ClaimID_Associate T168 CLL0C04CVH2.000007
+T169	Claim_Boundary 3255 3301	We have never had a strategy for herd immunity
+A27	ClaimID_Semantic T169 CLL0C04CVH2.000007
+T170	government_agreements_unspecified 3275 3283	strategy
+E18	government_agreements_unspecified:T170 
+T171	contact_contact_broadcast 3227 3231	told
+E19	contact_contact_broadcast:T171 Communicator:T89 Recipient:T90 Topic:E18
+T172	Claim_Sentence 3305 3425	On Wednesday, the World Health Organization praised Sweden as a "model" for other countries to follow amid the pandemic.
+A28	ClaimID_Associate T172 CLL0C04CVH2.000008
+T173	Claim_Boundary 3357 3424	Sweden as a "model" for other countries to follow amid the pandemic
+A29	ClaimID_Semantic T173 CLL0C04CVH2.000008
+T174	contact_contact_broadcast 3349 3356	praised
+E20	contact_contact_broadcast:T174 Communicator:T92
+T175	Claim_Sentence 3431 3545	Mike Ryan, the WHO’s top emergencies expert, said there are "lessons to be learned" from the Scandinavian country.
+A30	ClaimID_Associate T175 CLL0C04CVH2.000009
+T176	Claim_Boundary 3481 3544	there are "lessons to be learned" from the Scandinavian country
+A31	ClaimID_Semantic T176 CLL0C04CVH2.000009
+T177	contact_contact_broadcast 3476 3480	said
+E21	contact_contact_broadcast:T177 Communicator:T96
+T178	Claim_Sentence 3547 3678;3679 3719	"I think there’s a perception out that Sweden has not put in control measures and just has allowed the disease to spread," he said. "Nothing can be further from the truth."
+A32	ClaimID_Associate T178 CLL0C04CVH2.000010
+T179	Claim_Boundary 3680 3717	Nothing can be further from the truth
+A33	ClaimID_Semantic T179 CLL0C04CVH2.000010
+T180	contact_contact_broadcast 3673 3677	said
+E22	contact_contact_broadcast:T180 
+A34	ClaimID_Associate E22 CLL0C04CVH2.000010
+T181	government_legislate_legislate 3601 3604	put
+E23	government_legislate_legislate:T181 Place:T101 Law:T182
+A35	ClaimID_Associate E23 CLL0C04CVH2.000010
+T182	LAW 3608 3624	control measures
+T183	Claim_Sentence 3721 3876	Ryan said Sweden has "put in place a very strong public policy around social distancing, around caring and protecting people in long-term care facilities."
+A36	ClaimID_Semantic T183 CLL0C04CVH2.000010
+T184	Claim_Boundary 3731 3876	Sweden has "put in place a very strong public policy around social distancing, around caring and protecting people in long-term care facilities."
+A37	ClaimID_Semantic T184 CLL0C04CVH2.000010
+T185	government_legislate_legislate 3743 3755	put in place
+E24	government_legislate_legislate:T185 Place:T105 Law:T186
+T186	LAW 3770 3783	public policy
+T187	contact_contact_broadcast 3726 3730	said
+E25	contact_contact_broadcast:T187 Communicator:T104 Topic:E24
+T188	Claim_Sentence 4183 4332	"I think if we are to reach a new normal, Sweden represents a model if we wish to get back to a society in which we don’t have lockdowns," Ryan said.
+A38	ClaimID_Associate T188 CLL0C04CVH2.000008
+T189	Claim_Boundary 4184 4319	I think if we are to reach a new normal, Sweden represents a model if we wish to get back to a society in which we don’t have lockdowns
+A39	ClaimID_Semantic T189 CLL0C04CVH2.000008
+T190	contact_contact_broadcast 4327 4331	said
+E26	contact_contact_broadcast:T190 Communicator:T125
+T191	disaster_diseaseoutbreak_unspecified 3416 3424	pandemic
+E27	disaster_diseaseoutbreak_unspecified:T191 

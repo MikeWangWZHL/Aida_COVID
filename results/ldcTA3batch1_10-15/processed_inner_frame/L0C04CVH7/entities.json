@@ -1,0 +1,902 @@
+{
+    "ENL0C04CVH7.000001": {
+        "id": "ENL0C04CVH7.000001",
+        "type": "PER",
+        "offsets": [
+            1,
+            6
+        ],
+        "text": "Cuomo",
+        "arg_ann_id": "T1"
+    },
+    "ENL0C04CVH7.000002": {
+        "id": "ENL0C04CVH7.000002",
+        "type": "PER",
+        "offsets": [
+            12,
+            14
+        ],
+        "text": "he",
+        "arg_ann_id": "T2"
+    },
+    "ENL0C04CVH7.000003": {
+        "id": "ENL0C04CVH7.000003",
+        "type": "GPE",
+        "offsets": [
+            46,
+            48
+        ],
+        "text": "NY",
+        "arg_ann_id": "T3"
+    },
+    "ENL0C04CVH7.000004": {
+        "id": "ENL0C04CVH7.000004",
+        "type": "GPE",
+        "offsets": [
+            69,
+            77
+        ],
+        "text": "New York",
+        "arg_ann_id": "T4"
+    },
+    "ENL0C04CVH7.000005": {
+        "id": "ENL0C04CVH7.000005",
+        "type": "PER",
+        "offsets": [
+            83,
+            95
+        ],
+        "text": "Andrew Cuomo",
+        "arg_ann_id": "T5"
+    },
+    "ENL0C04CVH7.000006": {
+        "id": "ENL0C04CVH7.000006",
+        "type": "PER",
+        "offsets": [
+            115,
+            117
+        ],
+        "text": "he",
+        "arg_ann_id": "T6"
+    },
+    "ENL0C04CVH7.000007": {
+        "id": "ENL0C04CVH7.000007",
+        "type": "PER",
+        "offsets": [
+            156,
+            158
+        ],
+        "text": "he",
+        "arg_ann_id": "T7"
+    },
+    "ENL0C04CVH7.000008": {
+        "id": "ENL0C04CVH7.000008",
+        "type": "PER",
+        "offsets": [
+            180,
+            182
+        ],
+        "text": "he",
+        "arg_ann_id": "T8"
+    },
+    "ENL0C04CVH7.000009": {
+        "id": "ENL0C04CVH7.000009",
+        "type": "GPE",
+        "offsets": [
+            222,
+            235
+        ],
+        "text": "New York City",
+        "arg_ann_id": "T9"
+    },
+    "ENL0C04CVH7.000010": {
+        "id": "ENL0C04CVH7.000010",
+        "type": "PER",
+        "offsets": [
+            236,
+            245
+        ],
+        "text": "residents",
+        "arg_ann_id": "T10"
+    },
+    "ENL0C04CVH7.000011": {
+        "id": "ENL0C04CVH7.000011",
+        "type": "PER",
+        "offsets": [
+            361,
+            362
+        ],
+        "text": "I",
+        "arg_ann_id": "T11"
+    },
+    "ENL0C04CVH7.000012": {
+        "id": "ENL0C04CVH7.000012",
+        "type": "PER",
+        "offsets": [
+            384,
+            385
+        ],
+        "text": "I",
+        "arg_ann_id": "T12"
+    },
+    "ENL0C04CVH7.000013": {
+        "id": "ENL0C04CVH7.000013",
+        "type": "PER",
+        "offsets": [
+            452,
+            457
+        ],
+        "text": "Cuomo",
+        "arg_ann_id": "T13"
+    },
+    "ENL0C04CVH7.000014": {
+        "id": "ENL0C04CVH7.000014",
+        "type": "FAC",
+        "offsets": [
+            488,
+            495
+        ],
+        "text": "shelter",
+        "arg_ann_id": "T14"
+    },
+    "ENL0C04CVH7.000015": {
+        "id": "ENL0C04CVH7.000015",
+        "type": "GPE",
+        "offsets": [
+            528,
+            541
+        ],
+        "text": "San Francisco",
+        "arg_ann_id": "T15"
+    },
+    "ENL0C04CVH7.000016": {
+        "id": "ENL0C04CVH7.000016",
+        "type": "LOC",
+        "offsets": [
+            542,
+            550
+        ],
+        "text": "Bay Area",
+        "arg_ann_id": "T16"
+    },
+    "ENL0C04CVH7.000017": {
+        "id": "ENL0C04CVH7.000017",
+        "type": "PER",
+        "offsets": [
+            571,
+            577
+        ],
+        "text": "people",
+        "arg_ann_id": "T17"
+    },
+    "ENL0C04CVH7.000018": {
+        "id": "ENL0C04CVH7.000018",
+        "type": "PER",
+        "offsets": [
+            587,
+            592
+        ],
+        "text": "their",
+        "arg_ann_id": "T18"
+    },
+    "ENL0C04CVH7.000019": {
+        "id": "ENL0C04CVH7.000019",
+        "type": "FAC",
+        "offsets": [
+            593,
+            598
+        ],
+        "text": "homes",
+        "arg_ann_id": "T19"
+    },
+    "ENL0C04CVH7.000020": {
+        "id": "ENL0C04CVH7.000020",
+        "type": "GPE",
+        "offsets": [
+            658,
+            671
+        ],
+        "text": "New York City",
+        "arg_ann_id": "T20"
+    },
+    "ENL0C04CVH7.000021": {
+        "id": "ENL0C04CVH7.000021",
+        "type": "PER",
+        "offsets": [
+            678,
+            692
+        ],
+        "text": "Bill de Blasio",
+        "arg_ann_id": "T21"
+    },
+    "ENL0C04CVH7.000022": {
+        "id": "ENL0C04CVH7.000022",
+        "type": "PER",
+        "offsets": [
+            706,
+            708
+        ],
+        "text": "he",
+        "arg_ann_id": "T22"
+    },
+    "ENL0C04CVH7.000023": {
+        "id": "ENL0C04CVH7.000023",
+        "type": "GPE",
+        "offsets": [
+            752,
+            756
+        ],
+        "text": "city",
+        "arg_ann_id": "T23"
+    },
+    "ENL0C04CVH7.000024": {
+        "id": "ENL0C04CVH7.000024",
+        "type": "GPE",
+        "offsets": [
+            758,
+            763
+        ],
+        "text": "which",
+        "arg_ann_id": "T24"
+    },
+    "ENL0C04CVH7.000025": {
+        "id": "ENL0C04CVH7.000025",
+        "type": "MHI",
+        "offsets": [
+            801,
+            809
+        ],
+        "text": "COVID-19",
+        "arg_ann_id": "T25"
+    },
+    "ENL0C04CVH7.000026": {
+        "id": "ENL0C04CVH7.000026",
+        "type": "PER",
+        "offsets": [
+            816,
+            821
+        ],
+        "text": "Cuomo",
+        "arg_ann_id": "T26"
+    },
+    "ENL0C04CVH7.000027": {
+        "id": "ENL0C04CVH7.000027",
+        "type": "ORG",
+        "offsets": [
+            830,
+            833
+        ],
+        "text": "CNN",
+        "arg_ann_id": "T27"
+    },
+    "ENL0C04CVH7.000028": {
+        "id": "ENL0C04CVH7.000028",
+        "type": "PER",
+        "offsets": [
+            929,
+            935
+        ],
+        "text": "people",
+        "arg_ann_id": "T28"
+    },
+    "ENL0C04CVH7.000029": {
+        "id": "ENL0C04CVH7.000029",
+        "type": "FAC",
+        "offsets": [
+            963,
+            967
+        ],
+        "text": "room",
+        "arg_ann_id": "T29"
+    },
+    "ENL0C04CVH7.000030": {
+        "id": "ENL0C04CVH7.000030",
+        "type": "PER",
+        "offsets": [
+            971,
+            976
+        ],
+        "text": "their",
+        "arg_ann_id": "T30"
+    },
+    "ENL0C04CVH7.000031": {
+        "id": "ENL0C04CVH7.000031",
+        "type": "FAC",
+        "offsets": [
+            977,
+            981
+        ],
+        "text": "home",
+        "arg_ann_id": "T31"
+    },
+    "ENL0C04CVH7.000032": {
+        "id": "ENL0C04CVH7.000032",
+        "type": "FAC",
+        "offsets": [
+            1004,
+            1009
+        ],
+        "text": "there",
+        "arg_ann_id": "T32"
+    },
+    "ENL0C04CVH7.000033": {
+        "id": "ENL0C04CVH7.000033",
+        "type": "PER",
+        "offsets": [
+            1016,
+            1020
+        ],
+        "text": "they",
+        "arg_ann_id": "T33"
+    },
+    "ENL0C04CVH7.000034": {
+        "id": "ENL0C04CVH7.000034",
+        "type": "PER",
+        "offsets": [
+            1066,
+            1072
+        ],
+        "text": "people",
+        "arg_ann_id": "T34"
+    },
+    "ENL0C04CVH7.000035": {
+        "id": "ENL0C04CVH7.000035",
+        "type": "PER",
+        "offsets": [
+            1119,
+            1124
+        ],
+        "text": "Cuomo",
+        "arg_ann_id": "T35"
+    },
+    "ENL0C04CVH7.000036": {
+        "id": "ENL0C04CVH7.000036",
+        "type": "PER",
+        "offsets": [
+            1136,
+            1137
+        ],
+        "text": "I",
+        "arg_ann_id": "T36"
+    },
+    "ENL0C04CVH7.000037": {
+        "id": "ENL0C04CVH7.000037",
+        "type": "PER",
+        "offsets": [
+            1149,
+            1151
+        ],
+        "text": "my",
+        "arg_ann_id": "T37"
+    },
+    "ENL0C04CVH7.000038": {
+        "id": "ENL0C04CVH7.000038",
+        "type": "PER",
+        "offsets": [
+            1206,
+            1212
+        ],
+        "text": "people",
+        "arg_ann_id": "T38"
+    },
+    "ENL0C04CVH7.000039": {
+        "id": "ENL0C04CVH7.000039",
+        "type": "PER",
+        "offsets": [
+            1216,
+            1221
+        ],
+        "text": "their",
+        "arg_ann_id": "T39"
+    },
+    "ENL0C04CVH7.000040": {
+        "id": "ENL0C04CVH7.000040",
+        "type": "FAC",
+        "offsets": [
+            1222,
+            1227
+        ],
+        "text": "homes",
+        "arg_ann_id": "T40"
+    },
+    "ENL0C04CVH7.000041": {
+        "id": "ENL0C04CVH7.000041",
+        "type": "FAC",
+        "offsets": [
+            1252,
+            1261
+        ],
+        "text": "roadblock",
+        "arg_ann_id": "T41"
+    },
+    "ENL0C04CVH7.000042": {
+        "id": "ENL0C04CVH7.000042",
+        "type": "GPE",
+        "offsets": [
+            1269,
+            1282
+        ],
+        "text": "New York City",
+        "arg_ann_id": "T42"
+    },
+    "ENL0C04CVH7.000043": {
+        "id": "ENL0C04CVH7.000043",
+        "type": "PER",
+        "offsets": [
+            1286,
+            1291
+        ],
+        "text": "Cuomo",
+        "arg_ann_id": "T43"
+    },
+    "ENL0C04CVH7.000044": {
+        "id": "ENL0C04CVH7.000044",
+        "type": "PER",
+        "offsets": [
+            1327,
+            1342
+        ],
+        "text": "Alisyn Camerota",
+        "arg_ann_id": "T44"
+    },
+    "ENL0C04CVH7.000045": {
+        "id": "ENL0C04CVH7.000045",
+        "type": "PER",
+        "offsets": [
+            1362,
+            1368
+        ],
+        "text": "people",
+        "arg_ann_id": "T45"
+    },
+    "ENL0C04CVH7.000046": {
+        "id": "ENL0C04CVH7.000046",
+        "type": "PER",
+        "offsets": [
+            1386,
+            1390
+        ],
+        "text": "they",
+        "arg_ann_id": "T46"
+    },
+    "ENL0C04CVH7.000047": {
+        "id": "ENL0C04CVH7.000047",
+        "type": "FAC",
+        "offsets": [
+            1406,
+            1410
+        ],
+        "text": "park",
+        "arg_ann_id": "T47"
+    },
+    "ENL0C04CVH7.000048": {
+        "id": "ENL0C04CVH7.000048",
+        "type": "FAC",
+        "offsets": [
+            1419,
+            1423
+        ],
+        "text": "home",
+        "arg_ann_id": "T48"
+    },
+    "ENL0C04CVH7.000049": {
+        "id": "ENL0C04CVH7.000049",
+        "type": "PER",
+        "offsets": [
+            1463,
+            1468
+        ],
+        "text": "their",
+        "arg_ann_id": "T49"
+    },
+    "ENL0C04CVH7.000050": {
+        "id": "ENL0C04CVH7.000050",
+        "type": "PER",
+        "offsets": [
+            1493,
+            1494
+        ],
+        "text": "I",
+        "arg_ann_id": "T50"
+    },
+    "ENL0C04CVH7.000051": {
+        "id": "ENL0C04CVH7.000051",
+        "type": "PER",
+        "offsets": [
+            1520,
+            1526
+        ],
+        "text": "anyone",
+        "arg_ann_id": "T51"
+    },
+    "ENL0C04CVH7.000052": {
+        "id": "ENL0C04CVH7.000052",
+        "type": "GPE",
+        "offsets": [
+            1534,
+            1539
+        ],
+        "text": "State",
+        "arg_ann_id": "T52"
+    },
+    "ENL0C04CVH7.000053": {
+        "id": "ENL0C04CVH7.000053",
+        "type": "GPE",
+        "offsets": [
+            1543,
+            1551
+        ],
+        "text": "New York",
+        "arg_ann_id": "T53"
+    },
+    "ENL0C04CVH7.000054": {
+        "id": "ENL0C04CVH7.000054",
+        "type": "PER",
+        "offsets": [
+            1554,
+            1559
+        ],
+        "text": "Cuomo",
+        "arg_ann_id": "T54"
+    },
+    "ENL0C04CVH7.000055": {
+        "id": "ENL0C04CVH7.000055",
+        "type": "PER",
+        "offsets": [
+            1567,
+            1568
+        ],
+        "text": "I",
+        "arg_ann_id": "T55"
+    },
+    "ENL0C04CVH7.000056": {
+        "id": "ENL0C04CVH7.000056",
+        "type": "GPE",
+        "offsets": [
+            1603,
+            1608
+        ],
+        "text": "state",
+        "arg_ann_id": "T56"
+    },
+    "ENL0C04CVH7.000057": {
+        "id": "ENL0C04CVH7.000057",
+        "type": "GPE",
+        "offsets": [
+            1612,
+            1620
+        ],
+        "text": "New York",
+        "arg_ann_id": "T57"
+    },
+    "ENL0C04CVH7.000058": {
+        "id": "ENL0C04CVH7.000058",
+        "type": "LOC",
+        "offsets": [
+            1687,
+            1700
+        ],
+        "text": "Hudson Valley",
+        "arg_ann_id": "T58"
+    },
+    "ENL0C04CVH7.000059": {
+        "id": "ENL0C04CVH7.000059",
+        "type": "government_legislate_legislate",
+        "offsets": [
+            24,
+            30
+        ],
+        "text": "impose",
+        "arg_ann_id": "T59"
+    },
+    "ENL0C04CVH7.000060": {
+        "id": "ENL0C04CVH7.000060",
+        "type": "LAW",
+        "offsets": [
+            31,
+            42
+        ],
+        "text": "martial law",
+        "arg_ann_id": "T60"
+    },
+    "ENL0C04CVH7.000061": {
+        "id": "ENL0C04CVH7.000061",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            7,
+            11
+        ],
+        "text": "says",
+        "arg_ann_id": "T61"
+    },
+    "ENL0C04CVH7.000062": {
+        "id": "ENL0C04CVH7.000062",
+        "type": "Claim_Sentence",
+        "offsets": [
+            1,
+            65
+        ],
+        "text": "Cuomo says he will not impose martial law in NY over coronavirus",
+        "arg_ann_id": "T62"
+    },
+    "ENL0C04CVH7.000063": {
+        "id": "ENL0C04CVH7.000063",
+        "type": "Claim_Boundary",
+        "offsets": [
+            12,
+            65
+        ],
+        "text": "he will not impose martial law in NY over coronavirus",
+        "arg_ann_id": "T63"
+    },
+    "ENL0C04CVH7.000064": {
+        "id": "ENL0C04CVH7.000064",
+        "type": "government_legislate_legislate",
+        "offsets": [
+            134,
+            140
+        ],
+        "text": "impose",
+        "arg_ann_id": "T64"
+    },
+    "ENL0C04CVH7.000065": {
+        "id": "ENL0C04CVH7.000065",
+        "type": "LAW",
+        "offsets": [
+            141,
+            152
+        ],
+        "text": "martial law",
+        "arg_ann_id": "T65"
+    },
+    "ENL0C04CVH7.000066": {
+        "id": "ENL0C04CVH7.000066",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            96,
+            100
+        ],
+        "text": "said",
+        "arg_ann_id": "T66"
+    },
+    "ENL0C04CVH7.000067": {
+        "id": "ENL0C04CVH7.000067",
+        "type": "control_impedeinterferewith_unspecified",
+        "offsets": [
+            169,
+            174
+        ],
+        "text": "quell",
+        "arg_ann_id": "T67"
+    },
+    "ENL0C04CVH7.000068": {
+        "id": "ENL0C04CVH7.000068",
+        "type": "Claim_Sentence",
+        "offsets": [
+            83,
+            315
+        ],
+        "text": "Andrew Cuomo said Thursday that he is not going to impose martial law as he sought to quell what he said was panic over the possibility of New York City residents being told to shelter in place to curb the spread of the coronavirus.",
+        "arg_ann_id": "T68"
+    },
+    "ENL0C04CVH7.000069": {
+        "id": "ENL0C04CVH7.000069",
+        "type": "Claim_Boundary",
+        "offsets": [
+            115,
+            315
+        ],
+        "text": "he is not going to impose martial law as he sought to quell what he said was panic over the possibility of New York City residents being told to shelter in place to curb the spread of the coronavirus.",
+        "arg_ann_id": "T69"
+    },
+    "ENL0C04CVH7.000070": {
+        "id": "ENL0C04CVH7.000070",
+        "type": "government_legislate_legislate",
+        "offsets": [
+            725,
+            733
+        ],
+        "text": "imposing",
+        "arg_ann_id": "T70"
+    },
+    "ENL0C04CVH7.000071": {
+        "id": "ENL0C04CVH7.000071",
+        "type": "LAW",
+        "offsets": [
+            739,
+            744
+        ],
+        "text": "rules",
+        "arg_ann_id": "T71"
+    },
+    "ENL0C04CVH7.000072": {
+        "id": "ENL0C04CVH7.000072",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            693,
+            697
+        ],
+        "text": "said",
+        "arg_ann_id": "T72"
+    },
+    "ENL0C04CVH7.000073": {
+        "id": "ENL0C04CVH7.000073",
+        "type": "life_die_nonviolentdeath",
+        "offsets": [
+            789,
+            795
+        ],
+        "text": "deaths",
+        "arg_ann_id": "T73"
+    },
+    "ENL0C04CVH7.000074": {
+        "id": "ENL0C04CVH7.000074",
+        "type": "contact_contact_meet",
+        "offsets": [
+            822,
+            826
+        ],
+        "text": "said",
+        "arg_ann_id": "T74"
+    },
+    "ENL0C04CVH7.000075": {
+        "id": "ENL0C04CVH7.000075",
+        "type": "artifactexistence_creation_unspecified",
+        "offsets": [
+            865,
+            875
+        ],
+        "text": "originated",
+        "arg_ann_id": "T75"
+    },
+    "ENL0C04CVH7.000076": {
+        "id": "ENL0C04CVH7.000076",
+        "type": "ABS",
+        "offsets": [
+            848,
+            864
+        ],
+        "text": "shelter in place",
+        "arg_ann_id": "T76"
+    },
+    "ENL0C04CVH7.000077": {
+        "id": "ENL0C04CVH7.000077",
+        "type": "contact_contact_meet",
+        "offsets": [
+            1125,
+            1129
+        ],
+        "text": "said",
+        "arg_ann_id": "T77"
+    },
+    "ENL0C04CVH7.000078": {
+        "id": "ENL0C04CVH7.000078",
+        "type": "government_legislate_legislate",
+        "offsets": [
+            1197,
+            1205
+        ],
+        "text": "imprison",
+        "arg_ann_id": "T78"
+    },
+    "ENL0C04CVH7.000079": {
+        "id": "ENL0C04CVH7.000079",
+        "type": "control_impedeinterferewith_unspecified",
+        "offsets": [
+            1156,
+            1169
+        ],
+        "text": "knocking down",
+        "arg_ann_id": "T79"
+    },
+    "ENL0C04CVH7.000080": {
+        "id": "ENL0C04CVH7.000080",
+        "type": "contact_prevarication_unspecified",
+        "offsets": [
+            1170,
+            1176
+        ],
+        "text": "rumors",
+        "arg_ann_id": "T80"
+    },
+    "ENL0C04CVH7.000081": {
+        "id": "ENL0C04CVH7.000081",
+        "type": "Claim_Sentence",
+        "offsets": [
+            658,
+            810
+        ],
+        "text": "New York City Mayor Bill de Blasio said Tuesday he was considering imposing such rules in the city, which has recorded at least 11 deaths from COVID-19.",
+        "arg_ann_id": "T81"
+    },
+    "ENL0C04CVH7.000082": {
+        "id": "ENL0C04CVH7.000082",
+        "type": "Claim_Boundary",
+        "offsets": [
+            706,
+            756
+        ],
+        "text": "he was considering imposing such rules in the city",
+        "arg_ann_id": "T82"
+    },
+    "ENL0C04CVH7.000083": {
+        "id": "ENL0C04CVH7.000083",
+        "type": "Claim_Sentence",
+        "offsets": [
+            1132,
+            1283
+        ],
+        "text": "And I spent half my day knocking down rumors that we're going to imprison people in their homes, there is going to be a roadblock around New York City.",
+        "arg_ann_id": "T83"
+    },
+    "ENL0C04CVH7.000084": {
+        "id": "ENL0C04CVH7.000084",
+        "type": "Claim_Boundary",
+        "offsets": [
+            1182,
+            1282
+        ],
+        "text": "we're going to imprison people in their homes, there is going to be a roadblock around New York City",
+        "arg_ann_id": "T84"
+    },
+    "ENL0C04CVH7.000085": {
+        "id": "ENL0C04CVH7.000085",
+        "type": "government_legislate_legislate",
+        "offsets": [
+            1511,
+            1519
+        ],
+        "text": "imprison",
+        "arg_ann_id": "T85"
+    },
+    "ENL0C04CVH7.000086": {
+        "id": "ENL0C04CVH7.000086",
+        "type": "contact_contact_meet",
+        "offsets": [
+            1560,
+            1564
+        ],
+        "text": "said",
+        "arg_ann_id": "T86"
+    },
+    "ENL0C04CVH7.000087": {
+        "id": "ENL0C04CVH7.000087",
+        "type": "government_legislate_legislate",
+        "offsets": [
+            1585,
+            1587
+        ],
+        "text": "do",
+        "arg_ann_id": "T87"
+    },
+    "ENL0C04CVH7.000088": {
+        "id": "ENL0C04CVH7.000088",
+        "type": "LAW",
+        "offsets": [
+            1588,
+            1599
+        ],
+        "text": "martial law",
+        "arg_ann_id": "T88"
+    },
+    "ENL0C04CVH7.000089": {
+        "id": "ENL0C04CVH7.000089",
+        "type": "MHI",
+        "offsets": [
+            303,
+            314
+        ],
+        "text": "coronavirus",
+        "arg_ann_id": "T89"
+    },
+    "ENL0C04CVH7.000090": {
+        "id": "ENL0C04CVH7.000090",
+        "type": "disaster_diseaseoutbreak_unspecified",
+        "offsets": [
+            289,
+            295
+        ],
+        "text": "spread",
+        "arg_ann_id": "T90"
+    }
+}

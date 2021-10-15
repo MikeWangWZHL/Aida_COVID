@@ -1,0 +1,72 @@
+{
+    "ATL0C049DUI.000001": {
+        "id": "ATL0C049DUI.000001",
+        "type": "ClaimID_Semantic",
+        "arg_id": "ENL0C049DUI.000021",
+        "value": "CLL0C049DUI.000000",
+        "arg_ann_id": "T21"
+    },
+    "ATL0C049DUI.000002": {
+        "id": "ATL0C049DUI.000002",
+        "type": "ClaimID_Semantic",
+        "arg_id": "ENL0C049DUI.000022",
+        "value": "CLL0C049DUI.000000",
+        "arg_ann_id": "T22"
+    },
+    "ATL0C049DUI.000003": {
+        "id": "ATL0C049DUI.000003",
+        "type": "ClaimID_Semantic",
+        "arg_id": "ENL0C049DUI.000023",
+        "value": "CLL0C049DUI.000001",
+        "arg_ann_id": "T23"
+    },
+    "ATL0C049DUI.000004": {
+        "id": "ATL0C049DUI.000004",
+        "type": "ClaimID_Semantic",
+        "arg_id": "ENL0C049DUI.000024",
+        "value": "CLL0C049DUI.000001",
+        "arg_ann_id": "T24"
+    },
+    "ATL0C049DUI.000005": {
+        "id": "ATL0C049DUI.000005",
+        "type": "ClaimID_Semantic",
+        "arg_id": "ENL0C049DUI.000025",
+        "value": "CLL0C049DUI.000000",
+        "arg_ann_id": "T25"
+    },
+    "ATL0C049DUI.000006": {
+        "id": "ATL0C049DUI.000006",
+        "type": "ClaimID_Semantic",
+        "arg_id": "ENL0C049DUI.000026",
+        "value": "CLL0C049DUI.000001",
+        "arg_ann_id": "T26"
+    },
+    "ATL0C049DUI.000007": {
+        "id": "ATL0C049DUI.000007",
+        "type": "ClaimID_Semantic",
+        "arg_id": "ENL0C049DUI.000027",
+        "value": "CLL0C049DUI.000000",
+        "arg_ann_id": "T27"
+    },
+    "ATL0C049DUI.000008": {
+        "id": "ATL0C049DUI.000008",
+        "type": "ClaimID_Semantic",
+        "arg_id": "ENL0C049DUI.000028",
+        "value": "CLL0C049DUI.000001",
+        "arg_ann_id": "T28"
+    },
+    "ATL0C049DUI.000009": {
+        "id": "ATL0C049DUI.000009",
+        "type": "ClaimID_Associate",
+        "arg_id": "EVL0C049DUI.000001",
+        "value": "CLL0C049DUI.000000",
+        "arg_ann_id": "E1"
+    },
+    "ATL0C049DUI.000010": {
+        "id": "ATL0C049DUI.000010",
+        "type": "ClaimID_Associate",
+        "arg_id": "EVL0C049DUI.000002",
+        "value": "CLL0C049DUI.000001",
+        "arg_ann_id": "E2"
+    }
+}
