@@ -1,0 +1,89 @@
+T1	PER 8 23	estadounidenses
+T2	PER 84 95	científicos
+T3	PER 125 137	legisladores
+T4	PER 194 207	Larry Klayman
+T5	PER 210 212	su
+T6	ORG 213 225	organización
+T7	ORG 227 240	Freedom Watch
+T8	GPE 253 258	China
+T9	WEA 285 296	el covid-19
+T10	LOC 336 342	centro
+T11	PER 406 413	abogado
+T12	GPE 417 424	Florida
+T13	GPE 467 473	Dallas
+T14	ORG 494 520	República Popular de China
+T15	ORG 659 669	tribunales
+T16	PER 705 717	Donald Trump
+T17	GPE 734 739	chino
+T18	GPE 762 776	Estados Unidos
+T19	LOC 782 787	mundo
+T20	PER 802 807	miles
+T21	PER 811 819	personas
+T22	PER 872 879	Klayman
+T23	PER 910 914	suyo
+T24	ORG 919 932	Freedom Watch
+T25	ORG 938 949	Buzz Photos
+T26	ORG 954 961	negocio
+T27	PER 965 973	McKinney
+T28	ORG 978 980	se
+T29	PER 1061 1069	personas
+T30	PER 1070 1072	se
+T31	PER 1100 1111	demandantes
+T32	ORG 1113 1124	Buzz Photos
+T33	PER 1192 1201	empleados
+T34	ORG 1255 1262	negocio
+T35	GPE 1394 1399	China
+T36	GPE 1412 1414	su
+T37	WEA 1440 1445	armas
+T38	FAC 1516 1523	centros
+T39	PER 1579 1586	Klayman
+T40	PER 1617 1626	activista
+T41	PER 1680 1682	su
+T42	PER 1732 1734	su
+T43	PER 1756 1762	jurado
+T44	PER 1805 1813	víctimas
+T45	GPE 1849 1854	China
+T46	PER 1857 1860	Sus
+T47	PER 1861 1869	críticos
+T48	PER 1884 1891	Klayman
+T49	PER 1904 1912	promotor
+T50	PER 1970 1981	presidentes
+T51	GPE 1985 1999	Estados Unidos
+T52	PER 2001 2008	líderes
+T53	ORG 2021 2030	gobiernos
+T54	ORG 2044 2071	Southern Poverty Law Center
+T55	PER 2072 2074	lo
+T56	PER 2096 2103	abogado
+T57	PER 2144 2155	profesional
+T58	PER 2180 2185	Líder
+T59	GPE 2197 2201	Irán
+T60	PER 2212 2214	su
+T61	PER 2222 2227	madre
+T62	WEA 2231 2242	El covid-19
+T63	GPE 2260 2265	China
+T64	GPE 2343 2354	poblaciones
+T65	PER 2363 2370	Klayman
+T66	PER 2374 2376	su
+T67	PER 2391 2401	demandados
+T68	ORG 2414 2440	República Popular de China
+T69	ORG 2445 2475	Ejército Popular de Liberación
+T70	ORG 2481 2488	fuerzas
+T71	GPE 2500 2505	China
+T72	ORG 2510 2541	Instituto de Virología de Wuhan
+T73	PER 2543 2554	Shi Zhengli
+T74	ORG 2569 2578	instituto
+T75	PER 2599 2607	Chen Wei
+T76	ORG 2613 2644	Ejército de Liberación de China
+T77	PER 2650 2664	investigadores
+T78	MHI 2678 2683	virus
+T79	FAC 2701 2708	mercado
+T80	GPE 2730 2735	Wuhan
+T81	GPE 2737 2742	China
+T82	GPE 2790 2795	China
+T83	GPE 2863 2868	China
+T84	ORG 2952 2983	Instituto de Virología de Wuhan
+T85	GPE 2989 2995	ciudad
+T86	GPE 2999 3004	Wuhan
+T87	GPE 3006 3011	China
+T88	GPE 3019 3028	provincia
+T89	GPE 3032 3037	Hubei

@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="rus">
+<DOC id="L0C04958I" lang="rus" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="5707" raw_text_md5="f72bcc31cffd02be4d817f78ff5464e9">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="58">
+<ORIGINAL_TEXT>Coronavirus: US says Russia behind disinformation campaign</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="11">Coronavirus</TOKEN>
+<TOKEN id="token-0-1" pos="punct" morph="none" start_char="12" end_char="12">:</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="14" end_char="15">US</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="17" end_char="20">says</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="22" end_char="27">Russia</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="29" end_char="34">behind</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="36" end_char="49">disinformation</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="51" end_char="58">campaign</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="62" end_char="272">
+<ORIGINAL_TEXT>Thousands of Russian-linked social media accounts have launched a coordinated effort to spread misinformation and alarm about coronavirus, disrupting global efforts to fight the epidemic, US officials have said.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="62" end_char="70">Thousands</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="72" end_char="73">of</TOKEN>
+<TOKEN id="token-1-2" pos="unknown" morph="none" start_char="75" end_char="88">Russian-linked</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="90" end_char="95">social</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="97" end_char="101">media</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="103" end_char="110">accounts</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="112" end_char="115">have</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="117" end_char="124">launched</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="126" end_char="126">a</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="128" end_char="138">coordinated</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="140" end_char="145">effort</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="147" end_char="148">to</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="150" end_char="155">spread</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="157" end_char="170">misinformation</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="172" end_char="174">and</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="176" end_char="180">alarm</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="182" end_char="186">about</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="188" end_char="198">coronavirus</TOKEN>
+<TOKEN id="token-1-18" pos="punct" morph="none" start_char="199" end_char="199">,</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="201" end_char="210">disrupting</TOKEN>
+<TOKEN id="token-1-20" pos="word" morph="none" start_char="212" end_char="217">global</TOKEN>
+<TOKEN id="token-1-21" pos="word" morph="none" start_char="219" end_char="225">efforts</TOKEN>
+<TOKEN id="token-1-22" pos="word" morph="none" start_char="227" end_char="228">to</TOKEN>
+<TOKEN id="token-1-23" pos="word" morph="none" start_char="230" end_char="234">fight</TOKEN>
+<TOKEN id="token-1-24" pos="word" morph="none" start_char="236" end_char="238">the</TOKEN>
+<TOKEN id="token-1-25" pos="word" morph="none" start_char="240" end_char="247">epidemic</TOKEN>
+<TOKEN id="token-1-26" pos="punct" morph="none" start_char="248" end_char="248">,</TOKEN>
+<TOKEN id="token-1-27" pos="word" morph="none" start_char="250" end_char="251">US</TOKEN>
+<TOKEN id="token-1-28" pos="word" morph="none" start_char="253" end_char="261">officials</TOKEN>
+<TOKEN id="token-1-29" pos="word" morph="none" start_char="263" end_char="266">have</TOKEN>
+<TOKEN id="token-1-30" pos="word" morph="none" start_char="268" end_char="271">said</TOKEN>
+<TOKEN id="token-1-31" pos="punct" morph="none" start_char="272" end_char="272">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="275" end_char="455">
+<ORIGINAL_TEXT>The disinformation campaign promotes unfounded conspiracy theories that the US is behind the new coronavirus outbreak, in an apparent bid to damage America’s image around the world.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="275" end_char="277">The</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="279" end_char="292">disinformation</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="294" end_char="301">campaign</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="303" end_char="310">promotes</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="312" end_char="320">unfounded</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="322" end_char="331">conspiracy</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="333" end_char="340">theories</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="342" end_char="345">that</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="347" end_char="349">the</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="351" end_char="352">US</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="354" end_char="355">is</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="357" end_char="362">behind</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="364" end_char="366">the</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="368" end_char="370">new</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="372" end_char="382">coronavirus</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="384" end_char="391">outbreak</TOKEN>
+<TOKEN id="token-2-16" pos="punct" morph="none" start_char="392" end_char="392">,</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="394" end_char="395">in</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="397" end_char="398">an</TOKEN>
+<TOKEN id="token-2-19" pos="word" morph="none" start_char="400" end_char="407">apparent</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="409" end_char="411">bid</TOKEN>
+<TOKEN id="token-2-21" pos="word" morph="none" start_char="413" end_char="414">to</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="416" end_char="421">damage</TOKEN>
+<TOKEN id="token-2-23" pos="word" morph="none" start_char="423" end_char="431">America’s</TOKEN>
+<TOKEN id="token-2-24" pos="word" morph="none" start_char="433" end_char="437">image</TOKEN>
+<TOKEN id="token-2-25" pos="word" morph="none" start_char="439" end_char="444">around</TOKEN>
+<TOKEN id="token-2-26" pos="word" morph="none" start_char="446" end_char="448">the</TOKEN>
+<TOKEN id="token-2-27" pos="word" morph="none" start_char="450" end_char="454">world</TOKEN>
+<TOKEN id="token-2-28" pos="punct" morph="none" start_char="455" end_char="455">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="458" end_char="684">
+<ORIGINAL_TEXT>State department officials tasked with combatting Russian disinformation told Agence France-Presse (AFP) false personas were being used on Twitter, Facebook and Instagram to advance Russian talking points in multiple languages.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="458" end_char="462">State</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="464" end_char="473">department</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="475" end_char="483">officials</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="485" end_char="490">tasked</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="492" end_char="495">with</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="497" end_char="506">combatting</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="508" end_char="514">Russian</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="516" end_char="529">disinformation</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="531" end_char="534">told</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="536" end_char="541">Agence</TOKEN>
+<TOKEN id="token-3-10" pos="unknown" morph="none" start_char="543" end_char="555">France-Presse</TOKEN>
+<TOKEN id="token-3-11" pos="punct" morph="none" start_char="557" end_char="557">(</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="558" end_char="560">AFP</TOKEN>
+<TOKEN id="token-3-13" pos="punct" morph="none" start_char="561" end_char="561">)</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="563" end_char="567">false</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="569" end_char="576">personas</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="578" end_char="581">were</TOKEN>
+<TOKEN id="token-3-17" pos="word" morph="none" start_char="583" end_char="587">being</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="589" end_char="592">used</TOKEN>
+<TOKEN id="token-3-19" pos="word" morph="none" start_char="594" end_char="595">on</TOKEN>
+<TOKEN id="token-3-20" pos="word" morph="none" start_char="597" end_char="603">Twitter</TOKEN>
+<TOKEN id="token-3-21" pos="punct" morph="none" start_char="604" end_char="604">,</TOKEN>
+<TOKEN id="token-3-22" pos="word" morph="none" start_char="606" end_char="613">Facebook</TOKEN>
+<TOKEN id="token-3-23" pos="word" morph="none" start_char="615" end_char="617">and</TOKEN>
+<TOKEN id="token-3-24" pos="word" morph="none" start_char="619" end_char="627">Instagram</TOKEN>
+<TOKEN id="token-3-25" pos="word" morph="none" start_char="629" end_char="630">to</TOKEN>
+<TOKEN id="token-3-26" pos="word" morph="none" start_char="632" end_char="638">advance</TOKEN>
+<TOKEN id="token-3-27" pos="word" morph="none" start_char="640" end_char="646">Russian</TOKEN>
+<TOKEN id="token-3-28" pos="word" morph="none" start_char="648" end_char="654">talking</TOKEN>
+<TOKEN id="token-3-29" pos="word" morph="none" start_char="656" end_char="661">points</TOKEN>
+<TOKEN id="token-3-30" pos="word" morph="none" start_char="663" end_char="664">in</TOKEN>
+<TOKEN id="token-3-31" pos="word" morph="none" start_char="666" end_char="673">multiple</TOKEN>
+<TOKEN id="token-3-32" pos="word" morph="none" start_char="675" end_char="683">languages</TOKEN>
+<TOKEN id="token-3-33" pos="punct" morph="none" start_char="684" end_char="684">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="687" end_char="928">
+<ORIGINAL_TEXT>"Russia’s intent is to sow discord and undermine US institutions and alliances from within, including through covert and coercive malign influence campaigns," said Philip Reeker, the acting assistant secretary of state for Europe and Eurasia.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="punct" morph="none" start_char="687" end_char="687">"</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="688" end_char="695">Russia’s</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="697" end_char="702">intent</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="704" end_char="705">is</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="707" end_char="708">to</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="710" end_char="712">sow</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="714" end_char="720">discord</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="722" end_char="724">and</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="726" end_char="734">undermine</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="736" end_char="737">US</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="739" end_char="750">institutions</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="752" end_char="754">and</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="756" end_char="764">alliances</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="766" end_char="769">from</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="771" end_char="776">within</TOKEN>
+<TOKEN id="token-4-15" pos="punct" morph="none" start_char="777" end_char="777">,</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="779" end_char="787">including</TOKEN>
+<TOKEN id="token-4-17" pos="word" morph="none" start_char="789" end_char="795">through</TOKEN>
+<TOKEN id="token-4-18" pos="word" morph="none" start_char="797" end_char="802">covert</TOKEN>
+<TOKEN id="token-4-19" pos="word" morph="none" start_char="804" end_char="806">and</TOKEN>
+<TOKEN id="token-4-20" pos="word" morph="none" start_char="808" end_char="815">coercive</TOKEN>
+<TOKEN id="token-4-21" pos="word" morph="none" start_char="817" end_char="822">malign</TOKEN>
+<TOKEN id="token-4-22" pos="word" morph="none" start_char="824" end_char="832">influence</TOKEN>
+<TOKEN id="token-4-23" pos="word" morph="none" start_char="834" end_char="842">campaigns</TOKEN>
+<TOKEN id="token-4-24" pos="punct" morph="none" start_char="843" end_char="844">,"</TOKEN>
+<TOKEN id="token-4-25" pos="word" morph="none" start_char="846" end_char="849">said</TOKEN>
+<TOKEN id="token-4-26" pos="word" morph="none" start_char="851" end_char="856">Philip</TOKEN>
+<TOKEN id="token-4-27" pos="word" morph="none" start_char="858" end_char="863">Reeker</TOKEN>
+<TOKEN id="token-4-28" pos="punct" morph="none" start_char="864" end_char="864">,</TOKEN>
+<TOKEN id="token-4-29" pos="word" morph="none" start_char="866" end_char="868">the</TOKEN>
+<TOKEN id="token-4-30" pos="word" morph="none" start_char="870" end_char="875">acting</TOKEN>
+<TOKEN id="token-4-31" pos="word" morph="none" start_char="877" end_char="885">assistant</TOKEN>
+<TOKEN id="token-4-32" pos="word" morph="none" start_char="887" end_char="895">secretary</TOKEN>
+<TOKEN id="token-4-33" pos="word" morph="none" start_char="897" end_char="898">of</TOKEN>
+<TOKEN id="token-4-34" pos="word" morph="none" start_char="900" end_char="904">state</TOKEN>
+<TOKEN id="token-4-35" pos="word" morph="none" start_char="906" end_char="908">for</TOKEN>
+<TOKEN id="token-4-36" pos="word" morph="none" start_char="910" end_char="915">Europe</TOKEN>
+<TOKEN id="token-4-37" pos="word" morph="none" start_char="917" end_char="919">and</TOKEN>
+<TOKEN id="token-4-38" pos="word" morph="none" start_char="921" end_char="927">Eurasia</TOKEN>
+<TOKEN id="token-4-39" pos="punct" morph="none" start_char="928" end_char="928">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="931" end_char="1107">
+<ORIGINAL_TEXT>"By spreading disinformation about coronavirus, Russian malign actors are once again choosing to threaten public safety by distracting from the global health response," he said.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="punct" morph="none" start_char="931" end_char="931">"</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="932" end_char="933">By</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="935" end_char="943">spreading</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="945" end_char="958">disinformation</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="960" end_char="964">about</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="966" end_char="976">coronavirus</TOKEN>
+<TOKEN id="token-5-6" pos="punct" morph="none" start_char="977" end_char="977">,</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="979" end_char="985">Russian</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="987" end_char="992">malign</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="994" end_char="999">actors</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="1001" end_char="1003">are</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="1005" end_char="1008">once</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="1010" end_char="1014">again</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="1016" end_char="1023">choosing</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="1025" end_char="1026">to</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="1028" end_char="1035">threaten</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="1037" end_char="1042">public</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="1044" end_char="1049">safety</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="1051" end_char="1052">by</TOKEN>
+<TOKEN id="token-5-19" pos="word" morph="none" start_char="1054" end_char="1064">distracting</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="1066" end_char="1069">from</TOKEN>
+<TOKEN id="token-5-21" pos="word" morph="none" start_char="1071" end_char="1073">the</TOKEN>
+<TOKEN id="token-5-22" pos="word" morph="none" start_char="1075" end_char="1080">global</TOKEN>
+<TOKEN id="token-5-23" pos="word" morph="none" start_char="1082" end_char="1087">health</TOKEN>
+<TOKEN id="token-5-24" pos="word" morph="none" start_char="1089" end_char="1096">response</TOKEN>
+<TOKEN id="token-5-25" pos="punct" morph="none" start_char="1097" end_char="1098">,"</TOKEN>
+<TOKEN id="token-5-26" pos="word" morph="none" start_char="1100" end_char="1101">he</TOKEN>
+<TOKEN id="token-5-27" pos="word" morph="none" start_char="1103" end_char="1106">said</TOKEN>
+<TOKEN id="token-5-28" pos="punct" morph="none" start_char="1107" end_char="1107">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="1110" end_char="1251">
+<ORIGINAL_TEXT>Some accounts have falsely claimed the US is waging "economic war on China" and that the virus is a biological weapon manufactured by the CIA.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="1110" end_char="1113">Some</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="1115" end_char="1122">accounts</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="1124" end_char="1127">have</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="1129" end_char="1135">falsely</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="1137" end_char="1143">claimed</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="1145" end_char="1147">the</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="1149" end_char="1150">US</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="1152" end_char="1153">is</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="1155" end_char="1160">waging</TOKEN>
+<TOKEN id="token-6-9" pos="punct" morph="none" start_char="1162" end_char="1162">"</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="1163" end_char="1170">economic</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="1172" end_char="1174">war</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="1176" end_char="1177">on</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="1179" end_char="1183">China</TOKEN>
+<TOKEN id="token-6-14" pos="punct" morph="none" start_char="1184" end_char="1184">"</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="1186" end_char="1188">and</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="1190" end_char="1193">that</TOKEN>
+<TOKEN id="token-6-17" pos="word" morph="none" start_char="1195" end_char="1197">the</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="1199" end_char="1203">virus</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="1205" end_char="1206">is</TOKEN>
+<TOKEN id="token-6-20" pos="word" morph="none" start_char="1208" end_char="1208">a</TOKEN>
+<TOKEN id="token-6-21" pos="word" morph="none" start_char="1210" end_char="1219">biological</TOKEN>
+<TOKEN id="token-6-22" pos="word" morph="none" start_char="1221" end_char="1226">weapon</TOKEN>
+<TOKEN id="token-6-23" pos="word" morph="none" start_char="1228" end_char="1239">manufactured</TOKEN>
+<TOKEN id="token-6-24" pos="word" morph="none" start_char="1241" end_char="1242">by</TOKEN>
+<TOKEN id="token-6-25" pos="word" morph="none" start_char="1244" end_char="1246">the</TOKEN>
+<TOKEN id="token-6-26" pos="word" morph="none" start_char="1248" end_char="1250">CIA</TOKEN>
+<TOKEN id="token-6-27" pos="punct" morph="none" start_char="1251" end_char="1251">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="1254" end_char="1338">
+<ORIGINAL_TEXT>Health officials identified the new coronavirus in late 2019, and called it Covid-19.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="1254" end_char="1259">Health</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="1261" end_char="1269">officials</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="1271" end_char="1280">identified</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="1282" end_char="1284">the</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="1286" end_char="1288">new</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="1290" end_char="1300">coronavirus</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="1302" end_char="1303">in</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="1305" end_char="1308">late</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="1310" end_char="1313">2019</TOKEN>
+<TOKEN id="token-7-9" pos="punct" morph="none" start_char="1314" end_char="1314">,</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="1316" end_char="1318">and</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="1320" end_char="1325">called</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="1327" end_char="1328">it</TOKEN>
+<TOKEN id="token-7-13" pos="unknown" morph="none" start_char="1330" end_char="1337">Covid-19</TOKEN>
+<TOKEN id="token-7-14" pos="punct" morph="none" start_char="1338" end_char="1338">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1340" end_char="1440">
+<ORIGINAL_TEXT>It was initially linked to a live animal market in the city of Wuhan, in the Hubei province of China.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="1340" end_char="1341">It</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1343" end_char="1345">was</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="1347" end_char="1355">initially</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="1357" end_char="1362">linked</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="1364" end_char="1365">to</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="1367" end_char="1367">a</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="1369" end_char="1372">live</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="1374" end_char="1379">animal</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="1381" end_char="1386">market</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="1388" end_char="1389">in</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="1391" end_char="1393">the</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="1395" end_char="1398">city</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="1400" end_char="1401">of</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="1403" end_char="1407">Wuhan</TOKEN>
+<TOKEN id="token-8-14" pos="punct" morph="none" start_char="1408" end_char="1408">,</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="1410" end_char="1411">in</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="1413" end_char="1415">the</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="1417" end_char="1421">Hubei</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="1423" end_char="1430">province</TOKEN>
+<TOKEN id="token-8-19" pos="word" morph="none" start_char="1432" end_char="1433">of</TOKEN>
+<TOKEN id="token-8-20" pos="word" morph="none" start_char="1435" end_char="1439">China</TOKEN>
+<TOKEN id="token-8-21" pos="punct" morph="none" start_char="1440" end_char="1440">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1442" end_char="1526">
+<ORIGINAL_TEXT>Coronaviruses are thought to come from animals and then spread from person to person.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="1442" end_char="1454">Coronaviruses</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="1456" end_char="1458">are</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="1460" end_char="1466">thought</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="1468" end_char="1469">to</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="1471" end_char="1474">come</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="1476" end_char="1479">from</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="1481" end_char="1487">animals</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="1489" end_char="1491">and</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="1493" end_char="1496">then</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="1498" end_char="1503">spread</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="1505" end_char="1508">from</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="1510" end_char="1515">person</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="1517" end_char="1518">to</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="1520" end_char="1525">person</TOKEN>
+<TOKEN id="token-9-14" pos="punct" morph="none" start_char="1526" end_char="1526">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1529" end_char="1648">
+<ORIGINAL_TEXT>In four out of five people, Covid-19 causes only mild respiratory illness, the World Health Organization (WHO) has said.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1529" end_char="1530">In</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1532" end_char="1535">four</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1537" end_char="1539">out</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1541" end_char="1542">of</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1544" end_char="1547">five</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1549" end_char="1554">people</TOKEN>
+<TOKEN id="token-10-6" pos="punct" morph="none" start_char="1555" end_char="1555">,</TOKEN>
+<TOKEN id="token-10-7" pos="unknown" morph="none" start_char="1557" end_char="1564">Covid-19</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1566" end_char="1571">causes</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1573" end_char="1576">only</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="1578" end_char="1581">mild</TOKEN>
+<TOKEN id="token-10-11" pos="word" morph="none" start_char="1583" end_char="1593">respiratory</TOKEN>
+<TOKEN id="token-10-12" pos="word" morph="none" start_char="1595" end_char="1601">illness</TOKEN>
+<TOKEN id="token-10-13" pos="punct" morph="none" start_char="1602" end_char="1602">,</TOKEN>
+<TOKEN id="token-10-14" pos="word" morph="none" start_char="1604" end_char="1606">the</TOKEN>
+<TOKEN id="token-10-15" pos="word" morph="none" start_char="1608" end_char="1612">World</TOKEN>
+<TOKEN id="token-10-16" pos="word" morph="none" start_char="1614" end_char="1619">Health</TOKEN>
+<TOKEN id="token-10-17" pos="word" morph="none" start_char="1621" end_char="1632">Organization</TOKEN>
+<TOKEN id="token-10-18" pos="punct" morph="none" start_char="1634" end_char="1634">(</TOKEN>
+<TOKEN id="token-10-19" pos="word" morph="none" start_char="1635" end_char="1637">WHO</TOKEN>
+<TOKEN id="token-10-20" pos="punct" morph="none" start_char="1638" end_char="1638">)</TOKEN>
+<TOKEN id="token-10-21" pos="word" morph="none" start_char="1640" end_char="1642">has</TOKEN>
+<TOKEN id="token-10-22" pos="word" morph="none" start_char="1644" end_char="1647">said</TOKEN>
+<TOKEN id="token-10-23" pos="punct" morph="none" start_char="1648" end_char="1648">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1650" end_char="1729">
+<ORIGINAL_TEXT>But in some, the virus can cause severe respiratory illness including pneumonia.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1650" end_char="1652">But</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1654" end_char="1655">in</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1657" end_char="1660">some</TOKEN>
+<TOKEN id="token-11-3" pos="punct" morph="none" start_char="1661" end_char="1661">,</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1663" end_char="1665">the</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1667" end_char="1671">virus</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1673" end_char="1675">can</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="1677" end_char="1681">cause</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="1683" end_char="1688">severe</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="1690" end_char="1700">respiratory</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="1702" end_char="1708">illness</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="1710" end_char="1718">including</TOKEN>
+<TOKEN id="token-11-12" pos="word" morph="none" start_char="1720" end_char="1728">pneumonia</TOKEN>
+<TOKEN id="token-11-13" pos="punct" morph="none" start_char="1729" end_char="1729">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1731" end_char="1783">
+<ORIGINAL_TEXT>In the worst cases, it can cause respiratory failure.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1731" end_char="1732">In</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1734" end_char="1736">the</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="1738" end_char="1742">worst</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1744" end_char="1748">cases</TOKEN>
+<TOKEN id="token-12-4" pos="punct" morph="none" start_char="1749" end_char="1749">,</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="1751" end_char="1752">it</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="1754" end_char="1756">can</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="1758" end_char="1762">cause</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="1764" end_char="1774">respiratory</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="1776" end_char="1782">failure</TOKEN>
+<TOKEN id="token-12-10" pos="punct" morph="none" start_char="1783" end_char="1783">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1786" end_char="1876">
+<ORIGINAL_TEXT>Covid-19 has killed more than 2,340 people, mostly in China, and infected more than 76,000.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="unknown" morph="none" start_char="1786" end_char="1793">Covid-19</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1795" end_char="1797">has</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="1799" end_char="1804">killed</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1806" end_char="1809">more</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="1811" end_char="1814">than</TOKEN>
+<TOKEN id="token-13-5" pos="unknown" morph="none" start_char="1816" end_char="1820">2,340</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1822" end_char="1827">people</TOKEN>
+<TOKEN id="token-13-7" pos="punct" morph="none" start_char="1828" end_char="1828">,</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1830" end_char="1835">mostly</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="1837" end_char="1838">in</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="1840" end_char="1844">China</TOKEN>
+<TOKEN id="token-13-11" pos="punct" morph="none" start_char="1845" end_char="1845">,</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="1847" end_char="1849">and</TOKEN>
+<TOKEN id="token-13-13" pos="word" morph="none" start_char="1851" end_char="1858">infected</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="1860" end_char="1863">more</TOKEN>
+<TOKEN id="token-13-15" pos="word" morph="none" start_char="1865" end_char="1868">than</TOKEN>
+<TOKEN id="token-13-16" pos="unknown" morph="none" start_char="1870" end_char="1875">76,000</TOKEN>
+<TOKEN id="token-13-17" pos="punct" morph="none" start_char="1876" end_char="1876">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1878" end_char="1973">
+<ORIGINAL_TEXT>The US has tested more than 400 people and found 14 confirmed cases, mostly linked to travelers.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1878" end_char="1880">The</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="1882" end_char="1883">US</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="1885" end_char="1887">has</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="1889" end_char="1894">tested</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="1896" end_char="1899">more</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="1901" end_char="1904">than</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="1906" end_char="1908">400</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="1910" end_char="1915">people</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="1917" end_char="1919">and</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="1921" end_char="1925">found</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="1927" end_char="1928">14</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="1930" end_char="1938">confirmed</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="1940" end_char="1944">cases</TOKEN>
+<TOKEN id="token-14-13" pos="punct" morph="none" start_char="1945" end_char="1945">,</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="1947" end_char="1952">mostly</TOKEN>
+<TOKEN id="token-14-15" pos="word" morph="none" start_char="1954" end_char="1959">linked</TOKEN>
+<TOKEN id="token-14-16" pos="word" morph="none" start_char="1961" end_char="1962">to</TOKEN>
+<TOKEN id="token-14-17" pos="word" morph="none" start_char="1964" end_char="1972">travelers</TOKEN>
+<TOKEN id="token-14-18" pos="punct" morph="none" start_char="1973" end_char="1973">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1976" end_char="2068">
+<ORIGINAL_TEXT>A similar outbreak in 2003 involved the Sars virus, which was thought to have come from bats.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="1976" end_char="1976">A</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="1978" end_char="1984">similar</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="1986" end_char="1993">outbreak</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="1995" end_char="1996">in</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="1998" end_char="2001">2003</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="2003" end_char="2010">involved</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="2012" end_char="2014">the</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="2016" end_char="2019">Sars</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="2021" end_char="2025">virus</TOKEN>
+<TOKEN id="token-15-9" pos="punct" morph="none" start_char="2026" end_char="2026">,</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="2028" end_char="2032">which</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="2034" end_char="2036">was</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="2038" end_char="2044">thought</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="2046" end_char="2047">to</TOKEN>
+<TOKEN id="token-15-14" pos="word" morph="none" start_char="2049" end_char="2052">have</TOKEN>
+<TOKEN id="token-15-15" pos="word" morph="none" start_char="2054" end_char="2057">come</TOKEN>
+<TOKEN id="token-15-16" pos="word" morph="none" start_char="2059" end_char="2062">from</TOKEN>
+<TOKEN id="token-15-17" pos="word" morph="none" start_char="2064" end_char="2067">bats</TOKEN>
+<TOKEN id="token-15-18" pos="punct" morph="none" start_char="2068" end_char="2068">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="2071" end_char="2337">
+<ORIGINAL_TEXT>Experts said the coronavirus disinformation campaign has parallels with previous conspiracy theories traced to Moscow, including a KGB disinformation campaign in the 1980s that convinced many around the world that US scientists created the HIV virus that causes Aids.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="2071" end_char="2077">Experts</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="2079" end_char="2082">said</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="2084" end_char="2086">the</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="2088" end_char="2098">coronavirus</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="2100" end_char="2113">disinformation</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="2115" end_char="2122">campaign</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="2124" end_char="2126">has</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="2128" end_char="2136">parallels</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="2138" end_char="2141">with</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="2143" end_char="2150">previous</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="2152" end_char="2161">conspiracy</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="2163" end_char="2170">theories</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="2172" end_char="2177">traced</TOKEN>
+<TOKEN id="token-16-13" pos="word" morph="none" start_char="2179" end_char="2180">to</TOKEN>
+<TOKEN id="token-16-14" pos="word" morph="none" start_char="2182" end_char="2187">Moscow</TOKEN>
+<TOKEN id="token-16-15" pos="punct" morph="none" start_char="2188" end_char="2188">,</TOKEN>
+<TOKEN id="token-16-16" pos="word" morph="none" start_char="2190" end_char="2198">including</TOKEN>
+<TOKEN id="token-16-17" pos="word" morph="none" start_char="2200" end_char="2200">a</TOKEN>
+<TOKEN id="token-16-18" pos="word" morph="none" start_char="2202" end_char="2204">KGB</TOKEN>
+<TOKEN id="token-16-19" pos="word" morph="none" start_char="2206" end_char="2219">disinformation</TOKEN>
+<TOKEN id="token-16-20" pos="word" morph="none" start_char="2221" end_char="2228">campaign</TOKEN>
+<TOKEN id="token-16-21" pos="word" morph="none" start_char="2230" end_char="2231">in</TOKEN>
+<TOKEN id="token-16-22" pos="word" morph="none" start_char="2233" end_char="2235">the</TOKEN>
+<TOKEN id="token-16-23" pos="word" morph="none" start_char="2237" end_char="2241">1980s</TOKEN>
+<TOKEN id="token-16-24" pos="word" morph="none" start_char="2243" end_char="2246">that</TOKEN>
+<TOKEN id="token-16-25" pos="word" morph="none" start_char="2248" end_char="2256">convinced</TOKEN>
+<TOKEN id="token-16-26" pos="word" morph="none" start_char="2258" end_char="2261">many</TOKEN>
+<TOKEN id="token-16-27" pos="word" morph="none" start_char="2263" end_char="2268">around</TOKEN>
+<TOKEN id="token-16-28" pos="word" morph="none" start_char="2270" end_char="2272">the</TOKEN>
+<TOKEN id="token-16-29" pos="word" morph="none" start_char="2274" end_char="2278">world</TOKEN>
+<TOKEN id="token-16-30" pos="word" morph="none" start_char="2280" end_char="2283">that</TOKEN>
+<TOKEN id="token-16-31" pos="word" morph="none" start_char="2285" end_char="2286">US</TOKEN>
+<TOKEN id="token-16-32" pos="word" morph="none" start_char="2288" end_char="2297">scientists</TOKEN>
+<TOKEN id="token-16-33" pos="word" morph="none" start_char="2299" end_char="2305">created</TOKEN>
+<TOKEN id="token-16-34" pos="word" morph="none" start_char="2307" end_char="2309">the</TOKEN>
+<TOKEN id="token-16-35" pos="word" morph="none" start_char="2311" end_char="2313">HIV</TOKEN>
+<TOKEN id="token-16-36" pos="word" morph="none" start_char="2315" end_char="2319">virus</TOKEN>
+<TOKEN id="token-16-37" pos="word" morph="none" start_char="2321" end_char="2324">that</TOKEN>
+<TOKEN id="token-16-38" pos="word" morph="none" start_char="2326" end_char="2331">causes</TOKEN>
+<TOKEN id="token-16-39" pos="word" morph="none" start_char="2333" end_char="2336">Aids</TOKEN>
+<TOKEN id="token-16-40" pos="punct" morph="none" start_char="2337" end_char="2337">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="2340" end_char="2702">
+<ORIGINAL_TEXT>Several thousand online accounts – previously identified for airing Russian-backed messages on major events such as the war in Syria, the Yellow Vest protests in France and Chile’s mass demonstrations – are posting "near identical" messages about the coronavirus, according to a report prepared for the state department’s Global Engagement Center and seen by AFP.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="2340" end_char="2346">Several</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="2348" end_char="2355">thousand</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="2357" end_char="2362">online</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="2364" end_char="2371">accounts</TOKEN>
+<TOKEN id="token-17-4" pos="punct" morph="none" start_char="2373" end_char="2373">–</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="2375" end_char="2384">previously</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="2386" end_char="2395">identified</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="2397" end_char="2399">for</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="2401" end_char="2406">airing</TOKEN>
+<TOKEN id="token-17-9" pos="unknown" morph="none" start_char="2408" end_char="2421">Russian-backed</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="2423" end_char="2430">messages</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="2432" end_char="2433">on</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="2435" end_char="2439">major</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="2441" end_char="2446">events</TOKEN>
+<TOKEN id="token-17-14" pos="word" morph="none" start_char="2448" end_char="2451">such</TOKEN>
+<TOKEN id="token-17-15" pos="word" morph="none" start_char="2453" end_char="2454">as</TOKEN>
+<TOKEN id="token-17-16" pos="word" morph="none" start_char="2456" end_char="2458">the</TOKEN>
+<TOKEN id="token-17-17" pos="word" morph="none" start_char="2460" end_char="2462">war</TOKEN>
+<TOKEN id="token-17-18" pos="word" morph="none" start_char="2464" end_char="2465">in</TOKEN>
+<TOKEN id="token-17-19" pos="word" morph="none" start_char="2467" end_char="2471">Syria</TOKEN>
+<TOKEN id="token-17-20" pos="punct" morph="none" start_char="2472" end_char="2472">,</TOKEN>
+<TOKEN id="token-17-21" pos="word" morph="none" start_char="2474" end_char="2476">the</TOKEN>
+<TOKEN id="token-17-22" pos="word" morph="none" start_char="2478" end_char="2483">Yellow</TOKEN>
+<TOKEN id="token-17-23" pos="word" morph="none" start_char="2485" end_char="2488">Vest</TOKEN>
+<TOKEN id="token-17-24" pos="word" morph="none" start_char="2490" end_char="2497">protests</TOKEN>
+<TOKEN id="token-17-25" pos="word" morph="none" start_char="2499" end_char="2500">in</TOKEN>
+<TOKEN id="token-17-26" pos="word" morph="none" start_char="2502" end_char="2507">France</TOKEN>
+<TOKEN id="token-17-27" pos="word" morph="none" start_char="2509" end_char="2511">and</TOKEN>
+<TOKEN id="token-17-28" pos="word" morph="none" start_char="2513" end_char="2519">Chile’s</TOKEN>
+<TOKEN id="token-17-29" pos="word" morph="none" start_char="2521" end_char="2524">mass</TOKEN>
+<TOKEN id="token-17-30" pos="word" morph="none" start_char="2526" end_char="2539">demonstrations</TOKEN>
+<TOKEN id="token-17-31" pos="punct" morph="none" start_char="2541" end_char="2541">–</TOKEN>
+<TOKEN id="token-17-32" pos="word" morph="none" start_char="2543" end_char="2545">are</TOKEN>
+<TOKEN id="token-17-33" pos="word" morph="none" start_char="2547" end_char="2553">posting</TOKEN>
+<TOKEN id="token-17-34" pos="punct" morph="none" start_char="2555" end_char="2555">"</TOKEN>
+<TOKEN id="token-17-35" pos="word" morph="none" start_char="2556" end_char="2559">near</TOKEN>
+<TOKEN id="token-17-36" pos="word" morph="none" start_char="2561" end_char="2569">identical</TOKEN>
+<TOKEN id="token-17-37" pos="punct" morph="none" start_char="2570" end_char="2570">"</TOKEN>
+<TOKEN id="token-17-38" pos="word" morph="none" start_char="2572" end_char="2579">messages</TOKEN>
+<TOKEN id="token-17-39" pos="word" morph="none" start_char="2581" end_char="2585">about</TOKEN>
+<TOKEN id="token-17-40" pos="word" morph="none" start_char="2587" end_char="2589">the</TOKEN>
+<TOKEN id="token-17-41" pos="word" morph="none" start_char="2591" end_char="2601">coronavirus</TOKEN>
+<TOKEN id="token-17-42" pos="punct" morph="none" start_char="2602" end_char="2602">,</TOKEN>
+<TOKEN id="token-17-43" pos="word" morph="none" start_char="2604" end_char="2612">according</TOKEN>
+<TOKEN id="token-17-44" pos="word" morph="none" start_char="2614" end_char="2615">to</TOKEN>
+<TOKEN id="token-17-45" pos="word" morph="none" start_char="2617" end_char="2617">a</TOKEN>
+<TOKEN id="token-17-46" pos="word" morph="none" start_char="2619" end_char="2624">report</TOKEN>
+<TOKEN id="token-17-47" pos="word" morph="none" start_char="2626" end_char="2633">prepared</TOKEN>
+<TOKEN id="token-17-48" pos="word" morph="none" start_char="2635" end_char="2637">for</TOKEN>
+<TOKEN id="token-17-49" pos="word" morph="none" start_char="2639" end_char="2641">the</TOKEN>
+<TOKEN id="token-17-50" pos="word" morph="none" start_char="2643" end_char="2647">state</TOKEN>
+<TOKEN id="token-17-51" pos="word" morph="none" start_char="2649" end_char="2660">department’s</TOKEN>
+<TOKEN id="token-17-52" pos="word" morph="none" start_char="2662" end_char="2667">Global</TOKEN>
+<TOKEN id="token-17-53" pos="word" morph="none" start_char="2669" end_char="2678">Engagement</TOKEN>
+<TOKEN id="token-17-54" pos="word" morph="none" start_char="2680" end_char="2685">Center</TOKEN>
+<TOKEN id="token-17-55" pos="word" morph="none" start_char="2687" end_char="2689">and</TOKEN>
+<TOKEN id="token-17-56" pos="word" morph="none" start_char="2691" end_char="2694">seen</TOKEN>
+<TOKEN id="token-17-57" pos="word" morph="none" start_char="2696" end_char="2697">by</TOKEN>
+<TOKEN id="token-17-58" pos="word" morph="none" start_char="2699" end_char="2701">AFP</TOKEN>
+<TOKEN id="token-17-59" pos="punct" morph="none" start_char="2702" end_char="2702">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="2705" end_char="2820">
+<ORIGINAL_TEXT>The accounts are run by humans, not bots, and post at similar times in English, Spanish, Italian, German and French.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="2705" end_char="2707">The</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="2709" end_char="2716">accounts</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="2718" end_char="2720">are</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="2722" end_char="2724">run</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="2726" end_char="2727">by</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="2729" end_char="2734">humans</TOKEN>
+<TOKEN id="token-18-6" pos="punct" morph="none" start_char="2735" end_char="2735">,</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="2737" end_char="2739">not</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="2741" end_char="2744">bots</TOKEN>
+<TOKEN id="token-18-9" pos="punct" morph="none" start_char="2745" end_char="2745">,</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="2747" end_char="2749">and</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="2751" end_char="2754">post</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="2756" end_char="2757">at</TOKEN>
+<TOKEN id="token-18-13" pos="word" morph="none" start_char="2759" end_char="2765">similar</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="2767" end_char="2771">times</TOKEN>
+<TOKEN id="token-18-15" pos="word" morph="none" start_char="2773" end_char="2774">in</TOKEN>
+<TOKEN id="token-18-16" pos="word" morph="none" start_char="2776" end_char="2782">English</TOKEN>
+<TOKEN id="token-18-17" pos="punct" morph="none" start_char="2783" end_char="2783">,</TOKEN>
+<TOKEN id="token-18-18" pos="word" morph="none" start_char="2785" end_char="2791">Spanish</TOKEN>
+<TOKEN id="token-18-19" pos="punct" morph="none" start_char="2792" end_char="2792">,</TOKEN>
+<TOKEN id="token-18-20" pos="word" morph="none" start_char="2794" end_char="2800">Italian</TOKEN>
+<TOKEN id="token-18-21" pos="punct" morph="none" start_char="2801" end_char="2801">,</TOKEN>
+<TOKEN id="token-18-22" pos="word" morph="none" start_char="2803" end_char="2808">German</TOKEN>
+<TOKEN id="token-18-23" pos="word" morph="none" start_char="2810" end_char="2812">and</TOKEN>
+<TOKEN id="token-18-24" pos="word" morph="none" start_char="2814" end_char="2819">French</TOKEN>
+<TOKEN id="token-18-25" pos="punct" morph="none" start_char="2820" end_char="2820">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="2822" end_char="2957">
+<ORIGINAL_TEXT>They can be linked back to Russian proxies, or carry messages similar to Russian-backed outlets such as RT and Sputnik, the report said.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="2822" end_char="2825">They</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="2827" end_char="2829">can</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="2831" end_char="2832">be</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="2834" end_char="2839">linked</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="2841" end_char="2844">back</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="2846" end_char="2847">to</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="2849" end_char="2855">Russian</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="2857" end_char="2863">proxies</TOKEN>
+<TOKEN id="token-19-8" pos="punct" morph="none" start_char="2864" end_char="2864">,</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="2866" end_char="2867">or</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="2869" end_char="2873">carry</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="2875" end_char="2882">messages</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="2884" end_char="2890">similar</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="2892" end_char="2893">to</TOKEN>
+<TOKEN id="token-19-14" pos="unknown" morph="none" start_char="2895" end_char="2908">Russian-backed</TOKEN>
+<TOKEN id="token-19-15" pos="word" morph="none" start_char="2910" end_char="2916">outlets</TOKEN>
+<TOKEN id="token-19-16" pos="word" morph="none" start_char="2918" end_char="2921">such</TOKEN>
+<TOKEN id="token-19-17" pos="word" morph="none" start_char="2923" end_char="2924">as</TOKEN>
+<TOKEN id="token-19-18" pos="word" morph="none" start_char="2926" end_char="2927">RT</TOKEN>
+<TOKEN id="token-19-19" pos="word" morph="none" start_char="2929" end_char="2931">and</TOKEN>
+<TOKEN id="token-19-20" pos="word" morph="none" start_char="2933" end_char="2939">Sputnik</TOKEN>
+<TOKEN id="token-19-21" pos="punct" morph="none" start_char="2940" end_char="2940">,</TOKEN>
+<TOKEN id="token-19-22" pos="word" morph="none" start_char="2942" end_char="2944">the</TOKEN>
+<TOKEN id="token-19-23" pos="word" morph="none" start_char="2946" end_char="2951">report</TOKEN>
+<TOKEN id="token-19-24" pos="word" morph="none" start_char="2953" end_char="2956">said</TOKEN>
+<TOKEN id="token-19-25" pos="punct" morph="none" start_char="2957" end_char="2957">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="2960" end_char="3286">
+<ORIGINAL_TEXT>"In this case, we were able to see their full disinformation ecosystem in effect, including state TV, proxy websites and thousands of false social media personas all pushing the same themes," said Lea Gabrielle, the head of the Global Engagement Center, which is tasked with tracking and exposing propaganda and disinformation.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="punct" morph="none" start_char="2960" end_char="2960">"</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="2961" end_char="2962">In</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="2964" end_char="2967">this</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="2969" end_char="2972">case</TOKEN>
+<TOKEN id="token-20-4" pos="punct" morph="none" start_char="2973" end_char="2973">,</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="2975" end_char="2976">we</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="2978" end_char="2981">were</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="2983" end_char="2986">able</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="2988" end_char="2989">to</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="2991" end_char="2993">see</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="2995" end_char="2999">their</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="3001" end_char="3004">full</TOKEN>
+<TOKEN id="token-20-12" pos="word" morph="none" start_char="3006" end_char="3019">disinformation</TOKEN>
+<TOKEN id="token-20-13" pos="word" morph="none" start_char="3021" end_char="3029">ecosystem</TOKEN>
+<TOKEN id="token-20-14" pos="word" morph="none" start_char="3031" end_char="3032">in</TOKEN>
+<TOKEN id="token-20-15" pos="word" morph="none" start_char="3034" end_char="3039">effect</TOKEN>
+<TOKEN id="token-20-16" pos="punct" morph="none" start_char="3040" end_char="3040">,</TOKEN>
+<TOKEN id="token-20-17" pos="word" morph="none" start_char="3042" end_char="3050">including</TOKEN>
+<TOKEN id="token-20-18" pos="word" morph="none" start_char="3052" end_char="3056">state</TOKEN>
+<TOKEN id="token-20-19" pos="word" morph="none" start_char="3058" end_char="3059">TV</TOKEN>
+<TOKEN id="token-20-20" pos="punct" morph="none" start_char="3060" end_char="3060">,</TOKEN>
+<TOKEN id="token-20-21" pos="word" morph="none" start_char="3062" end_char="3066">proxy</TOKEN>
+<TOKEN id="token-20-22" pos="word" morph="none" start_char="3068" end_char="3075">websites</TOKEN>
+<TOKEN id="token-20-23" pos="word" morph="none" start_char="3077" end_char="3079">and</TOKEN>
+<TOKEN id="token-20-24" pos="word" morph="none" start_char="3081" end_char="3089">thousands</TOKEN>
+<TOKEN id="token-20-25" pos="word" morph="none" start_char="3091" end_char="3092">of</TOKEN>
+<TOKEN id="token-20-26" pos="word" morph="none" start_char="3094" end_char="3098">false</TOKEN>
+<TOKEN id="token-20-27" pos="word" morph="none" start_char="3100" end_char="3105">social</TOKEN>
+<TOKEN id="token-20-28" pos="word" morph="none" start_char="3107" end_char="3111">media</TOKEN>
+<TOKEN id="token-20-29" pos="word" morph="none" start_char="3113" end_char="3120">personas</TOKEN>
+<TOKEN id="token-20-30" pos="word" morph="none" start_char="3122" end_char="3124">all</TOKEN>
+<TOKEN id="token-20-31" pos="word" morph="none" start_char="3126" end_char="3132">pushing</TOKEN>
+<TOKEN id="token-20-32" pos="word" morph="none" start_char="3134" end_char="3136">the</TOKEN>
+<TOKEN id="token-20-33" pos="word" morph="none" start_char="3138" end_char="3141">same</TOKEN>
+<TOKEN id="token-20-34" pos="word" morph="none" start_char="3143" end_char="3148">themes</TOKEN>
+<TOKEN id="token-20-35" pos="punct" morph="none" start_char="3149" end_char="3150">,"</TOKEN>
+<TOKEN id="token-20-36" pos="word" morph="none" start_char="3152" end_char="3155">said</TOKEN>
+<TOKEN id="token-20-37" pos="word" morph="none" start_char="3157" end_char="3159">Lea</TOKEN>
+<TOKEN id="token-20-38" pos="word" morph="none" start_char="3161" end_char="3169">Gabrielle</TOKEN>
+<TOKEN id="token-20-39" pos="punct" morph="none" start_char="3170" end_char="3170">,</TOKEN>
+<TOKEN id="token-20-40" pos="word" morph="none" start_char="3172" end_char="3174">the</TOKEN>
+<TOKEN id="token-20-41" pos="word" morph="none" start_char="3176" end_char="3179">head</TOKEN>
+<TOKEN id="token-20-42" pos="word" morph="none" start_char="3181" end_char="3182">of</TOKEN>
+<TOKEN id="token-20-43" pos="word" morph="none" start_char="3184" end_char="3186">the</TOKEN>
+<TOKEN id="token-20-44" pos="word" morph="none" start_char="3188" end_char="3193">Global</TOKEN>
+<TOKEN id="token-20-45" pos="word" morph="none" start_char="3195" end_char="3204">Engagement</TOKEN>
+<TOKEN id="token-20-46" pos="word" morph="none" start_char="3206" end_char="3211">Center</TOKEN>
+<TOKEN id="token-20-47" pos="punct" morph="none" start_char="3212" end_char="3212">,</TOKEN>
+<TOKEN id="token-20-48" pos="word" morph="none" start_char="3214" end_char="3218">which</TOKEN>
+<TOKEN id="token-20-49" pos="word" morph="none" start_char="3220" end_char="3221">is</TOKEN>
+<TOKEN id="token-20-50" pos="word" morph="none" start_char="3223" end_char="3228">tasked</TOKEN>
+<TOKEN id="token-20-51" pos="word" morph="none" start_char="3230" end_char="3233">with</TOKEN>
+<TOKEN id="token-20-52" pos="word" morph="none" start_char="3235" end_char="3242">tracking</TOKEN>
+<TOKEN id="token-20-53" pos="word" morph="none" start_char="3244" end_char="3246">and</TOKEN>
+<TOKEN id="token-20-54" pos="word" morph="none" start_char="3248" end_char="3255">exposing</TOKEN>
+<TOKEN id="token-20-55" pos="word" morph="none" start_char="3257" end_char="3266">propaganda</TOKEN>
+<TOKEN id="token-20-56" pos="word" morph="none" start_char="3268" end_char="3270">and</TOKEN>
+<TOKEN id="token-20-57" pos="word" morph="none" start_char="3272" end_char="3285">disinformation</TOKEN>
+<TOKEN id="token-20-58" pos="punct" morph="none" start_char="3286" end_char="3286">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="3289" end_char="3489">
+<ORIGINAL_TEXT>The US believes the Russian disinformation campaign is making it harder to respond to the epidemic, particularly in Africa and Asia, as some of the public has become suspicious of the western response.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="3289" end_char="3291">The</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="3293" end_char="3294">US</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="3296" end_char="3303">believes</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="3305" end_char="3307">the</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="3309" end_char="3315">Russian</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="3317" end_char="3330">disinformation</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="3332" end_char="3339">campaign</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="3341" end_char="3342">is</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="3344" end_char="3349">making</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="3351" end_char="3352">it</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="3354" end_char="3359">harder</TOKEN>
+<TOKEN id="token-21-11" pos="word" morph="none" start_char="3361" end_char="3362">to</TOKEN>
+<TOKEN id="token-21-12" pos="word" morph="none" start_char="3364" end_char="3370">respond</TOKEN>
+<TOKEN id="token-21-13" pos="word" morph="none" start_char="3372" end_char="3373">to</TOKEN>
+<TOKEN id="token-21-14" pos="word" morph="none" start_char="3375" end_char="3377">the</TOKEN>
+<TOKEN id="token-21-15" pos="word" morph="none" start_char="3379" end_char="3386">epidemic</TOKEN>
+<TOKEN id="token-21-16" pos="punct" morph="none" start_char="3387" end_char="3387">,</TOKEN>
+<TOKEN id="token-21-17" pos="word" morph="none" start_char="3389" end_char="3400">particularly</TOKEN>
+<TOKEN id="token-21-18" pos="word" morph="none" start_char="3402" end_char="3403">in</TOKEN>
+<TOKEN id="token-21-19" pos="word" morph="none" start_char="3405" end_char="3410">Africa</TOKEN>
+<TOKEN id="token-21-20" pos="word" morph="none" start_char="3412" end_char="3414">and</TOKEN>
+<TOKEN id="token-21-21" pos="word" morph="none" start_char="3416" end_char="3419">Asia</TOKEN>
+<TOKEN id="token-21-22" pos="punct" morph="none" start_char="3420" end_char="3420">,</TOKEN>
+<TOKEN id="token-21-23" pos="word" morph="none" start_char="3422" end_char="3423">as</TOKEN>
+<TOKEN id="token-21-24" pos="word" morph="none" start_char="3425" end_char="3428">some</TOKEN>
+<TOKEN id="token-21-25" pos="word" morph="none" start_char="3430" end_char="3431">of</TOKEN>
+<TOKEN id="token-21-26" pos="word" morph="none" start_char="3433" end_char="3435">the</TOKEN>
+<TOKEN id="token-21-27" pos="word" morph="none" start_char="3437" end_char="3442">public</TOKEN>
+<TOKEN id="token-21-28" pos="word" morph="none" start_char="3444" end_char="3446">has</TOKEN>
+<TOKEN id="token-21-29" pos="word" morph="none" start_char="3448" end_char="3453">become</TOKEN>
+<TOKEN id="token-21-30" pos="word" morph="none" start_char="3455" end_char="3464">suspicious</TOKEN>
+<TOKEN id="token-21-31" pos="word" morph="none" start_char="3466" end_char="3467">of</TOKEN>
+<TOKEN id="token-21-32" pos="word" morph="none" start_char="3469" end_char="3471">the</TOKEN>
+<TOKEN id="token-21-33" pos="word" morph="none" start_char="3473" end_char="3479">western</TOKEN>
+<TOKEN id="token-21-34" pos="word" morph="none" start_char="3481" end_char="3488">response</TOKEN>
+<TOKEN id="token-21-35" pos="punct" morph="none" start_char="3489" end_char="3489">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="3492" end_char="3637">
+<ORIGINAL_TEXT>The WHO warned on Friday that the window to stem the global outbreak was narrowing, voicing alarm at a surge of cases with no clear link to China.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="3492" end_char="3494">The</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="3496" end_char="3498">WHO</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="3500" end_char="3505">warned</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="3507" end_char="3508">on</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="3510" end_char="3515">Friday</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="3517" end_char="3520">that</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="3522" end_char="3524">the</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="3526" end_char="3531">window</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="3533" end_char="3534">to</TOKEN>
+<TOKEN id="token-22-9" pos="word" morph="none" start_char="3536" end_char="3539">stem</TOKEN>
+<TOKEN id="token-22-10" pos="word" morph="none" start_char="3541" end_char="3543">the</TOKEN>
+<TOKEN id="token-22-11" pos="word" morph="none" start_char="3545" end_char="3550">global</TOKEN>
+<TOKEN id="token-22-12" pos="word" morph="none" start_char="3552" end_char="3559">outbreak</TOKEN>
+<TOKEN id="token-22-13" pos="word" morph="none" start_char="3561" end_char="3563">was</TOKEN>
+<TOKEN id="token-22-14" pos="word" morph="none" start_char="3565" end_char="3573">narrowing</TOKEN>
+<TOKEN id="token-22-15" pos="punct" morph="none" start_char="3574" end_char="3574">,</TOKEN>
+<TOKEN id="token-22-16" pos="word" morph="none" start_char="3576" end_char="3582">voicing</TOKEN>
+<TOKEN id="token-22-17" pos="word" morph="none" start_char="3584" end_char="3588">alarm</TOKEN>
+<TOKEN id="token-22-18" pos="word" morph="none" start_char="3590" end_char="3591">at</TOKEN>
+<TOKEN id="token-22-19" pos="word" morph="none" start_char="3593" end_char="3593">a</TOKEN>
+<TOKEN id="token-22-20" pos="word" morph="none" start_char="3595" end_char="3599">surge</TOKEN>
+<TOKEN id="token-22-21" pos="word" morph="none" start_char="3601" end_char="3602">of</TOKEN>
+<TOKEN id="token-22-22" pos="word" morph="none" start_char="3604" end_char="3608">cases</TOKEN>
+<TOKEN id="token-22-23" pos="word" morph="none" start_char="3610" end_char="3613">with</TOKEN>
+<TOKEN id="token-22-24" pos="word" morph="none" start_char="3615" end_char="3616">no</TOKEN>
+<TOKEN id="token-22-25" pos="word" morph="none" start_char="3618" end_char="3622">clear</TOKEN>
+<TOKEN id="token-22-26" pos="word" morph="none" start_char="3624" end_char="3627">link</TOKEN>
+<TOKEN id="token-22-27" pos="word" morph="none" start_char="3629" end_char="3630">to</TOKEN>
+<TOKEN id="token-22-28" pos="word" morph="none" start_char="3632" end_char="3636">China</TOKEN>
+<TOKEN id="token-22-29" pos="punct" morph="none" start_char="3637" end_char="3637">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="3640" end_char="3741">
+<ORIGINAL_TEXT>A state official said Russian operatives appeared to have been given "carte blanche" to attack the US.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="3640" end_char="3640">A</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="3642" end_char="3646">state</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="3648" end_char="3655">official</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="3657" end_char="3660">said</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="3662" end_char="3668">Russian</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="3670" end_char="3679">operatives</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="3681" end_char="3688">appeared</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="3690" end_char="3691">to</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="3693" end_char="3696">have</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="3698" end_char="3701">been</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="3703" end_char="3707">given</TOKEN>
+<TOKEN id="token-23-11" pos="punct" morph="none" start_char="3709" end_char="3709">"</TOKEN>
+<TOKEN id="token-23-12" pos="word" morph="none" start_char="3710" end_char="3714">carte</TOKEN>
+<TOKEN id="token-23-13" pos="word" morph="none" start_char="3716" end_char="3722">blanche</TOKEN>
+<TOKEN id="token-23-14" pos="punct" morph="none" start_char="3723" end_char="3723">"</TOKEN>
+<TOKEN id="token-23-15" pos="word" morph="none" start_char="3725" end_char="3726">to</TOKEN>
+<TOKEN id="token-23-16" pos="word" morph="none" start_char="3728" end_char="3733">attack</TOKEN>
+<TOKEN id="token-23-17" pos="word" morph="none" start_char="3735" end_char="3737">the</TOKEN>
+<TOKEN id="token-23-18" pos="word" morph="none" start_char="3739" end_char="3740">US</TOKEN>
+<TOKEN id="token-23-19" pos="punct" morph="none" start_char="3741" end_char="3741">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="3744" end_char="3853">
+<ORIGINAL_TEXT>"Whether or not a particular theme is being directed at the highest levels doesn’t matter," the official said.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="punct" morph="none" start_char="3744" end_char="3744">"</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="3745" end_char="3751">Whether</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="3753" end_char="3754">or</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="3756" end_char="3758">not</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="3760" end_char="3760">a</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="3762" end_char="3771">particular</TOKEN>
+<TOKEN id="token-24-6" pos="word" morph="none" start_char="3773" end_char="3777">theme</TOKEN>
+<TOKEN id="token-24-7" pos="word" morph="none" start_char="3779" end_char="3780">is</TOKEN>
+<TOKEN id="token-24-8" pos="word" morph="none" start_char="3782" end_char="3786">being</TOKEN>
+<TOKEN id="token-24-9" pos="word" morph="none" start_char="3788" end_char="3795">directed</TOKEN>
+<TOKEN id="token-24-10" pos="word" morph="none" start_char="3797" end_char="3798">at</TOKEN>
+<TOKEN id="token-24-11" pos="word" morph="none" start_char="3800" end_char="3802">the</TOKEN>
+<TOKEN id="token-24-12" pos="word" morph="none" start_char="3804" end_char="3810">highest</TOKEN>
+<TOKEN id="token-24-13" pos="word" morph="none" start_char="3812" end_char="3817">levels</TOKEN>
+<TOKEN id="token-24-14" pos="word" morph="none" start_char="3819" end_char="3825">doesn’t</TOKEN>
+<TOKEN id="token-24-15" pos="word" morph="none" start_char="3827" end_char="3832">matter</TOKEN>
+<TOKEN id="token-24-16" pos="punct" morph="none" start_char="3833" end_char="3834">,"</TOKEN>
+<TOKEN id="token-24-17" pos="word" morph="none" start_char="3836" end_char="3838">the</TOKEN>
+<TOKEN id="token-24-18" pos="word" morph="none" start_char="3840" end_char="3847">official</TOKEN>
+<TOKEN id="token-24-19" pos="word" morph="none" start_char="3849" end_char="3852">said</TOKEN>
+<TOKEN id="token-24-20" pos="punct" morph="none" start_char="3853" end_char="3853">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="3855" end_char="3998">
+<ORIGINAL_TEXT>"It’s the fact that they have freelance ability to operate in this space to do whatever damage they can, which could have seismic implications."</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="punct" morph="none" start_char="3855" end_char="3855">"</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="3856" end_char="3859">It’s</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="3861" end_char="3863">the</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="3865" end_char="3868">fact</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="3870" end_char="3873">that</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="3875" end_char="3878">they</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="3880" end_char="3883">have</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="3885" end_char="3893">freelance</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="3895" end_char="3901">ability</TOKEN>
+<TOKEN id="token-25-9" pos="word" morph="none" start_char="3903" end_char="3904">to</TOKEN>
+<TOKEN id="token-25-10" pos="word" morph="none" start_char="3906" end_char="3912">operate</TOKEN>
+<TOKEN id="token-25-11" pos="word" morph="none" start_char="3914" end_char="3915">in</TOKEN>
+<TOKEN id="token-25-12" pos="word" morph="none" start_char="3917" end_char="3920">this</TOKEN>
+<TOKEN id="token-25-13" pos="word" morph="none" start_char="3922" end_char="3926">space</TOKEN>
+<TOKEN id="token-25-14" pos="word" morph="none" start_char="3928" end_char="3929">to</TOKEN>
+<TOKEN id="token-25-15" pos="word" morph="none" start_char="3931" end_char="3932">do</TOKEN>
+<TOKEN id="token-25-16" pos="word" morph="none" start_char="3934" end_char="3941">whatever</TOKEN>
+<TOKEN id="token-25-17" pos="word" morph="none" start_char="3943" end_char="3948">damage</TOKEN>
+<TOKEN id="token-25-18" pos="word" morph="none" start_char="3950" end_char="3953">they</TOKEN>
+<TOKEN id="token-25-19" pos="word" morph="none" start_char="3955" end_char="3957">can</TOKEN>
+<TOKEN id="token-25-20" pos="punct" morph="none" start_char="3958" end_char="3958">,</TOKEN>
+<TOKEN id="token-25-21" pos="word" morph="none" start_char="3960" end_char="3964">which</TOKEN>
+<TOKEN id="token-25-22" pos="word" morph="none" start_char="3966" end_char="3970">could</TOKEN>
+<TOKEN id="token-25-23" pos="word" morph="none" start_char="3972" end_char="3975">have</TOKEN>
+<TOKEN id="token-25-24" pos="word" morph="none" start_char="3977" end_char="3983">seismic</TOKEN>
+<TOKEN id="token-25-25" pos="word" morph="none" start_char="3985" end_char="3996">implications</TOKEN>
+<TOKEN id="token-25-26" pos="punct" morph="none" start_char="3997" end_char="3998">."</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="4001" end_char="4019">
+<ORIGINAL_TEXT>As 2021 unfolds ...</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="4001" end_char="4002">As</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="4004" end_char="4007">2021</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="4009" end_char="4015">unfolds</TOKEN>
+<TOKEN id="token-26-3" pos="punct" morph="none" start_char="4017" end_char="4019">...</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="4023" end_char="4056">
+<ORIGINAL_TEXT>... we have a small favour to ask.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="punct" morph="none" start_char="4023" end_char="4025">...</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="4027" end_char="4028">we</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="4030" end_char="4033">have</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="4035" end_char="4035">a</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="4037" end_char="4041">small</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="4043" end_char="4048">favour</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="4050" end_char="4051">to</TOKEN>
+<TOKEN id="token-27-7" pos="word" morph="none" start_char="4053" end_char="4055">ask</TOKEN>
+<TOKEN id="token-27-8" pos="punct" morph="none" start_char="4056" end_char="4056">.</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="4058" end_char="4197">
+<ORIGINAL_TEXT>Through these turbulent and challenging times, millions rely on the Guardian for independent journalism that stands for truth and integrity.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="4058" end_char="4064">Through</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="4066" end_char="4070">these</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="4072" end_char="4080">turbulent</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="4082" end_char="4084">and</TOKEN>
+<TOKEN id="token-28-4" pos="word" morph="none" start_char="4086" end_char="4096">challenging</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="4098" end_char="4102">times</TOKEN>
+<TOKEN id="token-28-6" pos="punct" morph="none" start_char="4103" end_char="4103">,</TOKEN>
+<TOKEN id="token-28-7" pos="word" morph="none" start_char="4105" end_char="4112">millions</TOKEN>
+<TOKEN id="token-28-8" pos="word" morph="none" start_char="4114" end_char="4117">rely</TOKEN>
+<TOKEN id="token-28-9" pos="word" morph="none" start_char="4119" end_char="4120">on</TOKEN>
+<TOKEN id="token-28-10" pos="word" morph="none" start_char="4122" end_char="4124">the</TOKEN>
+<TOKEN id="token-28-11" pos="word" morph="none" start_char="4126" end_char="4133">Guardian</TOKEN>
+<TOKEN id="token-28-12" pos="word" morph="none" start_char="4135" end_char="4137">for</TOKEN>
+<TOKEN id="token-28-13" pos="word" morph="none" start_char="4139" end_char="4149">independent</TOKEN>
+<TOKEN id="token-28-14" pos="word" morph="none" start_char="4151" end_char="4160">journalism</TOKEN>
+<TOKEN id="token-28-15" pos="word" morph="none" start_char="4162" end_char="4165">that</TOKEN>
+<TOKEN id="token-28-16" pos="word" morph="none" start_char="4167" end_char="4172">stands</TOKEN>
+<TOKEN id="token-28-17" pos="word" morph="none" start_char="4174" end_char="4176">for</TOKEN>
+<TOKEN id="token-28-18" pos="word" morph="none" start_char="4178" end_char="4182">truth</TOKEN>
+<TOKEN id="token-28-19" pos="word" morph="none" start_char="4184" end_char="4186">and</TOKEN>
+<TOKEN id="token-28-20" pos="word" morph="none" start_char="4188" end_char="4196">integrity</TOKEN>
+<TOKEN id="token-28-21" pos="punct" morph="none" start_char="4197" end_char="4197">.</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="4199" end_char="4320">
+<ORIGINAL_TEXT>Readers chose to support us financially more than 1.5 million times in 2020, joining existing supporters in 180 countries.</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="4199" end_char="4205">Readers</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="4207" end_char="4211">chose</TOKEN>
+<TOKEN id="token-29-2" pos="word" morph="none" start_char="4213" end_char="4214">to</TOKEN>
+<TOKEN id="token-29-3" pos="word" morph="none" start_char="4216" end_char="4222">support</TOKEN>
+<TOKEN id="token-29-4" pos="word" morph="none" start_char="4224" end_char="4225">us</TOKEN>
+<TOKEN id="token-29-5" pos="word" morph="none" start_char="4227" end_char="4237">financially</TOKEN>
+<TOKEN id="token-29-6" pos="word" morph="none" start_char="4239" end_char="4242">more</TOKEN>
+<TOKEN id="token-29-7" pos="word" morph="none" start_char="4244" end_char="4247">than</TOKEN>
+<TOKEN id="token-29-8" pos="word" morph="none" start_char="4249" end_char="4251">1.5</TOKEN>
+<TOKEN id="token-29-9" pos="word" morph="none" start_char="4253" end_char="4259">million</TOKEN>
+<TOKEN id="token-29-10" pos="word" morph="none" start_char="4261" end_char="4265">times</TOKEN>
+<TOKEN id="token-29-11" pos="word" morph="none" start_char="4267" end_char="4268">in</TOKEN>
+<TOKEN id="token-29-12" pos="word" morph="none" start_char="4270" end_char="4273">2020</TOKEN>
+<TOKEN id="token-29-13" pos="punct" morph="none" start_char="4274" end_char="4274">,</TOKEN>
+<TOKEN id="token-29-14" pos="word" morph="none" start_char="4276" end_char="4282">joining</TOKEN>
+<TOKEN id="token-29-15" pos="word" morph="none" start_char="4284" end_char="4291">existing</TOKEN>
+<TOKEN id="token-29-16" pos="word" morph="none" start_char="4293" end_char="4302">supporters</TOKEN>
+<TOKEN id="token-29-17" pos="word" morph="none" start_char="4304" end_char="4305">in</TOKEN>
+<TOKEN id="token-29-18" pos="word" morph="none" start_char="4307" end_char="4309">180</TOKEN>
+<TOKEN id="token-29-19" pos="word" morph="none" start_char="4311" end_char="4319">countries</TOKEN>
+<TOKEN id="token-29-20" pos="punct" morph="none" start_char="4320" end_char="4320">.</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="4323" end_char="4490">
+<ORIGINAL_TEXT>For 2021, we’re committing to another year of high-impact reporting that can counter misinformation and offer an authoritative, trustworthy source of news for everyone.</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="word" morph="none" start_char="4323" end_char="4325">For</TOKEN>
+<TOKEN id="token-30-1" pos="word" morph="none" start_char="4327" end_char="4330">2021</TOKEN>
+<TOKEN id="token-30-2" pos="punct" morph="none" start_char="4331" end_char="4331">,</TOKEN>
+<TOKEN id="token-30-3" pos="word" morph="none" start_char="4333" end_char="4337">we’re</TOKEN>
+<TOKEN id="token-30-4" pos="word" morph="none" start_char="4339" end_char="4348">committing</TOKEN>
+<TOKEN id="token-30-5" pos="word" morph="none" start_char="4350" end_char="4351">to</TOKEN>
+<TOKEN id="token-30-6" pos="word" morph="none" start_char="4353" end_char="4359">another</TOKEN>
+<TOKEN id="token-30-7" pos="word" morph="none" start_char="4361" end_char="4364">year</TOKEN>
+<TOKEN id="token-30-8" pos="word" morph="none" start_char="4366" end_char="4367">of</TOKEN>
+<TOKEN id="token-30-9" pos="unknown" morph="none" start_char="4369" end_char="4379">high-impact</TOKEN>
+<TOKEN id="token-30-10" pos="word" morph="none" start_char="4381" end_char="4389">reporting</TOKEN>
+<TOKEN id="token-30-11" pos="word" morph="none" start_char="4391" end_char="4394">that</TOKEN>
+<TOKEN id="token-30-12" pos="word" morph="none" start_char="4396" end_char="4398">can</TOKEN>
+<TOKEN id="token-30-13" pos="word" morph="none" start_char="4400" end_char="4406">counter</TOKEN>
+<TOKEN id="token-30-14" pos="word" morph="none" start_char="4408" end_char="4421">misinformation</TOKEN>
+<TOKEN id="token-30-15" pos="word" morph="none" start_char="4423" end_char="4425">and</TOKEN>
+<TOKEN id="token-30-16" pos="word" morph="none" start_char="4427" end_char="4431">offer</TOKEN>
+<TOKEN id="token-30-17" pos="word" morph="none" start_char="4433" end_char="4434">an</TOKEN>
+<TOKEN id="token-30-18" pos="word" morph="none" start_char="4436" end_char="4448">authoritative</TOKEN>
+<TOKEN id="token-30-19" pos="punct" morph="none" start_char="4449" end_char="4449">,</TOKEN>
+<TOKEN id="token-30-20" pos="word" morph="none" start_char="4451" end_char="4461">trustworthy</TOKEN>
+<TOKEN id="token-30-21" pos="word" morph="none" start_char="4463" end_char="4468">source</TOKEN>
+<TOKEN id="token-30-22" pos="word" morph="none" start_char="4470" end_char="4471">of</TOKEN>
+<TOKEN id="token-30-23" pos="word" morph="none" start_char="4473" end_char="4476">news</TOKEN>
+<TOKEN id="token-30-24" pos="word" morph="none" start_char="4478" end_char="4480">for</TOKEN>
+<TOKEN id="token-30-25" pos="word" morph="none" start_char="4482" end_char="4489">everyone</TOKEN>
+<TOKEN id="token-30-26" pos="punct" morph="none" start_char="4490" end_char="4490">.</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="4492" end_char="4643">
+<ORIGINAL_TEXT>With no shareholders or billionaire owner, we set our own agenda and provide independent journalism that’s free from commercial and political influence.</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="word" morph="none" start_char="4492" end_char="4495">With</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="4497" end_char="4498">no</TOKEN>
+<TOKEN id="token-31-2" pos="word" morph="none" start_char="4500" end_char="4511">shareholders</TOKEN>
+<TOKEN id="token-31-3" pos="word" morph="none" start_char="4513" end_char="4514">or</TOKEN>
+<TOKEN id="token-31-4" pos="word" morph="none" start_char="4516" end_char="4526">billionaire</TOKEN>
+<TOKEN id="token-31-5" pos="word" morph="none" start_char="4528" end_char="4532">owner</TOKEN>
+<TOKEN id="token-31-6" pos="punct" morph="none" start_char="4533" end_char="4533">,</TOKEN>
+<TOKEN id="token-31-7" pos="word" morph="none" start_char="4535" end_char="4536">we</TOKEN>
+<TOKEN id="token-31-8" pos="word" morph="none" start_char="4538" end_char="4540">set</TOKEN>
+<TOKEN id="token-31-9" pos="word" morph="none" start_char="4542" end_char="4544">our</TOKEN>
+<TOKEN id="token-31-10" pos="word" morph="none" start_char="4546" end_char="4548">own</TOKEN>
+<TOKEN id="token-31-11" pos="word" morph="none" start_char="4550" end_char="4555">agenda</TOKEN>
+<TOKEN id="token-31-12" pos="word" morph="none" start_char="4557" end_char="4559">and</TOKEN>
+<TOKEN id="token-31-13" pos="word" morph="none" start_char="4561" end_char="4567">provide</TOKEN>
+<TOKEN id="token-31-14" pos="word" morph="none" start_char="4569" end_char="4579">independent</TOKEN>
+<TOKEN id="token-31-15" pos="word" morph="none" start_char="4581" end_char="4590">journalism</TOKEN>
+<TOKEN id="token-31-16" pos="word" morph="none" start_char="4592" end_char="4597">that’s</TOKEN>
+<TOKEN id="token-31-17" pos="word" morph="none" start_char="4599" end_char="4602">free</TOKEN>
+<TOKEN id="token-31-18" pos="word" morph="none" start_char="4604" end_char="4607">from</TOKEN>
+<TOKEN id="token-31-19" pos="word" morph="none" start_char="4609" end_char="4618">commercial</TOKEN>
+<TOKEN id="token-31-20" pos="word" morph="none" start_char="4620" end_char="4622">and</TOKEN>
+<TOKEN id="token-31-21" pos="word" morph="none" start_char="4624" end_char="4632">political</TOKEN>
+<TOKEN id="token-31-22" pos="word" morph="none" start_char="4634" end_char="4642">influence</TOKEN>
+<TOKEN id="token-31-23" pos="punct" morph="none" start_char="4643" end_char="4643">.</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="4645" end_char="4731">
+<ORIGINAL_TEXT>When it’s never mattered more, we can investigate and challenge without fear or favour.</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="word" morph="none" start_char="4645" end_char="4648">When</TOKEN>
+<TOKEN id="token-32-1" pos="word" morph="none" start_char="4650" end_char="4653">it’s</TOKEN>
+<TOKEN id="token-32-2" pos="word" morph="none" start_char="4655" end_char="4659">never</TOKEN>
+<TOKEN id="token-32-3" pos="word" morph="none" start_char="4661" end_char="4668">mattered</TOKEN>
+<TOKEN id="token-32-4" pos="word" morph="none" start_char="4670" end_char="4673">more</TOKEN>
+<TOKEN id="token-32-5" pos="punct" morph="none" start_char="4674" end_char="4674">,</TOKEN>
+<TOKEN id="token-32-6" pos="word" morph="none" start_char="4676" end_char="4677">we</TOKEN>
+<TOKEN id="token-32-7" pos="word" morph="none" start_char="4679" end_char="4681">can</TOKEN>
+<TOKEN id="token-32-8" pos="word" morph="none" start_char="4683" end_char="4693">investigate</TOKEN>
+<TOKEN id="token-32-9" pos="word" morph="none" start_char="4695" end_char="4697">and</TOKEN>
+<TOKEN id="token-32-10" pos="word" morph="none" start_char="4699" end_char="4707">challenge</TOKEN>
+<TOKEN id="token-32-11" pos="word" morph="none" start_char="4709" end_char="4715">without</TOKEN>
+<TOKEN id="token-32-12" pos="word" morph="none" start_char="4717" end_char="4720">fear</TOKEN>
+<TOKEN id="token-32-13" pos="word" morph="none" start_char="4722" end_char="4723">or</TOKEN>
+<TOKEN id="token-32-14" pos="word" morph="none" start_char="4725" end_char="4730">favour</TOKEN>
+<TOKEN id="token-32-15" pos="punct" morph="none" start_char="4731" end_char="4731">.</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="4734" end_char="4784">
+<ORIGINAL_TEXT>Unlike many others, we have never put up a paywall.</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="word" morph="none" start_char="4734" end_char="4739">Unlike</TOKEN>
+<TOKEN id="token-33-1" pos="word" morph="none" start_char="4741" end_char="4744">many</TOKEN>
+<TOKEN id="token-33-2" pos="word" morph="none" start_char="4746" end_char="4751">others</TOKEN>
+<TOKEN id="token-33-3" pos="punct" morph="none" start_char="4752" end_char="4752">,</TOKEN>
+<TOKEN id="token-33-4" pos="word" morph="none" start_char="4754" end_char="4755">we</TOKEN>
+<TOKEN id="token-33-5" pos="word" morph="none" start_char="4757" end_char="4760">have</TOKEN>
+<TOKEN id="token-33-6" pos="word" morph="none" start_char="4762" end_char="4766">never</TOKEN>
+<TOKEN id="token-33-7" pos="word" morph="none" start_char="4768" end_char="4770">put</TOKEN>
+<TOKEN id="token-33-8" pos="word" morph="none" start_char="4772" end_char="4773">up</TOKEN>
+<TOKEN id="token-33-9" pos="word" morph="none" start_char="4775" end_char="4775">a</TOKEN>
+<TOKEN id="token-33-10" pos="word" morph="none" start_char="4777" end_char="4783">paywall</TOKEN>
+<TOKEN id="token-33-11" pos="punct" morph="none" start_char="4784" end_char="4784">.</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="4786" end_char="4920">
+<ORIGINAL_TEXT>We have chosen to keep Guardian journalism free and open for all readers, regardless of where they live or what they can afford to pay.</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="word" morph="none" start_char="4786" end_char="4787">We</TOKEN>
+<TOKEN id="token-34-1" pos="word" morph="none" start_char="4789" end_char="4792">have</TOKEN>
+<TOKEN id="token-34-2" pos="word" morph="none" start_char="4794" end_char="4799">chosen</TOKEN>
+<TOKEN id="token-34-3" pos="word" morph="none" start_char="4801" end_char="4802">to</TOKEN>
+<TOKEN id="token-34-4" pos="word" morph="none" start_char="4804" end_char="4807">keep</TOKEN>
+<TOKEN id="token-34-5" pos="word" morph="none" start_char="4809" end_char="4816">Guardian</TOKEN>
+<TOKEN id="token-34-6" pos="word" morph="none" start_char="4818" end_char="4827">journalism</TOKEN>
+<TOKEN id="token-34-7" pos="word" morph="none" start_char="4829" end_char="4832">free</TOKEN>
+<TOKEN id="token-34-8" pos="word" morph="none" start_char="4834" end_char="4836">and</TOKEN>
+<TOKEN id="token-34-9" pos="word" morph="none" start_char="4838" end_char="4841">open</TOKEN>
+<TOKEN id="token-34-10" pos="word" morph="none" start_char="4843" end_char="4845">for</TOKEN>
+<TOKEN id="token-34-11" pos="word" morph="none" start_char="4847" end_char="4849">all</TOKEN>
+<TOKEN id="token-34-12" pos="word" morph="none" start_char="4851" end_char="4857">readers</TOKEN>
+<TOKEN id="token-34-13" pos="punct" morph="none" start_char="4858" end_char="4858">,</TOKEN>
+<TOKEN id="token-34-14" pos="word" morph="none" start_char="4860" end_char="4869">regardless</TOKEN>
+<TOKEN id="token-34-15" pos="word" morph="none" start_char="4871" end_char="4872">of</TOKEN>
+<TOKEN id="token-34-16" pos="word" morph="none" start_char="4874" end_char="4878">where</TOKEN>
+<TOKEN id="token-34-17" pos="word" morph="none" start_char="4880" end_char="4883">they</TOKEN>
+<TOKEN id="token-34-18" pos="word" morph="none" start_char="4885" end_char="4888">live</TOKEN>
+<TOKEN id="token-34-19" pos="word" morph="none" start_char="4890" end_char="4891">or</TOKEN>
+<TOKEN id="token-34-20" pos="word" morph="none" start_char="4893" end_char="4896">what</TOKEN>
+<TOKEN id="token-34-21" pos="word" morph="none" start_char="4898" end_char="4901">they</TOKEN>
+<TOKEN id="token-34-22" pos="word" morph="none" start_char="4903" end_char="4905">can</TOKEN>
+<TOKEN id="token-34-23" pos="word" morph="none" start_char="4907" end_char="4912">afford</TOKEN>
+<TOKEN id="token-34-24" pos="word" morph="none" start_char="4914" end_char="4915">to</TOKEN>
+<TOKEN id="token-34-25" pos="word" morph="none" start_char="4917" end_char="4919">pay</TOKEN>
+<TOKEN id="token-34-26" pos="punct" morph="none" start_char="4920" end_char="4920">.</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="4922" end_char="5015">
+<ORIGINAL_TEXT>We do this because we believe everyone deserves to read accurate news and thoughtful analysis.</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="word" morph="none" start_char="4922" end_char="4923">We</TOKEN>
+<TOKEN id="token-35-1" pos="word" morph="none" start_char="4925" end_char="4926">do</TOKEN>
+<TOKEN id="token-35-2" pos="word" morph="none" start_char="4928" end_char="4931">this</TOKEN>
+<TOKEN id="token-35-3" pos="word" morph="none" start_char="4933" end_char="4939">because</TOKEN>
+<TOKEN id="token-35-4" pos="word" morph="none" start_char="4941" end_char="4942">we</TOKEN>
+<TOKEN id="token-35-5" pos="word" morph="none" start_char="4944" end_char="4950">believe</TOKEN>
+<TOKEN id="token-35-6" pos="word" morph="none" start_char="4952" end_char="4959">everyone</TOKEN>
+<TOKEN id="token-35-7" pos="word" morph="none" start_char="4961" end_char="4968">deserves</TOKEN>
+<TOKEN id="token-35-8" pos="word" morph="none" start_char="4970" end_char="4971">to</TOKEN>
+<TOKEN id="token-35-9" pos="word" morph="none" start_char="4973" end_char="4976">read</TOKEN>
+<TOKEN id="token-35-10" pos="word" morph="none" start_char="4978" end_char="4985">accurate</TOKEN>
+<TOKEN id="token-35-11" pos="word" morph="none" start_char="4987" end_char="4990">news</TOKEN>
+<TOKEN id="token-35-12" pos="word" morph="none" start_char="4992" end_char="4994">and</TOKEN>
+<TOKEN id="token-35-13" pos="word" morph="none" start_char="4996" end_char="5005">thoughtful</TOKEN>
+<TOKEN id="token-35-14" pos="word" morph="none" start_char="5007" end_char="5014">analysis</TOKEN>
+<TOKEN id="token-35-15" pos="punct" morph="none" start_char="5015" end_char="5015">.</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="5018" end_char="5228">
+<ORIGINAL_TEXT>In the last year alone, we offered readers a comprehensive, international perspective on critical events – from the Black Lives Matter protests, to the US presidential election, Brexit, and the ongoing pandemic.</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="word" morph="none" start_char="5018" end_char="5019">In</TOKEN>
+<TOKEN id="token-36-1" pos="word" morph="none" start_char="5021" end_char="5023">the</TOKEN>
+<TOKEN id="token-36-2" pos="word" morph="none" start_char="5025" end_char="5028">last</TOKEN>
+<TOKEN id="token-36-3" pos="word" morph="none" start_char="5030" end_char="5033">year</TOKEN>
+<TOKEN id="token-36-4" pos="word" morph="none" start_char="5035" end_char="5039">alone</TOKEN>
+<TOKEN id="token-36-5" pos="punct" morph="none" start_char="5040" end_char="5040">,</TOKEN>
+<TOKEN id="token-36-6" pos="word" morph="none" start_char="5042" end_char="5043">we</TOKEN>
+<TOKEN id="token-36-7" pos="word" morph="none" start_char="5045" end_char="5051">offered</TOKEN>
+<TOKEN id="token-36-8" pos="word" morph="none" start_char="5053" end_char="5059">readers</TOKEN>
+<TOKEN id="token-36-9" pos="word" morph="none" start_char="5061" end_char="5061">a</TOKEN>
+<TOKEN id="token-36-10" pos="word" morph="none" start_char="5063" end_char="5075">comprehensive</TOKEN>
+<TOKEN id="token-36-11" pos="punct" morph="none" start_char="5076" end_char="5076">,</TOKEN>
+<TOKEN id="token-36-12" pos="word" morph="none" start_char="5078" end_char="5090">international</TOKEN>
+<TOKEN id="token-36-13" pos="word" morph="none" start_char="5092" end_char="5102">perspective</TOKEN>
+<TOKEN id="token-36-14" pos="word" morph="none" start_char="5104" end_char="5105">on</TOKEN>
+<TOKEN id="token-36-15" pos="word" morph="none" start_char="5107" end_char="5114">critical</TOKEN>
+<TOKEN id="token-36-16" pos="word" morph="none" start_char="5116" end_char="5121">events</TOKEN>
+<TOKEN id="token-36-17" pos="punct" morph="none" start_char="5123" end_char="5123">–</TOKEN>
+<TOKEN id="token-36-18" pos="word" morph="none" start_char="5125" end_char="5128">from</TOKEN>
+<TOKEN id="token-36-19" pos="word" morph="none" start_char="5130" end_char="5132">the</TOKEN>
+<TOKEN id="token-36-20" pos="word" morph="none" start_char="5134" end_char="5138">Black</TOKEN>
+<TOKEN id="token-36-21" pos="word" morph="none" start_char="5140" end_char="5144">Lives</TOKEN>
+<TOKEN id="token-36-22" pos="word" morph="none" start_char="5146" end_char="5151">Matter</TOKEN>
+<TOKEN id="token-36-23" pos="word" morph="none" start_char="5153" end_char="5160">protests</TOKEN>
+<TOKEN id="token-36-24" pos="punct" morph="none" start_char="5161" end_char="5161">,</TOKEN>
+<TOKEN id="token-36-25" pos="word" morph="none" start_char="5163" end_char="5164">to</TOKEN>
+<TOKEN id="token-36-26" pos="word" morph="none" start_char="5166" end_char="5168">the</TOKEN>
+<TOKEN id="token-36-27" pos="word" morph="none" start_char="5170" end_char="5171">US</TOKEN>
+<TOKEN id="token-36-28" pos="word" morph="none" start_char="5173" end_char="5184">presidential</TOKEN>
+<TOKEN id="token-36-29" pos="word" morph="none" start_char="5186" end_char="5193">election</TOKEN>
+<TOKEN id="token-36-30" pos="punct" morph="none" start_char="5194" end_char="5194">,</TOKEN>
+<TOKEN id="token-36-31" pos="word" morph="none" start_char="5196" end_char="5201">Brexit</TOKEN>
+<TOKEN id="token-36-32" pos="punct" morph="none" start_char="5202" end_char="5202">,</TOKEN>
+<TOKEN id="token-36-33" pos="word" morph="none" start_char="5204" end_char="5206">and</TOKEN>
+<TOKEN id="token-36-34" pos="word" morph="none" start_char="5208" end_char="5210">the</TOKEN>
+<TOKEN id="token-36-35" pos="word" morph="none" start_char="5212" end_char="5218">ongoing</TOKEN>
+<TOKEN id="token-36-36" pos="word" morph="none" start_char="5220" end_char="5227">pandemic</TOKEN>
+<TOKEN id="token-36-37" pos="punct" morph="none" start_char="5228" end_char="5228">.</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="5230" end_char="5480">
+<ORIGINAL_TEXT>We enhanced our reputation for urgent, powerful reporting on the climate emergency, and made the decision to reject advertising from fossil fuel companies, divest from the oil and gas industries, and set a course to achieve net zero emissions by 2030.</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="word" morph="none" start_char="5230" end_char="5231">We</TOKEN>
+<TOKEN id="token-37-1" pos="word" morph="none" start_char="5233" end_char="5240">enhanced</TOKEN>
+<TOKEN id="token-37-2" pos="word" morph="none" start_char="5242" end_char="5244">our</TOKEN>
+<TOKEN id="token-37-3" pos="word" morph="none" start_char="5246" end_char="5255">reputation</TOKEN>
+<TOKEN id="token-37-4" pos="word" morph="none" start_char="5257" end_char="5259">for</TOKEN>
+<TOKEN id="token-37-5" pos="word" morph="none" start_char="5261" end_char="5266">urgent</TOKEN>
+<TOKEN id="token-37-6" pos="punct" morph="none" start_char="5267" end_char="5267">,</TOKEN>
+<TOKEN id="token-37-7" pos="word" morph="none" start_char="5269" end_char="5276">powerful</TOKEN>
+<TOKEN id="token-37-8" pos="word" morph="none" start_char="5278" end_char="5286">reporting</TOKEN>
+<TOKEN id="token-37-9" pos="word" morph="none" start_char="5288" end_char="5289">on</TOKEN>
+<TOKEN id="token-37-10" pos="word" morph="none" start_char="5291" end_char="5293">the</TOKEN>
+<TOKEN id="token-37-11" pos="word" morph="none" start_char="5295" end_char="5301">climate</TOKEN>
+<TOKEN id="token-37-12" pos="word" morph="none" start_char="5303" end_char="5311">emergency</TOKEN>
+<TOKEN id="token-37-13" pos="punct" morph="none" start_char="5312" end_char="5312">,</TOKEN>
+<TOKEN id="token-37-14" pos="word" morph="none" start_char="5314" end_char="5316">and</TOKEN>
+<TOKEN id="token-37-15" pos="word" morph="none" start_char="5318" end_char="5321">made</TOKEN>
+<TOKEN id="token-37-16" pos="word" morph="none" start_char="5323" end_char="5325">the</TOKEN>
+<TOKEN id="token-37-17" pos="word" morph="none" start_char="5327" end_char="5334">decision</TOKEN>
+<TOKEN id="token-37-18" pos="word" morph="none" start_char="5336" end_char="5337">to</TOKEN>
+<TOKEN id="token-37-19" pos="word" morph="none" start_char="5339" end_char="5344">reject</TOKEN>
+<TOKEN id="token-37-20" pos="word" morph="none" start_char="5346" end_char="5356">advertising</TOKEN>
+<TOKEN id="token-37-21" pos="word" morph="none" start_char="5358" end_char="5361">from</TOKEN>
+<TOKEN id="token-37-22" pos="word" morph="none" start_char="5363" end_char="5368">fossil</TOKEN>
+<TOKEN id="token-37-23" pos="word" morph="none" start_char="5370" end_char="5373">fuel</TOKEN>
+<TOKEN id="token-37-24" pos="word" morph="none" start_char="5375" end_char="5383">companies</TOKEN>
+<TOKEN id="token-37-25" pos="punct" morph="none" start_char="5384" end_char="5384">,</TOKEN>
+<TOKEN id="token-37-26" pos="word" morph="none" start_char="5386" end_char="5391">divest</TOKEN>
+<TOKEN id="token-37-27" pos="word" morph="none" start_char="5393" end_char="5396">from</TOKEN>
+<TOKEN id="token-37-28" pos="word" morph="none" start_char="5398" end_char="5400">the</TOKEN>
+<TOKEN id="token-37-29" pos="word" morph="none" start_char="5402" end_char="5404">oil</TOKEN>
+<TOKEN id="token-37-30" pos="word" morph="none" start_char="5406" end_char="5408">and</TOKEN>
+<TOKEN id="token-37-31" pos="word" morph="none" start_char="5410" end_char="5412">gas</TOKEN>
+<TOKEN id="token-37-32" pos="word" morph="none" start_char="5414" end_char="5423">industries</TOKEN>
+<TOKEN id="token-37-33" pos="punct" morph="none" start_char="5424" end_char="5424">,</TOKEN>
+<TOKEN id="token-37-34" pos="word" morph="none" start_char="5426" end_char="5428">and</TOKEN>
+<TOKEN id="token-37-35" pos="word" morph="none" start_char="5430" end_char="5432">set</TOKEN>
+<TOKEN id="token-37-36" pos="word" morph="none" start_char="5434" end_char="5434">a</TOKEN>
+<TOKEN id="token-37-37" pos="word" morph="none" start_char="5436" end_char="5441">course</TOKEN>
+<TOKEN id="token-37-38" pos="word" morph="none" start_char="5443" end_char="5444">to</TOKEN>
+<TOKEN id="token-37-39" pos="word" morph="none" start_char="5446" end_char="5452">achieve</TOKEN>
+<TOKEN id="token-37-40" pos="word" morph="none" start_char="5454" end_char="5456">net</TOKEN>
+<TOKEN id="token-37-41" pos="word" morph="none" start_char="5458" end_char="5461">zero</TOKEN>
+<TOKEN id="token-37-42" pos="word" morph="none" start_char="5463" end_char="5471">emissions</TOKEN>
+<TOKEN id="token-37-43" pos="word" morph="none" start_char="5473" end_char="5474">by</TOKEN>
+<TOKEN id="token-37-44" pos="word" morph="none" start_char="5476" end_char="5479">2030</TOKEN>
+<TOKEN id="token-37-45" pos="punct" morph="none" start_char="5480" end_char="5480">.</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="5483" end_char="5530">
+<ORIGINAL_TEXT>If there were ever a time to join us, it is now.</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="word" morph="none" start_char="5483" end_char="5484">If</TOKEN>
+<TOKEN id="token-38-1" pos="word" morph="none" start_char="5486" end_char="5490">there</TOKEN>
+<TOKEN id="token-38-2" pos="word" morph="none" start_char="5492" end_char="5495">were</TOKEN>
+<TOKEN id="token-38-3" pos="word" morph="none" start_char="5497" end_char="5500">ever</TOKEN>
+<TOKEN id="token-38-4" pos="word" morph="none" start_char="5502" end_char="5502">a</TOKEN>
+<TOKEN id="token-38-5" pos="word" morph="none" start_char="5504" end_char="5507">time</TOKEN>
+<TOKEN id="token-38-6" pos="word" morph="none" start_char="5509" end_char="5510">to</TOKEN>
+<TOKEN id="token-38-7" pos="word" morph="none" start_char="5512" end_char="5515">join</TOKEN>
+<TOKEN id="token-38-8" pos="word" morph="none" start_char="5517" end_char="5518">us</TOKEN>
+<TOKEN id="token-38-9" pos="punct" morph="none" start_char="5519" end_char="5519">,</TOKEN>
+<TOKEN id="token-38-10" pos="word" morph="none" start_char="5521" end_char="5522">it</TOKEN>
+<TOKEN id="token-38-11" pos="word" morph="none" start_char="5524" end_char="5525">is</TOKEN>
+<TOKEN id="token-38-12" pos="word" morph="none" start_char="5527" end_char="5529">now</TOKEN>
+<TOKEN id="token-38-13" pos="punct" morph="none" start_char="5530" end_char="5530">.</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="5532" end_char="5624">
+<ORIGINAL_TEXT>Every contribution, however big or small, powers our journalism and helps sustain our future.</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="word" morph="none" start_char="5532" end_char="5536">Every</TOKEN>
+<TOKEN id="token-39-1" pos="word" morph="none" start_char="5538" end_char="5549">contribution</TOKEN>
+<TOKEN id="token-39-2" pos="punct" morph="none" start_char="5550" end_char="5550">,</TOKEN>
+<TOKEN id="token-39-3" pos="word" morph="none" start_char="5552" end_char="5558">however</TOKEN>
+<TOKEN id="token-39-4" pos="word" morph="none" start_char="5560" end_char="5562">big</TOKEN>
+<TOKEN id="token-39-5" pos="word" morph="none" start_char="5564" end_char="5565">or</TOKEN>
+<TOKEN id="token-39-6" pos="word" morph="none" start_char="5567" end_char="5571">small</TOKEN>
+<TOKEN id="token-39-7" pos="punct" morph="none" start_char="5572" end_char="5572">,</TOKEN>
+<TOKEN id="token-39-8" pos="word" morph="none" start_char="5574" end_char="5579">powers</TOKEN>
+<TOKEN id="token-39-9" pos="word" morph="none" start_char="5581" end_char="5583">our</TOKEN>
+<TOKEN id="token-39-10" pos="word" morph="none" start_char="5585" end_char="5594">journalism</TOKEN>
+<TOKEN id="token-39-11" pos="word" morph="none" start_char="5596" end_char="5598">and</TOKEN>
+<TOKEN id="token-39-12" pos="word" morph="none" start_char="5600" end_char="5604">helps</TOKEN>
+<TOKEN id="token-39-13" pos="word" morph="none" start_char="5606" end_char="5612">sustain</TOKEN>
+<TOKEN id="token-39-14" pos="word" morph="none" start_char="5614" end_char="5616">our</TOKEN>
+<TOKEN id="token-39-15" pos="word" morph="none" start_char="5618" end_char="5623">future</TOKEN>
+<TOKEN id="token-39-16" pos="punct" morph="none" start_char="5624" end_char="5624">.</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="5626" end_char="5692">
+<ORIGINAL_TEXT>Support the Guardian from as little as $1 – it only takes a minute.</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="word" morph="none" start_char="5626" end_char="5632">Support</TOKEN>
+<TOKEN id="token-40-1" pos="word" morph="none" start_char="5634" end_char="5636">the</TOKEN>
+<TOKEN id="token-40-2" pos="word" morph="none" start_char="5638" end_char="5645">Guardian</TOKEN>
+<TOKEN id="token-40-3" pos="word" morph="none" start_char="5647" end_char="5650">from</TOKEN>
+<TOKEN id="token-40-4" pos="word" morph="none" start_char="5652" end_char="5653">as</TOKEN>
+<TOKEN id="token-40-5" pos="word" morph="none" start_char="5655" end_char="5660">little</TOKEN>
+<TOKEN id="token-40-6" pos="word" morph="none" start_char="5662" end_char="5663">as</TOKEN>
+<TOKEN id="token-40-7" pos="unknown" morph="none" start_char="5665" end_char="5666">$1</TOKEN>
+<TOKEN id="token-40-8" pos="punct" morph="none" start_char="5668" end_char="5668">–</TOKEN>
+<TOKEN id="token-40-9" pos="word" morph="none" start_char="5670" end_char="5671">it</TOKEN>
+<TOKEN id="token-40-10" pos="word" morph="none" start_char="5673" end_char="5676">only</TOKEN>
+<TOKEN id="token-40-11" pos="word" morph="none" start_char="5678" end_char="5682">takes</TOKEN>
+<TOKEN id="token-40-12" pos="word" morph="none" start_char="5684" end_char="5684">a</TOKEN>
+<TOKEN id="token-40-13" pos="word" morph="none" start_char="5686" end_char="5691">minute</TOKEN>
+<TOKEN id="token-40-14" pos="punct" morph="none" start_char="5692" end_char="5692">.</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="5694" end_char="5703">
+<ORIGINAL_TEXT>Thank you.</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="word" morph="none" start_char="5694" end_char="5698">Thank</TOKEN>
+<TOKEN id="token-41-1" pos="word" morph="none" start_char="5700" end_char="5702">you</TOKEN>
+<TOKEN id="token-41-2" pos="punct" morph="none" start_char="5703" end_char="5703">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

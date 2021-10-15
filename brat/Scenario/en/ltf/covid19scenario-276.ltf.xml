@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-276">
+		<TEXT>
+			<SEG id="covid19scenario-276-0" start_char="0" end_char="224">
+				<ORIGINAL_TEXT>Chloroquine and remdesivir are not FDA-approved for a COVID-19 indications, but Expanded Access allows patients with serious or life-threatening cases of the virus to have access to them as investigational medicinal products.</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="10">Chloroquine</TOKEN>
+				<TOKEN id="token-0-1" start_char="12" end_char="14">and</TOKEN>
+				<TOKEN id="token-0-2" start_char="16" end_char="25">remdesivir</TOKEN>
+				<TOKEN id="token-0-3" start_char="27" end_char="29">are</TOKEN>
+				<TOKEN id="token-0-4" start_char="31" end_char="33">not</TOKEN>
+				<TOKEN id="token-0-5" start_char="35" end_char="37">FDA</TOKEN>
+				<TOKEN id="token-0-6" start_char="38" end_char="38">-</TOKEN>
+				<TOKEN id="token-0-7" start_char="39" end_char="46">approved</TOKEN>
+				<TOKEN id="token-0-8" start_char="48" end_char="50">for</TOKEN>
+				<TOKEN id="token-0-9" start_char="52" end_char="52">a</TOKEN>
+				<TOKEN id="token-0-10" start_char="54" end_char="58">COVID</TOKEN>
+				<TOKEN id="token-0-11" start_char="59" end_char="59">-</TOKEN>
+				<TOKEN id="token-0-12" start_char="60" end_char="61">19</TOKEN>
+				<TOKEN id="token-0-13" start_char="63" end_char="73">indications</TOKEN>
+				<TOKEN id="token-0-14" start_char="74" end_char="74">,</TOKEN>
+				<TOKEN id="token-0-15" start_char="76" end_char="78">but</TOKEN>
+				<TOKEN id="token-0-16" start_char="80" end_char="87">Expanded</TOKEN>
+				<TOKEN id="token-0-17" start_char="89" end_char="94">Access</TOKEN>
+				<TOKEN id="token-0-18" start_char="96" end_char="101">allows</TOKEN>
+				<TOKEN id="token-0-19" start_char="103" end_char="110">patients</TOKEN>
+				<TOKEN id="token-0-20" start_char="112" end_char="115">with</TOKEN>
+				<TOKEN id="token-0-21" start_char="117" end_char="123">serious</TOKEN>
+				<TOKEN id="token-0-22" start_char="125" end_char="126">or</TOKEN>
+				<TOKEN id="token-0-23" start_char="128" end_char="131">life</TOKEN>
+				<TOKEN id="token-0-24" start_char="132" end_char="132">-</TOKEN>
+				<TOKEN id="token-0-25" start_char="133" end_char="143">threatening</TOKEN>
+				<TOKEN id="token-0-26" start_char="145" end_char="149">cases</TOKEN>
+				<TOKEN id="token-0-27" start_char="151" end_char="152">of</TOKEN>
+				<TOKEN id="token-0-28" start_char="154" end_char="156">the</TOKEN>
+				<TOKEN id="token-0-29" start_char="158" end_char="162">virus</TOKEN>
+				<TOKEN id="token-0-30" start_char="164" end_char="165">to</TOKEN>
+				<TOKEN id="token-0-31" start_char="167" end_char="170">have</TOKEN>
+				<TOKEN id="token-0-32" start_char="172" end_char="177">access</TOKEN>
+				<TOKEN id="token-0-33" start_char="179" end_char="180">to</TOKEN>
+				<TOKEN id="token-0-34" start_char="182" end_char="185">them</TOKEN>
+				<TOKEN id="token-0-35" start_char="187" end_char="188">as</TOKEN>
+				<TOKEN id="token-0-36" start_char="190" end_char="204">investigational</TOKEN>
+				<TOKEN id="token-0-37" start_char="206" end_char="214">medicinal</TOKEN>
+				<TOKEN id="token-0-38" start_char="216" end_char="223">products</TOKEN>
+				<TOKEN id="token-0-39" start_char="224" end_char="224">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-276-1" start_char="226" end_char="226">
+				<ORIGINAL_TEXT>2</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="226" end_char="226">2</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-276-2" start_char="228" end_char="472">
+				<ORIGINAL_TEXT>Two drugs, chloroquine and remdesivir, are being designated for Expanded Access, or “compassionate use,” by the FDA to address the novel coronavirus (COVID-19) pandemic, according to FDA Commissioner Stephen Hahn, MD, and President Donald Trump.</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="228" end_char="230">Two</TOKEN>
+				<TOKEN id="token-2-1" start_char="232" end_char="236">drugs</TOKEN>
+				<TOKEN id="token-2-2" start_char="237" end_char="237">,</TOKEN>
+				<TOKEN id="token-2-3" start_char="239" end_char="249">chloroquine</TOKEN>
+				<TOKEN id="token-2-4" start_char="251" end_char="253">and</TOKEN>
+				<TOKEN id="token-2-5" start_char="255" end_char="264">remdesivir</TOKEN>
+				<TOKEN id="token-2-6" start_char="265" end_char="265">,</TOKEN>
+				<TOKEN id="token-2-7" start_char="267" end_char="269">are</TOKEN>
+				<TOKEN id="token-2-8" start_char="271" end_char="275">being</TOKEN>
+				<TOKEN id="token-2-9" start_char="277" end_char="286">designated</TOKEN>
+				<TOKEN id="token-2-10" start_char="288" end_char="290">for</TOKEN>
+				<TOKEN id="token-2-11" start_char="292" end_char="299">Expanded</TOKEN>
+				<TOKEN id="token-2-12" start_char="301" end_char="306">Access</TOKEN>
+				<TOKEN id="token-2-13" start_char="307" end_char="307">,</TOKEN>
+				<TOKEN id="token-2-14" start_char="309" end_char="310">or</TOKEN>
+				<TOKEN id="token-2-15" start_char="312" end_char="312">“</TOKEN>
+				<TOKEN id="token-2-16" start_char="313" end_char="325">compassionate</TOKEN>
+				<TOKEN id="token-2-17" start_char="327" end_char="329">use</TOKEN>
+				<TOKEN id="token-2-18" start_char="330" end_char="331">,”</TOKEN>
+				<TOKEN id="token-2-19" start_char="333" end_char="334">by</TOKEN>
+				<TOKEN id="token-2-20" start_char="336" end_char="338">the</TOKEN>
+				<TOKEN id="token-2-21" start_char="340" end_char="342">FDA</TOKEN>
+				<TOKEN id="token-2-22" start_char="344" end_char="345">to</TOKEN>
+				<TOKEN id="token-2-23" start_char="347" end_char="353">address</TOKEN>
+				<TOKEN id="token-2-24" start_char="355" end_char="357">the</TOKEN>
+				<TOKEN id="token-2-25" start_char="359" end_char="363">novel</TOKEN>
+				<TOKEN id="token-2-26" start_char="365" end_char="375">coronavirus</TOKEN>
+				<TOKEN id="token-2-27" start_char="377" end_char="377">(</TOKEN>
+				<TOKEN id="token-2-28" start_char="378" end_char="382">COVID</TOKEN>
+				<TOKEN id="token-2-29" start_char="383" end_char="383">-</TOKEN>
+				<TOKEN id="token-2-30" start_char="384" end_char="385">19</TOKEN>
+				<TOKEN id="token-2-31" start_char="386" end_char="386">)</TOKEN>
+				<TOKEN id="token-2-32" start_char="388" end_char="395">pandemic</TOKEN>
+				<TOKEN id="token-2-33" start_char="396" end_char="396">,</TOKEN>
+				<TOKEN id="token-2-34" start_char="398" end_char="406">according</TOKEN>
+				<TOKEN id="token-2-35" start_char="408" end_char="409">to</TOKEN>
+				<TOKEN id="token-2-36" start_char="411" end_char="413">FDA</TOKEN>
+				<TOKEN id="token-2-37" start_char="415" end_char="426">Commissioner</TOKEN>
+				<TOKEN id="token-2-38" start_char="428" end_char="434">Stephen</TOKEN>
+				<TOKEN id="token-2-39" start_char="436" end_char="439">Hahn</TOKEN>
+				<TOKEN id="token-2-40" start_char="440" end_char="440">,</TOKEN>
+				<TOKEN id="token-2-41" start_char="442" end_char="443">MD</TOKEN>
+				<TOKEN id="token-2-42" start_char="444" end_char="444">,</TOKEN>
+				<TOKEN id="token-2-43" start_char="446" end_char="448">and</TOKEN>
+				<TOKEN id="token-2-44" start_char="450" end_char="458">President</TOKEN>
+				<TOKEN id="token-2-45" start_char="460" end_char="465">Donald</TOKEN>
+				<TOKEN id="token-2-46" start_char="467" end_char="471">Trump</TOKEN>
+				<TOKEN id="token-2-47" start_char="472" end_char="472">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-276-3" start_char="474" end_char="474">
+				<ORIGINAL_TEXT>1</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="474" end_char="474">1</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-276-4" start_char="476" end_char="629">
+				<ORIGINAL_TEXT>Chloroquine, or hydroxychloroquine, is currently approved by the FDA for treatment of malaria, lupus, and rheumatoid arthritis, although not for COVID-19.</ORIGINAL_TEXT>
+				<TOKEN id="token-4-0" start_char="476" end_char="486">Chloroquine</TOKEN>
+				<TOKEN id="token-4-1" start_char="487" end_char="487">,</TOKEN>
+				<TOKEN id="token-4-2" start_char="489" end_char="490">or</TOKEN>
+				<TOKEN id="token-4-3" start_char="492" end_char="509">hydroxychloroquine</TOKEN>
+				<TOKEN id="token-4-4" start_char="510" end_char="510">,</TOKEN>
+				<TOKEN id="token-4-5" start_char="512" end_char="513">is</TOKEN>
+				<TOKEN id="token-4-6" start_char="515" end_char="523">currently</TOKEN>
+				<TOKEN id="token-4-7" start_char="525" end_char="532">approved</TOKEN>
+				<TOKEN id="token-4-8" start_char="534" end_char="535">by</TOKEN>
+				<TOKEN id="token-4-9" start_char="537" end_char="539">the</TOKEN>
+				<TOKEN id="token-4-10" start_char="541" end_char="543">FDA</TOKEN>
+				<TOKEN id="token-4-11" start_char="545" end_char="547">for</TOKEN>
+				<TOKEN id="token-4-12" start_char="549" end_char="557">treatment</TOKEN>
+				<TOKEN id="token-4-13" start_char="559" end_char="560">of</TOKEN>
+				<TOKEN id="token-4-14" start_char="562" end_char="568">malaria</TOKEN>
+				<TOKEN id="token-4-15" start_char="569" end_char="569">,</TOKEN>
+				<TOKEN id="token-4-16" start_char="571" end_char="575">lupus</TOKEN>
+				<TOKEN id="token-4-17" start_char="576" end_char="576">,</TOKEN>
+				<TOKEN id="token-4-18" start_char="578" end_char="580">and</TOKEN>
+				<TOKEN id="token-4-19" start_char="582" end_char="591">rheumatoid</TOKEN>
+				<TOKEN id="token-4-20" start_char="593" end_char="601">arthritis</TOKEN>
+				<TOKEN id="token-4-21" start_char="602" end_char="602">,</TOKEN>
+				<TOKEN id="token-4-22" start_char="604" end_char="611">although</TOKEN>
+				<TOKEN id="token-4-23" start_char="613" end_char="615">not</TOKEN>
+				<TOKEN id="token-4-24" start_char="617" end_char="619">for</TOKEN>
+				<TOKEN id="token-4-25" start_char="621" end_char="625">COVID</TOKEN>
+				<TOKEN id="token-4-26" start_char="626" end_char="626">-</TOKEN>
+				<TOKEN id="token-4-27" start_char="627" end_char="628">19</TOKEN>
+				<TOKEN id="token-4-28" start_char="629" end_char="629">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-276-5" start_char="631" end_char="742">
+				<ORIGINAL_TEXT>A heme polymerase inhibitor, the drug is being tested for possible COVID-19 use to improve virologic clearance.3</ORIGINAL_TEXT>
+				<TOKEN id="token-5-0" start_char="631" end_char="631">A</TOKEN>
+				<TOKEN id="token-5-1" start_char="633" end_char="636">heme</TOKEN>
+				<TOKEN id="token-5-2" start_char="638" end_char="647">polymerase</TOKEN>
+				<TOKEN id="token-5-3" start_char="649" end_char="657">inhibitor</TOKEN>
+				<TOKEN id="token-5-4" start_char="658" end_char="658">,</TOKEN>
+				<TOKEN id="token-5-5" start_char="660" end_char="662">the</TOKEN>
+				<TOKEN id="token-5-6" start_char="664" end_char="667">drug</TOKEN>
+				<TOKEN id="token-5-7" start_char="669" end_char="670">is</TOKEN>
+				<TOKEN id="token-5-8" start_char="672" end_char="676">being</TOKEN>
+				<TOKEN id="token-5-9" start_char="678" end_char="683">tested</TOKEN>
+				<TOKEN id="token-5-10" start_char="685" end_char="687">for</TOKEN>
+				<TOKEN id="token-5-11" start_char="689" end_char="696">possible</TOKEN>
+				<TOKEN id="token-5-12" start_char="698" end_char="702">COVID</TOKEN>
+				<TOKEN id="token-5-13" start_char="703" end_char="703">-</TOKEN>
+				<TOKEN id="token-5-14" start_char="704" end_char="705">19</TOKEN>
+				<TOKEN id="token-5-15" start_char="707" end_char="709">use</TOKEN>
+				<TOKEN id="token-5-16" start_char="711" end_char="712">to</TOKEN>
+				<TOKEN id="token-5-17" start_char="714" end_char="720">improve</TOKEN>
+				<TOKEN id="token-5-18" start_char="722" end_char="730">virologic</TOKEN>
+				<TOKEN id="token-5-19" start_char="732" end_char="740">clearance</TOKEN>
+				<TOKEN id="token-5-20" start_char="741" end_char="741">.</TOKEN>
+				<TOKEN id="token-5-21" start_char="742" end_char="742">3</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-276-6" start_char="744" end_char="945">
+				<ORIGINAL_TEXT>Remdesivir is an investigational nucleotide analog with broad-spectrum antiviral activity, according to its maker, Gilead Sciences, and it is not approved by the FDA nor any other countries for any use.</ORIGINAL_TEXT>
+				<TOKEN id="token-6-0" start_char="744" end_char="753">Remdesivir</TOKEN>
+				<TOKEN id="token-6-1" start_char="755" end_char="756">is</TOKEN>
+				<TOKEN id="token-6-2" start_char="758" end_char="759">an</TOKEN>
+				<TOKEN id="token-6-3" start_char="761" end_char="775">investigational</TOKEN>
+				<TOKEN id="token-6-4" start_char="777" end_char="786">nucleotide</TOKEN>
+				<TOKEN id="token-6-5" start_char="788" end_char="793">analog</TOKEN>
+				<TOKEN id="token-6-6" start_char="795" end_char="798">with</TOKEN>
+				<TOKEN id="token-6-7" start_char="800" end_char="804">broad</TOKEN>
+				<TOKEN id="token-6-8" start_char="805" end_char="805">-</TOKEN>
+				<TOKEN id="token-6-9" start_char="806" end_char="813">spectrum</TOKEN>
+				<TOKEN id="token-6-10" start_char="815" end_char="823">antiviral</TOKEN>
+				<TOKEN id="token-6-11" start_char="825" end_char="832">activity</TOKEN>
+				<TOKEN id="token-6-12" start_char="833" end_char="833">,</TOKEN>
+				<TOKEN id="token-6-13" start_char="835" end_char="843">according</TOKEN>
+				<TOKEN id="token-6-14" start_char="845" end_char="846">to</TOKEN>
+				<TOKEN id="token-6-15" start_char="848" end_char="850">its</TOKEN>
+				<TOKEN id="token-6-16" start_char="852" end_char="856">maker</TOKEN>
+				<TOKEN id="token-6-17" start_char="857" end_char="857">,</TOKEN>
+				<TOKEN id="token-6-18" start_char="859" end_char="864">Gilead</TOKEN>
+				<TOKEN id="token-6-19" start_char="866" end_char="873">Sciences</TOKEN>
+				<TOKEN id="token-6-20" start_char="874" end_char="874">,</TOKEN>
+				<TOKEN id="token-6-21" start_char="876" end_char="878">and</TOKEN>
+				<TOKEN id="token-6-22" start_char="880" end_char="881">it</TOKEN>
+				<TOKEN id="token-6-23" start_char="883" end_char="884">is</TOKEN>
+				<TOKEN id="token-6-24" start_char="886" end_char="888">not</TOKEN>
+				<TOKEN id="token-6-25" start_char="890" end_char="897">approved</TOKEN>
+				<TOKEN id="token-6-26" start_char="899" end_char="900">by</TOKEN>
+				<TOKEN id="token-6-27" start_char="902" end_char="904">the</TOKEN>
+				<TOKEN id="token-6-28" start_char="906" end_char="908">FDA</TOKEN>
+				<TOKEN id="token-6-29" start_char="910" end_char="912">nor</TOKEN>
+				<TOKEN id="token-6-30" start_char="914" end_char="916">any</TOKEN>
+				<TOKEN id="token-6-31" start_char="918" end_char="922">other</TOKEN>
+				<TOKEN id="token-6-32" start_char="924" end_char="932">countries</TOKEN>
+				<TOKEN id="token-6-33" start_char="934" end_char="936">for</TOKEN>
+				<TOKEN id="token-6-34" start_char="938" end_char="940">any</TOKEN>
+				<TOKEN id="token-6-35" start_char="942" end_char="944">use</TOKEN>
+				<TOKEN id="token-6-36" start_char="945" end_char="945">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-276-7" start_char="947" end_char="1079">
+				<ORIGINAL_TEXT>However, remdesivir has demonstrated activity against MERS and SARS, indicating that it may have potential activity against COVID-19.</ORIGINAL_TEXT>
+				<TOKEN id="token-7-0" start_char="947" end_char="953">However</TOKEN>
+				<TOKEN id="token-7-1" start_char="954" end_char="954">,</TOKEN>
+				<TOKEN id="token-7-2" start_char="956" end_char="965">remdesivir</TOKEN>
+				<TOKEN id="token-7-3" start_char="967" end_char="969">has</TOKEN>
+				<TOKEN id="token-7-4" start_char="971" end_char="982">demonstrated</TOKEN>
+				<TOKEN id="token-7-5" start_char="984" end_char="991">activity</TOKEN>
+				<TOKEN id="token-7-6" start_char="993" end_char="999">against</TOKEN>
+				<TOKEN id="token-7-7" start_char="1001" end_char="1004">MERS</TOKEN>
+				<TOKEN id="token-7-8" start_char="1006" end_char="1008">and</TOKEN>
+				<TOKEN id="token-7-9" start_char="1010" end_char="1013">SARS</TOKEN>
+				<TOKEN id="token-7-10" start_char="1014" end_char="1014">,</TOKEN>
+				<TOKEN id="token-7-11" start_char="1016" end_char="1025">indicating</TOKEN>
+				<TOKEN id="token-7-12" start_char="1027" end_char="1030">that</TOKEN>
+				<TOKEN id="token-7-13" start_char="1032" end_char="1033">it</TOKEN>
+				<TOKEN id="token-7-14" start_char="1035" end_char="1037">may</TOKEN>
+				<TOKEN id="token-7-15" start_char="1039" end_char="1042">have</TOKEN>
+				<TOKEN id="token-7-16" start_char="1044" end_char="1052">potential</TOKEN>
+				<TOKEN id="token-7-17" start_char="1054" end_char="1061">activity</TOKEN>
+				<TOKEN id="token-7-18" start_char="1063" end_char="1069">against</TOKEN>
+				<TOKEN id="token-7-19" start_char="1071" end_char="1075">COVID</TOKEN>
+				<TOKEN id="token-7-20" start_char="1076" end_char="1076">-</TOKEN>
+				<TOKEN id="token-7-21" start_char="1077" end_char="1078">19</TOKEN>
+				<TOKEN id="token-7-22" start_char="1079" end_char="1079">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-276-8" start_char="1081" end_char="1195">
+				<ORIGINAL_TEXT>The drug has been used in a small number of patients with COVID-19 in an experimental manner, according to Gilead.4</ORIGINAL_TEXT>
+				<TOKEN id="token-8-0" start_char="1081" end_char="1083">The</TOKEN>
+				<TOKEN id="token-8-1" start_char="1085" end_char="1088">drug</TOKEN>
+				<TOKEN id="token-8-2" start_char="1090" end_char="1092">has</TOKEN>
+				<TOKEN id="token-8-3" start_char="1094" end_char="1097">been</TOKEN>
+				<TOKEN id="token-8-4" start_char="1099" end_char="1102">used</TOKEN>
+				<TOKEN id="token-8-5" start_char="1104" end_char="1105">in</TOKEN>
+				<TOKEN id="token-8-6" start_char="1107" end_char="1107">a</TOKEN>
+				<TOKEN id="token-8-7" start_char="1109" end_char="1113">small</TOKEN>
+				<TOKEN id="token-8-8" start_char="1115" end_char="1120">number</TOKEN>
+				<TOKEN id="token-8-9" start_char="1122" end_char="1123">of</TOKEN>
+				<TOKEN id="token-8-10" start_char="1125" end_char="1132">patients</TOKEN>
+				<TOKEN id="token-8-11" start_char="1134" end_char="1137">with</TOKEN>
+				<TOKEN id="token-8-12" start_char="1139" end_char="1143">COVID</TOKEN>
+				<TOKEN id="token-8-13" start_char="1144" end_char="1144">-</TOKEN>
+				<TOKEN id="token-8-14" start_char="1145" end_char="1146">19</TOKEN>
+				<TOKEN id="token-8-15" start_char="1148" end_char="1149">in</TOKEN>
+				<TOKEN id="token-8-16" start_char="1151" end_char="1152">an</TOKEN>
+				<TOKEN id="token-8-17" start_char="1154" end_char="1165">experimental</TOKEN>
+				<TOKEN id="token-8-18" start_char="1167" end_char="1172">manner</TOKEN>
+				<TOKEN id="token-8-19" start_char="1173" end_char="1173">,</TOKEN>
+				<TOKEN id="token-8-20" start_char="1175" end_char="1183">according</TOKEN>
+				<TOKEN id="token-8-21" start_char="1185" end_char="1186">to</TOKEN>
+				<TOKEN id="token-8-22" start_char="1188" end_char="1193">Gilead</TOKEN>
+				<TOKEN id="token-8-23" start_char="1194" end_char="1194">.</TOKEN>
+				<TOKEN id="token-8-24" start_char="1195" end_char="1195">4</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-276-9" start_char="1197" end_char="1365">
+				<ORIGINAL_TEXT>During a White House press conference on Thursday, Hahn said that although remdesivir is still in its investigational phase, the unprecedented pandemic warranted action.</ORIGINAL_TEXT>
+				<TOKEN id="token-9-0" start_char="1197" end_char="1202">During</TOKEN>
+				<TOKEN id="token-9-1" start_char="1204" end_char="1204">a</TOKEN>
+				<TOKEN id="token-9-2" start_char="1206" end_char="1210">White</TOKEN>
+				<TOKEN id="token-9-3" start_char="1212" end_char="1216">House</TOKEN>
+				<TOKEN id="token-9-4" start_char="1218" end_char="1222">press</TOKEN>
+				<TOKEN id="token-9-5" start_char="1224" end_char="1233">conference</TOKEN>
+				<TOKEN id="token-9-6" start_char="1235" end_char="1236">on</TOKEN>
+				<TOKEN id="token-9-7" start_char="1238" end_char="1245">Thursday</TOKEN>
+				<TOKEN id="token-9-8" start_char="1246" end_char="1246">,</TOKEN>
+				<TOKEN id="token-9-9" start_char="1248" end_char="1251">Hahn</TOKEN>
+				<TOKEN id="token-9-10" start_char="1253" end_char="1256">said</TOKEN>
+				<TOKEN id="token-9-11" start_char="1258" end_char="1261">that</TOKEN>
+				<TOKEN id="token-9-12" start_char="1263" end_char="1270">although</TOKEN>
+				<TOKEN id="token-9-13" start_char="1272" end_char="1281">remdesivir</TOKEN>
+				<TOKEN id="token-9-14" start_char="1283" end_char="1284">is</TOKEN>
+				<TOKEN id="token-9-15" start_char="1286" end_char="1290">still</TOKEN>
+				<TOKEN id="token-9-16" start_char="1292" end_char="1293">in</TOKEN>
+				<TOKEN id="token-9-17" start_char="1295" end_char="1297">its</TOKEN>
+				<TOKEN id="token-9-18" start_char="1299" end_char="1313">investigational</TOKEN>
+				<TOKEN id="token-9-19" start_char="1315" end_char="1319">phase</TOKEN>
+				<TOKEN id="token-9-20" start_char="1320" end_char="1320">,</TOKEN>
+				<TOKEN id="token-9-21" start_char="1322" end_char="1324">the</TOKEN>
+				<TOKEN id="token-9-22" start_char="1326" end_char="1338">unprecedented</TOKEN>
+				<TOKEN id="token-9-23" start_char="1340" end_char="1347">pandemic</TOKEN>
+				<TOKEN id="token-9-24" start_char="1349" end_char="1357">warranted</TOKEN>
+				<TOKEN id="token-9-25" start_char="1359" end_char="1364">action</TOKEN>
+				<TOKEN id="token-9-26" start_char="1365" end_char="1365">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-276-10" start_char="1367" end_char="1422">
+				<ORIGINAL_TEXT>“Remdesivir is [still] going through the normal process.</ORIGINAL_TEXT>
+				<TOKEN id="token-10-0" start_char="1367" end_char="1367">“</TOKEN>
+				<TOKEN id="token-10-1" start_char="1368" end_char="1377">Remdesivir</TOKEN>
+				<TOKEN id="token-10-2" start_char="1379" end_char="1380">is</TOKEN>
+				<TOKEN id="token-10-3" start_char="1382" end_char="1382">[</TOKEN>
+				<TOKEN id="token-10-4" start_char="1383" end_char="1387">still</TOKEN>
+				<TOKEN id="token-10-5" start_char="1388" end_char="1388">]</TOKEN>
+				<TOKEN id="token-10-6" start_char="1390" end_char="1394">going</TOKEN>
+				<TOKEN id="token-10-7" start_char="1396" end_char="1402">through</TOKEN>
+				<TOKEN id="token-10-8" start_char="1404" end_char="1406">the</TOKEN>
+				<TOKEN id="token-10-9" start_char="1408" end_char="1413">normal</TOKEN>
+				<TOKEN id="token-10-10" start_char="1415" end_char="1421">process</TOKEN>
+				<TOKEN id="token-10-11" start_char="1422" end_char="1422">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-276-11" start_char="1424" end_char="1488">
+				<ORIGINAL_TEXT>We do need to know about the safety and effectiveness,” he said.1</ORIGINAL_TEXT>
+				<TOKEN id="token-11-0" start_char="1424" end_char="1425">We</TOKEN>
+				<TOKEN id="token-11-1" start_char="1427" end_char="1428">do</TOKEN>
+				<TOKEN id="token-11-2" start_char="1430" end_char="1433">need</TOKEN>
+				<TOKEN id="token-11-3" start_char="1435" end_char="1436">to</TOKEN>
+				<TOKEN id="token-11-4" start_char="1438" end_char="1441">know</TOKEN>
+				<TOKEN id="token-11-5" start_char="1443" end_char="1447">about</TOKEN>
+				<TOKEN id="token-11-6" start_char="1449" end_char="1451">the</TOKEN>
+				<TOKEN id="token-11-7" start_char="1453" end_char="1458">safety</TOKEN>
+				<TOKEN id="token-11-8" start_char="1460" end_char="1462">and</TOKEN>
+				<TOKEN id="token-11-9" start_char="1464" end_char="1476">effectiveness</TOKEN>
+				<TOKEN id="token-11-10" start_char="1477" end_char="1478">,”</TOKEN>
+				<TOKEN id="token-11-11" start_char="1480" end_char="1481">he</TOKEN>
+				<TOKEN id="token-11-12" start_char="1483" end_char="1486">said</TOKEN>
+				<TOKEN id="token-11-13" start_char="1487" end_char="1487">.</TOKEN>
+				<TOKEN id="token-11-14" start_char="1488" end_char="1488">1</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-276-12" start_char="1490" end_char="1617">
+				<ORIGINAL_TEXT>According to Hahn, the FDA is providing regulatory flexibility and guidance, but is also continuing to ensure products are safe.</ORIGINAL_TEXT>
+				<TOKEN id="token-12-0" start_char="1490" end_char="1498">According</TOKEN>
+				<TOKEN id="token-12-1" start_char="1500" end_char="1501">to</TOKEN>
+				<TOKEN id="token-12-2" start_char="1503" end_char="1506">Hahn</TOKEN>
+				<TOKEN id="token-12-3" start_char="1507" end_char="1507">,</TOKEN>
+				<TOKEN id="token-12-4" start_char="1509" end_char="1511">the</TOKEN>
+				<TOKEN id="token-12-5" start_char="1513" end_char="1515">FDA</TOKEN>
+				<TOKEN id="token-12-6" start_char="1517" end_char="1518">is</TOKEN>
+				<TOKEN id="token-12-7" start_char="1520" end_char="1528">providing</TOKEN>
+				<TOKEN id="token-12-8" start_char="1530" end_char="1539">regulatory</TOKEN>
+				<TOKEN id="token-12-9" start_char="1541" end_char="1551">flexibility</TOKEN>
+				<TOKEN id="token-12-10" start_char="1553" end_char="1555">and</TOKEN>
+				<TOKEN id="token-12-11" start_char="1557" end_char="1564">guidance</TOKEN>
+				<TOKEN id="token-12-12" start_char="1565" end_char="1565">,</TOKEN>
+				<TOKEN id="token-12-13" start_char="1567" end_char="1569">but</TOKEN>
+				<TOKEN id="token-12-14" start_char="1571" end_char="1572">is</TOKEN>
+				<TOKEN id="token-12-15" start_char="1574" end_char="1577">also</TOKEN>
+				<TOKEN id="token-12-16" start_char="1579" end_char="1588">continuing</TOKEN>
+				<TOKEN id="token-12-17" start_char="1590" end_char="1591">to</TOKEN>
+				<TOKEN id="token-12-18" start_char="1593" end_char="1598">ensure</TOKEN>
+				<TOKEN id="token-12-19" start_char="1600" end_char="1607">products</TOKEN>
+				<TOKEN id="token-12-20" start_char="1609" end_char="1611">are</TOKEN>
+				<TOKEN id="token-12-21" start_char="1613" end_char="1616">safe</TOKEN>
+				<TOKEN id="token-12-22" start_char="1617" end_char="1617">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-276-13" start_char="1619" end_char="1705">
+				<ORIGINAL_TEXT>He said the agency has been working with the CDC since January on combating the virus.1</ORIGINAL_TEXT>
+				<TOKEN id="token-13-0" start_char="1619" end_char="1620">He</TOKEN>
+				<TOKEN id="token-13-1" start_char="1622" end_char="1625">said</TOKEN>
+				<TOKEN id="token-13-2" start_char="1627" end_char="1629">the</TOKEN>
+				<TOKEN id="token-13-3" start_char="1631" end_char="1636">agency</TOKEN>
+				<TOKEN id="token-13-4" start_char="1638" end_char="1640">has</TOKEN>
+				<TOKEN id="token-13-5" start_char="1642" end_char="1645">been</TOKEN>
+				<TOKEN id="token-13-6" start_char="1647" end_char="1653">working</TOKEN>
+				<TOKEN id="token-13-7" start_char="1655" end_char="1658">with</TOKEN>
+				<TOKEN id="token-13-8" start_char="1660" end_char="1662">the</TOKEN>
+				<TOKEN id="token-13-9" start_char="1664" end_char="1666">CDC</TOKEN>
+				<TOKEN id="token-13-10" start_char="1668" end_char="1672">since</TOKEN>
+				<TOKEN id="token-13-11" start_char="1674" end_char="1680">January</TOKEN>
+				<TOKEN id="token-13-12" start_char="1682" end_char="1683">on</TOKEN>
+				<TOKEN id="token-13-13" start_char="1685" end_char="1693">combating</TOKEN>
+				<TOKEN id="token-13-14" start_char="1695" end_char="1697">the</TOKEN>
+				<TOKEN id="token-13-15" start_char="1699" end_char="1703">virus</TOKEN>
+				<TOKEN id="token-13-16" start_char="1704" end_char="1704">.</TOKEN>
+				<TOKEN id="token-13-17" start_char="1705" end_char="1705">1</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-276-14" start_char="1707" end_char="1804">
+				<ORIGINAL_TEXT>“An important part of that work is expanding therapeutic options for the coronavirus,” Hahn said.1</ORIGINAL_TEXT>
+				<TOKEN id="token-14-0" start_char="1707" end_char="1707">“</TOKEN>
+				<TOKEN id="token-14-1" start_char="1708" end_char="1709">An</TOKEN>
+				<TOKEN id="token-14-2" start_char="1711" end_char="1719">important</TOKEN>
+				<TOKEN id="token-14-3" start_char="1721" end_char="1724">part</TOKEN>
+				<TOKEN id="token-14-4" start_char="1726" end_char="1727">of</TOKEN>
+				<TOKEN id="token-14-5" start_char="1729" end_char="1732">that</TOKEN>
+				<TOKEN id="token-14-6" start_char="1734" end_char="1737">work</TOKEN>
+				<TOKEN id="token-14-7" start_char="1739" end_char="1740">is</TOKEN>
+				<TOKEN id="token-14-8" start_char="1742" end_char="1750">expanding</TOKEN>
+				<TOKEN id="token-14-9" start_char="1752" end_char="1762">therapeutic</TOKEN>
+				<TOKEN id="token-14-10" start_char="1764" end_char="1770">options</TOKEN>
+				<TOKEN id="token-14-11" start_char="1772" end_char="1774">for</TOKEN>
+				<TOKEN id="token-14-12" start_char="1776" end_char="1778">the</TOKEN>
+				<TOKEN id="token-14-13" start_char="1780" end_char="1790">coronavirus</TOKEN>
+				<TOKEN id="token-14-14" start_char="1791" end_char="1792">,”</TOKEN>
+				<TOKEN id="token-14-15" start_char="1794" end_char="1797">Hahn</TOKEN>
+				<TOKEN id="token-14-16" start_char="1799" end_char="1802">said</TOKEN>
+				<TOKEN id="token-14-17" start_char="1803" end_char="1803">.</TOKEN>
+				<TOKEN id="token-14-18" start_char="1804" end_char="1804">1</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-276-15" start_char="1806" end_char="1873">
+				<ORIGINAL_TEXT>Trump said these medications will be made available by prescription.</ORIGINAL_TEXT>
+				<TOKEN id="token-15-0" start_char="1806" end_char="1810">Trump</TOKEN>
+				<TOKEN id="token-15-1" start_char="1812" end_char="1815">said</TOKEN>
+				<TOKEN id="token-15-2" start_char="1817" end_char="1821">these</TOKEN>
+				<TOKEN id="token-15-3" start_char="1823" end_char="1833">medications</TOKEN>
+				<TOKEN id="token-15-4" start_char="1835" end_char="1838">will</TOKEN>
+				<TOKEN id="token-15-5" start_char="1840" end_char="1841">be</TOKEN>
+				<TOKEN id="token-15-6" start_char="1843" end_char="1846">made</TOKEN>
+				<TOKEN id="token-15-7" start_char="1848" end_char="1856">available</TOKEN>
+				<TOKEN id="token-15-8" start_char="1858" end_char="1859">by</TOKEN>
+				<TOKEN id="token-15-9" start_char="1861" end_char="1872">prescription</TOKEN>
+				<TOKEN id="token-15-10" start_char="1873" end_char="1873">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-276-16" start_char="1875" end_char="1969">
+				<ORIGINAL_TEXT>Hahn declined to say when both drugs would become available for use in patients with COVID-19.1</ORIGINAL_TEXT>
+				<TOKEN id="token-16-0" start_char="1875" end_char="1878">Hahn</TOKEN>
+				<TOKEN id="token-16-1" start_char="1880" end_char="1887">declined</TOKEN>
+				<TOKEN id="token-16-2" start_char="1889" end_char="1890">to</TOKEN>
+				<TOKEN id="token-16-3" start_char="1892" end_char="1894">say</TOKEN>
+				<TOKEN id="token-16-4" start_char="1896" end_char="1899">when</TOKEN>
+				<TOKEN id="token-16-5" start_char="1901" end_char="1904">both</TOKEN>
+				<TOKEN id="token-16-6" start_char="1906" end_char="1910">drugs</TOKEN>
+				<TOKEN id="token-16-7" start_char="1912" end_char="1916">would</TOKEN>
+				<TOKEN id="token-16-8" start_char="1918" end_char="1923">become</TOKEN>
+				<TOKEN id="token-16-9" start_char="1925" end_char="1933">available</TOKEN>
+				<TOKEN id="token-16-10" start_char="1935" end_char="1937">for</TOKEN>
+				<TOKEN id="token-16-11" start_char="1939" end_char="1941">use</TOKEN>
+				<TOKEN id="token-16-12" start_char="1943" end_char="1944">in</TOKEN>
+				<TOKEN id="token-16-13" start_char="1946" end_char="1953">patients</TOKEN>
+				<TOKEN id="token-16-14" start_char="1955" end_char="1958">with</TOKEN>
+				<TOKEN id="token-16-15" start_char="1960" end_char="1964">COVID</TOKEN>
+				<TOKEN id="token-16-16" start_char="1965" end_char="1965">-</TOKEN>
+				<TOKEN id="token-16-17" start_char="1966" end_char="1967">19</TOKEN>
+				<TOKEN id="token-16-18" start_char="1968" end_char="1968">.</TOKEN>
+				<TOKEN id="token-16-19" start_char="1969" end_char="1969">1</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-276-17" start_char="1971" end_char="2087">
+				<ORIGINAL_TEXT>For up-to-date information on COVID-19 for pharmacy professionals, visit Pharmacy Times' coronavirus resource center.</ORIGINAL_TEXT>
+				<TOKEN id="token-17-0" start_char="1971" end_char="1973">For</TOKEN>
+				<TOKEN id="token-17-1" start_char="1975" end_char="1976">up</TOKEN>
+				<TOKEN id="token-17-2" start_char="1977" end_char="1977">-</TOKEN>
+				<TOKEN id="token-17-3" start_char="1978" end_char="1979">to</TOKEN>
+				<TOKEN id="token-17-4" start_char="1980" end_char="1980">-</TOKEN>
+				<TOKEN id="token-17-5" start_char="1981" end_char="1984">date</TOKEN>
+				<TOKEN id="token-17-6" start_char="1986" end_char="1996">information</TOKEN>
+				<TOKEN id="token-17-7" start_char="1998" end_char="1999">on</TOKEN>
+				<TOKEN id="token-17-8" start_char="2001" end_char="2005">COVID</TOKEN>
+				<TOKEN id="token-17-9" start_char="2006" end_char="2006">-</TOKEN>
+				<TOKEN id="token-17-10" start_char="2007" end_char="2008">19</TOKEN>
+				<TOKEN id="token-17-11" start_char="2010" end_char="2012">for</TOKEN>
+				<TOKEN id="token-17-12" start_char="2014" end_char="2021">pharmacy</TOKEN>
+				<TOKEN id="token-17-13" start_char="2023" end_char="2035">professionals</TOKEN>
+				<TOKEN id="token-17-14" start_char="2036" end_char="2036">,</TOKEN>
+				<TOKEN id="token-17-15" start_char="2038" end_char="2042">visit</TOKEN>
+				<TOKEN id="token-17-16" start_char="2044" end_char="2051">Pharmacy</TOKEN>
+				<TOKEN id="token-17-17" start_char="2053" end_char="2057">Times</TOKEN>
+				<TOKEN id="token-17-18" start_char="2058" end_char="2058">'</TOKEN>
+				<TOKEN id="token-17-19" start_char="2060" end_char="2070">coronavirus</TOKEN>
+				<TOKEN id="token-17-20" start_char="2072" end_char="2079">resource</TOKEN>
+				<TOKEN id="token-17-21" start_char="2081" end_char="2086">center</TOKEN>
+				<TOKEN id="token-17-22" start_char="2087" end_char="2087">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-276-18" start_char="2089" end_char="2098">
+				<ORIGINAL_TEXT>REFERENCES</ORIGINAL_TEXT>
+				<TOKEN id="token-18-0" start_char="2089" end_char="2098">REFERENCES</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

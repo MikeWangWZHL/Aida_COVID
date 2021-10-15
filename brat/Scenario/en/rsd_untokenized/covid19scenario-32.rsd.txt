@@ -1,0 +1,78 @@
+As the world continues to battle the coronavirus, it is also fighting a different sort of epidemic: misinformation.
+This “infodemic” is just as harmful as COVID-19 itself, leading people to downplay the severity of the disease and ignore public health advice in favor of unproved treatments or “cures.” A recent survey by the John S. and James L. Knight Foundation and Gallup found that four in five Americans say the online spread of misinformation is the biggest problem facing the media.
+Even with widely available evidence to the contrary, beliefs are hard to change.
+Here are some of the most insidious falsehoods about the pandemic, and why they are wrong.
+Myth 1: The novel coronavirus was engineered in a lab in China.
+Because the pathogen first emerged and began infecting people in Wuhan, China, President Donald Trump has claimed—without evidence—that it started in a laboratory there.
+Some conspiracy theorists have even speculated it was engineered as a bioweapon, although U.S. intelligence agencies have categorically denied this possibility, stating that the intelligence community “concurs with the wide scientific consensus that the COVID-19 virus was not manmade or genetically modified.” No credible evidence has emerged to support an accidental lab release either.
+As Scientific American reported earlier this year, Chinese virologist Shi Zhengli—who studies bat coronaviruses and whose laboratory Trump and others had suggested was COVID-19’s source—compared the pathogen’s sequence against that of other coronaviruses her team had sampled from bat caves and found that it did not match any of them.
+Zhengli also explained in detail why her lab could not have been the source of the virus in a lengthy response in Science.
+In reaction to calls for an independent, international investigation into how the virus originated, China has invited researchers from the World Health Organization to discuss the scope of such a mission.
+But the evidence suggests SARS-CoV-2 was not created in a lab.
+Myth 2: Wealthy elites intentionally spread the virus to win power and profit.
+In a video from a conspiracy theory film entitled Plandemic and a book she co-authored, a woman named Judy Mikovits, who once published a high-profile, now retracted study on chronic fatigue syndrome, makes unsubstantiated claims about National Institute of Allergy and Infectious Diseases director Anthony Fauci and Microsoft co-founder Bill Gates, suggesting they have used their power to profit from disease.
+Science and the Web site PolitiFact have fact-checked some of the film’s claims, many of which appear elsewhere in this article.
+The video was widely shared by anti-vaxxers and the conspiracy theory group QAnon.
+It garnered more than eight million views on YouTube, Facebook, Twitter and Instagram before it was taken down because of its false statements.
+Yet the large number of people who watched it suggests misinformation spreads perniciously.
+Myth 3: COVID-19 is no worse than the flu.
+Starting in the early days of the pandemic, Trump repeatedly claimed that the disease is not more dangerous than seasonal influenza.
+But on September 9 the Washington Post published recordings of Trump​ telling journalist and author Bob Woodward—in interviews in early February and late March—that the president knew COVID-19 was more deadly than the flu and that he wanted to play down its severity.
+Although COVID-19’s exact mortality rate is hard to pin down, epidemiologists suspect it is far higher than that of the flu.
+The Centers for Disease Control and Prevention estimates that the latter causes roughly 12,000 to 61,000 deaths per year in the U.S. By contrast, COVID-19 has caused more than 191,000 deaths in the country as of this writing.
+*
+
+Many people also have partial immunity to the flu because of vaccination or prior infection, whereas most of the world has not yet encountered COVID-19.
+So no, coronavirus is not “just the flu.”
+
+Myth 4: You don’t need to wear a mask.
+Although early guidance on masks from the CDC and the WHO was confusing and inconsistent, there is now a strong consensus among public health authorities—supported by numerous studies—that wearing a face covering can limit the transmission of the coronavirus through small exhaled droplets.
+Masks have long been known as an effective means of source control (preventing a sick patient from spreading a disease to others), but the early guidance was based, in part, on the fact that there was a shortage of high-quality “N95” and surgical masks.
+We now know that cloth face masks can be an effective alternative.
+But despite the evidence, many people still refuse to wear one, considering it a violation of civil liberties or emasculating.
+Georgia’s governor Brian Kemp went so far as to sign an executive order banning city governments from implementing mask mandates.
+And he sued Atlanta’s mayor Keisha Lance Bottoms when she instituted one, although he has now dropped the lawsuit.
+But as coronavirus cases have spiked around the U.S. in recent months, even states that were once staunch holdouts have now implemented mask orders.
+Myth 5: Hydroxychloroquine is an effective treatment.
+When a small, now widely criticized study in France suggested the malaria drug hydroxychloroquine might be effective at treating the disease, Trump and others seized on it and have continued to tout the medication despite growing evidence that it does not benefit COVID-19 patients.
+In a tweet, Trump called the hydroxychloroquine treatment “one of the biggest game changers in the history of medicine,” and he has mentioned it repeatedly in his public coronavirus briefings.
+The Food and Drug Administration initially issued an emergency use authorization for the drug, but the agency later warned against its use because of the risk of heart problems and ultimately revoked its authorization.
+Several studies have shown that hydroxychloroquine does not protect against COVID-19 in those who are exposed.
+And in June the National Institutes of Health halted its clinical trial of the medication, stating that while it was not harmful to patients, it did not provide any benefit.
+Yet Trump continues to hype the drug.
+Just a few weeks ago, he retweeted a video—viewed tens of millions of times before social media companies took it down—featuring Stella Immanuel, a Houston, Tex.–based physician (who has made questionable assertions in the past, including that doctors had used alien DNA in treatments and that demons cause certain medical conditions by having sex with people in their dreams) claiming hydroxychloroquine is an effective treatment for COVID-19.
+Myth 6: The Black Lives Matter protests led to increased transmission.
+When thousands of people started taking to the streets in late May and June to protest the police killing of George Floyd and violence against Black Americans, some people questioned whether the mass gatherings would cause a spike in coronavirus cases.
+But despite the concerns of Republicans such as Representative Jim Jordan of Ohio that the demonstrations pose as big a risk as going to church or the gym, such a marked increase from the protests has not been observed.
+A white paper analysis of protests in 315 of the largest U.S. cities by the National Bureau of Economic Research found no evidence that they led to more COVID-19 cases or deaths.
+And those who did not attend the protests may actually have stayed home more than they would have otherwise.
+The fact that the demonstrations happened outdoors, where the risk of transmission is much lower, and that many protesters wore masks likely prevented superspreading events.
+Meanwhile, as states have reopened, there has been a notable increase in cases tied to bars and restaurants, as well as other indoor environments—likely because of the risk of airborne spread.
+Myth 7: Spikes in cases are because of increased testing.
+As coronavirus cases began surging in many parts of the U.S. in recent months, Trump has frequently claimed that these spikes are merely to the result of more people being tested.
+He has tweeted that “without testing ... we would be showing almost no cases” and has said in interviews that the reason they appear to have gone up is because of increased testing.
+If that scenario were true, we would expect the percentage of positive tests to go down.
+But numerous analyses have shown the opposite.
+The rate has risen in many states with big outbreaks (such as Arizona, Texas and Florida), while it has decreased in those that have controlled their outbreaks (such as New York), indicating that the national increase in positive tests reflects a true increase in cases.
+Myth 8: We can achieve herd immunity by letting the virus spread through the population.
+Early on in the pandemic, some speculated that the polices chosen by the U.K. and Sweden gave the impression that they planned on letting the virus circulate through their population until they reached herd immunity—the point at which enough people are immune to the virus to prevent it from spreading to others.
+(Both nations’ governments have denied that this idea was their official strategy, but the U.K. was late to issue a full lockdown, and Sweden had decided against widespread restrictions.)
+There is a fundamental flaw with this approach, however: Experts estimate that roughly 60 to 70 percent of people would need to get COVID-19 to achieve herd immunity.
+And given the relatively high mortality rate of the disease, letting it infect that many individuals could lead to millions of deaths.
+That tragedy is what happened during the 1918 influenza pandemic, in which roughly 50 million people are thought to have perished.
+The U.K.’s COVID-19 death rate is among the world’s highest.
+Sweden, for its part, has had significantly more deaths than neighboring countries, and its economy has suffered, despite not shutting down.
+It is likely that many lives could have been saved if these countries had acted sooner.
+Myth 9: Any vaccine will be unsafe and a bigger risk than getting COVID-19.
+As scientists race to develop a vaccine against the disease, worrying reports have emerged that many people may refuse to get one once it is available.
+Conspiracy theories about potential vaccines have circulated among anti-vax groups and in viral videos.
+In Plandemic, Mikovits falsely claims that any COVID-19 vaccine will “kill millions” and that other vaccines have done so (in fact, vaccines save millions of lives each year).
+Another conspiracy theory asserts that Bill Gates has a secret plan to use vaccines to implant trackable microchips in people; Gates has denied the claim, which is not supported by evidence.
+Most Americans still support vaccination, yet the few voices of opposition have been growing.
+A recent study observed that although clusters of anti-vaxxers on Facebook are smaller than pro-vaccination groups, they are more heavily interconnected with clusters of undecided people.
+A recent Gallup poll found that one in three Americans would not get a COVID-19 vaccine if it were available today, with Republicans being less likely to be vaccinated than Democrats.
+There is good reason to be cautious about the safety of a new vaccine, but that need for prudence is why the top contenders are currently conducting large-scale clinical trials in tens of thousands of people to determine safety and efficacy.
+If one or more of them pass muster, it will be critical for people to get vaccinated to save lives—including, perhaps, their own.
+Read more about the coronavirus outbreak from Scientific American here.
+And read coverage from our international network of magazines here.
+*Editor's Note (9/10/20): This paragraph has been updated in light of a report in the Washington Post that Donald Trump told journalist Bob Woodward in recorded interviews from February and March that he knew COVID-19 was more deadly than the flu and that he had intentionally downplayed the threat.

@@ -1,0 +1,42 @@
+This article is part of Privacy in the Pandemic, a Future Tense series.
+The coronavirus pandemic has spawned a glut of conspiracy theories as nefarious actors work to capitalize on people’s fear and anxiety, further dividing us through bot accounts.
+Some of these theories center on Bill Gates, who’s been funding quite a bit of coronavirus vaccine research.
+Gates has long been a target of conspiracy theories, but the pandemic seems to have ratcheted it up a notch.
+Yahoo News and YouGov recently polled U.S. adults on their coronavirus beliefs and found that only 40 percent of respondents believe it’s false that “Bill Gates wants to use a mass vaccination campaign against COVID-19 to implant microchips in people that would be used to track people with a digital ID.” The other 60 percent say it’s true or are “not sure.”
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+To be clear: The technology to track people via vaccine simply doesn’t exist yet.
+While we certainly have microchips—even injectable ones—they aren’t capable of actually tracking anyone.
+My dog, for instance, was injected with a microchip when she was turned in to an animal shelter; there’s a permanent spot on her belly that shows the injection site, and, yes, it allows humans to track her should she ever get lost.
+But that tracking capacity is not what you might think.
+It isn’t a GPS tracker that allows us to see, in real time, where she is.
+Rather, that chip contains information about her—a registration number—which is linked to my phone number.
+Any vet who found her would scan her, then call me.
+Advertisement
+
+The same principles hold true for biohackers, a dedicated subculture of body modification enthusiasts who inject chips for fun.
+A few years ago, I interviewed several of these “cyborgs,” who said that it’s a cool party trick but they wished the chips were more versatile.
+The vast majority of these chips use RFID technology, the same thing that allows you to wave your card over a reader at a store instead of swiping it.
+The implanted chips can unlock doors with digital locks or serve as a digital business card if an associate scans your hand, but their use is only available if someone is up close to you and knows exactly where to scan.
+Even worse, they go on the fritz within a few years, and given chips’ limited abilities, many people don’t bother replacing their chip once it stops scanning.
+Advertisement
+
+In dogs or humans, these RFID microchips only transmit information; for one to track you, it would also need to receive information from, say, cell towers, so that it could receive the data to figure out its location, then transmit it back to the tower.
+That’s also a pretty power-intensive transaction, which means your chip would need some juice from a battery pack.
+Think about how quickly your phone dies when trying to find cell service in a spotty area.
+A GPS tracker needs that same amount of power.
+That means if you wanted to inject GPS into someone else, you’d also have to inject a battery—which sounds downright unpleasant, if not deadly.
+Perhaps someone, someday, will figure out how to miniaturize an injectable GPS chip with a battery pack that doesn’t kill its host, but it doesn’t yet exist.
+And the ability to get it so small that it fits into a vaccine needle?
+That’s going to take even longer.
+If you’re worried about location tracking, look no further than your cellphone.
+Phones are bona fide tracking devices; people use their GPS functions all the time to find their friends or map their routes.
+There are serious, worrisome privacy violations that can come from companies collecting and sharing your GPS data, yet we willingly give up that information daily.
+As Slate’s politics editor Tom Scocca puts it: “Bill Gates doesn’t have to implant a tracker in you because Steve Jobs got you to buy one yourself.”
+
+Future Tense is a partnership of Slate, New America, and Arizona State University that examines emerging technologies, public policy, and society.

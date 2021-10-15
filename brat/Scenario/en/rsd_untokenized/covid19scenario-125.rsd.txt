@@ -1,0 +1,63 @@
+Misinformation and the mixture of true and false information
+
+Results demonstrate that although misinformation was not found in the majority of analyzed tweets, it was still present at notable levels.
+Our results, that 5% of Ebola related tweets were false and another 5% contained half-true or misinterpreted information in the time period from September 30–October 30, 2014, highlight a potential increase in misinformation from the 2% reported from Twitter and Sina Weibo content in August 2014 [6].
+Although differences in sampling and coding methods may limit the comparability of these findings, the increase in misinformation in the later time period may have resulted from the increase attention on the Ebola outbreak after the disease was diagnosed in the US [25].
+Considering the networked nature of Twitter, some users were likely to have received a much greater percentage of Tweets containing misinformation.
+This is particularly important when considering that message frames that are viewed more frequently often have greater influence on public opinion [35].
+An analysis of Ebola twitter cascades shows that users receiving misinformation were likely immediate followers of (or the followers of followers of) those that broadcasted misinformation, highlighting the importance of influential Twitter users both the spread and potential control of misinformation [36].
+Furthermore, within misinformation containing tweets, the high frequency of partially true or misinterpreted information may also present challenges for public health communicators, particularly if the tweet author cites legitimate sources to support his or her claims.
+Additionally, more frequent framing of true information in ways that mischaracterize it may solidify this misinterpretation in the minds of the public [37].
+Interestingly, slightly more than half of the tweets mentioning Ebola as an airborne disease also refuted it, highlighting the potential of crowd-sourced correction of misinformation [38].
+Intersection of misinformation, political content, and discord
+
+Findings also indicate greater than expected politicization of a seemingly neutral international health emergency.
+Past research indicates that the types of social media content can vary over the course of an outbreak and political framing of social media messages in past outbreaks appeared more frequently during the “maintenance” stage of outbreak response, which occurs during peak activity of response efforts prior to the resolution of an outbreak [39].
+Ebola response activities within the US and the time period of interest in this study corresponded with the lead up to US midterm elections (which occurred Nov 4, 2014).
+This temporal overlap may have contributed to the political content found in many tweets, particularly with respect to discourse on travel bans and quarantine procedures.
+Furthermore, the politicization of this health issue extended beyond discussion about the disease itself, and often touched on other contentious political issues in the US, such as immigration, general health care policy, and government spending.
+These findings support previous research tying the acceptance of information and perceived risk perception with whether such information would align with a person’s political identity [8].
+The intersection of health misinformation with political discourse may have also contributed to Ebola response efforts being viewed as partisan topics.
+As other researchers have noted [8, 10], when a statement is associated with a particular conservative or liberal viewpoint, readers that align with that political ideology may be less likely to critically assess the truth to the statement, which posed a challenge for promoting evidence-based policies in public health response.
+Not surprisingly, nearly all political tweets that provided an opinion about government were critical rather than supportive.
+Additionally, a substantial proportion of these tweets were framed in ways that could promote discord or bait readers into responding.
+Similar trends have been observed by other researchers assessing vaccine misinformation on social media [23].
+Published literature on misinformation during the H1N1 pandemic have also shown that misinformation circulating during pandemics often elicits lack of trust in government or traditional institutions [40].
+Notably, the prevalence of tweet characteristics of concern, including the presence of misinformation, discord-inducing statements, and political messaging, remained relatively constant even among highly retweeted content.
+Given the relationship between political content and misinformation, another potential approach to ensure that accurate information is included in political discourse is to provide political leaders with frequently updated disease information fact sheets.
+Federal health officials, for example the Health and Human Services Assistant Secretary for Public Affairs and Assistant Secretary for Legislation, can provide frequent updates and concise information to policymakers and political staff members to ensure that science-based health information is easily available.
+Furthermore, practitioners, policymakers, and the national security community should be aware of the potential usage of public health emergencies to create discord amongst the public during public health emergencies and strive to reduce these effects.
+Experience with outbreak emergencies has shown the deleterious effects of misinformation and diminishing trust [5].
+Elevating perception of risk – fuel for public fears
+
+The identification and transmission of Ebola in the US generated high levels of fear and concern amongst the public.
+Results showing high frequency of risk perception elevating tweets align with previously published literature on social media content during the Ebola epidemic [7, 25].
+The high proportion of these messages, paired with inflammatory political statements and misinformation demonstrate how public health response efforts and public health messaging can be interpreted or distorted in ways that promote political and social discord.
+Furthermore, driven by public interest, mass media may sensationalize or exaggerate the risk of disease in a population, which could increase risk perception and risk-elevating messages on social media [24].
+Although appropriate levels of risk perception in situations that warrant public attention, investment in protective actions, and policy intervention is necessary, messages that elevate public perception of risk situations that do not warrant high levels of public concern are problematic.
+Disease outbreaks may naturally lead to messages that could increase perception of risk and public health communicators must work with transparency and empathy for public fears [41].
+Potential approaches to misinformation during health emergencies
+
+Developing a strategy to combat misinformation during an epidemic, particularly one that induces increased levels of fear amongst the public, is challenging, and effectively addressing misinformation will likely involve multifaceted approaches, such as developing compelling public health awareness campaigns, engaging in media literacy efforts, and monitoring of circulating content to develop proactive responses to emerging communication issues.
+Public private partnerships between social media companies and public health agencies to promote public health messages is also an important component in combating misinformation, as observed in the partnership between the World Health Organization and social media companies to combat the novel coronavirus disease 2019 (COVID-19) misinformation [42, 43].
+As governments and global health organizations become increasingly aware of the dangers of misinformation in both health and political sectors, more research will need to be done to ensure that strategies to reduce misinformation are effective and do not infringe of the spread of true information or the ability of members of the public to speak freely.
+Research assessing the effects of correcting health misinformation has shown varied results.
+While some studies have indicated that correction of certain misinformation by trusted sources can help reduce misperceptions, others indicate correction can sometimes have limited impact or even contribute to further misperceptions in certain circumstances due to factors such as the perceived trustworthiness of the source and whether corrective information conflicts with the social or political identity of the individual [44, 45].
+Furthermore, countering of messages will require clear understanding of the underlying drivers and motivations among stakeholders for promoting false information.
+Limitations
+
+This research is subject to several limitations.
+Tweets are short and provide limited content to frame coding.
+The coding process involved human interpretation of sometimes confusing material and may have introduced bias or error.
+Sarcasm and satire were occasionally difficult to interpret.
+However, this was mitigated through continual consensus seeking efforts with the team throughout the coding process for tweets considered particularly confusing or challenging.
+Frequent discussions prevented coders from deviating from agreed upon code definitions over the course of the coding process.
+Although interrater agreement for coders was high, double coding was conducted on a limited 5% of the sample.
+Another potential limitation is our decision not to limit the study sample to US geotagged tweets due to concerns about potential bias this may have introduced– that users who allowed geotagging may have been different from other types of Twitter users.
+Instead, the sample was limited to English language tweets during a time period of heightened attention to Ebola in the US.
+As a result, not all tweets may have originated in the US.
+Additionally, codes to assess political nature of tweets were not specific to a particular ideology or political party.
+Therefore, we were not able to systematically quantify the political leanings of different tweets.
+Furthermore, tweets were automatically and randomly selected as part of the 1% sample of tweets published in our timeframe of interest.
+As a result, tweets with low retweet counts may have been published just prior to data capture, potentially showing fewer retweets than they eventually received.
+Finally, the time period for our study was limited to the period of most intense interest amongst the US population but may have been too short to identify general trends in Ebola-related social media posts.

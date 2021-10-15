@@ -1,0 +1,44 @@
+Nos habéis preguntado por publicaciones como esta o esta en las que se afirma que al llevar mascarilla todos los gérmenes que exhalamos quedan “atrapados” en ella y aumenta la probabilidad de dar positivo en una prueba PCR.
+No es cierto.
+Pepe Alcamí, virólogo del Instituto de Salud Carlos III, indica a Maldita Ciencia que si el virus está en la parte interna de tu mascarilla es que lo tienes en tu garganta.
+Si no, la mascarilla podrá tener otros microbios, bacterias que estén en la garganta o incluso otros virus pero estos "no serán amplificados por una PCR específica de coronavirus".
+Os lo explicamos.
+Las pruebas PCR para detectar el SARS-CoV-2 son específicas
+
+El mensaje afirma que “a mayor uso de mascarillas, mayor probabilidades de dar positivo en una prueba de Covid”.
+“Todos los gérmenes que exhalas, se quedan atrapados en la mascarilla y retornan hacia dentro, los cuales se estancan en el conducto nasal que filtra el aire.
+Luego meten el hisopo en esta cavidad, para agarrar, cuántos más gérmenes mejor, el resultado será un positivo asintomático seguro”, indica.
+No hay evidencias de que sea así.
+Si no se está infectado, por muchos gérmenes que acumule la mascarilla eso no provocaría un positivo en la PCR, ya que esta prueba solo detecta el SARS-Cov-2 y no da falsos positivos por cualquier otro virus.
+En las publicaciones se afirma que el test PCR “solo detecta una secuencia de 200 letras Génicas [sic] de algún germen X” y que “basta con rascar esta zona, donde hay muchos gérmenes acumulados por el uso de la infecciosa mascarilla”.
+Alcamí sostiene que “el mensaje es erróneo porque la prueba de PCR es específica”.
+Según cuenta, no es cierto que detecte "200 letras génicas de algún germen X".
+“El método de PCR se caracteriza porque utiliza para amplificar la secuencia genética de un germen cebadores o primers (sustancias necesarias en la reacción en que se basa las PCR) que corresponden a un fragmento del código de ese germen que es único en ese microbio.
+En el caso del coronavirus, la PCR amplifica sólo si el virus es el SARS-CoV-2, no amplifica el SARS-CoV-1 ni otros coronavirus respiratorios.”, afirma.
+Es decir, “se eligen fragmentos ‘únicos’ del virus que no están presentes en otros”.
+Para explicarlo, pone como ejemplo los relatos cortos.
+Cuenta que entre diferentes relatos, sobre todo si están escritos en el mismo idioma, hay letras compartidas.
+Pero en todo relato hay una serie de palabras que no están en ningún otro relato.
+Por ejemplo, afirma que puede aparecer la palabra "canguro" en muchos relatos.
+Pero "el canguro se llamaba Willy y lo localicé en la sabana de Melbourne" solo existirá en un relato concreto.
+“Si buscamos esa frase entre mil relatos solo aparecerá en ese”.
+Lo mismo ocurre en este caso: “Lo importante para tener una buena PCR es que seleccione un fragmento ‘original’ del virus que nos interesa diagnosticar.
+Si elegimos un fragmento compartido por otros coronavirus no podremos diferenciarlo, pero los tests de PCR que se utilizan diferencian perfectamente entre distintos coronavirus y más todavía entre virus de familias diferentes o microbios tan distintos y distantes genéticamente como las bacterias o los hongos”.
+Aquí os lo explicamos.
+Los gérmenes que exhalamos ya están en nuestro tracto respiratorio y normalmente no suponen un riesgo para la salud
+
+¿Qué ocurre exactamente cuando usamos la mascarilla?
+Magdalena Martínez Cañamero, microbióloga de la Universidad de Jaén y miembro de la Sociedad Española de Microbiología, explica a Maldita Ciencia que principalmente se acumulan bacterias nuestras de la piel y de la boca que “son inocuas”.
+“Una mascarilla reutilizada pierde la capacidad filtrante, ese es su peor peligro para el que la usa (y para los demás)”.
+Sí que se puede correr el riesgo de contagiarse y padecer la COVID-19 si no se usa la mascarilla de manera adecuada, según la experta.
+Por ejemplo, si la tocamos o la guardamos mal.
+Aquí ya os explicamos cuál es la manera idónea de guardar la mascarilla (en un sobre de papel, una tela o un estuche de gafas viejo).
+En la misma línea se posiciona Víctor Jiménez Cid, catedrático de Microbiología de la Universidad Complutense de Madrid y miembro de la Sociedad Española de Microbiología, que compara la mascarilla con la ropa interior.
+“En su cara interna va a acumular tras su uso todo tipo de microorganismos procedentes de la microbiota de la piel y mucosas y, por la cara externa, microorganismos del medio ambiente.
+Los primeros no suponen ningún peligro para el usuario y los segundos, con las debidas medidas de higiene, tampoco (de hecho las mascarilla está protegiéndonos frente a ellos)”, afirma a Maldita Ciencia.
+Juan Sabatté, médico y doctor en microbiología e investigador del Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) de Argentina, explica que retener algunos de los gérmenes que exhalamos es justamente la utilidad de las mascarillas.
+“No dejar pasar gérmenes o al menos disminuir notablemente su paso”, cuenta a AFP, medio que ha desmentido la información.
+Explica que esto no tiene consecuencias negativas para la salud y que la posibilidad de que los microorganismos atrapados en la mascarilla reingresen al cuerpo “no ha sido debidamente estudiada”.
+Aunque así fuera, considera que esto no tendría gran relevancia: “Esos gérmenes ya están en nuestro tracto respiratorio y la exhalación de ninguna manera los elimina en forma considerable”.
+Primera fecha de publicación del artículo: 21/08/2020.
+Primera fecha de publicación de este artículo: 21/08/2020

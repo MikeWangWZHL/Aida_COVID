@@ -1,0 +1,61 @@
+T1	PER 104 113	comunidad
+T2	GPE 132 136	país
+T3	LOC 137 145	asiático
+T4	PER 159 163	bebé
+T5	MHI 171 176	virus
+T6	PER 192 194	su
+T7	PER 195 200	madre
+T8	ORG 231 255	South China Morning Post
+T9	PER 267 273	nacido
+T10	ORG 351 357	cadena
+T11	ORG 366 370	CCTV
+T12	PER 396 400	bebé
+T13	PER 523 527	bebé
+T14	PER 596 598	su
+T15	PER 660 662	su
+T16	PER 663 669	niñera
+T17	MHI 692 701	infección
+T18	PER 729 733	bebé
+T19	PER 736 738	su
+T20	PER 739 744	madre
+T21	FAC 762 788	Hospital de Niños de Wuhan
+T22	LOC 805 809	área
+T23	PER 828 835	mujeres
+T24	PER 851 854	las
+T25	PER 967 969	se
+T26	LOC 990 995	mundo
+T27	PER 1016 1022	grupos
+T28	PER 1026 1040	investigadores
+T29	GPE 1053 1059	países
+T30	LOC 1170 1175	mundo
+T31	PER 1278 1280	su
+T32	FAC 1352 1364	laboratorios
+T33	GPE 1435 1440	China
+T34	GPE 1442 1456	Estados Unidos
+T35	GPE 1459 1465	España
+T36	GPE 1475 1482	algunos
+T37	GPE 1490 1496	países
+T38	GPE 1548 1554	España
+T39	PER 1556 1565	virólogos
+T40	ORG 1570 1638	Instituto de Investigación y Tecnología Agroalimentarias de Cataluña
+T41	PER 1672 1683	científicos
+T42	ORG 1690 1710	Universidad de Texas
+T43	GPE 1715 1719	EEUU
+T44	ORG 1808 1840	Centro Nacional de Biotecnología
+T45	ORG 1842 1845	CNB
+T46	ORG 1877 1885	hospital
+T47	ORG 1886 1897	Monte Sinaí
+T48	GPE 1901 1911	Nueva York
+T49	FAC 1929 1940	laboratorio
+T50	PER 1945 1952	español
+T51	PER 1953 1973	Adolfo García Sastre
+T52	ORG 1987 1995	hospital
+T53	ORG 2022 2028	equipo
+T54	PER 2032 2045	Luis Enjuanes
+T55	ORG 2051 2095	departamento de Biología Molecular y Celular
+T56	ORG 2100 2103	CNB
+T57	LOC 2163 2170	lugares
+T58	LOC 2175 2180	mundo
+T59	PER 2269 2280	científicos
+T60	PER 2373 2381	animales
+T61	PER 2392 2398	cerdos

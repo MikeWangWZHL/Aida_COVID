@@ -1,0 +1,47 @@
+T1	COM 37 44	oxígeno
+T2	ORG 55 58	AFP
+T3	ORG 189 197	Facebook
+T4	PER 399 407	expertos
+T5	ORG 427 430	AFP
+T6	PER 562 565	nos
+T7	PER 619 627	personas
+T8	PER 652 659	público
+T9	PER 666 668	se
+T10	ORG 729 737	Facebook
+T11	ORG 752 759	Twitter
+T12	ORG 872 880	Facebook
+T13	ORG 983 994	CrowdTangle
+T14	ORG 1030 1038	Facebook
+T15	PER 1105 1112	alguien
+T16	MHI 1322 1329	hipoxia
+T17	ORG 1413 1424	AFP Factual
+T18	PER 1435 1449	Emilio Herrera
+T19	PER 1451 1460	académico
+T20	ORG 1465 1491	programa de Fisiopatología
+T21	ORG 1498 1518	Universidad de Chile
+T22	MHI 1532 1539	hipoxia
+T23	PER 1541 1548	Herrera
+T24	COM 1617 1624	oxígeno
+T25	MHI 1652 1659	hipoxia
+T26	PER 1718 1725	nuestra
+T27	PER 1805 1811	médico
+T28	LOC 1887 1894	espacio
+T29	PER 1984 1998	Claudio Méndez
+T30	PER 2000 2007	docente
+T31	ORG 2011 2029	Políticas de Salud
+T32	ORG 2036 2064	Universidad Austral de Chile
+T33	PER 2216 2228	funcionarios
+T34	ORG 2235 2240	salud
+T35	PER 2371 2376	Ambas
+T36	PER 2410 2416	Méndez
+T37	MHI 2451 2458	hipoxia
+T38	PER 2628 2631	ser
+T39	ORG 2644 2655	publicación
+T40	PER 2727 2735	personas
+T41	PER 2752 2759	público
+T42	PER 2784 2786	se
+T43	PER 2834 2840	Méndez
+T44	PER 2856 2864	personal
+T45	MHI 2958 2965	hipoxia
+T46	PER 3221 3229	personas
+T47	PER 3239 3245	Méndez

@@ -1,0 +1,44 @@
+STORY UPDATED: check for updates below.
+Wrong Number
+
+Is the U.S. survival rate for COVID-19 cases 99.983 percent?
+No, that's not true.
+The math does not add up.
+There are at least 95,000 confirmed deaths from COVID-19 and 1,610,000 confirmed cases in the United States as of May 21, 2020.
+If only .017 percent of those diagnosed cases died, the death toll would be about 27,370.
+A scientific estimate by University of Washington researchers puts the percentage at 1.3 percent, for a survival rate of about 98.7 percent.
+The claim of the higher survival rate has appeared in several memes including one on facebook which says the virus has "a 0.1% death rate" and in another meme (archived here) where it was published on Facebook in May 2020.
+The second meme, the primary focus for this fact check, lists purported "survival rates" for seven countries, all wrong, and concludes:
+
+Maybe if we looked at it this way, we'd realize the panic is out of control.
+This is what the post looked like on Facebook at the time of writing:
+
+Here is a screenshot, in case the online version is deleted:
+
+Using flags, but not names to identify countries, the post -- without citing any source for any of its numbers -- claimed survival rates for every country listed including hard-hit Italy, Spain and Great Britain were greater than 99.9 percent.
+The meme refers to a survival rate, which is conventionally considered the percentage of cases of an illness in which the patient does not die.
+A survival rate of 99.983 percent would mean that just .017 percent have died.
+In the United States where more than 95,000 are dead, there would have to have been 560 million COVID-19 cases.
+There are only about 330-million Americans overall and only 1.6 million cases.
+The assumption that Americans are irrationally panicking has no basis, given such reports as one by the University of Washington , one of the most respected entities following the pandemic.
+It published a study on May 7 comparing the mortality rate of COVID-19 cases with seasonal flu.
+The study estimated the U.S. mortality rate at 1.3% for the novel coronavirus, with the mortality rate for seasonal flu at 0.1 percent.
+Figures from other medical sources are much worse, varying up to 5 percentage points worse.
+For example, Johns Hopkins University's world map lists the U.S. mortality rate through May 20, 2020, as 6 percent based on current reports of 1,562,714 cases and 93,863 deaths.
+Is there cause for observing a lockdown with stay-at-home rules, or is it "panic ... out of control," as the meme suggests?
+A Columbia University study says that if Americans had locked down one week earlier, 36,000 lives could have been saved.
+And if the country had begun locking down cities and limiting social contact on March 1, two weeks earlier than when most people started staying home, a vast majority of the nation's deaths -- about 83 percent -- would have been avoided, the researchers estimated.
+Survival rates also depend on the age of the population, and there is no one-size-fits-all magic number.
+"You really need to look at this by age, because there is an enormous age gradient for risk of death per infected case," said Dr. Theo Vos in an interview with USA TODAY.
+Vos, a professor of health metrics sciences at the University of Washington, is one of the developers of a highly regarded model for mortality and survival rates.
+There is a real need for concern, says Brian P. Monahan, physician to Congress and the U.S. Supreme Court.
+A 99% survival rate might sound promising.
+But when it's scaled out to the rest of the country - all 329 million residents - a 1% death rate takes on a different meaning, he told USA Today.
+He predicted early in the pandemic that a 1% mortality rate at that scale of infection would be between 700,000 and 1.5 million dead.
+He told CNBC TV on March 11, 2020, that death toll would roughly equal the population of Washington, D.C., on the low end, or the entire population of Hawaii on the high end.
+The survival rate of a country can't accurately be calculated by subtracting the number of deaths from the number believed to have caught the virus.
+No country knows the total number of people infected with COVID-19 unless everyone has been tested.
+Without adequate testing, numbers are just estimates.
+And although the meme ranks the United States as the having the best survival rate, the USA, Spain and the United Kingdom are the three hardest-hit countries, according to statista.com.
+For the full story, compare this graph of deaths, by country, with this graph of total cases, by country.
+Those who argue that the "panic" is unnecessary since the flu is as deadly as COVID-19 and the U.S. economy was not shut down for that, we offer this paragraph from the University of Washington study:

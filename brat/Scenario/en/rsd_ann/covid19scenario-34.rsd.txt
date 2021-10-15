@@ -1,0 +1,30 @@
+Too soon to call it a breakthrough, but experts are showing cautious optimism.
+From a century-old blood plasma therapy to an anti-malarial drug called hydroxychloroquine, the scientific community is exploring new ways to leverage existing treatments in the fight against the novel coronavirus.
+The latest surprising lead for researchers is an antiparasitic drug called ivermectin, sometimes used to treat head lice.
+Research into the drug’s viability in treating COVID-19 is still in its early stages – far too soon to call it a breakthrough.
+But with the emergence of two preliminary studies yielding promising results, experts are expressing cautious optimism.
+“Finding a safe, affordable, readily available therapy like ivermectin if it proves effective with rigorous evaluation has the potential to save countless lives,” said Dr. Nirav Shah, an infectious disease expert with the NorthShore University HealthSystem.
+The development of ivermectin as an anti-parasitic treatment dates back to the 1970s and 1980s, first as a veterinary treatment for nematodes in cattle and later as a way to combat river blindness in humans.
+More recently, ivermectin is known for its topical use in treating head lice.
+Its use in treating those and other parasites has earned ivermectin a spot on the World Health Organization’s list of essential medicines.
+But now, researchers are looking to the drug for broader use in killing off SARS-Cov-2, the virus that causes COVID-19 – and earlier this month, a team of scientists in Australia found just that in petri dishes.
+“We found that even a single dose could essentially remove all viral RNA by 48 hours and that even at 24 hours there was a really significant reduction in it,” said Dr. Kylie Wagstaff, the leader of the team from Melbourne’s Monash Biomedicine Discovery Institute.
+The coronavirus is not a parasite, but experts suggest that the drug essentially treats it like one and blocks the viral RNA from invading healthy cells.
+Unable to enter the cell, the RNA is slowed from replicating, giving the patient's immune system more time to fight it off.
+The Monash study took place at the cellular level, or in vitro.
+The next step, authors note, is “to determine the correct human dosage – ensuring the doses shown to effectively treat the virus in vitro are safe for humans.”
+But with limited options elsewhere, experts say those early in vitro results are compelling.
+“There are numerous examples of drugs with in vitro activity not proving effective in human studies,” said Shah.
+“That being said, given there are no proven therapies against COVID-19 to date and we are in the midst of a pandemic, drugs that show promise in early in vitro or observational studies such as ivermectin should be rigorously evaluated to understand safety and effectiveness.”
+Separately, a small observational registry-based study spearheaded by researchers at the University of Utah found that “critically ill patients with lung injury requiring mechanical ventilation may benefit from administration of Ivermectin.”
+“We noted a lower mortality and reduced healthcare resource use in those treated with ivermectin,” wrote Dr. Amit Patel, the lead author of the University of Utah team.
+Dr. Patel also went onto say that main contraindication is in patients with liver failure and the risk profile may not be as significant as the combination of hydroxychloroquine and azithromycin.
+Both studies are careful to note that their findings, while promising, require further examination.
+“I think between the two studies, there is some optimism -- but I would remain cautious,” said Dr. Daniel DeSimone, an infectious disease specialist at the Mayo Clinic.
+Federal regulators have also taken note – but only in the form of a warning.
+Because ivermectin is still widely used to treat parasitic worms in some animals, the U.S. Food and Drug Administration wrote last Friday that it “is concerned about the health of consumers who may self-medicate by taking ivermectin products intended for animals, thinking they can be a substitute for ivermectin intended for humans.”
+Experts plea that consumers do not take ivermectin at home, as dangerous consequences of the drug include widespread body swelling, liver injury, and serious neurological harm.
+“Additional testing is needed to determine whether ivermectin might be safe or effective to prevent or treat coronavirus or COVID-19,” the agency concluded.
+Still, with so few options and time being of the essence, experts are hopeful that with further testing, ivermectin can be dispatched to combat the illness.
+Jay Bhatt, a practicing internist and Aspen Health Innovators Fellow, is an ABC News contributor.
+Editor's Note: This report has been updated to correct the first name of the infectious disease specialist at the Mayo Clinic.

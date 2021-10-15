@@ -1,0 +1,39 @@
+T1	ORG 77 80	CNN
+T2	ORG 85 91	cadena
+T3	GPE 104 118	estadounidense
+T4	PER 130 163	Raúl Rodolfo Abhuz Khan ingeniero
+T5	ORG 178 199	Karmalah laboratories
+T6	PER 200 207	creador
+T7	PER 271 277	hombre
+T8	ORG 325 332	negocio
+T9	ORG 449 452	CNN
+T10	ORG 529 531	su
+T11	PER 550 556	hombre
+T12	PER 580 592	Raúl Álvarez
+T13	PER 594 603	Auronplay
+T14	PER 616 624	youtuber
+T15	GPE 625 632	español
+T16	ORG 764 769	medio
+T17	ORG 787 795	Maldita.
+T18	ORG 801 803	su
+T19	ORG 812 819	Maldita
+T20	ORG 952 963	autoridades
+T21	GPE 975 981	chinas
+T22	ORG 998 1030	Organización Mundial de la Salud
+T23	ORG 1032 1035	OMS
+T24	MHI 1049 1057	neumonía
+T25	GPE 1086 1092	ciudad
+T26	GPE 1096 1101	Wuhan
+T27	GPE 1103 1112	provincia
+T28	GPE 1116 1121	Hubei
+T29	LOC 1129 1133	zona
+T30	GPE 1156 1161	China
+T31	FAC 1203 1210	mercado
+T32	GPE 1251 1256	Wuhan
+T33	PER 1282 1293	autoridades
+T34	MHI 1380 1386	fiebre
+T35	MHI 1388 1391	tos
+T36	ORG 1478 1509	Ministerio de Sanidad de España
+T37	PER 1594 1601	persona
+T38	FAC 1670 1681	laboratorio
+T39	PER 1689 1699	bioquímico

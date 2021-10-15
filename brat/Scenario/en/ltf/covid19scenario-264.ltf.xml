@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-264">
+		<TEXT>
+			<SEG id="covid19scenario-264-0" start_char="0" end_char="167">
+				<ORIGINAL_TEXT>Republican Kentucky Sen. Rand Paul says Ebola appears to be very easy to catch, telling Concord News Radio last week that officials need to be honest about the disease.</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="9">Republican</TOKEN>
+				<TOKEN id="token-0-1" start_char="11" end_char="18">Kentucky</TOKEN>
+				<TOKEN id="token-0-2" start_char="20" end_char="22">Sen</TOKEN>
+				<TOKEN id="token-0-3" start_char="23" end_char="23">.</TOKEN>
+				<TOKEN id="token-0-4" start_char="25" end_char="28">Rand</TOKEN>
+				<TOKEN id="token-0-5" start_char="30" end_char="33">Paul</TOKEN>
+				<TOKEN id="token-0-6" start_char="35" end_char="38">says</TOKEN>
+				<TOKEN id="token-0-7" start_char="40" end_char="44">Ebola</TOKEN>
+				<TOKEN id="token-0-8" start_char="46" end_char="52">appears</TOKEN>
+				<TOKEN id="token-0-9" start_char="54" end_char="55">to</TOKEN>
+				<TOKEN id="token-0-10" start_char="57" end_char="58">be</TOKEN>
+				<TOKEN id="token-0-11" start_char="60" end_char="63">very</TOKEN>
+				<TOKEN id="token-0-12" start_char="65" end_char="68">easy</TOKEN>
+				<TOKEN id="token-0-13" start_char="70" end_char="71">to</TOKEN>
+				<TOKEN id="token-0-14" start_char="73" end_char="77">catch</TOKEN>
+				<TOKEN id="token-0-15" start_char="78" end_char="78">,</TOKEN>
+				<TOKEN id="token-0-16" start_char="80" end_char="86">telling</TOKEN>
+				<TOKEN id="token-0-17" start_char="88" end_char="94">Concord</TOKEN>
+				<TOKEN id="token-0-18" start_char="96" end_char="99">News</TOKEN>
+				<TOKEN id="token-0-19" start_char="101" end_char="105">Radio</TOKEN>
+				<TOKEN id="token-0-20" start_char="107" end_char="110">last</TOKEN>
+				<TOKEN id="token-0-21" start_char="112" end_char="115">week</TOKEN>
+				<TOKEN id="token-0-22" start_char="117" end_char="120">that</TOKEN>
+				<TOKEN id="token-0-23" start_char="122" end_char="130">officials</TOKEN>
+				<TOKEN id="token-0-24" start_char="132" end_char="135">need</TOKEN>
+				<TOKEN id="token-0-25" start_char="137" end_char="138">to</TOKEN>
+				<TOKEN id="token-0-26" start_char="140" end_char="141">be</TOKEN>
+				<TOKEN id="token-0-27" start_char="143" end_char="148">honest</TOKEN>
+				<TOKEN id="token-0-28" start_char="150" end_char="154">about</TOKEN>
+				<TOKEN id="token-0-29" start_char="156" end_char="158">the</TOKEN>
+				<TOKEN id="token-0-30" start_char="160" end_char="166">disease</TOKEN>
+				<TOKEN id="token-0-31" start_char="167" end_char="167">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-264-1" start_char="169" end_char="348">
+				<ORIGINAL_TEXT>&quot;A of those mistakes stem from an arrogance that they have that sort of says 'well we known everything about this,'&quot; Paul said of the Centers for Disease Control response to Ebola.</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="169" end_char="169">&quot;</TOKEN>
+				<TOKEN id="token-1-1" start_char="170" end_char="170">A</TOKEN>
+				<TOKEN id="token-1-2" start_char="172" end_char="173">of</TOKEN>
+				<TOKEN id="token-1-3" start_char="175" end_char="179">those</TOKEN>
+				<TOKEN id="token-1-4" start_char="181" end_char="188">mistakes</TOKEN>
+				<TOKEN id="token-1-5" start_char="190" end_char="193">stem</TOKEN>
+				<TOKEN id="token-1-6" start_char="195" end_char="198">from</TOKEN>
+				<TOKEN id="token-1-7" start_char="200" end_char="201">an</TOKEN>
+				<TOKEN id="token-1-8" start_char="203" end_char="211">arrogance</TOKEN>
+				<TOKEN id="token-1-9" start_char="213" end_char="216">that</TOKEN>
+				<TOKEN id="token-1-10" start_char="218" end_char="221">they</TOKEN>
+				<TOKEN id="token-1-11" start_char="223" end_char="226">have</TOKEN>
+				<TOKEN id="token-1-12" start_char="228" end_char="231">that</TOKEN>
+				<TOKEN id="token-1-13" start_char="233" end_char="236">sort</TOKEN>
+				<TOKEN id="token-1-14" start_char="238" end_char="239">of</TOKEN>
+				<TOKEN id="token-1-15" start_char="241" end_char="244">says</TOKEN>
+				<TOKEN id="token-1-16" start_char="246" end_char="246">'</TOKEN>
+				<TOKEN id="token-1-17" start_char="247" end_char="250">well</TOKEN>
+				<TOKEN id="token-1-18" start_char="252" end_char="253">we</TOKEN>
+				<TOKEN id="token-1-19" start_char="255" end_char="259">known</TOKEN>
+				<TOKEN id="token-1-20" start_char="261" end_char="270">everything</TOKEN>
+				<TOKEN id="token-1-21" start_char="272" end_char="276">about</TOKEN>
+				<TOKEN id="token-1-22" start_char="278" end_char="281">this</TOKEN>
+				<TOKEN id="token-1-23" start_char="282" end_char="284">,'&quot;</TOKEN>
+				<TOKEN id="token-1-24" start_char="286" end_char="289">Paul</TOKEN>
+				<TOKEN id="token-1-25" start_char="291" end_char="294">said</TOKEN>
+				<TOKEN id="token-1-26" start_char="296" end_char="297">of</TOKEN>
+				<TOKEN id="token-1-27" start_char="299" end_char="301">the</TOKEN>
+				<TOKEN id="token-1-28" start_char="303" end_char="309">Centers</TOKEN>
+				<TOKEN id="token-1-29" start_char="311" end_char="313">for</TOKEN>
+				<TOKEN id="token-1-30" start_char="315" end_char="321">Disease</TOKEN>
+				<TOKEN id="token-1-31" start_char="323" end_char="329">Control</TOKEN>
+				<TOKEN id="token-1-32" start_char="331" end_char="338">response</TOKEN>
+				<TOKEN id="token-1-33" start_char="340" end_char="341">to</TOKEN>
+				<TOKEN id="token-1-34" start_char="343" end_char="347">Ebola</TOKEN>
+				<TOKEN id="token-1-35" start_char="348" end_char="348">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-264-2" start_char="350" end_char="389">
+				<ORIGINAL_TEXT>&quot;Well they're still learning about this.</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="350" end_char="350">&quot;</TOKEN>
+				<TOKEN id="token-2-1" start_char="351" end_char="354">Well</TOKEN>
+				<TOKEN id="token-2-2" start_char="356" end_char="359">they</TOKEN>
+				<TOKEN id="token-2-3" start_char="360" end_char="360">'</TOKEN>
+				<TOKEN id="token-2-4" start_char="361" end_char="362">re</TOKEN>
+				<TOKEN id="token-2-5" start_char="364" end_char="368">still</TOKEN>
+				<TOKEN id="token-2-6" start_char="370" end_char="377">learning</TOKEN>
+				<TOKEN id="token-2-7" start_char="379" end_char="383">about</TOKEN>
+				<TOKEN id="token-2-8" start_char="385" end_char="388">this</TOKEN>
+				<TOKEN id="token-2-9" start_char="389" end_char="389">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-264-3" start_char="391" end_char="426">
+				<ORIGINAL_TEXT>We're all still learning about this.</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="391" end_char="392">We</TOKEN>
+				<TOKEN id="token-3-1" start_char="393" end_char="393">'</TOKEN>
+				<TOKEN id="token-3-2" start_char="394" end_char="395">re</TOKEN>
+				<TOKEN id="token-3-3" start_char="397" end_char="399">all</TOKEN>
+				<TOKEN id="token-3-4" start_char="401" end_char="405">still</TOKEN>
+				<TOKEN id="token-3-5" start_char="407" end_char="414">learning</TOKEN>
+				<TOKEN id="token-3-6" start_char="416" end_char="420">about</TOKEN>
+				<TOKEN id="token-3-7" start_char="422" end_char="425">this</TOKEN>
+				<TOKEN id="token-3-8" start_char="426" end_char="426">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-264-4" start_char="428" end_char="533">
+				<ORIGINAL_TEXT>But this is not something that is hard to catch, this is something that appears to be very easy to catch.&quot;</ORIGINAL_TEXT>
+				<TOKEN id="token-4-0" start_char="428" end_char="430">But</TOKEN>
+				<TOKEN id="token-4-1" start_char="432" end_char="435">this</TOKEN>
+				<TOKEN id="token-4-2" start_char="437" end_char="438">is</TOKEN>
+				<TOKEN id="token-4-3" start_char="440" end_char="442">not</TOKEN>
+				<TOKEN id="token-4-4" start_char="444" end_char="452">something</TOKEN>
+				<TOKEN id="token-4-5" start_char="454" end_char="457">that</TOKEN>
+				<TOKEN id="token-4-6" start_char="459" end_char="460">is</TOKEN>
+				<TOKEN id="token-4-7" start_char="462" end_char="465">hard</TOKEN>
+				<TOKEN id="token-4-8" start_char="467" end_char="468">to</TOKEN>
+				<TOKEN id="token-4-9" start_char="470" end_char="474">catch</TOKEN>
+				<TOKEN id="token-4-10" start_char="475" end_char="475">,</TOKEN>
+				<TOKEN id="token-4-11" start_char="477" end_char="480">this</TOKEN>
+				<TOKEN id="token-4-12" start_char="482" end_char="483">is</TOKEN>
+				<TOKEN id="token-4-13" start_char="485" end_char="493">something</TOKEN>
+				<TOKEN id="token-4-14" start_char="495" end_char="498">that</TOKEN>
+				<TOKEN id="token-4-15" start_char="500" end_char="506">appears</TOKEN>
+				<TOKEN id="token-4-16" start_char="508" end_char="509">to</TOKEN>
+				<TOKEN id="token-4-17" start_char="511" end_char="512">be</TOKEN>
+				<TOKEN id="token-4-18" start_char="514" end_char="517">very</TOKEN>
+				<TOKEN id="token-4-19" start_char="519" end_char="522">easy</TOKEN>
+				<TOKEN id="token-4-20" start_char="524" end_char="525">to</TOKEN>
+				<TOKEN id="token-4-21" start_char="527" end_char="531">catch</TOKEN>
+				<TOKEN id="token-4-22" start_char="532" end_char="533">.&quot;</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-264-5" start_char="535" end_char="621">
+				<ORIGINAL_TEXT>Earlier in the interview, Paul criticized the Obama administration's response to Ebola.</ORIGINAL_TEXT>
+				<TOKEN id="token-5-0" start_char="535" end_char="541">Earlier</TOKEN>
+				<TOKEN id="token-5-1" start_char="543" end_char="544">in</TOKEN>
+				<TOKEN id="token-5-2" start_char="546" end_char="548">the</TOKEN>
+				<TOKEN id="token-5-3" start_char="550" end_char="558">interview</TOKEN>
+				<TOKEN id="token-5-4" start_char="559" end_char="559">,</TOKEN>
+				<TOKEN id="token-5-5" start_char="561" end_char="564">Paul</TOKEN>
+				<TOKEN id="token-5-6" start_char="566" end_char="575">criticized</TOKEN>
+				<TOKEN id="token-5-7" start_char="577" end_char="579">the</TOKEN>
+				<TOKEN id="token-5-8" start_char="581" end_char="585">Obama</TOKEN>
+				<TOKEN id="token-5-9" start_char="587" end_char="600">administration</TOKEN>
+				<TOKEN id="token-5-10" start_char="601" end_char="601">'</TOKEN>
+				<TOKEN id="token-5-11" start_char="602" end_char="602">s</TOKEN>
+				<TOKEN id="token-5-12" start_char="604" end_char="611">response</TOKEN>
+				<TOKEN id="token-5-13" start_char="613" end_char="614">to</TOKEN>
+				<TOKEN id="token-5-14" start_char="616" end_char="620">Ebola</TOKEN>
+				<TOKEN id="token-5-15" start_char="621" end_char="621">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-264-6" start_char="623" end_char="849">
+				<ORIGINAL_TEXT>&quot;I think the first thing we should do is be honest about the disease and I think President Obama's administration has so tried to downplay the transmissibility of this and say 'oh it has to be direct fluid contact,'&quot; Paul said.</ORIGINAL_TEXT>
+				<TOKEN id="token-6-0" start_char="623" end_char="623">&quot;</TOKEN>
+				<TOKEN id="token-6-1" start_char="624" end_char="624">I</TOKEN>
+				<TOKEN id="token-6-2" start_char="626" end_char="630">think</TOKEN>
+				<TOKEN id="token-6-3" start_char="632" end_char="634">the</TOKEN>
+				<TOKEN id="token-6-4" start_char="636" end_char="640">first</TOKEN>
+				<TOKEN id="token-6-5" start_char="642" end_char="646">thing</TOKEN>
+				<TOKEN id="token-6-6" start_char="648" end_char="649">we</TOKEN>
+				<TOKEN id="token-6-7" start_char="651" end_char="656">should</TOKEN>
+				<TOKEN id="token-6-8" start_char="658" end_char="659">do</TOKEN>
+				<TOKEN id="token-6-9" start_char="661" end_char="662">is</TOKEN>
+				<TOKEN id="token-6-10" start_char="664" end_char="665">be</TOKEN>
+				<TOKEN id="token-6-11" start_char="667" end_char="672">honest</TOKEN>
+				<TOKEN id="token-6-12" start_char="674" end_char="678">about</TOKEN>
+				<TOKEN id="token-6-13" start_char="680" end_char="682">the</TOKEN>
+				<TOKEN id="token-6-14" start_char="684" end_char="690">disease</TOKEN>
+				<TOKEN id="token-6-15" start_char="692" end_char="694">and</TOKEN>
+				<TOKEN id="token-6-16" start_char="696" end_char="696">I</TOKEN>
+				<TOKEN id="token-6-17" start_char="698" end_char="702">think</TOKEN>
+				<TOKEN id="token-6-18" start_char="704" end_char="712">President</TOKEN>
+				<TOKEN id="token-6-19" start_char="714" end_char="718">Obama</TOKEN>
+				<TOKEN id="token-6-20" start_char="719" end_char="719">'</TOKEN>
+				<TOKEN id="token-6-21" start_char="720" end_char="720">s</TOKEN>
+				<TOKEN id="token-6-22" start_char="722" end_char="735">administration</TOKEN>
+				<TOKEN id="token-6-23" start_char="737" end_char="739">has</TOKEN>
+				<TOKEN id="token-6-24" start_char="741" end_char="742">so</TOKEN>
+				<TOKEN id="token-6-25" start_char="744" end_char="748">tried</TOKEN>
+				<TOKEN id="token-6-26" start_char="750" end_char="751">to</TOKEN>
+				<TOKEN id="token-6-27" start_char="753" end_char="760">downplay</TOKEN>
+				<TOKEN id="token-6-28" start_char="762" end_char="764">the</TOKEN>
+				<TOKEN id="token-6-29" start_char="766" end_char="781">transmissibility</TOKEN>
+				<TOKEN id="token-6-30" start_char="783" end_char="784">of</TOKEN>
+				<TOKEN id="token-6-31" start_char="786" end_char="789">this</TOKEN>
+				<TOKEN id="token-6-32" start_char="791" end_char="793">and</TOKEN>
+				<TOKEN id="token-6-33" start_char="795" end_char="797">say</TOKEN>
+				<TOKEN id="token-6-34" start_char="799" end_char="799">'</TOKEN>
+				<TOKEN id="token-6-35" start_char="800" end_char="801">oh</TOKEN>
+				<TOKEN id="token-6-36" start_char="803" end_char="804">it</TOKEN>
+				<TOKEN id="token-6-37" start_char="806" end_char="808">has</TOKEN>
+				<TOKEN id="token-6-38" start_char="810" end_char="811">to</TOKEN>
+				<TOKEN id="token-6-39" start_char="813" end_char="814">be</TOKEN>
+				<TOKEN id="token-6-40" start_char="816" end_char="821">direct</TOKEN>
+				<TOKEN id="token-6-41" start_char="823" end_char="827">fluid</TOKEN>
+				<TOKEN id="token-6-42" start_char="829" end_char="835">contact</TOKEN>
+				<TOKEN id="token-6-43" start_char="836" end_char="838">,'&quot;</TOKEN>
+				<TOKEN id="token-6-44" start_char="840" end_char="843">Paul</TOKEN>
+				<TOKEN id="token-6-45" start_char="845" end_char="848">said</TOKEN>
+				<TOKEN id="token-6-46" start_char="849" end_char="849">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-264-7" start_char="851" end_char="955">
+				<ORIGINAL_TEXT>&quot;But then they kind of quietly say well 'you can get direct contact from being three feet from someone.'&quot;</ORIGINAL_TEXT>
+				<TOKEN id="token-7-0" start_char="851" end_char="851">&quot;</TOKEN>
+				<TOKEN id="token-7-1" start_char="852" end_char="854">But</TOKEN>
+				<TOKEN id="token-7-2" start_char="856" end_char="859">then</TOKEN>
+				<TOKEN id="token-7-3" start_char="861" end_char="864">they</TOKEN>
+				<TOKEN id="token-7-4" start_char="866" end_char="869">kind</TOKEN>
+				<TOKEN id="token-7-5" start_char="871" end_char="872">of</TOKEN>
+				<TOKEN id="token-7-6" start_char="874" end_char="880">quietly</TOKEN>
+				<TOKEN id="token-7-7" start_char="882" end_char="884">say</TOKEN>
+				<TOKEN id="token-7-8" start_char="886" end_char="889">well</TOKEN>
+				<TOKEN id="token-7-9" start_char="891" end_char="891">'</TOKEN>
+				<TOKEN id="token-7-10" start_char="892" end_char="894">you</TOKEN>
+				<TOKEN id="token-7-11" start_char="896" end_char="898">can</TOKEN>
+				<TOKEN id="token-7-12" start_char="900" end_char="902">get</TOKEN>
+				<TOKEN id="token-7-13" start_char="904" end_char="909">direct</TOKEN>
+				<TOKEN id="token-7-14" start_char="911" end_char="917">contact</TOKEN>
+				<TOKEN id="token-7-15" start_char="919" end_char="922">from</TOKEN>
+				<TOKEN id="token-7-16" start_char="924" end_char="928">being</TOKEN>
+				<TOKEN id="token-7-17" start_char="930" end_char="934">three</TOKEN>
+				<TOKEN id="token-7-18" start_char="936" end_char="939">feet</TOKEN>
+				<TOKEN id="token-7-19" start_char="941" end_char="944">from</TOKEN>
+				<TOKEN id="token-7-20" start_char="946" end_char="952">someone</TOKEN>
+				<TOKEN id="token-7-21" start_char="953" end_char="955">.'&quot;</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-264-8" start_char="957" end_char="1024">
+				<ORIGINAL_TEXT>&quot;So really, this is an incredibly contagious disease,&quot; he continued.</ORIGINAL_TEXT>
+				<TOKEN id="token-8-0" start_char="957" end_char="957">&quot;</TOKEN>
+				<TOKEN id="token-8-1" start_char="958" end_char="959">So</TOKEN>
+				<TOKEN id="token-8-2" start_char="961" end_char="966">really</TOKEN>
+				<TOKEN id="token-8-3" start_char="967" end_char="967">,</TOKEN>
+				<TOKEN id="token-8-4" start_char="969" end_char="972">this</TOKEN>
+				<TOKEN id="token-8-5" start_char="974" end_char="975">is</TOKEN>
+				<TOKEN id="token-8-6" start_char="977" end_char="978">an</TOKEN>
+				<TOKEN id="token-8-7" start_char="980" end_char="989">incredibly</TOKEN>
+				<TOKEN id="token-8-8" start_char="991" end_char="1000">contagious</TOKEN>
+				<TOKEN id="token-8-9" start_char="1002" end_char="1008">disease</TOKEN>
+				<TOKEN id="token-8-10" start_char="1009" end_char="1010">,&quot;</TOKEN>
+				<TOKEN id="token-8-11" start_char="1012" end_char="1013">he</TOKEN>
+				<TOKEN id="token-8-12" start_char="1015" end_char="1023">continued</TOKEN>
+				<TOKEN id="token-8-13" start_char="1024" end_char="1024">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-264-9" start_char="1026" end_char="1073">
+				<ORIGINAL_TEXT>&quot;People in full gloves and gowns are getting it.</ORIGINAL_TEXT>
+				<TOKEN id="token-9-0" start_char="1026" end_char="1026">&quot;</TOKEN>
+				<TOKEN id="token-9-1" start_char="1027" end_char="1032">People</TOKEN>
+				<TOKEN id="token-9-2" start_char="1034" end_char="1035">in</TOKEN>
+				<TOKEN id="token-9-3" start_char="1037" end_char="1040">full</TOKEN>
+				<TOKEN id="token-9-4" start_char="1042" end_char="1047">gloves</TOKEN>
+				<TOKEN id="token-9-5" start_char="1049" end_char="1051">and</TOKEN>
+				<TOKEN id="token-9-6" start_char="1053" end_char="1057">gowns</TOKEN>
+				<TOKEN id="token-9-7" start_char="1059" end_char="1061">are</TOKEN>
+				<TOKEN id="token-9-8" start_char="1063" end_char="1069">getting</TOKEN>
+				<TOKEN id="token-9-9" start_char="1071" end_char="1072">it</TOKEN>
+				<TOKEN id="token-9-10" start_char="1073" end_char="1073">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-264-10" start_char="1075" end_char="1145">
+				<ORIGINAL_TEXT>So really they need to be honest this is a very transmissible disease.&quot;</ORIGINAL_TEXT>
+				<TOKEN id="token-10-0" start_char="1075" end_char="1076">So</TOKEN>
+				<TOKEN id="token-10-1" start_char="1078" end_char="1083">really</TOKEN>
+				<TOKEN id="token-10-2" start_char="1085" end_char="1088">they</TOKEN>
+				<TOKEN id="token-10-3" start_char="1090" end_char="1093">need</TOKEN>
+				<TOKEN id="token-10-4" start_char="1095" end_char="1096">to</TOKEN>
+				<TOKEN id="token-10-5" start_char="1098" end_char="1099">be</TOKEN>
+				<TOKEN id="token-10-6" start_char="1101" end_char="1106">honest</TOKEN>
+				<TOKEN id="token-10-7" start_char="1108" end_char="1111">this</TOKEN>
+				<TOKEN id="token-10-8" start_char="1113" end_char="1114">is</TOKEN>
+				<TOKEN id="token-10-9" start_char="1116" end_char="1116">a</TOKEN>
+				<TOKEN id="token-10-10" start_char="1118" end_char="1121">very</TOKEN>
+				<TOKEN id="token-10-11" start_char="1123" end_char="1135">transmissible</TOKEN>
+				<TOKEN id="token-10-12" start_char="1137" end_char="1143">disease</TOKEN>
+				<TOKEN id="token-10-13" start_char="1144" end_char="1145">.&quot;</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-264-11" start_char="1147" end_char="1378">
+				<ORIGINAL_TEXT>The CDC's guidelines for Ebola say a person &quot;being within approximately 3 feet&quot; is at low risk for contradicting disease if they are there &quot;for a prolonged period of time&quot; and &quot;not wearing recommended personal protective equipment.&quot;</ORIGINAL_TEXT>
+				<TOKEN id="token-11-0" start_char="1147" end_char="1149">The</TOKEN>
+				<TOKEN id="token-11-1" start_char="1151" end_char="1153">CDC</TOKEN>
+				<TOKEN id="token-11-2" start_char="1154" end_char="1154">'</TOKEN>
+				<TOKEN id="token-11-3" start_char="1155" end_char="1155">s</TOKEN>
+				<TOKEN id="token-11-4" start_char="1157" end_char="1166">guidelines</TOKEN>
+				<TOKEN id="token-11-5" start_char="1168" end_char="1170">for</TOKEN>
+				<TOKEN id="token-11-6" start_char="1172" end_char="1176">Ebola</TOKEN>
+				<TOKEN id="token-11-7" start_char="1178" end_char="1180">say</TOKEN>
+				<TOKEN id="token-11-8" start_char="1182" end_char="1182">a</TOKEN>
+				<TOKEN id="token-11-9" start_char="1184" end_char="1189">person</TOKEN>
+				<TOKEN id="token-11-10" start_char="1191" end_char="1191">&quot;</TOKEN>
+				<TOKEN id="token-11-11" start_char="1192" end_char="1196">being</TOKEN>
+				<TOKEN id="token-11-12" start_char="1198" end_char="1203">within</TOKEN>
+				<TOKEN id="token-11-13" start_char="1205" end_char="1217">approximately</TOKEN>
+				<TOKEN id="token-11-14" start_char="1219" end_char="1219">3</TOKEN>
+				<TOKEN id="token-11-15" start_char="1221" end_char="1224">feet</TOKEN>
+				<TOKEN id="token-11-16" start_char="1225" end_char="1225">&quot;</TOKEN>
+				<TOKEN id="token-11-17" start_char="1227" end_char="1228">is</TOKEN>
+				<TOKEN id="token-11-18" start_char="1230" end_char="1231">at</TOKEN>
+				<TOKEN id="token-11-19" start_char="1233" end_char="1235">low</TOKEN>
+				<TOKEN id="token-11-20" start_char="1237" end_char="1240">risk</TOKEN>
+				<TOKEN id="token-11-21" start_char="1242" end_char="1244">for</TOKEN>
+				<TOKEN id="token-11-22" start_char="1246" end_char="1258">contradicting</TOKEN>
+				<TOKEN id="token-11-23" start_char="1260" end_char="1266">disease</TOKEN>
+				<TOKEN id="token-11-24" start_char="1268" end_char="1269">if</TOKEN>
+				<TOKEN id="token-11-25" start_char="1271" end_char="1274">they</TOKEN>
+				<TOKEN id="token-11-26" start_char="1276" end_char="1278">are</TOKEN>
+				<TOKEN id="token-11-27" start_char="1280" end_char="1284">there</TOKEN>
+				<TOKEN id="token-11-28" start_char="1286" end_char="1286">&quot;</TOKEN>
+				<TOKEN id="token-11-29" start_char="1287" end_char="1289">for</TOKEN>
+				<TOKEN id="token-11-30" start_char="1291" end_char="1291">a</TOKEN>
+				<TOKEN id="token-11-31" start_char="1293" end_char="1301">prolonged</TOKEN>
+				<TOKEN id="token-11-32" start_char="1303" end_char="1308">period</TOKEN>
+				<TOKEN id="token-11-33" start_char="1310" end_char="1311">of</TOKEN>
+				<TOKEN id="token-11-34" start_char="1313" end_char="1316">time</TOKEN>
+				<TOKEN id="token-11-35" start_char="1317" end_char="1317">&quot;</TOKEN>
+				<TOKEN id="token-11-36" start_char="1319" end_char="1321">and</TOKEN>
+				<TOKEN id="token-11-37" start_char="1323" end_char="1323">&quot;</TOKEN>
+				<TOKEN id="token-11-38" start_char="1324" end_char="1326">not</TOKEN>
+				<TOKEN id="token-11-39" start_char="1328" end_char="1334">wearing</TOKEN>
+				<TOKEN id="token-11-40" start_char="1336" end_char="1346">recommended</TOKEN>
+				<TOKEN id="token-11-41" start_char="1348" end_char="1355">personal</TOKEN>
+				<TOKEN id="token-11-42" start_char="1357" end_char="1366">protective</TOKEN>
+				<TOKEN id="token-11-43" start_char="1368" end_char="1376">equipment</TOKEN>
+				<TOKEN id="token-11-44" start_char="1377" end_char="1378">.&quot;</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

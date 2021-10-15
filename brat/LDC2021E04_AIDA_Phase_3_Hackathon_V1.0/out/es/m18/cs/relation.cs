@@ -1,0 +1,16 @@
+:Entity_EDL_0000006	Physical.OrganizationLocationOrigin	:Entity_EDL_0000007	L0C0495BO:91-301	1.000
+:Entity_EDL_0000011	GeneralAffiliation.MORE	:Entity_EDL_0000012	L0C0495BO:303-424	1.000
+:Entity_EDL_0000026	OrganizationAffiliation.EmploymentMembership	:Entity_EDL_0000027	L0C0495BO:702-808	1.000
+:Entity_EDL_0000035	OrganizationAffiliation.EmploymentMembership	:Entity_EDL_0000037	L0C0495BO:1179-1280	1.000
+:Entity_EDL_0000042	GeneralAffiliation.MORE	:Entity_EDL_0000044	L0C0495BO:1487-1694	1.000
+:Entity_EDL_0000043	GeneralAffiliation.MORE	:Entity_EDL_0000044	L0C0495BO:1487-1694	1.000
+:Entity_EDL_0000060	Physical.LocatedNear	:Entity_EDL_0000059	L0C0495BO:2237-2371	1.000
+:Entity_EDL_0000061	Physical.LocatedNear	:Entity_EDL_0000059	L0C0495BO:2237-2371	1.000
+:Entity_EDL_0000062	Physical.LocatedNear	:Entity_EDL_0000059	L0C0495BO:2237-2371	1.000
+:Entity_EDL_0000066	Physical.LocatedNear	:Entity_EDL_0000067	L0C0495BO:2429-2558	1.000
+:Entity_EDL_0000068	Physical.LocatedNear	:Entity_EDL_0000069	L0C0495BO:2561-2666	1.000
+:Entity_EDL_0000086	Physical.LocatedNear	:Entity_EDL_0000084	L0C0495BO:3163-3362	1.000
+:Entity_EDL_0000097	GeneralAffiliation.MORE	:Entity_EDL_0000096	L0C0495BO:3647-3805	1.000
+:Entity_EDL_0000101	OrganizationAffiliation.Leadership	:Entity_EDL_0000102	L0C0495A6:99-298	1.000
+:Entity_EDL_0000116	OrganizationAffiliation.Leadership	:Entity_EDL_0000117	L0C0495A6:572-737	1.000
+:Entity_EDL_0000122	OrganizationAffiliation.Leadership	:Entity_EDL_0000123	L0C0495A6:923-1259	1.000

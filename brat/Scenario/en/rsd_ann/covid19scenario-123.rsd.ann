@@ -1,0 +1,25 @@
+T1	GPE 43 45	US
+T2	GPE 78 83	China
+T3	GPE 99 103	Iran
+T4	PER 121 131	scientists
+T5	PER 132 135	who
+T6	GPE 194 201	Russian
+T7	PER 213 222	scientist
+T8	PER 223 236	Igor (Nikulin
+T9	PER 238 241	who
+T10	ORG 307 319	laboratories
+T11	GPE 325 327	US
+T12	FAC 345 357	laboratories
+T13	GPE 370 375	China
+T14	GPE 377 383	Russia
+T15	GPE 388 392	Iran
+T16	GPE 402 410	American
+T17	PER 418 420	we
+T18	GPE 434 442	American
+T19	ORG 443 457	administration
+T20	PER 499 508	Americans
+T21	PER 509 519	themselves
+T22	PER 524 525	s
+T23	GPE 546 552	Europe
+T24	GPE 557 564	America
+T25	GPE 601 605	they

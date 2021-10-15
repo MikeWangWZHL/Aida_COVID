@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-71">
+		<TEXT>
+			<SEG id="covid19scenario-71-0" start_char="0" end_char="127">
+				<ORIGINAL_TEXT>Edit : Since apparently some people think I'm trying to get medical advice from swimmers, just wanted to reiterate that I'm not.</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="3">Edit</TOKEN>
+				<TOKEN id="token-0-1" start_char="5" end_char="5">:</TOKEN>
+				<TOKEN id="token-0-2" start_char="7" end_char="11">Since</TOKEN>
+				<TOKEN id="token-0-3" start_char="13" end_char="22">apparently</TOKEN>
+				<TOKEN id="token-0-4" start_char="24" end_char="27">some</TOKEN>
+				<TOKEN id="token-0-5" start_char="29" end_char="34">people</TOKEN>
+				<TOKEN id="token-0-6" start_char="36" end_char="40">think</TOKEN>
+				<TOKEN id="token-0-7" start_char="42" end_char="42">I</TOKEN>
+				<TOKEN id="token-0-8" start_char="43" end_char="43">'</TOKEN>
+				<TOKEN id="token-0-9" start_char="44" end_char="44">m</TOKEN>
+				<TOKEN id="token-0-10" start_char="46" end_char="51">trying</TOKEN>
+				<TOKEN id="token-0-11" start_char="53" end_char="54">to</TOKEN>
+				<TOKEN id="token-0-12" start_char="56" end_char="58">get</TOKEN>
+				<TOKEN id="token-0-13" start_char="60" end_char="66">medical</TOKEN>
+				<TOKEN id="token-0-14" start_char="68" end_char="73">advice</TOKEN>
+				<TOKEN id="token-0-15" start_char="75" end_char="78">from</TOKEN>
+				<TOKEN id="token-0-16" start_char="80" end_char="87">swimmers</TOKEN>
+				<TOKEN id="token-0-17" start_char="88" end_char="88">,</TOKEN>
+				<TOKEN id="token-0-18" start_char="90" end_char="93">just</TOKEN>
+				<TOKEN id="token-0-19" start_char="95" end_char="100">wanted</TOKEN>
+				<TOKEN id="token-0-20" start_char="102" end_char="103">to</TOKEN>
+				<TOKEN id="token-0-21" start_char="105" end_char="113">reiterate</TOKEN>
+				<TOKEN id="token-0-22" start_char="115" end_char="118">that</TOKEN>
+				<TOKEN id="token-0-23" start_char="120" end_char="120">I</TOKEN>
+				<TOKEN id="token-0-24" start_char="121" end_char="121">'</TOKEN>
+				<TOKEN id="token-0-25" start_char="122" end_char="122">m</TOKEN>
+				<TOKEN id="token-0-26" start_char="124" end_char="126">not</TOKEN>
+				<TOKEN id="token-0-27" start_char="127" end_char="127">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-71-1" start_char="129" end_char="289">
+				<ORIGINAL_TEXT>This is something all of us will need to consider when getting into the pool again so I wanted to know what you think - those of you willing to help me out here.</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="129" end_char="132">This</TOKEN>
+				<TOKEN id="token-1-1" start_char="134" end_char="135">is</TOKEN>
+				<TOKEN id="token-1-2" start_char="137" end_char="145">something</TOKEN>
+				<TOKEN id="token-1-3" start_char="147" end_char="149">all</TOKEN>
+				<TOKEN id="token-1-4" start_char="151" end_char="152">of</TOKEN>
+				<TOKEN id="token-1-5" start_char="154" end_char="155">us</TOKEN>
+				<TOKEN id="token-1-6" start_char="157" end_char="160">will</TOKEN>
+				<TOKEN id="token-1-7" start_char="162" end_char="165">need</TOKEN>
+				<TOKEN id="token-1-8" start_char="167" end_char="168">to</TOKEN>
+				<TOKEN id="token-1-9" start_char="170" end_char="177">consider</TOKEN>
+				<TOKEN id="token-1-10" start_char="179" end_char="182">when</TOKEN>
+				<TOKEN id="token-1-11" start_char="184" end_char="190">getting</TOKEN>
+				<TOKEN id="token-1-12" start_char="192" end_char="195">into</TOKEN>
+				<TOKEN id="token-1-13" start_char="197" end_char="199">the</TOKEN>
+				<TOKEN id="token-1-14" start_char="201" end_char="204">pool</TOKEN>
+				<TOKEN id="token-1-15" start_char="206" end_char="210">again</TOKEN>
+				<TOKEN id="token-1-16" start_char="212" end_char="213">so</TOKEN>
+				<TOKEN id="token-1-17" start_char="215" end_char="215">I</TOKEN>
+				<TOKEN id="token-1-18" start_char="217" end_char="222">wanted</TOKEN>
+				<TOKEN id="token-1-19" start_char="224" end_char="225">to</TOKEN>
+				<TOKEN id="token-1-20" start_char="227" end_char="230">know</TOKEN>
+				<TOKEN id="token-1-21" start_char="232" end_char="235">what</TOKEN>
+				<TOKEN id="token-1-22" start_char="237" end_char="239">you</TOKEN>
+				<TOKEN id="token-1-23" start_char="241" end_char="245">think</TOKEN>
+				<TOKEN id="token-1-24" start_char="247" end_char="247">-</TOKEN>
+				<TOKEN id="token-1-25" start_char="249" end_char="253">those</TOKEN>
+				<TOKEN id="token-1-26" start_char="255" end_char="256">of</TOKEN>
+				<TOKEN id="token-1-27" start_char="258" end_char="260">you</TOKEN>
+				<TOKEN id="token-1-28" start_char="262" end_char="268">willing</TOKEN>
+				<TOKEN id="token-1-29" start_char="270" end_char="271">to</TOKEN>
+				<TOKEN id="token-1-30" start_char="273" end_char="276">help</TOKEN>
+				<TOKEN id="token-1-31" start_char="278" end_char="279">me</TOKEN>
+				<TOKEN id="token-1-32" start_char="281" end_char="283">out</TOKEN>
+				<TOKEN id="token-1-33" start_char="285" end_char="288">here</TOKEN>
+				<TOKEN id="token-1-34" start_char="289" end_char="289">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-71-2" start_char="291" end_char="361">
+				<ORIGINAL_TEXT>I couldn't find any articles online about swimming pools and the virus.</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="291" end_char="291">I</TOKEN>
+				<TOKEN id="token-2-1" start_char="293" end_char="298">couldn</TOKEN>
+				<TOKEN id="token-2-2" start_char="299" end_char="299">'</TOKEN>
+				<TOKEN id="token-2-3" start_char="300" end_char="300">t</TOKEN>
+				<TOKEN id="token-2-4" start_char="302" end_char="305">find</TOKEN>
+				<TOKEN id="token-2-5" start_char="307" end_char="309">any</TOKEN>
+				<TOKEN id="token-2-6" start_char="311" end_char="318">articles</TOKEN>
+				<TOKEN id="token-2-7" start_char="320" end_char="325">online</TOKEN>
+				<TOKEN id="token-2-8" start_char="327" end_char="331">about</TOKEN>
+				<TOKEN id="token-2-9" start_char="333" end_char="340">swimming</TOKEN>
+				<TOKEN id="token-2-10" start_char="342" end_char="346">pools</TOKEN>
+				<TOKEN id="token-2-11" start_char="348" end_char="350">and</TOKEN>
+				<TOKEN id="token-2-12" start_char="352" end_char="354">the</TOKEN>
+				<TOKEN id="token-2-13" start_char="356" end_char="360">virus</TOKEN>
+				<TOKEN id="token-2-14" start_char="361" end_char="361">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-71-3" start_char="363" end_char="412">
+				<ORIGINAL_TEXT>They just discovered the first case in my country.</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="363" end_char="366">They</TOKEN>
+				<TOKEN id="token-3-1" start_char="368" end_char="371">just</TOKEN>
+				<TOKEN id="token-3-2" start_char="373" end_char="382">discovered</TOKEN>
+				<TOKEN id="token-3-3" start_char="384" end_char="386">the</TOKEN>
+				<TOKEN id="token-3-4" start_char="388" end_char="392">first</TOKEN>
+				<TOKEN id="token-3-5" start_char="394" end_char="397">case</TOKEN>
+				<TOKEN id="token-3-6" start_char="399" end_char="400">in</TOKEN>
+				<TOKEN id="token-3-7" start_char="402" end_char="403">my</TOKEN>
+				<TOKEN id="token-3-8" start_char="405" end_char="411">country</TOKEN>
+				<TOKEN id="token-3-9" start_char="412" end_char="412">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-71-4" start_char="414" end_char="494">
+				<ORIGINAL_TEXT>She's been travelling all over the country before she showed symptoms apparently.</ORIGINAL_TEXT>
+				<TOKEN id="token-4-0" start_char="414" end_char="416">She</TOKEN>
+				<TOKEN id="token-4-1" start_char="417" end_char="417">'</TOKEN>
+				<TOKEN id="token-4-2" start_char="418" end_char="418">s</TOKEN>
+				<TOKEN id="token-4-3" start_char="420" end_char="423">been</TOKEN>
+				<TOKEN id="token-4-4" start_char="425" end_char="434">travelling</TOKEN>
+				<TOKEN id="token-4-5" start_char="436" end_char="438">all</TOKEN>
+				<TOKEN id="token-4-6" start_char="440" end_char="443">over</TOKEN>
+				<TOKEN id="token-4-7" start_char="445" end_char="447">the</TOKEN>
+				<TOKEN id="token-4-8" start_char="449" end_char="455">country</TOKEN>
+				<TOKEN id="token-4-9" start_char="457" end_char="462">before</TOKEN>
+				<TOKEN id="token-4-10" start_char="464" end_char="466">she</TOKEN>
+				<TOKEN id="token-4-11" start_char="468" end_char="473">showed</TOKEN>
+				<TOKEN id="token-4-12" start_char="475" end_char="482">symptoms</TOKEN>
+				<TOKEN id="token-4-13" start_char="484" end_char="493">apparently</TOKEN>
+				<TOKEN id="token-4-14" start_char="494" end_char="494">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-71-5" start_char="496" end_char="582">
+				<ORIGINAL_TEXT>Does anyone know if it can be transmitted from the person next to me when I'm swimming?</ORIGINAL_TEXT>
+				<TOKEN id="token-5-0" start_char="496" end_char="499">Does</TOKEN>
+				<TOKEN id="token-5-1" start_char="501" end_char="506">anyone</TOKEN>
+				<TOKEN id="token-5-2" start_char="508" end_char="511">know</TOKEN>
+				<TOKEN id="token-5-3" start_char="513" end_char="514">if</TOKEN>
+				<TOKEN id="token-5-4" start_char="516" end_char="517">it</TOKEN>
+				<TOKEN id="token-5-5" start_char="519" end_char="521">can</TOKEN>
+				<TOKEN id="token-5-6" start_char="523" end_char="524">be</TOKEN>
+				<TOKEN id="token-5-7" start_char="526" end_char="536">transmitted</TOKEN>
+				<TOKEN id="token-5-8" start_char="538" end_char="541">from</TOKEN>
+				<TOKEN id="token-5-9" start_char="543" end_char="545">the</TOKEN>
+				<TOKEN id="token-5-10" start_char="547" end_char="552">person</TOKEN>
+				<TOKEN id="token-5-11" start_char="554" end_char="557">next</TOKEN>
+				<TOKEN id="token-5-12" start_char="559" end_char="560">to</TOKEN>
+				<TOKEN id="token-5-13" start_char="562" end_char="563">me</TOKEN>
+				<TOKEN id="token-5-14" start_char="565" end_char="568">when</TOKEN>
+				<TOKEN id="token-5-15" start_char="570" end_char="570">I</TOKEN>
+				<TOKEN id="token-5-16" start_char="571" end_char="571">'</TOKEN>
+				<TOKEN id="token-5-17" start_char="572" end_char="572">m</TOKEN>
+				<TOKEN id="token-5-18" start_char="574" end_char="581">swimming</TOKEN>
+				<TOKEN id="token-5-19" start_char="582" end_char="582">?</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-71-6" start_char="584" end_char="667">
+				<ORIGINAL_TEXT>We can't wear masks in the pool so does anyone know what precautions should we take?</ORIGINAL_TEXT>
+				<TOKEN id="token-6-0" start_char="584" end_char="585">We</TOKEN>
+				<TOKEN id="token-6-1" start_char="587" end_char="589">can</TOKEN>
+				<TOKEN id="token-6-2" start_char="590" end_char="590">'</TOKEN>
+				<TOKEN id="token-6-3" start_char="591" end_char="591">t</TOKEN>
+				<TOKEN id="token-6-4" start_char="593" end_char="596">wear</TOKEN>
+				<TOKEN id="token-6-5" start_char="598" end_char="602">masks</TOKEN>
+				<TOKEN id="token-6-6" start_char="604" end_char="605">in</TOKEN>
+				<TOKEN id="token-6-7" start_char="607" end_char="609">the</TOKEN>
+				<TOKEN id="token-6-8" start_char="611" end_char="614">pool</TOKEN>
+				<TOKEN id="token-6-9" start_char="616" end_char="617">so</TOKEN>
+				<TOKEN id="token-6-10" start_char="619" end_char="622">does</TOKEN>
+				<TOKEN id="token-6-11" start_char="624" end_char="629">anyone</TOKEN>
+				<TOKEN id="token-6-12" start_char="631" end_char="634">know</TOKEN>
+				<TOKEN id="token-6-13" start_char="636" end_char="639">what</TOKEN>
+				<TOKEN id="token-6-14" start_char="641" end_char="651">precautions</TOKEN>
+				<TOKEN id="token-6-15" start_char="653" end_char="658">should</TOKEN>
+				<TOKEN id="token-6-16" start_char="660" end_char="661">we</TOKEN>
+				<TOKEN id="token-6-17" start_char="663" end_char="666">take</TOKEN>
+				<TOKEN id="token-6-18" start_char="667" end_char="667">?</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-71-7" start_char="669" end_char="730">
+				<ORIGINAL_TEXT>In your opinion should people stay out of the pool completely?</ORIGINAL_TEXT>
+				<TOKEN id="token-7-0" start_char="669" end_char="670">In</TOKEN>
+				<TOKEN id="token-7-1" start_char="672" end_char="675">your</TOKEN>
+				<TOKEN id="token-7-2" start_char="677" end_char="683">opinion</TOKEN>
+				<TOKEN id="token-7-3" start_char="685" end_char="690">should</TOKEN>
+				<TOKEN id="token-7-4" start_char="692" end_char="697">people</TOKEN>
+				<TOKEN id="token-7-5" start_char="699" end_char="702">stay</TOKEN>
+				<TOKEN id="token-7-6" start_char="704" end_char="706">out</TOKEN>
+				<TOKEN id="token-7-7" start_char="708" end_char="709">of</TOKEN>
+				<TOKEN id="token-7-8" start_char="711" end_char="713">the</TOKEN>
+				<TOKEN id="token-7-9" start_char="715" end_char="718">pool</TOKEN>
+				<TOKEN id="token-7-10" start_char="720" end_char="729">completely</TOKEN>
+				<TOKEN id="token-7-11" start_char="730" end_char="730">?</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-71-8" start_char="732" end_char="757">
+				<ORIGINAL_TEXT>What do you plan on doing?</ORIGINAL_TEXT>
+				<TOKEN id="token-8-0" start_char="732" end_char="735">What</TOKEN>
+				<TOKEN id="token-8-1" start_char="737" end_char="738">do</TOKEN>
+				<TOKEN id="token-8-2" start_char="740" end_char="742">you</TOKEN>
+				<TOKEN id="token-8-3" start_char="744" end_char="747">plan</TOKEN>
+				<TOKEN id="token-8-4" start_char="749" end_char="750">on</TOKEN>
+				<TOKEN id="token-8-5" start_char="752" end_char="756">doing</TOKEN>
+				<TOKEN id="token-8-6" start_char="757" end_char="757">?</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

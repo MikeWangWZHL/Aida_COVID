@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-198">
+		<TEXT>
+			<SEG id="covid19scenario-198-0" start_char="0" end_char="111">
+				<ORIGINAL_TEXT>Russia and China ramped up a campaign to spread new conspiracy theories pertaining to the origin of coronavirus.</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="5">Russia</TOKEN>
+				<TOKEN id="token-0-1" start_char="7" end_char="9">and</TOKEN>
+				<TOKEN id="token-0-2" start_char="11" end_char="15">China</TOKEN>
+				<TOKEN id="token-0-3" start_char="17" end_char="22">ramped</TOKEN>
+				<TOKEN id="token-0-4" start_char="24" end_char="25">up</TOKEN>
+				<TOKEN id="token-0-5" start_char="27" end_char="27">a</TOKEN>
+				<TOKEN id="token-0-6" start_char="29" end_char="36">campaign</TOKEN>
+				<TOKEN id="token-0-7" start_char="38" end_char="39">to</TOKEN>
+				<TOKEN id="token-0-8" start_char="41" end_char="46">spread</TOKEN>
+				<TOKEN id="token-0-9" start_char="48" end_char="50">new</TOKEN>
+				<TOKEN id="token-0-10" start_char="52" end_char="61">conspiracy</TOKEN>
+				<TOKEN id="token-0-11" start_char="63" end_char="70">theories</TOKEN>
+				<TOKEN id="token-0-12" start_char="72" end_char="81">pertaining</TOKEN>
+				<TOKEN id="token-0-13" start_char="83" end_char="84">to</TOKEN>
+				<TOKEN id="token-0-14" start_char="86" end_char="88">the</TOKEN>
+				<TOKEN id="token-0-15" start_char="90" end_char="95">origin</TOKEN>
+				<TOKEN id="token-0-16" start_char="97" end_char="98">of</TOKEN>
+				<TOKEN id="token-0-17" start_char="100" end_char="110">coronavirus</TOKEN>
+				<TOKEN id="token-0-18" start_char="111" end_char="111">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-1" start_char="113" end_char="223">
+				<ORIGINAL_TEXT>This campaign ramped up right after the announcement of the UK Prime Minister Boris Johnson being moved to ICU.</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="113" end_char="116">This</TOKEN>
+				<TOKEN id="token-1-1" start_char="118" end_char="125">campaign</TOKEN>
+				<TOKEN id="token-1-2" start_char="127" end_char="132">ramped</TOKEN>
+				<TOKEN id="token-1-3" start_char="134" end_char="135">up</TOKEN>
+				<TOKEN id="token-1-4" start_char="137" end_char="141">right</TOKEN>
+				<TOKEN id="token-1-5" start_char="143" end_char="147">after</TOKEN>
+				<TOKEN id="token-1-6" start_char="149" end_char="151">the</TOKEN>
+				<TOKEN id="token-1-7" start_char="153" end_char="164">announcement</TOKEN>
+				<TOKEN id="token-1-8" start_char="166" end_char="167">of</TOKEN>
+				<TOKEN id="token-1-9" start_char="169" end_char="171">the</TOKEN>
+				<TOKEN id="token-1-10" start_char="173" end_char="174">UK</TOKEN>
+				<TOKEN id="token-1-11" start_char="176" end_char="180">Prime</TOKEN>
+				<TOKEN id="token-1-12" start_char="182" end_char="189">Minister</TOKEN>
+				<TOKEN id="token-1-13" start_char="191" end_char="195">Boris</TOKEN>
+				<TOKEN id="token-1-14" start_char="197" end_char="203">Johnson</TOKEN>
+				<TOKEN id="token-1-15" start_char="205" end_char="209">being</TOKEN>
+				<TOKEN id="token-1-16" start_char="211" end_char="215">moved</TOKEN>
+				<TOKEN id="token-1-17" start_char="217" end_char="218">to</TOKEN>
+				<TOKEN id="token-1-18" start_char="220" end_char="222">ICU</TOKEN>
+				<TOKEN id="token-1-19" start_char="223" end_char="223">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-2" start_char="225" end_char="339">
+				<ORIGINAL_TEXT>The campaign is extra lucrative for Russia, due to UK and Russia bad blood, especially after the Skripal poisoning.</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="225" end_char="227">The</TOKEN>
+				<TOKEN id="token-2-1" start_char="229" end_char="236">campaign</TOKEN>
+				<TOKEN id="token-2-2" start_char="238" end_char="239">is</TOKEN>
+				<TOKEN id="token-2-3" start_char="241" end_char="245">extra</TOKEN>
+				<TOKEN id="token-2-4" start_char="247" end_char="255">lucrative</TOKEN>
+				<TOKEN id="token-2-5" start_char="257" end_char="259">for</TOKEN>
+				<TOKEN id="token-2-6" start_char="261" end_char="266">Russia</TOKEN>
+				<TOKEN id="token-2-7" start_char="267" end_char="267">,</TOKEN>
+				<TOKEN id="token-2-8" start_char="269" end_char="271">due</TOKEN>
+				<TOKEN id="token-2-9" start_char="273" end_char="274">to</TOKEN>
+				<TOKEN id="token-2-10" start_char="276" end_char="277">UK</TOKEN>
+				<TOKEN id="token-2-11" start_char="279" end_char="281">and</TOKEN>
+				<TOKEN id="token-2-12" start_char="283" end_char="288">Russia</TOKEN>
+				<TOKEN id="token-2-13" start_char="290" end_char="292">bad</TOKEN>
+				<TOKEN id="token-2-14" start_char="294" end_char="298">blood</TOKEN>
+				<TOKEN id="token-2-15" start_char="299" end_char="299">,</TOKEN>
+				<TOKEN id="token-2-16" start_char="301" end_char="310">especially</TOKEN>
+				<TOKEN id="token-2-17" start_char="312" end_char="316">after</TOKEN>
+				<TOKEN id="token-2-18" start_char="318" end_char="320">the</TOKEN>
+				<TOKEN id="token-2-19" start_char="322" end_char="328">Skripal</TOKEN>
+				<TOKEN id="token-2-20" start_char="330" end_char="338">poisoning</TOKEN>
+				<TOKEN id="token-2-21" start_char="339" end_char="339">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-3" start_char="341" end_char="478">
+				<ORIGINAL_TEXT>In reaction to the coronavirus quarantines, Canada and the US are implementing emergency funds to help with large numbers of unemployment.</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="341" end_char="342">In</TOKEN>
+				<TOKEN id="token-3-1" start_char="344" end_char="351">reaction</TOKEN>
+				<TOKEN id="token-3-2" start_char="353" end_char="354">to</TOKEN>
+				<TOKEN id="token-3-3" start_char="356" end_char="358">the</TOKEN>
+				<TOKEN id="token-3-4" start_char="360" end_char="370">coronavirus</TOKEN>
+				<TOKEN id="token-3-5" start_char="372" end_char="382">quarantines</TOKEN>
+				<TOKEN id="token-3-6" start_char="383" end_char="383">,</TOKEN>
+				<TOKEN id="token-3-7" start_char="385" end_char="390">Canada</TOKEN>
+				<TOKEN id="token-3-8" start_char="392" end_char="394">and</TOKEN>
+				<TOKEN id="token-3-9" start_char="396" end_char="398">the</TOKEN>
+				<TOKEN id="token-3-10" start_char="400" end_char="401">US</TOKEN>
+				<TOKEN id="token-3-11" start_char="403" end_char="405">are</TOKEN>
+				<TOKEN id="token-3-12" start_char="407" end_char="418">implementing</TOKEN>
+				<TOKEN id="token-3-13" start_char="420" end_char="428">emergency</TOKEN>
+				<TOKEN id="token-3-14" start_char="430" end_char="434">funds</TOKEN>
+				<TOKEN id="token-3-15" start_char="436" end_char="437">to</TOKEN>
+				<TOKEN id="token-3-16" start_char="439" end_char="442">help</TOKEN>
+				<TOKEN id="token-3-17" start_char="444" end_char="447">with</TOKEN>
+				<TOKEN id="token-3-18" start_char="449" end_char="453">large</TOKEN>
+				<TOKEN id="token-3-19" start_char="455" end_char="461">numbers</TOKEN>
+				<TOKEN id="token-3-20" start_char="463" end_char="464">of</TOKEN>
+				<TOKEN id="token-3-21" start_char="466" end_char="477">unemployment</TOKEN>
+				<TOKEN id="token-3-22" start_char="478" end_char="478">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-4" start_char="480" end_char="540">
+				<ORIGINAL_TEXT>The quarantine continues in the most US states and in Canada.</ORIGINAL_TEXT>
+				<TOKEN id="token-4-0" start_char="480" end_char="482">The</TOKEN>
+				<TOKEN id="token-4-1" start_char="484" end_char="493">quarantine</TOKEN>
+				<TOKEN id="token-4-2" start_char="495" end_char="503">continues</TOKEN>
+				<TOKEN id="token-4-3" start_char="505" end_char="506">in</TOKEN>
+				<TOKEN id="token-4-4" start_char="508" end_char="510">the</TOKEN>
+				<TOKEN id="token-4-5" start_char="512" end_char="515">most</TOKEN>
+				<TOKEN id="token-4-6" start_char="517" end_char="518">US</TOKEN>
+				<TOKEN id="token-4-7" start_char="520" end_char="525">states</TOKEN>
+				<TOKEN id="token-4-8" start_char="527" end_char="529">and</TOKEN>
+				<TOKEN id="token-4-9" start_char="531" end_char="532">in</TOKEN>
+				<TOKEN id="token-4-10" start_char="534" end_char="539">Canada</TOKEN>
+				<TOKEN id="token-4-11" start_char="540" end_char="540">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-5" start_char="542" end_char="625">
+				<ORIGINAL_TEXT>As of April 6th there are 1.3 million cases and over 74,000 deaths around the world.</ORIGINAL_TEXT>
+				<TOKEN id="token-5-0" start_char="542" end_char="543">As</TOKEN>
+				<TOKEN id="token-5-1" start_char="545" end_char="546">of</TOKEN>
+				<TOKEN id="token-5-2" start_char="548" end_char="552">April</TOKEN>
+				<TOKEN id="token-5-3" start_char="554" end_char="556">6th</TOKEN>
+				<TOKEN id="token-5-4" start_char="558" end_char="562">there</TOKEN>
+				<TOKEN id="token-5-5" start_char="564" end_char="566">are</TOKEN>
+				<TOKEN id="token-5-6" start_char="568" end_char="568">1</TOKEN>
+				<TOKEN id="token-5-7" start_char="569" end_char="569">.</TOKEN>
+				<TOKEN id="token-5-8" start_char="570" end_char="570">3</TOKEN>
+				<TOKEN id="token-5-9" start_char="572" end_char="578">million</TOKEN>
+				<TOKEN id="token-5-10" start_char="580" end_char="584">cases</TOKEN>
+				<TOKEN id="token-5-11" start_char="586" end_char="588">and</TOKEN>
+				<TOKEN id="token-5-12" start_char="590" end_char="593">over</TOKEN>
+				<TOKEN id="token-5-13" start_char="595" end_char="596">74</TOKEN>
+				<TOKEN id="token-5-14" start_char="597" end_char="597">,</TOKEN>
+				<TOKEN id="token-5-15" start_char="598" end_char="600">000</TOKEN>
+				<TOKEN id="token-5-16" start_char="602" end_char="607">deaths</TOKEN>
+				<TOKEN id="token-5-17" start_char="609" end_char="614">around</TOKEN>
+				<TOKEN id="token-5-18" start_char="616" end_char="618">the</TOKEN>
+				<TOKEN id="token-5-19" start_char="620" end_char="624">world</TOKEN>
+				<TOKEN id="token-5-20" start_char="625" end_char="625">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-6" start_char="627" end_char="664">
+				<ORIGINAL_TEXT>In the US nearly 400,000 are infected.</ORIGINAL_TEXT>
+				<TOKEN id="token-6-0" start_char="627" end_char="628">In</TOKEN>
+				<TOKEN id="token-6-1" start_char="630" end_char="632">the</TOKEN>
+				<TOKEN id="token-6-2" start_char="634" end_char="635">US</TOKEN>
+				<TOKEN id="token-6-3" start_char="637" end_char="642">nearly</TOKEN>
+				<TOKEN id="token-6-4" start_char="644" end_char="646">400</TOKEN>
+				<TOKEN id="token-6-5" start_char="647" end_char="647">,</TOKEN>
+				<TOKEN id="token-6-6" start_char="648" end_char="650">000</TOKEN>
+				<TOKEN id="token-6-7" start_char="652" end_char="654">are</TOKEN>
+				<TOKEN id="token-6-8" start_char="656" end_char="663">infected</TOKEN>
+				<TOKEN id="token-6-9" start_char="664" end_char="664">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-7" start_char="666" end_char="731">
+				<ORIGINAL_TEXT>The states that have the largest numbers of infected are New York.</ORIGINAL_TEXT>
+				<TOKEN id="token-7-0" start_char="666" end_char="668">The</TOKEN>
+				<TOKEN id="token-7-1" start_char="670" end_char="675">states</TOKEN>
+				<TOKEN id="token-7-2" start_char="677" end_char="680">that</TOKEN>
+				<TOKEN id="token-7-3" start_char="682" end_char="685">have</TOKEN>
+				<TOKEN id="token-7-4" start_char="687" end_char="689">the</TOKEN>
+				<TOKEN id="token-7-5" start_char="691" end_char="697">largest</TOKEN>
+				<TOKEN id="token-7-6" start_char="699" end_char="705">numbers</TOKEN>
+				<TOKEN id="token-7-7" start_char="707" end_char="708">of</TOKEN>
+				<TOKEN id="token-7-8" start_char="710" end_char="717">infected</TOKEN>
+				<TOKEN id="token-7-9" start_char="719" end_char="721">are</TOKEN>
+				<TOKEN id="token-7-10" start_char="723" end_char="725">New</TOKEN>
+				<TOKEN id="token-7-11" start_char="727" end_char="730">York</TOKEN>
+				<TOKEN id="token-7-12" start_char="731" end_char="731">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-8" start_char="733" end_char="755">
+				<ORIGINAL_TEXT>Louisiana and Michigan.</ORIGINAL_TEXT>
+				<TOKEN id="token-8-0" start_char="733" end_char="741">Louisiana</TOKEN>
+				<TOKEN id="token-8-1" start_char="743" end_char="745">and</TOKEN>
+				<TOKEN id="token-8-2" start_char="747" end_char="754">Michigan</TOKEN>
+				<TOKEN id="token-8-3" start_char="755" end_char="755">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-9" start_char="757" end_char="888">
+				<ORIGINAL_TEXT>Economies around the world continue to take a beating and according to a number of central banks we are starting to enter recession.</ORIGINAL_TEXT>
+				<TOKEN id="token-9-0" start_char="757" end_char="765">Economies</TOKEN>
+				<TOKEN id="token-9-1" start_char="767" end_char="772">around</TOKEN>
+				<TOKEN id="token-9-2" start_char="774" end_char="776">the</TOKEN>
+				<TOKEN id="token-9-3" start_char="778" end_char="782">world</TOKEN>
+				<TOKEN id="token-9-4" start_char="784" end_char="791">continue</TOKEN>
+				<TOKEN id="token-9-5" start_char="793" end_char="794">to</TOKEN>
+				<TOKEN id="token-9-6" start_char="796" end_char="799">take</TOKEN>
+				<TOKEN id="token-9-7" start_char="801" end_char="801">a</TOKEN>
+				<TOKEN id="token-9-8" start_char="803" end_char="809">beating</TOKEN>
+				<TOKEN id="token-9-9" start_char="811" end_char="813">and</TOKEN>
+				<TOKEN id="token-9-10" start_char="815" end_char="823">according</TOKEN>
+				<TOKEN id="token-9-11" start_char="825" end_char="826">to</TOKEN>
+				<TOKEN id="token-9-12" start_char="828" end_char="828">a</TOKEN>
+				<TOKEN id="token-9-13" start_char="830" end_char="835">number</TOKEN>
+				<TOKEN id="token-9-14" start_char="837" end_char="838">of</TOKEN>
+				<TOKEN id="token-9-15" start_char="840" end_char="846">central</TOKEN>
+				<TOKEN id="token-9-16" start_char="848" end_char="852">banks</TOKEN>
+				<TOKEN id="token-9-17" start_char="854" end_char="855">we</TOKEN>
+				<TOKEN id="token-9-18" start_char="857" end_char="859">are</TOKEN>
+				<TOKEN id="token-9-19" start_char="861" end_char="868">starting</TOKEN>
+				<TOKEN id="token-9-20" start_char="870" end_char="871">to</TOKEN>
+				<TOKEN id="token-9-21" start_char="873" end_char="877">enter</TOKEN>
+				<TOKEN id="token-9-22" start_char="879" end_char="887">recession</TOKEN>
+				<TOKEN id="token-9-23" start_char="888" end_char="888">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-10" start_char="890" end_char="1062">
+				<ORIGINAL_TEXT>Depending on how long the pandemic continues to spread and the numbers continue to increase, we’ll get a better understanding of the outcome on the global financial systems.</ORIGINAL_TEXT>
+				<TOKEN id="token-10-0" start_char="890" end_char="898">Depending</TOKEN>
+				<TOKEN id="token-10-1" start_char="900" end_char="901">on</TOKEN>
+				<TOKEN id="token-10-2" start_char="903" end_char="905">how</TOKEN>
+				<TOKEN id="token-10-3" start_char="907" end_char="910">long</TOKEN>
+				<TOKEN id="token-10-4" start_char="912" end_char="914">the</TOKEN>
+				<TOKEN id="token-10-5" start_char="916" end_char="923">pandemic</TOKEN>
+				<TOKEN id="token-10-6" start_char="925" end_char="933">continues</TOKEN>
+				<TOKEN id="token-10-7" start_char="935" end_char="936">to</TOKEN>
+				<TOKEN id="token-10-8" start_char="938" end_char="943">spread</TOKEN>
+				<TOKEN id="token-10-9" start_char="945" end_char="947">and</TOKEN>
+				<TOKEN id="token-10-10" start_char="949" end_char="951">the</TOKEN>
+				<TOKEN id="token-10-11" start_char="953" end_char="959">numbers</TOKEN>
+				<TOKEN id="token-10-12" start_char="961" end_char="968">continue</TOKEN>
+				<TOKEN id="token-10-13" start_char="970" end_char="971">to</TOKEN>
+				<TOKEN id="token-10-14" start_char="973" end_char="980">increase</TOKEN>
+				<TOKEN id="token-10-15" start_char="981" end_char="981">,</TOKEN>
+				<TOKEN id="token-10-16" start_char="983" end_char="984">we</TOKEN>
+				<TOKEN id="token-10-17" start_char="985" end_char="985">’</TOKEN>
+				<TOKEN id="token-10-18" start_char="986" end_char="987">ll</TOKEN>
+				<TOKEN id="token-10-19" start_char="989" end_char="991">get</TOKEN>
+				<TOKEN id="token-10-20" start_char="993" end_char="993">a</TOKEN>
+				<TOKEN id="token-10-21" start_char="995" end_char="1000">better</TOKEN>
+				<TOKEN id="token-10-22" start_char="1002" end_char="1014">understanding</TOKEN>
+				<TOKEN id="token-10-23" start_char="1016" end_char="1017">of</TOKEN>
+				<TOKEN id="token-10-24" start_char="1019" end_char="1021">the</TOKEN>
+				<TOKEN id="token-10-25" start_char="1023" end_char="1029">outcome</TOKEN>
+				<TOKEN id="token-10-26" start_char="1031" end_char="1032">on</TOKEN>
+				<TOKEN id="token-10-27" start_char="1034" end_char="1036">the</TOKEN>
+				<TOKEN id="token-10-28" start_char="1038" end_char="1043">global</TOKEN>
+				<TOKEN id="token-10-29" start_char="1045" end_char="1053">financial</TOKEN>
+				<TOKEN id="token-10-30" start_char="1055" end_char="1061">systems</TOKEN>
+				<TOKEN id="token-10-31" start_char="1062" end_char="1062">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-11" start_char="1064" end_char="1104">
+				<ORIGINAL_TEXT>Will there be hyperinflation in the fall?</ORIGINAL_TEXT>
+				<TOKEN id="token-11-0" start_char="1064" end_char="1067">Will</TOKEN>
+				<TOKEN id="token-11-1" start_char="1069" end_char="1073">there</TOKEN>
+				<TOKEN id="token-11-2" start_char="1075" end_char="1076">be</TOKEN>
+				<TOKEN id="token-11-3" start_char="1078" end_char="1091">hyperinflation</TOKEN>
+				<TOKEN id="token-11-4" start_char="1093" end_char="1094">in</TOKEN>
+				<TOKEN id="token-11-5" start_char="1096" end_char="1098">the</TOKEN>
+				<TOKEN id="token-11-6" start_char="1100" end_char="1103">fall</TOKEN>
+				<TOKEN id="token-11-7" start_char="1104" end_char="1104">?</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-12" start_char="1106" end_char="1201">
+				<ORIGINAL_TEXT>At the same time Russia and China decided to ramp up their campaign of misinformation and blame.</ORIGINAL_TEXT>
+				<TOKEN id="token-12-0" start_char="1106" end_char="1107">At</TOKEN>
+				<TOKEN id="token-12-1" start_char="1109" end_char="1111">the</TOKEN>
+				<TOKEN id="token-12-2" start_char="1113" end_char="1116">same</TOKEN>
+				<TOKEN id="token-12-3" start_char="1118" end_char="1121">time</TOKEN>
+				<TOKEN id="token-12-4" start_char="1123" end_char="1128">Russia</TOKEN>
+				<TOKEN id="token-12-5" start_char="1130" end_char="1132">and</TOKEN>
+				<TOKEN id="token-12-6" start_char="1134" end_char="1138">China</TOKEN>
+				<TOKEN id="token-12-7" start_char="1140" end_char="1146">decided</TOKEN>
+				<TOKEN id="token-12-8" start_char="1148" end_char="1149">to</TOKEN>
+				<TOKEN id="token-12-9" start_char="1151" end_char="1154">ramp</TOKEN>
+				<TOKEN id="token-12-10" start_char="1156" end_char="1157">up</TOKEN>
+				<TOKEN id="token-12-11" start_char="1159" end_char="1163">their</TOKEN>
+				<TOKEN id="token-12-12" start_char="1165" end_char="1172">campaign</TOKEN>
+				<TOKEN id="token-12-13" start_char="1174" end_char="1175">of</TOKEN>
+				<TOKEN id="token-12-14" start_char="1177" end_char="1190">misinformation</TOKEN>
+				<TOKEN id="token-12-15" start_char="1192" end_char="1194">and</TOKEN>
+				<TOKEN id="token-12-16" start_char="1196" end_char="1200">blame</TOKEN>
+				<TOKEN id="token-12-17" start_char="1201" end_char="1201">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-13" start_char="1203" end_char="1289">
+				<ORIGINAL_TEXT>Russian social media and official news sources now have a new theory they are peddling.</ORIGINAL_TEXT>
+				<TOKEN id="token-13-0" start_char="1203" end_char="1209">Russian</TOKEN>
+				<TOKEN id="token-13-1" start_char="1211" end_char="1216">social</TOKEN>
+				<TOKEN id="token-13-2" start_char="1218" end_char="1222">media</TOKEN>
+				<TOKEN id="token-13-3" start_char="1224" end_char="1226">and</TOKEN>
+				<TOKEN id="token-13-4" start_char="1228" end_char="1235">official</TOKEN>
+				<TOKEN id="token-13-5" start_char="1237" end_char="1240">news</TOKEN>
+				<TOKEN id="token-13-6" start_char="1242" end_char="1248">sources</TOKEN>
+				<TOKEN id="token-13-7" start_char="1250" end_char="1252">now</TOKEN>
+				<TOKEN id="token-13-8" start_char="1254" end_char="1257">have</TOKEN>
+				<TOKEN id="token-13-9" start_char="1259" end_char="1259">a</TOKEN>
+				<TOKEN id="token-13-10" start_char="1261" end_char="1263">new</TOKEN>
+				<TOKEN id="token-13-11" start_char="1265" end_char="1270">theory</TOKEN>
+				<TOKEN id="token-13-12" start_char="1272" end_char="1275">they</TOKEN>
+				<TOKEN id="token-13-13" start_char="1277" end_char="1279">are</TOKEN>
+				<TOKEN id="token-13-14" start_char="1281" end_char="1288">peddling</TOKEN>
+				<TOKEN id="token-13-15" start_char="1289" end_char="1289">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-14" start_char="1291" end_char="1382">
+				<ORIGINAL_TEXT>Russian media in its majority is owned and controlled by the Kremlin directly or indirectly.</ORIGINAL_TEXT>
+				<TOKEN id="token-14-0" start_char="1291" end_char="1297">Russian</TOKEN>
+				<TOKEN id="token-14-1" start_char="1299" end_char="1303">media</TOKEN>
+				<TOKEN id="token-14-2" start_char="1305" end_char="1306">in</TOKEN>
+				<TOKEN id="token-14-3" start_char="1308" end_char="1310">its</TOKEN>
+				<TOKEN id="token-14-4" start_char="1312" end_char="1319">majority</TOKEN>
+				<TOKEN id="token-14-5" start_char="1321" end_char="1322">is</TOKEN>
+				<TOKEN id="token-14-6" start_char="1324" end_char="1328">owned</TOKEN>
+				<TOKEN id="token-14-7" start_char="1330" end_char="1332">and</TOKEN>
+				<TOKEN id="token-14-8" start_char="1334" end_char="1343">controlled</TOKEN>
+				<TOKEN id="token-14-9" start_char="1345" end_char="1346">by</TOKEN>
+				<TOKEN id="token-14-10" start_char="1348" end_char="1350">the</TOKEN>
+				<TOKEN id="token-14-11" start_char="1352" end_char="1358">Kremlin</TOKEN>
+				<TOKEN id="token-14-12" start_char="1360" end_char="1367">directly</TOKEN>
+				<TOKEN id="token-14-13" start_char="1369" end_char="1370">or</TOKEN>
+				<TOKEN id="token-14-14" start_char="1372" end_char="1381">indirectly</TOKEN>
+				<TOKEN id="token-14-15" start_char="1382" end_char="1382">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-15" start_char="1384" end_char="1558">
+				<ORIGINAL_TEXT>Their new conspiracy theory gained even more traction since the announcement on April 6th that the British Prime Minister has been moved to an ICU and requires oxygen support.</ORIGINAL_TEXT>
+				<TOKEN id="token-15-0" start_char="1384" end_char="1388">Their</TOKEN>
+				<TOKEN id="token-15-1" start_char="1390" end_char="1392">new</TOKEN>
+				<TOKEN id="token-15-2" start_char="1394" end_char="1403">conspiracy</TOKEN>
+				<TOKEN id="token-15-3" start_char="1405" end_char="1410">theory</TOKEN>
+				<TOKEN id="token-15-4" start_char="1412" end_char="1417">gained</TOKEN>
+				<TOKEN id="token-15-5" start_char="1419" end_char="1422">even</TOKEN>
+				<TOKEN id="token-15-6" start_char="1424" end_char="1427">more</TOKEN>
+				<TOKEN id="token-15-7" start_char="1429" end_char="1436">traction</TOKEN>
+				<TOKEN id="token-15-8" start_char="1438" end_char="1442">since</TOKEN>
+				<TOKEN id="token-15-9" start_char="1444" end_char="1446">the</TOKEN>
+				<TOKEN id="token-15-10" start_char="1448" end_char="1459">announcement</TOKEN>
+				<TOKEN id="token-15-11" start_char="1461" end_char="1462">on</TOKEN>
+				<TOKEN id="token-15-12" start_char="1464" end_char="1468">April</TOKEN>
+				<TOKEN id="token-15-13" start_char="1470" end_char="1472">6th</TOKEN>
+				<TOKEN id="token-15-14" start_char="1474" end_char="1477">that</TOKEN>
+				<TOKEN id="token-15-15" start_char="1479" end_char="1481">the</TOKEN>
+				<TOKEN id="token-15-16" start_char="1483" end_char="1489">British</TOKEN>
+				<TOKEN id="token-15-17" start_char="1491" end_char="1495">Prime</TOKEN>
+				<TOKEN id="token-15-18" start_char="1497" end_char="1504">Minister</TOKEN>
+				<TOKEN id="token-15-19" start_char="1506" end_char="1508">has</TOKEN>
+				<TOKEN id="token-15-20" start_char="1510" end_char="1513">been</TOKEN>
+				<TOKEN id="token-15-21" start_char="1515" end_char="1519">moved</TOKEN>
+				<TOKEN id="token-15-22" start_char="1521" end_char="1522">to</TOKEN>
+				<TOKEN id="token-15-23" start_char="1524" end_char="1525">an</TOKEN>
+				<TOKEN id="token-15-24" start_char="1527" end_char="1529">ICU</TOKEN>
+				<TOKEN id="token-15-25" start_char="1531" end_char="1533">and</TOKEN>
+				<TOKEN id="token-15-26" start_char="1535" end_char="1542">requires</TOKEN>
+				<TOKEN id="token-15-27" start_char="1544" end_char="1549">oxygen</TOKEN>
+				<TOKEN id="token-15-28" start_char="1551" end_char="1557">support</TOKEN>
+				<TOKEN id="token-15-29" start_char="1558" end_char="1558">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-16" start_char="1560" end_char="1719">
+				<ORIGINAL_TEXT>The new fake news theory claims that coronavirus did not originate in Wuhan, China, but in fact came from Solsbury Porton Down laboratory in the United Kingdom.</ORIGINAL_TEXT>
+				<TOKEN id="token-16-0" start_char="1560" end_char="1562">The</TOKEN>
+				<TOKEN id="token-16-1" start_char="1564" end_char="1566">new</TOKEN>
+				<TOKEN id="token-16-2" start_char="1568" end_char="1571">fake</TOKEN>
+				<TOKEN id="token-16-3" start_char="1573" end_char="1576">news</TOKEN>
+				<TOKEN id="token-16-4" start_char="1578" end_char="1583">theory</TOKEN>
+				<TOKEN id="token-16-5" start_char="1585" end_char="1590">claims</TOKEN>
+				<TOKEN id="token-16-6" start_char="1592" end_char="1595">that</TOKEN>
+				<TOKEN id="token-16-7" start_char="1597" end_char="1607">coronavirus</TOKEN>
+				<TOKEN id="token-16-8" start_char="1609" end_char="1611">did</TOKEN>
+				<TOKEN id="token-16-9" start_char="1613" end_char="1615">not</TOKEN>
+				<TOKEN id="token-16-10" start_char="1617" end_char="1625">originate</TOKEN>
+				<TOKEN id="token-16-11" start_char="1627" end_char="1628">in</TOKEN>
+				<TOKEN id="token-16-12" start_char="1630" end_char="1634">Wuhan</TOKEN>
+				<TOKEN id="token-16-13" start_char="1635" end_char="1635">,</TOKEN>
+				<TOKEN id="token-16-14" start_char="1637" end_char="1641">China</TOKEN>
+				<TOKEN id="token-16-15" start_char="1642" end_char="1642">,</TOKEN>
+				<TOKEN id="token-16-16" start_char="1644" end_char="1646">but</TOKEN>
+				<TOKEN id="token-16-17" start_char="1648" end_char="1649">in</TOKEN>
+				<TOKEN id="token-16-18" start_char="1651" end_char="1654">fact</TOKEN>
+				<TOKEN id="token-16-19" start_char="1656" end_char="1659">came</TOKEN>
+				<TOKEN id="token-16-20" start_char="1661" end_char="1664">from</TOKEN>
+				<TOKEN id="token-16-21" start_char="1666" end_char="1673">Solsbury</TOKEN>
+				<TOKEN id="token-16-22" start_char="1675" end_char="1680">Porton</TOKEN>
+				<TOKEN id="token-16-23" start_char="1682" end_char="1685">Down</TOKEN>
+				<TOKEN id="token-16-24" start_char="1687" end_char="1696">laboratory</TOKEN>
+				<TOKEN id="token-16-25" start_char="1698" end_char="1699">in</TOKEN>
+				<TOKEN id="token-16-26" start_char="1701" end_char="1703">the</TOKEN>
+				<TOKEN id="token-16-27" start_char="1705" end_char="1710">United</TOKEN>
+				<TOKEN id="token-16-28" start_char="1712" end_char="1718">Kingdom</TOKEN>
+				<TOKEN id="token-16-29" start_char="1719" end_char="1719">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-17" start_char="1721" end_char="1787">
+				<ORIGINAL_TEXT>Porton Down is a UK military laboratory near the city of Salisbury.</ORIGINAL_TEXT>
+				<TOKEN id="token-17-0" start_char="1721" end_char="1726">Porton</TOKEN>
+				<TOKEN id="token-17-1" start_char="1728" end_char="1731">Down</TOKEN>
+				<TOKEN id="token-17-2" start_char="1733" end_char="1734">is</TOKEN>
+				<TOKEN id="token-17-3" start_char="1736" end_char="1736">a</TOKEN>
+				<TOKEN id="token-17-4" start_char="1738" end_char="1739">UK</TOKEN>
+				<TOKEN id="token-17-5" start_char="1741" end_char="1748">military</TOKEN>
+				<TOKEN id="token-17-6" start_char="1750" end_char="1759">laboratory</TOKEN>
+				<TOKEN id="token-17-7" start_char="1761" end_char="1764">near</TOKEN>
+				<TOKEN id="token-17-8" start_char="1766" end_char="1768">the</TOKEN>
+				<TOKEN id="token-17-9" start_char="1770" end_char="1773">city</TOKEN>
+				<TOKEN id="token-17-10" start_char="1775" end_char="1776">of</TOKEN>
+				<TOKEN id="token-17-11" start_char="1778" end_char="1786">Salisbury</TOKEN>
+				<TOKEN id="token-17-12" start_char="1787" end_char="1787">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-18" start_char="1789" end_char="1919">
+				<ORIGINAL_TEXT>The secretive biological and chemical research facility became famous during the time of the Skripal poisoning in UK with Novichok.</ORIGINAL_TEXT>
+				<TOKEN id="token-18-0" start_char="1789" end_char="1791">The</TOKEN>
+				<TOKEN id="token-18-1" start_char="1793" end_char="1801">secretive</TOKEN>
+				<TOKEN id="token-18-2" start_char="1803" end_char="1812">biological</TOKEN>
+				<TOKEN id="token-18-3" start_char="1814" end_char="1816">and</TOKEN>
+				<TOKEN id="token-18-4" start_char="1818" end_char="1825">chemical</TOKEN>
+				<TOKEN id="token-18-5" start_char="1827" end_char="1834">research</TOKEN>
+				<TOKEN id="token-18-6" start_char="1836" end_char="1843">facility</TOKEN>
+				<TOKEN id="token-18-7" start_char="1845" end_char="1850">became</TOKEN>
+				<TOKEN id="token-18-8" start_char="1852" end_char="1857">famous</TOKEN>
+				<TOKEN id="token-18-9" start_char="1859" end_char="1864">during</TOKEN>
+				<TOKEN id="token-18-10" start_char="1866" end_char="1868">the</TOKEN>
+				<TOKEN id="token-18-11" start_char="1870" end_char="1873">time</TOKEN>
+				<TOKEN id="token-18-12" start_char="1875" end_char="1876">of</TOKEN>
+				<TOKEN id="token-18-13" start_char="1878" end_char="1880">the</TOKEN>
+				<TOKEN id="token-18-14" start_char="1882" end_char="1888">Skripal</TOKEN>
+				<TOKEN id="token-18-15" start_char="1890" end_char="1898">poisoning</TOKEN>
+				<TOKEN id="token-18-16" start_char="1900" end_char="1901">in</TOKEN>
+				<TOKEN id="token-18-17" start_char="1903" end_char="1904">UK</TOKEN>
+				<TOKEN id="token-18-18" start_char="1906" end_char="1909">with</TOKEN>
+				<TOKEN id="token-18-19" start_char="1911" end_char="1918">Novichok</TOKEN>
+				<TOKEN id="token-18-20" start_char="1919" end_char="1919">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-19" start_char="1921" end_char="1957">
+				<ORIGINAL_TEXT>The story headlined around the world.</ORIGINAL_TEXT>
+				<TOKEN id="token-19-0" start_char="1921" end_char="1923">The</TOKEN>
+				<TOKEN id="token-19-1" start_char="1925" end_char="1929">story</TOKEN>
+				<TOKEN id="token-19-2" start_char="1931" end_char="1939">headlined</TOKEN>
+				<TOKEN id="token-19-3" start_char="1941" end_char="1946">around</TOKEN>
+				<TOKEN id="token-19-4" start_char="1948" end_char="1950">the</TOKEN>
+				<TOKEN id="token-19-5" start_char="1952" end_char="1956">world</TOKEN>
+				<TOKEN id="token-19-6" start_char="1957" end_char="1957">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-20" start_char="1959" end_char="2111">
+				<ORIGINAL_TEXT>According to the UK government contracts registry, Porton Down laboratory scientists produce and test dissemination of biological and/or chemical agents.</ORIGINAL_TEXT>
+				<TOKEN id="token-20-0" start_char="1959" end_char="1967">According</TOKEN>
+				<TOKEN id="token-20-1" start_char="1969" end_char="1970">to</TOKEN>
+				<TOKEN id="token-20-2" start_char="1972" end_char="1974">the</TOKEN>
+				<TOKEN id="token-20-3" start_char="1976" end_char="1977">UK</TOKEN>
+				<TOKEN id="token-20-4" start_char="1979" end_char="1988">government</TOKEN>
+				<TOKEN id="token-20-5" start_char="1990" end_char="1998">contracts</TOKEN>
+				<TOKEN id="token-20-6" start_char="2000" end_char="2007">registry</TOKEN>
+				<TOKEN id="token-20-7" start_char="2008" end_char="2008">,</TOKEN>
+				<TOKEN id="token-20-8" start_char="2010" end_char="2015">Porton</TOKEN>
+				<TOKEN id="token-20-9" start_char="2017" end_char="2020">Down</TOKEN>
+				<TOKEN id="token-20-10" start_char="2022" end_char="2031">laboratory</TOKEN>
+				<TOKEN id="token-20-11" start_char="2033" end_char="2042">scientists</TOKEN>
+				<TOKEN id="token-20-12" start_char="2044" end_char="2050">produce</TOKEN>
+				<TOKEN id="token-20-13" start_char="2052" end_char="2054">and</TOKEN>
+				<TOKEN id="token-20-14" start_char="2056" end_char="2059">test</TOKEN>
+				<TOKEN id="token-20-15" start_char="2061" end_char="2073">dissemination</TOKEN>
+				<TOKEN id="token-20-16" start_char="2075" end_char="2076">of</TOKEN>
+				<TOKEN id="token-20-17" start_char="2078" end_char="2087">biological</TOKEN>
+				<TOKEN id="token-20-18" start_char="2089" end_char="2091">and</TOKEN>
+				<TOKEN id="token-20-19" start_char="2092" end_char="2092">/</TOKEN>
+				<TOKEN id="token-20-20" start_char="2093" end_char="2094">or</TOKEN>
+				<TOKEN id="token-20-21" start_char="2096" end_char="2103">chemical</TOKEN>
+				<TOKEN id="token-20-22" start_char="2105" end_char="2110">agents</TOKEN>
+				<TOKEN id="token-20-23" start_char="2111" end_char="2111">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-21" start_char="2113" end_char="2288">
+				<ORIGINAL_TEXT>The new conspiracy theory is being used to divert blame from China for careless actions and misreporting true numbers and their failure to immediately act to contain the virus.</ORIGINAL_TEXT>
+				<TOKEN id="token-21-0" start_char="2113" end_char="2115">The</TOKEN>
+				<TOKEN id="token-21-1" start_char="2117" end_char="2119">new</TOKEN>
+				<TOKEN id="token-21-2" start_char="2121" end_char="2130">conspiracy</TOKEN>
+				<TOKEN id="token-21-3" start_char="2132" end_char="2137">theory</TOKEN>
+				<TOKEN id="token-21-4" start_char="2139" end_char="2140">is</TOKEN>
+				<TOKEN id="token-21-5" start_char="2142" end_char="2146">being</TOKEN>
+				<TOKEN id="token-21-6" start_char="2148" end_char="2151">used</TOKEN>
+				<TOKEN id="token-21-7" start_char="2153" end_char="2154">to</TOKEN>
+				<TOKEN id="token-21-8" start_char="2156" end_char="2161">divert</TOKEN>
+				<TOKEN id="token-21-9" start_char="2163" end_char="2167">blame</TOKEN>
+				<TOKEN id="token-21-10" start_char="2169" end_char="2172">from</TOKEN>
+				<TOKEN id="token-21-11" start_char="2174" end_char="2178">China</TOKEN>
+				<TOKEN id="token-21-12" start_char="2180" end_char="2182">for</TOKEN>
+				<TOKEN id="token-21-13" start_char="2184" end_char="2191">careless</TOKEN>
+				<TOKEN id="token-21-14" start_char="2193" end_char="2199">actions</TOKEN>
+				<TOKEN id="token-21-15" start_char="2201" end_char="2203">and</TOKEN>
+				<TOKEN id="token-21-16" start_char="2205" end_char="2216">misreporting</TOKEN>
+				<TOKEN id="token-21-17" start_char="2218" end_char="2221">true</TOKEN>
+				<TOKEN id="token-21-18" start_char="2223" end_char="2229">numbers</TOKEN>
+				<TOKEN id="token-21-19" start_char="2231" end_char="2233">and</TOKEN>
+				<TOKEN id="token-21-20" start_char="2235" end_char="2239">their</TOKEN>
+				<TOKEN id="token-21-21" start_char="2241" end_char="2247">failure</TOKEN>
+				<TOKEN id="token-21-22" start_char="2249" end_char="2250">to</TOKEN>
+				<TOKEN id="token-21-23" start_char="2252" end_char="2262">immediately</TOKEN>
+				<TOKEN id="token-21-24" start_char="2264" end_char="2266">act</TOKEN>
+				<TOKEN id="token-21-25" start_char="2268" end_char="2269">to</TOKEN>
+				<TOKEN id="token-21-26" start_char="2271" end_char="2277">contain</TOKEN>
+				<TOKEN id="token-21-27" start_char="2279" end_char="2281">the</TOKEN>
+				<TOKEN id="token-21-28" start_char="2283" end_char="2287">virus</TOKEN>
+				<TOKEN id="token-21-29" start_char="2288" end_char="2288">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-22" start_char="2290" end_char="2434">
+				<ORIGINAL_TEXT>The first false theory peddled was that US military personnel brought coronavirus to Wuhan during the World Military games of October 8-27, 2019.</ORIGINAL_TEXT>
+				<TOKEN id="token-22-0" start_char="2290" end_char="2292">The</TOKEN>
+				<TOKEN id="token-22-1" start_char="2294" end_char="2298">first</TOKEN>
+				<TOKEN id="token-22-2" start_char="2300" end_char="2304">false</TOKEN>
+				<TOKEN id="token-22-3" start_char="2306" end_char="2311">theory</TOKEN>
+				<TOKEN id="token-22-4" start_char="2313" end_char="2319">peddled</TOKEN>
+				<TOKEN id="token-22-5" start_char="2321" end_char="2323">was</TOKEN>
+				<TOKEN id="token-22-6" start_char="2325" end_char="2328">that</TOKEN>
+				<TOKEN id="token-22-7" start_char="2330" end_char="2331">US</TOKEN>
+				<TOKEN id="token-22-8" start_char="2333" end_char="2340">military</TOKEN>
+				<TOKEN id="token-22-9" start_char="2342" end_char="2350">personnel</TOKEN>
+				<TOKEN id="token-22-10" start_char="2352" end_char="2358">brought</TOKEN>
+				<TOKEN id="token-22-11" start_char="2360" end_char="2370">coronavirus</TOKEN>
+				<TOKEN id="token-22-12" start_char="2372" end_char="2373">to</TOKEN>
+				<TOKEN id="token-22-13" start_char="2375" end_char="2379">Wuhan</TOKEN>
+				<TOKEN id="token-22-14" start_char="2381" end_char="2386">during</TOKEN>
+				<TOKEN id="token-22-15" start_char="2388" end_char="2390">the</TOKEN>
+				<TOKEN id="token-22-16" start_char="2392" end_char="2396">World</TOKEN>
+				<TOKEN id="token-22-17" start_char="2398" end_char="2405">Military</TOKEN>
+				<TOKEN id="token-22-18" start_char="2407" end_char="2411">games</TOKEN>
+				<TOKEN id="token-22-19" start_char="2413" end_char="2414">of</TOKEN>
+				<TOKEN id="token-22-20" start_char="2416" end_char="2422">October</TOKEN>
+				<TOKEN id="token-22-21" start_char="2424" end_char="2424">8</TOKEN>
+				<TOKEN id="token-22-22" start_char="2425" end_char="2425">-</TOKEN>
+				<TOKEN id="token-22-23" start_char="2426" end_char="2427">27</TOKEN>
+				<TOKEN id="token-22-24" start_char="2428" end_char="2428">,</TOKEN>
+				<TOKEN id="token-22-25" start_char="2430" end_char="2433">2019</TOKEN>
+				<TOKEN id="token-22-26" start_char="2434" end_char="2434">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-23" start_char="2436" end_char="2489">
+				<ORIGINAL_TEXT>This new theory now also gives Russia multiple angles.</ORIGINAL_TEXT>
+				<TOKEN id="token-23-0" start_char="2436" end_char="2439">This</TOKEN>
+				<TOKEN id="token-23-1" start_char="2441" end_char="2443">new</TOKEN>
+				<TOKEN id="token-23-2" start_char="2445" end_char="2450">theory</TOKEN>
+				<TOKEN id="token-23-3" start_char="2452" end_char="2454">now</TOKEN>
+				<TOKEN id="token-23-4" start_char="2456" end_char="2459">also</TOKEN>
+				<TOKEN id="token-23-5" start_char="2461" end_char="2465">gives</TOKEN>
+				<TOKEN id="token-23-6" start_char="2467" end_char="2472">Russia</TOKEN>
+				<TOKEN id="token-23-7" start_char="2474" end_char="2481">multiple</TOKEN>
+				<TOKEN id="token-23-8" start_char="2483" end_char="2488">angles</TOKEN>
+				<TOKEN id="token-23-9" start_char="2489" end_char="2489">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-24" start_char="2491" end_char="2740">
+				<ORIGINAL_TEXT>Since the UK was able to decipher and oust the Russian government agents responsible for Skripal poisoning, it is even more salivating payback for Kremlin to accuse the UK of being responsible for creation of the coronavirus in their Porton Down lab.</ORIGINAL_TEXT>
+				<TOKEN id="token-24-0" start_char="2491" end_char="2495">Since</TOKEN>
+				<TOKEN id="token-24-1" start_char="2497" end_char="2499">the</TOKEN>
+				<TOKEN id="token-24-2" start_char="2501" end_char="2502">UK</TOKEN>
+				<TOKEN id="token-24-3" start_char="2504" end_char="2506">was</TOKEN>
+				<TOKEN id="token-24-4" start_char="2508" end_char="2511">able</TOKEN>
+				<TOKEN id="token-24-5" start_char="2513" end_char="2514">to</TOKEN>
+				<TOKEN id="token-24-6" start_char="2516" end_char="2523">decipher</TOKEN>
+				<TOKEN id="token-24-7" start_char="2525" end_char="2527">and</TOKEN>
+				<TOKEN id="token-24-8" start_char="2529" end_char="2532">oust</TOKEN>
+				<TOKEN id="token-24-9" start_char="2534" end_char="2536">the</TOKEN>
+				<TOKEN id="token-24-10" start_char="2538" end_char="2544">Russian</TOKEN>
+				<TOKEN id="token-24-11" start_char="2546" end_char="2555">government</TOKEN>
+				<TOKEN id="token-24-12" start_char="2557" end_char="2562">agents</TOKEN>
+				<TOKEN id="token-24-13" start_char="2564" end_char="2574">responsible</TOKEN>
+				<TOKEN id="token-24-14" start_char="2576" end_char="2578">for</TOKEN>
+				<TOKEN id="token-24-15" start_char="2580" end_char="2586">Skripal</TOKEN>
+				<TOKEN id="token-24-16" start_char="2588" end_char="2596">poisoning</TOKEN>
+				<TOKEN id="token-24-17" start_char="2597" end_char="2597">,</TOKEN>
+				<TOKEN id="token-24-18" start_char="2599" end_char="2600">it</TOKEN>
+				<TOKEN id="token-24-19" start_char="2602" end_char="2603">is</TOKEN>
+				<TOKEN id="token-24-20" start_char="2605" end_char="2608">even</TOKEN>
+				<TOKEN id="token-24-21" start_char="2610" end_char="2613">more</TOKEN>
+				<TOKEN id="token-24-22" start_char="2615" end_char="2624">salivating</TOKEN>
+				<TOKEN id="token-24-23" start_char="2626" end_char="2632">payback</TOKEN>
+				<TOKEN id="token-24-24" start_char="2634" end_char="2636">for</TOKEN>
+				<TOKEN id="token-24-25" start_char="2638" end_char="2644">Kremlin</TOKEN>
+				<TOKEN id="token-24-26" start_char="2646" end_char="2647">to</TOKEN>
+				<TOKEN id="token-24-27" start_char="2649" end_char="2654">accuse</TOKEN>
+				<TOKEN id="token-24-28" start_char="2656" end_char="2658">the</TOKEN>
+				<TOKEN id="token-24-29" start_char="2660" end_char="2661">UK</TOKEN>
+				<TOKEN id="token-24-30" start_char="2663" end_char="2664">of</TOKEN>
+				<TOKEN id="token-24-31" start_char="2666" end_char="2670">being</TOKEN>
+				<TOKEN id="token-24-32" start_char="2672" end_char="2682">responsible</TOKEN>
+				<TOKEN id="token-24-33" start_char="2684" end_char="2686">for</TOKEN>
+				<TOKEN id="token-24-34" start_char="2688" end_char="2695">creation</TOKEN>
+				<TOKEN id="token-24-35" start_char="2697" end_char="2698">of</TOKEN>
+				<TOKEN id="token-24-36" start_char="2700" end_char="2702">the</TOKEN>
+				<TOKEN id="token-24-37" start_char="2704" end_char="2714">coronavirus</TOKEN>
+				<TOKEN id="token-24-38" start_char="2716" end_char="2717">in</TOKEN>
+				<TOKEN id="token-24-39" start_char="2719" end_char="2723">their</TOKEN>
+				<TOKEN id="token-24-40" start_char="2725" end_char="2730">Porton</TOKEN>
+				<TOKEN id="token-24-41" start_char="2732" end_char="2735">Down</TOKEN>
+				<TOKEN id="token-24-42" start_char="2737" end_char="2739">lab</TOKEN>
+				<TOKEN id="token-24-43" start_char="2740" end_char="2740">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-25" start_char="2742" end_char="2883">
+				<ORIGINAL_TEXT>The UK is experiencing tumultuous times, with Brexit finalization and the coronavirus pandemic, creating very tough conditions in the country.</ORIGINAL_TEXT>
+				<TOKEN id="token-25-0" start_char="2742" end_char="2744">The</TOKEN>
+				<TOKEN id="token-25-1" start_char="2746" end_char="2747">UK</TOKEN>
+				<TOKEN id="token-25-2" start_char="2749" end_char="2750">is</TOKEN>
+				<TOKEN id="token-25-3" start_char="2752" end_char="2763">experiencing</TOKEN>
+				<TOKEN id="token-25-4" start_char="2765" end_char="2774">tumultuous</TOKEN>
+				<TOKEN id="token-25-5" start_char="2776" end_char="2780">times</TOKEN>
+				<TOKEN id="token-25-6" start_char="2781" end_char="2781">,</TOKEN>
+				<TOKEN id="token-25-7" start_char="2783" end_char="2786">with</TOKEN>
+				<TOKEN id="token-25-8" start_char="2788" end_char="2793">Brexit</TOKEN>
+				<TOKEN id="token-25-9" start_char="2795" end_char="2806">finalization</TOKEN>
+				<TOKEN id="token-25-10" start_char="2808" end_char="2810">and</TOKEN>
+				<TOKEN id="token-25-11" start_char="2812" end_char="2814">the</TOKEN>
+				<TOKEN id="token-25-12" start_char="2816" end_char="2826">coronavirus</TOKEN>
+				<TOKEN id="token-25-13" start_char="2828" end_char="2835">pandemic</TOKEN>
+				<TOKEN id="token-25-14" start_char="2836" end_char="2836">,</TOKEN>
+				<TOKEN id="token-25-15" start_char="2838" end_char="2845">creating</TOKEN>
+				<TOKEN id="token-25-16" start_char="2847" end_char="2850">very</TOKEN>
+				<TOKEN id="token-25-17" start_char="2852" end_char="2856">tough</TOKEN>
+				<TOKEN id="token-25-18" start_char="2858" end_char="2867">conditions</TOKEN>
+				<TOKEN id="token-25-19" start_char="2869" end_char="2870">in</TOKEN>
+				<TOKEN id="token-25-20" start_char="2872" end_char="2874">the</TOKEN>
+				<TOKEN id="token-25-21" start_char="2876" end_char="2882">country</TOKEN>
+				<TOKEN id="token-25-22" start_char="2883" end_char="2883">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-26" start_char="2885" end_char="2985">
+				<ORIGINAL_TEXT>Especially when the leader of the nation is in ICU and it is possible he could have a lethal outcome.</ORIGINAL_TEXT>
+				<TOKEN id="token-26-0" start_char="2885" end_char="2894">Especially</TOKEN>
+				<TOKEN id="token-26-1" start_char="2896" end_char="2899">when</TOKEN>
+				<TOKEN id="token-26-2" start_char="2901" end_char="2903">the</TOKEN>
+				<TOKEN id="token-26-3" start_char="2905" end_char="2910">leader</TOKEN>
+				<TOKEN id="token-26-4" start_char="2912" end_char="2913">of</TOKEN>
+				<TOKEN id="token-26-5" start_char="2915" end_char="2917">the</TOKEN>
+				<TOKEN id="token-26-6" start_char="2919" end_char="2924">nation</TOKEN>
+				<TOKEN id="token-26-7" start_char="2926" end_char="2927">is</TOKEN>
+				<TOKEN id="token-26-8" start_char="2929" end_char="2930">in</TOKEN>
+				<TOKEN id="token-26-9" start_char="2932" end_char="2934">ICU</TOKEN>
+				<TOKEN id="token-26-10" start_char="2936" end_char="2938">and</TOKEN>
+				<TOKEN id="token-26-11" start_char="2940" end_char="2941">it</TOKEN>
+				<TOKEN id="token-26-12" start_char="2943" end_char="2944">is</TOKEN>
+				<TOKEN id="token-26-13" start_char="2946" end_char="2953">possible</TOKEN>
+				<TOKEN id="token-26-14" start_char="2955" end_char="2956">he</TOKEN>
+				<TOKEN id="token-26-15" start_char="2958" end_char="2962">could</TOKEN>
+				<TOKEN id="token-26-16" start_char="2964" end_char="2967">have</TOKEN>
+				<TOKEN id="token-26-17" start_char="2969" end_char="2969">a</TOKEN>
+				<TOKEN id="token-26-18" start_char="2971" end_char="2976">lethal</TOKEN>
+				<TOKEN id="token-26-19" start_char="2978" end_char="2984">outcome</TOKEN>
+				<TOKEN id="token-26-20" start_char="2985" end_char="2985">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-27" start_char="2987" end_char="3080">
+				<ORIGINAL_TEXT>Such an event could create uncertainty in the political arena and further sink the UK economy.</ORIGINAL_TEXT>
+				<TOKEN id="token-27-0" start_char="2987" end_char="2990">Such</TOKEN>
+				<TOKEN id="token-27-1" start_char="2992" end_char="2993">an</TOKEN>
+				<TOKEN id="token-27-2" start_char="2995" end_char="2999">event</TOKEN>
+				<TOKEN id="token-27-3" start_char="3001" end_char="3005">could</TOKEN>
+				<TOKEN id="token-27-4" start_char="3007" end_char="3012">create</TOKEN>
+				<TOKEN id="token-27-5" start_char="3014" end_char="3024">uncertainty</TOKEN>
+				<TOKEN id="token-27-6" start_char="3026" end_char="3027">in</TOKEN>
+				<TOKEN id="token-27-7" start_char="3029" end_char="3031">the</TOKEN>
+				<TOKEN id="token-27-8" start_char="3033" end_char="3041">political</TOKEN>
+				<TOKEN id="token-27-9" start_char="3043" end_char="3047">arena</TOKEN>
+				<TOKEN id="token-27-10" start_char="3049" end_char="3051">and</TOKEN>
+				<TOKEN id="token-27-11" start_char="3053" end_char="3059">further</TOKEN>
+				<TOKEN id="token-27-12" start_char="3061" end_char="3064">sink</TOKEN>
+				<TOKEN id="token-27-13" start_char="3066" end_char="3068">the</TOKEN>
+				<TOKEN id="token-27-14" start_char="3070" end_char="3071">UK</TOKEN>
+				<TOKEN id="token-27-15" start_char="3073" end_char="3079">economy</TOKEN>
+				<TOKEN id="token-27-16" start_char="3080" end_char="3080">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-28" start_char="3082" end_char="3182">
+				<ORIGINAL_TEXT>China is very eager to support such a theory, as it takes the heat off China and creates a diversion.</ORIGINAL_TEXT>
+				<TOKEN id="token-28-0" start_char="3082" end_char="3086">China</TOKEN>
+				<TOKEN id="token-28-1" start_char="3088" end_char="3089">is</TOKEN>
+				<TOKEN id="token-28-2" start_char="3091" end_char="3094">very</TOKEN>
+				<TOKEN id="token-28-3" start_char="3096" end_char="3100">eager</TOKEN>
+				<TOKEN id="token-28-4" start_char="3102" end_char="3103">to</TOKEN>
+				<TOKEN id="token-28-5" start_char="3105" end_char="3111">support</TOKEN>
+				<TOKEN id="token-28-6" start_char="3113" end_char="3116">such</TOKEN>
+				<TOKEN id="token-28-7" start_char="3118" end_char="3118">a</TOKEN>
+				<TOKEN id="token-28-8" start_char="3120" end_char="3125">theory</TOKEN>
+				<TOKEN id="token-28-9" start_char="3126" end_char="3126">,</TOKEN>
+				<TOKEN id="token-28-10" start_char="3128" end_char="3129">as</TOKEN>
+				<TOKEN id="token-28-11" start_char="3131" end_char="3132">it</TOKEN>
+				<TOKEN id="token-28-12" start_char="3134" end_char="3138">takes</TOKEN>
+				<TOKEN id="token-28-13" start_char="3140" end_char="3142">the</TOKEN>
+				<TOKEN id="token-28-14" start_char="3144" end_char="3147">heat</TOKEN>
+				<TOKEN id="token-28-15" start_char="3149" end_char="3151">off</TOKEN>
+				<TOKEN id="token-28-16" start_char="3153" end_char="3157">China</TOKEN>
+				<TOKEN id="token-28-17" start_char="3159" end_char="3161">and</TOKEN>
+				<TOKEN id="token-28-18" start_char="3163" end_char="3169">creates</TOKEN>
+				<TOKEN id="token-28-19" start_char="3171" end_char="3171">a</TOKEN>
+				<TOKEN id="token-28-20" start_char="3173" end_char="3181">diversion</TOKEN>
+				<TOKEN id="token-28-21" start_char="3182" end_char="3182">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-29" start_char="3184" end_char="3309">
+				<ORIGINAL_TEXT>The conspiracy theorists and trolls are eagerly spreading this theory on Twitter and other social platforms outside of Russia.</ORIGINAL_TEXT>
+				<TOKEN id="token-29-0" start_char="3184" end_char="3186">The</TOKEN>
+				<TOKEN id="token-29-1" start_char="3188" end_char="3197">conspiracy</TOKEN>
+				<TOKEN id="token-29-2" start_char="3199" end_char="3207">theorists</TOKEN>
+				<TOKEN id="token-29-3" start_char="3209" end_char="3211">and</TOKEN>
+				<TOKEN id="token-29-4" start_char="3213" end_char="3218">trolls</TOKEN>
+				<TOKEN id="token-29-5" start_char="3220" end_char="3222">are</TOKEN>
+				<TOKEN id="token-29-6" start_char="3224" end_char="3230">eagerly</TOKEN>
+				<TOKEN id="token-29-7" start_char="3232" end_char="3240">spreading</TOKEN>
+				<TOKEN id="token-29-8" start_char="3242" end_char="3245">this</TOKEN>
+				<TOKEN id="token-29-9" start_char="3247" end_char="3252">theory</TOKEN>
+				<TOKEN id="token-29-10" start_char="3254" end_char="3255">on</TOKEN>
+				<TOKEN id="token-29-11" start_char="3257" end_char="3263">Twitter</TOKEN>
+				<TOKEN id="token-29-12" start_char="3265" end_char="3267">and</TOKEN>
+				<TOKEN id="token-29-13" start_char="3269" end_char="3273">other</TOKEN>
+				<TOKEN id="token-29-14" start_char="3275" end_char="3280">social</TOKEN>
+				<TOKEN id="token-29-15" start_char="3282" end_char="3290">platforms</TOKEN>
+				<TOKEN id="token-29-16" start_char="3292" end_char="3298">outside</TOKEN>
+				<TOKEN id="token-29-17" start_char="3300" end_char="3301">of</TOKEN>
+				<TOKEN id="token-29-18" start_char="3303" end_char="3308">Russia</TOKEN>
+				<TOKEN id="token-29-19" start_char="3309" end_char="3309">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-30" start_char="3311" end_char="3433">
+				<ORIGINAL_TEXT>One thing is for certain: there is nothing too low for the China and Russia to use as propaganda and to gain any advantage.</ORIGINAL_TEXT>
+				<TOKEN id="token-30-0" start_char="3311" end_char="3313">One</TOKEN>
+				<TOKEN id="token-30-1" start_char="3315" end_char="3319">thing</TOKEN>
+				<TOKEN id="token-30-2" start_char="3321" end_char="3322">is</TOKEN>
+				<TOKEN id="token-30-3" start_char="3324" end_char="3326">for</TOKEN>
+				<TOKEN id="token-30-4" start_char="3328" end_char="3334">certain</TOKEN>
+				<TOKEN id="token-30-5" start_char="3335" end_char="3335">:</TOKEN>
+				<TOKEN id="token-30-6" start_char="3337" end_char="3341">there</TOKEN>
+				<TOKEN id="token-30-7" start_char="3343" end_char="3344">is</TOKEN>
+				<TOKEN id="token-30-8" start_char="3346" end_char="3352">nothing</TOKEN>
+				<TOKEN id="token-30-9" start_char="3354" end_char="3356">too</TOKEN>
+				<TOKEN id="token-30-10" start_char="3358" end_char="3360">low</TOKEN>
+				<TOKEN id="token-30-11" start_char="3362" end_char="3364">for</TOKEN>
+				<TOKEN id="token-30-12" start_char="3366" end_char="3368">the</TOKEN>
+				<TOKEN id="token-30-13" start_char="3370" end_char="3374">China</TOKEN>
+				<TOKEN id="token-30-14" start_char="3376" end_char="3378">and</TOKEN>
+				<TOKEN id="token-30-15" start_char="3380" end_char="3385">Russia</TOKEN>
+				<TOKEN id="token-30-16" start_char="3387" end_char="3388">to</TOKEN>
+				<TOKEN id="token-30-17" start_char="3390" end_char="3392">use</TOKEN>
+				<TOKEN id="token-30-18" start_char="3394" end_char="3395">as</TOKEN>
+				<TOKEN id="token-30-19" start_char="3397" end_char="3406">propaganda</TOKEN>
+				<TOKEN id="token-30-20" start_char="3408" end_char="3410">and</TOKEN>
+				<TOKEN id="token-30-21" start_char="3412" end_char="3413">to</TOKEN>
+				<TOKEN id="token-30-22" start_char="3415" end_char="3418">gain</TOKEN>
+				<TOKEN id="token-30-23" start_char="3420" end_char="3422">any</TOKEN>
+				<TOKEN id="token-30-24" start_char="3424" end_char="3432">advantage</TOKEN>
+				<TOKEN id="token-30-25" start_char="3433" end_char="3433">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-31" start_char="3435" end_char="3482">
+				<ORIGINAL_TEXT>Even though it is all just fake news fertilizer.</ORIGINAL_TEXT>
+				<TOKEN id="token-31-0" start_char="3435" end_char="3438">Even</TOKEN>
+				<TOKEN id="token-31-1" start_char="3440" end_char="3445">though</TOKEN>
+				<TOKEN id="token-31-2" start_char="3447" end_char="3448">it</TOKEN>
+				<TOKEN id="token-31-3" start_char="3450" end_char="3451">is</TOKEN>
+				<TOKEN id="token-31-4" start_char="3453" end_char="3455">all</TOKEN>
+				<TOKEN id="token-31-5" start_char="3457" end_char="3460">just</TOKEN>
+				<TOKEN id="token-31-6" start_char="3462" end_char="3465">fake</TOKEN>
+				<TOKEN id="token-31-7" start_char="3467" end_char="3470">news</TOKEN>
+				<TOKEN id="token-31-8" start_char="3472" end_char="3481">fertilizer</TOKEN>
+				<TOKEN id="token-31-9" start_char="3482" end_char="3482">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-198-32" start_char="3484" end_char="3506">
+				<ORIGINAL_TEXT>[bsa_pro_ad_space id=4]</ORIGINAL_TEXT>
+				<TOKEN id="token-32-0" start_char="3484" end_char="3484">[</TOKEN>
+				<TOKEN id="token-32-1" start_char="3485" end_char="3500">bsa_pro_ad_space</TOKEN>
+				<TOKEN id="token-32-2" start_char="3502" end_char="3503">id</TOKEN>
+				<TOKEN id="token-32-3" start_char="3504" end_char="3504">=</TOKEN>
+				<TOKEN id="token-32-4" start_char="3505" end_char="3505">4</TOKEN>
+				<TOKEN id="token-32-5" start_char="3506" end_char="3506">]</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

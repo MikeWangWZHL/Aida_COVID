@@ -1,0 +1,28 @@
+T1	ORG 3 35	Organización Mundial de la Salud
+T2	ORG 45 54	entidades
+T3	PER 231 234	les
+T4	PER 253 263	ciudadanos
+T5	PER 394 402	personas
+T6	FAC 463 470	tiendas
+T7	FAC 473 486	supermercados
+T8	ORG 889 921	Organización Mundial de la Salud
+T9	PER 965 974	pacientes
+T10	ORG 1418 1421	OMS
+T11	ORG 1434 1443	organismo
+T12	PER 1475 1483	personas
+T13	PER 1505 1508	sus
+T14	PER 1923 1931	personas
+T15	ORG 2022 2028	portal
+T16	ORG 2029 2046	Apartment Therapy
+T17	PER 2051 2060	profesora
+T18	ORG 2084 2113	Universidad Simmons de Boston
+T19	PER 2115 2130	Elizabeth Scott
+T20	PER 2537 2539	su
+T21	PER 2560 2566	germen
+T22	PER 2568 2573	Todos
+T23	PER 2685 2692	nuestro
+T24	GPE 2693 2697	país
+T25	PER 2754 2759	gente
+T26	MHI 2932 2938	fiebre
+T27	PER 3058 3069	autoridades
+T28	FAC 3116 3120	casa

@@ -1,0 +1,29 @@
+T1	ORG 123 130	startup
+T2	GPE 131 138	alemana
+T3	FAC 271 277	puesto
+T4	PER 469 482	desarrollador
+T5	ORG 494 499	start
+T6	ORG 503 513	SunCrafter
+T7	ORG 527 535	compañía
+T8	GPE 536 543	alemana
+T9	FAC 581 588	granjas
+T10	GPE 638 649	comunidades
+T11	PER 665 668	nos
+T12	ORG 676 688	SciTechDaily
+T13	PER 720 733	Lisa Wendzich
+T14	PER 735 744	fundadora
+T15	PER 747 756	directora
+T16	ORG 770 780	SunCrafter
+T17	FAC 967 977	hospitales
+T18	FAC 990 1001	campamentos
+T19	PER 1005 1015	refugiados
+T20	FAC 1018 1025	barrios
+T21	GPE 1048 1054	países
+T22	LOC 1107 1115	espacios
+T23	GPE 1132 1138	países
+T24	PER 1182 1190	personas
+T25	GPE 1205 1211	países
+T26	ORG 1266 1272	centro
+T27	ORG 1305 1329	Agencia Espacial Europea
+T28	ORG 1331 1341	SunCrafter
+T29	PER 1353 1355	su

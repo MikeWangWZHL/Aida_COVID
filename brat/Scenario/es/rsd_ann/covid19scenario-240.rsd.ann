@@ -1,0 +1,104 @@
+T1	PER 65 72	algunos
+T2	PER 73 75	se
+T3	PER 131 133	su
+T4	FAC 134 138	casa
+T5	ORG 196 251	Centros para el Control y la Prevención de Enfermedades
+T6	PER 271 279	personas
+T7	PER 353 360	persona
+T8	FAC 374 378	casa
+T9	COM 415 426	mascarillas
+T10	PER 471 481	cuidadores
+T11	ORG 492 499	agencia
+T12	PER 529 541	funcionarios
+T13	LOC 573 601	Reserva Estratégica Nacional
+T14	PER 688 696	expertos
+T15	FAC 768 778	hospitales
+T16	PER 947 960	profesionales
+T17	PER 1118 1126	expertos
+T18	MHI 1196 1207	coronavirus
+T19	PER 1320 1327	algunos
+T20	PER 1487 1499	Chunhuei Chi
+T21	PER 1501 1509	director
+T22	ORG 1514 1577	Centro para la Salud Global de la Universidad Estatal de Oregón
+T23	GPE 1593 1599	Taiwán
+T24	PER 1605 1613	personas
+T25	LOC 1652 1659	lugares
+T26	FAC 1665 1673	escuelas
+T27	FAC 1676 1688	restaurantes
+T28	VEH 1713 1731	transporte público
+T29	GPE 1740 1744	isla
+T30	PER 1756 1764	millones
+T31	PER 1768 1776	personas
+T32	LOC 1798 1815	China continental
+T33	PER 1896 1901	gente
+T34	LOC 1912 1918	frente
+T35	FAC 1925 1933	farmacia
+T36	GPE 1934 1943	taiwanesa
+T37	PER 2000 2015	Paula Bronstein
+T38	ORG 2018 2030	Getty Images
+T39	PER 2139 2142	Chi
+T40	PER 2179 2181	Él
+T41	PER 2190 2198	expertos
+T42	PER 2354 2366	Loren Miller
+T43	PER 2368 2374	médico
+T44	PER 2377 2389	investigador
+T45	ORG 2394 2413	Lundquist Institute
+T46	GPE 2417 2425	Torrance
+T47	ORG 2453 2456	CDC
+T48	ORG 2470 2475	ellos
+T49	PER 2565 2573	aquellos
+T50	PER 2632 2644	trabajadores
+T51	PER 2677 2688	autoridades
+T52	PER 2706 2714	personas
+T53	PER 2792 2800	personas
+T54	PER 2811 2814	las
+T55	PER 2932 2935	Chi
+T56	PER 3018 3023	gente
+T57	VEH 3036 3043	autobús
+T58	PER 3053 3058	gente
+T59	PER 3116 3121	gente
+T60	PER 3318 3324	Miller
+T61	PER 3434 3441	usuario
+T62	PER 3575 3577	se
+T63	PER 3589 3591	se
+T64	PER 3609 3611	se
+T65	PER 3667 3669	se
+T66	ORG 3690 3693	CDC
+T67	PER 3808 3817	población
+T68	PER 3892 3895	Chi
+T69	PER 3910 3917	persona
+T70	PER 4186 4194	portador
+T71	PER 4236 4243	persona
+T72	PER 4289 4292	Chi
+T73	PER 4294 4300	Miller
+T74	PER 4416 4423	persona
+T75	PER 4448 4453	otros
+T76	PER 4456 4458	su
+T77	PER 4469 4471	se
+T78	PER 4496 4504	cirujano
+T79	FAC 4511 4515	sala
+T80	PER 4564 4574	enfermeras
+T81	PER 4581 4588	médicos
+T82	PER 4646 4654	paciente
+T83	PER 4697 4707	enfermeras
+T84	PER 4710 4717	médicos
+T85	PER 4776 4781	gente
+T86	PER 4819 4831	trabajadores
+T87	FAC 4836 4844	hospital
+T88	PER 4853 4865	ellos mismos
+T89	PER 4875 4878	Chi
+T90	PER 4892 4900	personas
+T91	PER 4927 4936	pacientes
+T92	MHI 4941 4949	COVID-19
+T93	PER 5022 5029	médicos
+T94	PER 5072 5080	personas
+T95	PER 5296 5299	Chi
+T96	PER 5392 5399	alguien
+T97	PER 5423 5425	te
+T98	PER 5508 5516	personas
+T99	PER 5568 5578	infectados
+T100	ORG 5743 5753	hospitales
+T101	ORG 5756 5764	clínicas
+T102	PER 5799 5813	investigadores
+T103	PER 5940 5946	Miller
+T104	PER 5948 5951	Chi

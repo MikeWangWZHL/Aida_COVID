@@ -1,0 +1,23 @@
+T1	GPE 23 29	Bogotá
+T2	ORG 56 88	Organización Mundial de la Salud
+T3	ORG 220 226	grupos
+T4	LOC 235 242	mundial
+T5	PER 478 499	José Alejandro Mojica
+T6	PER 501 507	médico
+T7	ORG 537 579	Subdirección de Enfermedades Transmisibles
+T8	ORG 584 623	Ministerio de Salud y Protección Social
+T9	PER 684 692	personas
+T10	PER 821 828	huésped
+T11	ORG 850 853	OMS
+T12	PER 987 993	Mojica
+T13	ORG 1047 1054	revista
+T14	ORG 1055 1073	Scientific Reports
+T15	MHI 1138 1147	SARS-CoV-
+T16	PER 1286 1293	persona
+T17	PER 1342 1345	los
+T18	PER 1463 1471	personas
+T19	LOC 1486 1491	mundo
+T20	PER 2129 2132	dos
+T21	PER 2136 2141	ellos
+T22	PER 2272 2278	Mojica
+T23	PER 2721 2728	persona

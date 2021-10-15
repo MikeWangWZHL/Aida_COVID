@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-171">
+		<TEXT>
+			<SEG id="covid19scenario-171-0" start_char="0" end_char="101">
+				<ORIGINAL_TEXT>Facing an accelerating spread of Covid-19, Italy and Japan have closed schools to impede the epidemic.</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="5">Facing</TOKEN>
+				<TOKEN id="token-0-1" start_char="7" end_char="8">an</TOKEN>
+				<TOKEN id="token-0-2" start_char="10" end_char="21">accelerating</TOKEN>
+				<TOKEN id="token-0-3" start_char="23" end_char="28">spread</TOKEN>
+				<TOKEN id="token-0-4" start_char="30" end_char="31">of</TOKEN>
+				<TOKEN id="token-0-5" start_char="33" end_char="37">Covid</TOKEN>
+				<TOKEN id="token-0-6" start_char="38" end_char="38">-</TOKEN>
+				<TOKEN id="token-0-7" start_char="39" end_char="40">19</TOKEN>
+				<TOKEN id="token-0-8" start_char="41" end_char="41">,</TOKEN>
+				<TOKEN id="token-0-9" start_char="43" end_char="47">Italy</TOKEN>
+				<TOKEN id="token-0-10" start_char="49" end_char="51">and</TOKEN>
+				<TOKEN id="token-0-11" start_char="53" end_char="57">Japan</TOKEN>
+				<TOKEN id="token-0-12" start_char="59" end_char="62">have</TOKEN>
+				<TOKEN id="token-0-13" start_char="64" end_char="69">closed</TOKEN>
+				<TOKEN id="token-0-14" start_char="71" end_char="77">schools</TOKEN>
+				<TOKEN id="token-0-15" start_char="79" end_char="80">to</TOKEN>
+				<TOKEN id="token-0-16" start_char="82" end_char="87">impede</TOKEN>
+				<TOKEN id="token-0-17" start_char="89" end_char="91">the</TOKEN>
+				<TOKEN id="token-0-18" start_char="93" end_char="100">epidemic</TOKEN>
+				<TOKEN id="token-0-19" start_char="101" end_char="101">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-171-1" start_char="103" end_char="269">
+				<ORIGINAL_TEXT>Some communities in the United States have done so too, agreeing to significantly disrupt people’s lives on the theory that it will prevent deaths and serious illness.</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="103" end_char="106">Some</TOKEN>
+				<TOKEN id="token-1-1" start_char="108" end_char="118">communities</TOKEN>
+				<TOKEN id="token-1-2" start_char="120" end_char="121">in</TOKEN>
+				<TOKEN id="token-1-3" start_char="123" end_char="125">the</TOKEN>
+				<TOKEN id="token-1-4" start_char="127" end_char="132">United</TOKEN>
+				<TOKEN id="token-1-5" start_char="134" end_char="139">States</TOKEN>
+				<TOKEN id="token-1-6" start_char="141" end_char="144">have</TOKEN>
+				<TOKEN id="token-1-7" start_char="146" end_char="149">done</TOKEN>
+				<TOKEN id="token-1-8" start_char="151" end_char="152">so</TOKEN>
+				<TOKEN id="token-1-9" start_char="154" end_char="156">too</TOKEN>
+				<TOKEN id="token-1-10" start_char="157" end_char="157">,</TOKEN>
+				<TOKEN id="token-1-11" start_char="159" end_char="166">agreeing</TOKEN>
+				<TOKEN id="token-1-12" start_char="168" end_char="169">to</TOKEN>
+				<TOKEN id="token-1-13" start_char="171" end_char="183">significantly</TOKEN>
+				<TOKEN id="token-1-14" start_char="185" end_char="191">disrupt</TOKEN>
+				<TOKEN id="token-1-15" start_char="193" end_char="198">people</TOKEN>
+				<TOKEN id="token-1-16" start_char="199" end_char="199">’</TOKEN>
+				<TOKEN id="token-1-17" start_char="200" end_char="200">s</TOKEN>
+				<TOKEN id="token-1-18" start_char="202" end_char="206">lives</TOKEN>
+				<TOKEN id="token-1-19" start_char="208" end_char="209">on</TOKEN>
+				<TOKEN id="token-1-20" start_char="211" end_char="213">the</TOKEN>
+				<TOKEN id="token-1-21" start_char="215" end_char="220">theory</TOKEN>
+				<TOKEN id="token-1-22" start_char="222" end_char="225">that</TOKEN>
+				<TOKEN id="token-1-23" start_char="227" end_char="228">it</TOKEN>
+				<TOKEN id="token-1-24" start_char="230" end_char="233">will</TOKEN>
+				<TOKEN id="token-1-25" start_char="235" end_char="241">prevent</TOKEN>
+				<TOKEN id="token-1-26" start_char="243" end_char="248">deaths</TOKEN>
+				<TOKEN id="token-1-27" start_char="250" end_char="252">and</TOKEN>
+				<TOKEN id="token-1-28" start_char="254" end_char="260">serious</TOKEN>
+				<TOKEN id="token-1-29" start_char="262" end_char="268">illness</TOKEN>
+				<TOKEN id="token-1-30" start_char="269" end_char="269">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-171-2" start_char="271" end_char="344">
+				<ORIGINAL_TEXT>But there is no clear evidence that such measures will slow this outbreak.</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="271" end_char="273">But</TOKEN>
+				<TOKEN id="token-2-1" start_char="275" end_char="279">there</TOKEN>
+				<TOKEN id="token-2-2" start_char="281" end_char="282">is</TOKEN>
+				<TOKEN id="token-2-3" start_char="284" end_char="285">no</TOKEN>
+				<TOKEN id="token-2-4" start_char="287" end_char="291">clear</TOKEN>
+				<TOKEN id="token-2-5" start_char="293" end_char="300">evidence</TOKEN>
+				<TOKEN id="token-2-6" start_char="302" end_char="305">that</TOKEN>
+				<TOKEN id="token-2-7" start_char="307" end_char="310">such</TOKEN>
+				<TOKEN id="token-2-8" start_char="312" end_char="319">measures</TOKEN>
+				<TOKEN id="token-2-9" start_char="321" end_char="324">will</TOKEN>
+				<TOKEN id="token-2-10" start_char="326" end_char="329">slow</TOKEN>
+				<TOKEN id="token-2-11" start_char="331" end_char="334">this</TOKEN>
+				<TOKEN id="token-2-12" start_char="336" end_char="343">outbreak</TOKEN>
+				<TOKEN id="token-2-13" start_char="344" end_char="344">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-171-3" start_char="346" end_char="548">
+				<ORIGINAL_TEXT>Most of what we know about the impact of school closings on disease transmission relates to influenza, to which children can be particularly vulnerable, sometimes dying or becoming seriously ill from it.</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="346" end_char="349">Most</TOKEN>
+				<TOKEN id="token-3-1" start_char="351" end_char="352">of</TOKEN>
+				<TOKEN id="token-3-2" start_char="354" end_char="357">what</TOKEN>
+				<TOKEN id="token-3-3" start_char="359" end_char="360">we</TOKEN>
+				<TOKEN id="token-3-4" start_char="362" end_char="365">know</TOKEN>
+				<TOKEN id="token-3-5" start_char="367" end_char="371">about</TOKEN>
+				<TOKEN id="token-3-6" start_char="373" end_char="375">the</TOKEN>
+				<TOKEN id="token-3-7" start_char="377" end_char="382">impact</TOKEN>
+				<TOKEN id="token-3-8" start_char="384" end_char="385">of</TOKEN>
+				<TOKEN id="token-3-9" start_char="387" end_char="392">school</TOKEN>
+				<TOKEN id="token-3-10" start_char="394" end_char="401">closings</TOKEN>
+				<TOKEN id="token-3-11" start_char="403" end_char="404">on</TOKEN>
+				<TOKEN id="token-3-12" start_char="406" end_char="412">disease</TOKEN>
+				<TOKEN id="token-3-13" start_char="414" end_char="425">transmission</TOKEN>
+				<TOKEN id="token-3-14" start_char="427" end_char="433">relates</TOKEN>
+				<TOKEN id="token-3-15" start_char="435" end_char="436">to</TOKEN>
+				<TOKEN id="token-3-16" start_char="438" end_char="446">influenza</TOKEN>
+				<TOKEN id="token-3-17" start_char="447" end_char="447">,</TOKEN>
+				<TOKEN id="token-3-18" start_char="449" end_char="450">to</TOKEN>
+				<TOKEN id="token-3-19" start_char="452" end_char="456">which</TOKEN>
+				<TOKEN id="token-3-20" start_char="458" end_char="465">children</TOKEN>
+				<TOKEN id="token-3-21" start_char="467" end_char="469">can</TOKEN>
+				<TOKEN id="token-3-22" start_char="471" end_char="472">be</TOKEN>
+				<TOKEN id="token-3-23" start_char="474" end_char="485">particularly</TOKEN>
+				<TOKEN id="token-3-24" start_char="487" end_char="496">vulnerable</TOKEN>
+				<TOKEN id="token-3-25" start_char="497" end_char="497">,</TOKEN>
+				<TOKEN id="token-3-26" start_char="499" end_char="507">sometimes</TOKEN>
+				<TOKEN id="token-3-27" start_char="509" end_char="513">dying</TOKEN>
+				<TOKEN id="token-3-28" start_char="515" end_char="516">or</TOKEN>
+				<TOKEN id="token-3-29" start_char="518" end_char="525">becoming</TOKEN>
+				<TOKEN id="token-3-30" start_char="527" end_char="535">seriously</TOKEN>
+				<TOKEN id="token-3-31" start_char="537" end_char="539">ill</TOKEN>
+				<TOKEN id="token-3-32" start_char="541" end_char="544">from</TOKEN>
+				<TOKEN id="token-3-33" start_char="546" end_char="547">it</TOKEN>
+				<TOKEN id="token-3-34" start_char="548" end_char="548">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-171-4" start_char="550" end_char="708">
+				<ORIGINAL_TEXT>Children are important drivers of influenza infections because they have more interactions with people than do most adults and also give off more of the virus.</ORIGINAL_TEXT>
+				<TOKEN id="token-4-0" start_char="550" end_char="557">Children</TOKEN>
+				<TOKEN id="token-4-1" start_char="559" end_char="561">are</TOKEN>
+				<TOKEN id="token-4-2" start_char="563" end_char="571">important</TOKEN>
+				<TOKEN id="token-4-3" start_char="573" end_char="579">drivers</TOKEN>
+				<TOKEN id="token-4-4" start_char="581" end_char="582">of</TOKEN>
+				<TOKEN id="token-4-5" start_char="584" end_char="592">influenza</TOKEN>
+				<TOKEN id="token-4-6" start_char="594" end_char="603">infections</TOKEN>
+				<TOKEN id="token-4-7" start_char="605" end_char="611">because</TOKEN>
+				<TOKEN id="token-4-8" start_char="613" end_char="616">they</TOKEN>
+				<TOKEN id="token-4-9" start_char="618" end_char="621">have</TOKEN>
+				<TOKEN id="token-4-10" start_char="623" end_char="626">more</TOKEN>
+				<TOKEN id="token-4-11" start_char="628" end_char="639">interactions</TOKEN>
+				<TOKEN id="token-4-12" start_char="641" end_char="644">with</TOKEN>
+				<TOKEN id="token-4-13" start_char="646" end_char="651">people</TOKEN>
+				<TOKEN id="token-4-14" start_char="653" end_char="656">than</TOKEN>
+				<TOKEN id="token-4-15" start_char="658" end_char="659">do</TOKEN>
+				<TOKEN id="token-4-16" start_char="661" end_char="664">most</TOKEN>
+				<TOKEN id="token-4-17" start_char="666" end_char="671">adults</TOKEN>
+				<TOKEN id="token-4-18" start_char="673" end_char="675">and</TOKEN>
+				<TOKEN id="token-4-19" start_char="677" end_char="680">also</TOKEN>
+				<TOKEN id="token-4-20" start_char="682" end_char="685">give</TOKEN>
+				<TOKEN id="token-4-21" start_char="687" end_char="689">off</TOKEN>
+				<TOKEN id="token-4-22" start_char="691" end_char="694">more</TOKEN>
+				<TOKEN id="token-4-23" start_char="696" end_char="697">of</TOKEN>
+				<TOKEN id="token-4-24" start_char="699" end_char="701">the</TOKEN>
+				<TOKEN id="token-4-25" start_char="703" end_char="707">virus</TOKEN>
+				<TOKEN id="token-4-26" start_char="708" end_char="708">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-171-5" start_char="710" end_char="806">
+				<ORIGINAL_TEXT>Closing schools, it is assumed, reduces the number of contacts and thus the rate of transmission.</ORIGINAL_TEXT>
+				<TOKEN id="token-5-0" start_char="710" end_char="716">Closing</TOKEN>
+				<TOKEN id="token-5-1" start_char="718" end_char="724">schools</TOKEN>
+				<TOKEN id="token-5-2" start_char="725" end_char="725">,</TOKEN>
+				<TOKEN id="token-5-3" start_char="727" end_char="728">it</TOKEN>
+				<TOKEN id="token-5-4" start_char="730" end_char="731">is</TOKEN>
+				<TOKEN id="token-5-5" start_char="733" end_char="739">assumed</TOKEN>
+				<TOKEN id="token-5-6" start_char="740" end_char="740">,</TOKEN>
+				<TOKEN id="token-5-7" start_char="742" end_char="748">reduces</TOKEN>
+				<TOKEN id="token-5-8" start_char="750" end_char="752">the</TOKEN>
+				<TOKEN id="token-5-9" start_char="754" end_char="759">number</TOKEN>
+				<TOKEN id="token-5-10" start_char="761" end_char="762">of</TOKEN>
+				<TOKEN id="token-5-11" start_char="764" end_char="771">contacts</TOKEN>
+				<TOKEN id="token-5-12" start_char="773" end_char="775">and</TOKEN>
+				<TOKEN id="token-5-13" start_char="777" end_char="780">thus</TOKEN>
+				<TOKEN id="token-5-14" start_char="782" end_char="784">the</TOKEN>
+				<TOKEN id="token-5-15" start_char="786" end_char="789">rate</TOKEN>
+				<TOKEN id="token-5-16" start_char="791" end_char="792">of</TOKEN>
+				<TOKEN id="token-5-17" start_char="794" end_char="805">transmission</TOKEN>
+				<TOKEN id="token-5-18" start_char="806" end_char="806">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-171-6" start_char="808" end_char="887">
+				<ORIGINAL_TEXT>During the 2009 H1N1 influenza pandemic, schools across the country were closed.</ORIGINAL_TEXT>
+				<TOKEN id="token-6-0" start_char="808" end_char="813">During</TOKEN>
+				<TOKEN id="token-6-1" start_char="815" end_char="817">the</TOKEN>
+				<TOKEN id="token-6-2" start_char="819" end_char="822">2009</TOKEN>
+				<TOKEN id="token-6-3" start_char="824" end_char="827">H1N1</TOKEN>
+				<TOKEN id="token-6-4" start_char="829" end_char="837">influenza</TOKEN>
+				<TOKEN id="token-6-5" start_char="839" end_char="846">pandemic</TOKEN>
+				<TOKEN id="token-6-6" start_char="847" end_char="847">,</TOKEN>
+				<TOKEN id="token-6-7" start_char="849" end_char="855">schools</TOKEN>
+				<TOKEN id="token-6-8" start_char="857" end_char="862">across</TOKEN>
+				<TOKEN id="token-6-9" start_char="864" end_char="866">the</TOKEN>
+				<TOKEN id="token-6-10" start_char="868" end_char="874">country</TOKEN>
+				<TOKEN id="token-6-11" start_char="876" end_char="879">were</TOKEN>
+				<TOKEN id="token-6-12" start_char="881" end_char="886">closed</TOKEN>
+				<TOKEN id="token-6-13" start_char="887" end_char="887">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-171-7" start_char="889" end_char="896">
+				<ORIGINAL_TEXT>A C.D.C.</ORIGINAL_TEXT>
+				<TOKEN id="token-7-0" start_char="889" end_char="889">A</TOKEN>
+				<TOKEN id="token-7-1" start_char="891" end_char="891">C</TOKEN>
+				<TOKEN id="token-7-2" start_char="892" end_char="892">.</TOKEN>
+				<TOKEN id="token-7-3" start_char="893" end_char="893">D</TOKEN>
+				<TOKEN id="token-7-4" start_char="894" end_char="894">.</TOKEN>
+				<TOKEN id="token-7-5" start_char="895" end_char="895">C</TOKEN>
+				<TOKEN id="token-7-6" start_char="896" end_char="896">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-171-8" start_char="898" end_char="1107">
+				<ORIGINAL_TEXT>study showed that parents largely supported these measures, but other studies found that children frequently got together outside the home or visited public sites, despite official recommendations not to do so.</ORIGINAL_TEXT>
+				<TOKEN id="token-8-0" start_char="898" end_char="902">study</TOKEN>
+				<TOKEN id="token-8-1" start_char="904" end_char="909">showed</TOKEN>
+				<TOKEN id="token-8-2" start_char="911" end_char="914">that</TOKEN>
+				<TOKEN id="token-8-3" start_char="916" end_char="922">parents</TOKEN>
+				<TOKEN id="token-8-4" start_char="924" end_char="930">largely</TOKEN>
+				<TOKEN id="token-8-5" start_char="932" end_char="940">supported</TOKEN>
+				<TOKEN id="token-8-6" start_char="942" end_char="946">these</TOKEN>
+				<TOKEN id="token-8-7" start_char="948" end_char="955">measures</TOKEN>
+				<TOKEN id="token-8-8" start_char="956" end_char="956">,</TOKEN>
+				<TOKEN id="token-8-9" start_char="958" end_char="960">but</TOKEN>
+				<TOKEN id="token-8-10" start_char="962" end_char="966">other</TOKEN>
+				<TOKEN id="token-8-11" start_char="968" end_char="974">studies</TOKEN>
+				<TOKEN id="token-8-12" start_char="976" end_char="980">found</TOKEN>
+				<TOKEN id="token-8-13" start_char="982" end_char="985">that</TOKEN>
+				<TOKEN id="token-8-14" start_char="987" end_char="994">children</TOKEN>
+				<TOKEN id="token-8-15" start_char="996" end_char="1005">frequently</TOKEN>
+				<TOKEN id="token-8-16" start_char="1007" end_char="1009">got</TOKEN>
+				<TOKEN id="token-8-17" start_char="1011" end_char="1018">together</TOKEN>
+				<TOKEN id="token-8-18" start_char="1020" end_char="1026">outside</TOKEN>
+				<TOKEN id="token-8-19" start_char="1028" end_char="1030">the</TOKEN>
+				<TOKEN id="token-8-20" start_char="1032" end_char="1035">home</TOKEN>
+				<TOKEN id="token-8-21" start_char="1037" end_char="1038">or</TOKEN>
+				<TOKEN id="token-8-22" start_char="1040" end_char="1046">visited</TOKEN>
+				<TOKEN id="token-8-23" start_char="1048" end_char="1053">public</TOKEN>
+				<TOKEN id="token-8-24" start_char="1055" end_char="1059">sites</TOKEN>
+				<TOKEN id="token-8-25" start_char="1060" end_char="1060">,</TOKEN>
+				<TOKEN id="token-8-26" start_char="1062" end_char="1068">despite</TOKEN>
+				<TOKEN id="token-8-27" start_char="1070" end_char="1077">official</TOKEN>
+				<TOKEN id="token-8-28" start_char="1079" end_char="1093">recommendations</TOKEN>
+				<TOKEN id="token-8-29" start_char="1095" end_char="1097">not</TOKEN>
+				<TOKEN id="token-8-30" start_char="1099" end_char="1100">to</TOKEN>
+				<TOKEN id="token-8-31" start_char="1102" end_char="1103">do</TOKEN>
+				<TOKEN id="token-8-32" start_char="1105" end_char="1106">so</TOKEN>
+				<TOKEN id="token-8-33" start_char="1107" end_char="1107">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-171-9" start_char="1109" end_char="1247">
+				<ORIGINAL_TEXT>Fortunately, schools reopened in less than three days in most cases because data showed the flu strain wasn’t as severe as had been feared.</ORIGINAL_TEXT>
+				<TOKEN id="token-9-0" start_char="1109" end_char="1119">Fortunately</TOKEN>
+				<TOKEN id="token-9-1" start_char="1120" end_char="1120">,</TOKEN>
+				<TOKEN id="token-9-2" start_char="1122" end_char="1128">schools</TOKEN>
+				<TOKEN id="token-9-3" start_char="1130" end_char="1137">reopened</TOKEN>
+				<TOKEN id="token-9-4" start_char="1139" end_char="1140">in</TOKEN>
+				<TOKEN id="token-9-5" start_char="1142" end_char="1145">less</TOKEN>
+				<TOKEN id="token-9-6" start_char="1147" end_char="1150">than</TOKEN>
+				<TOKEN id="token-9-7" start_char="1152" end_char="1156">three</TOKEN>
+				<TOKEN id="token-9-8" start_char="1158" end_char="1161">days</TOKEN>
+				<TOKEN id="token-9-9" start_char="1163" end_char="1164">in</TOKEN>
+				<TOKEN id="token-9-10" start_char="1166" end_char="1169">most</TOKEN>
+				<TOKEN id="token-9-11" start_char="1171" end_char="1175">cases</TOKEN>
+				<TOKEN id="token-9-12" start_char="1177" end_char="1183">because</TOKEN>
+				<TOKEN id="token-9-13" start_char="1185" end_char="1188">data</TOKEN>
+				<TOKEN id="token-9-14" start_char="1190" end_char="1195">showed</TOKEN>
+				<TOKEN id="token-9-15" start_char="1197" end_char="1199">the</TOKEN>
+				<TOKEN id="token-9-16" start_char="1201" end_char="1203">flu</TOKEN>
+				<TOKEN id="token-9-17" start_char="1205" end_char="1210">strain</TOKEN>
+				<TOKEN id="token-9-18" start_char="1212" end_char="1215">wasn</TOKEN>
+				<TOKEN id="token-9-19" start_char="1216" end_char="1216">’</TOKEN>
+				<TOKEN id="token-9-20" start_char="1217" end_char="1217">t</TOKEN>
+				<TOKEN id="token-9-21" start_char="1219" end_char="1220">as</TOKEN>
+				<TOKEN id="token-9-22" start_char="1222" end_char="1227">severe</TOKEN>
+				<TOKEN id="token-9-23" start_char="1229" end_char="1230">as</TOKEN>
+				<TOKEN id="token-9-24" start_char="1232" end_char="1234">had</TOKEN>
+				<TOKEN id="token-9-25" start_char="1236" end_char="1239">been</TOKEN>
+				<TOKEN id="token-9-26" start_char="1241" end_char="1246">feared</TOKEN>
+				<TOKEN id="token-9-27" start_char="1247" end_char="1247">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

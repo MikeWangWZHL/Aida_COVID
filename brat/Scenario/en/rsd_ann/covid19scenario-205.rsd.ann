@@ -1,0 +1,33 @@
+T1	PER 0 8	Disproof
+T2	GPE 23 30	Kremlin
+T3	ORG 101 125	Joint International Team
+T4	ORG 127 130	JIT
+T5	VEH 152 163	flight MH17
+T6	GPE 253 260	Russian
+T7	PER 261 269	national
+T8	PER 433 439	lawyer
+T9	PER 447 456	defendant
+T10	ORG 486 518	Dutch Public Prosecution Service
+T11	ORG 634 660	Public Prosecution Service
+T12	GPE 672 679	Russian
+T13	GPE 828 833	Dutch
+T14	ORG 912 938	Public Prosecution Service
+T15	GPE 967 974	Russian
+T16	PER 1066 1075	defendant
+T17	PER 1076 1083	Pulatov
+T18	GPE 1095 1100	Dutch
+T19	ORG 1130 1156	Public Prosecution Service
+T20	PER 1204 1213	defendant
+T21	ORG 1287 1313	Public Prosecution Service
+T22	PER 1438 1441	his
+T23	PER 1442 1449	counsel
+T24	PER 1470 1481	interpreter
+T25	PER 1485 1488	his
+T26	GPE 1489 1496	Russian
+T27	PER 1497 1503	lawyer
+T28	PER 1510 1519	defendant
+T29	PER 1579 1581	he
+T30	PER 1752 1759	counsel
+T31	PER 1796 1803	defence
+T32	GPE 1864 1869	Dutch
+T33	LOC 1935 1943	European

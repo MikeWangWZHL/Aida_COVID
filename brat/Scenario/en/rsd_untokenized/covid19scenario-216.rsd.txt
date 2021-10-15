@@ -1,0 +1,61 @@
+The adverse event profile for remdesivir as a treatment for COVID-19 remains murky, although liver and kidney risks are emerging.
+"Because we're kind of moving at warp speed, the reporting on that has some unusual aspects," noted Barbara Young, PharmD, of the American Society of Health-System Pharmacists (ASHP).
+"We're getting emerging information, but it's certainly not what we're used to getting from clinical trials on most drugs that go through the FDA approval process."
+The first human safety data for remdesivir came from the Ebola virus treatment setting, where the nucleotide analogue and polymerase inhibitor drug had what one review called "an acceptable safety profile," although it wasn't more effective than other experimental options tried in the PALM trial.
+The only adverse events reported in that trial were deaths, and the only one adjudicated as possibly related to remdesivir was one case of hypotension followed rapidly by cardiac arrest.
+Hypotension and other infusion reactions would not be a surprise for an IV drug, noted Young, who is editor of ASHP patient medication information.
+However, the event could just as easily have been from the underlying fulminant Ebola virus disease itself, the researchers cautioned in the New England Journal of Medicine paper.
+Infusion-related reactions were noted as potential side effects, along with increased liver enzymes in the FDA's announcement May 1 of emergency use authorization of the antiviral drug for severe COVID-19.
+"It was surprising when these came out; it had a very short side effect list.
+It's either the safest drug there is or...," Young said, trailing off.
+"But my caution is I just think it hasn't been used widely enough for all the reporting."
+That authorization was based on the only two published datasets with remdesivir, and some highly anticipated data described in press releases so far, suggesting clinical benefit in COVID-19 from the NIH ACTT randomized trial and from Gilead's phase III SIMPLE randomized trial.
+A second SIMPLE trial in moderate-severity COVID-19 is expected out at the end of the month.
+Liver Risks
+
+Adverse event risk involving the liver has been one of the clearest potential risks from remdesivir.
+Liver enzyme increases in the SIMPLE trial included 7% of patients with grade 3 or higher alanine aminotransferase elevations and 3% who stopped the drug over elevated liver enzymes.
+Compassionate use data on 61 severe COVID-19 cases treated with the drug, published in the New England Journal of Medicine in April, showed that hepatic enzyme increases were by far the most common adverse event, occurring in 23% of patients.
+Hypotension was seen in 8%.
+However, in the randomized trial from China, stopped early at an enrollment of 237 patients and published in The Lancet, elevated aspartate aminotransferase was actually less common in the remdesivir group than with placebo (5% vs 12%).
+Alanine aminotransferase elevation led to treatment discontinuation in one patient and acute kidney injury (AKI) prompted it in another.
+Early antiviral agents developed for HIV often had issues with mitochondrial damage that could lead to liver failure, noted Matthew Spinelli, MD, an infectious diseases specialist at the University of California San Francisco, which has dosed remdesivir as part of blinded randomized studies.
+"Most of the modern antivirals and antiretrovirals for HIV don't have too much liver toxicity," he said.
+"It's possible to design antivirals that don't have serious side effects."
+"The really challenging thing is that severe COVID-19 disease, as well as sepsis from pretty much any pathogen, including viruses, can result in damage to the liver," he cautioned.
+He called the Chinese trial data somewhat reassuring, but "without more randomized, controlled trial data it's hard to know exactly how much we need to worry about the liver toxicity issue."
+The FDA's professional information sheet, which is akin to the prescribing information that would come with an approved drug, called for hepatic laboratory testing on all patients prior to starting remdesivir and daily while receiving it.
+How the drug works in people with liver problems hasn't been tested.
+"It is not known if dosage adjustment is needed in patients with hepatic impairment and remdesivir should only be used in patients with hepatic impairment if the potential benefit outweighs the potential risk," the information sheet said.
+The European Medicines Agency summary warned against use in patients with liver enzymes five or more times the upper limit of normal.
+Kidney Risks
+
+Remdesivir has some structural and functional similarities with the antiviral drug tenofovir (Vemlidy, Viread) used in HIV and hepatitis B infection, Spinelli noted, and "we know that that drug has issues with the kidneys."
+Rat model studies showed low-level injury to the kidney cortical tubules from remdesivir.
+In humans, remdesivir appears to be cleared largely by the kidneys, which could lead to accumulation of the drug in those with poor renal function, Young noted.
+"Certainly someone who already had compromised renal function is going to be affected differently."
+The published compassionate use study showed AKI in 6% of remdesivir-treated patients and serious such cases in 4%.
+One patient had to discontinue the drug due to worsening of preexisting renal failure.
+The Chinese trial showed a 1% rate of AKI.
+The FDA emergency use authorization called for liver function testing on all patients before dosing.
+"Remdesivir is not recommended in adult and pediatric patients (>28 days old) with eGFR less than 30 mL/min or in full-term neonates (≥7 days to ≤28 days old) with serum creatinine greater than or equal to 1 mg/dL unless the potential benefit outweighs the potential risk."
+"We're certainly willing to tolerate some toxicity in people who are at such high risk of death if the drug continues to appear effective in studies," Spinelli concluded.
+Of course, severe COVID-19 itself also has a known risk of AKI.
+"You're not sure what's an effect of the disease progression versus the drug being used, and they're also often using combinations of medications," Young noted.
+"It's a very complex situation."
+Other Concerns
+
+Cardiovascular adverse effects haven't loomed large as with the prior frontrunner for COVID-19 treatment, hydroxychloroquine.
+For remdesivir, one review in the American Journal of Emergency Medicine cited concern about cardiac arrhythmias, but another in Cardiovascular Research called CV effects and toxicities unknown.
+Preclinical monkey studies suggested no effect on cardiovascular parameters.
+Lower grade GI adverse effects like nausea and diarrhea have also been reported in the 3% to 5% range in data so far, but again can be a symptom of COVID-19 as well.
+The true rate of events and less common risks will become clear as remdesivir is used more widely, Young predicted.
+"The populations it has been studied for have really been small in the world of drug approvals."
+Remdesivir was rushed along due to infectious diseases outbreaks and not expected to have a huge market, so a lot of the pharmacokinetics and pharmacodynamics studies typical for a drug headed to market have not been done in humans.
+"There's really no information here even on drug interactions, which as a pharmacist is something we always look for," Young said.
+"This is a really unusual situation for a drug to be used outside of the routine drug approval process, and there's just less information available and able to be reported at this time."
+Some of the drugs being tried for COVID-19 have been problematic for interactions, like lopinavir/ritonavir.
+Early on, it looked like remdesivir might have CYP3A4-mediated drug interactions, but that hasn't been borne out so far clinically, wrote Daniel Streetman, PharmD, of the University of Michigan in Flint, on the Wolters Kluwer site.
+Still, "pharmacokinetic interactions cannot be completely ruled out without more specific data, and it seems prudent to minimize the concurrent use of any nonessential medications whenever possible."
+Crystal Phend focuses on cardiology as an associate editor at MedPage Today.
+Follow

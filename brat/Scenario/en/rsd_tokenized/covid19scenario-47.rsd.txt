@@ -1,0 +1,86 @@
+-- Authorization Enables Broader Use of Remdesivir to Treat Hospitalized Patients with Severe COVID-19 Disease in the United States --
+-- Based on Patients’ Severity of Disease, Authorization Allows 5-day and 10-day Treatment Durations --
+FOSTER CITY, Calif.--(BUSINESS WIRE)-- Gilead Sciences, Inc. (Nasdaq: GILD) today announced that the U.S. Food and Drug Administration (FDA) has granted emergency use authorization (EUA) for the investigational antiviral remdesivir to treat COVID-19.
+The EUA will facilitate broader use of remdesivir to treat hospitalized patients with severe COVID-19 disease, enabling access to remdesivir at additional hospitals across the country.
+Allocation of the currently limited available supply of remdesivir will be made based on guiding principles that aim to maximize access for appropriate patients in urgent need of treatment, with direction from and in collaboration with the government.
+Remdesivir is authorized for the treatment of hospitalized patients with severe COVID-19 disease.
+The optimal duration of treatment is still being studied in ongoing clinical trials.
+Under the EUA, both 5-day and 10-day treatment durations are suggested, based on the severity of disease.
+The authorization is temporary and does not take the place of the formal new drug application submission, review and approval process.
+The EUA allows for the distribution and emergency use of remdesivir only for the treatment of COVID-19; remdesivir remains an investigational drug and has not been approved by FDA.
+The U.S. government will coordinate the donation and distribution of remdesivir to hospitals in cities most heavily impacted by COVID-19.
+Given the severity of illness of patients appropriate for remdesivir treatment and the limited availability of drug supply, hospitals with intensive care units and other hospitals that the government deems most in need will receive priority in the distribution of remdesivir.
+Gilead is working with the U.S. government on the logistics of remdesivir distribution and will provide more information when the company begins shipping the drug under the EUA.
+“This EUA opens the way for us to provide emergency use of remdesivir to more patients with severe symptoms of COVID-19,” said Daniel O’Day, Chairman and Chief Executive Officer of Gilead Sciences.
+“We will continue to work with partners across the globe to increase our supply of remdesivir while advancing our ongoing clinical trials to supplement our understanding of the drug’s profile.
+We are working to meet the needs of patients, their families and healthcare workers around the world with the greatest sense of urgency and responsibility.”
+The EUA is based on available data from two global clinical trials – the National Institute for Allergy and Infectious Diseases’ placebo-controlled Phase 3 study in patients with moderate to severe symptoms of COVID-19, including those who were critically ill, and Gilead’s global Phase 3 study evaluating 5-day and 10-day dosing durations of remdesivir in patients with severe disease.
+Multiple additional clinical trials are ongoing to generate more data on the safety and efficacy of remdesivir as a treatment for COVID-19.
+Remdesivir must be administered intravenously.
+The optimal dosing and duration of remdesivir for the treatment of COVID-19 is still unknown.
+Under this EUA, the 10-day dosing duration is suggested for patients requiring invasive mechanical ventilation and/or extracorporeal membrane oxygenation (ECMO), and the 5-day dosing duration is suggested for patients not requiring invasive mechanical ventilation and/or ECMO.
+If a patient on the 5-day dosing duration does not demonstrate clinical improvement after five days, treatment may be extended for up to five additional days (10 days total).
+As previously announced, Gilead has donated the entirety of its existing supply of finished and unfinished product to help address the urgent medical needs posed by this pandemic around the world.
+Assuming a 10-day treatment course, Gilead’s donation of 1.5 million individual doses of remdesivir equates to more than 140,000 treatment courses that will be provided at no cost to treat patients following potential emergency authorizations and regulatory approvals, including this EUA.
+Gilead will continue to support clinical trials, and expanded access and compassionate use programs for remdesivir.
+In addition, Gilead will evaluate global allocation of supply on an ongoing basis using multiple, independent data sources to track the incidence and severity of the outbreak.
+An EUA is intended to provide availability of a medicine during an emergency; an EUA is not the equivalent of an FDA approval.
+See below for important information about remdesivir.
+Scale-Up of Remdesivir Supply
+Gilead has aggressively implemented a multipronged approach to scale up production and rapidly build supply of the investigational antiviral remdesivir.
+The company has invested significant capital, at risk, to meet the supply needs for clinical trials and emergency treatment programs, and to prepare for even greater demand following regulatory authorizations, should these occur.
+Through process refinements, Gilead has substantially shortened the manufacturing lead time from raw materials through to finished product.
+Gilead has also supplemented internal manufacturing with significant additional capacity from multiple partners in North America, Europe and Asia.
+The company has set a goal of producing at least 500,000 treatment courses by October, 1 million treatment courses by December 2020 and millions more in 2021, if required.
+These goals were based on a 10-day treatment course.
+Gilead now anticipates being able to cover significantly more patients based on the SIMPLE study results, which demonstrated similar efficacy with 5-day and 10-day dosing durations in patients with severe disease.
+Looking ahead, Gilead is building a geographically diverse consortium of leading pharmaceutical and chemical manufacturing companies to help reach and exceed manufacturing goals, and go above and beyond what any company could do individually.
+More details about these efforts are available here.
+Important Information about Remdesivir
+Remdesivir (GS-5734™) is authorized for use under an EUA only for the treatment of patients with suspected or laboratory-confirmed SARS-CoV-2 infection and severe COVID-19 disease.
+SARS-CoV-2 is the coronavirus that causes COVID-19 disease.
+Severe disease is defined as patients with an oxygen saturation (SpO2) ≤ 94% on room air or requiring supplemental oxygen or requiring mechanical ventilation or requiring extracorporeal membrane oxygenation (ECMO).
+Remdesivir is authorized for adult or pediatric patients who are admitted to a hospital and for whom use of an IV agent is clinically appropriate, as remdesivir must be administered intravenously.
+Remdesivir is an investigational drug that has not been approved by the FDA for any use.
+It is not yet known if remdesivir is safe and effective for the treatment of COVID-19.
+There are limited clinical data available for remdesivir.
+Serious and unexpected adverse events may occur that have not been previously reported with remdesivir use.
+Warnings: In clinical studies with remdesivir, infusion-related reactions and liver transaminase elevations have been observed.
+Remdesivir should not be used in patients who are hypersensitive to any ingredient of remdesivir.
+If signs and symptoms of a clinically significant infusion reaction occur, immediately discontinue administration of remdesivir and initiate appropriate treatment.
+Patients should have appropriate clinical and laboratory monitoring to aid in early detection of any potential adverse events.
+Monitor renal and hepatic function prior to initiating and daily during therapy with remdesivir; additionally monitor serum chemistries and hematology daily during therapy.
+The decision to continue or discontinue remdesivir therapy after development of an adverse event should be made based on the clinical risk benefit assessment for the individual patient.
+Healthcare providers and/or their designee are responsible for mandatory FDA MedWatch reporting of all medication errors and serious adverse events or deaths occurring during remdesivir treatment and considered to be potentially attributable to remdesivir.
+These events must be reported within 7 calendar days from the onset of the event.
+MedWatch adverse event reports can be submitted to FDA online at www.fda.gov/medwatch or by calling 1-800-FDA-1088.
+This is not all of the important information for remdesivir.
+The FDA has authorized distribution of this medicine with accompanying Fact Sheets, which can be accessed at www.gilead.com/remdesivir.
+Healthcare providers should review the Fact Sheet for Healthcare Providers for more information on the authorized use of remdesivir and mandatory requirements of the EUA.
+The distribution of remdesivir has been authorized only for the treatment of COVID-19.
+It is not authorized for the treatment of any other viruses or pathogens.
+Information from the FDA about the FDA-authorized emergency use of remdesivir is available at https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-framework/emergency-use-authorization.
+About Gilead Sciences
+Gilead Sciences, Inc. is a research-based biopharmaceutical company that discovers, develops and commercializes innovative medicines in areas of unmet medical need.
+The company strives to transform and simplify care for people with life-threatening illnesses around the world.
+Gilead has operations in more than 35 countries worldwide, with headquarters in Foster City, California.
+Forward-Looking Statement
+This press release includes forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995, that are subject to risks, uncertainties and other factors.
+Remdesivir is an investigational agent that has not been approved by the FDA, and it has not been demonstrated to be safe or effective for any use, including for the treatment of COVID-19.
+There is the possibility of unfavorable results from ongoing and additional clinical trials involving remdesivir and the possibility that Gilead may be unable to complete one or more of such trials in the currently anticipated timelines or at all.
+Further, it is possible that Gilead may make a strategic decision to discontinue development of remdesivir or that FDA and other regulatory agencies may not approve remdesivir, and any marketing approvals, if granted, may have significant limitations on its use.
+As a result, remdesivir may never be successfully commercialized.
+In addition, Gilead may be unable to sufficiently scale up the production of remdesivir in the currently anticipated timelines, and Gilead may be unable to meet future supply needs.
+These risks, uncertainties and other factors could cause actual results to differ materially from those referred to in the forward-looking statements.
+The reader is cautioned not to rely on these forward-looking statements.
+These and other risks are described in detail in Gilead’s Annual Report on Form 10-K for the year ended December 31, 2019, as filed with the U.S. Securities and Exchange Commission.
+All forward-looking statements are based on information currently available to Gilead, and Gilead assumes no obligation to update any such forward-looking statements.
+For more information about remdesivir, please see the Emergency Use Authorization Fact Sheets available at www.gilead.com/remdesivir.
+GS-5734, Gilead and the Gilead logo are trademarks of Gilead Sciences, Inc. or its related companies.
+For more information about Gilead, please visit the company’s website at www.gilead.com, follow Gilead on Twitter (@Gilead Sciences) or call Gilead Public Affairs at 1-800-GILEAD-5 or 1-650-574-3000.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20200501005505/en/
+Douglas Maffei, PhD, Investors
+(650) 522-2739
+Sonia Choi, Media
+(650) 425-5483
+Source: Gilead Sciences, Inc.

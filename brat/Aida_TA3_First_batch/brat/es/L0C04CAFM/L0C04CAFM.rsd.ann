@@ -1,0 +1,36 @@
+T1	ORG 25 33	Gobierno
+T2	LOC 59 63	casa
+T3	PER 106 112	cuarto
+T4	PER 119 128	población
+T5	ORG 156 164	Gobierno
+T6	PER 187 196	españoles
+T7	LOC 206 210	casa
+T8	ORG 337 345	WhatsApp
+T9	GPE 394 403	Argentina
+T10	GPE 406 413	Bolivia
+T11	ORG 504 512	Gobierno
+T12	PER 592 602	ciudadanos
+T13	PER 612 614	su
+T14	LOC 615 624	domicilio
+T15	PER 676 684	personal
+T16	FAC 866 875	comercios
+T17	VEH 1016 1027	transportes
+T18	FAC 1120 1125	calle
+T19	ORG 1198 1206	Gobierno
+T20	GPE 1207 1214	español
+T21	GPE 1371 1377	estado
+T22	ORG 1440 1456	Policía Nacional
+T23	PER 1488 1490	su
+T24	PER 1533 1543	ciudadanos
+T25	PER 1704 1711	fuentes
+T26	GPE 1743 1749	España
+T27	GPE 1807 1813	países
+T28	LOC 1817 1832	América del Sur
+T29	GPE 1838 1845	Bolivia
+T30	GPE 1864 1873	Argentina
+T31	GPE 1875 1880	donde
+T32	PER 1908 1917	población
+T33	ORG 1946 1985	Comunicación y Prensa de la Presidencia
+T34	PER 1987 2004	Juan Pablo Biondi
+T35	PER 2103 2110	nuestro
+T36	PER 2131 2133	tu

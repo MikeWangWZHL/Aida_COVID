@@ -1,0 +1,169 @@
+Disclaimer: The objective of this report is to provide a snapshot overview of the current trends and insights into disinformation activities related to COVID-19/Coronavirus.
+The report draws on open sources, does not provide a comprehensive or complete overview and focusses primarily on the external dimension, in line with the European External Action Service (EEAS) mandate.
+The report was authored by the EEAS Strategic Communications and Information Analysis Division, which contributes to the EU’s efforts to counter disinformation, including through detection, analysis and exposure of disinformation campaigns.
+In addressing disinformation and identifying and analysing disinformation surrounding the COVID-19 pandemic, the EEAS is working closely with the European Commission, European Parliament services and EU Member States.
+The EEAS also cooperates on this issue with international partners (G7, NATO and civil society).
+The results are regularly published on EUvsDisinfo.eu and social media channels.
+Insights are shared with EU institutions and EU Member States in real time, including through the Rapid Alert System on Disinformation.
+Summary
+Since the last special report, COVID-19 related online mis- and disinformation decreased and shifted focus towards vaccines, according to multiple analyses of thousands of available fact-checks since the beginning of the pandemic.
+The spread and reach of mis- and disinformation online remains worryingly high.
+A lack of tools and access to relevant data hinders research to estimate its direct impact on human behaviour.
+Based on current developments and observations, we expect that the health crisis around COVID-19 will continue to provide ample of opportunities worldwide for the spread of mis- and disinformation.
+They can be expected especially concerning tightening confinement measures as well as vaccine development and distribution.
+State actors like China and Russia are maximising the effect of the so-called “vaccine diplomacy” in their communication efforts, most likely with the intent to enhance their reputation and economic position abroad.
+They are leveraging diplomatic channels, state-controlled media and networks of supportive and alternative media outlets and social media to distribute their messages.
+While in the MENA region disinformation narratives are not yet at play given the delayed COVID-19 second wave, in Syria the regime continues to leverage COVID-19 to advance its political agenda through recurring disinformation on the EU sanctions.
+the regime continues to leverage COVID-19 to advance its political agenda through recurring disinformation on the EU sanctions.
+In the EU and its neighbouring countries, pro-Kremlin outlets continue to amplify voices that downplay the threat of the virus and aim to undermine governments’ strategies of curbing the second wave of infections.
+Assessments facilitated by the EU Code of Practice on Disinformation show continuous efforts by platforms to curb the spread of mis- and disinformation.
+However, proliferation, profitability and visibility of potentially harmful information remains high across online platforms.
+The work of fact-checkers and professional, independent media since the beginning of the COVID-19 pandemic remains indispensable to uncover and debunk false, misleading and potentially harmful information.
+Fact-checking spread has shown to have a positive impact in reducing misinformation about specific COVID-19 related claims[1].
+This activity is paramount in mitigating the potential harmful consequences and enhancing societal resilience.
+In detail: COVID-19 related disinformation, misinformation and other activities (May – November)
+With respect to the ongoing debate[2] to establish clearly outlined definitions for various types of false, misleading and potentially harmful information, this report will make conscious references to misinformation, which “refers to untrue information that individuals spread without any intent to mislead, though the effects of such misinformation can still be harmful” and disinformation, which describes “verifiably false content that is created, presented and disseminated for economic gain or to intentionally deceive the public, and may cause public harm”.
+These are often part of Information Influence Operations, which refer to coordinated efforts by either domestic or foreign actors to influence a target audience using a range of deceptive means, including suppressing independent information sources in combination with disinformation.
+If in earlier reporting periods, pro-Kremlin media cast doubts on EU actions and solidarity in response to COVID-19, now the main narrative shifted towards vaccines.
+Throughout the summer, conspiratorial narratives such as the virus being a laboratory creation or a tool of globalist elites for wrecking economic havoc continued to fade[3].
+Triumphant narratives[4] about Russia’s Sputnik V vaccine replaced them.
+Pro-Kremlin media hail the Sputnik V vaccine across the different language audiences, at times falsely alleging strong international support[5], and accusing the West of attempts to sabotage the Sputnik V vaccine for political and economic reasons[6].
+Western vaccine manufacturers are openly mocked on multi-lingual Russian state-controlled media, including for developing “the monkey vaccine”[7] (as some of the manufacturers use a chimpanzee viral vector).
+In some cases, this lead to conspiracy narratives that the vaccine will “turn people into monkeys”[8].
+To reach domestic audiences, Russian state-controlled media employ similar narratives as for audiences abroad: according to these, China [9] and Russia are handling the pandemic situation better than EU member states [10] or Ukraine, with safe and effective vaccines [11] at an advanced stage of development, which are sought after by other countries [12] .
+In Europe, pro-Kremlin media has been actively amplifying voices against lock-down measures.
+In Italy pro-Kremlin media consistently amplify [13] local voices, which call the government’s strategy of handling the second wave of the infections senseless, including claims that the wearing of masks is useless.
+Pro-Kremlin media has also called COVID-19 restrictions “a result of a bizarre psychosis and collective paranoia[14]”.
+At the same time, Sputnik regularly publishes updates on the success [15] of the Russian vaccine.
+In Germany, RT has also amplified voices questioning the threat of COVID-19, and calling testing and mask-wearing into question.
+An RT video[16] interview with a local physician expressing such views has been viewed over 1 million times.
+There is a risk that COVID-19 related disinformation may increase as Europe is undergoing new lockdowns.
+The Australian Strategic Policy Institute (ASPI) documented[17] the strategical use and rapid, international spread of disinformation during the pandemic.
+A completely fabricated report of fatal US COVID-19 vaccine trials was circulated via the website of the so-called “Luhansk People’s Republic” in the non-government-controlled areas, and “achieved widespread dissemination in multiple languages and across multiple communities” from the US to Australia – despite fact checks by multiple organisations across Europe.
+The press release was published the day after Russia announced plans to mass-produce its own vaccine in a matter of weeks[18].
+Since the last reporting period (23rd April – 18th May), over 100 new examples of pro-Kremlin linked disinformation about COVID-19 have been added to the EUvsDisinfo public database.
+Articles containing these examples of disinformation received over 230 thousand likes, shares, comments on social media.
+Since the outbreak of the pandemic, EUvsDisinfo has collected over 640 examples of pro-Kremlin disinformation related to COVID-19.
+According to our findings, currently the volume of pro-Kremlin disinformation surrounding the pandemic is smaller compared to spring (likely due to other events presenting fertile ground for disinformation campaigns, including Navalny poisoning, protests in Belarus, etc.
+).
+An analysis across more than 9000 fact checks by the International Fact Checking Network (IFCN) underlined that false claims, disinformation and conspiracies also follow in magnitude and focus on the informational needs of users[19].
+First Draft explained this trend with information vacuums (“data deficits”[20]), where high levels of demand for information only meet low supply of available authoritative information.
+Overall, Google Trends data offers indicators that online public interest in COVID-19 related information appears to be substantially lower compared to the beginning of the pandemic.
+[21]
+With the Middle-East and North-Africa (MENA) region potentially experiencing a delayed second COVID-19 wave compared to Europe, it is likely to assume a similarly delayed resurge of disinformation and a prevalence of vaccines-related disinformation narratives, if any.
+In Syria, the regime continues to leverage COVID-19 to advance its political goals.
+In line with a recurring narrative, the regime’s representative to the UN blamed the EU and the US for allegedly hindering through their sanctions the medical assistance to Syrians in the COVID-19 context as well as the reconstruction process and the returns of refugees.
+[22]
+A variety of false information and misleading narratives on COVID-19 have been circulating in the Western Balkans media environment since mid-March.
+Local independent fact-checkers confirmed a multitude of cases of misinformation, including in relation to vaccines and health advice.
+Many of these included a supportive narrative focused on children and the need to protect them, targeting family audiences.
+[23] Across the region, claims that COVID-19 is a ‘fraud’ and that face masks are ‘harmful’ were shared widely on platforms such as Facebook, often in the form of sweeping statements based on ‘twisted’ statistical data.
+[24] Debunking efforts were undertaken by fact-checking organisations [25] and, occasionally, also by traditional news outlets [26] .
+Since spring 2020, the fact-checking community in Turkey stepped up its efforts[27] to debunk COVID-19-related misinformation.
+In autumn, the number of COVID-19 related debunks was lower.
+In this period, claims about the ineffectiveness or risk[28] of wearing masks, different ‘natural methods’ to prevent or test for [29] COVID-19 and some conspiracy narratives (like masks carrying tracking chips[30]) were debunked.
+Occasionally these debunks were vaccine-related.
+Since the beginning of the outbreak, the Chinese Communist Party (CCP) has utilised the pandemic to positively influence its image abroad, both by highlighting its efforts in countering COVID-19 and/or attacking and casting doubt[31] on any criticism towards it.
+Assertions that the virus did not originate from China still appear in state-controlled media[32] as of November 2020 [33] , which has also highlighted the “imported”[34] nature of new cases.
+Generally, the communication strategy appears to be two-fold: blaming others[35] and emphasising own successes.
+The current trend marks the continuation of the “mask diplomacy” now focusing on vaccines and correspondingly dubbed “vaccine diplomacy”[36].
+China’s “vaccine diplomacy” is well-advanced and promoted in state-controlled media: China is promising preferential access to its COVID-19 vaccines[37] to developing countries across Asia[38], Africa[39] and Latin America[40].
+According to large-scale surveys by Pew Research Center[41] and YouGov-Cambridge Globalism Project[42] (called an “illustration of Western brainwashing”[43] in the CCP-owned Global Times), China’s image abroad has suffered over the handling of the COVID-19 crisis and “vaccine diplomacy” is seen as a way to bolster diplomatic ties[44].
+Chinese media and officials on Twitter have criticized the US handling of the crisis[45] and their withdrawal from multilateral initiatives[46] while reinforcing China’s commitment to the United Nations system.
+In parallel, some media and officials have dismissed the US’ advances on vaccine[47] and accused it in pursuing a “new cold war”[48].
+Chinese officials have also publicly[49] pointed at Australia’s call for an independent investigation on the origin of the virus as one reason for strained relations between the countries.
+Australia’s trade with China has been affected[50] as a result.
+Narratives shared by Chinese state-controlled media, but also by Chinese officials on Twitter notably[51] emphasize China’s response to COVID-19 as a deep commitment to multilateralism.
+Domestic success stories on rapid and large-scale testing (like in Qingdao[52] and Kashgar[53]), reopening[54] of the country and the economy [55] are being promoted outside the country.
+In official diplomatic channels, it translates into the promotion of China’s commitment to COVAX[56] as a sign of mutual support and justifies cooperation (like with Finland[57], Morocco[58] and other African countries[59]).
+Externally, emphasis on multilateralism is tied to objectives like building a “global community of health”[60] and China’s recovering economy is depicted as exceptional and beneficial[61] to the post-pandemic world.
+Social Media Platforms
+The European Commission’s most recent assessment of reports[62] provided by the signatories of the EU Code of Practice on Disinformation, which highlight the actions taken to limit disinformation on COVID-19 on signatories’ respective platforms, presents the efforts to address disinformation around COVID-19.
+Actions by signatories range from the promotion of authoritative information sources to limiting the appearance of content containing false or misleading information, cooperation with fact-checkers as well as review of rules regarding online advertisement.
+Platforms also established dedicated portals to update users on their actions to better protect users during the pandemic[63].
+Despite these continuous efforts, academic research showed that mis- and disinformation continue to thrive online.
+The Oxford Internet Institute found and analysed over 8000 COVID-related videos containing misinformation and conspiracies that were “shared almost 20 million times on social media, which is more than the shares gathered by the five largest English-language news sources on YouTube combined”.
+[64] A study published in Nature Magazine shows that the situation could be worse on less compliant and emerging social media platforms.
+[65]
+The same study highlights that cross-platform traffic undermines individual platforms’ actions, which suggests a need for closer cooperation between them to effectively curb the dissemination and spread of potentially harmful material.
+The need for better access to platform data to estimate impact, spread and trends of misinformation narratives remains largely unaddressed, despite privacy compliant proposals like the creation of a “Google Trends” for social media platforms[66].
+August 2020 study[67] from non-profit organisation Avaaz estimated that “[g]lobal health misinformation spreading networks spanning at least five countries generated an estimated 3.8 billion views on Facebook in the last year.” Peaking in April 2020, “[h]ealth misinformation spreading websites at the heart of the networks received up to 460 million views on Facebook.” Avaaz concluded that Facebook is “failing to keep people safe and informed during the pandemic”, but could “provide all users who have seen misinformation with independently fact-checked corrections” and downgrade misinformation systematically in users’ news feeds to address the problem.
+Research[68] by threat intelligence company CounterAction highlighted that over two million Germans are part of Facebook groups where COVID-19 related mis- and disinformation is circulating and amplified.
+According to the research, half of the analysed posts include language that incites people to harmful behaviour, mostly concerning the vaccine.
+Data showed that engagement with misinformation is not limited to political fringes, but spans party affiliation and geography.
+The economic incentives are an important driver for the spread of mis-and disinformation and remain strong.
+Brussels-based NGO EU Disinfo Lab found[69] that “[i]t is possible to monetise disinformation or conspiratorial narratives on crowdfunding platforms both indirectly and directly” and that while “[s]ome crowdfunding platforms have taken action against instances of monetisation attempts connected to COVID-19 disinformation and scams […] these actions seem incoherent and are not regularly enforced.” These monetisation streams continued even when the content in question has been demonetised or removed on other social media platforms like Facebook and YouTube.
+The Global Disinformation Index (GDI) found[70] that over one-third (about 200) of English language websites publishing high volumes of divisive and polarising content on inter alia COVID-19 carry advertisement which generates an estimated US$350 000 in monthly income for these websites.
+“Google, as the market leader, is the ad exchange most commonly found on these worst offender sites.” In the short term, GDI proposes advertisers use available information on worst offending sites to assess the overlap between their online marketing practices with their brand identity and adjust their ads targeting in cases of a mismatch.
+EEAS Strategic Communications Task Forces and Information Analysis
+[1] https://www.heros-project.eu/wp-content/uploads/Assessment-of-the-online-spread-of-coronavirus-misinformation.pdf
+[2] https://carnegieendowment.org/2020/09/24/eu-s-role-in-fighting-disinformation-crafting-disinformation-framework-pub-82720
+[3] https://euvsdisinfo.eu/eeas-special-report-update-short-assessment-of-narratives-and-disinformation-around-the-covid19-pandemic-updated-23-april-18-may/
+[4] See for example: https://euvsdisinfo.eu/report/no-one-is-queuing-up-for-the-american-coronavirus-vaccine-while-the-russian-one-has-dozens-of-orders/
+[5] https://euvsdisinfo.eu/report/who-said-russian-vaccine-against-coronavirus-is-safe-and-efficient/
+[6] For example, an article accusing “Big Politics” of trying to discredit the Russian vaccine, which was an unpleasant surprise for the West politically and economically, appeared in multiple language editions of “Sputnik”: Sputnik Armenia; Sputnik Moldova: Sputnik Arabic; Sputnik Greece; Sputnik Spanish.
+[7] https://euvsdisinfo.eu/six-real-sandworms-and-fake-monkey-vaccines/
+[8] https://www.thetimes.co.uk/article/russians-spread-fake-news-over-oxford-coronavirus-vaccine-2nzpk8vrq
+[9] https://www.youtube.com/watch?v=vYLNT7Mvgws
+[10] https://www.1tv.ru/shows/vremya-pokazhet/vypuski/vremya-pokazhet-vypusk-ot-21-10-2020
+[11] https://tass.com/world/1204351
+[12] https://radiosputnik.ria.ru/20201105/vaktsina-1583280402.html
+[13] https://it.sputniknews.com/intervista/202010309716974-covid-virologo-tarro-a-sputnik-insensate-le-misure-restrittive-del-dpcm/
+[14] https://euvsdisinfo.eu/report/covid-19-restrictions-are-absurd-they-are-the-result-of-a-bizarre-psychosis-and-of-collective-paranoia/
+[15] https://it.sputniknews.com/mondo/202009109517919-due-dosi-del-vaccino-russo-anti-covid-sputnik-v-generano-risposta-immunitaria-al-100-dei-casi/
+[16] https://euvsdisinfo.eu/report/covid-is-not-a-killer-virus-wearing-masks-and-testing-has-no-sense-at-all/
+[17] https://s3-ap-southeast-2.amazonaws.com/ad-aspi/2020-08/Pro%20Russian%20vaccine%20politics.pdf?vMuk2m7DlWP_GG25A86MqWZ_bg_jxlXL
+[18] Ibid.
+[19] https://www.poynter.org/coronavirusfactsalliance/
+[20] https://firstdraftnews.org/long-form-article/data-deficits/
+[21] https://trends.google.com/trends/explore?q=covid,coronavirus,corona,%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D0%B8%D1%80%D1%83%D1%81,%D9%81%D9%8A%D8%B1%D9%88%D8%B3%20%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7
+[22] http://sana.sy/en/?p=207752
+[23] Most of these false claims were or had previously been debunked by fact-checkers.
+See: harmfulness of face masks, dangers of vaccine (also here), forced vaccination, 5G links (also here).
+[24] As shown in this debunking piece.
+[25] https://www.istinomer.rs/facebook-provere/maske-nisu-beskorisne-bez-obzira-na-nestorovica/
+[26] https://www.reporter.al/si-u-bene-virale-lajmet-e-rreme-per-pandemine-e-covid-19-ne-shqiperi/
+[27] https://www.poynter.org/reporting-editing/2020/how-covid-19-made-teyit-rethink-their-fact-checking-for-the-small-screen/
+[28] https://www.malumatfurus.org/maske-oksijen-seviyesi/
+[29] https://www.malumatfurus.org/koronavirus-nefes-tutma-testi/
+[30] https://www.malumatfurus.org/cipli-maske-video/
+[31] https://www.globaltimes.cn/content/1207806.shtml
+[32] https://www.ft.com/content/edda14d0-145b-42e4-a1d2-4d64ab73bda1; https://www.facebook.com/188625661189259/posts/3842171625834626/; https://www.globaltimes.cn/content/1207957.shtml
+[33] https://www.chinadaily.com.cn/a/202010/29/WS5f9a452ea31024ad0ba81dee.html; https://news.cgtn.com/news/2020-11-10/Expert-Spotting-COVID-19-first-doesn-t-make-China-origin-of-virus-VjaqEE3Mre/index.html
+[34] Examples: http://www.xinhuanet.com/english/2020-11/04/c_139489715.htm; https://www.globaltimes.cn/content/1204867.shtml and http://www.xinhuanet.com/english/2020-11/02/c_139484568.htm
+[35] https://www.chinadaily.com.cn/a/202011/05/WS5fa3e92ca31024ad0ba83601.html
+[36] https://merics.org/en/short-analysis/chinas-vaccine-diplomacy-partnering-trials-least-16-countries-worldwide
+[37] https://www.ft.com/content/ce9a4c98-49b5-4c24-9ff2-ed1c6a3f3412
+[38] https://thediplomat.com/2020/11/chinas-southeast-asian-vaccine-diplomacy-comes-into-relief/
+[39] https://thediplomat.com/2020/11/chinas-multifaceted-covid-19-diplomacy-across-africa/
+[40] https://newsus.cgtn.com/news/2020-08-01/China-provides-Latin-America-access-to-Chinese-COVID-19-vaccine–SAcRgWSZO0/index.html
+[41] https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/
+[42] https://www.theguardian.com/world/2020/oct/27/china-loses-trust-internationally-over-coronavirus-handling
+[43] https://www.globaltimes.cn/content/1205053.shtml
+[44] https://www.nytimes.com/2020/09/11/business/china-vaccine-diplomacy.html
+[45] https://global.chinadaily.com.cn/a/202010/11/WS5f82f6d7a31024ad0ba7df06.html
+[46] https://www.globaltimes.cn/content/1199704.shtml
+[47] http://global.chinadaily.com.cn/a/202010/21/WS5f904a77a31024ad0ba801e4.html
+[48] https://www.chinadailyasia.com/article/147247 but also https://www.globaltimes.cn/content/1196407.shtml and https://twitter.com/SpokespersonCHN/status/1310958021892354054
+[49] https://www.smh.com.au/world/asia/if-you-make-china-the-enemy-china-will-be-the-enemy-beijing-s-fresh-threat-to-australia-20201118-p56fqs.html
+[50] https://chinadigitaltimes.net/2020/11/beijing-resists-pressure-to-investigate-origins-of-covid-19/
+[51] https://mapinfluence.eu/wp-content/uploads/2020/08/Mapinfluence_BRIEFING-PAPER_chinas-propaganda_A4_interaktivni_EN_01-1.pdf
+[52] https://news.cgtn.com/news/7a6b444d34514464776c6d636a4e6e62684a4856/index.html
+[53] https://news.cgtn.com/news/2020-10-27/Kashgar-Prefecture-completes-COVID-19-tests-for-all-residents-UVTnDGk1DG/index.html
+[54] https://www.globaltimes.cn/content/1199358.shtml
+[55] http://www.chinadailyglobal.com/a/202007/17/WS5f1161ffa31083481725a577.html
+[56] https://news.cgtn.com/news/2020-10-09/China-officially-joins-COVAX-vaccine-facility-Url8WVbWHS/index.html; http://global.chinadaily.com.cn/a/202010/26/WS5f9609c6a31024ad0ba80c67.html
+[57] https://www.fmprc.gov.cn/mfa_eng/wjdt_665385/wshd_665389/t1828463.shtml
+[58] https://www.fmprc.gov.cn/mfa_eng/wjdt_665385/wshd_665389/t1826584.shtml
+[59] https://www.fmprc.gov.cn/mfa_eng/wjdt_665385/wshd_665389/t1825067.shtml
+[60] http://global.chinadaily.com.cn/a/202010/26/WS5f9609c6a31024ad0ba80c67.html
+[61] Examples: http://french.china.org.cn/foreign/txt/2020-11/02/content_76865954.htm http://global.chinadaily.com.cn/a/202011/03/WS5fa1448ca31024ad0ba82db4.html
+[62] https://ec.europa.eu/digital-single-market/en/news/third-set-reports-fighting-covid-19-disinformation-monitoring-programme
+[63] For example by Facebook, Twitter, TikTok, Microsoft or Google
+[64] https://comprop.oii.ox.ac.uk/wp-content/uploads/sites/93/2020/09/YouTube-misinfo-memo.pdf
+[65] https://www.nature.com/articles/s41598-020-73510-5
+[66] https://firstdraftnews.org/latest/data-voids-google-trends-for-facebook-instagram-twitter-tiktok-and-reddit/
+[67] https://secure.avaaz.org/campaign/en/facebook_threat_health/
+[68] https://www.bild.de/bild-plus/politik/inland/politik-inland/holocaust-impfstoff-die-schlimme-hetze-der-corona-leugner-bei-facebook-74010512
+[69] https://www.disinfo.eu/publications/how-covid-19-conspiracists-and-extremists-use-crowdfunding-platforms-to-fund-their-activities
+[70] https://disinformationindex.org/2020/10/how-can-advertisers-disrupt-disinformation-dont-fund-it/

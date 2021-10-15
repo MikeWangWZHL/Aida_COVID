@@ -1,0 +1,52 @@
+When state officials were deciding whether to shutter their schools back in March, the evidence they had to work with was thin.
+They knew kids easily catch and spread influenza — and that school holidays and closures have helped slow its spread.
+But they weren’t sure if the same was true for Covid-19.
+Now, a study published Wednesday in the Journal of the American Medical Association shows that closing all of a state’s schools was associated with a drastic decrease in both Covid-19 cases and deaths.
+And the point at which officials made that call mattered: Those states that adopted the policy while few people were testing positive saw a correlated flatter curve of cases.
+“It’s a nice study.
+It’s clear that coincident with closing down schools, the numbers improved,” said Helen Boucher, chief of the division of geographic medicine and infectious diseases at Tufts Medical Center, who wasn’t involved in the research.
+But she noted that we have to be careful about drawing overly broad conclusions from a single sliver of a sweeping shutdown strategy: “School closing didn’t happen in a vacuum.”
+advertisement
+It also still isn’t clear how likely kids of different ages are to get and pass on the virus, which makes it hard to tease out the reasons why school closures might have helped to shift the outbreak.
+“It’s quite possible — and probable — that people changed their behavior because they thought, ‘Oh my goodness, there’s this new virus and it’s so scary they’re closing schools,’” said pediatrician Katherine Auger, associate chair of outcomes at Cincinnati Children’s Hospital Medical Center, and the first author of the new paper.
+advertisement
+“One thing we can’t tease out is how much of the effect was related to the virus spreading within schools, and the larger change in the community because now parents aren’t going to work,” she added.
+The findings arrive amid a furor over school reopenings.
+This spring, the Centers for Disease Control and Prevention released guidelines about preventing viral transmission within schools, recommending that students be physically distanced, by placing desks 6 feet apart, for instance.
+For some schools, that seemed impossible, given the number of kids enrolled and the architecture of classrooms.
+That meant that at least some teaching would take place online, which contradicted the president’s rosy — and to many public health experts, risky — ideas about reopening.
+After both Trump and Vice President Mike Pence criticized the guidelines and encouraged schools to reopen fully, the CDC released revised guidelines, which sparked fears that federal public health experts were caving under political pressure.
+The new study doesn’t show cause and effect, only an association between school closures and case counts in an area.
+The authors warned it also can’t provide a blanket prescription for the fall.
+Newsletters Sign up for Daily Recap A roundup of STAT's top stories of the day.
+Please enter a valid email address.
+Privacy Policy Leave this field empty if you're human:
+“Our study took place at a time when schools weren’t doing things like masking,” Auger explained.
+“It’s really impossible to project the old way of schools into the future of schools, assuming they’ll be following the expert guidelines.”
+To her, the work supports the “flexible and nimble” approach backed by the American Academy of Pediatrics.
+Having kids physically present in schools doesn’t just spur academic learning and the essential cognitive and emotional development that comes from social interaction, the organization stated.
+It also allows them to receive a slew of services, from free meals to adult eyes that might pick up signs of abuse at home.
+But those benefits have to be weighed against the risks of Covid-19 for kids, parents, grandparents, and teachers — a threat best kept in check with rapid testing that much of the country cannot provide.
+In the new study, Auger and her team compared reality — in which all 50 states closed schools in March — to a computer model in which everything else stayed the same while schools remained open.
+They calculated the time it would’ve taken for infections acquired in schools to be transmitted, and for those patients to then show up in hospitals and for a certain fraction of them to die.
+Their projection found that, if schools had stayed open, there could have been roughly 424 more coronavirus infections and 13 more deaths per 100,000 residents over the course of 26 days.
+Extrapolate that to the American population, and the country might have seen as many as 1.37 million more cases and 40,600 more deaths, explained Samir Shah, the director of hospital medicine at Cincinnati Children’s Hospital Medical Center and one of the authors of the paper.
+“These numbers seem ridiculously high and it’s mind-boggling to think that these numbers are only … in the first several weeks,” said Shah.
+“That’s bonkers.” He warned, though, that those numbers should be taken with a grain of salt.
+While their statistical model attempts to pinpoint the impact of schools staying open or being closed, the method can’t actually establish any sort of causal relationship.
+The authors realized that their estimation of how long it might take an infection picked up in a school to turn into a symptomatic case of Covid-19 might be off, and wondered if that might influence their results.
+When they changed those time lags, though, they still found a significant correlation between closing schools and decreased caseload and mortality.
+To Steffanie Strathdee, associate dean of global health at University of California, San Diego, that was what made this study convincing.
+“This study was taking imperfect data but doing a very elegant analysis,” she said.
+“If we were wrong, what’s the other extreme, would it change the results?
+If these kids infected parents, but it took a little longer or a little shorter, what then?”
+The bottom line, she said, was that strategies such as school closures do seem to make a difference when it comes to the risks of Covid-19.
+Auger’s team also analyzed whether the timing of school closures was correlated to a change in cases and deaths.
+“States who closed schools before their Covid numbers were high had the largest effect,” she said.
+While kids seem to be less likely to get sick than adults, there is some evidence that schools can be important sites of coronavirus transmission.
+Younger children appear less likely to pass on the virus than tweens and teens, though more research is needed to fully understand the various risks.
+Shah, meanwhile, warned that people reading the study should not forget about the risks of interruptions to schooling.
+“We can quantify the risk of Covid.
+It’s much harder to quantify the risk of being absent from school for a prolonged period of time,” he said.
+Both he and Auger emphasized the importance of tailoring strategies to the needs and coronavirus risks within each family and community, and that better, quicker testing would allow for a safer back-to-school strategy.
+“It’s a real challenge, and I think that our study is one very important piece of the puzzle in how we think about this,” Shah said.

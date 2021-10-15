@@ -1,0 +1,152 @@
+T1	LOC 171 177	global
+T2	ORG 357 382	World Health Organization
+T3	ORG 384 387	WHO
+T4	PER 512 514	we
+T5	PER 535 544	ourselves
+T6	PER 660 663	you
+T7	MHI 994 1004	salmonella
+T8	INF 1258 1272	Facebook video
+T9	MHI 1420 1427	disease
+T10	COM 1637 1646	Vitamin C
+T11	MHI 2017 2021	cold
+T12	PER 2286 2292	adults
+T13	PER 2308 2313	their
+T14	MHI 2476 2481	virus
+T15	PER 3041 3045	body
+T16	MHI 3592 3595	flu
+T17	PER 3697 3703	humans
+T18	MHI 3734 3737	flu
+T19	MHI 3844 3855	coronavirus
+T20	ORG 3879 3907	British Dietetic Association
+T21	ORG 3909 3912	BDA
+T22	PER 3971 3977	person
+T23	ORG 4012 4015	WHO
+T24	ORG 4028 4031	BDA
+T25	PER 4043 4049	people
+T26	PER 4202 4208	people
+T27	PER 4228 4232	they
+T28	PER 4261 4263	we
+T29	PER 4281 4284	our
+T30	PER 4439 4445	People
+T31	ORG 4624 4627	BDA
+T32	PER 4640 4646	adults
+T33	GPE 4661 4663	UK
+T34	PER 4863 4866	our
+T35	PER 4940 4944	many
+T36	PER 4948 4950	us
+T37	MHI 5254 5265	coronavirus
+T38	PER 5313 5317	your
+T39	ORG 5592 5601	authority
+T40	ORG 5605 5617	organisation
+T41	ORG 5628 5631	NHS
+T42	ORG 5635 5638	WHO
+T43	PER 5839 5845	people
+T44	GPE 5896 5898	EU
+T45	control_impedeinterferewith_prevent 59 66	prevent
+E1	control_impedeinterferewith_prevent:T45 Prevented_Thing:T46 Preventer:T48 Preventer2:T47
+A1	ClaimID_Semantic E1 CLL0C049DQW.000000
+T46	MHI 75 83	COVID-19
+T47	COM 35 40	foods
+T48	COM 44 49	diets
+T49	medical_intervention_cure 70 74	cure
+E2	medical_intervention_cure:T49 MedicalIssue:T46 Instrument:T48 Instrument2:T47
+A2	ClaimID_Semantic E2 CLL0C049DQW.000001
+T50	COM 126 139	"super foods"
+T51	MHI 149 157	COVID-19
+T52	medical_intervention_cure 144 148	cure
+E3	medical_intervention_cure:T52 MedicalIssue:T51 Instrument:T50
+A3	ClaimID_Semantic E3 CLL0C049DQW.000002
+T53	contact_contact_broadcast 119 125	claims
+E4	contact_contact_broadcast:T53 Topic:E3 Communicator:T54
+A4	ClaimID_Semantic E4 CLL0C049DQW.000002
+T54	INF 86 95	Fake news
+T55	MHI 1220 1228	COVID-19
+T56	COM 1114 1120	garlic
+T57	control_impedeinterferewith_prevent 1204 1211	prevent
+E5	control_impedeinterferewith_prevent:T57 Prevented_Thing:T55 Preventer:T56
+A5	ClaimID_Semantic E5 CLL0C049DQW.000003
+T58	medical_intervention_cure 1215 1219	cure
+E6	medical_intervention_cure:T58 MedicalIssue:T55 Instrument:T56
+A6	ClaimID_Semantic E6 CLL0C049DQW.000004
+T59	life_consume_unspecified 1190 1196	eating
+E7	life_consume_unspecified:T59 ConsumedThing:T56
+A7	ClaimID_Associate E7 CLL0C049DQW.000003
+A8	ClaimID2_Associate E7 CLL0C049DQW.000004
+T60	medical_intervention_cure 1330 1336	combat
+E8	medical_intervention_cure:T60 MedicalIssue:T61 Instrument:T63
+T61	MHI 1343 1354	coronavirus
+A9	ClaimID_Semantic E8 CLL0C049DQW.000005
+T62	life_consume_unspecified 1286 1294	drinking
+E9	life_consume_unspecified:T62 ConsumedThing:T63
+T63	COM 1295 1323	warm water with lemon slices
+A10	ClaimID_Semantic E9 CLL0C049DQW.000005
+T64	contact_contact_broadcast 1273 1280	claimed
+E10	contact_contact_broadcast:T64 Topic:E9 Topic2:E8 Communicator:T8
+A11	ClaimID_Associate E10 CLL0C049DQW.000005
+T65	COM 1401 1406	lemon
+T66	medical_intervention_cure 1411 1415	cure
+E11	medical_intervention_cure:T66 MedicalIssue:T9 Instrument:T65
+A12	ClaimID_Semantic E11 CLL0C049DQW.000006
+T67	COM 2239 2248	vitamin C
+T68	control_impedeinterferewith_prevent 2254 2261	prevent
+E12	control_impedeinterferewith_prevent:T68 Prevented_Thing:T70 Preventer:T67
+A13	ClaimID_Semantic E12 CLL0C049DQW.000007
+T69	medical_intervention_cure 2265 2269	cure
+E13	medical_intervention_cure:T69 MedicalIssue:T70 Instrument:T67
+A14	ClaimID_Semantic E13 CLL0C049DQW.000008
+T70	MHI 2270 2278	COVID-19
+T71	medical_intervention_cure 2489 2494	cured
+E14	medical_intervention_cure:T71 MedicalIssue:T14 Instrument:T73
+A15	ClaimID_Semantic E14 CLL0C049DQW.000009
+T72	life_consume_unspecified 2498 2504	eating
+E15	life_consume_unspecified:T72 ConsumedThing:T73
+A16	ClaimID_Semantic E15 CLL0C049DQW.000009
+T73	COM 2505 2574	foods with a pH (level of acidity) that is higher than the virus’s pH
+T74	contact_contact_broadcast 2463 2471	suggests
+E16	contact_contact_broadcast:T74 Topic2:E14 Communicator:T75
+A17	ClaimID_Associate E16 CLL0C049DQW.000009
+T75	INF 2425 2439	Misinformation
+T76	COM 2677 2691	alkaline foods
+T77	medical_intervention_cure 2702 2706	cure
+E17	medical_intervention_cure:T77 Instrument:T76 MedicalIssue:T78
+T78	MHI 2708 2719	coronavirus
+A18	ClaimID_Semantic E17 CLL0C049DQW.000010
+T79	medical_intervention_cure 3168 3172	cure
+E18	medical_intervention_cure:T79 MedicalIssue:T80 Instrument:T81
+A19	ClaimID_Semantic E18 CLL0C049DQW.000011
+T80	MHI 3173 3189	viral infections
+T81	COM 3093 3098	foods
+T82	COM 3299 3320	ketogenic (keto) diet
+T83	control_impedeinterferewith_prevent 3389 3399	protective
+E19	control_impedeinterferewith_prevent:T83 Prevented_Thing:T84 Preventer:T82
+A20	ClaimID_Semantic E19 CLL0C049DQW.000012
+T84	MHI 3408 3416	COVID-19
+T85	COM 3817 3831	ketogenic diet
+T86	control_impedeinterferewith_prevent 3836 3843	prevent
+E20	control_impedeinterferewith_prevent:T86 Prevented_Thing:T19 Preventer:T85
+A21	ClaimID_Semantic E20 CLL0C049DQW.000013
+T87	control_impedeinterferewith_prevent 3961 3968	prevent
+E21	control_impedeinterferewith_prevent:T87 Prevented_Thing:T88 Preventer:T89 Preventer2:T90
+A22	ClaimID_Semantic E21 CLL0C049DQW.000014
+T88	MHI 3992 4000	COVID-19
+T89	COM 3937 3941	food
+T90	COM 3945 3956	supplements
+T91	life_infect_unspecified 3983 3991	catching
+E22	life_infect_unspecified:T91 Victim:T22 Source:T88
+A23	ClaimID_Semantic E22 CLL0C049DQW.000014
+T92	contact_contact_broadcast 3918 3924	stated
+E23	contact_contact_broadcast:T92 Communicator:T20 Topic:E21
+A24	ClaimID_Associate E23 CLL0C049DQW.000014
+T93	COM 5796 5801	foods
+T94	COM 5805 5816	supplements
+T95	control_impedeinterferewith_prevent 5831 5838	protect
+E24	control_impedeinterferewith_prevent:T95 Prevented_Thing:T96 Preventer:T93 Preventer2:T94
+T96	MHI 5857 5868	coronavirus
+A25	ClaimID_Semantic E24 CLL0C049DQW.000015
+T97	COM 5950 5954	food
+T98	COM 5958 5968	supplement
+T99	medical_intervention_cure 5973 5978	fight
+E25	medical_intervention_cure:T99 MedicalIssue:T101 MedicalIssue2:T100 Instrument:T97 Instrument2:T98
+T100	MHI 6002 6010	COVID-19
+T101	MHI 5979 5995	viral infections
+A26	ClaimID_Semantic E25 CLL0C049DQW.000016

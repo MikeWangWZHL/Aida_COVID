@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-210">
+		<TEXT>
+			<SEG id="covid19scenario-210-0" start_char="0" end_char="96">
+				<ORIGINAL_TEXT>Chinese authorities and experts are at odds about the origin of the ongoing coronavirus outbreak.</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="6">Chinese</TOKEN>
+				<TOKEN id="token-0-1" start_char="8" end_char="18">authorities</TOKEN>
+				<TOKEN id="token-0-2" start_char="20" end_char="22">and</TOKEN>
+				<TOKEN id="token-0-3" start_char="24" end_char="30">experts</TOKEN>
+				<TOKEN id="token-0-4" start_char="32" end_char="34">are</TOKEN>
+				<TOKEN id="token-0-5" start_char="36" end_char="37">at</TOKEN>
+				<TOKEN id="token-0-6" start_char="39" end_char="42">odds</TOKEN>
+				<TOKEN id="token-0-7" start_char="44" end_char="48">about</TOKEN>
+				<TOKEN id="token-0-8" start_char="50" end_char="52">the</TOKEN>
+				<TOKEN id="token-0-9" start_char="54" end_char="59">origin</TOKEN>
+				<TOKEN id="token-0-10" start_char="61" end_char="62">of</TOKEN>
+				<TOKEN id="token-0-11" start_char="64" end_char="66">the</TOKEN>
+				<TOKEN id="token-0-12" start_char="68" end_char="74">ongoing</TOKEN>
+				<TOKEN id="token-0-13" start_char="76" end_char="86">coronavirus</TOKEN>
+				<TOKEN id="token-0-14" start_char="88" end_char="95">outbreak</TOKEN>
+				<TOKEN id="token-0-15" start_char="96" end_char="96">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-210-1" start_char="98" end_char="155">
+				<ORIGINAL_TEXT>More specifically, who is &quot;patient zero&quot; for the outbreak.</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="98" end_char="101">More</TOKEN>
+				<TOKEN id="token-1-1" start_char="103" end_char="114">specifically</TOKEN>
+				<TOKEN id="token-1-2" start_char="115" end_char="115">,</TOKEN>
+				<TOKEN id="token-1-3" start_char="117" end_char="119">who</TOKEN>
+				<TOKEN id="token-1-4" start_char="121" end_char="122">is</TOKEN>
+				<TOKEN id="token-1-5" start_char="124" end_char="124">&quot;</TOKEN>
+				<TOKEN id="token-1-6" start_char="125" end_char="131">patient</TOKEN>
+				<TOKEN id="token-1-7" start_char="133" end_char="136">zero</TOKEN>
+				<TOKEN id="token-1-8" start_char="137" end_char="137">&quot;</TOKEN>
+				<TOKEN id="token-1-9" start_char="139" end_char="141">for</TOKEN>
+				<TOKEN id="token-1-10" start_char="143" end_char="145">the</TOKEN>
+				<TOKEN id="token-1-11" start_char="147" end_char="154">outbreak</TOKEN>
+				<TOKEN id="token-1-12" start_char="155" end_char="155">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-210-2" start_char="157" end_char="297">
+				<ORIGINAL_TEXT>Also known as an index case, patient zero is a term used to describe the first human infected by a viral or bacterial disease in an outbreak.</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="157" end_char="160">Also</TOKEN>
+				<TOKEN id="token-2-1" start_char="162" end_char="166">known</TOKEN>
+				<TOKEN id="token-2-2" start_char="168" end_char="169">as</TOKEN>
+				<TOKEN id="token-2-3" start_char="171" end_char="172">an</TOKEN>
+				<TOKEN id="token-2-4" start_char="174" end_char="178">index</TOKEN>
+				<TOKEN id="token-2-5" start_char="180" end_char="183">case</TOKEN>
+				<TOKEN id="token-2-6" start_char="184" end_char="184">,</TOKEN>
+				<TOKEN id="token-2-7" start_char="186" end_char="192">patient</TOKEN>
+				<TOKEN id="token-2-8" start_char="194" end_char="197">zero</TOKEN>
+				<TOKEN id="token-2-9" start_char="199" end_char="200">is</TOKEN>
+				<TOKEN id="token-2-10" start_char="202" end_char="202">a</TOKEN>
+				<TOKEN id="token-2-11" start_char="204" end_char="207">term</TOKEN>
+				<TOKEN id="token-2-12" start_char="209" end_char="212">used</TOKEN>
+				<TOKEN id="token-2-13" start_char="214" end_char="215">to</TOKEN>
+				<TOKEN id="token-2-14" start_char="217" end_char="224">describe</TOKEN>
+				<TOKEN id="token-2-15" start_char="226" end_char="228">the</TOKEN>
+				<TOKEN id="token-2-16" start_char="230" end_char="234">first</TOKEN>
+				<TOKEN id="token-2-17" start_char="236" end_char="240">human</TOKEN>
+				<TOKEN id="token-2-18" start_char="242" end_char="249">infected</TOKEN>
+				<TOKEN id="token-2-19" start_char="251" end_char="252">by</TOKEN>
+				<TOKEN id="token-2-20" start_char="254" end_char="254">a</TOKEN>
+				<TOKEN id="token-2-21" start_char="256" end_char="260">viral</TOKEN>
+				<TOKEN id="token-2-22" start_char="262" end_char="263">or</TOKEN>
+				<TOKEN id="token-2-23" start_char="265" end_char="273">bacterial</TOKEN>
+				<TOKEN id="token-2-24" start_char="275" end_char="281">disease</TOKEN>
+				<TOKEN id="token-2-25" start_char="283" end_char="284">in</TOKEN>
+				<TOKEN id="token-2-26" start_char="286" end_char="287">an</TOKEN>
+				<TOKEN id="token-2-27" start_char="289" end_char="296">outbreak</TOKEN>
+				<TOKEN id="token-2-28" start_char="297" end_char="297">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-210-3" start_char="299" end_char="415">
+				<ORIGINAL_TEXT>Advances in genetic analysis now make it possible to trace back the lineage of a virus through those it has infected.</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="299" end_char="306">Advances</TOKEN>
+				<TOKEN id="token-3-1" start_char="308" end_char="309">in</TOKEN>
+				<TOKEN id="token-3-2" start_char="311" end_char="317">genetic</TOKEN>
+				<TOKEN id="token-3-3" start_char="319" end_char="326">analysis</TOKEN>
+				<TOKEN id="token-3-4" start_char="328" end_char="330">now</TOKEN>
+				<TOKEN id="token-3-5" start_char="332" end_char="335">make</TOKEN>
+				<TOKEN id="token-3-6" start_char="337" end_char="338">it</TOKEN>
+				<TOKEN id="token-3-7" start_char="340" end_char="347">possible</TOKEN>
+				<TOKEN id="token-3-8" start_char="349" end_char="350">to</TOKEN>
+				<TOKEN id="token-3-9" start_char="352" end_char="356">trace</TOKEN>
+				<TOKEN id="token-3-10" start_char="358" end_char="361">back</TOKEN>
+				<TOKEN id="token-3-11" start_char="363" end_char="365">the</TOKEN>
+				<TOKEN id="token-3-12" start_char="367" end_char="373">lineage</TOKEN>
+				<TOKEN id="token-3-13" start_char="375" end_char="376">of</TOKEN>
+				<TOKEN id="token-3-14" start_char="378" end_char="378">a</TOKEN>
+				<TOKEN id="token-3-15" start_char="380" end_char="384">virus</TOKEN>
+				<TOKEN id="token-3-16" start_char="386" end_char="392">through</TOKEN>
+				<TOKEN id="token-3-17" start_char="394" end_char="398">those</TOKEN>
+				<TOKEN id="token-3-18" start_char="400" end_char="401">it</TOKEN>
+				<TOKEN id="token-3-19" start_char="403" end_char="405">has</TOKEN>
+				<TOKEN id="token-3-20" start_char="407" end_char="414">infected</TOKEN>
+				<TOKEN id="token-3-21" start_char="415" end_char="415">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-210-4" start_char="417" end_char="585">
+				<ORIGINAL_TEXT>Combined with epidemiological studies, scientists can pinpoint individuals who may have been the first people to start spreading the disease and so trigger the outbreak.</ORIGINAL_TEXT>
+				<TOKEN id="token-4-0" start_char="417" end_char="424">Combined</TOKEN>
+				<TOKEN id="token-4-1" start_char="426" end_char="429">with</TOKEN>
+				<TOKEN id="token-4-2" start_char="431" end_char="445">epidemiological</TOKEN>
+				<TOKEN id="token-4-3" start_char="447" end_char="453">studies</TOKEN>
+				<TOKEN id="token-4-4" start_char="454" end_char="454">,</TOKEN>
+				<TOKEN id="token-4-5" start_char="456" end_char="465">scientists</TOKEN>
+				<TOKEN id="token-4-6" start_char="467" end_char="469">can</TOKEN>
+				<TOKEN id="token-4-7" start_char="471" end_char="478">pinpoint</TOKEN>
+				<TOKEN id="token-4-8" start_char="480" end_char="490">individuals</TOKEN>
+				<TOKEN id="token-4-9" start_char="492" end_char="494">who</TOKEN>
+				<TOKEN id="token-4-10" start_char="496" end_char="498">may</TOKEN>
+				<TOKEN id="token-4-11" start_char="500" end_char="503">have</TOKEN>
+				<TOKEN id="token-4-12" start_char="505" end_char="508">been</TOKEN>
+				<TOKEN id="token-4-13" start_char="510" end_char="512">the</TOKEN>
+				<TOKEN id="token-4-14" start_char="514" end_char="518">first</TOKEN>
+				<TOKEN id="token-4-15" start_char="520" end_char="525">people</TOKEN>
+				<TOKEN id="token-4-16" start_char="527" end_char="528">to</TOKEN>
+				<TOKEN id="token-4-17" start_char="530" end_char="534">start</TOKEN>
+				<TOKEN id="token-4-18" start_char="536" end_char="544">spreading</TOKEN>
+				<TOKEN id="token-4-19" start_char="546" end_char="548">the</TOKEN>
+				<TOKEN id="token-4-20" start_char="550" end_char="556">disease</TOKEN>
+				<TOKEN id="token-4-21" start_char="558" end_char="560">and</TOKEN>
+				<TOKEN id="token-4-22" start_char="562" end_char="563">so</TOKEN>
+				<TOKEN id="token-4-23" start_char="565" end_char="571">trigger</TOKEN>
+				<TOKEN id="token-4-24" start_char="573" end_char="575">the</TOKEN>
+				<TOKEN id="token-4-25" start_char="577" end_char="584">outbreak</TOKEN>
+				<TOKEN id="token-4-26" start_char="585" end_char="585">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-210-5" start_char="587" end_char="689">
+				<ORIGINAL_TEXT>Identifying who these people are can help address crucial questions about how, when and why it started.</ORIGINAL_TEXT>
+				<TOKEN id="token-5-0" start_char="587" end_char="597">Identifying</TOKEN>
+				<TOKEN id="token-5-1" start_char="599" end_char="601">who</TOKEN>
+				<TOKEN id="token-5-2" start_char="603" end_char="607">these</TOKEN>
+				<TOKEN id="token-5-3" start_char="609" end_char="614">people</TOKEN>
+				<TOKEN id="token-5-4" start_char="616" end_char="618">are</TOKEN>
+				<TOKEN id="token-5-5" start_char="620" end_char="622">can</TOKEN>
+				<TOKEN id="token-5-6" start_char="624" end_char="627">help</TOKEN>
+				<TOKEN id="token-5-7" start_char="629" end_char="635">address</TOKEN>
+				<TOKEN id="token-5-8" start_char="637" end_char="643">crucial</TOKEN>
+				<TOKEN id="token-5-9" start_char="645" end_char="653">questions</TOKEN>
+				<TOKEN id="token-5-10" start_char="655" end_char="659">about</TOKEN>
+				<TOKEN id="token-5-11" start_char="661" end_char="663">how</TOKEN>
+				<TOKEN id="token-5-12" start_char="664" end_char="664">,</TOKEN>
+				<TOKEN id="token-5-13" start_char="666" end_char="669">when</TOKEN>
+				<TOKEN id="token-5-14" start_char="671" end_char="673">and</TOKEN>
+				<TOKEN id="token-5-15" start_char="675" end_char="677">why</TOKEN>
+				<TOKEN id="token-5-16" start_char="679" end_char="680">it</TOKEN>
+				<TOKEN id="token-5-17" start_char="682" end_char="688">started</TOKEN>
+				<TOKEN id="token-5-18" start_char="689" end_char="689">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-210-6" start_char="691" end_char="782">
+				<ORIGINAL_TEXT>These can then help to prevent more people from getting infected now or in future outbreaks.</ORIGINAL_TEXT>
+				<TOKEN id="token-6-0" start_char="691" end_char="695">These</TOKEN>
+				<TOKEN id="token-6-1" start_char="697" end_char="699">can</TOKEN>
+				<TOKEN id="token-6-2" start_char="701" end_char="704">then</TOKEN>
+				<TOKEN id="token-6-3" start_char="706" end_char="709">help</TOKEN>
+				<TOKEN id="token-6-4" start_char="711" end_char="712">to</TOKEN>
+				<TOKEN id="token-6-5" start_char="714" end_char="720">prevent</TOKEN>
+				<TOKEN id="token-6-6" start_char="722" end_char="725">more</TOKEN>
+				<TOKEN id="token-6-7" start_char="727" end_char="732">people</TOKEN>
+				<TOKEN id="token-6-8" start_char="734" end_char="737">from</TOKEN>
+				<TOKEN id="token-6-9" start_char="739" end_char="745">getting</TOKEN>
+				<TOKEN id="token-6-10" start_char="747" end_char="754">infected</TOKEN>
+				<TOKEN id="token-6-11" start_char="756" end_char="758">now</TOKEN>
+				<TOKEN id="token-6-12" start_char="760" end_char="761">or</TOKEN>
+				<TOKEN id="token-6-13" start_char="763" end_char="764">in</TOKEN>
+				<TOKEN id="token-6-14" start_char="766" end_char="771">future</TOKEN>
+				<TOKEN id="token-6-15" start_char="773" end_char="781">outbreaks</TOKEN>
+				<TOKEN id="token-6-16" start_char="782" end_char="782">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-210-7" start_char="784" end_char="873">
+				<ORIGINAL_TEXT>Do we know who patient zero is in the Covid-19 coronavirus outbreak that started in China?</ORIGINAL_TEXT>
+				<TOKEN id="token-7-0" start_char="784" end_char="785">Do</TOKEN>
+				<TOKEN id="token-7-1" start_char="787" end_char="788">we</TOKEN>
+				<TOKEN id="token-7-2" start_char="790" end_char="793">know</TOKEN>
+				<TOKEN id="token-7-3" start_char="795" end_char="797">who</TOKEN>
+				<TOKEN id="token-7-4" start_char="799" end_char="805">patient</TOKEN>
+				<TOKEN id="token-7-5" start_char="807" end_char="810">zero</TOKEN>
+				<TOKEN id="token-7-6" start_char="812" end_char="813">is</TOKEN>
+				<TOKEN id="token-7-7" start_char="815" end_char="816">in</TOKEN>
+				<TOKEN id="token-7-8" start_char="818" end_char="820">the</TOKEN>
+				<TOKEN id="token-7-9" start_char="822" end_char="826">Covid</TOKEN>
+				<TOKEN id="token-7-10" start_char="827" end_char="827">-</TOKEN>
+				<TOKEN id="token-7-11" start_char="828" end_char="829">19</TOKEN>
+				<TOKEN id="token-7-12" start_char="831" end_char="841">coronavirus</TOKEN>
+				<TOKEN id="token-7-13" start_char="843" end_char="850">outbreak</TOKEN>
+				<TOKEN id="token-7-14" start_char="852" end_char="855">that</TOKEN>
+				<TOKEN id="token-7-15" start_char="857" end_char="863">started</TOKEN>
+				<TOKEN id="token-7-16" start_char="865" end_char="866">in</TOKEN>
+				<TOKEN id="token-7-17" start_char="868" end_char="872">China</TOKEN>
+				<TOKEN id="token-7-18" start_char="873" end_char="873">?</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-210-8" start_char="875" end_char="899">
+				<ORIGINAL_TEXT>The short answer is – no.</ORIGINAL_TEXT>
+				<TOKEN id="token-8-0" start_char="875" end_char="877">The</TOKEN>
+				<TOKEN id="token-8-1" start_char="879" end_char="883">short</TOKEN>
+				<TOKEN id="token-8-2" start_char="885" end_char="890">answer</TOKEN>
+				<TOKEN id="token-8-3" start_char="892" end_char="893">is</TOKEN>
+				<TOKEN id="token-8-4" start_char="895" end_char="895">–</TOKEN>
+				<TOKEN id="token-8-5" start_char="897" end_char="898">no</TOKEN>
+				<TOKEN id="token-8-6" start_char="899" end_char="899">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-210-9" start_char="901" end_char="1141">
+				<ORIGINAL_TEXT>Chinese authorities originally reported that the first coronavirus case was on 31 December and many of the first cases of the pneumonia-like infection were immediately connected to a seafood and animal market in Wuhan, in the Hubei province.</ORIGINAL_TEXT>
+				<TOKEN id="token-9-0" start_char="901" end_char="907">Chinese</TOKEN>
+				<TOKEN id="token-9-1" start_char="909" end_char="919">authorities</TOKEN>
+				<TOKEN id="token-9-2" start_char="921" end_char="930">originally</TOKEN>
+				<TOKEN id="token-9-3" start_char="932" end_char="939">reported</TOKEN>
+				<TOKEN id="token-9-4" start_char="941" end_char="944">that</TOKEN>
+				<TOKEN id="token-9-5" start_char="946" end_char="948">the</TOKEN>
+				<TOKEN id="token-9-6" start_char="950" end_char="954">first</TOKEN>
+				<TOKEN id="token-9-7" start_char="956" end_char="966">coronavirus</TOKEN>
+				<TOKEN id="token-9-8" start_char="968" end_char="971">case</TOKEN>
+				<TOKEN id="token-9-9" start_char="973" end_char="975">was</TOKEN>
+				<TOKEN id="token-9-10" start_char="977" end_char="978">on</TOKEN>
+				<TOKEN id="token-9-11" start_char="980" end_char="981">31</TOKEN>
+				<TOKEN id="token-9-12" start_char="983" end_char="990">December</TOKEN>
+				<TOKEN id="token-9-13" start_char="992" end_char="994">and</TOKEN>
+				<TOKEN id="token-9-14" start_char="996" end_char="999">many</TOKEN>
+				<TOKEN id="token-9-15" start_char="1001" end_char="1002">of</TOKEN>
+				<TOKEN id="token-9-16" start_char="1004" end_char="1006">the</TOKEN>
+				<TOKEN id="token-9-17" start_char="1008" end_char="1012">first</TOKEN>
+				<TOKEN id="token-9-18" start_char="1014" end_char="1018">cases</TOKEN>
+				<TOKEN id="token-9-19" start_char="1020" end_char="1021">of</TOKEN>
+				<TOKEN id="token-9-20" start_char="1023" end_char="1025">the</TOKEN>
+				<TOKEN id="token-9-21" start_char="1027" end_char="1035">pneumonia</TOKEN>
+				<TOKEN id="token-9-22" start_char="1036" end_char="1036">-</TOKEN>
+				<TOKEN id="token-9-23" start_char="1037" end_char="1040">like</TOKEN>
+				<TOKEN id="token-9-24" start_char="1042" end_char="1050">infection</TOKEN>
+				<TOKEN id="token-9-25" start_char="1052" end_char="1055">were</TOKEN>
+				<TOKEN id="token-9-26" start_char="1057" end_char="1067">immediately</TOKEN>
+				<TOKEN id="token-9-27" start_char="1069" end_char="1077">connected</TOKEN>
+				<TOKEN id="token-9-28" start_char="1079" end_char="1080">to</TOKEN>
+				<TOKEN id="token-9-29" start_char="1082" end_char="1082">a</TOKEN>
+				<TOKEN id="token-9-30" start_char="1084" end_char="1090">seafood</TOKEN>
+				<TOKEN id="token-9-31" start_char="1092" end_char="1094">and</TOKEN>
+				<TOKEN id="token-9-32" start_char="1096" end_char="1101">animal</TOKEN>
+				<TOKEN id="token-9-33" start_char="1103" end_char="1108">market</TOKEN>
+				<TOKEN id="token-9-34" start_char="1110" end_char="1111">in</TOKEN>
+				<TOKEN id="token-9-35" start_char="1113" end_char="1117">Wuhan</TOKEN>
+				<TOKEN id="token-9-36" start_char="1118" end_char="1118">,</TOKEN>
+				<TOKEN id="token-9-37" start_char="1120" end_char="1121">in</TOKEN>
+				<TOKEN id="token-9-38" start_char="1123" end_char="1125">the</TOKEN>
+				<TOKEN id="token-9-39" start_char="1127" end_char="1131">Hubei</TOKEN>
+				<TOKEN id="token-9-40" start_char="1133" end_char="1140">province</TOKEN>
+				<TOKEN id="token-9-41" start_char="1141" end_char="1141">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-210-10" start_char="1143" end_char="1162">
+				<ORIGINAL_TEXT>You might also like:</ORIGINAL_TEXT>
+				<TOKEN id="token-10-0" start_char="1143" end_char="1145">You</TOKEN>
+				<TOKEN id="token-10-1" start_char="1147" end_char="1151">might</TOKEN>
+				<TOKEN id="token-10-2" start_char="1153" end_char="1156">also</TOKEN>
+				<TOKEN id="token-10-3" start_char="1158" end_char="1161">like</TOKEN>
+				<TOKEN id="token-10-4" start_char="1162" end_char="1162">:</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-210-11" start_char="1164" end_char="1206">
+				<ORIGINAL_TEXT>• The row over the the new coronavirus name</ORIGINAL_TEXT>
+				<TOKEN id="token-11-0" start_char="1164" end_char="1164">•</TOKEN>
+				<TOKEN id="token-11-1" start_char="1166" end_char="1168">The</TOKEN>
+				<TOKEN id="token-11-2" start_char="1170" end_char="1172">row</TOKEN>
+				<TOKEN id="token-11-3" start_char="1174" end_char="1177">over</TOKEN>
+				<TOKEN id="token-11-4" start_char="1179" end_char="1181">the</TOKEN>
+				<TOKEN id="token-11-5" start_char="1183" end_char="1185">the</TOKEN>
+				<TOKEN id="token-11-6" start_char="1187" end_char="1189">new</TOKEN>
+				<TOKEN id="token-11-7" start_char="1191" end_char="1201">coronavirus</TOKEN>
+				<TOKEN id="token-11-8" start_char="1203" end_char="1206">name</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-210-12" start_char="1208" end_char="1235">
+				<ORIGINAL_TEXT>• How to fight a coronavirus</ORIGINAL_TEXT>
+				<TOKEN id="token-12-0" start_char="1208" end_char="1208">•</TOKEN>
+				<TOKEN id="token-12-1" start_char="1210" end_char="1212">How</TOKEN>
+				<TOKEN id="token-12-2" start_char="1214" end_char="1215">to</TOKEN>
+				<TOKEN id="token-12-3" start_char="1217" end_char="1221">fight</TOKEN>
+				<TOKEN id="token-12-4" start_char="1223" end_char="1223">a</TOKEN>
+				<TOKEN id="token-12-5" start_char="1225" end_char="1235">coronavirus</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-210-13" start_char="1237" end_char="1273">
+				<ORIGINAL_TEXT>• The places that escaped Spanish flu</ORIGINAL_TEXT>
+				<TOKEN id="token-13-0" start_char="1237" end_char="1237">•</TOKEN>
+				<TOKEN id="token-13-1" start_char="1239" end_char="1241">The</TOKEN>
+				<TOKEN id="token-13-2" start_char="1243" end_char="1248">places</TOKEN>
+				<TOKEN id="token-13-3" start_char="1250" end_char="1253">that</TOKEN>
+				<TOKEN id="token-13-4" start_char="1255" end_char="1261">escaped</TOKEN>
+				<TOKEN id="token-13-5" start_char="1263" end_char="1269">Spanish</TOKEN>
+				<TOKEN id="token-13-6" start_char="1271" end_char="1273">flu</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-210-14" start_char="1275" end_char="1477">
+				<ORIGINAL_TEXT>This region is the epicentre of the outbreak, with almost 82% of the 75,000-plus cases registered so far in China and globally are from here, according to statistics complied by Johns Hopkins University.</ORIGINAL_TEXT>
+				<TOKEN id="token-14-0" start_char="1275" end_char="1278">This</TOKEN>
+				<TOKEN id="token-14-1" start_char="1280" end_char="1285">region</TOKEN>
+				<TOKEN id="token-14-2" start_char="1287" end_char="1288">is</TOKEN>
+				<TOKEN id="token-14-3" start_char="1290" end_char="1292">the</TOKEN>
+				<TOKEN id="token-14-4" start_char="1294" end_char="1302">epicentre</TOKEN>
+				<TOKEN id="token-14-5" start_char="1304" end_char="1305">of</TOKEN>
+				<TOKEN id="token-14-6" start_char="1307" end_char="1309">the</TOKEN>
+				<TOKEN id="token-14-7" start_char="1311" end_char="1318">outbreak</TOKEN>
+				<TOKEN id="token-14-8" start_char="1319" end_char="1319">,</TOKEN>
+				<TOKEN id="token-14-9" start_char="1321" end_char="1324">with</TOKEN>
+				<TOKEN id="token-14-10" start_char="1326" end_char="1331">almost</TOKEN>
+				<TOKEN id="token-14-11" start_char="1333" end_char="1334">82</TOKEN>
+				<TOKEN id="token-14-12" start_char="1335" end_char="1335">%</TOKEN>
+				<TOKEN id="token-14-13" start_char="1337" end_char="1338">of</TOKEN>
+				<TOKEN id="token-14-14" start_char="1340" end_char="1342">the</TOKEN>
+				<TOKEN id="token-14-15" start_char="1344" end_char="1345">75</TOKEN>
+				<TOKEN id="token-14-16" start_char="1346" end_char="1346">,</TOKEN>
+				<TOKEN id="token-14-17" start_char="1347" end_char="1349">000</TOKEN>
+				<TOKEN id="token-14-18" start_char="1350" end_char="1350">-</TOKEN>
+				<TOKEN id="token-14-19" start_char="1351" end_char="1354">plus</TOKEN>
+				<TOKEN id="token-14-20" start_char="1356" end_char="1360">cases</TOKEN>
+				<TOKEN id="token-14-21" start_char="1362" end_char="1371">registered</TOKEN>
+				<TOKEN id="token-14-22" start_char="1373" end_char="1374">so</TOKEN>
+				<TOKEN id="token-14-23" start_char="1376" end_char="1378">far</TOKEN>
+				<TOKEN id="token-14-24" start_char="1380" end_char="1381">in</TOKEN>
+				<TOKEN id="token-14-25" start_char="1383" end_char="1387">China</TOKEN>
+				<TOKEN id="token-14-26" start_char="1389" end_char="1391">and</TOKEN>
+				<TOKEN id="token-14-27" start_char="1393" end_char="1400">globally</TOKEN>
+				<TOKEN id="token-14-28" start_char="1402" end_char="1404">are</TOKEN>
+				<TOKEN id="token-14-29" start_char="1406" end_char="1409">from</TOKEN>
+				<TOKEN id="token-14-30" start_char="1411" end_char="1414">here</TOKEN>
+				<TOKEN id="token-14-31" start_char="1415" end_char="1415">,</TOKEN>
+				<TOKEN id="token-14-32" start_char="1417" end_char="1425">according</TOKEN>
+				<TOKEN id="token-14-33" start_char="1427" end_char="1428">to</TOKEN>
+				<TOKEN id="token-14-34" start_char="1430" end_char="1439">statistics</TOKEN>
+				<TOKEN id="token-14-35" start_char="1441" end_char="1448">complied</TOKEN>
+				<TOKEN id="token-14-36" start_char="1450" end_char="1451">by</TOKEN>
+				<TOKEN id="token-14-37" start_char="1453" end_char="1457">Johns</TOKEN>
+				<TOKEN id="token-14-38" start_char="1459" end_char="1465">Hopkins</TOKEN>
+				<TOKEN id="token-14-39" start_char="1467" end_char="1476">University</TOKEN>
+				<TOKEN id="token-14-40" start_char="1477" end_char="1477">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-210-15" start_char="1479" end_char="1533">
+				<ORIGINAL_TEXT>(Read more about the global fight against coronavirus.)</ORIGINAL_TEXT>
+				<TOKEN id="token-15-0" start_char="1479" end_char="1479">(</TOKEN>
+				<TOKEN id="token-15-1" start_char="1480" end_char="1483">Read</TOKEN>
+				<TOKEN id="token-15-2" start_char="1485" end_char="1488">more</TOKEN>
+				<TOKEN id="token-15-3" start_char="1490" end_char="1494">about</TOKEN>
+				<TOKEN id="token-15-4" start_char="1496" end_char="1498">the</TOKEN>
+				<TOKEN id="token-15-5" start_char="1500" end_char="1505">global</TOKEN>
+				<TOKEN id="token-15-6" start_char="1507" end_char="1511">fight</TOKEN>
+				<TOKEN id="token-15-7" start_char="1513" end_char="1519">against</TOKEN>
+				<TOKEN id="token-15-8" start_char="1521" end_char="1531">coronavirus</TOKEN>
+				<TOKEN id="token-15-9" start_char="1532" end_char="1533">.)</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

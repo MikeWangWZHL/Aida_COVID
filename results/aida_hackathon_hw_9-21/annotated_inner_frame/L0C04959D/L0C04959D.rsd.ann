@@ -1,0 +1,85 @@
+T1	PER 212 218	people
+T2	ORG 486 494	Facebook
+T3	PER 567 569	we
+T4	ORG 722 741	Journal of Virology
+T5	ORG 751 784	American Society for Microbiology
+T6	PER 1512 1516	body
+T7	ORG 1631 1649	MD Anderson Center
+T8	PER 1841 1844	you
+T9	PER 1890 1894	your
+T10	ORG 2251 2259	Facebook
+T11	PER 2438 2454	Donald Schaffner
+T12	PER 2471 2481	specialist
+T13	ORG 2492 2507	Associate Press
+T14	PER 2569 2575	people
+T15	PER 2599 2603	they
+T16	PER 2678 2684	people
+T17	ORG 2687 2690	Our
+T18	ORG 3235 3238	Our
+T19	PER 3266 3269	you
+T20	ORG 3285 3288	our
+T21	PER 3301 3304	You
+T22	ORG 3322 3325	our
+T23	ORG 3392 3395	Our
+T24	ORG 3449 3457	Facebook
+T25	COM 16 29	alkaline diet
+T26	medical_intervention_cure 36 40	kill
+E1	medical_intervention_cure:T26 Instrument:T25 MedicalIssue:T27
+A1	ClaimID_Semantic E1 CLL0C04959D.000000
+T27	MHI 45 56	coronavirus
+T28	medical_intervention_cure 98 102	beat
+E2	medical_intervention_cure:T28 MedicalIssue:T29 Instrument:T30
+A2	ClaimID_Semantic E2 CLL0C04959D.000001
+T29	MHI 107 118	coronavirus
+T30	COM 74 87	alkaline diet
+T31	COM 293 307	alkaline diets
+T32	medical_intervention_cure 585 589	beat
+E3	medical_intervention_cure:T32 MedicalIssue:T33 Instrument:T35
+A3	ClaimID_Semantic E3 CLL0C04959D.000002
+T33	MHI 590 601	coronavirus
+T34	life_consume_unspecified 607 610	eat
+E4	life_consume_unspecified:T34 ConsumedThing:T35
+A4	ClaimID_Semantic E4 CLL0C04959D.000002
+T35	COM 611 625	alkaline foods
+T36	contact_contact_broadcast 495 502	alleged
+E5	contact_contact_broadcast:T36 Communicator:T37 Topic:E3 Topic2:E4
+A5	ClaimID_Associate E5 CLL0C04959D.000002
+T37	INF 470 475	claim
+T38	disaster_diseaseoutbreak_unspecified 260 268	pandemic
+E6	disaster_diseaseoutbreak_unspecified:T38 Disease:T39
+A6	ClaimID_Associate E6 CLL0C04959D.000001
+A7	ClaimID2_Associate E6 CLL0C04959D.000002
+T39	MHI 159 170	coronavirus
+T40	COM 1953 1967	alkaline foods
+T41	life_consume_unspecified 1941 1947	Eating
+E7	life_consume_unspecified:T41 ConsumedThing:T40
+A8	ClaimID_Semantic E7 CLL0C04959D.000003
+A9	ClaimID2_Semantic E7 CLL0C04959D.000004
+T42	control_impedeinterferewith_prevent 1984 2002	preventive measure
+E8	control_impedeinterferewith_prevent:T42 Prevented_Thing:T44 Preventer:E7
+A10	ClaimID_Semantic E8 CLL0C04959D.000003
+T43	medical_intervention_cure 2006 2010	cure
+E9	medical_intervention_cure:T43 MedicalIssue:T44 Instrument:T40
+A11	ClaimID_Semantic E9 CLL0C04959D.000004
+T44	MHI 2019 2030	coronavirus
+T45	control_impedeinterferewith_prevent 2630 2637	prevent
+E10	control_impedeinterferewith_prevent:T45 Preventer:E11 Prevented_Thing:E12
+A12	ClaimID_Semantic E10 CLL0C04959D.000005
+T46	socialbehavior_complyobey_unspecified 2657 2684	stay away from other people
+E11	socialbehavior_complyobey_unspecified:T46 
+A13	ClaimID_Semantic E11 CLL0C04959D.000005
+T47	life_illness_unspecified 2638 2650	getting sick
+E12	life_illness_unspecified:T47 
+A14	ClaimID_Semantic E12 CLL0C04959D.000005
+T48	medical_intervention_cure 2749 2753	beat
+E13	medical_intervention_cure:T48 Instrument:T50 MedicalIssue:T49
+A15	ClaimID_Semantic E13 CLL0C04959D.000006
+T49	MHI 2758 2769	coronavirus
+T50	COM 2725 2738	alkaline diet
+T51	control_impedeinterferewith_prevent 3075 3085	preventive
+E14	control_impedeinterferewith_prevent:T51 Prevented_Thing:T53
+A16	ClaimID_Semantic E14 CLL0C04959D.000007
+T52	medical_intervention_cure 3098 3103	cures
+E15	medical_intervention_cure:T52 MedicalIssue:T53
+A17	ClaimID_Semantic E15 CLL0C04959D.000008
+T53	MHI 3108 3116	COVID-19

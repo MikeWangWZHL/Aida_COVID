@@ -1,0 +1,951 @@
+False or misleading information about COVID-19
+
+Disinfodemic - Deciphering COVID-19 disinformation, a guide from , a guide from UNESCO
+
+The COVID-19 pandemic has resulted in misinformation and conspiracy theories about the scale of the pandemic and the origin, prevention, diagnosis, and treatment of the disease.
+False information, including intentional disinformation, has been spread through social media, text messaging,[1] and mass media.
+Journalists have been arrested for allegedly spreading fake news about the pandemic.
+False information has also been propagated by celebrities, politicians, and other prominent public figures.
+The spread of COVID-19 misinformation by governments has also been significant.
+Commercial scams have claimed to offer at-home tests, supposed preventives, and "miracle" cures.
+[2] Several religious groups have claimed their faith will protect them from the virus.
+[3] Without evidence, some people have claimed the virus is a bioweapon accidentally or purposefully leaked from a laboratory, a population control scheme, the result of a spy operation, or the side effect of 5G upgrades to cellular networks.
+[4]
+
+The World Health Organization (WHO) declared an "infodemic" of incorrect information about the virus that poses risks to global health.
+[5]
+
+Overview
+
+On 30 January 2020, the BBC reported on the growing number of conspiracy theories and bad health advice regarding COVID-19.
+Notable examples at the time included false health advice shared on social media and private chats, as well as conspiracy theories such as the disease's origins in (Chinese) bat soup and the outbreak being planned with the participation of the Pirbright Institute.
+[6][7] On 31 January, The Guardian listed seven instances of misinformation, adding the conspiracy theories about bioweapons and the link to 5G technology, and including varied false health advice.
+[8]
+
+In an attempt to speed up research sharing, many researchers have turned to preprint servers such as arXiv, bioRxiv, medRxiv, and SSRN.
+Papers are uploaded to these servers without peer review or any other editorial process that ensures research quality.
+Some of these papers have contributed to the spread of conspiracy theories.
+The most notable case was an unreviewed preprint paper uploaded to bioRxiv which claimed that the virus contained HIV "insertions".
+Following objections, the paper was withdrawn.
+[9][10][11] Preprints about COVID-19 have been extensively shared online and some data suggest that they have been used by the media almost 10 times more than preprints on other topics.
+[12]
+
+According to a study published by the Reuters Institute for the Study of Journalism, most misinformation related to COVID-19 involves "various forms of reconfiguration, where existing and often true information is spun, twisted, recontextualised, or reworked"; less misinformation "was completely fabricated".
+The study also found that "top-down misinformation from politicians, celebrities, and other prominent public figures", while accounting for a minority of the samples, captured a majority of the social media engagement.
+According to their classification, the largest category of misinformation (39%) was "misleading or false claims about the actions or policies of public authorities, including government and international bodies like the WHO or the UN".
+[13]
+
+A natural experiment—an experiment that takes place spontaneously, without human design or intervention—shows a potential link between coronavirus misinformation and increased infection and death.
+There was one instance of this reported where two similar television news shown on the same network were compared.
+One reported the effects of coronavirus more seriously and about a month earlier than the other.
+People and groups exposed to the news show reporting the effects later had higher infection and death rates.
+[14]
+
+Misinformation on this subject has been used by politicians, interest groups, and state actors in many countries for political purposes: to avoid responsibility, scapegoat other countries, and avoid criticism of their earlier decisions.
+Sometimes there is a financial motive as well.
+[15][16][17] A number of countries have been accused of spreading disinformation with state-backed operations in the social media in other countries to generate panic, sow distrust, and undermine democratic debate in other countries, or to promote their models of government.
+[18][19][20][21]
+
+A Cornell University study of 38 million articles in English-language media around the world found that US President Donald Trump was the single largest driver of the misinformation.
+[22][23]
+
+Virus origin
+
+It is thought by most virologists that the SARS-CoV-2 virus originated in bats, and transferred to humans via a spillover event, possibly involving another intermediate animal host.
+[24] However, many other origin stories have been told, ranging from claims of secret plots by political opponents to a conspiracy theory about mobile phones.
+The Pew Research Center found, for example, that one in three Americans believed the new coronavirus had been created in a lab; one in four thought it had been engineered intentionally.
+[25]
+
+Wuhan lab leak story
+
+Though the origin of the SARS-CoV-2 virus has not been determined, unfounded speculation and conspiracy theories regarding the possibility the SARS-CoV-2 virus originated in the Wuhan Institute of Virology have gained popularity during the pandemic.
+[26][27] Examples of hyperbole regarding this possibility say the pandemic was the result of an accidental leakage of a coronavirus, or that that the virus was engineered as a bio-weapon.
+[28][26][24][29] Despite much speculation on the Internet, "lab" related theories are not supported by scientific evidence.
+Some proponents of this theory are dedicated to trying to unearth "evidence" which supports it, while attacking evidence which does not support such theories.
+[26] Definitively proving or disproving a "lab" related origin of the virus is a difficult and lengthy process, and long investigations are required to provide a definitive proof or disproof of any theory of the virus' origin.
+[26][30]
+
+One early source of the bio-weapon origin was former Israeli secret service officer Dany Shoham, who gave an interview to The Washington Times about the Wuhan laboratory.
+[31][32] The Epoch Times, a newspaper affiliated with Falun Gong, refers to the SARS-CoV-2 virus as the "CCP virus", and a commentary in the newspaper posed the question, "is the novel coronavirus outbreak in Wuhan an accident occasioned by weaponizing the virus at that [Wuhan P4 virology] lab?
+"[33][34] One scientist from Hong Kong, Li-Meng Yan, fled China and released a preprint stating the virus was modified in a lab rather than having a natural evolution.
+In a peer-review, her claims were labelled as misleading, not scientific, and an unethical promotion of "essentially conspiracy theories that are not founded in fact".
+[35]
+
+US politicians began spreading the unproven theories of a "lab" origin, including Republican Senators Tom Cotton, Josh Hawley and Marsha Blackburn, as well as then-President Donald Trump and Secretary of State Mike Pompeo.
+[36][37][38][39] Many scientists and authorities countered that the theories had no evidence to support the claims being made, including NIAID director Anthony Fauci and the Five Eyes intelligence alliance.
+[40][41][42] One popular idea used incorrectly to support the "lab" origin hypothesis invokes previous gain-of-function research on coronaviruses to support the idea that the virus was of laboratory origin.
+Virologist Angela Rasmussen writes that this is unlikely, due to the intense scrutiny and government oversight gain-of-function research is subject to, and it is improbable that research on hard-to obtain coronaviruses could occur under the radar.
+[43]
+
+In response to propagation of the "lab" origin theory in the US, the Chinese government has promulgated its own version of the conspiracy theory, holding that the virus was developed by the United States army at Fort Detrick.
+[44]
+
+On 9 February 2021 a team probing the origins of the COVID-19 pandemic for the World Health Organization said that that the coronavirus "most likely" originated in animals before spreading to humans, and rated the lab leak theory as "extremely unlikely",[45][46][47] with Peter Ben Embarek, the WHO mission chief, saying in a subsequent interview to Science that as a consequence of the investigation, the lab leak theory was considered even more unlikely than before,[48] and that although it was not "impossible," investigations into the origins of SARS-CoV-2 would likely continue for years.
+[48][49]
+
+Chinese espionage involving Canadian lab
+
+Some people have alleged that the coronavirus was stolen from a Canadian virus research lab by Chinese scientists.
+Health Canada and the Public Health Agency of Canada said that this had "no factual basis".
+[50] The stories seem to have been derived[51] from a July 2019 news article[52] stating that some Chinese researchers had their security access to the National Microbiology Laboratory in Winnipeg, a Level 4 virology lab, revoked after a Royal Canadian Mounted Police investigation.
+Canadian officials described this as an administrative matter and said there was no risk to the Canadian public.
+[52]
+
+The article was published by the Canadian Broadcasting Corporation (CBC).
+[51] Responding to the conspiracy theories, the CBC stated that "CBC reporting never claimed the two scientists were spies, or that they brought any version of the coronavirus to the lab in Wuhan".
+While pathogen samples were transferred from the lab in Winnipeg to Beijing on 31 March 2019, neither of the samples was a coronavirus, the Public Health Agency of Canada says the shipment conformed to all federal policies, and there has not been any statement that the researchers under investigation were responsible for sending the shipment.
+The current location of the researchers under investigation by the Royal Canadian Mounted Police has not been released.
+[50][53][54]
+
+In the midst of the coronavirus epidemic, a senior research associate and expert in biological warfare with the Begin-Sadat Center for Strategic Studies, referring to a NATO press conference, reported that secretary-general Jens Stoltenberg could not comment about the event, but expressed concerns about "increased efforts by the nations to spy on NATO allies in different ways".
+Nothing suggested that espionage was the reason behind the expulsions from the lab, that coronavirus was taken from the Canadian lab or that it is the result of bioweapons defense research in China.
+[55]
+
+United States biological weapon
+
+According to London-based The Economist, plenty of conspiracy theories exist on China's internet about COVID-19 being the CIA's creation to keep China down.
+[56] According to an investigation by ProPublica, such conspiracy theories and disinformation have been propagated under the direction of China News Service, the country's second largest government-owned media outlet controlled by the United Front Work Department.
+[57] Global Times and Xinhua News Agency have similarly been implicated in propagating disinformation related to COVID-19's origins.
+[58] NBC News however has noted that there have also been debunking efforts of US-related conspiracy theories posted online, with a WeChat search of "Coronavirus is from the U.S." reported to mostly yield articles explaining why such claims are unreasonable.
+[59][a] for example the CPC-owned newspaper Global Times.
+[71]
+
+On 12 March 2020, two spokesmen for the Chinese Ministry of Foreign Affairs, Zhao Lijian and Geng Shuang, alleged at a press conference that Western powers may have "bio-engineered" the coronavirus, alluding to the US Government, but more specifically to the US Army as having created and spread the virus.
+[72]
+
+In January 2021, Hua Chunying renewed the conspiracy theory from Lijian and Shuang that the SARS-CoV-2 virus originating in the United States at the U.S. biological weapons lab Fort Detrick.
+This conspiracy theory quickly went trending on the Chinese social media platform Weibo, and Chunying continued to cite evidence on Twitter, while asking the government of the United States to open up Fort Detrick for further investigation to determine if it is the source of the SARS-CoV-2 virus.
+[73][74]
+
+On 22 February 2020, US officials alleged that Russia is behind an ongoing disinformation campaign, using thousands of social media accounts on Twitter, Facebook and Instagram to deliberately promote unfounded conspiracy theories, claiming the virus is a biological weapon manufactured by the CIA and the US is waging economic war on China using the virus.
+[75][76][77][b]
+
+According to Washington DC-based nonprofit Middle East Media Research Institute, numerous writers in the Arabic press have promoted the conspiracy theory that COVID-19, as well as SARS and the swine flu virus, were deliberately created and spread to sell vaccines against these diseases, and it is "part of an economic and psychological war waged by the U.S. against China with the aim of weakening it and presenting it as a backward country and a source of diseases".
+[83][c]
+
+The same theory has been reported via Iranian propaganda "to damage its culture and honor".
+[84] Reza Malekzadeh, Iran's deputy health minister and former Minister of Health, rejected claims that the virus was a biological weapon, pointing out that the US would be suffering heavily from it.
+He said Iran was hard-hit because its close ties to China and reluctance to cut air ties introduced the virus, and because early cases had been mistaken for influenza.
+[85][d] The theory has also circulated in the Philippines[e] and Venezuela.
+[f]
+
+Jewish origin
+
+In the Muslim world
+
+Iran's Press TV asserted that "Zionist elements developed a deadlier strain of coronavirus against Iran".
+[98] Similarly, Arab media outlets accused Israel and the United States of creating and spreading COVID-19, avian flu, and SARS.
+[99] Users on social media offered other theories, including the allegation that Jews had manufactured COVID-19 to precipitate a global stock market collapse and thereby profit via insider trading,[100] while a guest on Turkish television posited a more ambitious scenario in which Jews and Zionists had created COVID-19, avian flu, and Crimean–Congo hemorrhagic fever to "design the world, seize countries, [and] neuter the world's population".
+[101]
+
+Israeli attempts to develop a COVID-19 vaccine prompted negative reactions in Iran.
+Grand Ayatollah Naser Makarem Shirazi denied initial reports that he had ruled that a Zionist-made vaccine would be halal,[102] and one Press TV journalist tweeted that "I'd rather take my chances with the virus than consume an Israeli vaccine".
+[103] A columnist for the Turkish Yeni Akit asserted that such a vaccine could be a ruse to carry out mass sterilization.
+[104]
+
+In the United States
+
+An alert by the US Federal Bureau of Investigation regarding the possible threat of far-right extremists intentionally spreading the coronavirus mentioned blame being assigned to Jews and Jewish leaders for causing the pandemic and several statewide shutdowns.
+[105]
+
+Anti-Muslim
+
+In India, Muslims have been blamed for spreading infection following the emergence of cases linked to a Tablighi Jamaat religious gathering.
+[106] There are reports of vilification of Muslims on social media and attacks on individuals in India.
+[107] Claims have been made that Muslims are selling food contaminated with coronavirus and that a mosque in Patna was sheltering people from Italy and Iran.
+[108] These claims were shown to be false.
+[109] In the UK, there are reports of far-right groups blaming Muslims for the coronavirus outbreak and falsely claiming that mosques remained open after the national ban on large gatherings.
+[110]
+
+Population-control scheme
+
+According to the BBC, Jordan Sather, a YouTuber supporting the QAnon conspiracy theory and the anti-vax movement, has falsely claimed that the outbreak was a population-control scheme created by the Pirbright Institute in England and by former Microsoft CEO Bill Gates.
+[6][111][112]
+
+Piers Corbyn was described as "dangerous" by physician and broadcaster Hilary Jones during their joint interview on Good Morning Britain in early September 2020.
+Corbyn described the coronavirus as a "psychological operation to close down the economy in the interests of mega-corporations" and stated "vaccines cause death".
+[113]
+
+5G mobile phone networks
+
+Openreach engineers appealed on anti-5G Facebook groups, saying they are not involved in mobile networks, and workplace abuse is making it difficult for them to maintain phonelines and broadband.
+5G towers have been burned by people falsely blaming them for COVID-19.
+In February 2020, BBC News reported that conspiracy theorists on social media groups alleged a link between coronavirus and 5G mobile networks, claiming that the Wuhan and Diamond Princess outbreaks were directly caused by electromagnetic fields and by the introduction of 5G and wireless technologies.
+Conspiracy theorists have alleged that the pandemic was a cover-up for a 5G-related illness.
+[114]
+
+In March 2020, Thomas Cowan, a holistic medical practitioner who trained as a physician and operates on probation with the Medical Board of California, alleged that COVID-19 is caused by 5G.
+He based this on the claims that African countries had not been affected significantly by the pandemic and Africa was not a 5G region.
+[115][116] Cowan also falsely alleged that the viruses were waste from cells that were poisoned by electromagnetic fields, and that historical viral pandemics coincided with major developments in radio technology.
+[116]
+
+The video of Cowan's claims went viral and was recirculated by celebrities, including Woody Harrelson, John Cusack, and singer Keri Hilson.
+[117] The claims may also have been recirculated by an alleged "coordinated disinformation campaign", similar to campaigns used by the Internet Research Agency in Saint Petersburg, Russia.
+[118] The claims were criticized on social media and debunked by Reuters,[119] USA Today,[120] Full Fact[121] and American Public Health Association executive director Georges C.
+Benjamin.
+[115][122]
+
+Cowan's claims were repeated by Mark Steele, a conspiracy theorist who claimed to have first-hand knowledge that 5G was in fact a weapon system capable of causing symptoms identical to those produced by the virus.
+[123] Kate Shemirani, a former nurse who had been struck off the UK nursing registry and had become a promoter of conspiracy theories, repeatedly claimed that these symptoms were identical to those produced by exposure to electromagnetic fields.
+[124]
+
+Steve Powis, national medical director of NHS England, described theories linking 5G mobile phone networks to COVID-19 as the "worst kind of fake news".
+[125] Viruses cannot be transmitted by radio waves, and COVID-19 has spread and continues to spread in many countries that do not have 5G networks.
+[126]
+
+There were 20 suspected arson attacks on phone masts in the UK over the 2020 Easter weekend.
+[125] These included an incident in Dagenham where three men were arrested on suspicion of arson, a fire in Huddersfield that affected a mast used by emergency services, and a fire in a mast that provides mobile connectivity to the NHS Nightingale Hospital Birmingham.
+[125] Some telecom engineers reported threats of violence, including threats to stab and murder them, by individuals who believe them to be working on 5G networks.
+[127] On 12 April 2020, Gardaí and fire services were called to fires at 5G masts in County Donegal, Ireland.
+[128] The Gardaí were treating the fires as arson.
+[128] After the arson attacks, British Cabinet Office Minister Michael Gove said the theory that COVID-19 virus may be spread by 5G wireless communication is "just nonsense, dangerous nonsense as well".
+[129] Telecommunications provider Vodafone announced that two Vodafone masts and two it shares with O2, another provider, had been targeted.
+[130][131]
+
+By 6 April 2020, at least 20 mobile phone masts in the UK had been vandalised since the previous Thursday.
+[132] Because of the slow rollout of 5G in the UK, many of the damaged masts had only 3G and 4G equipment.
+[132] Mobile phone and home broadband operators estimated there were at least 30 incidents where engineers maintaining equipment were confronted in the week up to 6 April.
+[132] As of 30 May, there had been 29 incidents of attempted arson at mobile phone masts in the Netherlands, including one case where "Fuck 5G" was written.
+[133][134] There have also been incidents in Ireland and Cyprus.
+[135] Facebook has deleted messages encouraging attacks on 5G equipment.
+[132]
+
+Engineers working for Openreach, a division of British Telecom, posted pleas on anti-5G Facebook groups asking to be spared abuse as they are not involved with maintaining mobile networks.
+[136] Industry lobby group Mobile UK said the incidents were affecting the maintenance of networks that support home working and provide critical connections to vulnerable customers, emergency services, and hospitals.
+[136] A widely circulated video showed a woman accusing employees of broadband company Community Fibre of installing 5G as part of a plan to kill the population.
+[136]
+
+Of those who believed that 5G networks caused COVID-19 symptoms, 60% stated that much of their knowledge about the virus came from YouTube.
+[137] In April 2020, YouTube announced that it would reduce the amount of content claiming links between 5G and coronavirus.
+[130] Videos that are conspiratorial about 5G that do not mention coronavirus would not be removed, though they might be considered "borderline content" and therefore removed from search recommendations, losing advertising revenue.
+[130] The discredited claims had been circulated by British conspiracy theorist David Icke in videos (subsequently removed) on YouTube and Vimeo, and an interview by London Live TV network, prompting calls for action by Ofcom.
+[138][139] It took YouTube on average 41 days to remove Covid-related videos containing false information in the first half of 2020.
+[140]
+
+Ofcom issued guidance to ITV following comments by Eamonn Holmes about 5G and coronavirus on This Morning.
+Ofcom said the comments were "ambiguous" and "ill-judged" and they "risked undermining viewers' trust in advice from public authorities and scientific evidence".
+Ofcom also found local channel London Live in breach of standards for an interview it had with David Icke.
+It said that he had "expressed views which had the potential to cause significant harm to viewers in London during the pandemic".
+On 24 April 2020, The Guardian revealed that Jonathan Jones, an evangelical pastor from Luton, had provided the male voice on a recording blaming 5G for deaths caused by coronavirus.
+[142] He claimed to have formerly headed the largest business unit at Vodafone, but insiders at the company said that he was hired for a sales position in 2014 when 5G was not a priority for the company and that 5G would not have been part of his job.
+[142] He had left Vodafone after less than a year.
+[142]
+
+A tweet started an internet meme that Bank of England £20 banknotes contained a picture of a 5G mast and the SARS-CoV-2 virus.
+Facebook and YouTube removed items pushing this story, and fact checking organisations established that the picture is of Margate Lighthouse and the "virus" is the staircase at the Tate Britain.
+[143][144][145]
+
+American scientist selling virus to China
+
+In April 2020, rumors circulated on Facebook, alleging that the US Government had "just discovered and arrested" Dr. Charles Lieber, chair of the Chemistry and Chemical Biology Department at Harvard University for "manufacturing and selling" the novel coronavirus to China.
+According to a report from Reuters, posts spreading the rumor were shared in multiple languages over 79,000 times on Facebook.
+[146] Lieber was arrested on 28 January 2020, and later charged with two federal counts of making an allegedly false statement about his links to a Chinese university, unrelated to the virus.
+The rumor of Lieber, a chemist in an area entirely unrelated to the virus research, creating the coronavirus and selling it to China has been discredited.
+[147]
+
+Meteor origin
+
+In 2020, a group of researchers that most notably included Edward J. Steele and N. Chandra Wickramasinghe, claimed in ten research papers that COVID-19 originated from a meteor spotted as a bright fireball over the city of Songyuan in Northeast China on 11 October 2019 and that a fragment of the meteor landed in the Wuhan area, which started the first COVID-19 outbreaks.
+However, the group of researchers did not provide any direct evidence proving this theory.
+[148]
+
+In an August 2020 article, Astronomy.com called the meteor origin theory "so remarkable that it makes the others look boring by comparison".
+[148]
+
+Misreporting of morbidity and mortality numbers
+
+Correctly reporting the number of people who were sick or who had died was a struggle, especially during the earliest days of the pandemic.
+In the US, the public health handling of the pandemic has been hampered by the use of archaic technology (including FAX machines and incompatible formats),[149] poor data flow and management (or even no access to data), and general lack of standardization and leadership.
+[150] Privacy laws hampered contact tracing and case finding efforts, which resulted in under-diagnosis and under-reporting.
+[151]
+
+Accusations have been made of under-reporting, over-reporting, and other problems.
+Necessary data was corrupted in some places, for example, on the state level in the United States.
+[152]
+
+Chinese under-reporting during early 2020
+
+Leaked documents show that China's public reporting of cases gave an incomplete picture during the early stages of the pandemic.
+For example, on 10 February 2020, China publicly reported 2,478 new confirmed cases.
+However, confidential internal documents that later leaked to CNN showed 5,918 new cases on 10 February.
+These were broken down as 2,345 confirmed cases[clarification needed], 1,772 clinically diagnosed cases and 1,796 suspected cases.
+[153][154]
+
+Misleading Johns Hopkins News-Letter article
+
+On 22 November 2020 a study by assistant director for the Master's in Applied Economics Genevieve Briand was published in the student-run newspaper Johns Hopkins News-Letter,[155] and later retracted due to it being used to spread misinformation on social media.
+The study incorrectly suggested that there were no excess deaths due to COVID-19 in the US without taking into account the total excess mortality from all causes reported during the pandemic, with 300,000 being associated to it per CDC data.
+Deaths per age group were also shown as a proportion percentage rather than in raw numbers under the erroneous presumption that they would reflect the effects of the pandemic.
+In addition, the study observed a reduction in deaths from other causes and suggested that deaths due to heart and respiratory diseases could be being incorrectly categorized as deaths due to COVID-19, failing to take into account that those with such conditions are more vulnerable to the virus and therefore more likely to die from it.
+[citation needed]
+
+Allegations of inflated death counts
+
+In August 2020, President Donald Trump retweeted that only 6% of reported COVID-19 deaths in the United States were actually from the disease, based on COVID-19 being the only condition listed on the death certificate.
+The lead mortality statistician at the CDC’s National Center for Health Statistics said that those death certificates likely did not include all the steps that led to the death and thus were incomplete.
+The CDC collects data based on case surveillance, vital records, and excess deaths.
+[156] A factcheck.org article on the issue reported that while 6% of the death certificates included COVID-19 exclusively as the cause of death and 94% had additional conditions that contributed to it, COVID-19 was listed as the underlying cause of death in 92% of them, as it may directly cause other severe conditions such as pneumonia or acute respiratory distress syndrome.
+[157] In mid-October 2020, the number of deaths from COVID-19 in the United States was reported at 218,511 (CDC), 219,681 (Johns Hopkins University) and 219,541 (The New York Times).
+Alleged leak of death toll
+
+On 5 February 2020, Taiwan News published an article claiming that Tencent may have accidentally leaked the real numbers of death and infection in China.
+Taiwan News suggested that the Tencent Epidemic Situation Tracker had briefly showed infected cases and death tolls many times higher of the official figure, citing a Facebook post by 38-year-old Taiwanese beverage store owner Hiroki Lo and an anonymous Taiwanese netizen.
+[158][better source needed] The article, referenced by other news outlets such as the Daily Mail and widely circulated on Twitter, Facebook and 4chan, sparked a wide range of conspiracy theories that the screenshot indicates the real death toll instead of the ones published by health officials.
+[159] Justin Lessler, associate professor at the Bloomberg School of Public Health, claims the numbers of the alleged "leak" are unreasonable and unrealistic, citing the case fatality rate as far lower than the 'leaked information'.
+A spokesman for Tencent responded to the news article, claiming the image was doctored, and it features "false information which we never published".
+[160]
+
+The author of the original news article defended the authenticity and newsworthiness of the leak on a WION program.
+[159]
+
+Mass cremation in Wuhan
+
+On 8 February 2020, a report emerged on Twitter claiming that "data" showed a massive increase in sulfur emissions over Wuhan, China.
+The Twitter thread then claimed the reason was due to the mass cremation of coronavirus victims.
+The story was shared on multiple media outlets, including Daily Express, Daily Mail, and Taiwan News.
+[161][159] Snopes debunked the misinformation, pointing out that the maps used by the claims were not real-time observations of sulfur dioxide (SO 2 ) concentrations above Wuhan.
+Instead, the data was a computer-generated model based on historical information and forecast on SO 2 emissions.
+[162]
+
+A story in The Epoch Times on 17 February 2020 shared a map from the Internet that falsely alleged massive sulfur dioxide releases from crematoriums during the COVID-19 pandemic in China, speculating that 14,000 bodies may have been burned.
+[163] A fact check by AFP reported that the map was a NASA forecast taken out of context.
+[163]
+
+Misinformation against Taiwan
+
+On 26 February 2020, the Taiwanese Central News Agency reported that large amounts of misinformation had appeared on Facebook claiming the pandemic in Taiwan was out of control, the Taiwanese government had covered up the total number of cases, and that President Tsai Ing-wen had been infected.
+The Taiwan fact-checking organization had suggested the misinformation on Facebook shared similarities with mainland China due to its use of simplified Chinese characters and mainland China vocabulary.
+The organization warned that the purpose of the misinformation is to attack the government.
+[164][165][166]
+
+In March 2020, Taiwan's Ministry of Justice Investigation Bureau warned that China was trying to undermine trust in factual news by portraying the Taiwanese government reports as fake news.
+Taiwanese authorities have been ordered to use all possible means to track whether the messages were linked to instructions given by the Chinese Communist Party.
+The PRC's Taiwan Affairs Office denied the claims, calling them lies, and said that Taiwan's Democratic Progressive Party was "inciting hatred" between the two sides.
+They then claimed that the "DPP continues to politically manipulate the virus".
+[167] According to The Washington Post, China has used organized disinformation campaigns against Taiwan for decades.
+[168]
+
+Nick Monaco, the research director of the Digital Intelligence Lab at Institute for the Future, analyzed the posts and concluded that the majority appear to have come from ordinary users in China, not the state.
+However, he criticized the Chinese government's decision to allow the information to spread beyond China's Great Firewall, which he described as "malicious".
+[169] According to Taiwan News, nearly one in four cases of misinformation are believed to be connected to China.
+[170]
+
+On 27 March 2020, the American Institute in Taiwan announced that it was partnering with the Taiwan FactCheck Center to help combat misinformation about the COVID-19 outbreak.
+[171]
+
+Misrepresented World Population Project map
+
+In early February 2020, a decade-old map illustrating a hypothetical viral outbreak published by the World Population Project (part of the University of Southampton) was misappropriated by a number of Australian media news outlets (and British tabloids The Sun, Daily Mail and Metro)[172] which claimed the map represented the 2020 coronavirus outbreak.
+This misinformation was then spread via the social media accounts of the same media outlets, and while some outlets later removed the map, the BBC reported, on 19 February, that a number of news sites had yet to retract the map.
+[172]
+
+Nurse whistleblower
+
+On 24 January 2020, a video circulated online appearing to be of a nurse named Jin Hui[173] in Hubei, describing a far more dire situation in Wuhan than reported by Chinese officials.
+The video claimed that more than 90,000 people had been infected with the virus in China, that the virus could spread from one person to 14 people (R 0 =14) and that the virus was starting a second mutation.
+[174] The video attracted millions of views on various social media platforms and was mentioned in numerous online reports.
+However, the BBC said that, contrary to its English subtitles in one of the video's existing versions, the woman does not claim to be either a nurse or a doctor in the video and that her suit and mask do not match the ones worn by medical staff in Hubei.
+[6] The claimed R 0 of 14 in the video was noted by the BBC to be inconsistent with the expert estimation of 1.4 to 2.5 at that time.
+[175] The video's claim of 90,000 infected cases was noted to be 'unsubstantiated'.
+[6][174]
+
+Decline in cellphone subscriptions
+
+There was a decrease of nearly 21 million cellphone subscriptions among the three largest cellphone carriers in China, which led to misinformation that this is evidence for millions of deaths due to the coronavirus in China.
+[176] The drop is attributed to cancellations of phone services due to a downturn in the social and economic life during the outbreak.
+[176]
+
+Casedemic
+
+COVID-19 deniers use the word casedemic as a shorthand for a conspiracy theory holding that COVID-19 is harmless and that the reported disease figures are merely a result of increased testing.
+The concept is particularly attractive to anti-vaccination activists, who use it to argue that public health measures, and particularly vaccines, are not needed to counter what they say is a fake epidemic.
+[177][178][179][180]
+
+David Gorski writes that the word casedemic was seemingly coined by Ivor Cummins – an engineer whose views are popular among COVID-19 deniers – in August 2020.
+[177]
+
+The term has been adopted by alternative medicine advocate Joseph Mercola, who has exaggerated the effect of false positives in polymerase chain reaction (PCR) tests to construct a false narrative that testing is invalid because it is not perfectly accurate.
+In reality, the problems with PCR testing are well-known and accounted for by public health authorities.
+Such claims also disregard the possibility of asymptomatic spread, the number of potentially-undetected cases during the initial phases of the pandemic in comparison to the present due to increased testing and knowledge since, and other variables that can influence PCR tests.
+[177]
+
+Disease spread
+
+Early in the pandemic, little information was known about how the virus spreads, when the first people became sick, or who was most vulnerable to infection, serious complications, or death.
+During 2020, it became clear that the main route of spread was through exposure to the virus-laden respiratory droplets produced by an infected person.
+[181] There were also some early questions about whether the disease might have been present earlier than reported; however, subsequent research disproved this idea.
+[182][183]
+
+California herd immunity in 2019
+
+On 31 March 2020, Victor Davis Hanson publicized a theory that COVID-19 may have been in California in the fall of 2019 resulting in a level of herd immunity to at least partially explain differences in infection rates in cities such as New York City vs Los Angeles.
+[184] Jeff Smith of Santa Clara County stated that evidence indicated the virus may have been in California since December 2019.
+[185] Early genetic and antibody analyses refute the idea that the virus was in the United States prior to January 2020.
+[182][183][186][187][needs update]
+
+Patient Zero
+
+In March, conspiracy theorists started the false rumor that Maatje Benassi, a US army reservist, was "Patient Zero" of the pandemic, the first person to be infected with coronavirus.
+Benassi was targeted because of her participation in the 2019 Military World Games at Wuhan before the pandemic started, even though she never tested positive for the virus.
+Conspiracy theorists even connected her family to the DJ Benny Benassi as a Benassi virus plot, even though they are not related and Benny had also not had the virus.
+[188]
+
+Resistance/susceptibility based on ethnicity
+
+There have been claims that specific ethnicities are more or less vulnerable to COVID-19.
+COVID-19 is a new zoonotic disease, so no population has yet had the time to develop population immunity.
+[medical citation needed]
+
+Beginning on 11 February, reports, quickly spread via Facebook, implied that a Cameroonian student in China had been completely cured of the virus due to his African genetics.
+While a student was successfully treated, other media sources have indicated that no evidence implies Africans are more resistant to the virus and labeled such claims as false information.
+[189] Kenyan Secretary of Health Mutahi Kagwe explicitly refuted rumors that "those with black skin cannot get coronavirus", while announcing Kenya's first case on 13 March.
+[190] This myth was cited as a contributing factor in the disproportionately high rates of infection and death observed among African Americans.
+[191][192]
+
+There have been claims of "Indian immunity": that the people of India have more immunity to the COVID-19 virus due to living conditions in India.
+This idea was deemed "absolute drivel" by Anand Krishnan, professor at the Centre for Community Medicine of the All India Institute of Medical Sciences (AIIMS).
+He said there was no population immunity to the COVID-19 virus yet, as it is new, and it is not even clear whether people who have recovered from COVID-19 will have lasting immunity, as this happens with some viruses but not with others.
+[193]
+
+Iran's Supreme Leader Ayatollah Ali Khamenei claimed the virus was genetically targeted at Iranians by the US, giving this explanation for the pandemic having seriously affected Iran.
+He did not offer any evidence.
+[194][195]
+
+A group of Jordanian researchers published a report claiming that Arabs are less vulnerable to COVID-19 due to a genetic variation specific to those of Middle East heritage.
+This paper had not been debunked by November 2020.
+[196]
+
+Xenophobic blaming by ethnicity and religion
+
+UN video warns that misinformation against groups may lower testing rates and increase transmission.
+COVID-19-related xenophobic attacks have been made against individuals with the attacker blaming the victim for COVID-19 on the basis of his or her ethnicity.
+People who are considered to look Chinese have been subjected to COVID-19-related verbal and physical attacks in many other countries, often by people accusing them of transmitting the virus.
+[197][198][199] Within China, there has been discrimination (such as evictions and refusal of service in shops) against people from anywhere closer to Wuhan (where the pandemic started) and against anyone perceived as being non-Chinese (especially those considered African), as the Chinese government has blamed continuing cases on re-introductions of the virus from abroad (90% of reintroduced cases were by Chinese passport-holders).
+Neighbouring countries have also discriminated against people seen as Westerners.
+[200][201][202]
+
+People have also simply blamed other local groups along the lines of pre-existing social tensions and divisions, sometimes citing reporting of COVID-19 cases within that group.
+For instance, Muslims have been widely blamed, shunned, and discriminated against in India (including some violent attacks), amid unfounded claims that Muslims are deliberately spreading COVID-19, and a Muslim event at which the disease did spread has received far more public attention than many similar events run by other groups and the government.
+[203] White supremacist groups have blamed COVID-19 on non-whites and advocated deliberately infecting minorities they dislike, such as Jews.
+[204]
+
+Bat soup consumption
+
+Some media outlets, including Daily Mail and RT, as well as individuals, disseminated a video showing a Chinese woman eating a bat, falsely suggesting it was filmed in Wuhan and connecting it to the outbreak.
+[205][206] However, the widely circulated video contains unrelated footage of a Chinese travel vlogger, Wang Mengyun, eating bat soup in the island country of Palau in 2016.
+[205][206][207][208] Wang posted an apology on Weibo,[207][208] in which she said she had been abused and threatened,[207] and that she had only wanted to showcase Palauan cuisine.
+[207][208] The spread of misinformation about bat consumption has been characterized by xenophobic and racist sentiment toward Asians.
+[209][210][211] In contrast, scientists suggest the virus originated in bats and migrated into an intermediary host animal before infecting people.
+[209][212]
+
+Large gatherings
+
+South Korean "conservative populist" Jun Kwang-hun told his followers there was no risk to mass public gatherings as the virus was impossible to contract outdoors.
+Many of his followers are elderly.
+[213]
+
+Lifetime of the virus
+
+Misinformation has spread that the lifetime of SARS-CoV-2 is only 12 hours and that staying home for 14 hours during the Janata curfew would break the chain of transmission.
+[214] Another message claimed that observing the Janata curfew would result in the reduction of COVID-19 cases by 40%.
+[214]
+
+Mosquitoes
+
+It has been claimed that mosquitoes transmit coronavirus.
+There is no evidence that this is true.
+Coronavirus is likely to spread through small droplets of saliva and mucus.
+[126]
+
+Objects
+
+A fake Costco product recall notice circulated on social media purporting that Kirkland-brand bath tissue had been contaminated with COVID-19 (meaning SARS-CoV-2) due to the item being made in China.
+No evidence supports that SARS-CoV-2 can survive on surfaces for prolonged periods of time (as might happen during shipping), and Costco has not issued such a recall.
+[215][216][217]
+
+A warning claiming to be from the Australia Department of Health said coronavirus spreads through petrol pumps and that everyone should wear gloves when filling up petrol in their cars.
+[218]
+
+There were claims that wearing shoes at one's home was the reason behind the spread of the coronavirus in Italy.
+[219]
+
+Cruise ships' safety from infection
+
+Claims by cruise-ship operators notwithstanding, there are many cases of coronaviruses in hot climates; some countries in the Caribbean , the Mediterranean , and the Persian Gulf are severely affected.
+In March 2020, the Miami New Times reported that managers at Norwegian Cruise Line had prepared a set of responses intended to convince wary customers to book cruises, including "blatantly false" claims that the coronavirus "can only survive in cold temperatures, so the Caribbean is a fantastic choice for your next cruise", that "[s]cientists and medical professionals have confirmed that the warm weather of the spring will be the end of the [c]oronavirus", and that the virus "cannot live in the amazingly warm and tropical temperatures that your cruise will be sailing to".
+[220]
+
+Flu is seasonal (becoming less frequent in the summer) in some countries, but not in others.
+While it is possible that the COVID-19 coronavirus will also show some seasonality, it is not yet known.
+[221][222][223][medical citation needed] When the COVID-19 coronavirus spread along international air travel routes, it does not bypass tropical locations.
+[224] Outbreaks on cruise ships, where an older population lives in close quarters, frequently touching surfaces which others have touched, were common.
+[225][226]
+
+It seems that COVID-19 can be transmitted in all climates.
+[126] It has seriously affected many warm-climate countries.
+For instance, Dubai, with a year-round average daily high of 28.0 Celsius (82.3 °F) and the airport said to have the world's most international traffic, has had thousands of cases.
+[medical citation needed]
+
+Breastfeeding infants
+
+While commercial companies that make breastmilk substitutes promote their products during the pandemic, the WHO and UNICEF advise that women should continue to breastfeed during the COVID-19 pandemic even if they have confirmed or suspected COVID-19.
+Current evidence indicates that it is unlikely that COVID-19 can be transmitted through breast milk.
+[227]
+
+Prevention
+
+People tried many different things to prevent infection.
+Sometimes the misinformation was false claims of efficacy, such as claims that the virus could not spread during religious ceremonies, and other times, and other times, the misinformation was false claims of inefficacy, such as claiming that alcohol-based hand sanitizer did not work.
+In other cases, especially with regard to public health advice about wearing face masks during the COVID-19 pandemic, additional scientific evidence resulted in different advice over time.
+[citation needed]
+
+Efficacy of hand sanitizer, "antibacterial" soaps
+
+[228] Washing in soap and water for at least 20 seconds is the best way to clean hands.
+The second-best is a hand sanitizer that is at least 60% alcohol.
+Claims that hand sanitizer is merely "antibacterial not antiviral", and therefore ineffective against COVID-19, have spread widely on Twitter and other social networks.
+While the effectiveness of sanitiser depends on the specific ingredients, most hand sanitiser sold commercially inactivates SARS-CoV-2, which causes COVID-19.
+[229][230] Hand sanitizer is recommended against COVID-19,[126] though unlike soap, it is not effective against all types of germs.
+[231] Washing in soap and water for at least 20 seconds is recommended by the US Centers for Disease Control (CDC) as the best way to clean hands in most situations.
+However, if soap and water are not available, a hand sanitizer that is at least 60% alcohol can be used instead, unless hands are visibly dirty or greasy.
+[228][232] The CDC and the Food and Drug Administration both recommend plain soap; there is no evidence that "antibacterial soaps" are any better, and limited evidence that they might be worse long-term.
+[233][234][unreliable medical source?]
+Public use of face masks
+
+Although authorities, especially in Asia, recommended wearing face masks in public, in other parts of the world conflicting advice caused confusion among the general population.
+[236] Several governments and institutions, such as in the United States, initially dismissed the use of face masks by the general population, often with misleading or incomplete information about their effectiveness.
+[237][238][239] Commentators have attributed the anti-mask messaging to efforts to manage the mask shortages, as governments did not act quickly enough, remarking that the claims go beyond the science or were simply lies.
+[239][240][241][242]
+
+In February 2020, U.S.
+Surgeon General Jerome Adams tweeted "Seriously people—STOP BUYING MASKS!
+They are NOT effective in preventing general public from catching #Coronavirus", but he later reversed his position with evidence mounting that masks can limit the spread of coronavirus.
+[243][244] On 12 June 2020, Anthony Fauci, a key member of the White House coronavirus task force, confirmed that the American public were told not to wear masks from the beginning due to the shortage of masks and explained that masks do actually work.
+[245][246][247][248]
+
+Some media outlets claimed that neck gaiters were worse than not wearing masks at all in the COVID-19 pandemic, misinterpreting a study which was intended to demonstrate a method for evaluating masks (and not actually to determine the effectiveness of different types of masks).
+[249][250][251] The study also only looked at one wearer wearing the one neck gaiter made from a polyester/spandex blend, which is not sufficient evidence to support the claim about gaiters made in the media.
+[250] The study found that the neck gaiter, which was made from a thin and stretchy material, appeared to be ineffective at limiting airborne droplets expelled from the wearer; Isaac Henrion, one of the co-authors, suggests that the result was likely due to the material rather than the style, stating that "Any mask made from that fabric would probably have the same result, no matter the design.
+"[252] Warren S. Warren, a co-author, said that they tried to be careful with their language in interviews, but added that the press coverage has "careened out of control" for a study testing a measuring technique.
+[249]
+
+There are false claims spread that the usage of masks causes adverse health-related issues such as low blood oxygen levels,[253] high blood carbon dioxide levels,[254] and a weakened immune system.
+[255] Some also falsely claimed that masks cause antibiotic-resistant pneumonia by preventing pathogenic organisms to be exhaled away from the body.
+[256]
+
+Anti-maskers have called upon bogus claims about legal or medical exemptions in their refusal to mask.
+[257] They have, for instance, claimed that the Americans with Disabilities Act (ADA; designed to prohibit discrimination based on disabilities) allows exemption from mask requirements, but the United States Department of Justice (DOJ) responded by stating that the act "does not provide a blanket exemption to people with disabilities from complying with legitimate safety requirements necessary for safe operations.
+"[258] The DOJ has issued a warning about cards (some featuring DOJ logos and notices about ADA) that "exempt" its holder from wearing a mask, stating that they are fraudulent and were not issued by a government agency.
+[259][260]
+
+On 31 July 2020, Filipino President Rodrigo Duterte said those who didn't have cleaning supplies could use gasoline as a disinfectant to clean their masks.
+[261] He further stated that "For people who don't [have Lysol], drench it in gasoline or diesel... just find some gasoline [and] dip your hand [with the mask] in it.
+"[261] His spokesman Harry Roque later corrected him.
+[261]
+
+Alcohol
+
+Contrary to some reports, drinking alcohol does not protect against COVID-19, and can increase health risks[126] (short term and long term).
+Drinking alcohol is ethanol; other alcohols, such as methanol, which causes methanol poisoning, are acutely poisonous, and may be present in badly prepared alcoholic beverages.
+[262]
+
+Iran has reported incidents of methanol poisoning, caused by the false belief that drinking alcohol would cure or protect against coronavirus;[263] alcohol is banned in Iran, and bootleg alcohol may contain methanol.
+[264] According to Iranian media in March 2020, nearly 300 people have died and more than a thousand have become ill due to methanol poisoning, while Associated Press gave figures of around 480 deaths with 2,850 others affected.
+[265] The number of deaths due to methanol poisoning in Iran reached over 700 by April.
+[266] Iranian social media had circulated a story from British tabloids that a British man and others had been cured of coronavirus with whiskey and honey,[263][267] which combined with the use of alcohol-based hand sanitizers as disinfectants, led to the false belief that drinking high-proof alcohol can kill the virus.
+[263][264][265]
+
+Similar incidents have occurred in Turkey, with 30 Turkmenistan citizens dying from methanol poisoning related to coronavirus cure claims.
+[268][269]
+
+In Kenya, in April 2020, the Governor of Nairobi Mike Sonko came under scrutiny for including small bottles of the cognac Hennessy in care packages, falsely claiming that alcohol serves as "throat sanitizer" and that, from research, it is believed that "alcohol plays a major role in killing the coronavirus.
+"[270][271]
+
+Warm or hot drinks
+
+There were several claims that drinking warm drinks from around 30 °C protects you from COVID-19, most notably by Alberto Fernández, the president of Argentina said "The WHO recommends that one drink many hot drinks because heat kills the virus".
+Scientists commented that the WHO had made no such recommendation, and that drinking hot water can damage the oral mucosa.
+[272]
+
+These false claims mostly spread out across social media and in Latin American countries.
+Vegetarian immunity
+
+Claims that vegetarians are immune to coronavirus spread online in India, causing "#NoMeat_NoCoronaVirus" to trend on Twitter.
+[273][274] Eating meat does not have an effect on COVID-19 spread, according to Dr. Anand Krishnan of AIIMS.
+[275] Fisheries, Dairying and Animal Husbandry Minister Giriraj Singh said the rumour had significantly affected industry, with the price of a chicken falling to a third of pre-pandemic levels.
+He also described efforts to improve the hygiene of the meat supply chain.
+[276]
+
+Religious protection
+
+A number of religious groups have claimed protection due to their faith, some refusing to stop large religious gatherings.
+In Israel, some Ultra-Orthodox Jews initially refused to close synagogues and religious seminaries and disregarded government restrictions because "The Torah protects and saves",[277] which resulted in an eight-fold faster rate of infection among some groups.
+[278] The Islamic missionary movement Tablighi Jamaat organised Ijtema mass gatherings in Malaysia, India, and Pakistan whose participants believed that God will protect them, causing the biggest rise in COVID-19 cases in these and other countries.
+[279][280][281] In Iran, the head of Fatima Masumeh Shrine encouraged pilgrims to visit the shrine despite calls to close the shrine, saying that they "consider this holy shrine to be a place of healing.
+"[282] In South Korea the River of Grace Community Church in Gyeonggi Province spread the virus after spraying salt water into their members' mouths in the belief that it would kill the virus,[283] while the Shincheonji Church of Jesus in Daegu where a church leader claimed that no Shincheonji worshipers had caught the virus in February while hundreds died in Wuhan, later caused in the biggest spread of the virus in the country.
+[284][285]
+
+In Tanzania, President John Magufuli, instead of banning congregations, urged the faithfuls to go to pray in churches and mosques in the belief that it will protect them.
+He said that the coronavirus is a devil, therefore "cannot survive in the body of Jesus Christ, it will burn" (the "body of Jesus Christ" refers to the church).
+[286][287]
+
+In Somalia, myths have spread claiming Muslims are immune to the virus.
+[288]
+
+Despite the coronavirus outbreak, on 9 March 2020, the Church of Greece announced that Holy Communion, in which churchgoers eat pieces of bread soaked in wine from the same chalice, would continue as a practice.
+[289] The Holy Synod said Holy Communion "cannot be the cause of the spread of illness", with Metropolitan Seraphim saying the wine was without blemish because it represented the blood and body of Christ, and that "whoever attends Holy Communion is approaching God, who has the power to heal.
+"[289] The Church refused to restrict Christians from taking Holy Communion,[290] which was supported by several clerics,[291] some politicians, and health professionals.
+[291][292] The Greek Association of Hospital Doctors criticized these professionals for putting their religious beliefs before science.
+[291] A review of the medical publications on the subject, published by a Greek physician, claims that the transmission of any infectious disease through the Holy Communion has never been documented.
+This controversy divided the Greek society, the politics and medical experts.
+[293]
+
+Cocaine
+
+Cocaine does not protect against COVID-19.
+Several viral tweets purporting that snorting cocaine would sterilize one's nostrils of the coronavirus spread around Europe and Africa.
+In response, the French Ministry of Health released a public service announcement debunking this claim, saying "No, cocaine does NOT protect against COVID-19.
+It is an addictive drug that causes serious side effects and is harmful to people's health."
+The World Health Organization also debunked the claim.
+[294]
+
+Helicopter spraying
+
+In Sri Lanka and Philippine and India, it has been claimed that one should stay at home on particular days when helicopters spray "COVID–19 disinfectant" over homes.
+No such spraying has taken place, nor is it planned, nor, as of July 2020, is there any such agent to be sprayed.
+[295][296]
+
+Vibrations
+
+The notion that the vibrations generated by clapping together during March 2020 Janata curfew would kill the virus was debunked by the media.
+[297] Amitabh Bachchan was heavily criticised for one of his tweets, which claimed vibrations from clapping, blowing conch shells as part of the Janata Curfew would have reduced or destroyed coronavirus potency as it was Amavasya, the darkest day of the month.
+[298]
+
+Food
+
+In India, fake news circulated that the World Health Organization warned against eating cabbage to prevent coronavirus infection.
+[299] Claims that the poisonous fruit of the Datura plant is a preventive measure for COVID-19 resulted in eleven people being hospitalized in India.
+They ate the fruit, following the instructions from a TikTok video that propagated misinformation regarding the prevention of COVID-19.
+[300][301]
+
+Vaccines
+
+Anti-vaccination activists and other people spread a variety of rumors, including overblown claims about side effects, a story about COVID-19 being spread by childhood vaccines, misrepresentations about how the immune system works, and when and how COVID-19 vaccines are made.
+Role of mRNA
+
+Claims of altering human DNA
+
+The use of mRNA-based vaccines for COVID-19 has been the basis of misinformation circulated in social media, wrongly claiming that the use of RNA somehow alters a person's DNA.
+[302] The DNA alteration conspiracy theory was cited by a Wisconsin hospital pharmacist who deliberately removed 57 vaccine vials from cold storage in December 2020 and was subsequently charged with felony reckless endangerment and criminal damage to property by Ozaukee County prosecutors.
+[303]
+
+mRNA in the cytosol is very rapidly degraded before it would have time to gain entry into the cell nucleus.
+(mRNA vaccines must be stored at very low temperature to prevent mRNA degradation.)
+Retrovirus can be single-stranded RNA (just as SARS-CoV-2 vaccine is single-stranded RNA) which enters the cell nucleus and uses reverse transcriptase to make DNA from the RNA in the cell nucleus.
+A retrovirus has mechanisms to be imported into the nucleus, but other mRNA lack these mechanisms.
+Once inside the nucleus, creation of DNA from RNA cannot occur without a primer, which accompanies a retrovirus, but which would not exist for other mRNA if placed in the nucleus.
+[304][305] Thus, mRNA vaccines cannot alter DNA because they cannot enter the nucleus, and because they have no primer to activate reverse transcriptase.
+Claims that mRNA vaccines are still experimental
+
+There is a claim that mRNA vaccines are still experimental.
+mRNA vaccines have been used by over 8 million people.
+[306]
+
+Infertility
+
+In a viral blog post, German politician Wolfgang Wodarg, together with ex-Pfizer employee Michael Yeadon, spread misinformation claiming that the COVID-19 vaccines causes infertility in women.
+Commenting on these claims, David Gorski wrote "The sad thing is that this not-so-dynamic duo is stoking real fear that the new COVID-19 vaccines will make women infertile and is doing it based on speculative nonsense".
+[307]
+
+Polio vaccine as a claimed COVID-19 carrier
+
+Social media posts in Cameroon pushed a conspiracy theory that polio vaccines contained coronavirus, further complicating polio eradication beyond the logistical and funding difficulties created by the COVID-19 pandemic.
+[308]
+
+Bell's palsy
+
+Claims have been circulated on social media that the Pfizer‑BioNTech COVID‑19 vaccine (active ingredient tozinameran) causes Bell's palsy.
+During the trial, four of the 22,000 trial participants had Bell's palsy, the FDA observed that the "frequency of reported Bell's palsy in the vaccine group is consistent with the expected background rate in the general population".
+[309]
+
+Antibody-dependent enhancement
+
+Antibody-dependent enhancement (ADE) is the phenomenon by which the immune system can overreact to the introduction of material against which it already has antibodies.
+[citation needed] ADE has been observed in animal studies during the development of coronavirus vaccines, but as of 14 December 2020 there had been no observed incidences in human vaccine trials.
+Nevertheless anti-vaccination activists falsely cite ADE as a reason to avoid vaccination against COVID-19.
+[307][310]
+
+Claims about a vaccine before one existed
+
+Multiple social media posts promoted a conspiracy theory claiming that in the early stages of the pandemic, the virus was known and that a vaccine was already available.
+PolitiFact and FactCheck.org noted that no vaccine existed for COVID-19 at that point.
+The patents cited by various social media posts reference existing patents for genetic sequences and vaccines for other strains of coronavirus such as the SARS coronavirus.
+[311][312] The WHO reported that as of 5 February 2020, despite news reports of "breakthrough drugs" being discovered, there were no treatments known to be effective;[313] this included antibiotics and herbal remedies not being useful.
+[314]
+
+On Facebook, a widely shared post claimed in April 2020 that seven Senegalese children had died because they had received a COVID-19 vaccine.
+No such vaccine existed, although some were in clinical trials at that time.
+[315]
+
+Aborted fetus material in the vaccine
+
+In November 2020, claims circulated on the web that AZD1222, a COVID-19 vaccine developed by Oxford University and AstraZeneca, "contained" tissue from aborted fetuses.
+While it is true that cell lines derived from a fetus aborted in 1970 plays a role in the vaccine development process, the molecules are completely separate from the vaccine itself.
+[316][317]
+
+Treatment misinformation
+
+Widely circulated posts on social media have made many unfounded claims of methods against coronavirus.
+Some of these claims are scams, and some promoted methods are dangerous and unhealthy.
+[126][318]
+
+Hospital conditions
+
+Some conservative figures in the United States, such as Richard Epstein,[319] downplayed the scale of the pandemic, saying it has been exaggerated as part of an effort to hurt President Trump.
+Some people pointed to empty hospital parking lots as evidence that the virus has been exaggerated.
+Despite the empty parking lots, many hospitals in New York City and other places experienced thousands of COVID-19-related hospitalizations.
+[320]
+
+Herbal treatments
+
+Various national and party-held Chinese media heavily advertised an "overnight research" report by Wuhan Institute of Virology and Shanghai Institute of Materia Medica, Chinese Academy of Sciences, on how shuanghuanglian, an herb mixture from traditional Chinese medicine (TCM), can effectively inhibit the novel coronavirus.
+The report led to a purchase craze of shuanghuanglian.
+[321]
+
+The president of Madagascar Andry Rajoelina launched and promoted in April 2020 a herbal drink based on an artemisia plant as a miracle cure that can treat and prevent COVID-19 despite a lack of medical evidence.
+The drink has been exported to other African countries.
+[322][323]
+
+Vitamins
+
+During the 2020 COVID-19 pandemic, vitamin C was the subject of more FDA warning letters than any other quack treatment for COVID-19.
+[324]
+
+In February 2020, claims that Vitamin D pills could help prevent the coronavirus circulated on social media in Thailand.
+[325] In May 2020, the Centre for Evidence-Based Medicine, while noting that "current advice is that the whole population of the UK should take vitamin D supplements to prevent vitamin D deficiency", found "no clinical evidence that vitamin D supplements are beneficial in preventing or treating COVID-19".
+[326]
+
+Common cold and flu treatments
+
+There were also claims that a 30-year-old Indian textbook lists aspirin, antihistamines, and nasal spray as treatments for COVID-19.
+The textbook actually talks about coronaviruses in general, as a family of viruses.
+[327]
+
+A rumor circulated on social media posts on Weibo, Facebook and Twitter claiming that Chinese experts said saline solutions could kill the coronavirus.
+There is no evidence that saline solutions have such an effect.
+[328]
+
+A tweet from French health minister Olivier Véran, a bulletin from the French health ministry, and a small speculative study in The Lancet Respiratory Medicine raised concerns about ibuprofen worsening COVID-19, which spread extensively on social media.
+The European Medicines Agency[329] and the World Health Organization recommended COVID-19 patients keep taking ibuprofen as directed, citing lack of convincing evidence of any danger.
+[330]
+
+Animal-based products or foods
+
+Indian political activist Swami Chakrapani and Member of the Legislative Assembly Suman Haripriya claimed that drinking cow urine and applying cow dung on the body can cure COVID-19.
+[331][332] WHO's chief scientist Soumya Swaminathan criticised politicians incautiously spreading such misinformation without an evidence base.
+[333]
+
+Traditional Chinese Medicine (TCM) prescriptions
+
+Since its third version, the COVID management guidelines from the Chinese National Health Commission recommends using Traditional Chinese Medicines to treat the disease.
+[334] In Wuhan, China Central Television reported that local authorities have pushed for a set of TCM prescriptions to be used for every case since early February.
+[335] One formula was promoted at the national level by mid-February.
+[336] The local field hospitals were explicitly TCM-oriented.
+According to state media, as of 16 March 2020, 91.91% of all Hubei patients have used TCM, with the rate reaching 99% in field hospitals and 94% in bulk quarantine areas.
+[337] In March 2020, the online insert of the official People's Daily, distributed in the The Daily Telegraph, published an article stating that Traditional Chinese medicine "helps fight coronavirus.
+"[338]
+
+Chloroquine and hydroxychloroquine
+
+There were claims that chloroquine was used to cure more than 12,000 COVID-19 patients in Nigeria.
+[339]
+
+On 11 March, Adrian Bye, a tech startup leader who is not a doctor, suggested to cryptocurrency investors Gregory Rigano and James Todaro that "chloroquine will keep most people out of hospital."
+(Bye later admitted that he had reached this conclusion through "philosophy" rather than medical research.)
+Two days later, Rigano and Todaro promoted chloroquine in a self-published article that falsely claimed affiliation with three institutions.
+[further explanation needed] Google removed the article.
+[340]
+
+Ivermectin
+
+In December 2020, Chair of the US Senate Homeland Security Committee Ron Johnson used a Senate hearing to promote fringe theories about COVID-19.
+[341] Among the witnesses was Pierre Kory, a pulmonary and critical care doctor, who erroneously described ivermectin as "miraculous" and as a "wonder drug" to be used against COVID-19.
+Video footage of his statements went viral on social media, receiving over one million views as of 11 December.
+[342] In the United Kingdom Andrew Hill, a senior research fellow at Liverpool University, posted a video of a draft meta-analysis that went viral before it was removed.
+[343]
+
+A review article by Kory, Paul E. Marik, and others on the efficacy of ivermectin, which had been provisionally accepted for publication by a Frontiers Media journal, was subsequently rejected on account of what the publisher said were "a series of strong, unsupported claims based on studies with insufficient statistical significance" meaning that the article did "not offer an objective [or] balanced scientific contribution to the evaluation of ivermectin as a potential treatment for COVID-19".
+[344]
+
+In the United States, the use of ivermectin for COVID-19 is championed by a group calling itself the "Frontline COVID-19 Critical Care Alliance" (FLCCC), which says it heads "the global movement to move #Ivermectin into the mainstream".
+The effort has gone viral on social media, where it has been adopted by COVID deniers, anti-vaccination proponents, and conspiracy theorists.
+[345] David Gorski has written that the narrative of ivermectin as a "miracle cure" for COVID-19 is a "metastasized" version of a similar conspiracy theory around the drug hydroxychloroquine, in which unspecified powers are thought to be suppressing news of the drug's effectiveness for their own malign purposes.
+[346]
+
+The viral social media misinformation about ivermectin has gained particular attention in South Africa where an anti-vaccination group called "South Africa Has A Right To Ivermectin" has been lobbying for the drug to be made available for prescription.
+[343] Another group, the "Ivermectin Interest Group" launched a court case against the South African Health Products Regulatory Authority (SAHPRA), and as a result a compassionate use exemption was granted.
+SAPHRA stated in April 2021 that "At present, there are no approved treatments for COVID-19 infections".
+[343]
+
+Dangerous treatments
+
+Some QAnon proponents, including Jordan Sather and others, have promoted gargling "Miracle Mineral Supplement" (actually chlorine dioxide, a chemical used in some industrial applications as a bleach that may cause life-threatening reactions and even death) as a way of preventing or curing the disease.
+The Food and Drug Administration has warned multiple times that drinking MMS is "dangerous" as it may cause "severe vomiting" and "acute liver failure".
+[347]
+
+Silver (Ag)
+
+In February 2020, televangelist Jim Bakker promoted a colloidal silver solution, sold on his website, as a remedy for coronavirus COVID-19; naturopath Sherrill Sellman, a guest on his show, falsely stated that it "hasn't been tested on this strain of the coronavirus, but it's been tested on other strains of the coronavirus and has been able to eliminate it within 12 hours.
+"[348] The US Food and Drug Administration and New York Attorney General's office both issued cease-and-desist orders against Bakker, and he was sued by the state of Missouri over the sales.
+[349][350]
+
+The New York Attorney General's office also issued a cease-and-desist order to radio host Alex Jones, who was selling silver-infused toothpaste that he falsely claimed could kill the virus and had been verified by federal officials,[351] causing a Jones spokesman to deny the products had been sold for the purpose of treating any disease.
+[352] The FDA would later threaten Jones with legal action and seizure of several silver-based products if he continued to promote their use against coronavirus.
+[353]
+
+Mustard oil
+
+The yoga guru Ramdev claimed that one can treat coronavirus by pouring mustard oil through the nose, causing the virus to flow into the stomach where it would be destroyed by gastric acid.
+He also claimed that if a person holds his breath for a minute, it means s/he is not suffering from any type of coronavirus, symptomatic or asymtomatic.
+Both these claims were found to be false.
+[354][355]
+
+Untested treatments
+
+April that [356] U.S. president Donald Trump suggested at a press briefing on 23April that disinfectant injections or exposure to ultraviolet light might help treat COVID-19.
+There is no evidence that either could be a viable method.
+Misinformation that the government is spreading an "anti-corona" drug in the country during Janata curfew, a stay-at-home curfew enforced in India, went viral on social media.
+[357]
+
+Following the first reported case of COVID-19 in Nigeria on 28 February, untested cures and treatments began to spread via platforms such as WhatsApp.
+[358]
+
+In March 2020, the US Federal Bureau of Investigation arrested actor Keith Lawrence Middlebrook for wire fraud with a fake COVID-19 cure.
+[359]
+
+Spiritual healing
+
+Another televangelist, Kenneth Copeland, claimed on Victory Channel during a programme called "Standing Against Coronavirus", that he can cure television viewers of COVID-19 directly from the television studio.
+The viewers had to touch the television screen to receive the spiritual healing.
+[360][361]
+
+Other
+
+Name of the disease
+
+Social media posts and internet memes claimed that COVID-19 derives from "Chinese Originated Viral Infectious Disease 19", or similar, as supposedly the "19th virus to come out of China".
+[362] In fact, the WHO named the disease as follows: CO stands for corona, VI for virus, D for disease and 19 for when the outbreak was first identified (31 December 2019).
+[363]
+
+Simpsons prediction
+
+Claims that The Simpsons had predicted the COVID-19 pandemic in 1993, accompanied by a doctored screenshot from the show (where the text "Corona Virus" was layered over the original text "Apocalypse Meow", without blocking it from view), were later found to be false.
+The claim had been widely spread on social media.
+[364][365]
+
+Return of wildlife
+
+During the pandemic, many false and misleading images or news reports about the environmental impact of the COVID-19 pandemic were shared by clickbait journalism sources and social media.
+[366]
+
+A viral post that originated on Weibo and spread on Twitter claimed that a pack of elephants descended on a village under quarantine in China's Yunnan, got drunk on corn wine, and passed out in a tea garden.
+[367] A Chinese news report debunked the claim that the elephants got drunk on corn wine and noted that wild elephants were a common sight in the village; the image attached to the post was originally taken at the Asian Elephant Research Center in Yunnan in December 2019.
+[366]
+
+Following reports of reduced pollution levels in Italy as a result of lockdowns, images purporting to show swans and dolphins swimming in Venice canals went viral on social media.
+The image of the swans was revealed to have been taken in Burano, where swans are common, while footage of the dolphins was filmed at a port in Sardinia hundreds of miles away.
+[366] The Venice mayor's office clarified that the reported water clarity in the canals was due to the lack of sediment being kicked up by boat traffic, not a reduction in water pollution as initially reported.
+[368]
+
+Following the lockdown of India, a video clip purporting to show the extremely rare Malabar civet (a critically endangered, possibly extinct, species) walking the empty streets of Meppayur went viral on social media.
+Experts later identified the civet in the video as actually being the much commoner small Indian civet.
+[369] Another viral Indian video clip showed a pod of humpback whales allegedly returning to the Arabian Sea offshore from Mumbai following the shutdown of shipping routes; however, this video was found to have actually been taken in 2019 in the Java Sea.
+[370]
+
+Virus remains in body permanently
+
+It has been wrongly claimed that anyone infected with COVID-19 will have the virus in their bodies for life.
+While there is no curative treatment, most infected people recover from the disease and eliminate the virus from their bodies.
+[126]
+
+Efforts to combat misinformation
+
+On 2 February 2020, the World Health Organization (WHO) described a "massive infodemic", citing an over-abundance of reported information, which was false, about the virus that "makes it hard for people to find trustworthy sources and reliable guidance when they need it".
+The WHO stated that the high demand for timely and trustworthy information has incentivised the creation of a direct WHO 24/7 myth-busting hotline where its communication and social media teams have been monitoring and responding to misinformation through its website and social media pages.
+[371][372][373] The WHO specifically debunked several claims as false, including the claim that a person can tell if they have the virus or not simply by holding their breath; the claim that drinking large amounts of water will protect against the virus; and the claim that gargling salt water prevents infection.
+[374]
+
+Social media
+
+In early February 2020, Facebook, Twitter, and Google announced that they were working with WHO to address misinformation.
+[375] In a blog post, Facebook stated that it would remove content flagged by global health organizations and local authorities that violate its content policy on misinformation leading to "physical harm".
+[376] Facebook is also giving free advertising to WHO.
+[377] Nonetheless, a week after Trump's speculation that sunlight could kill the virus, the New York Times found "780 Facebook groups, 290 Facebook pages, nine Instagram accounts and thousands of tweets pushing UV light therapies," content which those companies declined to remove from their platforms.
+[378] On 11 August 2020, Facebook removed seven million posts with misinformation about COVID-19.
+[379]
+
+At the end of February 2020, Amazon removed more than a million products that claimed to cure or protect against coronavirus, and removed tens of thousands of listings for health products whose prices were "significantly higher than recent prices offered on or off Amazon", although numerous items were "still being sold at unusually high prices" as of 28 February.
+[380]
+
+Millions of instances of COVID-19 misinformation have occurred across a number of online platforms.
+[381] Other fake news researchers noted certain rumors started in China; many of them later spread to Korea and the United States, prompting several universities in Korea to start the multilingual "Facts Before Rumors" campaign to evaluate common claims seen online.
+[382][383][384][385]
+
+Wikipedia
+
+The media have praised Wikipedia's coverage of COVID-19 and its combating the inclusion of misinformation through efforts led by the WikiProject Med Foundation and the English-language Wikipedia's WikiProject Medicine, among other groups.
+[386][387][388] WHO began working with Wikipedia to provide much of its infographics and reports on COVID-19 to help fight misinformation, with plans to use similar approaches for fighting misinformation about other infectious diseases in the future.
+[389]
+
+Newspapers and scholarly journals
+
+Initially, many newspapers with paywalls lowered them for some or all their coronavirus coverage.
+[390][391] Many scientific publishers made scientific papers related to the outbreak open access (free).
+[392]
+
+The scientific publishing community, while intent on producing quality scholarly publications, has itself been negatively impacted by the infiltration of inferior or false research leading to the retraction of several articles on the topic of COVID-19, as well as polluting valid and reliable scientific study, bringing into question the reliability of research undertaken.
+[393] Retraction Watch maintains a database of retracted COVID-19 articles.
+[394]
+
+Censorship
+
+A number of governments have made transmitting misinformation about the virus illegal.
+This may be the extent of the virus within a country, or the inadequacy of preparations for and measures taken against the virus.
+The Turkish Interior Ministry has been arresting social media users whose posts were "targeting officials and spreading panic and fear by suggesting the virus had spread widely in Turkey and that officials had taken insufficient measures".
+[395] Iran's military said 3600 people have been arrested for "spreading rumors" about coronavirus in the country.
+[396] In Cambodia, some individuals who expressed concerns about the spread of COVID-19 have been arrested on fake news charges.
+[397][398] Algerian lawmakers passed a law criminalizing "fake news" deemed harmful to "public order and state security".
+[399]
+
+In the Philippines,[400] China,[401] India,[402][403] Egypt,[404] Ethiopia,[405] Bangladesh,[406] Morocco,[407] Pakistan,[408] Saudi Arabia,[409] Oman,[410] Iran,[411] Vietnam, Laos,[412] Indonesia,[403] Mongolia,[403] Sri Lanka,[413] Kenya, South Africa,[414] Cote d’Ivoire,[415] Somalia,[416] Mauritius,[417] Zimbabwe,[418] Thailand,[419] Kazakhstan,[420] Azerbaijan,[421] Montenegro,[422] Serbia,[423][424] Malaysia,[425] Singapore,[426][427] and Hong Kong, people have been arrested for allegedly spreading false information about the COVID-19 pandemic.
+[403][428] The United Arab Emirates has introduced criminal penalties for the spread of misinformation and rumours related to the outbreak.
+[429] Myanmar blocked access to 221 news websites,[430] including several leading media outlets.
+[431]
+
+Scams
+
+The UN WHO has warned of criminal scams involving perpetrators who misrepresent themselves as representatives of the WHO seeking personal information from victims via email or phone.
+[432] Also, the Federal Communications Commission has advised consumers not to click on links in suspicious emails and not to give out personal information in emails, text messages or phone calls.
+[433] The Federal Trade Commission has also warned on charity scams related to the pandemic, and has advised consumers not to donate in cash, gift cards, or wire transfers.
+[434]
+
+Cybersecurity firm Check Point stated there has been a large increase in phishing attacks to lure victims into unwittingly installing a computer virus under the guise of coronavirus-themed emails containing attachments.
+Cyber-criminals use deceptive domains such as "cdc-gov.org" instead of the correct "cdc.gov", or even spoof the original domain so it resembles specific websites.
+More than 4,000 coronavirus-related domains have been registered.
+[435]
+
+Police in New Jersey, United States reported incidents of criminals knocking on people's doors and claiming to be from the CDC.
+They then attempt to sell products at inflated prices or otherwise scam victims under the guise of educating and protecting the public from the coronavirus.
+[436]
+
+Links that purportedly direct to the Johns Hopkins University coronavirus map, but instead direct to a false site that spreads malware, have been circulating on the Internet.
+[437][438]
+
+Since the passage in March 2020 of the CARES Act, criminals have taken advantage of the stimulus bill by asking people to pay in advance in order to receive their stimulus payment.
+Because of this, the IRS has advised consumers to only use the official IRS coronavirus web address to submit information to the IRS (and not in response to a text, email, or phone call).
+[439] In response to these schemes, many financial companies, like Wells Fargo[440] and LoanDepot,[441] as well as health insurers, like Humana,[442] for example, have posted similar advisories on their websites.
+See also
+
+Notes
+
+References

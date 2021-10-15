@@ -1,0 +1,61 @@
+T1	MHI 56 66	enfermedad
+T2	PER 229 241	Manifestante
+T3	GPE 245 249	Ohio
+T4	PER 334 347	negacionistas
+T5	PER 411 416	otros
+T6	MHI 432 442	enfermedad
+T7	PER 527 532	Otros
+T8	FAC 597 608	laboratorio
+T9	GPE 609 614	chino
+T10	GPE 618 623	Wuhan
+T11	ORG 671 680	gobiernos
+T12	GPE 696 701	China
+T13	GPE 704 707	EE.
+T14	GPE 708 710	UU
+T15	ORG 729 737	empresas
+T16	PER 766 776	empresario
+T17	PER 793 803	Bill Gates
+T18	ORG 897 906	potencias
+T19	PER 994 1003	comunidad
+T20	MHI 1040 1051	coronavirus
+T21	PER 1087 1094	líderes
+T22	PER 1124 1136	Donald Trump
+T23	GPE 1140 1154	Estados Unidos
+T24	PER 1160 1174	Jair Bolsonaro
+T25	GPE 1178 1184	Brasil
+T26	PER 1191 1204	López Obrador
+T27	GPE 1208 1214	México
+T28	PER 1226 1231	otros
+T29	PER 1233 1240	quienes
+T30	MHI 1288 1293	gripe
+T31	MHI 1296 1305	resfriado
+T32	PER 1421 1430	Bolsonaro
+T33	PER 1513 1525	Donald Trump
+T34	FAC 1613 1624	laboratorio
+T35	GPE 1625 1630	chino
+T36	PER 1645 1653	director
+T37	ORG 1657 1685	Inteligencia Nacional de EE.
+T38	GPE 1686 1688	UU
+T39	PER 1691 1705	John Ratcliffe
+T40	PER 1783 1801	Antonio Pappalardo
+T41	PER 1803 1812	exgeneral
+T42	ORG 1820 1831	carabineros
+T43	GPE 1835 1841	Italia
+T44	PER 1859 1872	manifestantes
+T45	ORG 1887 1895	gobierno
+T46	PER 1899 1913	Giuseppe Conte
+T47	LOC 1954 1961	planeta
+T48	MHI 1993 1998	gripe
+T49	ORG 2046 2055	potencias
+T50	GPE 2166 2172	España
+T51	ORG 2177 2184	revista
+T52	ORG 2185 2200	Discovery Salud
+T53	GPE 2281 2286	chino
+T54	PER 2300 2308	cantante
+T55	GPE 2309 2316	español
+T56	PER 2317 2328	Miguel Bosé
+T57	ORG 2381 2390	gobiernos
+T58	PER 2412 2422	Bill Gates
+T59	PER 2453 2462	humanidad
+T60	FAC 2611 2627	plaza del Callao
+T61	GPE 2631 2637	Madrid

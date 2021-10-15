@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-261">
+		<TEXT>
+			<SEG id="covid19scenario-261-0" start_char="0" end_char="96">
+				<ORIGINAL_TEXT>Q: I’ve heard that the pneumonia shot will help protect me against getting sick from coronavirus.</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="0">Q</TOKEN>
+				<TOKEN id="token-0-1" start_char="1" end_char="1">:</TOKEN>
+				<TOKEN id="token-0-2" start_char="3" end_char="3">I</TOKEN>
+				<TOKEN id="token-0-3" start_char="4" end_char="4">’</TOKEN>
+				<TOKEN id="token-0-4" start_char="5" end_char="6">ve</TOKEN>
+				<TOKEN id="token-0-5" start_char="8" end_char="12">heard</TOKEN>
+				<TOKEN id="token-0-6" start_char="14" end_char="17">that</TOKEN>
+				<TOKEN id="token-0-7" start_char="19" end_char="21">the</TOKEN>
+				<TOKEN id="token-0-8" start_char="23" end_char="31">pneumonia</TOKEN>
+				<TOKEN id="token-0-9" start_char="33" end_char="36">shot</TOKEN>
+				<TOKEN id="token-0-10" start_char="38" end_char="41">will</TOKEN>
+				<TOKEN id="token-0-11" start_char="43" end_char="46">help</TOKEN>
+				<TOKEN id="token-0-12" start_char="48" end_char="54">protect</TOKEN>
+				<TOKEN id="token-0-13" start_char="56" end_char="57">me</TOKEN>
+				<TOKEN id="token-0-14" start_char="59" end_char="65">against</TOKEN>
+				<TOKEN id="token-0-15" start_char="67" end_char="73">getting</TOKEN>
+				<TOKEN id="token-0-16" start_char="75" end_char="78">sick</TOKEN>
+				<TOKEN id="token-0-17" start_char="80" end_char="83">from</TOKEN>
+				<TOKEN id="token-0-18" start_char="85" end_char="95">coronavirus</TOKEN>
+				<TOKEN id="token-0-19" start_char="96" end_char="96">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-261-1" start_char="98" end_char="110">
+				<ORIGINAL_TEXT>Is that true?</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="98" end_char="99">Is</TOKEN>
+				<TOKEN id="token-1-1" start_char="101" end_char="104">that</TOKEN>
+				<TOKEN id="token-1-2" start_char="106" end_char="109">true</TOKEN>
+				<TOKEN id="token-1-3" start_char="110" end_char="110">?</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-261-2" start_char="112" end_char="294">
+				<ORIGINAL_TEXT>A: The pneumonia shot can help protect you against getting really sick with other types of viruses, like influenza, but not from the coronavirus, which causes pneumonia all by itself.</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="112" end_char="112">A</TOKEN>
+				<TOKEN id="token-2-1" start_char="113" end_char="113">:</TOKEN>
+				<TOKEN id="token-2-2" start_char="115" end_char="117">The</TOKEN>
+				<TOKEN id="token-2-3" start_char="119" end_char="127">pneumonia</TOKEN>
+				<TOKEN id="token-2-4" start_char="129" end_char="132">shot</TOKEN>
+				<TOKEN id="token-2-5" start_char="134" end_char="136">can</TOKEN>
+				<TOKEN id="token-2-6" start_char="138" end_char="141">help</TOKEN>
+				<TOKEN id="token-2-7" start_char="143" end_char="149">protect</TOKEN>
+				<TOKEN id="token-2-8" start_char="151" end_char="153">you</TOKEN>
+				<TOKEN id="token-2-9" start_char="155" end_char="161">against</TOKEN>
+				<TOKEN id="token-2-10" start_char="163" end_char="169">getting</TOKEN>
+				<TOKEN id="token-2-11" start_char="171" end_char="176">really</TOKEN>
+				<TOKEN id="token-2-12" start_char="178" end_char="181">sick</TOKEN>
+				<TOKEN id="token-2-13" start_char="183" end_char="186">with</TOKEN>
+				<TOKEN id="token-2-14" start_char="188" end_char="192">other</TOKEN>
+				<TOKEN id="token-2-15" start_char="194" end_char="198">types</TOKEN>
+				<TOKEN id="token-2-16" start_char="200" end_char="201">of</TOKEN>
+				<TOKEN id="token-2-17" start_char="203" end_char="209">viruses</TOKEN>
+				<TOKEN id="token-2-18" start_char="210" end_char="210">,</TOKEN>
+				<TOKEN id="token-2-19" start_char="212" end_char="215">like</TOKEN>
+				<TOKEN id="token-2-20" start_char="217" end_char="225">influenza</TOKEN>
+				<TOKEN id="token-2-21" start_char="226" end_char="226">,</TOKEN>
+				<TOKEN id="token-2-22" start_char="228" end_char="230">but</TOKEN>
+				<TOKEN id="token-2-23" start_char="232" end_char="234">not</TOKEN>
+				<TOKEN id="token-2-24" start_char="236" end_char="239">from</TOKEN>
+				<TOKEN id="token-2-25" start_char="241" end_char="243">the</TOKEN>
+				<TOKEN id="token-2-26" start_char="245" end_char="255">coronavirus</TOKEN>
+				<TOKEN id="token-2-27" start_char="256" end_char="256">,</TOKEN>
+				<TOKEN id="token-2-28" start_char="258" end_char="262">which</TOKEN>
+				<TOKEN id="token-2-29" start_char="264" end_char="269">causes</TOKEN>
+				<TOKEN id="token-2-30" start_char="271" end_char="279">pneumonia</TOKEN>
+				<TOKEN id="token-2-31" start_char="281" end_char="283">all</TOKEN>
+				<TOKEN id="token-2-32" start_char="285" end_char="286">by</TOKEN>
+				<TOKEN id="token-2-33" start_char="288" end_char="293">itself</TOKEN>
+				<TOKEN id="token-2-34" start_char="294" end_char="294">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-261-3" start_char="296" end_char="371">
+				<ORIGINAL_TEXT>Advertising Policy Cleveland Clinic is a non-profit academic medical center.</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="296" end_char="306">Advertising</TOKEN>
+				<TOKEN id="token-3-1" start_char="308" end_char="313">Policy</TOKEN>
+				<TOKEN id="token-3-2" start_char="315" end_char="323">Cleveland</TOKEN>
+				<TOKEN id="token-3-3" start_char="325" end_char="330">Clinic</TOKEN>
+				<TOKEN id="token-3-4" start_char="332" end_char="333">is</TOKEN>
+				<TOKEN id="token-3-5" start_char="335" end_char="335">a</TOKEN>
+				<TOKEN id="token-3-6" start_char="337" end_char="339">non</TOKEN>
+				<TOKEN id="token-3-7" start_char="340" end_char="340">-</TOKEN>
+				<TOKEN id="token-3-8" start_char="341" end_char="346">profit</TOKEN>
+				<TOKEN id="token-3-9" start_char="348" end_char="355">academic</TOKEN>
+				<TOKEN id="token-3-10" start_char="357" end_char="363">medical</TOKEN>
+				<TOKEN id="token-3-11" start_char="365" end_char="370">center</TOKEN>
+				<TOKEN id="token-3-12" start_char="371" end_char="371">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-261-4" start_char="373" end_char="422">
+				<ORIGINAL_TEXT>Advertising on our site helps support our mission.</ORIGINAL_TEXT>
+				<TOKEN id="token-4-0" start_char="373" end_char="383">Advertising</TOKEN>
+				<TOKEN id="token-4-1" start_char="385" end_char="386">on</TOKEN>
+				<TOKEN id="token-4-2" start_char="388" end_char="390">our</TOKEN>
+				<TOKEN id="token-4-3" start_char="392" end_char="395">site</TOKEN>
+				<TOKEN id="token-4-4" start_char="397" end_char="401">helps</TOKEN>
+				<TOKEN id="token-4-5" start_char="403" end_char="409">support</TOKEN>
+				<TOKEN id="token-4-6" start_char="411" end_char="413">our</TOKEN>
+				<TOKEN id="token-4-7" start_char="415" end_char="421">mission</TOKEN>
+				<TOKEN id="token-4-8" start_char="422" end_char="422">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-261-5" start_char="424" end_char="483">
+				<ORIGINAL_TEXT>We do not endorse non-Cleveland Clinic products or services.</ORIGINAL_TEXT>
+				<TOKEN id="token-5-0" start_char="424" end_char="425">We</TOKEN>
+				<TOKEN id="token-5-1" start_char="427" end_char="428">do</TOKEN>
+				<TOKEN id="token-5-2" start_char="430" end_char="432">not</TOKEN>
+				<TOKEN id="token-5-3" start_char="434" end_char="440">endorse</TOKEN>
+				<TOKEN id="token-5-4" start_char="442" end_char="444">non</TOKEN>
+				<TOKEN id="token-5-5" start_char="445" end_char="445">-</TOKEN>
+				<TOKEN id="token-5-6" start_char="446" end_char="454">Cleveland</TOKEN>
+				<TOKEN id="token-5-7" start_char="456" end_char="461">Clinic</TOKEN>
+				<TOKEN id="token-5-8" start_char="463" end_char="470">products</TOKEN>
+				<TOKEN id="token-5-9" start_char="472" end_char="473">or</TOKEN>
+				<TOKEN id="token-5-10" start_char="475" end_char="482">services</TOKEN>
+				<TOKEN id="token-5-11" start_char="483" end_char="483">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-261-6" start_char="485" end_char="490">
+				<ORIGINAL_TEXT>Policy</ORIGINAL_TEXT>
+				<TOKEN id="token-6-0" start_char="485" end_char="490">Policy</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-261-7" start_char="492" end_char="621">
+				<ORIGINAL_TEXT>Often times, we see that influenza can lead to secondary infections with other types of bacteria that the pneumonia shot prevents.</ORIGINAL_TEXT>
+				<TOKEN id="token-7-0" start_char="492" end_char="496">Often</TOKEN>
+				<TOKEN id="token-7-1" start_char="498" end_char="502">times</TOKEN>
+				<TOKEN id="token-7-2" start_char="503" end_char="503">,</TOKEN>
+				<TOKEN id="token-7-3" start_char="505" end_char="506">we</TOKEN>
+				<TOKEN id="token-7-4" start_char="508" end_char="510">see</TOKEN>
+				<TOKEN id="token-7-5" start_char="512" end_char="515">that</TOKEN>
+				<TOKEN id="token-7-6" start_char="517" end_char="525">influenza</TOKEN>
+				<TOKEN id="token-7-7" start_char="527" end_char="529">can</TOKEN>
+				<TOKEN id="token-7-8" start_char="531" end_char="534">lead</TOKEN>
+				<TOKEN id="token-7-9" start_char="536" end_char="537">to</TOKEN>
+				<TOKEN id="token-7-10" start_char="539" end_char="547">secondary</TOKEN>
+				<TOKEN id="token-7-11" start_char="549" end_char="558">infections</TOKEN>
+				<TOKEN id="token-7-12" start_char="560" end_char="563">with</TOKEN>
+				<TOKEN id="token-7-13" start_char="565" end_char="569">other</TOKEN>
+				<TOKEN id="token-7-14" start_char="571" end_char="575">types</TOKEN>
+				<TOKEN id="token-7-15" start_char="577" end_char="578">of</TOKEN>
+				<TOKEN id="token-7-16" start_char="580" end_char="587">bacteria</TOKEN>
+				<TOKEN id="token-7-17" start_char="589" end_char="592">that</TOKEN>
+				<TOKEN id="token-7-18" start_char="594" end_char="596">the</TOKEN>
+				<TOKEN id="token-7-19" start_char="598" end_char="606">pneumonia</TOKEN>
+				<TOKEN id="token-7-20" start_char="608" end_char="611">shot</TOKEN>
+				<TOKEN id="token-7-21" start_char="613" end_char="620">prevents</TOKEN>
+				<TOKEN id="token-7-22" start_char="621" end_char="621">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-261-8" start_char="623" end_char="727">
+				<ORIGINAL_TEXT>But because coronavirus is bad enough on its own, the pneumonia shot doesn’t offer protection against it.</ORIGINAL_TEXT>
+				<TOKEN id="token-8-0" start_char="623" end_char="625">But</TOKEN>
+				<TOKEN id="token-8-1" start_char="627" end_char="633">because</TOKEN>
+				<TOKEN id="token-8-2" start_char="635" end_char="645">coronavirus</TOKEN>
+				<TOKEN id="token-8-3" start_char="647" end_char="648">is</TOKEN>
+				<TOKEN id="token-8-4" start_char="650" end_char="652">bad</TOKEN>
+				<TOKEN id="token-8-5" start_char="654" end_char="659">enough</TOKEN>
+				<TOKEN id="token-8-6" start_char="661" end_char="662">on</TOKEN>
+				<TOKEN id="token-8-7" start_char="664" end_char="666">its</TOKEN>
+				<TOKEN id="token-8-8" start_char="668" end_char="670">own</TOKEN>
+				<TOKEN id="token-8-9" start_char="671" end_char="671">,</TOKEN>
+				<TOKEN id="token-8-10" start_char="673" end_char="675">the</TOKEN>
+				<TOKEN id="token-8-11" start_char="677" end_char="685">pneumonia</TOKEN>
+				<TOKEN id="token-8-12" start_char="687" end_char="690">shot</TOKEN>
+				<TOKEN id="token-8-13" start_char="692" end_char="696">doesn</TOKEN>
+				<TOKEN id="token-8-14" start_char="697" end_char="697">’</TOKEN>
+				<TOKEN id="token-8-15" start_char="698" end_char="698">t</TOKEN>
+				<TOKEN id="token-8-16" start_char="700" end_char="704">offer</TOKEN>
+				<TOKEN id="token-8-17" start_char="706" end_char="715">protection</TOKEN>
+				<TOKEN id="token-8-18" start_char="717" end_char="723">against</TOKEN>
+				<TOKEN id="token-8-19" start_char="725" end_char="726">it</TOKEN>
+				<TOKEN id="token-8-20" start_char="727" end_char="727">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-261-9" start_char="729" end_char="816">
+				<ORIGINAL_TEXT>Still, it’s important for some people to get the pneumonia shot, regardless of COVID-19.</ORIGINAL_TEXT>
+				<TOKEN id="token-9-0" start_char="729" end_char="733">Still</TOKEN>
+				<TOKEN id="token-9-1" start_char="734" end_char="734">,</TOKEN>
+				<TOKEN id="token-9-2" start_char="736" end_char="737">it</TOKEN>
+				<TOKEN id="token-9-3" start_char="738" end_char="738">’</TOKEN>
+				<TOKEN id="token-9-4" start_char="739" end_char="739">s</TOKEN>
+				<TOKEN id="token-9-5" start_char="741" end_char="749">important</TOKEN>
+				<TOKEN id="token-9-6" start_char="751" end_char="753">for</TOKEN>
+				<TOKEN id="token-9-7" start_char="755" end_char="758">some</TOKEN>
+				<TOKEN id="token-9-8" start_char="760" end_char="765">people</TOKEN>
+				<TOKEN id="token-9-9" start_char="767" end_char="768">to</TOKEN>
+				<TOKEN id="token-9-10" start_char="770" end_char="772">get</TOKEN>
+				<TOKEN id="token-9-11" start_char="774" end_char="776">the</TOKEN>
+				<TOKEN id="token-9-12" start_char="778" end_char="786">pneumonia</TOKEN>
+				<TOKEN id="token-9-13" start_char="788" end_char="791">shot</TOKEN>
+				<TOKEN id="token-9-14" start_char="792" end_char="792">,</TOKEN>
+				<TOKEN id="token-9-15" start_char="794" end_char="803">regardless</TOKEN>
+				<TOKEN id="token-9-16" start_char="805" end_char="806">of</TOKEN>
+				<TOKEN id="token-9-17" start_char="808" end_char="812">COVID</TOKEN>
+				<TOKEN id="token-9-18" start_char="813" end_char="813">-</TOKEN>
+				<TOKEN id="token-9-19" start_char="814" end_char="815">19</TOKEN>
+				<TOKEN id="token-9-20" start_char="816" end_char="816">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-261-10" start_char="818" end_char="940">
+				<ORIGINAL_TEXT>The germs that cause pneumonia are still out there, they aren’t waiting on the sidelines for coronavirus to finish its job.</ORIGINAL_TEXT>
+				<TOKEN id="token-10-0" start_char="818" end_char="820">The</TOKEN>
+				<TOKEN id="token-10-1" start_char="822" end_char="826">germs</TOKEN>
+				<TOKEN id="token-10-2" start_char="828" end_char="831">that</TOKEN>
+				<TOKEN id="token-10-3" start_char="833" end_char="837">cause</TOKEN>
+				<TOKEN id="token-10-4" start_char="839" end_char="847">pneumonia</TOKEN>
+				<TOKEN id="token-10-5" start_char="849" end_char="851">are</TOKEN>
+				<TOKEN id="token-10-6" start_char="853" end_char="857">still</TOKEN>
+				<TOKEN id="token-10-7" start_char="859" end_char="861">out</TOKEN>
+				<TOKEN id="token-10-8" start_char="863" end_char="867">there</TOKEN>
+				<TOKEN id="token-10-9" start_char="868" end_char="868">,</TOKEN>
+				<TOKEN id="token-10-10" start_char="870" end_char="873">they</TOKEN>
+				<TOKEN id="token-10-11" start_char="875" end_char="878">aren</TOKEN>
+				<TOKEN id="token-10-12" start_char="879" end_char="879">’</TOKEN>
+				<TOKEN id="token-10-13" start_char="880" end_char="880">t</TOKEN>
+				<TOKEN id="token-10-14" start_char="882" end_char="888">waiting</TOKEN>
+				<TOKEN id="token-10-15" start_char="890" end_char="891">on</TOKEN>
+				<TOKEN id="token-10-16" start_char="893" end_char="895">the</TOKEN>
+				<TOKEN id="token-10-17" start_char="897" end_char="905">sidelines</TOKEN>
+				<TOKEN id="token-10-18" start_char="907" end_char="909">for</TOKEN>
+				<TOKEN id="token-10-19" start_char="911" end_char="921">coronavirus</TOKEN>
+				<TOKEN id="token-10-20" start_char="923" end_char="924">to</TOKEN>
+				<TOKEN id="token-10-21" start_char="926" end_char="931">finish</TOKEN>
+				<TOKEN id="token-10-22" start_char="933" end_char="935">its</TOKEN>
+				<TOKEN id="token-10-23" start_char="937" end_char="939">job</TOKEN>
+				<TOKEN id="token-10-24" start_char="940" end_char="940">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-261-11" start_char="942" end_char="1000">
+				<ORIGINAL_TEXT>The pneumonia shot is recommended for the following groups:</ORIGINAL_TEXT>
+				<TOKEN id="token-11-0" start_char="942" end_char="944">The</TOKEN>
+				<TOKEN id="token-11-1" start_char="946" end_char="954">pneumonia</TOKEN>
+				<TOKEN id="token-11-2" start_char="956" end_char="959">shot</TOKEN>
+				<TOKEN id="token-11-3" start_char="961" end_char="962">is</TOKEN>
+				<TOKEN id="token-11-4" start_char="964" end_char="974">recommended</TOKEN>
+				<TOKEN id="token-11-5" start_char="976" end_char="978">for</TOKEN>
+				<TOKEN id="token-11-6" start_char="980" end_char="982">the</TOKEN>
+				<TOKEN id="token-11-7" start_char="984" end_char="992">following</TOKEN>
+				<TOKEN id="token-11-8" start_char="994" end_char="999">groups</TOKEN>
+				<TOKEN id="token-11-9" start_char="1000" end_char="1000">:</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-261-12" start_char="1002" end_char="1050">
+				<ORIGINAL_TEXT>All babies and children younger than 2 years old.</ORIGINAL_TEXT>
+				<TOKEN id="token-12-0" start_char="1002" end_char="1004">All</TOKEN>
+				<TOKEN id="token-12-1" start_char="1006" end_char="1011">babies</TOKEN>
+				<TOKEN id="token-12-2" start_char="1013" end_char="1015">and</TOKEN>
+				<TOKEN id="token-12-3" start_char="1017" end_char="1024">children</TOKEN>
+				<TOKEN id="token-12-4" start_char="1026" end_char="1032">younger</TOKEN>
+				<TOKEN id="token-12-5" start_char="1034" end_char="1037">than</TOKEN>
+				<TOKEN id="token-12-6" start_char="1039" end_char="1039">2</TOKEN>
+				<TOKEN id="token-12-7" start_char="1041" end_char="1045">years</TOKEN>
+				<TOKEN id="token-12-8" start_char="1047" end_char="1049">old</TOKEN>
+				<TOKEN id="token-12-9" start_char="1050" end_char="1050">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-261-13" start_char="1052" end_char="1080">
+				<ORIGINAL_TEXT>All adults 65 years or older.</ORIGINAL_TEXT>
+				<TOKEN id="token-13-0" start_char="1052" end_char="1054">All</TOKEN>
+				<TOKEN id="token-13-1" start_char="1056" end_char="1061">adults</TOKEN>
+				<TOKEN id="token-13-2" start_char="1063" end_char="1064">65</TOKEN>
+				<TOKEN id="token-13-3" start_char="1066" end_char="1070">years</TOKEN>
+				<TOKEN id="token-13-4" start_char="1072" end_char="1073">or</TOKEN>
+				<TOKEN id="token-13-5" start_char="1075" end_char="1079">older</TOKEN>
+				<TOKEN id="token-13-6" start_char="1080" end_char="1080">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-261-14" start_char="1082" end_char="1133">
+				<ORIGINAL_TEXT>Adults 19 through 64 years old who smoke cigarettes.</ORIGINAL_TEXT>
+				<TOKEN id="token-14-0" start_char="1082" end_char="1087">Adults</TOKEN>
+				<TOKEN id="token-14-1" start_char="1089" end_char="1090">19</TOKEN>
+				<TOKEN id="token-14-2" start_char="1092" end_char="1098">through</TOKEN>
+				<TOKEN id="token-14-3" start_char="1100" end_char="1101">64</TOKEN>
+				<TOKEN id="token-14-4" start_char="1103" end_char="1107">years</TOKEN>
+				<TOKEN id="token-14-5" start_char="1109" end_char="1111">old</TOKEN>
+				<TOKEN id="token-14-6" start_char="1113" end_char="1115">who</TOKEN>
+				<TOKEN id="token-14-7" start_char="1117" end_char="1121">smoke</TOKEN>
+				<TOKEN id="token-14-8" start_char="1123" end_char="1132">cigarettes</TOKEN>
+				<TOKEN id="token-14-9" start_char="1133" end_char="1133">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-261-15" start_char="1135" end_char="1264">
+				<ORIGINAL_TEXT>Children older than 2 and adults younger than 65 who have certain chronic diseases (those that affect the heart, lung and kidney).</ORIGINAL_TEXT>
+				<TOKEN id="token-15-0" start_char="1135" end_char="1142">Children</TOKEN>
+				<TOKEN id="token-15-1" start_char="1144" end_char="1148">older</TOKEN>
+				<TOKEN id="token-15-2" start_char="1150" end_char="1153">than</TOKEN>
+				<TOKEN id="token-15-3" start_char="1155" end_char="1155">2</TOKEN>
+				<TOKEN id="token-15-4" start_char="1157" end_char="1159">and</TOKEN>
+				<TOKEN id="token-15-5" start_char="1161" end_char="1166">adults</TOKEN>
+				<TOKEN id="token-15-6" start_char="1168" end_char="1174">younger</TOKEN>
+				<TOKEN id="token-15-7" start_char="1176" end_char="1179">than</TOKEN>
+				<TOKEN id="token-15-8" start_char="1181" end_char="1182">65</TOKEN>
+				<TOKEN id="token-15-9" start_char="1184" end_char="1186">who</TOKEN>
+				<TOKEN id="token-15-10" start_char="1188" end_char="1191">have</TOKEN>
+				<TOKEN id="token-15-11" start_char="1193" end_char="1199">certain</TOKEN>
+				<TOKEN id="token-15-12" start_char="1201" end_char="1207">chronic</TOKEN>
+				<TOKEN id="token-15-13" start_char="1209" end_char="1216">diseases</TOKEN>
+				<TOKEN id="token-15-14" start_char="1218" end_char="1218">(</TOKEN>
+				<TOKEN id="token-15-15" start_char="1219" end_char="1223">those</TOKEN>
+				<TOKEN id="token-15-16" start_char="1225" end_char="1228">that</TOKEN>
+				<TOKEN id="token-15-17" start_char="1230" end_char="1235">affect</TOKEN>
+				<TOKEN id="token-15-18" start_char="1237" end_char="1239">the</TOKEN>
+				<TOKEN id="token-15-19" start_char="1241" end_char="1245">heart</TOKEN>
+				<TOKEN id="token-15-20" start_char="1246" end_char="1246">,</TOKEN>
+				<TOKEN id="token-15-21" start_char="1248" end_char="1251">lung</TOKEN>
+				<TOKEN id="token-15-22" start_char="1253" end_char="1255">and</TOKEN>
+				<TOKEN id="token-15-23" start_char="1257" end_char="1262">kidney</TOKEN>
+				<TOKEN id="token-15-24" start_char="1263" end_char="1264">).</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-261-16" start_char="1266" end_char="1411">
+				<ORIGINAL_TEXT>Those who are at increased risk for certain diseases (diabetes, chronic heart, lung and liver disease) and those who have impaired immune systems.</ORIGINAL_TEXT>
+				<TOKEN id="token-16-0" start_char="1266" end_char="1270">Those</TOKEN>
+				<TOKEN id="token-16-1" start_char="1272" end_char="1274">who</TOKEN>
+				<TOKEN id="token-16-2" start_char="1276" end_char="1278">are</TOKEN>
+				<TOKEN id="token-16-3" start_char="1280" end_char="1281">at</TOKEN>
+				<TOKEN id="token-16-4" start_char="1283" end_char="1291">increased</TOKEN>
+				<TOKEN id="token-16-5" start_char="1293" end_char="1296">risk</TOKEN>
+				<TOKEN id="token-16-6" start_char="1298" end_char="1300">for</TOKEN>
+				<TOKEN id="token-16-7" start_char="1302" end_char="1308">certain</TOKEN>
+				<TOKEN id="token-16-8" start_char="1310" end_char="1317">diseases</TOKEN>
+				<TOKEN id="token-16-9" start_char="1319" end_char="1319">(</TOKEN>
+				<TOKEN id="token-16-10" start_char="1320" end_char="1327">diabetes</TOKEN>
+				<TOKEN id="token-16-11" start_char="1328" end_char="1328">,</TOKEN>
+				<TOKEN id="token-16-12" start_char="1330" end_char="1336">chronic</TOKEN>
+				<TOKEN id="token-16-13" start_char="1338" end_char="1342">heart</TOKEN>
+				<TOKEN id="token-16-14" start_char="1343" end_char="1343">,</TOKEN>
+				<TOKEN id="token-16-15" start_char="1345" end_char="1348">lung</TOKEN>
+				<TOKEN id="token-16-16" start_char="1350" end_char="1352">and</TOKEN>
+				<TOKEN id="token-16-17" start_char="1354" end_char="1358">liver</TOKEN>
+				<TOKEN id="token-16-18" start_char="1360" end_char="1366">disease</TOKEN>
+				<TOKEN id="token-16-19" start_char="1367" end_char="1367">)</TOKEN>
+				<TOKEN id="token-16-20" start_char="1369" end_char="1371">and</TOKEN>
+				<TOKEN id="token-16-21" start_char="1373" end_char="1377">those</TOKEN>
+				<TOKEN id="token-16-22" start_char="1379" end_char="1381">who</TOKEN>
+				<TOKEN id="token-16-23" start_char="1383" end_char="1386">have</TOKEN>
+				<TOKEN id="token-16-24" start_char="1388" end_char="1395">impaired</TOKEN>
+				<TOKEN id="token-16-25" start_char="1397" end_char="1402">immune</TOKEN>
+				<TOKEN id="token-16-26" start_char="1404" end_char="1410">systems</TOKEN>
+				<TOKEN id="token-16-27" start_char="1411" end_char="1411">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-261-17" start_char="1413" end_char="1571">
+				<ORIGINAL_TEXT>If you fall into one of these categories, talk to your doctor about getting the pneumonia shot to help protect you from getting really sick from other viruses.</ORIGINAL_TEXT>
+				<TOKEN id="token-17-0" start_char="1413" end_char="1414">If</TOKEN>
+				<TOKEN id="token-17-1" start_char="1416" end_char="1418">you</TOKEN>
+				<TOKEN id="token-17-2" start_char="1420" end_char="1423">fall</TOKEN>
+				<TOKEN id="token-17-3" start_char="1425" end_char="1428">into</TOKEN>
+				<TOKEN id="token-17-4" start_char="1430" end_char="1432">one</TOKEN>
+				<TOKEN id="token-17-5" start_char="1434" end_char="1435">of</TOKEN>
+				<TOKEN id="token-17-6" start_char="1437" end_char="1441">these</TOKEN>
+				<TOKEN id="token-17-7" start_char="1443" end_char="1452">categories</TOKEN>
+				<TOKEN id="token-17-8" start_char="1453" end_char="1453">,</TOKEN>
+				<TOKEN id="token-17-9" start_char="1455" end_char="1458">talk</TOKEN>
+				<TOKEN id="token-17-10" start_char="1460" end_char="1461">to</TOKEN>
+				<TOKEN id="token-17-11" start_char="1463" end_char="1466">your</TOKEN>
+				<TOKEN id="token-17-12" start_char="1468" end_char="1473">doctor</TOKEN>
+				<TOKEN id="token-17-13" start_char="1475" end_char="1479">about</TOKEN>
+				<TOKEN id="token-17-14" start_char="1481" end_char="1487">getting</TOKEN>
+				<TOKEN id="token-17-15" start_char="1489" end_char="1491">the</TOKEN>
+				<TOKEN id="token-17-16" start_char="1493" end_char="1501">pneumonia</TOKEN>
+				<TOKEN id="token-17-17" start_char="1503" end_char="1506">shot</TOKEN>
+				<TOKEN id="token-17-18" start_char="1508" end_char="1509">to</TOKEN>
+				<TOKEN id="token-17-19" start_char="1511" end_char="1514">help</TOKEN>
+				<TOKEN id="token-17-20" start_char="1516" end_char="1522">protect</TOKEN>
+				<TOKEN id="token-17-21" start_char="1524" end_char="1526">you</TOKEN>
+				<TOKEN id="token-17-22" start_char="1528" end_char="1531">from</TOKEN>
+				<TOKEN id="token-17-23" start_char="1533" end_char="1539">getting</TOKEN>
+				<TOKEN id="token-17-24" start_char="1541" end_char="1546">really</TOKEN>
+				<TOKEN id="token-17-25" start_char="1548" end_char="1551">sick</TOKEN>
+				<TOKEN id="token-17-26" start_char="1553" end_char="1556">from</TOKEN>
+				<TOKEN id="token-17-27" start_char="1558" end_char="1562">other</TOKEN>
+				<TOKEN id="token-17-28" start_char="1564" end_char="1570">viruses</TOKEN>
+				<TOKEN id="token-17-29" start_char="1571" end_char="1571">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-261-18" start_char="1573" end_char="1679">
+				<ORIGINAL_TEXT>But when it comes down to it, the pneumonia shot doesn’t offer protection specifically against coronavirus.</ORIGINAL_TEXT>
+				<TOKEN id="token-18-0" start_char="1573" end_char="1575">But</TOKEN>
+				<TOKEN id="token-18-1" start_char="1577" end_char="1580">when</TOKEN>
+				<TOKEN id="token-18-2" start_char="1582" end_char="1583">it</TOKEN>
+				<TOKEN id="token-18-3" start_char="1585" end_char="1589">comes</TOKEN>
+				<TOKEN id="token-18-4" start_char="1591" end_char="1594">down</TOKEN>
+				<TOKEN id="token-18-5" start_char="1596" end_char="1597">to</TOKEN>
+				<TOKEN id="token-18-6" start_char="1599" end_char="1600">it</TOKEN>
+				<TOKEN id="token-18-7" start_char="1601" end_char="1601">,</TOKEN>
+				<TOKEN id="token-18-8" start_char="1603" end_char="1605">the</TOKEN>
+				<TOKEN id="token-18-9" start_char="1607" end_char="1615">pneumonia</TOKEN>
+				<TOKEN id="token-18-10" start_char="1617" end_char="1620">shot</TOKEN>
+				<TOKEN id="token-18-11" start_char="1622" end_char="1626">doesn</TOKEN>
+				<TOKEN id="token-18-12" start_char="1627" end_char="1627">’</TOKEN>
+				<TOKEN id="token-18-13" start_char="1628" end_char="1628">t</TOKEN>
+				<TOKEN id="token-18-14" start_char="1630" end_char="1634">offer</TOKEN>
+				<TOKEN id="token-18-15" start_char="1636" end_char="1645">protection</TOKEN>
+				<TOKEN id="token-18-16" start_char="1647" end_char="1658">specifically</TOKEN>
+				<TOKEN id="token-18-17" start_char="1660" end_char="1666">against</TOKEN>
+				<TOKEN id="token-18-18" start_char="1668" end_char="1678">coronavirus</TOKEN>
+				<TOKEN id="token-18-19" start_char="1679" end_char="1679">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-261-19" start_char="1681" end_char="1738">
+				<ORIGINAL_TEXT>– Pediatric infectious disease specialist Frank Esper, MD.</ORIGINAL_TEXT>
+				<TOKEN id="token-19-0" start_char="1681" end_char="1681">–</TOKEN>
+				<TOKEN id="token-19-1" start_char="1683" end_char="1691">Pediatric</TOKEN>
+				<TOKEN id="token-19-2" start_char="1693" end_char="1702">infectious</TOKEN>
+				<TOKEN id="token-19-3" start_char="1704" end_char="1710">disease</TOKEN>
+				<TOKEN id="token-19-4" start_char="1712" end_char="1721">specialist</TOKEN>
+				<TOKEN id="token-19-5" start_char="1723" end_char="1727">Frank</TOKEN>
+				<TOKEN id="token-19-6" start_char="1729" end_char="1733">Esper</TOKEN>
+				<TOKEN id="token-19-7" start_char="1734" end_char="1734">,</TOKEN>
+				<TOKEN id="token-19-8" start_char="1736" end_char="1737">MD</TOKEN>
+				<TOKEN id="token-19-9" start_char="1738" end_char="1738">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

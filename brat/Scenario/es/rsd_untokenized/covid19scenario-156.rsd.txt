@@ -1,0 +1,507 @@
+Después del brote inicial de la enfermedad del coronavirus 2019 (COVID-19), surgieron teorías de conspiración y desinformación con respecto al origen, la escala, la prevención, el tratamiento y otros aspectos de la enfermedad.
+[1]​[2]​[3]​[4]​ La desinformación se difundió a través de las redes sociales,[3]​[5]​ mensajes de texto,[6]​ así como los medios estatales de algunos países.
+[3]​[7]​
+
+La información médica errónea sobre formas de prevenir, tratar y autodiagnosticar la enfermedad por coronavirus ha circulado en las redes sociales.
+[8]​ Algunas afirmaciones falsas pueden ser estafas comerciales que ofrecen pruebas en el hogar, supuestos preventivos y curas "milagrosas".
+[9]​[10]​ La Organización Mundial de la Salud ha declarado una "epidemia de información falsa" de información incorrecta sobre el virus, lo que plantea riesgos para la salud mundial.
+[3]​
+
+Algunas piezas de desinformación afirmaban que el virus era un arma biológica con una vacuna patentada, un esquema de control de la población o el resultado de una operación de espionaje.
+[4]​[5]​[11]​ Algunas de estas teorías de desinformación y conspiración pueden tener participación estatal.
+[7]​[12]​[13]​ Algunos líderes mundiales también han minimizado la amenaza del virus y han difundido información errónea.
+[14]​[15]​[16]​
+
+Teorías de conspiración [ editar ]
+
+Las teorías de conspiración han aparecido tanto en las redes sociales como en los principales medios de comunicación, y están fuertemente influenciadas por la geopolítica.
+[17]​
+
+Arma biológica [ editar ]
+
+En 2015, Nature Medicine publicó un estudio de un grupo internacional de investigadores (incluido Shi Zhengli, quien en 2019 identificó el SARS-CoV-2 en Wuhan) sobre la creación de un virus quimérico patógeno para los humanos.
+[18]​ Esta publicación más tarde en 2019 generó especulaciones de que el SARS-CoV-2 es una variante de dicho virus creado por humanos.
+En 2020, Nature Medicine publicó un artículo que argumentaba en contra de la teoría de la conspiración de que el virus se creó artificialmente.
+Se demostró que la unión de alta afinidad de sus peplómeros a la enzima convertidora de angiotensina humana 2 (ACE2) era "muy probablemente el resultado de la selección natural en una ACE2 humana o similar a la humana que permite que surja otra solución de unión óptima".
+[19]​ En caso de manipulación genética, probablemente se habría utilizado uno de los varios sistemas de genética inversa para los betacoronavirus, mientras que los datos genéticos demostraron de manera irrefutable que el virus no se deriva de una plantilla de virus utilizada anteriormente.
+[19]​ Se descubrió que la estructura molecular general del virus es distinta de la de los coronavirus conocidos y se parece mucho a la de los virus de murciélagos y pangolines que fueron poco estudiados y nunca se sabe que dañan a los humanos.
+[20]​
+
+En febrero de 2020, Financial Times citó al experto en virus y co-investigador líder mundial del coronavirus Trevor Bedford: "No hay evidencia alguna de ingeniería genética que podamos encontrar", y "La evidencia que tenemos es que las mutaciones [en el virus] son completamente compatibles con la evolución natural".
+[21]​ Bedford explicó además: "El escenario más probable, basado en el análisis genético, era que el virus fuera transmitido por un murciélago a otro mamífero entre 20 y 70 años atrás.
+Este animal intermediario, aún no identificado, lo pasó a su primer huésped humano en la ciudad de Wuhan a finales de noviembre o principios de diciembre de 2019 ".
+[21]​
+
+El 19 de febrero de 2020, The Lancet publicó una carta de un grupo de científicos condenando las "teorías de conspiración que sugieren que COVID-19 no tiene un origen natural".
+[22]​ Aun así, las teorías de la conspiración han aparecido tanto en las redes sociales como en los principales medios de comunicación, y están fuertemente influenciadas por la geopolítica.
+[23]​ La Deutsche Welle alemana produjo un video en mayo de 2020, con científicos de la Asociación Leibniz y la Universidad de Berna, explicando que es muy probable que no se reconozca una manipulación genética bien hecha de un virus.
+[24]​
+
+China [ editar ]
+
+Desde el comienzo de la pandemia, se difundieron especulaciones y teorías de la conspiración que defendían que el virus SARS-CoV-2 procedía de un laboratorio de Wuhan donde se había estado trabajando poco tiempo atrás con el RaTG13-CoV, un coronavirus de los murciélagos con un genoma similar en un 96 %, aproximadamente, al SARS-CoV-2.
+Dado que hay más de 1100 nucleótidos distintos entre el RaTG13-CoV y el SARS-CoV-2 y las diferencias se distribuyen a lo largo de todo el genoma en un patrón natural que sigue la evolución típica de los coronavirus, sería extremadamente improbable que uno fuera el origen inmediato del otro.
+[25]​
+
+Otro rumor difundido en redes sociales chinas tenía relación con un artículo publicado en la revista Nature Medicine en 2015 que trataba sobre la creación de un coronavirus quimérico que era capaz de infectar células humanas con elementos del SHC014-CoV (propio de los murciélagos) y del SARS-CoV.
+De nuevo, estos alegatos no estaban respaldados por evidencia científica y la divergencia entre los genomas de este virus artificial y el SARS-CoV-2 era demasiado grande, más de 5000 nucleótidos.
+Basándose en otro trabajo publicado en el repositorio BioRxiv, que almacena artículos no revisados por pares, se propagó también que el SARS-CoV-2 contenía secuencias del virus de la inmunodeficiencia humana y, por tanto, habría sido creado artificialmente.
+Esto fue refutado posteriormente por Feng Gao, un virólogo especializado en el VIH, con un análisis bioinformático que demostró que las supuestas inserciones del VIH-1 en el SARS-CoV-2 eran, en realidad, producto del azar.
+[25]​
+
+Estados Unidos [ editar ]
+
+En enero de 2020, la BBC publicó un artículo sobre información errónea sobre el coronavirus, citando dos artículos del 24 de enero de The Washington Times que afirmaban que el virus era parte de un programa chino de armas biológicas, con sede en el Instituto de Virología de Wuhan (WIV).
+[1]​ The Washington Post publicó más tarde un artículo que desacredita la teoría de la conspiración, citando a expertos estadounidenses que explicaron por qué el WIV no era adecuado para la investigación de armas biológicas, que la mayoría de los países habían abandonado las armas biológicas como infructuosas, y que no había evidencia de que el virus fue genéticamente diseñado.
+[26]​
+
+El 29 de enero, el blog estadounidense Zero Hedge sugirió que un científico de la WIV creó la cepa del COVID-19, enumerando los detalles de contacto completos del científico supuestamente responsable, una práctica conocida como doxing, al incluir el nombre, la foto y el número de teléfono del científico, sugiriendo a los lectores que "visiten [al científico chino]" si quieren saber "lo que realmente causó la pandemia de coronavirus".
+[27]​ Twitter suspendió permanentemente la cuenta del blog por violar su política de manipulación de plataformas.
+[28]​
+
+En febrero de 2020, el senador estadounidense Tom Cotton y Francis Boyle, profesor de derecho, sugirieron que el virus pudo haber sido una arma biológica china,[29]​ mientras que en opinión de numerosos expertos médicos no hay evidencia de esto.
+[30]​ El comentarista político conservador Rush Limbaugh dijo en el programa radial The Rush Limbaugh Show que el virus probablemente era "un experimento de laboratorio ChiCom" y que los chinos estaban usando el virus y la histeria mediática para derribar a Donald Trump.
+[31]​[32]​
+
+El comentarista conservador Josh Bernstein afirmó que el Partido Demócrata y el "estado profundo médico" estaban colaborando con el gobierno chino para crear y liberar el coronavirus para derribar a Donald Trump.
+Además, sugirió que los responsables deberían estar encerrados en una habitación con pacientes con coronavirus infectados como castigo.
+[33]​[34]​
+
+Otras naciones [ editar ]
+
+En el Reino Unido, una teoría de la conspiración vinculó el coronavirus a la red de telefonía móvil 5G llevó a que se incendien varias torres 5G.
+Esto pudo estar relacionado con la participación que tenía la empresa china de telecomunicaciones Huawei en el desarrollo de la red.
+[35]​
+
+Arma biológica de Estados Unidos [ editar ]
+
+Rusia [ editar ]
+
+El 22 de febrero, funcionarios estadounidenses alegaron que Rusia estaba detrás de una campaña de desinformación, utilizando miles de cuentas de redes sociales para promover deliberadamente teorías de conspiración infundadas, alegando que el virus era un arma biológica fabricada por la CIA y que EE.
+UU.
+estaba librando una guerra económica contra China usando el virus.
+[13]​[36]​[37]​ El subsecretario de Estado en funciones para Europa y Eurasia, Philip Reeker, dijo que "la intención de Rusia es sembrar la discordia y socavar las instituciones y alianzas de los Estados Unidos desde dentro" y "difundiendo la desinformación sobre el coronavirus, los actores malignos rusos una vez más eligen amenazar la seguridad pública al distraerse de la respuesta de salud global".
+[36]​ Rusia negó la acusación, diciendo que "esta es una historia deliberadamente falsa".
+[38]​
+
+Según la revista estadounidense The National Interest, aunque los canales oficiales rusos se habían silenciado al impulsar la teoría de la conspiración de guerra biológica estadounidense, otros elementos de los medios rusos no comparten la moderación del Kremlin.
+[39]​ Alegando que Zvezda, un medio de noticias financiado por el Ministerio de Defensa ruso, publicó un artículo titulado "Coronavirus: guerra biológica estadounidense contra Rusia y China", donde se cuestionaba si el virus estaba destinado a dañar la economía china, debilitando su posición en la próxima ronda de negociaciones comerciales.
+[39]​[40]​ El político ultranacionalista y líder del Partido Liberal Democrático de Rusia, Vladimir Zhirinovsky, afirmó en una estación de radio de Moscú que el virus era un experimento del Pentágono y las compañías farmacéuticas.
+El político Igor Nikulin hizo apariciones en los medios de comunicación rusos, argumentando que Wuhan fue elegido para el ataque porque la presencia de un laboratorio de virus BSL-4 proporcionó una historia de encubrimiento para el Pentágono y la CIA sobre una fuga de un bioexperimento chino.
+[39]​
+
+La agencia rusa Sputnik analizó varias afirmaciones como que el Partido Comunista Chino se benefició del COVID-19 para poner fin a meses de protestas en Hong Kong, bajo la premisa de analizar si la pandemia era un arma biológica usada con fines económicos o políticos: "Si aplicamos la conocida técnica altamente probable, utilizada sin ceremonias por la exprimera ministra británica Theresa May, para apoyar el llamado envenenamiento de Skripal a Rusia, entonces la respuesta es obvia: la epidemia de coronavirus 2019-nCoV que afectó a China, con un alto grado de probabilidad, le hace el juego a Estados Unidos.
+Y cuanto peor para Beijing, mejor para Washington".
+[41]​
+
+Irán [ editar ]
+
+Según Radio Farda, el clérigo iraní Seyyed Mohammad Saeedi acusó al presidente estadounidense Donald Trump de atacar a Qom con coronavirus "para dañar su cultura y honor".
+Saeedi afirmó que Trump está cumpliendo su promesa de atacar sitios culturales iraníes, si los iraníes se vengan del ataque aéreo estadounidense que mató al comandante de la Fuerza Quds Qasem Soleimani.
+[42]​
+
+La personalidad de la televisión iraní Ali Akbar Raefipour afirmó que el coronavirus era parte de un programa de "guerra híbrida" emprendido por los Estados Unidos en Irán y China.
+[43]​
+
+El expresidente iraní Mahmoud Ahmadinejad envió una carta a las Naciones Unidas el 9 de marzo, alegando que "está claro para el mundo que el coronavirus mutado se produjo en el laboratorio" y que COVID-19 es "una nueva arma para establecer y/o mantener ventaja política y económica en la arena global".
+[44]​
+
+El ayatolá Hashem Bathaie Golpayenagi afirmó que "Estados Unidos es la fuente del coronavirus, porque Estados Unidos se enfrentó a China y se dio cuenta de que no puede seguir el ritmo económica o militarmente".
+[45]​
+
+Otras naciones [ editar ]
+
+Según The Economist, existen muchas teorías de conspiración en Internet de China sobre el COVID-19 como la creación de la CIA para contener a China.
+[46]​ Algunos artículos en sitios populares en China también han puesto en duda a los atletas militares estadounidenses que participaron en los Juegos Mundiales Militares Wuhan 2019, que duraron hasta finales de octubre de 2019, sugiriendo que desplegaron el virus.
+Afirman que la actitud de falta de atención y los resultados desproporcionadamente inferiores a la media de los atletas estadounidenses en los juegos indican que podrían haber estado allí para otros fines y que en realidad podrían ser agentes de bioguerra.
+Tales publicaciones declararon que su lugar de residencia durante su estadía en Wuhan estaba cerca del Mercado Mayorista de Mariscos de Huanan, donde ocurrió el primer grupo conocido de casos.
+[47]​
+
+Según el Instituto de Investigación de Medios de Oriente Medio, numerosos escritores en la prensa árabe han promovido la teoría de que el COVID-19, así como el SARS y el virus de la gripe porcina, fueron creados y difundidos deliberadamente por los Estados Unidos para vender vacunas contra estas enfermedades, y es "parte de una guerra económica y psicológica librada por los Estados Unidos contra China con el objetivo de debilitarla y presentarla como un país atrasado y una fuente de enfermedades".
+[48]​
+
+Movimiento antisemita [ editar ]
+
+Véase también: Alegato antisemita
+
+Press TV afirmó que "los elementos sionistas desarrollaron una cepa más mortal de coronavirus contra Irán".
+[7]​ Varios medios árabes acusaron a Israel y a los Estados Unidos de crear y difundir el COVID-19, la gripe aviar y el SARS.
+[49]​ En redes sociales aparecieron una variedad de teorías, incluida la suposición de que los judíos habían fabricado COVID-19 para precipitar un colapso del mercado de valores global y, por lo tanto, obtener ganancias a través del uso de información privilegiada,[50]​ mientras que un invitado en la televisión turca postuló una actitud más ambiciosa escenario en el que judíos y sionistas habían creado COVID-19, gripe aviar y fiebre hemorrágica de Crimea-Congo para "diseñar el mundo, apoderarse de los países [y] neutralizar a la población mundial".
+[51]​
+
+Operación de espionaje [ editar ]
+
+Se alegó que el coronavirus fue robado de un laboratorio de investigación de virus canadiense por científicos chinos.
+[52]​ Las historias parecen haberse derivado de una noticia de julio de 2019[53]​[54]​ que indicaba que algunos investigadores chinos tuvieron su acceso de seguridad a una instalación de virología de nivel 4 canadiense revocado en una investigación de la policía federal.
+[54]​
+
+Esquema de control de la población [ editar ]
+
+Según la BBC, una teoría de conspiración YouTuber apoyada por QAnon y el movimiento anti-vacunas, ha afirmado que el brote fue un esquema de control de población creado por el Instituto Pirbright en Inglaterra y el expresidente de Microsoft, Bill Gates, fue apoyada por libertarios de derecha, teóricos de la conspiración del Nuevo Orden Mundial y fundamentalistas cristianos.
+[1]​[55]​ Es posible que este tipo de teorías tenga su origen en la malinterpretación de algunas respuestas que Bill Gates dio en una sesión de preguntas en la red social Reddit[56]​.
+Ante la pregunta de uno de los usuarios sobre los cambios en la forma en que operan las empresas para mantener la economía y proporcionar distanciamiento social, Bill Gates respondió: “La cuestión de qué empresas deberían continuar es complicada.
+Ciertamente, el suministro de alimentos y el sistema de salud (...) Eventualmente tendremos algunos certificados digitales para mostrar quién se recuperó o se hizo la prueba recientemente o, cuando tengamos una vacuna, quién la recibió”.
+[56]​[57]​
+
+Discrepancias con las estadísticas [ editar ]
+
+El 24 de enero, un video circuló en línea en el que aparecía ser de una enfermera llamada Jin Hui[58]​ en Hubei que describe una situación mucho más grave en Wuhan que la que afirman los funcionarios chinos.
+El video afirmaba que más de 90.000 personas habían sido infectadas con el virus en China, el virus se puede transmitir de una persona a 14 personas y el virus está comenzando la segunda mutación.
+[11]​ El video atrajo millones de visitas en varias plataformas de redes sociales y fue mencionado en numerosos informes en línea.
+Sin embargo, la BBC señaló que, al contrario de sus subtítulos en inglés en una de las versiones existentes del video, la mujer no dice ser ni enfermera ni doctora en el video y que su traje y máscara no coinciden con los que usa el personal médico.
+El 25 de febrero, Taiwan News publicó un artículo, afirmando que Tencent filtró accidentalmente los números reales de muertes e infecciones en China.
+Taiwan News sugiere que el Rastreador de situaciones de epidemia de Tencent había mostrado brevemente casos infectados y peajes de muerte muchas veces más altos que la cifra oficial, citando una publicación en Facebook del dueño de una tienda de bebidas taiwanesa de 38 años, Hiroki Lo, y un cibernauta taiwanés anónimo.
+[59]​
+
+Situaciones médicas [ editar ]
+
+Bulos ampliamente difundidos en las redes sociales han afirmado, entre otras cosas:
+
+Todas las afirmaciones anteriores han sido refutadas[60]​[62]​
+
+Preexistencia de la vacuna [ editar ]
+
+Se informó que varias publicaciones en las redes sociales han promovido una teoría de conspiración que afirma que el virus era conocido y que una vacuna ya estaba disponible.
+PolitiFact y FactCheck.org señalaron que actualmente no existe una vacuna para COVID-19.
+Las patentes citadas por varias publicaciones en las redes sociales hacen referencia a patentes existentes para secuencias genéticas y vacunas para otras cepas de coronavirus como el coronavirus SARS.
+[5]​[71]​
+
+Cura de cocaína [ editar ]
+
+Varios tuits virales que afirman que inhalar cocaína esterilizaría las fosas nasales del coronavirus diseminado por Europa y África.
+En respuesta, el Ministerio de Salud francés emitió un comunicado que desacredita esta afirmación, al igual que la Organización Mundial de la Salud.
+[72]​
+
+5G [ editar ]
+
+En febrero de 2020, la BBC informó que los teóricos de la conspiración en grupos de redes sociales alegaron un vínculo entre el coronavirus y las redes móviles 5G, alegando que los brotes de Wuhan y el crucero Diamond Princess fueron causados directamente por campos electromagnéticos y la introducción de tecnologías 5G e inalámbricas.
+Algunos teóricos de la conspiración también alegaron que el brote de coronavirus fue encubrimiento de una enfermedad relacionada con 5G.
+[73]​ En marzo de 2020, Thomas Cowan, un médico holístico que se capacitó como médico y opera en libertad condicional con la Junta Médica de California, alegó que el coronavirus es causado por 5G, según las afirmaciones de que los países africanos no se vieron afectados significativamente por la pandemia y África no era una región 5G.
+[74]​[75]​ El video original fue subido a Youtube el 12 de marzo de 2020.
+Rápidamente se hizo viral y alcanzó 390.000 visualizaciones y fue compartido 16.000 veces en una semana.
+[76]​ Cowan también alegó falsamente que los virus eran desechos de células que están envenenadas por campos electromagnéticos y las pandemias virales históricas coincidieron con los principales desarrollos en tecnología de radio.
+[75]​
+
+Mascotas [ editar ]
+
+Cientos de mascotas han sido abandonadas bajo la creencia errónea de que las mascotas domésticas comunes, como perros y gatos, pueden infectarse y propagar la enfermedad.
+[77]​[78]​[79]​ Hay poca evidencia que respalde que perros y gatos infectados puedan propagar el virus.
+[80]​[81]​[82]​[83]​
+
+Inmunidad vegetariana [ editar ]
+
+Algunas organizaciones, incluida PETA, e individuos hicieron afirmaciones falsas en las redes sociales de que comer carne hacía que las personas fueran susceptibles al virus.
+[84]​
+
+En la India, un rumor falso se difundió en línea alegando que solo las personas que comen carne se vieron afectadas por el coronavirus, lo que causó que "#NoMeat_NoCoronaVirus" tuviera tendencia en Twitter.
+[85]​
+
+Metanol [ editar ]
+
+Irán ha informado sobre incidentes de consumo de metanol bajo la falsa creencia de que curaría o protegería contra el coronavirus.
+[86]​ Las redes sociales iraníes hicieron circular una historia en los tabloides británicos de que un hombre británico y otros habían sido curados de coronavirus con whisky y miel,[86]​[87]​ que combinados con el uso de geles antibacteriales a base de alcohol, condujeron a la falsa creencia de que beber alcohol de alta resistencia puede matar el virus.
+[86]​[88]​[89]​
+
+Eficacia del gel antibacterial [ editar ]
+
+Las afirmaciones de que el gel antibacterial es simplemente "antibacteriano, no antiviral" y, por lo tanto, no es efectivo contra el coronavirus, se han extendido ampliamente en Twitter y otras redes sociales, no solo en los EE.
+UU.
+sino también en otros lugares.
+Si bien la efectividad del desinfectante depende de los ingredientes específicos, la mayoría del desinfectante de manos vendido comercialmente mata el coronavirus.
+[90]​
+
+Inyectar desinfectante [ editar ]
+
+Durante el 23 de abril de 2020, el presidente de los Estados Unidos Donald Trump, afirmo que se debía inyectar desinfectantes,[91]​ y que creía que lo eliminaba en un minuto.
+Animando a la población a comprobarlo.
+[92]​ Desde el día 25 de abril de 2020, hubo decenas de llamadas telefónicas por intoxicaciones por inyectarse desinfectante.
+[93]​
+
+Pruebas de coronavirus [ editar ]
+
+En redes sociales surgieron varias teorías sobre los peligros de hacerse las pruebas, como una supuesta ruptura de la "barrera hematoencefálica" cuando se realizan tomas de muestras de tejidos en una prueba de coronavirus, kits de prueba contaminados que pueden contagiar el coronavirus o que que la prueba de coronavirus es parte de un plan financiado por la Fundación Gates para implantar un microchip en pacientes.
+[94]​
+
+Otras situaciones [ editar ]
+
+Brasil [ editar ]
+
+En Brasil, un video fue ampliamente compartido afirmando que el vinagre era más efectivo que el desinfectante de manos contra el coronavirus.
+Eso fue refutado, ya que "no hay evidencia de que el ácido acético sea efectivo contra el virus" e, incluso si lo hubiera, "su concentración en vinagre doméstico común es baja".
+[95]​
+
+Se dijo que el fármaco a base de cloroformo y éter loló curaba la enfermedad en mensajes difundidos en Brasil.
+Otras presuntas curas en los mensajes que se difundieron en Brasil fueron el aguacate y el té de menta, el whisky caliente y la miel, los aceites esenciales, las vitaminas C y D,[96]​ el té de hinojo (supuestamente similar al medicamento Tamiflu, según un correo electrónico falso atribuido a un director de hospital) y cocaína.
+[97]​
+
+China [ editar ]
+
+Varios medios de comunicación chinos anunciaron un informe de "investigación nocturna" del Instituto de Virología de Wuhan y el Instituto de Materia Médica de Shanghái, junto con la Academia de Ciencias de China, sobre cómo el shuanghuanglian, una mezcla de hierbas de la medicina tradicional china (MTC), puede efectivamente inhibir el nuevo coronavirus.
+El informe ha llevado a un frenesí de compras de shuanghuanglian.
+[98]​
+
+Desde su tercera versión, las pautas de manejo de COVID de la Comisión Nacional de Salud recomiendan usar MTC para tratar la enfermedad.
+[99]​ En Wuhan, las autoridades locales han presionado para que se use un conjunto de recetas de medicina tradicional china para cada caso desde principios de febrero.
+[100]​[101]​ Se promovió una fórmula a nivel nacional a mediados de febrero.
+[102]​ Los hospitales locales de campaña estaban explícitamente orientados a la medicina tradicional china.
+Según los medios estatales, hasta el 16 de marzo de 2020, el 91.91% de todos los pacientes de Hubei habían usado TCM, con una tasa que alcanza el 99% en hospitales de campaña y el 94% en áreas de cuarentena a granel.
+[103]​
+
+Estados Unidos [ editar ]
+
+Algunos defensores de la teoría de conspiración de extrema derecha QAnon han promovido el "Suplemento mineral milagroso" (en realidad, lejía) como una forma de prevenir o curar la enfermedad.
+La FDA advirtió varias veces que beberlo es "peligroso", puede causar "vómitos severos" e "insuficiencia hepática aguda".
+[104]​
+
+En febrero de 2020, el televangelista Jim Bakker promovió una solución de plata coloidal vendida en su sitio web, como remedio para el coronavirus COVID-19.
+El naturópata Sherrill Sellman, un invitado en su programa, declaró que "no se ha probado en esta cepa del coronavirus, pero se ha probado en otras cepas del coronavirus y ha podido eliminarlo en 12 horas".
+[105]​ La FDA y la oficina del Fiscal General de Nueva York emitieron órdenes de cese y desistimiento contra Bakker, y el estado de Misuri lo demandó por las ventas.
+[106]​[107]​ La oficina del Fiscal General de Nueva York también emitió una orden de cesar y desistir al presentador de radio Alex Jones, quien vendía pasta de dientes con infusión de plata que, según afirmaba, podía matar el virus y había sido verificado por funcionarios federales,[108]​ haciendo que un portavoz de Jones niegue que los productos se hayan vendido con el fin de tratar cualquier enfermedad.
+[10]​
+
+Otro televangelista, Kenneth Copeland, afirmó en Victory Channel durante un programa llamado "Standing Against Coronavirus", que puede curar a los televidentes de COVID-19 directamente desde el estudio de televisión.
+Los espectadores tuvieron que tocar la pantalla del televisor para recibir la curación espiritual.
+[109]​[110]​
+
+El 12 de junio de 2020, Facebook retiró un post de la cuenta del Presidente Donald Trump, en el que compartía parte de su entrevista en el canal Fox News donde decía que los niños eran "casi inmunes" a la covid-19.
+Twitter también sancionó una cuenta de la campaña de Trump, por compartir ese video.
+[111]​
+
+Estonia [ editar ]
+
+El 27 de febrero de 2020, el Ministro del Interior de Estonia, Mart Helme, declaró en una conferencia de prensa que el resfriado común había sido renombrado como coronavirus y que en su juventud no existía nada de eso.
+Recomendó usar calcetines calientes y parches de mostaza, así como esparcir grasa de ganso en el pecho como tratamientos para el virus.
+También dijo que el virus pasaría en unos pocos días a una semana al igual que el resfriado común.
+[112]​
+
+Grecia [ editar ]
+
+En marzo de 2020, a pesar de la pandemia, la Iglesia ortodoxa griega anunció que la Sagrada Comunión, en la que los feligreses comen trozos de pan empapados en vino del mismo cáliz, continuaría como práctica.
+[113]​[114]​ justificándolo diciendo que Jesús nunca se enfermó,[115]​ mientras que el Obispo de El Pireo Seraphim anunció que solo aquellos que participaron en misas sin verdadera fe podrían verse afectados.
+[116]​ El Santo Sínodo declaró que la Sagrada Comunión "no puede ser la causa de la propagación de la enfermedad", con Serafines Metropolitanos diciendo que el vino no tenía mancha porque representaba la sangre y el cuerpo de Cristo, y que "quien asiste a la Sagrada Comunión se está acercando a Dios, quien tiene el poder de sanar".
+[113]​[116]​ Además, hubo informes de que la línea directa CoVid 19 informaba a los creyentes preocupados que no había riesgo de contagio en el sacramento.
+[116]​
+
+Médicos griegos apoyaron públicamente la continuación de la práctica de la Sagrada Comunión.
+[115]​ Eleni Giamarellou, profesora de enfermedades infecciosas en la Universidad de Atenas, anunció que no había peligro y que estaba aceptando la comunión con fe en Dios, por lo que no podía infectarse.
+[116]​ La Asociación Griega de Médicos del Hospital criticó a estos profesionales por anteponer sus creencias religiosas a la ciencia.
+[115]​
+
+Se denunció que el líder del partido Solución Griega, Kyriakos Velopoulos, vendía una crema de manos a través de su tienda de televisión, que supuestamente mataría por completo al COVID-19, aunque este no estaba aprobado por las autoridades médicas.
+[116]​
+
+India [ editar ]
+
+El activista político Swami Chakrapani y el miembro de la Asamblea Legislativa Suman Haripriya afirmó que beber orina de vaca y aplicar estiércol de vaca en el cuerpo podía curar el COVID-19.
+[117]​[118]​ El principal científico de la OMS, Soumya Swaminathan, criticó tales afirmaciones.
+[119]​
+
+México [ editar ]
+
+En mayo de 2020 se esparció por redes sociales que durante las hospitalizaciones por covid-19, los médicos usaban de excusa la infección para extraer el "líquido de las rodillas" de los pacientes (bulo que habría surgido entre 2017 y 2018).
+[120]​ De esta manera, podrían venderlo en el mercado negro y financiar la instalación de antenas 5G.
+[121]​
+
+Nigeria [ editar ]
+
+Tras el primer caso reportado de COVID-19 el 28 de febrero, las curas y tratamientos no probados comenzaron a extenderse en redes sociales.
+[122]​ Hubo afirmaciones de que la cloroquina se usó para curar a más de 12,000 pacientes con COVID-19.
+[123]​
+
+Estafas [ editar ]
+
+La ONU y la OMS advirtieron sobre estafas criminales que involucraban a perpetradores que se hacían pasar por representantes de la OMS que buscan información personal de las víctimas por correo electrónico o por teléfono.
+[124]​ Además, la Comisión Federal de Comunicaciones advirtió a los consumidores que no hagan clic en enlaces en correos electrónicos sospechosos ni den información personal en correos electrónicos, mensajes de texto o llamadas telefónicas que afirman ser representantes de los CDC.
+[125]​
+
+La firma de seguridad cibernética Check Point declaró que ha habido un gran aumento en los ataques de phishing para atraer a las víctimas a instalar involuntariamente un virus informático bajo la apariencia de correos electrónicos con temática de coronavirus que contienen archivos adjuntos.
+Los ciberdelincuentes usan dominios engañosos como "cdc-gov.org" en lugar del "cdc.gov" correcto, o incluso falsifican el dominio original para que se parezca a sitios web específicos.
+Se han registrado más de 4.000 dominios relacionados con el coronavirus.
+[126]​
+
+La policía del estado estadounidense de Nueva Jersey informó sobre incidentes de delincuentes que tocaban las puertas de las personas y afirmaban ser de los CDC.
+Luego intentaban vender productos a precios inflados o engañar a las víctimas con el pretexto de educar y proteger al público del coronavirus.
+[127]​
+
+Enlaces que supuestamente dirigen al mapa de coronavirus de la Universidad Johns Hopkins, pero en su lugar dirigen a un sitio falso que propaga malware, han circulado en Internet.
+[128]​[129]​
+
+Actitudes gubernamentales [ editar ]
+
+La pandemia ha hecho que autoridades de todo el mundo lucharan para contener la expansión de la enfermedad.
+Sin embargo, variod líderes mundiales ha causado controversia por sus polémicas declaraciones minimizando la crisis, dando informaciones falsas o haciendo que sus compatriotas adoptaran comportamientos inadecuados.
+[130]​
+
+Argentina [ editar ]
+
+El 12 de marzo, en una entrevista en Radio Mitre, Alberto Fernández, además de aclarar medidas del gobierno,[131]​ afirmó que “La Organización Mundial de la Salud entre las cosas que recomienda es que uno tome muchas bebidas calientes porque el calor mata al virus" o que el virus "muere a los 26 grados", y que pensaba que no sobreviviría por mucho tiempo.
+[132]​ Afirmaciones que fueron desmentidas y criticadas por varios medios y especialistas,[132]​ al ser peligrosas y no estar en los datos de la OMS.
+[133]​[134]​
+
+El 31 de julio, la Embajada de España en Argentina informó que, desde que se levantó el estado de alarma el 21 de junio ningún territorio español estaba en cuarentena, en respuesta a afirmaciones del gobernador de la provincia de Buenos Aires, Axel Kicillof, donde recalcaba que en muchos lugares se habían reimpuesto restricciones, "particularmente País Vasco, Cataluña, en este momento con cuarentena estricta en Barcelona".
+[135]​
+
+Brasil [ editar ]
+
+Cuando comenzó el brote, muchos estados brasileños, incluido São Paulo, que era el foco del brote, impusieron duras medidas de aislamiento social que incluyeron el cierre de escuelas y negocios no esenciales.
+Temiendo las consecuencias de las medidas, el gobierno brasileño, liderado por Jair Bolsonaro, comenzó a minimizar la enfermedad al afirmar que "Es apenas una pequeña gripe" y acusando a los medios de promover el pánico y la histeria.
+[13]​[130]​ Mediante la campaña "o Brasil não pode parar" (Brasil no puede parar), Bolsonaro buscaba levantar las medidas de restricción en todo el país, medida que fue bloqueada por orden judicial.
+[136]​[137]​
+
+Algunos analistas señalaron que las posiciones de Bolsonaro imitan las primeras posiciones del presidente estadounidense Donald Trump, quien también trató de minimizar la pandemia antes de adoptar medidas más duras.
+[138]​
+
+China [ editar ]
+
+Acusaciones de mal manejo de la crisis [ editar ]
+
+La denuncia de varios médicos chinos, incluido Li Wenliang el 30 de diciembre de 2019, reveló que las autoridades del hospital de Wuhan ya sabían que el virus era un coronavirus similar al SARS y que los pacientes ya estaban en cuarentena.
+[139]​ La Comisión de Salud de Wuhan todavía insistió en que la enfermedad que se propagaba en Wuhan en ese momento no era SARS el 5 de enero de 2020.
+[140]​
+
+En las primeras etapas del brote, la Comisión Nacional de Salud de China dijo que no tenían "pruebas claras" de las transmisiones de persona a persona.
+[141]​ Una investigación posterior publicada el 20 de enero de 2020 indicó que entre los casos confirmados oficialmente, la transmisión de persona a persona puede haber comenzado en diciembre del año anterior, y el retraso de la divulgación de los resultados, fue recibido con críticas hacia las autoridades sanitarias.
+[141]​
+
+El 15 de febrero de 2020, el líder supremo de China, Xi Jinping, publicó un artículo que afirmaba haber estado al tanto de la epidemia desde el 7 de enero de 2020 y emitió una orden para contener la propagación de la enfermedad durante una reunión ese día.
+Sin embargo, un registro de esa misma reunión publicada de antemano mostraba que no hubía ninguna mención de la epidemia en todo momento.
+[142]​ La Casa Blanca acusó a los medios de avivar intencionalmente los temores del virus para desestabilizar a la administración.
+[143]​
+
+Origen del virus [ editar ]
+
+En respuesta al brote, los funcionarios del gobierno chino lanzaron una campaña coordinada de desinformación para difundir dudas sobre el origen del coronavirus y su brote.
+[144]​[145]​ Una revisión de las publicaciones de los medios estatales y las redes sociales chinas a principios de marzo de 2020, realizada por The Washington Post, descubrió que las teorías de conspiración antiamericanas que circulan entre los usuarios chinos "ganaron fuerza a través de una mezcla de declaraciones oficiales inexplicadas ampliadas por redes sociales, censura y dudas avivadas por los medios estatales y funcionarios del gobierno".
+[146]​ Funcionarios del Departamento de Estado de EE.
+UU.,[147]​ así como el profesor de ciencias políticas de la Universidad de Chicago Dali Yang , una autoridad en política china, han declarado que la "campaña china" parece tener la intención de desviar la atención del mal manejo del gobierno chino en la crisis.
+[146]​
+
+En una conferencia de prensa el 12 de marzo de 2020, dos portavoces del Ministerio de Relaciones Exteriores de China (Zhao Lijian y Geng Shuang) promovieron la teoría de la conspiración de que el coronavirus había sido "bioingeniería" por las potencias occidentales; y sugirió que el gobierno de los Estados Unidos, específicamente el ejército de los Estados Unidos, había propagado el virus.
+[145]​[148]​ Ninguna evidencia respaldaba estas afirmaciones.
+[145]​[149]​ Algunos medios estatales chinos habían propagado la especulación de que el virus podría haberse propagado en Italia antes del brote de Wuhan, después de que el médico italiano Giuseppe Remuzzi mencionara informes de casos extraños de neumonía en noviembre y diciembre, luego dijo que sus palabras fueron malinterpretadas.
+[150]​[151]​
+
+La posible existencia de una "campaña de desinformación intencional" de China fue discutida entre el Grupo de los Siete (G7),[152]​ y los esfuerzos chinos fueron condenados por el Departamento de Estado de Estados Unidos,[144]​ que criticó a las autoridades chinas por difundir una conspiración "peligrosa y ridícula".
+[147]​
+
+Estados Unidos [ editar ]
+
+El presidente estadounidense Donald Trump hablando en rueda de prensa (26 de febrero de 2020)
+
+Véase también: Veracidad de las declaraciones de Donald Trump
+
+El presidente de los Estados Unidos, Donald Trump, y su principal asesor económico, Larry Kudlow, fueron acusados de difundir información errónea sobre el coronavirus.
+El 25 de febrero, Trump dijo: "Creo que toda la situación comenzará a funcionar.
+Estamos muy cerca de una vacuna",[153]​[154]​[155]​[156]​ cuando el desarrollo de nuevas vacunas puede requerir un mínimo de un año para demostrar seguridad y eficacia para obtener la aprobación reglamentaria.
+[157]​ En una entrevista con Sean Hannity el 4 de marzo, Trump también afirmó que la tasa de mortalidad publicada por la OMS es falsa (que la tasa de mortalidad correcta era inferior al 1% y dijo: "Bueno, creo que el 3,4 por ciento es realmente un número falso"),[158]​[159]​[160]​ que el impacto potencial del brote es exagerado por los demócratas conspirando contra él, y que es seguro para las personas infectadas ir a trabajar.
+[161]​[162]​
+
+La Casa Blanca acusó a los medios de avivar intencionalmente los temores del virus para desestabilizar a la administración.
+[163]​ El 2 de marzo, Trump dijo a los medios que había escuchado que una vacuna COVID-19 estaría disponible en "cuestión de meses", con "un año [siendo] un número externo".
+Esto ocurrió justo después de que Trump asistió a una discusión en la que su alto funcionario de salud Anthony Fauci le dijo que en realidad tomaría "un año a un año y medio" (como mínimo, Fauci dijo más tarde).
+Durante esa discusión, Trump cuestionó repetidamente a los líderes de las compañías farmacéuticas sobre el tiempo necesario para producir vacunas, afirmando: "Me gusta más el sonido de un par de meses".
+El tiempo requerido se debe a que las vacunas requieren múltiples rondas de pruebas antes de ser aprobadas para uso público.
+[164]​
+
+El 6 de marzo, Trump prometió la disponibilidad de pruebas para el COVID-19 en los Estados Unidos, alegando que: "Cualquiera que quiera una prueba puede hacerse una prueba".
+Aunque en ese momento, existía escasas y no había criterios suficientes para su validación.
+[165]​[166]​
+
+El 19 de marzo, Trump afirmó que la cloroquina fue aprobada por la FDA como tratamiento para el COVID-19, lo que posteriormente fue negado por esta agencia.
+Aunque Trump afirmó que "podremos hacer que ese medicamento esté disponible casi de inmediato", la FDA declaró que el medicamento aún necesitaría ser probado en un "ensayo clínico grande y pragmático".
+[167]​ El alto funcionario de salud Anthony Fauci declaró que los resultados positivos de la hidróxicloroquina se basaban en "evidencia anecdótica" y no en evidencia "definitiva" de ensayos clínicos.
+[168]​
+
+El 21 de marzo, Trump abordó la escasez de suministro de respiradores, alegando que las compañías automotrices General Motors y Ford "los están fabricando ahora", aunque en esas fechas se estimaba que tomaría al menos varios meses para que las compañías automotrices cambiaran sus capacidades de producción.
+[169]​
+
+Bill de Blasio, alcalde de Nueva York, afirmó que era una percepción errónea de que la enfermedad "flota en el aire", ya que "toma contacto directo de persona a persona", "Si tienes menos de 50 años y eres saludable, (...) hay muy poca amenaza".
+Prometió mantener abiertas las escuelas, incluso si los alumnos estuvieran enfermos.
+Declinó en primer momento cancelar el desfile del Día de San Patricio y las llamadas para cancelar el barrido regular de calles.
+[170]​
+
+Según The Washington Post, miembros del gobierno fueron influenciados por una serie de artículos de Richard Epstein del Instituto Hoover, quien minimizó la escala de las epidemias, hizo una serie de declaraciones incorrectas sobre el virus SARS-CoV-2 y las muertas producida por esta.
+[171]​
+
+Gran Bretaña [ editar ]
+
+Al comenzar la pandemia el gobierno conservador de Boris Jhonson basó su estrategia en la creación de la inmunidad de grupo, algo que no estaba en ese momento demostrado.
+[172]​ Estrategia que es duramente cuestionada por la OMS.
+[173]​
+
+Irán [ editar ]
+
+El líder supremo de Irán, el ayatolá Ali Khamenei, sugirió que el gobierno de los Estados Unidos era responsable de la propagación del coronavirus.
+El líder supremo de Irán, el ayatolá Ali Khamenei, dijo que Estados Unidos creó "una versión especial" del virus que está "específicamente construida para Irán utilizando los datos genéticos de los iraníes que han obtenido por diferentes medios".
+[174]​[175]​
+
+Baréin acusó a Irán de "agresión biológica tipificada como delito por el derecho internacional" al mentir sobre la magnitud del brote en Irán.
+[176]​
+
+Rusia [ editar ]
+
+El 24 de marzo, circuló en redes un bulo que sugería que un león había sido soltado en las calles para mantener a la población en cuarentena, resultando ser un video de un león que escapó en Sudáfrica en abril de 2016.
+[177]​
+
+México [ editar ]
+
+El gobierno de México fue criticado de haber tardado en responder a la pandemia de COVID-19 a fines de marzo de 2020.
+[178]​ El presidente Andrés Manuel López Obrador inicialmente fue táctil con las multitudes y minimizando la amenaza del coronavirus para la salud de los mexicanos y para la economía mexicana.
+[16]​[130]​[179]​[180]​
+
+Emiratos Árabes Unidos [ editar ]
+
+Según BuzzFeed News, "Twitter eliminó una red de cuentas pro-Emiratos Árabes Unidos que impulsaba la propaganda sobre el coronavirus.
+[181]​
+
+Cuba [ editar ]
+
+El presidente Miguel Díaz Canel, afirmó en Twitter que el interferón alfa-2b se estaba utilizando para tratar y curar el COVID-19 en China, con "resultados palpables en la cura de más de 1 500 pacientes".
+El interferón era fabricado en la planta sino-cubana Chang Heber, utilizando tecnología cubana.
+El medicamento era recomendado para el tratamiento del COVID-19 en la guía publicada el 6 de febrero de 2020 por médicos chinos de Wuhan.
+Sin embargo, se aclaraba que para ese momento no había evidencia que permita optar por un antiviral específico para combatir el coronavirus.
+[182]​
+
+Venezuela [ editar ]
+
+El 27 de febrero de 2020, Nicolás Maduro advirtió que la enfermedad COVID-19 podría ser un "arma biológica" creada contra China y el resto del mundo.
+[183]​
+
+A través de redes sociales, Maduro apoyó el uso de infusiones de hierbas para curar el COVID-19.
+En marzo, Twitter borró un tuit de Maduro que citaba los trabajos de Sergio Quintero, un médico venezolano que aseguraba haber encontrado un antídoto natural contra la enfermedad, además de argumentar que el virus fue creado por Estados Unidos como arma biológica.
+[184]​
+
+Desde el 24 de marzo, Maduro acusó a Colombia de promover la "infección intencional" de los migrantes venezolanos que regresaban a su país, diciendo que eran "arma biológica".
+[185]​
+
+El 25 de enero de 2021, Nicolás Maduro, presentó el medicamento "Carvativir ( 2-metil-5-(1-metiletil)-fenol recombinado, mejor conocido como Carvacrol o 2-Metil-5-(1-metiletil) fenol, derivado del tomillo)[186]​ " asegurando que "neutraliza el COVID-19 en un 100%",supuestamente sin efectos secundarios.
+[187]​[188]​[189]​ También declaró que se tenía planeado producirlo masivamente y distribuirlo en todos los centros de salud públicos y privados de Venezuela.
+[190]​ El compuesto esta constituido por varios derivados del timol.
+el cual se extrae de la planta Thymus vulgaris, popularmente conocida como tomillo, y que también puede extraerse del orégano;[189]​ el mismo 25 de enero, la Academia Nacional de Medicina de Venezuela publicó un artículo donde refiere que el principal agente activo en el "Carvativir" sería el carvacrol.
+[191]​ Se presentaba en una solución con gotero, supuestamente su "poslogía" sería: "Diez gotas sublinguales cada cuatro horas".
+[192]​
+
+Rápidamente el medicamento fue cuestionado por especialistas en todo el mundo y dentro de Venezuela, quienes puntualizaban que no existía evidencia de que éste fuera efectivo para el manejo de COVID-19.
+[187]​[188]​[189]​[190]​[192]​ Habiendo quien lo tachó de "producto milagro".
+[189]​[192]​ El día siguiente a su polémica declaración y tras la toma de postura de la Academia Nacional de Medicina, Maduro rectificó y calificó al "Carvativir" solo como un coadyuvante al tratamiento.
+[193]​
+
+Esfuerzos de combate [ editar ]
+
+En este sentido, se han realizado varios esfuerzos para frenar el flujo de desinformación sobre la pandemia.
+El 2 de febrero de 2020, la Organización Mundial de la Salud (OMS) describió una "epidemia de información falsa", citando una gran cantidad de información reportada, precisa y falsa, sobre el virus que "dificulta que las personas encuentren fuentes confiables y orientación confiable cuando se necesitan".
+La OMS declaró que la gran demanda de información oportuna y confiable ha incentivado la creación de una línea directa directa de 24 horas al día, 7 días a la semana, en la que los equipos de comunicación y redes sociales han estado monitoreando y respondiendo a la información errónea a través de su sitio web y páginas de redes sociales.
+[194]​[195]​ La OMS específicamente desacreditó como falsas algunas afirmaciones que han circulado en las redes sociales, incluida la afirmación de que una persona puede saber si tiene el virus o no simplemente conteniendo la respiración; la afirmación de que beber mucha agua protegerá contra el virus; y la afirmación de que hacer gárgaras con agua salada evitará la infección.
+[196]​
+
+Facebook, Twitter y Google dijeron que estaban trabajando con la OMS para abordar la "información errónea".
+[197]​ En enero de 2020 en una publicación de su blog, Facebook declaró que eliminarían el contenido marcado por las principales organizaciones mundiales de salud y las autoridades locales que violen su política de contenido sobre información errónea que conduce a "daños físicos".
+[198]​ Facebook también ofrece publicidad gratuita a la OMS.
+[199]​
+
+A finales de febrero, Amazon eliminó más de un millón de productos que afirmaban curar o proteger contra el coronavirus, y eliminó decenas de miles de listados de productos de salud demasiado caros, aunque se dice que el aumento de precios todavía está desenfrenado en la plataforma.
+[200]​
+
+Véase también [ editar ]
+
+Referencias [ editar ]

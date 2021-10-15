@@ -1,0 +1,16 @@
+:Entity_EDL_0000009	GeneralAffiliation.MORE	:Entity_EDL_0000007	L0C0495AR:655-805	1.000
+:Entity_EDL_0000009	GeneralAffiliation.MORE	:Entity_EDL_0000008	L0C0495AR:655-805	1.000
+:Entity_EDL_0000011	PartWhole.Subsidiary	:Entity_EDL_0000010	L0C0495AR:854-974	1.000
+:Entity_EDL_0000015	GeneralAffiliation.MORE	:Entity_EDL_0000014	L0C0495AR:976-1137	1.000
+:Entity_EDL_0000033	Physical.LocatedNear	:Entity_EDL_0000034	L0C0495AR:3062-3208	1.000
+:Entity_EDL_0000036	OrganizationAffiliation.EmploymentMembership	:Entity_EDL_0000035	L0C0495AR:3062-3208	1.000
+:Entity_EDL_0000050	GeneralAffiliation.MORE	:Entity_EDL_0000051	L0C04959A:616-748	1.000
+:Entity_EDL_0000052	OrganizationAffiliation.EmploymentMembership	:Entity_EDL_0000053	L0C04959A:616-748	1.000
+:Entity_EDL_0000053	PartWhole.Subsidiary	:Entity_EDL_0000054	L0C04959A:616-748	1.000
+:Entity_EDL_0000058	OrganizationAffiliation.EmploymentMembership	:Entity_EDL_0000059	L0C04959A:893-989	1.000
+:Entity_EDL_0000066	Physical.LocatedNear	:Entity_EDL_0000067	L0C04959A:1437-1484	1.000
+:Entity_EDL_0000068	Physical.OrganizationLocationOrigin	:Entity_EDL_0000069	L0C04959A:1486-1518	1.000
+:Entity_EDL_0000074	OrganizationAffiliation.EmploymentMembership	:Entity_EDL_0000073	L0C04959A:1520-1696	1.000
+:Entity_EDL_0000086	OrganizationAffiliation.Ownership	:Entity_EDL_0000087	L0C04959A:2110-2261	1.000
+:Entity_EDL_0000094	GeneralAffiliation.MORE	:Entity_EDL_0000095	L0C04959A:2461-2575	1.000
+:Entity_EDL_0000107	GeneralAffiliation.APORA	:Entity_EDL_0000108	L0C04959A:2857-3042	1.000

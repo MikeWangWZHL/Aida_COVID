@@ -1,0 +1,81 @@
+T1	MHI 24 31	disease
+T2	LOC 160 165	world
+T3	PER 341 350	travelers
+T4	FAC 382 388	school
+T5	PER 474 485	individuals
+T6	PER 502 513	individuals
+T7	PER 715 719	host
+T8	PER 723 727	host
+T9	PER 1098 1109	Carl Flügge
+T10	PER 1210 1220	individual
+T11	MHI 1378 1386	diseases
+T12	PER 1414 1430	William F. Wells
+T13	PER 1576 1581	Wells
+T14	LOC 1708 1716	vicinity
+T15	PER 1733 1743	individual
+T16	MHI 2295 2302	disease
+T17	MHI 2395 2402	disease
+T18	MHI 2586 2593	disease
+T19	ORG 2622 2647	World Health Organization
+T20	ORG 2658 2666	agencies
+T21	ORG 2680 2722	Centers for Disease Control and Prevention
+T22	MHI 3417 3424	disease
+T23	PER 4210 4215	Human
+T24	PER 4253 4258	Their
+T25	PER 4540 4547	patient
+T26	PER 4811 4816	their
+T27	LOC 5358 5366	surfaces
+T28	PER 6033 6040	patient
+T29	GPE 6061 6066	China
+T30	MHI 6110 6132	syndrome coronavirus 2
+T31	ORG 6134 6144	SARS-CoV-2
+T32	FAC 6207 6215	hospital
+T33	FAC 6216 6221	rooms
+T34	PER 6225 6233	patients
+T35	MHI 6353 6360	disease
+T36	PER 6479 6487	patients
+T37	PER 6714 6722	patients
+T38	MHI 6741 6757	SARS-CoV-2 virus
+T39	ORG 6992 7017	World Health Organization
+T40	PER 7060 7069	personnel
+T41	PER 7080 7085	staff
+T42	PER 7147 7153	person
+T43	ORG 7218 7260	Centers for Disease Control and Prevention
+T44	PER 7764 7770	worker
+T45	PER 7891 7898	workers
+T46	PER 7910 7918	patients
+T47	PER 7948 7952	they
+T48	PER 7989 7996	patient
+T49	PER 8190 8196	person
+T50	PER 8224 8230	wearer
+T51	PER 8271 8277	person
+T52	PER 8328 8333	their
+T53	PER 9244 9248	host
+T54	PER 9252 9256	host
+T55	MHI 9269 9276	disease
+T56	PER 9308 9312	host
+T57	MHI 9369 9376	disease
+T58	MHI 9476 9483	disease
+T59	PER 9555 9562	patient
+T60	PER 9678 9685	workers
+T61	MHI 9698 9705	disease
+T62	PER 9744 9751	members
+T63	PER 9759 9769	population
+T64	PER 9817 9823	Author
+T65	PER 9825 9840	Lydia Bourouiba
+T66	ORG 9847 9884	Massachusetts Institute of Technology
+T67	LOC 9886 9888	77
+T68	FAC 9889 9906	Massachusetts Ave
+T69	GPE 9908 9917	Cambridge
+T70	GPE 9919 9921	MA
+T71	PER 10076 10085	Bourouiba
+T72	ORG 10131 10154	Smith Family Foundation
+T73	ORG 10160 10197	Massachusetts Institute of Technology
+T74	ORG 10199 10202	MIT
+T75	ORG 10204 10214	Policy Lab
+T76	ORG 10220 10223	MIT
+T77	PER 10243 10249	Esther
+T78	PER 10254 10272	Harold E. Edgerton
+T79	ORG 10301 10304	MIT
+T80	PER 10318 10332	Funder/Sponsor
+T81	PER 10338 10345	funders

@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-196">
+		<TEXT>
+			<SEG id="covid19scenario-196-0" start_char="0" end_char="148">
+				<ORIGINAL_TEXT>To prevent coronavirus infection, health officials advise people to wash their hands, avoid touching their face and disinfect surfaces in their home.</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="1">To</TOKEN>
+				<TOKEN id="token-0-1" start_char="3" end_char="9">prevent</TOKEN>
+				<TOKEN id="token-0-2" start_char="11" end_char="21">coronavirus</TOKEN>
+				<TOKEN id="token-0-3" start_char="23" end_char="31">infection</TOKEN>
+				<TOKEN id="token-0-4" start_char="32" end_char="32">,</TOKEN>
+				<TOKEN id="token-0-5" start_char="34" end_char="39">health</TOKEN>
+				<TOKEN id="token-0-6" start_char="41" end_char="49">officials</TOKEN>
+				<TOKEN id="token-0-7" start_char="51" end_char="56">advise</TOKEN>
+				<TOKEN id="token-0-8" start_char="58" end_char="63">people</TOKEN>
+				<TOKEN id="token-0-9" start_char="65" end_char="66">to</TOKEN>
+				<TOKEN id="token-0-10" start_char="68" end_char="71">wash</TOKEN>
+				<TOKEN id="token-0-11" start_char="73" end_char="77">their</TOKEN>
+				<TOKEN id="token-0-12" start_char="79" end_char="83">hands</TOKEN>
+				<TOKEN id="token-0-13" start_char="84" end_char="84">,</TOKEN>
+				<TOKEN id="token-0-14" start_char="86" end_char="90">avoid</TOKEN>
+				<TOKEN id="token-0-15" start_char="92" end_char="99">touching</TOKEN>
+				<TOKEN id="token-0-16" start_char="101" end_char="105">their</TOKEN>
+				<TOKEN id="token-0-17" start_char="107" end_char="110">face</TOKEN>
+				<TOKEN id="token-0-18" start_char="112" end_char="114">and</TOKEN>
+				<TOKEN id="token-0-19" start_char="116" end_char="124">disinfect</TOKEN>
+				<TOKEN id="token-0-20" start_char="126" end_char="133">surfaces</TOKEN>
+				<TOKEN id="token-0-21" start_char="135" end_char="136">in</TOKEN>
+				<TOKEN id="token-0-22" start_char="138" end_char="142">their</TOKEN>
+				<TOKEN id="token-0-23" start_char="144" end_char="147">home</TOKEN>
+				<TOKEN id="token-0-24" start_char="148" end_char="148">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-1" start_char="150" end_char="231">
+				<ORIGINAL_TEXT>The video comes from a man who promotes alternative health information on YouTube.</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="150" end_char="152">The</TOKEN>
+				<TOKEN id="token-1-1" start_char="154" end_char="158">video</TOKEN>
+				<TOKEN id="token-1-2" start_char="160" end_char="164">comes</TOKEN>
+				<TOKEN id="token-1-3" start_char="166" end_char="169">from</TOKEN>
+				<TOKEN id="token-1-4" start_char="171" end_char="171">a</TOKEN>
+				<TOKEN id="token-1-5" start_char="173" end_char="175">man</TOKEN>
+				<TOKEN id="token-1-6" start_char="177" end_char="179">who</TOKEN>
+				<TOKEN id="token-1-7" start_char="181" end_char="188">promotes</TOKEN>
+				<TOKEN id="token-1-8" start_char="190" end_char="200">alternative</TOKEN>
+				<TOKEN id="token-1-9" start_char="202" end_char="207">health</TOKEN>
+				<TOKEN id="token-1-10" start_char="209" end_char="219">information</TOKEN>
+				<TOKEN id="token-1-11" start_char="221" end_char="222">on</TOKEN>
+				<TOKEN id="token-1-12" start_char="224" end_char="230">YouTube</TOKEN>
+				<TOKEN id="token-1-13" start_char="231" end_char="231">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-2" start_char="233" end_char="312">
+				<ORIGINAL_TEXT>There is no scientific evidence that lemon can treat or prevent the coronavirus.</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="233" end_char="237">There</TOKEN>
+				<TOKEN id="token-2-1" start_char="239" end_char="240">is</TOKEN>
+				<TOKEN id="token-2-2" start_char="242" end_char="243">no</TOKEN>
+				<TOKEN id="token-2-3" start_char="245" end_char="254">scientific</TOKEN>
+				<TOKEN id="token-2-4" start_char="256" end_char="263">evidence</TOKEN>
+				<TOKEN id="token-2-5" start_char="265" end_char="268">that</TOKEN>
+				<TOKEN id="token-2-6" start_char="270" end_char="274">lemon</TOKEN>
+				<TOKEN id="token-2-7" start_char="276" end_char="278">can</TOKEN>
+				<TOKEN id="token-2-8" start_char="280" end_char="284">treat</TOKEN>
+				<TOKEN id="token-2-9" start_char="286" end_char="287">or</TOKEN>
+				<TOKEN id="token-2-10" start_char="289" end_char="295">prevent</TOKEN>
+				<TOKEN id="token-2-11" start_char="297" end_char="299">the</TOKEN>
+				<TOKEN id="token-2-12" start_char="301" end_char="311">coronavirus</TOKEN>
+				<TOKEN id="token-2-13" start_char="312" end_char="312">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-3" start_char="314" end_char="354">
+				<ORIGINAL_TEXT>Health officials have debunked the claim.</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="314" end_char="319">Health</TOKEN>
+				<TOKEN id="token-3-1" start_char="321" end_char="329">officials</TOKEN>
+				<TOKEN id="token-3-2" start_char="331" end_char="334">have</TOKEN>
+				<TOKEN id="token-3-3" start_char="336" end_char="343">debunked</TOKEN>
+				<TOKEN id="token-3-4" start_char="345" end_char="347">the</TOKEN>
+				<TOKEN id="token-3-5" start_char="349" end_char="353">claim</TOKEN>
+				<TOKEN id="token-3-6" start_char="354" end_char="354">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-4" start_char="356" end_char="485">
+				<ORIGINAL_TEXT>A video being passed around on Facebook Messenger claims that curing the novel coronavirus is as easy as drinking hot lemon juice.</ORIGINAL_TEXT>
+				<TOKEN id="token-4-0" start_char="356" end_char="356">A</TOKEN>
+				<TOKEN id="token-4-1" start_char="358" end_char="362">video</TOKEN>
+				<TOKEN id="token-4-2" start_char="364" end_char="368">being</TOKEN>
+				<TOKEN id="token-4-3" start_char="370" end_char="375">passed</TOKEN>
+				<TOKEN id="token-4-4" start_char="377" end_char="382">around</TOKEN>
+				<TOKEN id="token-4-5" start_char="384" end_char="385">on</TOKEN>
+				<TOKEN id="token-4-6" start_char="387" end_char="394">Facebook</TOKEN>
+				<TOKEN id="token-4-7" start_char="396" end_char="404">Messenger</TOKEN>
+				<TOKEN id="token-4-8" start_char="406" end_char="411">claims</TOKEN>
+				<TOKEN id="token-4-9" start_char="413" end_char="416">that</TOKEN>
+				<TOKEN id="token-4-10" start_char="418" end_char="423">curing</TOKEN>
+				<TOKEN id="token-4-11" start_char="425" end_char="427">the</TOKEN>
+				<TOKEN id="token-4-12" start_char="429" end_char="433">novel</TOKEN>
+				<TOKEN id="token-4-13" start_char="435" end_char="445">coronavirus</TOKEN>
+				<TOKEN id="token-4-14" start_char="447" end_char="448">is</TOKEN>
+				<TOKEN id="token-4-15" start_char="450" end_char="451">as</TOKEN>
+				<TOKEN id="token-4-16" start_char="453" end_char="456">easy</TOKEN>
+				<TOKEN id="token-4-17" start_char="458" end_char="459">as</TOKEN>
+				<TOKEN id="token-4-18" start_char="461" end_char="468">drinking</TOKEN>
+				<TOKEN id="token-4-19" start_char="470" end_char="472">hot</TOKEN>
+				<TOKEN id="token-4-20" start_char="474" end_char="478">lemon</TOKEN>
+				<TOKEN id="token-4-21" start_char="480" end_char="484">juice</TOKEN>
+				<TOKEN id="token-4-22" start_char="485" end_char="485">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-5" start_char="487" end_char="596">
+				<ORIGINAL_TEXT>The video, which a reader sent us on March 23, shows a series of stock images and videos with text underneath.</ORIGINAL_TEXT>
+				<TOKEN id="token-5-0" start_char="487" end_char="489">The</TOKEN>
+				<TOKEN id="token-5-1" start_char="491" end_char="495">video</TOKEN>
+				<TOKEN id="token-5-2" start_char="496" end_char="496">,</TOKEN>
+				<TOKEN id="token-5-3" start_char="498" end_char="502">which</TOKEN>
+				<TOKEN id="token-5-4" start_char="504" end_char="504">a</TOKEN>
+				<TOKEN id="token-5-5" start_char="506" end_char="511">reader</TOKEN>
+				<TOKEN id="token-5-6" start_char="513" end_char="516">sent</TOKEN>
+				<TOKEN id="token-5-7" start_char="518" end_char="519">us</TOKEN>
+				<TOKEN id="token-5-8" start_char="521" end_char="522">on</TOKEN>
+				<TOKEN id="token-5-9" start_char="524" end_char="528">March</TOKEN>
+				<TOKEN id="token-5-10" start_char="530" end_char="531">23</TOKEN>
+				<TOKEN id="token-5-11" start_char="532" end_char="532">,</TOKEN>
+				<TOKEN id="token-5-12" start_char="534" end_char="538">shows</TOKEN>
+				<TOKEN id="token-5-13" start_char="540" end_char="540">a</TOKEN>
+				<TOKEN id="token-5-14" start_char="542" end_char="547">series</TOKEN>
+				<TOKEN id="token-5-15" start_char="549" end_char="550">of</TOKEN>
+				<TOKEN id="token-5-16" start_char="552" end_char="556">stock</TOKEN>
+				<TOKEN id="token-5-17" start_char="558" end_char="563">images</TOKEN>
+				<TOKEN id="token-5-18" start_char="565" end_char="567">and</TOKEN>
+				<TOKEN id="token-5-19" start_char="569" end_char="574">videos</TOKEN>
+				<TOKEN id="token-5-20" start_char="576" end_char="579">with</TOKEN>
+				<TOKEN id="token-5-21" start_char="581" end_char="584">text</TOKEN>
+				<TOKEN id="token-5-22" start_char="586" end_char="595">underneath</TOKEN>
+				<TOKEN id="token-5-23" start_char="596" end_char="596">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-6" start_char="598" end_char="634">
+				<ORIGINAL_TEXT>A man with a British accent narrates.</ORIGINAL_TEXT>
+				<TOKEN id="token-6-0" start_char="598" end_char="598">A</TOKEN>
+				<TOKEN id="token-6-1" start_char="600" end_char="602">man</TOKEN>
+				<TOKEN id="token-6-2" start_char="604" end_char="607">with</TOKEN>
+				<TOKEN id="token-6-3" start_char="609" end_char="609">a</TOKEN>
+				<TOKEN id="token-6-4" start_char="611" end_char="617">British</TOKEN>
+				<TOKEN id="token-6-5" start_char="619" end_char="624">accent</TOKEN>
+				<TOKEN id="token-6-6" start_char="626" end_char="633">narrates</TOKEN>
+				<TOKEN id="token-6-7" start_char="634" end_char="634">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-7" start_char="636" end_char="753">
+				<ORIGINAL_TEXT>&quot;Use as much natural vitamin C as possible to strengthen the immune system,&quot; he says during the nearly 2-minute video.</ORIGINAL_TEXT>
+				<TOKEN id="token-7-0" start_char="636" end_char="636">&quot;</TOKEN>
+				<TOKEN id="token-7-1" start_char="637" end_char="639">Use</TOKEN>
+				<TOKEN id="token-7-2" start_char="641" end_char="642">as</TOKEN>
+				<TOKEN id="token-7-3" start_char="644" end_char="647">much</TOKEN>
+				<TOKEN id="token-7-4" start_char="649" end_char="655">natural</TOKEN>
+				<TOKEN id="token-7-5" start_char="657" end_char="663">vitamin</TOKEN>
+				<TOKEN id="token-7-6" start_char="665" end_char="665">C</TOKEN>
+				<TOKEN id="token-7-7" start_char="667" end_char="668">as</TOKEN>
+				<TOKEN id="token-7-8" start_char="670" end_char="677">possible</TOKEN>
+				<TOKEN id="token-7-9" start_char="679" end_char="680">to</TOKEN>
+				<TOKEN id="token-7-10" start_char="682" end_char="691">strengthen</TOKEN>
+				<TOKEN id="token-7-11" start_char="693" end_char="695">the</TOKEN>
+				<TOKEN id="token-7-12" start_char="697" end_char="702">immune</TOKEN>
+				<TOKEN id="token-7-13" start_char="704" end_char="709">system</TOKEN>
+				<TOKEN id="token-7-14" start_char="710" end_char="711">,&quot;</TOKEN>
+				<TOKEN id="token-7-15" start_char="713" end_char="714">he</TOKEN>
+				<TOKEN id="token-7-16" start_char="716" end_char="719">says</TOKEN>
+				<TOKEN id="token-7-17" start_char="721" end_char="726">during</TOKEN>
+				<TOKEN id="token-7-18" start_char="728" end_char="730">the</TOKEN>
+				<TOKEN id="token-7-19" start_char="732" end_char="737">nearly</TOKEN>
+				<TOKEN id="token-7-20" start_char="739" end_char="739">2</TOKEN>
+				<TOKEN id="token-7-21" start_char="740" end_char="740">-</TOKEN>
+				<TOKEN id="token-7-22" start_char="741" end_char="746">minute</TOKEN>
+				<TOKEN id="token-7-23" start_char="748" end_char="752">video</TOKEN>
+				<TOKEN id="token-7-24" start_char="753" end_char="753">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-8" start_char="755" end_char="812">
+				<ORIGINAL_TEXT>&quot;Slices of lemon in a cup of hot water can save your life.</ORIGINAL_TEXT>
+				<TOKEN id="token-8-0" start_char="755" end_char="755">&quot;</TOKEN>
+				<TOKEN id="token-8-1" start_char="756" end_char="761">Slices</TOKEN>
+				<TOKEN id="token-8-2" start_char="763" end_char="764">of</TOKEN>
+				<TOKEN id="token-8-3" start_char="766" end_char="770">lemon</TOKEN>
+				<TOKEN id="token-8-4" start_char="772" end_char="773">in</TOKEN>
+				<TOKEN id="token-8-5" start_char="775" end_char="775">a</TOKEN>
+				<TOKEN id="token-8-6" start_char="777" end_char="779">cup</TOKEN>
+				<TOKEN id="token-8-7" start_char="781" end_char="782">of</TOKEN>
+				<TOKEN id="token-8-8" start_char="784" end_char="786">hot</TOKEN>
+				<TOKEN id="token-8-9" start_char="788" end_char="792">water</TOKEN>
+				<TOKEN id="token-8-10" start_char="794" end_char="796">can</TOKEN>
+				<TOKEN id="token-8-11" start_char="798" end_char="801">save</TOKEN>
+				<TOKEN id="token-8-12" start_char="803" end_char="806">your</TOKEN>
+				<TOKEN id="token-8-13" start_char="808" end_char="811">life</TOKEN>
+				<TOKEN id="token-8-14" start_char="812" end_char="812">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-9" start_char="814" end_char="883">
+				<ORIGINAL_TEXT>The hot lemon can kill the proliferation of this virus in our bodies!&quot;</ORIGINAL_TEXT>
+				<TOKEN id="token-9-0" start_char="814" end_char="816">The</TOKEN>
+				<TOKEN id="token-9-1" start_char="818" end_char="820">hot</TOKEN>
+				<TOKEN id="token-9-2" start_char="822" end_char="826">lemon</TOKEN>
+				<TOKEN id="token-9-3" start_char="828" end_char="830">can</TOKEN>
+				<TOKEN id="token-9-4" start_char="832" end_char="835">kill</TOKEN>
+				<TOKEN id="token-9-5" start_char="837" end_char="839">the</TOKEN>
+				<TOKEN id="token-9-6" start_char="841" end_char="853">proliferation</TOKEN>
+				<TOKEN id="token-9-7" start_char="855" end_char="856">of</TOKEN>
+				<TOKEN id="token-9-8" start_char="858" end_char="861">this</TOKEN>
+				<TOKEN id="token-9-9" start_char="863" end_char="867">virus</TOKEN>
+				<TOKEN id="token-9-10" start_char="869" end_char="870">in</TOKEN>
+				<TOKEN id="token-9-11" start_char="872" end_char="874">our</TOKEN>
+				<TOKEN id="token-9-12" start_char="876" end_char="881">bodies</TOKEN>
+				<TOKEN id="token-9-13" start_char="882" end_char="883">!&quot;</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-10" start_char="885" end_char="1017">
+				<ORIGINAL_TEXT>The narrator identifies himself as &quot;Jiao Shenme Minzi from China, a researcher at the Faculty of Medical Science, Zanjan University.&quot;</ORIGINAL_TEXT>
+				<TOKEN id="token-10-0" start_char="885" end_char="887">The</TOKEN>
+				<TOKEN id="token-10-1" start_char="889" end_char="896">narrator</TOKEN>
+				<TOKEN id="token-10-2" start_char="898" end_char="907">identifies</TOKEN>
+				<TOKEN id="token-10-3" start_char="909" end_char="915">himself</TOKEN>
+				<TOKEN id="token-10-4" start_char="917" end_char="918">as</TOKEN>
+				<TOKEN id="token-10-5" start_char="920" end_char="920">&quot;</TOKEN>
+				<TOKEN id="token-10-6" start_char="921" end_char="924">Jiao</TOKEN>
+				<TOKEN id="token-10-7" start_char="926" end_char="931">Shenme</TOKEN>
+				<TOKEN id="token-10-8" start_char="933" end_char="937">Minzi</TOKEN>
+				<TOKEN id="token-10-9" start_char="939" end_char="942">from</TOKEN>
+				<TOKEN id="token-10-10" start_char="944" end_char="948">China</TOKEN>
+				<TOKEN id="token-10-11" start_char="949" end_char="949">,</TOKEN>
+				<TOKEN id="token-10-12" start_char="951" end_char="951">a</TOKEN>
+				<TOKEN id="token-10-13" start_char="953" end_char="962">researcher</TOKEN>
+				<TOKEN id="token-10-14" start_char="964" end_char="965">at</TOKEN>
+				<TOKEN id="token-10-15" start_char="967" end_char="969">the</TOKEN>
+				<TOKEN id="token-10-16" start_char="971" end_char="977">Faculty</TOKEN>
+				<TOKEN id="token-10-17" start_char="979" end_char="980">of</TOKEN>
+				<TOKEN id="token-10-18" start_char="982" end_char="988">Medical</TOKEN>
+				<TOKEN id="token-10-19" start_char="990" end_char="996">Science</TOKEN>
+				<TOKEN id="token-10-20" start_char="997" end_char="997">,</TOKEN>
+				<TOKEN id="token-10-21" start_char="999" end_char="1004">Zanjan</TOKEN>
+				<TOKEN id="token-10-22" start_char="1006" end_char="1015">University</TOKEN>
+				<TOKEN id="token-10-23" start_char="1016" end_char="1017">.&quot;</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-11" start_char="1019" end_char="1160">
+				<ORIGINAL_TEXT>He goes on to say that &quot;warm lemons can have the same beneficial effects as medicines&quot; and their juice &quot;destroys the virus and cures the flu.&quot;</ORIGINAL_TEXT>
+				<TOKEN id="token-11-0" start_char="1019" end_char="1020">He</TOKEN>
+				<TOKEN id="token-11-1" start_char="1022" end_char="1025">goes</TOKEN>
+				<TOKEN id="token-11-2" start_char="1027" end_char="1028">on</TOKEN>
+				<TOKEN id="token-11-3" start_char="1030" end_char="1031">to</TOKEN>
+				<TOKEN id="token-11-4" start_char="1033" end_char="1035">say</TOKEN>
+				<TOKEN id="token-11-5" start_char="1037" end_char="1040">that</TOKEN>
+				<TOKEN id="token-11-6" start_char="1042" end_char="1042">&quot;</TOKEN>
+				<TOKEN id="token-11-7" start_char="1043" end_char="1046">warm</TOKEN>
+				<TOKEN id="token-11-8" start_char="1048" end_char="1053">lemons</TOKEN>
+				<TOKEN id="token-11-9" start_char="1055" end_char="1057">can</TOKEN>
+				<TOKEN id="token-11-10" start_char="1059" end_char="1062">have</TOKEN>
+				<TOKEN id="token-11-11" start_char="1064" end_char="1066">the</TOKEN>
+				<TOKEN id="token-11-12" start_char="1068" end_char="1071">same</TOKEN>
+				<TOKEN id="token-11-13" start_char="1073" end_char="1082">beneficial</TOKEN>
+				<TOKEN id="token-11-14" start_char="1084" end_char="1090">effects</TOKEN>
+				<TOKEN id="token-11-15" start_char="1092" end_char="1093">as</TOKEN>
+				<TOKEN id="token-11-16" start_char="1095" end_char="1103">medicines</TOKEN>
+				<TOKEN id="token-11-17" start_char="1104" end_char="1104">&quot;</TOKEN>
+				<TOKEN id="token-11-18" start_char="1106" end_char="1108">and</TOKEN>
+				<TOKEN id="token-11-19" start_char="1110" end_char="1114">their</TOKEN>
+				<TOKEN id="token-11-20" start_char="1116" end_char="1120">juice</TOKEN>
+				<TOKEN id="token-11-21" start_char="1122" end_char="1122">&quot;</TOKEN>
+				<TOKEN id="token-11-22" start_char="1123" end_char="1130">destroys</TOKEN>
+				<TOKEN id="token-11-23" start_char="1132" end_char="1134">the</TOKEN>
+				<TOKEN id="token-11-24" start_char="1136" end_char="1140">virus</TOKEN>
+				<TOKEN id="token-11-25" start_char="1142" end_char="1144">and</TOKEN>
+				<TOKEN id="token-11-26" start_char="1146" end_char="1150">cures</TOKEN>
+				<TOKEN id="token-11-27" start_char="1152" end_char="1154">the</TOKEN>
+				<TOKEN id="token-11-28" start_char="1156" end_char="1158">flu</TOKEN>
+				<TOKEN id="token-11-29" start_char="1159" end_char="1160">.&quot;</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-12" start_char="1162" end_char="1258">
+				<ORIGINAL_TEXT>As evidence, the narrator credits a &quot;Professor Chen Horin, CEO of the Beijing Military Hospital.&quot;</ORIGINAL_TEXT>
+				<TOKEN id="token-12-0" start_char="1162" end_char="1163">As</TOKEN>
+				<TOKEN id="token-12-1" start_char="1165" end_char="1172">evidence</TOKEN>
+				<TOKEN id="token-12-2" start_char="1173" end_char="1173">,</TOKEN>
+				<TOKEN id="token-12-3" start_char="1175" end_char="1177">the</TOKEN>
+				<TOKEN id="token-12-4" start_char="1179" end_char="1186">narrator</TOKEN>
+				<TOKEN id="token-12-5" start_char="1188" end_char="1194">credits</TOKEN>
+				<TOKEN id="token-12-6" start_char="1196" end_char="1196">a</TOKEN>
+				<TOKEN id="token-12-7" start_char="1198" end_char="1198">&quot;</TOKEN>
+				<TOKEN id="token-12-8" start_char="1199" end_char="1207">Professor</TOKEN>
+				<TOKEN id="token-12-9" start_char="1209" end_char="1212">Chen</TOKEN>
+				<TOKEN id="token-12-10" start_char="1214" end_char="1218">Horin</TOKEN>
+				<TOKEN id="token-12-11" start_char="1219" end_char="1219">,</TOKEN>
+				<TOKEN id="token-12-12" start_char="1221" end_char="1223">CEO</TOKEN>
+				<TOKEN id="token-12-13" start_char="1225" end_char="1226">of</TOKEN>
+				<TOKEN id="token-12-14" start_char="1228" end_char="1230">the</TOKEN>
+				<TOKEN id="token-12-15" start_char="1232" end_char="1238">Beijing</TOKEN>
+				<TOKEN id="token-12-16" start_char="1240" end_char="1247">Military</TOKEN>
+				<TOKEN id="token-12-17" start_char="1249" end_char="1256">Hospital</TOKEN>
+				<TOKEN id="token-12-18" start_char="1257" end_char="1258">.&quot;</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-13" start_char="1260" end_char="1295">
+				<ORIGINAL_TEXT>(Screenshot from Facebook Messenger)</ORIGINAL_TEXT>
+				<TOKEN id="token-13-0" start_char="1260" end_char="1260">(</TOKEN>
+				<TOKEN id="token-13-1" start_char="1261" end_char="1270">Screenshot</TOKEN>
+				<TOKEN id="token-13-2" start_char="1272" end_char="1275">from</TOKEN>
+				<TOKEN id="token-13-3" start_char="1277" end_char="1284">Facebook</TOKEN>
+				<TOKEN id="token-13-4" start_char="1286" end_char="1294">Messenger</TOKEN>
+				<TOKEN id="token-13-5" start_char="1295" end_char="1295">)</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-14" start_char="1297" end_char="1430">
+				<ORIGINAL_TEXT>We’ve fact-checked several chain messages about the coronavirus, as well as bogus cures, on apps like iMessage, Snapchat and WhatsApp.</ORIGINAL_TEXT>
+				<TOKEN id="token-14-0" start_char="1297" end_char="1298">We</TOKEN>
+				<TOKEN id="token-14-1" start_char="1299" end_char="1299">’</TOKEN>
+				<TOKEN id="token-14-2" start_char="1300" end_char="1301">ve</TOKEN>
+				<TOKEN id="token-14-3" start_char="1303" end_char="1306">fact</TOKEN>
+				<TOKEN id="token-14-4" start_char="1307" end_char="1307">-</TOKEN>
+				<TOKEN id="token-14-5" start_char="1308" end_char="1314">checked</TOKEN>
+				<TOKEN id="token-14-6" start_char="1316" end_char="1322">several</TOKEN>
+				<TOKEN id="token-14-7" start_char="1324" end_char="1328">chain</TOKEN>
+				<TOKEN id="token-14-8" start_char="1330" end_char="1337">messages</TOKEN>
+				<TOKEN id="token-14-9" start_char="1339" end_char="1343">about</TOKEN>
+				<TOKEN id="token-14-10" start_char="1345" end_char="1347">the</TOKEN>
+				<TOKEN id="token-14-11" start_char="1349" end_char="1359">coronavirus</TOKEN>
+				<TOKEN id="token-14-12" start_char="1360" end_char="1360">,</TOKEN>
+				<TOKEN id="token-14-13" start_char="1362" end_char="1363">as</TOKEN>
+				<TOKEN id="token-14-14" start_char="1365" end_char="1368">well</TOKEN>
+				<TOKEN id="token-14-15" start_char="1370" end_char="1371">as</TOKEN>
+				<TOKEN id="token-14-16" start_char="1373" end_char="1377">bogus</TOKEN>
+				<TOKEN id="token-14-17" start_char="1379" end_char="1383">cures</TOKEN>
+				<TOKEN id="token-14-18" start_char="1384" end_char="1384">,</TOKEN>
+				<TOKEN id="token-14-19" start_char="1386" end_char="1387">on</TOKEN>
+				<TOKEN id="token-14-20" start_char="1389" end_char="1392">apps</TOKEN>
+				<TOKEN id="token-14-21" start_char="1394" end_char="1397">like</TOKEN>
+				<TOKEN id="token-14-22" start_char="1399" end_char="1406">iMessage</TOKEN>
+				<TOKEN id="token-14-23" start_char="1407" end_char="1407">,</TOKEN>
+				<TOKEN id="token-14-24" start_char="1409" end_char="1416">Snapchat</TOKEN>
+				<TOKEN id="token-14-25" start_char="1418" end_char="1420">and</TOKEN>
+				<TOKEN id="token-14-26" start_char="1422" end_char="1429">WhatsApp</TOKEN>
+				<TOKEN id="token-14-27" start_char="1430" end_char="1430">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-15" start_char="1432" end_char="1463">
+				<ORIGINAL_TEXT>So we looked into this one, too.</ORIGINAL_TEXT>
+				<TOKEN id="token-15-0" start_char="1432" end_char="1433">So</TOKEN>
+				<TOKEN id="token-15-1" start_char="1435" end_char="1436">we</TOKEN>
+				<TOKEN id="token-15-2" start_char="1438" end_char="1443">looked</TOKEN>
+				<TOKEN id="token-15-3" start_char="1445" end_char="1448">into</TOKEN>
+				<TOKEN id="token-15-4" start_char="1450" end_char="1453">this</TOKEN>
+				<TOKEN id="token-15-5" start_char="1455" end_char="1457">one</TOKEN>
+				<TOKEN id="token-15-6" start_char="1458" end_char="1458">,</TOKEN>
+				<TOKEN id="token-15-7" start_char="1460" end_char="1462">too</TOKEN>
+				<TOKEN id="token-15-8" start_char="1463" end_char="1463">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-16" start_char="1465" end_char="1530">
+				<ORIGINAL_TEXT>There is no evidence that drinking hot lemon juice kills COVID-19.</ORIGINAL_TEXT>
+				<TOKEN id="token-16-0" start_char="1465" end_char="1469">There</TOKEN>
+				<TOKEN id="token-16-1" start_char="1471" end_char="1472">is</TOKEN>
+				<TOKEN id="token-16-2" start_char="1474" end_char="1475">no</TOKEN>
+				<TOKEN id="token-16-3" start_char="1477" end_char="1484">evidence</TOKEN>
+				<TOKEN id="token-16-4" start_char="1486" end_char="1489">that</TOKEN>
+				<TOKEN id="token-16-5" start_char="1491" end_char="1498">drinking</TOKEN>
+				<TOKEN id="token-16-6" start_char="1500" end_char="1502">hot</TOKEN>
+				<TOKEN id="token-16-7" start_char="1504" end_char="1508">lemon</TOKEN>
+				<TOKEN id="token-16-8" start_char="1510" end_char="1514">juice</TOKEN>
+				<TOKEN id="token-16-9" start_char="1516" end_char="1520">kills</TOKEN>
+				<TOKEN id="token-16-10" start_char="1522" end_char="1526">COVID</TOKEN>
+				<TOKEN id="token-16-11" start_char="1527" end_char="1527">-</TOKEN>
+				<TOKEN id="token-16-12" start_char="1528" end_char="1529">19</TOKEN>
+				<TOKEN id="token-16-13" start_char="1530" end_char="1530">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-17" start_char="1532" end_char="1629">
+				<ORIGINAL_TEXT>Health officials have debunked the hoax, and a similar version has been shared in India and Italy.</ORIGINAL_TEXT>
+				<TOKEN id="token-17-0" start_char="1532" end_char="1537">Health</TOKEN>
+				<TOKEN id="token-17-1" start_char="1539" end_char="1547">officials</TOKEN>
+				<TOKEN id="token-17-2" start_char="1549" end_char="1552">have</TOKEN>
+				<TOKEN id="token-17-3" start_char="1554" end_char="1561">debunked</TOKEN>
+				<TOKEN id="token-17-4" start_char="1563" end_char="1565">the</TOKEN>
+				<TOKEN id="token-17-5" start_char="1567" end_char="1570">hoax</TOKEN>
+				<TOKEN id="token-17-6" start_char="1571" end_char="1571">,</TOKEN>
+				<TOKEN id="token-17-7" start_char="1573" end_char="1575">and</TOKEN>
+				<TOKEN id="token-17-8" start_char="1577" end_char="1577">a</TOKEN>
+				<TOKEN id="token-17-9" start_char="1579" end_char="1585">similar</TOKEN>
+				<TOKEN id="token-17-10" start_char="1587" end_char="1593">version</TOKEN>
+				<TOKEN id="token-17-11" start_char="1595" end_char="1597">has</TOKEN>
+				<TOKEN id="token-17-12" start_char="1599" end_char="1602">been</TOKEN>
+				<TOKEN id="token-17-13" start_char="1604" end_char="1609">shared</TOKEN>
+				<TOKEN id="token-17-14" start_char="1611" end_char="1612">in</TOKEN>
+				<TOKEN id="token-17-15" start_char="1614" end_char="1618">India</TOKEN>
+				<TOKEN id="token-17-16" start_char="1620" end_char="1622">and</TOKEN>
+				<TOKEN id="token-17-17" start_char="1624" end_char="1628">Italy</TOKEN>
+				<TOKEN id="token-17-18" start_char="1629" end_char="1629">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-18" start_char="1631" end_char="1698">
+				<ORIGINAL_TEXT>There are a couple of things wrong with the video right off the bat.</ORIGINAL_TEXT>
+				<TOKEN id="token-18-0" start_char="1631" end_char="1635">There</TOKEN>
+				<TOKEN id="token-18-1" start_char="1637" end_char="1639">are</TOKEN>
+				<TOKEN id="token-18-2" start_char="1641" end_char="1641">a</TOKEN>
+				<TOKEN id="token-18-3" start_char="1643" end_char="1648">couple</TOKEN>
+				<TOKEN id="token-18-4" start_char="1650" end_char="1651">of</TOKEN>
+				<TOKEN id="token-18-5" start_char="1653" end_char="1658">things</TOKEN>
+				<TOKEN id="token-18-6" start_char="1660" end_char="1664">wrong</TOKEN>
+				<TOKEN id="token-18-7" start_char="1666" end_char="1669">with</TOKEN>
+				<TOKEN id="token-18-8" start_char="1671" end_char="1673">the</TOKEN>
+				<TOKEN id="token-18-9" start_char="1675" end_char="1679">video</TOKEN>
+				<TOKEN id="token-18-10" start_char="1681" end_char="1685">right</TOKEN>
+				<TOKEN id="token-18-11" start_char="1687" end_char="1689">off</TOKEN>
+				<TOKEN id="token-18-12" start_char="1691" end_char="1693">the</TOKEN>
+				<TOKEN id="token-18-13" start_char="1695" end_char="1697">bat</TOKEN>
+				<TOKEN id="token-18-14" start_char="1698" end_char="1698">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-19" start_char="1700" end_char="1747">
+				<ORIGINAL_TEXT>First, the narrator claims to be based in China.</ORIGINAL_TEXT>
+				<TOKEN id="token-19-0" start_char="1700" end_char="1704">First</TOKEN>
+				<TOKEN id="token-19-1" start_char="1705" end_char="1705">,</TOKEN>
+				<TOKEN id="token-19-2" start_char="1707" end_char="1709">the</TOKEN>
+				<TOKEN id="token-19-3" start_char="1711" end_char="1718">narrator</TOKEN>
+				<TOKEN id="token-19-4" start_char="1720" end_char="1725">claims</TOKEN>
+				<TOKEN id="token-19-5" start_char="1727" end_char="1728">to</TOKEN>
+				<TOKEN id="token-19-6" start_char="1730" end_char="1731">be</TOKEN>
+				<TOKEN id="token-19-7" start_char="1733" end_char="1737">based</TOKEN>
+				<TOKEN id="token-19-8" start_char="1739" end_char="1740">in</TOKEN>
+				<TOKEN id="token-19-9" start_char="1742" end_char="1746">China</TOKEN>
+				<TOKEN id="token-19-10" start_char="1747" end_char="1747">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-20" start_char="1749" end_char="1781">
+				<ORIGINAL_TEXT>But Zanjan University is in Iran.</ORIGINAL_TEXT>
+				<TOKEN id="token-20-0" start_char="1749" end_char="1751">But</TOKEN>
+				<TOKEN id="token-20-1" start_char="1753" end_char="1758">Zanjan</TOKEN>
+				<TOKEN id="token-20-2" start_char="1760" end_char="1769">University</TOKEN>
+				<TOKEN id="token-20-3" start_char="1771" end_char="1772">is</TOKEN>
+				<TOKEN id="token-20-4" start_char="1774" end_char="1775">in</TOKEN>
+				<TOKEN id="token-20-5" start_char="1777" end_char="1780">Iran</TOKEN>
+				<TOKEN id="token-20-6" start_char="1781" end_char="1781">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-21" start_char="1783" end_char="1959">
+				<ORIGINAL_TEXT>We found no evidence that the university has anyone on its medical faculty named Jiao Shenme Minzi, at least not as of September 2017, when its webpage says it was last updated.</ORIGINAL_TEXT>
+				<TOKEN id="token-21-0" start_char="1783" end_char="1784">We</TOKEN>
+				<TOKEN id="token-21-1" start_char="1786" end_char="1790">found</TOKEN>
+				<TOKEN id="token-21-2" start_char="1792" end_char="1793">no</TOKEN>
+				<TOKEN id="token-21-3" start_char="1795" end_char="1802">evidence</TOKEN>
+				<TOKEN id="token-21-4" start_char="1804" end_char="1807">that</TOKEN>
+				<TOKEN id="token-21-5" start_char="1809" end_char="1811">the</TOKEN>
+				<TOKEN id="token-21-6" start_char="1813" end_char="1822">university</TOKEN>
+				<TOKEN id="token-21-7" start_char="1824" end_char="1826">has</TOKEN>
+				<TOKEN id="token-21-8" start_char="1828" end_char="1833">anyone</TOKEN>
+				<TOKEN id="token-21-9" start_char="1835" end_char="1836">on</TOKEN>
+				<TOKEN id="token-21-10" start_char="1838" end_char="1840">its</TOKEN>
+				<TOKEN id="token-21-11" start_char="1842" end_char="1848">medical</TOKEN>
+				<TOKEN id="token-21-12" start_char="1850" end_char="1856">faculty</TOKEN>
+				<TOKEN id="token-21-13" start_char="1858" end_char="1862">named</TOKEN>
+				<TOKEN id="token-21-14" start_char="1864" end_char="1867">Jiao</TOKEN>
+				<TOKEN id="token-21-15" start_char="1869" end_char="1874">Shenme</TOKEN>
+				<TOKEN id="token-21-16" start_char="1876" end_char="1880">Minzi</TOKEN>
+				<TOKEN id="token-21-17" start_char="1881" end_char="1881">,</TOKEN>
+				<TOKEN id="token-21-18" start_char="1883" end_char="1884">at</TOKEN>
+				<TOKEN id="token-21-19" start_char="1886" end_char="1890">least</TOKEN>
+				<TOKEN id="token-21-20" start_char="1892" end_char="1894">not</TOKEN>
+				<TOKEN id="token-21-21" start_char="1896" end_char="1897">as</TOKEN>
+				<TOKEN id="token-21-22" start_char="1899" end_char="1900">of</TOKEN>
+				<TOKEN id="token-21-23" start_char="1902" end_char="1910">September</TOKEN>
+				<TOKEN id="token-21-24" start_char="1912" end_char="1915">2017</TOKEN>
+				<TOKEN id="token-21-25" start_char="1916" end_char="1916">,</TOKEN>
+				<TOKEN id="token-21-26" start_char="1918" end_char="1921">when</TOKEN>
+				<TOKEN id="token-21-27" start_char="1923" end_char="1925">its</TOKEN>
+				<TOKEN id="token-21-28" start_char="1927" end_char="1933">webpage</TOKEN>
+				<TOKEN id="token-21-29" start_char="1935" end_char="1938">says</TOKEN>
+				<TOKEN id="token-21-30" start_char="1940" end_char="1941">it</TOKEN>
+				<TOKEN id="token-21-31" start_char="1943" end_char="1945">was</TOKEN>
+				<TOKEN id="token-21-32" start_char="1947" end_char="1950">last</TOKEN>
+				<TOKEN id="token-21-33" start_char="1952" end_char="1958">updated</TOKEN>
+				<TOKEN id="token-21-34" start_char="1959" end_char="1959">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-22" start_char="1961" end_char="2130">
+				<ORIGINAL_TEXT>In fact, &quot;Jiao Shenme Minzi&quot; is one letter off from &quot;jiao shenme mingzi,&quot; a popular phonetic pronunciation of a phrase used in Chinese when asking someone for their name.</ORIGINAL_TEXT>
+				<TOKEN id="token-22-0" start_char="1961" end_char="1962">In</TOKEN>
+				<TOKEN id="token-22-1" start_char="1964" end_char="1967">fact</TOKEN>
+				<TOKEN id="token-22-2" start_char="1968" end_char="1968">,</TOKEN>
+				<TOKEN id="token-22-3" start_char="1970" end_char="1970">&quot;</TOKEN>
+				<TOKEN id="token-22-4" start_char="1971" end_char="1974">Jiao</TOKEN>
+				<TOKEN id="token-22-5" start_char="1976" end_char="1981">Shenme</TOKEN>
+				<TOKEN id="token-22-6" start_char="1983" end_char="1987">Minzi</TOKEN>
+				<TOKEN id="token-22-7" start_char="1988" end_char="1988">&quot;</TOKEN>
+				<TOKEN id="token-22-8" start_char="1990" end_char="1991">is</TOKEN>
+				<TOKEN id="token-22-9" start_char="1993" end_char="1995">one</TOKEN>
+				<TOKEN id="token-22-10" start_char="1997" end_char="2002">letter</TOKEN>
+				<TOKEN id="token-22-11" start_char="2004" end_char="2006">off</TOKEN>
+				<TOKEN id="token-22-12" start_char="2008" end_char="2011">from</TOKEN>
+				<TOKEN id="token-22-13" start_char="2013" end_char="2013">&quot;</TOKEN>
+				<TOKEN id="token-22-14" start_char="2014" end_char="2017">jiao</TOKEN>
+				<TOKEN id="token-22-15" start_char="2019" end_char="2024">shenme</TOKEN>
+				<TOKEN id="token-22-16" start_char="2026" end_char="2031">mingzi</TOKEN>
+				<TOKEN id="token-22-17" start_char="2032" end_char="2033">,&quot;</TOKEN>
+				<TOKEN id="token-22-18" start_char="2035" end_char="2035">a</TOKEN>
+				<TOKEN id="token-22-19" start_char="2037" end_char="2043">popular</TOKEN>
+				<TOKEN id="token-22-20" start_char="2045" end_char="2052">phonetic</TOKEN>
+				<TOKEN id="token-22-21" start_char="2054" end_char="2066">pronunciation</TOKEN>
+				<TOKEN id="token-22-22" start_char="2068" end_char="2069">of</TOKEN>
+				<TOKEN id="token-22-23" start_char="2071" end_char="2071">a</TOKEN>
+				<TOKEN id="token-22-24" start_char="2073" end_char="2078">phrase</TOKEN>
+				<TOKEN id="token-22-25" start_char="2080" end_char="2083">used</TOKEN>
+				<TOKEN id="token-22-26" start_char="2085" end_char="2086">in</TOKEN>
+				<TOKEN id="token-22-27" start_char="2088" end_char="2094">Chinese</TOKEN>
+				<TOKEN id="token-22-28" start_char="2096" end_char="2099">when</TOKEN>
+				<TOKEN id="token-22-29" start_char="2101" end_char="2106">asking</TOKEN>
+				<TOKEN id="token-22-30" start_char="2108" end_char="2114">someone</TOKEN>
+				<TOKEN id="token-22-31" start_char="2116" end_char="2118">for</TOKEN>
+				<TOKEN id="token-22-32" start_char="2120" end_char="2124">their</TOKEN>
+				<TOKEN id="token-22-33" start_char="2126" end_char="2129">name</TOKEN>
+				<TOKEN id="token-22-34" start_char="2130" end_char="2130">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-23" start_char="2132" end_char="2205">
+				<ORIGINAL_TEXT>Second, there is no evidence that vitamin C is effective against COVID-19.</ORIGINAL_TEXT>
+				<TOKEN id="token-23-0" start_char="2132" end_char="2137">Second</TOKEN>
+				<TOKEN id="token-23-1" start_char="2138" end_char="2138">,</TOKEN>
+				<TOKEN id="token-23-2" start_char="2140" end_char="2144">there</TOKEN>
+				<TOKEN id="token-23-3" start_char="2146" end_char="2147">is</TOKEN>
+				<TOKEN id="token-23-4" start_char="2149" end_char="2150">no</TOKEN>
+				<TOKEN id="token-23-5" start_char="2152" end_char="2159">evidence</TOKEN>
+				<TOKEN id="token-23-6" start_char="2161" end_char="2164">that</TOKEN>
+				<TOKEN id="token-23-7" start_char="2166" end_char="2172">vitamin</TOKEN>
+				<TOKEN id="token-23-8" start_char="2174" end_char="2174">C</TOKEN>
+				<TOKEN id="token-23-9" start_char="2176" end_char="2177">is</TOKEN>
+				<TOKEN id="token-23-10" start_char="2179" end_char="2187">effective</TOKEN>
+				<TOKEN id="token-23-11" start_char="2189" end_char="2195">against</TOKEN>
+				<TOKEN id="token-23-12" start_char="2197" end_char="2201">COVID</TOKEN>
+				<TOKEN id="token-23-13" start_char="2202" end_char="2202">-</TOKEN>
+				<TOKEN id="token-23-14" start_char="2203" end_char="2204">19</TOKEN>
+				<TOKEN id="token-23-15" start_char="2205" end_char="2205">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-24" start_char="2207" end_char="2249">
+				<ORIGINAL_TEXT>We rated a similar claim False in February.</ORIGINAL_TEXT>
+				<TOKEN id="token-24-0" start_char="2207" end_char="2208">We</TOKEN>
+				<TOKEN id="token-24-1" start_char="2210" end_char="2214">rated</TOKEN>
+				<TOKEN id="token-24-2" start_char="2216" end_char="2216">a</TOKEN>
+				<TOKEN id="token-24-3" start_char="2218" end_char="2224">similar</TOKEN>
+				<TOKEN id="token-24-4" start_char="2226" end_char="2230">claim</TOKEN>
+				<TOKEN id="token-24-5" start_char="2232" end_char="2236">False</TOKEN>
+				<TOKEN id="token-24-6" start_char="2238" end_char="2239">in</TOKEN>
+				<TOKEN id="token-24-7" start_char="2241" end_char="2248">February</TOKEN>
+				<TOKEN id="token-24-8" start_char="2249" end_char="2249">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-25" start_char="2251" end_char="2313">
+				<ORIGINAL_TEXT>Third, we could find no trace of a researcher named Chen Horin.</ORIGINAL_TEXT>
+				<TOKEN id="token-25-0" start_char="2251" end_char="2255">Third</TOKEN>
+				<TOKEN id="token-25-1" start_char="2256" end_char="2256">,</TOKEN>
+				<TOKEN id="token-25-2" start_char="2258" end_char="2259">we</TOKEN>
+				<TOKEN id="token-25-3" start_char="2261" end_char="2265">could</TOKEN>
+				<TOKEN id="token-25-4" start_char="2267" end_char="2270">find</TOKEN>
+				<TOKEN id="token-25-5" start_char="2272" end_char="2273">no</TOKEN>
+				<TOKEN id="token-25-6" start_char="2275" end_char="2279">trace</TOKEN>
+				<TOKEN id="token-25-7" start_char="2281" end_char="2282">of</TOKEN>
+				<TOKEN id="token-25-8" start_char="2284" end_char="2284">a</TOKEN>
+				<TOKEN id="token-25-9" start_char="2286" end_char="2295">researcher</TOKEN>
+				<TOKEN id="token-25-10" start_char="2297" end_char="2301">named</TOKEN>
+				<TOKEN id="token-25-11" start_char="2303" end_char="2306">Chen</TOKEN>
+				<TOKEN id="token-25-12" start_char="2308" end_char="2312">Horin</TOKEN>
+				<TOKEN id="token-25-13" start_char="2313" end_char="2313">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-26" start_char="2315" end_char="2368">
+				<ORIGINAL_TEXT>The name has been used for similar hoaxes in the past.</ORIGINAL_TEXT>
+				<TOKEN id="token-26-0" start_char="2315" end_char="2317">The</TOKEN>
+				<TOKEN id="token-26-1" start_char="2319" end_char="2322">name</TOKEN>
+				<TOKEN id="token-26-2" start_char="2324" end_char="2326">has</TOKEN>
+				<TOKEN id="token-26-3" start_char="2328" end_char="2331">been</TOKEN>
+				<TOKEN id="token-26-4" start_char="2333" end_char="2336">used</TOKEN>
+				<TOKEN id="token-26-5" start_char="2338" end_char="2340">for</TOKEN>
+				<TOKEN id="token-26-6" start_char="2342" end_char="2348">similar</TOKEN>
+				<TOKEN id="token-26-7" start_char="2350" end_char="2355">hoaxes</TOKEN>
+				<TOKEN id="token-26-8" start_char="2357" end_char="2358">in</TOKEN>
+				<TOKEN id="token-26-9" start_char="2360" end_char="2362">the</TOKEN>
+				<TOKEN id="token-26-10" start_char="2364" end_char="2367">past</TOKEN>
+				<TOKEN id="token-26-11" start_char="2368" end_char="2368">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-27" start_char="2370" end_char="2521">
+				<ORIGINAL_TEXT>The Messenger video comes from Marian Gorban, the owner of MrHealthyChannel, an alternative health channel on YouTube with more than 21,000 subscribers.</ORIGINAL_TEXT>
+				<TOKEN id="token-27-0" start_char="2370" end_char="2372">The</TOKEN>
+				<TOKEN id="token-27-1" start_char="2374" end_char="2382">Messenger</TOKEN>
+				<TOKEN id="token-27-2" start_char="2384" end_char="2388">video</TOKEN>
+				<TOKEN id="token-27-3" start_char="2390" end_char="2394">comes</TOKEN>
+				<TOKEN id="token-27-4" start_char="2396" end_char="2399">from</TOKEN>
+				<TOKEN id="token-27-5" start_char="2401" end_char="2406">Marian</TOKEN>
+				<TOKEN id="token-27-6" start_char="2408" end_char="2413">Gorban</TOKEN>
+				<TOKEN id="token-27-7" start_char="2414" end_char="2414">,</TOKEN>
+				<TOKEN id="token-27-8" start_char="2416" end_char="2418">the</TOKEN>
+				<TOKEN id="token-27-9" start_char="2420" end_char="2424">owner</TOKEN>
+				<TOKEN id="token-27-10" start_char="2426" end_char="2427">of</TOKEN>
+				<TOKEN id="token-27-11" start_char="2429" end_char="2444">MrHealthyChannel</TOKEN>
+				<TOKEN id="token-27-12" start_char="2445" end_char="2445">,</TOKEN>
+				<TOKEN id="token-27-13" start_char="2447" end_char="2448">an</TOKEN>
+				<TOKEN id="token-27-14" start_char="2450" end_char="2460">alternative</TOKEN>
+				<TOKEN id="token-27-15" start_char="2462" end_char="2467">health</TOKEN>
+				<TOKEN id="token-27-16" start_char="2469" end_char="2475">channel</TOKEN>
+				<TOKEN id="token-27-17" start_char="2477" end_char="2478">on</TOKEN>
+				<TOKEN id="token-27-18" start_char="2480" end_char="2486">YouTube</TOKEN>
+				<TOKEN id="token-27-19" start_char="2488" end_char="2491">with</TOKEN>
+				<TOKEN id="token-27-20" start_char="2493" end_char="2496">more</TOKEN>
+				<TOKEN id="token-27-21" start_char="2498" end_char="2501">than</TOKEN>
+				<TOKEN id="token-27-22" start_char="2503" end_char="2504">21</TOKEN>
+				<TOKEN id="token-27-23" start_char="2505" end_char="2505">,</TOKEN>
+				<TOKEN id="token-27-24" start_char="2506" end_char="2508">000</TOKEN>
+				<TOKEN id="token-27-25" start_char="2510" end_char="2520">subscribers</TOKEN>
+				<TOKEN id="token-27-26" start_char="2521" end_char="2521">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-28" start_char="2523" end_char="2613">
+				<ORIGINAL_TEXT>One of his most popular videos claims you can lose weight quickly by drinking ginger syrup.</ORIGINAL_TEXT>
+				<TOKEN id="token-28-0" start_char="2523" end_char="2525">One</TOKEN>
+				<TOKEN id="token-28-1" start_char="2527" end_char="2528">of</TOKEN>
+				<TOKEN id="token-28-2" start_char="2530" end_char="2532">his</TOKEN>
+				<TOKEN id="token-28-3" start_char="2534" end_char="2537">most</TOKEN>
+				<TOKEN id="token-28-4" start_char="2539" end_char="2545">popular</TOKEN>
+				<TOKEN id="token-28-5" start_char="2547" end_char="2552">videos</TOKEN>
+				<TOKEN id="token-28-6" start_char="2554" end_char="2559">claims</TOKEN>
+				<TOKEN id="token-28-7" start_char="2561" end_char="2563">you</TOKEN>
+				<TOKEN id="token-28-8" start_char="2565" end_char="2567">can</TOKEN>
+				<TOKEN id="token-28-9" start_char="2569" end_char="2572">lose</TOKEN>
+				<TOKEN id="token-28-10" start_char="2574" end_char="2579">weight</TOKEN>
+				<TOKEN id="token-28-11" start_char="2581" end_char="2587">quickly</TOKEN>
+				<TOKEN id="token-28-12" start_char="2589" end_char="2590">by</TOKEN>
+				<TOKEN id="token-28-13" start_char="2592" end_char="2599">drinking</TOKEN>
+				<TOKEN id="token-28-14" start_char="2601" end_char="2606">ginger</TOKEN>
+				<TOKEN id="token-28-15" start_char="2608" end_char="2612">syrup</TOKEN>
+				<TOKEN id="token-28-16" start_char="2613" end_char="2613">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-29" start_char="2615" end_char="2675">
+				<ORIGINAL_TEXT>RELATED: Stop sharing myths about preventing the coronavirus.</ORIGINAL_TEXT>
+				<TOKEN id="token-29-0" start_char="2615" end_char="2621">RELATED</TOKEN>
+				<TOKEN id="token-29-1" start_char="2622" end_char="2622">:</TOKEN>
+				<TOKEN id="token-29-2" start_char="2624" end_char="2627">Stop</TOKEN>
+				<TOKEN id="token-29-3" start_char="2629" end_char="2635">sharing</TOKEN>
+				<TOKEN id="token-29-4" start_char="2637" end_char="2641">myths</TOKEN>
+				<TOKEN id="token-29-5" start_char="2643" end_char="2647">about</TOKEN>
+				<TOKEN id="token-29-6" start_char="2649" end_char="2658">preventing</TOKEN>
+				<TOKEN id="token-29-7" start_char="2660" end_char="2662">the</TOKEN>
+				<TOKEN id="token-29-8" start_char="2664" end_char="2674">coronavirus</TOKEN>
+				<TOKEN id="token-29-9" start_char="2675" end_char="2675">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-30" start_char="2677" end_char="2716">
+				<ORIGINAL_TEXT>Here are 4 real ways to protect yourself</ORIGINAL_TEXT>
+				<TOKEN id="token-30-0" start_char="2677" end_char="2680">Here</TOKEN>
+				<TOKEN id="token-30-1" start_char="2682" end_char="2684">are</TOKEN>
+				<TOKEN id="token-30-2" start_char="2686" end_char="2686">4</TOKEN>
+				<TOKEN id="token-30-3" start_char="2688" end_char="2691">real</TOKEN>
+				<TOKEN id="token-30-4" start_char="2693" end_char="2696">ways</TOKEN>
+				<TOKEN id="token-30-5" start_char="2698" end_char="2699">to</TOKEN>
+				<TOKEN id="token-30-6" start_char="2701" end_char="2707">protect</TOKEN>
+				<TOKEN id="token-30-7" start_char="2709" end_char="2716">yourself</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-31" start_char="2718" end_char="2832">
+				<ORIGINAL_TEXT>Gorban, whose Facebook profile says he lives in Romania, also claims to be an expert in search engine optimization.</ORIGINAL_TEXT>
+				<TOKEN id="token-31-0" start_char="2718" end_char="2723">Gorban</TOKEN>
+				<TOKEN id="token-31-1" start_char="2724" end_char="2724">,</TOKEN>
+				<TOKEN id="token-31-2" start_char="2726" end_char="2730">whose</TOKEN>
+				<TOKEN id="token-31-3" start_char="2732" end_char="2739">Facebook</TOKEN>
+				<TOKEN id="token-31-4" start_char="2741" end_char="2747">profile</TOKEN>
+				<TOKEN id="token-31-5" start_char="2749" end_char="2752">says</TOKEN>
+				<TOKEN id="token-31-6" start_char="2754" end_char="2755">he</TOKEN>
+				<TOKEN id="token-31-7" start_char="2757" end_char="2761">lives</TOKEN>
+				<TOKEN id="token-31-8" start_char="2763" end_char="2764">in</TOKEN>
+				<TOKEN id="token-31-9" start_char="2766" end_char="2772">Romania</TOKEN>
+				<TOKEN id="token-31-10" start_char="2773" end_char="2773">,</TOKEN>
+				<TOKEN id="token-31-11" start_char="2775" end_char="2778">also</TOKEN>
+				<TOKEN id="token-31-12" start_char="2780" end_char="2785">claims</TOKEN>
+				<TOKEN id="token-31-13" start_char="2787" end_char="2788">to</TOKEN>
+				<TOKEN id="token-31-14" start_char="2790" end_char="2791">be</TOKEN>
+				<TOKEN id="token-31-15" start_char="2793" end_char="2794">an</TOKEN>
+				<TOKEN id="token-31-16" start_char="2796" end_char="2801">expert</TOKEN>
+				<TOKEN id="token-31-17" start_char="2803" end_char="2804">in</TOKEN>
+				<TOKEN id="token-31-18" start_char="2806" end_char="2811">search</TOKEN>
+				<TOKEN id="token-31-19" start_char="2813" end_char="2818">engine</TOKEN>
+				<TOKEN id="token-31-20" start_char="2820" end_char="2831">optimization</TOKEN>
+				<TOKEN id="token-31-21" start_char="2832" end_char="2832">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-32" start_char="2834" end_char="2896">
+				<ORIGINAL_TEXT>We reached out to him for a comment, but we haven’t heard back.</ORIGINAL_TEXT>
+				<TOKEN id="token-32-0" start_char="2834" end_char="2835">We</TOKEN>
+				<TOKEN id="token-32-1" start_char="2837" end_char="2843">reached</TOKEN>
+				<TOKEN id="token-32-2" start_char="2845" end_char="2847">out</TOKEN>
+				<TOKEN id="token-32-3" start_char="2849" end_char="2850">to</TOKEN>
+				<TOKEN id="token-32-4" start_char="2852" end_char="2854">him</TOKEN>
+				<TOKEN id="token-32-5" start_char="2856" end_char="2858">for</TOKEN>
+				<TOKEN id="token-32-6" start_char="2860" end_char="2860">a</TOKEN>
+				<TOKEN id="token-32-7" start_char="2862" end_char="2868">comment</TOKEN>
+				<TOKEN id="token-32-8" start_char="2869" end_char="2869">,</TOKEN>
+				<TOKEN id="token-32-9" start_char="2871" end_char="2873">but</TOKEN>
+				<TOKEN id="token-32-10" start_char="2875" end_char="2876">we</TOKEN>
+				<TOKEN id="token-32-11" start_char="2878" end_char="2882">haven</TOKEN>
+				<TOKEN id="token-32-12" start_char="2883" end_char="2883">’</TOKEN>
+				<TOKEN id="token-32-13" start_char="2884" end_char="2884">t</TOKEN>
+				<TOKEN id="token-32-14" start_char="2886" end_char="2890">heard</TOKEN>
+				<TOKEN id="token-32-15" start_char="2892" end_char="2895">back</TOKEN>
+				<TOKEN id="token-32-16" start_char="2896" end_char="2896">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-33" start_char="2898" end_char="3111">
+				<ORIGINAL_TEXT>On its website, the World Health Organization says that, while it recommends eating plenty of fruits and vegetables to stay healthy, there is no scientific evidence that lemon treats or prevents COVID-19 infection.</ORIGINAL_TEXT>
+				<TOKEN id="token-33-0" start_char="2898" end_char="2899">On</TOKEN>
+				<TOKEN id="token-33-1" start_char="2901" end_char="2903">its</TOKEN>
+				<TOKEN id="token-33-2" start_char="2905" end_char="2911">website</TOKEN>
+				<TOKEN id="token-33-3" start_char="2912" end_char="2912">,</TOKEN>
+				<TOKEN id="token-33-4" start_char="2914" end_char="2916">the</TOKEN>
+				<TOKEN id="token-33-5" start_char="2918" end_char="2922">World</TOKEN>
+				<TOKEN id="token-33-6" start_char="2924" end_char="2929">Health</TOKEN>
+				<TOKEN id="token-33-7" start_char="2931" end_char="2942">Organization</TOKEN>
+				<TOKEN id="token-33-8" start_char="2944" end_char="2947">says</TOKEN>
+				<TOKEN id="token-33-9" start_char="2949" end_char="2952">that</TOKEN>
+				<TOKEN id="token-33-10" start_char="2953" end_char="2953">,</TOKEN>
+				<TOKEN id="token-33-11" start_char="2955" end_char="2959">while</TOKEN>
+				<TOKEN id="token-33-12" start_char="2961" end_char="2962">it</TOKEN>
+				<TOKEN id="token-33-13" start_char="2964" end_char="2973">recommends</TOKEN>
+				<TOKEN id="token-33-14" start_char="2975" end_char="2980">eating</TOKEN>
+				<TOKEN id="token-33-15" start_char="2982" end_char="2987">plenty</TOKEN>
+				<TOKEN id="token-33-16" start_char="2989" end_char="2990">of</TOKEN>
+				<TOKEN id="token-33-17" start_char="2992" end_char="2997">fruits</TOKEN>
+				<TOKEN id="token-33-18" start_char="2999" end_char="3001">and</TOKEN>
+				<TOKEN id="token-33-19" start_char="3003" end_char="3012">vegetables</TOKEN>
+				<TOKEN id="token-33-20" start_char="3014" end_char="3015">to</TOKEN>
+				<TOKEN id="token-33-21" start_char="3017" end_char="3020">stay</TOKEN>
+				<TOKEN id="token-33-22" start_char="3022" end_char="3028">healthy</TOKEN>
+				<TOKEN id="token-33-23" start_char="3029" end_char="3029">,</TOKEN>
+				<TOKEN id="token-33-24" start_char="3031" end_char="3035">there</TOKEN>
+				<TOKEN id="token-33-25" start_char="3037" end_char="3038">is</TOKEN>
+				<TOKEN id="token-33-26" start_char="3040" end_char="3041">no</TOKEN>
+				<TOKEN id="token-33-27" start_char="3043" end_char="3052">scientific</TOKEN>
+				<TOKEN id="token-33-28" start_char="3054" end_char="3061">evidence</TOKEN>
+				<TOKEN id="token-33-29" start_char="3063" end_char="3066">that</TOKEN>
+				<TOKEN id="token-33-30" start_char="3068" end_char="3072">lemon</TOKEN>
+				<TOKEN id="token-33-31" start_char="3074" end_char="3079">treats</TOKEN>
+				<TOKEN id="token-33-32" start_char="3081" end_char="3082">or</TOKEN>
+				<TOKEN id="token-33-33" start_char="3084" end_char="3091">prevents</TOKEN>
+				<TOKEN id="token-33-34" start_char="3093" end_char="3097">COVID</TOKEN>
+				<TOKEN id="token-33-35" start_char="3098" end_char="3098">-</TOKEN>
+				<TOKEN id="token-33-36" start_char="3099" end_char="3100">19</TOKEN>
+				<TOKEN id="token-33-37" start_char="3102" end_char="3110">infection</TOKEN>
+				<TOKEN id="token-33-38" start_char="3111" end_char="3111">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-34" start_char="3113" end_char="3298">
+				<ORIGINAL_TEXT>To prevent coronavirus infection, officials advise people to regularly wash their hands, avoid touching their face, disinfect surfaces in their homes daily and avoid people who are sick.</ORIGINAL_TEXT>
+				<TOKEN id="token-34-0" start_char="3113" end_char="3114">To</TOKEN>
+				<TOKEN id="token-34-1" start_char="3116" end_char="3122">prevent</TOKEN>
+				<TOKEN id="token-34-2" start_char="3124" end_char="3134">coronavirus</TOKEN>
+				<TOKEN id="token-34-3" start_char="3136" end_char="3144">infection</TOKEN>
+				<TOKEN id="token-34-4" start_char="3145" end_char="3145">,</TOKEN>
+				<TOKEN id="token-34-5" start_char="3147" end_char="3155">officials</TOKEN>
+				<TOKEN id="token-34-6" start_char="3157" end_char="3162">advise</TOKEN>
+				<TOKEN id="token-34-7" start_char="3164" end_char="3169">people</TOKEN>
+				<TOKEN id="token-34-8" start_char="3171" end_char="3172">to</TOKEN>
+				<TOKEN id="token-34-9" start_char="3174" end_char="3182">regularly</TOKEN>
+				<TOKEN id="token-34-10" start_char="3184" end_char="3187">wash</TOKEN>
+				<TOKEN id="token-34-11" start_char="3189" end_char="3193">their</TOKEN>
+				<TOKEN id="token-34-12" start_char="3195" end_char="3199">hands</TOKEN>
+				<TOKEN id="token-34-13" start_char="3200" end_char="3200">,</TOKEN>
+				<TOKEN id="token-34-14" start_char="3202" end_char="3206">avoid</TOKEN>
+				<TOKEN id="token-34-15" start_char="3208" end_char="3215">touching</TOKEN>
+				<TOKEN id="token-34-16" start_char="3217" end_char="3221">their</TOKEN>
+				<TOKEN id="token-34-17" start_char="3223" end_char="3226">face</TOKEN>
+				<TOKEN id="token-34-18" start_char="3227" end_char="3227">,</TOKEN>
+				<TOKEN id="token-34-19" start_char="3229" end_char="3237">disinfect</TOKEN>
+				<TOKEN id="token-34-20" start_char="3239" end_char="3246">surfaces</TOKEN>
+				<TOKEN id="token-34-21" start_char="3248" end_char="3249">in</TOKEN>
+				<TOKEN id="token-34-22" start_char="3251" end_char="3255">their</TOKEN>
+				<TOKEN id="token-34-23" start_char="3257" end_char="3261">homes</TOKEN>
+				<TOKEN id="token-34-24" start_char="3263" end_char="3267">daily</TOKEN>
+				<TOKEN id="token-34-25" start_char="3269" end_char="3271">and</TOKEN>
+				<TOKEN id="token-34-26" start_char="3273" end_char="3277">avoid</TOKEN>
+				<TOKEN id="token-34-27" start_char="3279" end_char="3284">people</TOKEN>
+				<TOKEN id="token-34-28" start_char="3286" end_char="3288">who</TOKEN>
+				<TOKEN id="token-34-29" start_char="3290" end_char="3292">are</TOKEN>
+				<TOKEN id="token-34-30" start_char="3294" end_char="3297">sick</TOKEN>
+				<TOKEN id="token-34-31" start_char="3298" end_char="3298">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-35" start_char="3300" end_char="3354">
+				<ORIGINAL_TEXT>As of now, there is no specific treatment for COVID-19.</ORIGINAL_TEXT>
+				<TOKEN id="token-35-0" start_char="3300" end_char="3301">As</TOKEN>
+				<TOKEN id="token-35-1" start_char="3303" end_char="3304">of</TOKEN>
+				<TOKEN id="token-35-2" start_char="3306" end_char="3308">now</TOKEN>
+				<TOKEN id="token-35-3" start_char="3309" end_char="3309">,</TOKEN>
+				<TOKEN id="token-35-4" start_char="3311" end_char="3315">there</TOKEN>
+				<TOKEN id="token-35-5" start_char="3317" end_char="3318">is</TOKEN>
+				<TOKEN id="token-35-6" start_char="3320" end_char="3321">no</TOKEN>
+				<TOKEN id="token-35-7" start_char="3323" end_char="3330">specific</TOKEN>
+				<TOKEN id="token-35-8" start_char="3332" end_char="3340">treatment</TOKEN>
+				<TOKEN id="token-35-9" start_char="3342" end_char="3344">for</TOKEN>
+				<TOKEN id="token-35-10" start_char="3346" end_char="3350">COVID</TOKEN>
+				<TOKEN id="token-35-11" start_char="3351" end_char="3351">-</TOKEN>
+				<TOKEN id="token-35-12" start_char="3352" end_char="3353">19</TOKEN>
+				<TOKEN id="token-35-13" start_char="3354" end_char="3354">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-36" start_char="3356" end_char="3536">
+				<ORIGINAL_TEXT>But according to the Mayo Clinic, patients can alleviate symptoms — including cough, shortness of breath and fever — with cough medicine, pain and fever relievers, rest, and fluids.</ORIGINAL_TEXT>
+				<TOKEN id="token-36-0" start_char="3356" end_char="3358">But</TOKEN>
+				<TOKEN id="token-36-1" start_char="3360" end_char="3368">according</TOKEN>
+				<TOKEN id="token-36-2" start_char="3370" end_char="3371">to</TOKEN>
+				<TOKEN id="token-36-3" start_char="3373" end_char="3375">the</TOKEN>
+				<TOKEN id="token-36-4" start_char="3377" end_char="3380">Mayo</TOKEN>
+				<TOKEN id="token-36-5" start_char="3382" end_char="3387">Clinic</TOKEN>
+				<TOKEN id="token-36-6" start_char="3388" end_char="3388">,</TOKEN>
+				<TOKEN id="token-36-7" start_char="3390" end_char="3397">patients</TOKEN>
+				<TOKEN id="token-36-8" start_char="3399" end_char="3401">can</TOKEN>
+				<TOKEN id="token-36-9" start_char="3403" end_char="3411">alleviate</TOKEN>
+				<TOKEN id="token-36-10" start_char="3413" end_char="3420">symptoms</TOKEN>
+				<TOKEN id="token-36-11" start_char="3422" end_char="3422">—</TOKEN>
+				<TOKEN id="token-36-12" start_char="3424" end_char="3432">including</TOKEN>
+				<TOKEN id="token-36-13" start_char="3434" end_char="3438">cough</TOKEN>
+				<TOKEN id="token-36-14" start_char="3439" end_char="3439">,</TOKEN>
+				<TOKEN id="token-36-15" start_char="3441" end_char="3449">shortness</TOKEN>
+				<TOKEN id="token-36-16" start_char="3451" end_char="3452">of</TOKEN>
+				<TOKEN id="token-36-17" start_char="3454" end_char="3459">breath</TOKEN>
+				<TOKEN id="token-36-18" start_char="3461" end_char="3463">and</TOKEN>
+				<TOKEN id="token-36-19" start_char="3465" end_char="3469">fever</TOKEN>
+				<TOKEN id="token-36-20" start_char="3471" end_char="3471">—</TOKEN>
+				<TOKEN id="token-36-21" start_char="3473" end_char="3476">with</TOKEN>
+				<TOKEN id="token-36-22" start_char="3478" end_char="3482">cough</TOKEN>
+				<TOKEN id="token-36-23" start_char="3484" end_char="3491">medicine</TOKEN>
+				<TOKEN id="token-36-24" start_char="3492" end_char="3492">,</TOKEN>
+				<TOKEN id="token-36-25" start_char="3494" end_char="3497">pain</TOKEN>
+				<TOKEN id="token-36-26" start_char="3499" end_char="3501">and</TOKEN>
+				<TOKEN id="token-36-27" start_char="3503" end_char="3507">fever</TOKEN>
+				<TOKEN id="token-36-28" start_char="3509" end_char="3517">relievers</TOKEN>
+				<TOKEN id="token-36-29" start_char="3518" end_char="3518">,</TOKEN>
+				<TOKEN id="token-36-30" start_char="3520" end_char="3523">rest</TOKEN>
+				<TOKEN id="token-36-31" start_char="3524" end_char="3524">,</TOKEN>
+				<TOKEN id="token-36-32" start_char="3526" end_char="3528">and</TOKEN>
+				<TOKEN id="token-36-33" start_char="3530" end_char="3535">fluids</TOKEN>
+				<TOKEN id="token-36-34" start_char="3536" end_char="3536">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-37" start_char="3538" end_char="3569">
+				<ORIGINAL_TEXT>The chain message is inaccurate.</ORIGINAL_TEXT>
+				<TOKEN id="token-37-0" start_char="3538" end_char="3540">The</TOKEN>
+				<TOKEN id="token-37-1" start_char="3542" end_char="3546">chain</TOKEN>
+				<TOKEN id="token-37-2" start_char="3548" end_char="3554">message</TOKEN>
+				<TOKEN id="token-37-3" start_char="3556" end_char="3557">is</TOKEN>
+				<TOKEN id="token-37-4" start_char="3559" end_char="3568">inaccurate</TOKEN>
+				<TOKEN id="token-37-5" start_char="3569" end_char="3569">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-38" start_char="3571" end_char="3587">
+				<ORIGINAL_TEXT>We rate it False.</ORIGINAL_TEXT>
+				<TOKEN id="token-38-0" start_char="3571" end_char="3572">We</TOKEN>
+				<TOKEN id="token-38-1" start_char="3574" end_char="3577">rate</TOKEN>
+				<TOKEN id="token-38-2" start_char="3579" end_char="3580">it</TOKEN>
+				<TOKEN id="token-38-3" start_char="3582" end_char="3586">False</TOKEN>
+				<TOKEN id="token-38-4" start_char="3587" end_char="3587">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-196-39" start_char="3589" end_char="3690">
+				<ORIGINAL_TEXT>If you receive a chain message that you want us to fact-check, send a screenshot to [email protected].</ORIGINAL_TEXT>
+				<TOKEN id="token-39-0" start_char="3589" end_char="3590">If</TOKEN>
+				<TOKEN id="token-39-1" start_char="3592" end_char="3594">you</TOKEN>
+				<TOKEN id="token-39-2" start_char="3596" end_char="3602">receive</TOKEN>
+				<TOKEN id="token-39-3" start_char="3604" end_char="3604">a</TOKEN>
+				<TOKEN id="token-39-4" start_char="3606" end_char="3610">chain</TOKEN>
+				<TOKEN id="token-39-5" start_char="3612" end_char="3618">message</TOKEN>
+				<TOKEN id="token-39-6" start_char="3620" end_char="3623">that</TOKEN>
+				<TOKEN id="token-39-7" start_char="3625" end_char="3627">you</TOKEN>
+				<TOKEN id="token-39-8" start_char="3629" end_char="3632">want</TOKEN>
+				<TOKEN id="token-39-9" start_char="3634" end_char="3635">us</TOKEN>
+				<TOKEN id="token-39-10" start_char="3637" end_char="3638">to</TOKEN>
+				<TOKEN id="token-39-11" start_char="3640" end_char="3643">fact</TOKEN>
+				<TOKEN id="token-39-12" start_char="3644" end_char="3644">-</TOKEN>
+				<TOKEN id="token-39-13" start_char="3645" end_char="3649">check</TOKEN>
+				<TOKEN id="token-39-14" start_char="3650" end_char="3650">,</TOKEN>
+				<TOKEN id="token-39-15" start_char="3652" end_char="3655">send</TOKEN>
+				<TOKEN id="token-39-16" start_char="3657" end_char="3657">a</TOKEN>
+				<TOKEN id="token-39-17" start_char="3659" end_char="3668">screenshot</TOKEN>
+				<TOKEN id="token-39-18" start_char="3670" end_char="3671">to</TOKEN>
+				<TOKEN id="token-39-19" start_char="3673" end_char="3673">[</TOKEN>
+				<TOKEN id="token-39-20" start_char="3674" end_char="3678">email</TOKEN>
+				<TOKEN id="token-39-21" start_char="3680" end_char="3688">protected</TOKEN>
+				<TOKEN id="token-39-22" start_char="3689" end_char="3690">].</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

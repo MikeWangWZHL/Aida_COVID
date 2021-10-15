@@ -1,0 +1,76 @@
+By: Caroline Duncombe
+
+
+
+An inherent distrust follows what one does not understand; scientific endeavors if not explained properly are easily misunderstood.
+From climate skeptics to CERN’s 666 logo, the world is wrought with conspiracy theories surrounding science.
+The role of conspiracies should not be underestimated or neglected, especially since such theories are interspersed with layers of truth.
+Usually conspiracies reside harmlessly on the edge of the web, but during the Ebola outbreak in Sierra Leone an unaddressed rumor resulted in fatal consequences.
+Rumors revolving around a Tulane University research facility located in Kenema Government Hospital prompted a breakdown in relations between the local populations and international health care workers.
+This mistrust led to the refusal to permit blood draws for diagnostic purposes during the critical initial stages of the Ebola outbreak.
+By underestimating the importance of cultural and religious symbolism surrounding scientific research U.S. federal funding agencies, laboratory researchers, and private companies made a crucial mistake.
+By analyzing this curious conspiracy theory, scientists, funding agencies, and health practitioners can learn from past mistakes and become more aware of the impact of research beyond pure scientific pursuit.
+Background
+
+On May 24th, 2014,a young woman miscarried in Kenema Government Hospital.
+Given the recent outbreak in nearby Gueckedou, Guinea, Ebola was suspected.
+A day later, the same hospital reported the first confirmed case of Ebola in Sierra Leone.
+Soon after, Kenema became a hot zone – the entry point for the Ebola virus to spread throughout Sierra Leone and eventually the world.
+The repercussions of the Ebola outbreak extend well beyond the 11,310 death count in West Africa to economic, social, medical, and cultural spheres.
+The Kenema Government Hospital was not a typical Sierra Leonian public hospital.
+In fact, the hospital was well-equipped, with the only Lassa fever isolation ward anywhere in the world.
+The lab dated to 2005, when Tulane University received a $10 million grant from the U.S. National Institutes of Health to study “Diagnostics for Biodefense against Lassa fever”.
+Since previous investigations of sporadic Lassa fever outbreaks were based out of Kenema, the natural choice for the establishment of first-rate laboratory infrastructure was Kenema Government Hospital.
+As the years passed, the Tulane research laboratory acquired more grants and partnerships.
+One of the principal collaborators was the private for-profit company, Metabiota, which received grants from two U.S. Department of Defense (DoD) agencies – Defense Threat Reduction Agency and Biological Engagement Program – to primarily study the pathogenesis of Lassa fever, a ‘US bioterror threat’.
+Due to stipulations in NIH grant funding, the substantial amount of money flowing into this “shiny new” research laboratory could not be applied to assisting patients in the “dilapidated, cramped, and poorly resourced Lassa ward only some 50m away” (Bausch).
+During the Ebola outbreak, the Lassa laboratory’s focus shifted to Ebola, continuing research until the NIH did not renew funding in 2014, primarily due to safety reasons.
+The Conspiracy Theory
+
+Following the 2014 outbreak, a conspiracy theory circulating throughout Sierra Leone, essentially claiming that the U.S. created Ebola, or a Lassa-Ebola hybrid, and either intentionally or accidentally released this bioterror weapon from the U.S. NIH and DoD-funded research facility at Kenema Government Hospital.
+While such a rumor lacked credible evidence, there were specific circumstances surrounding the policies of the research outpost that fed into the narrative – truths that should have been addressed through culturally sensitive policies.
+Four main factors converged into a superstitious and suspicious narrative about the Lassa research laboratory.
+First, by branding the Lassa research facility with a bioterrorism component, the project assisted in drawing out a natural conclusion that bioterror weapons were also present in the laboratory.
+Tulane University’s initial grant application in 2005 framed Lassa virus as a US biosecurity threat through key words such as “Diagnostics for Biodefense” and “LASV as a biological weapon directed against civilian or military targets necessitates development of… diagnostics.” The framing of the diagnostic development laboratory in terms of a biodefense strategy against the NIAID Category A classification was not an accident, but rather a necessity to gain funding.
+As Annie Wilkins puts it “whether the prospect of weaponization is regarded as sensationalism or a real concern, all researchers are aware of the utility the bioweapons threat has in obtaining funding.” By emphasizing biodefense and collaborating with the U.S. DoD via Metabiota’s funding stream, a natural linkage between the work of the research outpost and bioweapons developed.
+The second factor was out of the control of Tulane University: A suspicious coincidence.
+Due to its proximity to Guinea, laboratory capacity, and fluidity in movement across the Sierra Leone-Guinea border, the first confirmed case of Ebola in Sierra Leone occurred in Kenema Government Hospital.
+Although there potentially were other cases of Ebola in Sierra Leone, none of the primary health care clinics in the area had the laboratory capacity to officially diagnose Ebola.
+A natural speculation ensued: what are the chances that the one Biodefense laboratory in Sierra Leone, where the hemorrhagic Lassa fever virus was located, was also the site of the first confirmed case of a “new” bioterror threat that also causes hemorrhagic fever, Ebola?
+Money draws attention, and the money flowing into this singular laboratory was substantial when compared with other public hospitals in Sierra Leone.
+For reference, the Sierra Leone Ministry of Health and Sanitation allocated U.S. $20 million budget to run the entire national health system in 2009.
+Third, a nurse from Kenema Government Hospital claimed to an audience at a fish market that “the deadly [Ebola] virus was invented to conceal “cannibalistic rituals”.
+The statement and an already distrustful community culminated into a riot at the hospital on July 25th, 2014.
+Such a case further cemented the people’s suspicions that the laboratory was “stealing” the blood of Sierra Leonians.
+Even though collecting blood is necessary for diagnostic tests, there are many deeply held cultural beliefs about blood in Sierra Leone, and many people are reluctant to participate in blood test as a result.
+Fourth, the research facility suspiciously and suddenly shut down right at the beginning of the outbreak without much explanation to the community.
+Additionally, many of the Sierra Leonian staff who could have addressed the suspicions about the facility pre-outbreak have since died while bravely combatting Ebola.
+All of these factors accumulated into the conspiracy theory that actors involved with the bio-defense grant and the US government created a bioterror weapon and unleashed it on West Africa.
+Policy Considerations
+
+The accumulation of these factors demonstrate the importance of cultural sensitivity and awareness when implementing scientific research policies.
+In 2018, Tulane University and a variety of partners received a new $15 million federally funded grant to study how Ebola and Lassa survivors fought off the diseases.
+Hopefully, the researchers are opening this facility with a new awareness and increased precautions on the spiritual and social baggage they bring to Kenema.
+This is especially important when considering the potential for further stigmatization of Ebola survivors if called to Kenema Government Hospital for research or treatment purposes.
+There are several policy considerations that could alter the course of this conspiracy and help acclimate the community to both the presence of a well-equipped laboratory and blood draws for diagnostic purposes.
+Research institutions should refrain from using vocabulary such as “biodefense” and “bioweapon” to describe the purpose of research.
+A clinician in the Lassa ward pointed out that “The average Sierra Leonian won’t see Lassa Fever as a bioweapon threat.
+Only in the Western world do they see it like that.” Since the potential for contracting Lassa and Ebola is an everyday reality for Sierra Leonians, research initiatives on such diseases should be spoken about in terms of their potential for public health.
+Additionally, universities seeking to do medical research should consider the cultural significance of their location, and contemplate ways, including shifting location, that might reduce any negative connotations.
+Engaging influential spiritual leaders in productive information partnerships could also assist in assuaging local concerns.
+Policy considerations should also be contemplated by grant funding institutions like the NIH and DoD.
+First, grant stipulations should integrate a layer of flexibility for distributing certain supplies and resources for patient care.
+Second, the NIH and DoD should be cognizant of their bias in funding grants that are written in terms of biodefense interests of the US, especially when related to countries where such a ‘bioweapon’ is an everyday reality.
+This is especially important because such bias incentivizes deleterious narratives that invokes cultural, social, and medical consequences.
+Lack of funding for neglected infectious diseases that only burden developing countries by the US is a complex and important issue that will require deep structural changes – and would require another blog post to contemplate.
+Yet, a simple solution would be to require scientific grant applications to contain a section in which the applicant considers the cultural and social impact of the work within the community of interest.
+In addition, community outreach with intentional dialogue on assuaging concerns about sensitive research activities should made be mandatory.
+The conspiracy theory exacerbated the already high level of mistrust in Western interventions during the outbreak.
+As the Washington Post emphasizes, the lesson from this case study is “that winning the trust of communities at risk is absolutely indispensable to limiting the impact of the inevitable next Ebola epidemic in West Africa.” Hopefully, the Tulane University research center in Kenema Government Hospital has learned from past mistakes, and seeks to engage the community and douse suspicions against their research upon re-opening the laboratory this year.
+Conspiracy theories usually integrate truth with speculation.
+The traditional method of ignoring such theories or flat out denying (as was the case with Tulane University) may have detrimental consequences as seen during the Ebola outbreak in Sierra Leone.
+The power in a conspiracy theory is not necessarily its truth, but it’s power to persuade people that it is true.
+And as scientists who are often focused on the facts, we often have a hard time understanding that concept.
+When doing research, it is crucial to be cognizant of the social perception of science and attempt to build bridges between gaps of understanding on cultural practices and scientific endeavors.
+Have an interesting science policy link?
+Share it in the comments!

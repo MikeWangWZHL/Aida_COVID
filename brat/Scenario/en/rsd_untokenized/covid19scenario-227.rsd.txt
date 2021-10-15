@@ -1,0 +1,58 @@
+Researchers wearing positive pressure personnel suits at a US National Institute of Allergy and Infectious Diseases biosafety level 4 lab.
+Credit: National Institute of Allergy and Infectious Diseases.
+Much remains uncertain about the new coronavirus.
+What treatments will prove effective against COVID-19?
+When will a vaccine for the disease be ready?
+What level of social distancing will be required to tame the outbreak, and how long will it need to last?
+Will outbreaks come in waves?
+Amid all these vital forward-looking questions remains a more retrospective but still important one: Where did SARS-CoV-2, the virus that causes COVID-19, come from in the first place?
+Experts seem to agree it wasn’t the product of human engineering.
+Much research has been focused on the hypothesis that bats passed a virus to some intermediate host—perhaps pangolins, scaly ant-eating mammals—which subsequently passed it to humans.
+But the pangolin theory has not been conclusively proven.
+Some experts wonder whether a virus under study at a lab could have been accidentally released, something that’s happened in the past.
+Among the latest entrants to the debate about the provenance of SARS-CoV-2 are the authors of a March 17 Nature Medicine piece that takes a look at the virus’s characteristics—including the sites on the virus that allow it to bind to human cells.
+They looked at whether the virus was engineered by humans and present what appears to be convincing evidence it was not.
+They also considered the possibility that the outbreak could have resulted from an inadvertent lab release of a virus under study but concluded “we do not believe that any type of laboratory-based scenario is plausible.”
+
+Not all experts agree.
+Professor Richard Ebright of Rutgers University’s Waksman Institute of Microbiology, a biosecurity expert who has been speaking out on lab safety since the early 2000s, does agree with the Nature Medicine authors’ argument that the new coronavirus wasn’t purposefully manipulated by humans, calling their arguments on this score strong.
+Ebright helped The Washington Post debunk a claim that the COVID-19 outbreak can somehow be tied to bioweapons activity, a conspiracy theory that’s been promoted or endorsed by the likes of US Sen. Tom Cotton, Iran’s supreme leader, and others.
+But Ebright thinks that it is possible the COVID-19 pandemic started as an accidental release from a laboratory such as one of the two in Wuhan that are known to have been studying bat coronaviruses.
+Except for SARS-CoV and MERS-CoV, two deadly viruses that have caused outbreaks in the past, coronaviruses have been studied at laboratories that are labelled as operating at a moderate biosafety level known as BSL-2, Ebright says.
+And, he says, bat coronaviruses have been studied at such labs in and around Wuhan, China, where the new coronavirus first emerged.
+“As a result,” Ebright says, “bat coronaviruses at Wuhan [Center for Disease Control] and Wuhan Institute of Virology routinely were collected and studied at BSL-2, which provides only minimal protections against infection of lab workers.”
+
+Higher safety-level labs would be appropriate for a virus with the characteristics of the new coronavirus causing the current pandemic.
+“Virus collection, culture, isolation, or animal infection at BSL-2 with a virus having the transmission characteristics of the outbreak virus would pose substantial risk of infection of a lab worker, and from the lab worker, the public,” Ebright says.
+Ebright points out that scientists in Wuhan have collected and publicized a bat coronavirus called RaTG13, one that is 96 percent genetically similar to SARS-CoV-2.
+The Nature Medicine authors are arguing “against the hypothesis that the published, lab-collected, lab-stored bat coronavirus RaTG13 could be a proximal progenitor of the outbreak virus.” But, Ebright says, the authors relied on assumptions about when the viral ancestor of SARS-CoV-2 jumped to humans; how fast it evolved before that; how fast it evolved as it adapted to humans; and the possibility that that the virus may have mutated in cell cultures or experimental animals inside a lab.
+The Nature Medicine authors “leave us where we were before: with a basis to rule out [a coronavirus that is] a lab construct, but no basis to rule out a lab accident,” Ebright says.
+Yanzhong Huang, a senior fellow for Global Health at the Council on Foreign Relations, recently wrote an article for Foreign Affairs that is dismissive of conspiracy theories about the origins of the pandemic but also mentions circumstantial evidence that supports the possibility that a lab release was involved.
+That evidence includes a study “conducted by the South China University of Technology, [that] concluded that the coronavirus ‘probably’ originated in the Wuhan Center for Disease Control and Prevention,” located just 280 meters from the Hunan Seafood Market often cited as the source of the original outbreak.
+“The paper was later removed from ResearchGate, a commercial social-networking site for scientists and researchers to share papers,” Huang wrote.
+“Thus far, no scientists have confirmed or refuted the paper’s findings.”
+
+While vaccines, treatments, and social distancing strategies are critical to fighting the COVID-19 pandemic, figuring out where this new coronavirus originated is, too.
+“It is reasonable to wonder why the origins of the pandemic matter,” the Nature Medicine authors write.
+“Detailed understanding of how an animal virus jumped species boundaries to infect humans so productively will help in the prevention of future [animal to people transfer] events.
+For example, if SARS-CoV-2 pre-adapted in another animal species, then there is the risk of future re-emergence events.
+In contrast, if the adaptive process occurred in humans, then even if repeated zoonotic transfers occur, they are unlikely to take off without the same series of mutations.”
+
+Kristian Andersen, the lead author of the Nature Medicine piece, did not respond to a request for comment on the article, and W. Ian Lipkin, another of the authors, declined to answer any questions about it.
+Thomas Gallagher, a virus expert and professor at Loyola University of Chicago, seconded the authors in dismissing the idea that the pandemic could have lab roots.
+“The authors of the new letter in Nature Medicine are arguing that the SARS-CoV-2 originated in animals, not in a research laboratory,” Gallagher says.
+“I agree completely with the authors’ statement.”
+
+“Suggesting that SARS-CoV-2 is a purposely manipulated laboratory virus or a product of an accidental laboratory release would be utterly defenseless, truly unhelpful, and extremely inappropriate,” Gallagher says.
+Still, lab safety has been a problem in China.
+“A safety breach at a Chinese Center for Disease Control and Prevention lab is believed to have caused four suspected SARS cases, including one death, in Beijing in 2004.
+A similar accident caused 65 lab workers of Lanzhou Veterinary Research Institute to be infected with brucellosis in December 2019,” Huang wrote.
+“In January 2020, a renowned Chinese scientist, Li Ning, was sentenced to 12 years in prison for selling experimental animals to local markets.
+And China is hardly the only place to experience such accidents.
+A USA Today investigation in 2016, for instance, revealed an incident involving cascading equipment failures in a decontamination chamber as US Centers for Disease Control and Prevention researchers tried to leave a biosafety level 4 lab that likely stored samples of the viruses causing Ebola and smallpox.
+In 2014, the agency revealed that staff had accidently sent live anthrax between laboratories, exposing 84 workers.
+In an investigation, officials found other mishaps that had occurred in the preceding decade.
+Whether a lab accident could have led to the COVID-19 outbreak remains unclear, but making that determination is worthwhile, Ebright says: “Understanding the origin of the outbreak is a crucial step to reduce the risk of future outbreaks.”
+
+Editors note: A previous version of this article implied that Lijian Zhao, a spokesman for China’s Ministry of Foreign Affairs, supported the false conspiracy theory that the coronavirus was a bioweapon.
+Instead, Zhao made an unfounded allegation that the US Army was involved in beginning the outbreak.

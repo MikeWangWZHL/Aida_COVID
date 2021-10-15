@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-39">
+		<TEXT>
+			<SEG id="covid19scenario-39-0" start_char="0" end_char="55">
+				<ORIGINAL_TEXT>Clear Up Confusion About Elderberry in COVID-19 Patients</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="4">Clear</TOKEN>
+				<TOKEN id="token-0-1" start_char="6" end_char="7">Up</TOKEN>
+				<TOKEN id="token-0-2" start_char="9" end_char="17">Confusion</TOKEN>
+				<TOKEN id="token-0-3" start_char="19" end_char="23">About</TOKEN>
+				<TOKEN id="token-0-4" start_char="25" end_char="34">Elderberry</TOKEN>
+				<TOKEN id="token-0-5" start_char="36" end_char="37">in</TOKEN>
+				<TOKEN id="token-0-6" start_char="39" end_char="43">COVID</TOKEN>
+				<TOKEN id="token-0-7" start_char="44" end_char="44">-</TOKEN>
+				<TOKEN id="token-0-8" start_char="45" end_char="46">19</TOKEN>
+				<TOKEN id="token-0-9" start_char="48" end_char="55">Patients</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-39-1" start_char="57" end_char="221">
+				<ORIGINAL_TEXT>Growing concerns about the potential for cytokine storm syndrome in coronavirus disease 2019 (COVID-19) patients has raised questions about the safety of elderberry.</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="57" end_char="63">Growing</TOKEN>
+				<TOKEN id="token-1-1" start_char="65" end_char="72">concerns</TOKEN>
+				<TOKEN id="token-1-2" start_char="74" end_char="78">about</TOKEN>
+				<TOKEN id="token-1-3" start_char="80" end_char="82">the</TOKEN>
+				<TOKEN id="token-1-4" start_char="84" end_char="92">potential</TOKEN>
+				<TOKEN id="token-1-5" start_char="94" end_char="96">for</TOKEN>
+				<TOKEN id="token-1-6" start_char="98" end_char="105">cytokine</TOKEN>
+				<TOKEN id="token-1-7" start_char="107" end_char="111">storm</TOKEN>
+				<TOKEN id="token-1-8" start_char="113" end_char="120">syndrome</TOKEN>
+				<TOKEN id="token-1-9" start_char="122" end_char="123">in</TOKEN>
+				<TOKEN id="token-1-10" start_char="125" end_char="135">coronavirus</TOKEN>
+				<TOKEN id="token-1-11" start_char="137" end_char="143">disease</TOKEN>
+				<TOKEN id="token-1-12" start_char="145" end_char="148">2019</TOKEN>
+				<TOKEN id="token-1-13" start_char="150" end_char="150">(</TOKEN>
+				<TOKEN id="token-1-14" start_char="151" end_char="155">COVID</TOKEN>
+				<TOKEN id="token-1-15" start_char="156" end_char="156">-</TOKEN>
+				<TOKEN id="token-1-16" start_char="157" end_char="158">19</TOKEN>
+				<TOKEN id="token-1-17" start_char="159" end_char="159">)</TOKEN>
+				<TOKEN id="token-1-18" start_char="161" end_char="168">patients</TOKEN>
+				<TOKEN id="token-1-19" start_char="170" end_char="172">has</TOKEN>
+				<TOKEN id="token-1-20" start_char="174" end_char="179">raised</TOKEN>
+				<TOKEN id="token-1-21" start_char="181" end_char="189">questions</TOKEN>
+				<TOKEN id="token-1-22" start_char="191" end_char="195">about</TOKEN>
+				<TOKEN id="token-1-23" start_char="197" end_char="199">the</TOKEN>
+				<TOKEN id="token-1-24" start_char="201" end_char="206">safety</TOKEN>
+				<TOKEN id="token-1-25" start_char="208" end_char="209">of</TOKEN>
+				<TOKEN id="token-1-26" start_char="211" end_char="220">elderberry</TOKEN>
+				<TOKEN id="token-1-27" start_char="221" end_char="221">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-39-2" start_char="223" end_char="393">
+				<ORIGINAL_TEXT>Cytokine storm syndrome – a severe overproduction of immune cells that can lead to life-threatening lung inflammation – may be a complication of COVID-19 in some patients.</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="223" end_char="230">Cytokine</TOKEN>
+				<TOKEN id="token-2-1" start_char="232" end_char="236">storm</TOKEN>
+				<TOKEN id="token-2-2" start_char="238" end_char="245">syndrome</TOKEN>
+				<TOKEN id="token-2-3" start_char="247" end_char="247">–</TOKEN>
+				<TOKEN id="token-2-4" start_char="249" end_char="249">a</TOKEN>
+				<TOKEN id="token-2-5" start_char="251" end_char="256">severe</TOKEN>
+				<TOKEN id="token-2-6" start_char="258" end_char="271">overproduction</TOKEN>
+				<TOKEN id="token-2-7" start_char="273" end_char="274">of</TOKEN>
+				<TOKEN id="token-2-8" start_char="276" end_char="281">immune</TOKEN>
+				<TOKEN id="token-2-9" start_char="283" end_char="287">cells</TOKEN>
+				<TOKEN id="token-2-10" start_char="289" end_char="292">that</TOKEN>
+				<TOKEN id="token-2-11" start_char="294" end_char="296">can</TOKEN>
+				<TOKEN id="token-2-12" start_char="298" end_char="301">lead</TOKEN>
+				<TOKEN id="token-2-13" start_char="303" end_char="304">to</TOKEN>
+				<TOKEN id="token-2-14" start_char="306" end_char="309">life</TOKEN>
+				<TOKEN id="token-2-15" start_char="310" end_char="310">-</TOKEN>
+				<TOKEN id="token-2-16" start_char="311" end_char="321">threatening</TOKEN>
+				<TOKEN id="token-2-17" start_char="323" end_char="326">lung</TOKEN>
+				<TOKEN id="token-2-18" start_char="328" end_char="339">inflammation</TOKEN>
+				<TOKEN id="token-2-19" start_char="341" end_char="341">–</TOKEN>
+				<TOKEN id="token-2-20" start_char="343" end_char="345">may</TOKEN>
+				<TOKEN id="token-2-21" start_char="347" end_char="348">be</TOKEN>
+				<TOKEN id="token-2-22" start_char="350" end_char="350">a</TOKEN>
+				<TOKEN id="token-2-23" start_char="352" end_char="363">complication</TOKEN>
+				<TOKEN id="token-2-24" start_char="365" end_char="366">of</TOKEN>
+				<TOKEN id="token-2-25" start_char="368" end_char="372">COVID</TOKEN>
+				<TOKEN id="token-2-26" start_char="373" end_char="373">-</TOKEN>
+				<TOKEN id="token-2-27" start_char="374" end_char="375">19</TOKEN>
+				<TOKEN id="token-2-28" start_char="377" end_char="378">in</TOKEN>
+				<TOKEN id="token-2-29" start_char="380" end_char="383">some</TOKEN>
+				<TOKEN id="token-2-30" start_char="385" end_char="392">patients</TOKEN>
+				<TOKEN id="token-2-31" start_char="393" end_char="393">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-39-3" start_char="395" end_char="500">
+				<ORIGINAL_TEXT>This has raised questions about the safety of elderberry, since elderberry may have a pro-cytokine effect.</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="395" end_char="398">This</TOKEN>
+				<TOKEN id="token-3-1" start_char="400" end_char="402">has</TOKEN>
+				<TOKEN id="token-3-2" start_char="404" end_char="409">raised</TOKEN>
+				<TOKEN id="token-3-3" start_char="411" end_char="419">questions</TOKEN>
+				<TOKEN id="token-3-4" start_char="421" end_char="425">about</TOKEN>
+				<TOKEN id="token-3-5" start_char="427" end_char="429">the</TOKEN>
+				<TOKEN id="token-3-6" start_char="431" end_char="436">safety</TOKEN>
+				<TOKEN id="token-3-7" start_char="438" end_char="439">of</TOKEN>
+				<TOKEN id="token-3-8" start_char="441" end_char="450">elderberry</TOKEN>
+				<TOKEN id="token-3-9" start_char="451" end_char="451">,</TOKEN>
+				<TOKEN id="token-3-10" start_char="453" end_char="457">since</TOKEN>
+				<TOKEN id="token-3-11" start_char="459" end_char="468">elderberry</TOKEN>
+				<TOKEN id="token-3-12" start_char="470" end_char="472">may</TOKEN>
+				<TOKEN id="token-3-13" start_char="474" end_char="477">have</TOKEN>
+				<TOKEN id="token-3-14" start_char="479" end_char="479">a</TOKEN>
+				<TOKEN id="token-3-15" start_char="481" end_char="483">pro</TOKEN>
+				<TOKEN id="token-3-16" start_char="484" end_char="484">-</TOKEN>
+				<TOKEN id="token-3-17" start_char="485" end_char="492">cytokine</TOKEN>
+				<TOKEN id="token-3-18" start_char="494" end_char="499">effect</TOKEN>
+				<TOKEN id="token-3-19" start_char="500" end_char="500">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-39-4" start_char="502" end_char="646">
+				<ORIGINAL_TEXT>A very small study that used blood from healthy donors shows that elderberry extract increases the production of inflammatory cytokines in vitro.</ORIGINAL_TEXT>
+				<TOKEN id="token-4-0" start_char="502" end_char="502">A</TOKEN>
+				<TOKEN id="token-4-1" start_char="504" end_char="507">very</TOKEN>
+				<TOKEN id="token-4-2" start_char="509" end_char="513">small</TOKEN>
+				<TOKEN id="token-4-3" start_char="515" end_char="519">study</TOKEN>
+				<TOKEN id="token-4-4" start_char="521" end_char="524">that</TOKEN>
+				<TOKEN id="token-4-5" start_char="526" end_char="529">used</TOKEN>
+				<TOKEN id="token-4-6" start_char="531" end_char="535">blood</TOKEN>
+				<TOKEN id="token-4-7" start_char="537" end_char="540">from</TOKEN>
+				<TOKEN id="token-4-8" start_char="542" end_char="548">healthy</TOKEN>
+				<TOKEN id="token-4-9" start_char="550" end_char="555">donors</TOKEN>
+				<TOKEN id="token-4-10" start_char="557" end_char="561">shows</TOKEN>
+				<TOKEN id="token-4-11" start_char="563" end_char="566">that</TOKEN>
+				<TOKEN id="token-4-12" start_char="568" end_char="577">elderberry</TOKEN>
+				<TOKEN id="token-4-13" start_char="579" end_char="585">extract</TOKEN>
+				<TOKEN id="token-4-14" start_char="587" end_char="595">increases</TOKEN>
+				<TOKEN id="token-4-15" start_char="597" end_char="599">the</TOKEN>
+				<TOKEN id="token-4-16" start_char="601" end_char="610">production</TOKEN>
+				<TOKEN id="token-4-17" start_char="612" end_char="613">of</TOKEN>
+				<TOKEN id="token-4-18" start_char="615" end_char="626">inflammatory</TOKEN>
+				<TOKEN id="token-4-19" start_char="628" end_char="636">cytokines</TOKEN>
+				<TOKEN id="token-4-20" start_char="638" end_char="639">in</TOKEN>
+				<TOKEN id="token-4-21" start_char="641" end_char="645">vitro</TOKEN>
+				<TOKEN id="token-4-22" start_char="646" end_char="646">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-39-5" start_char="648" end_char="675">
+				<ORIGINAL_TEXT>But not all research agrees.</ORIGINAL_TEXT>
+				<TOKEN id="token-5-0" start_char="648" end_char="650">But</TOKEN>
+				<TOKEN id="token-5-1" start_char="652" end_char="654">not</TOKEN>
+				<TOKEN id="token-5-2" start_char="656" end_char="658">all</TOKEN>
+				<TOKEN id="token-5-3" start_char="660" end_char="667">research</TOKEN>
+				<TOKEN id="token-5-4" start_char="669" end_char="674">agrees</TOKEN>
+				<TOKEN id="token-5-5" start_char="675" end_char="675">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-39-6" start_char="677" end_char="760">
+				<ORIGINAL_TEXT>Other research suggests that elderberry might actually have an anti-cytokine effect.</ORIGINAL_TEXT>
+				<TOKEN id="token-6-0" start_char="677" end_char="681">Other</TOKEN>
+				<TOKEN id="token-6-1" start_char="683" end_char="690">research</TOKEN>
+				<TOKEN id="token-6-2" start_char="692" end_char="699">suggests</TOKEN>
+				<TOKEN id="token-6-3" start_char="701" end_char="704">that</TOKEN>
+				<TOKEN id="token-6-4" start_char="706" end_char="715">elderberry</TOKEN>
+				<TOKEN id="token-6-5" start_char="717" end_char="721">might</TOKEN>
+				<TOKEN id="token-6-6" start_char="723" end_char="730">actually</TOKEN>
+				<TOKEN id="token-6-7" start_char="732" end_char="735">have</TOKEN>
+				<TOKEN id="token-6-8" start_char="737" end_char="738">an</TOKEN>
+				<TOKEN id="token-6-9" start_char="740" end_char="743">anti</TOKEN>
+				<TOKEN id="token-6-10" start_char="744" end_char="744">-</TOKEN>
+				<TOKEN id="token-6-11" start_char="745" end_char="752">cytokine</TOKEN>
+				<TOKEN id="token-6-12" start_char="754" end_char="759">effect</TOKEN>
+				<TOKEN id="token-6-13" start_char="760" end_char="760">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-39-7" start_char="762" end_char="853">
+				<ORIGINAL_TEXT>Furthermore, there is NO evidence that elderberry induces cytokine storm syndrome in humans.</ORIGINAL_TEXT>
+				<TOKEN id="token-7-0" start_char="762" end_char="772">Furthermore</TOKEN>
+				<TOKEN id="token-7-1" start_char="773" end_char="773">,</TOKEN>
+				<TOKEN id="token-7-2" start_char="775" end_char="779">there</TOKEN>
+				<TOKEN id="token-7-3" start_char="781" end_char="782">is</TOKEN>
+				<TOKEN id="token-7-4" start_char="784" end_char="785">NO</TOKEN>
+				<TOKEN id="token-7-5" start_char="787" end_char="794">evidence</TOKEN>
+				<TOKEN id="token-7-6" start_char="796" end_char="799">that</TOKEN>
+				<TOKEN id="token-7-7" start_char="801" end_char="810">elderberry</TOKEN>
+				<TOKEN id="token-7-8" start_char="812" end_char="818">induces</TOKEN>
+				<TOKEN id="token-7-9" start_char="820" end_char="827">cytokine</TOKEN>
+				<TOKEN id="token-7-10" start_char="829" end_char="833">storm</TOKEN>
+				<TOKEN id="token-7-11" start_char="835" end_char="842">syndrome</TOKEN>
+				<TOKEN id="token-7-12" start_char="844" end_char="845">in</TOKEN>
+				<TOKEN id="token-7-13" start_char="847" end_char="852">humans</TOKEN>
+				<TOKEN id="token-7-14" start_char="853" end_char="853">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-39-8" start_char="855" end_char="952">
+				<ORIGINAL_TEXT>Tell your patients that there’s no strong evidence that elderberry causes cytokine storm syndrome.</ORIGINAL_TEXT>
+				<TOKEN id="token-8-0" start_char="855" end_char="858">Tell</TOKEN>
+				<TOKEN id="token-8-1" start_char="860" end_char="863">your</TOKEN>
+				<TOKEN id="token-8-2" start_char="865" end_char="872">patients</TOKEN>
+				<TOKEN id="token-8-3" start_char="874" end_char="877">that</TOKEN>
+				<TOKEN id="token-8-4" start_char="879" end_char="883">there</TOKEN>
+				<TOKEN id="token-8-5" start_char="884" end_char="884">’</TOKEN>
+				<TOKEN id="token-8-6" start_char="885" end_char="885">s</TOKEN>
+				<TOKEN id="token-8-7" start_char="887" end_char="888">no</TOKEN>
+				<TOKEN id="token-8-8" start_char="890" end_char="895">strong</TOKEN>
+				<TOKEN id="token-8-9" start_char="897" end_char="904">evidence</TOKEN>
+				<TOKEN id="token-8-10" start_char="906" end_char="909">that</TOKEN>
+				<TOKEN id="token-8-11" start_char="911" end_char="920">elderberry</TOKEN>
+				<TOKEN id="token-8-12" start_char="922" end_char="927">causes</TOKEN>
+				<TOKEN id="token-8-13" start_char="929" end_char="936">cytokine</TOKEN>
+				<TOKEN id="token-8-14" start_char="938" end_char="942">storm</TOKEN>
+				<TOKEN id="token-8-15" start_char="944" end_char="951">syndrome</TOKEN>
+				<TOKEN id="token-8-16" start_char="952" end_char="952">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-39-9" start_char="954" end_char="1095">
+				<ORIGINAL_TEXT>While this is reassuring, it’s also important to remind patients that there is NO evidence that elderberry can help treat or prevent COVID-19.</ORIGINAL_TEXT>
+				<TOKEN id="token-9-0" start_char="954" end_char="958">While</TOKEN>
+				<TOKEN id="token-9-1" start_char="960" end_char="963">this</TOKEN>
+				<TOKEN id="token-9-2" start_char="965" end_char="966">is</TOKEN>
+				<TOKEN id="token-9-3" start_char="968" end_char="977">reassuring</TOKEN>
+				<TOKEN id="token-9-4" start_char="978" end_char="978">,</TOKEN>
+				<TOKEN id="token-9-5" start_char="980" end_char="981">it</TOKEN>
+				<TOKEN id="token-9-6" start_char="982" end_char="982">’</TOKEN>
+				<TOKEN id="token-9-7" start_char="983" end_char="983">s</TOKEN>
+				<TOKEN id="token-9-8" start_char="985" end_char="988">also</TOKEN>
+				<TOKEN id="token-9-9" start_char="990" end_char="998">important</TOKEN>
+				<TOKEN id="token-9-10" start_char="1000" end_char="1001">to</TOKEN>
+				<TOKEN id="token-9-11" start_char="1003" end_char="1008">remind</TOKEN>
+				<TOKEN id="token-9-12" start_char="1010" end_char="1017">patients</TOKEN>
+				<TOKEN id="token-9-13" start_char="1019" end_char="1022">that</TOKEN>
+				<TOKEN id="token-9-14" start_char="1024" end_char="1028">there</TOKEN>
+				<TOKEN id="token-9-15" start_char="1030" end_char="1031">is</TOKEN>
+				<TOKEN id="token-9-16" start_char="1033" end_char="1034">NO</TOKEN>
+				<TOKEN id="token-9-17" start_char="1036" end_char="1043">evidence</TOKEN>
+				<TOKEN id="token-9-18" start_char="1045" end_char="1048">that</TOKEN>
+				<TOKEN id="token-9-19" start_char="1050" end_char="1059">elderberry</TOKEN>
+				<TOKEN id="token-9-20" start_char="1061" end_char="1063">can</TOKEN>
+				<TOKEN id="token-9-21" start_char="1065" end_char="1068">help</TOKEN>
+				<TOKEN id="token-9-22" start_char="1070" end_char="1074">treat</TOKEN>
+				<TOKEN id="token-9-23" start_char="1076" end_char="1077">or</TOKEN>
+				<TOKEN id="token-9-24" start_char="1079" end_char="1085">prevent</TOKEN>
+				<TOKEN id="token-9-25" start_char="1087" end_char="1091">COVID</TOKEN>
+				<TOKEN id="token-9-26" start_char="1092" end_char="1092">-</TOKEN>
+				<TOKEN id="token-9-27" start_char="1093" end_char="1094">19</TOKEN>
+				<TOKEN id="token-9-28" start_char="1095" end_char="1095">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-39-10" start_char="1097" end_char="1289">
+				<ORIGINAL_TEXT>Although elderberry is commonly taken for colds and the flu, and there’s some evidence it might help for these conditions, elderberry has NOT been evaluated for treating or preventing COVID-19.</ORIGINAL_TEXT>
+				<TOKEN id="token-10-0" start_char="1097" end_char="1104">Although</TOKEN>
+				<TOKEN id="token-10-1" start_char="1106" end_char="1115">elderberry</TOKEN>
+				<TOKEN id="token-10-2" start_char="1117" end_char="1118">is</TOKEN>
+				<TOKEN id="token-10-3" start_char="1120" end_char="1127">commonly</TOKEN>
+				<TOKEN id="token-10-4" start_char="1129" end_char="1133">taken</TOKEN>
+				<TOKEN id="token-10-5" start_char="1135" end_char="1137">for</TOKEN>
+				<TOKEN id="token-10-6" start_char="1139" end_char="1143">colds</TOKEN>
+				<TOKEN id="token-10-7" start_char="1145" end_char="1147">and</TOKEN>
+				<TOKEN id="token-10-8" start_char="1149" end_char="1151">the</TOKEN>
+				<TOKEN id="token-10-9" start_char="1153" end_char="1155">flu</TOKEN>
+				<TOKEN id="token-10-10" start_char="1156" end_char="1156">,</TOKEN>
+				<TOKEN id="token-10-11" start_char="1158" end_char="1160">and</TOKEN>
+				<TOKEN id="token-10-12" start_char="1162" end_char="1166">there</TOKEN>
+				<TOKEN id="token-10-13" start_char="1167" end_char="1167">’</TOKEN>
+				<TOKEN id="token-10-14" start_char="1168" end_char="1168">s</TOKEN>
+				<TOKEN id="token-10-15" start_char="1170" end_char="1173">some</TOKEN>
+				<TOKEN id="token-10-16" start_char="1175" end_char="1182">evidence</TOKEN>
+				<TOKEN id="token-10-17" start_char="1184" end_char="1185">it</TOKEN>
+				<TOKEN id="token-10-18" start_char="1187" end_char="1191">might</TOKEN>
+				<TOKEN id="token-10-19" start_char="1193" end_char="1196">help</TOKEN>
+				<TOKEN id="token-10-20" start_char="1198" end_char="1200">for</TOKEN>
+				<TOKEN id="token-10-21" start_char="1202" end_char="1206">these</TOKEN>
+				<TOKEN id="token-10-22" start_char="1208" end_char="1217">conditions</TOKEN>
+				<TOKEN id="token-10-23" start_char="1218" end_char="1218">,</TOKEN>
+				<TOKEN id="token-10-24" start_char="1220" end_char="1229">elderberry</TOKEN>
+				<TOKEN id="token-10-25" start_char="1231" end_char="1233">has</TOKEN>
+				<TOKEN id="token-10-26" start_char="1235" end_char="1237">NOT</TOKEN>
+				<TOKEN id="token-10-27" start_char="1239" end_char="1242">been</TOKEN>
+				<TOKEN id="token-10-28" start_char="1244" end_char="1252">evaluated</TOKEN>
+				<TOKEN id="token-10-29" start_char="1254" end_char="1256">for</TOKEN>
+				<TOKEN id="token-10-30" start_char="1258" end_char="1265">treating</TOKEN>
+				<TOKEN id="token-10-31" start_char="1267" end_char="1268">or</TOKEN>
+				<TOKEN id="token-10-32" start_char="1270" end_char="1279">preventing</TOKEN>
+				<TOKEN id="token-10-33" start_char="1281" end_char="1285">COVID</TOKEN>
+				<TOKEN id="token-10-34" start_char="1286" end_char="1286">-</TOKEN>
+				<TOKEN id="token-10-35" start_char="1287" end_char="1288">19</TOKEN>
+				<TOKEN id="token-10-36" start_char="1289" end_char="1289">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-39-11" start_char="1291" end_char="1461">
+				<ORIGINAL_TEXT>Overall, there is no strong evidence that elderberry can cause cytokine storm syndrome, but there’s also no good evidence that it can improve symptoms or prevent COVID-19.</ORIGINAL_TEXT>
+				<TOKEN id="token-11-0" start_char="1291" end_char="1297">Overall</TOKEN>
+				<TOKEN id="token-11-1" start_char="1298" end_char="1298">,</TOKEN>
+				<TOKEN id="token-11-2" start_char="1300" end_char="1304">there</TOKEN>
+				<TOKEN id="token-11-3" start_char="1306" end_char="1307">is</TOKEN>
+				<TOKEN id="token-11-4" start_char="1309" end_char="1310">no</TOKEN>
+				<TOKEN id="token-11-5" start_char="1312" end_char="1317">strong</TOKEN>
+				<TOKEN id="token-11-6" start_char="1319" end_char="1326">evidence</TOKEN>
+				<TOKEN id="token-11-7" start_char="1328" end_char="1331">that</TOKEN>
+				<TOKEN id="token-11-8" start_char="1333" end_char="1342">elderberry</TOKEN>
+				<TOKEN id="token-11-9" start_char="1344" end_char="1346">can</TOKEN>
+				<TOKEN id="token-11-10" start_char="1348" end_char="1352">cause</TOKEN>
+				<TOKEN id="token-11-11" start_char="1354" end_char="1361">cytokine</TOKEN>
+				<TOKEN id="token-11-12" start_char="1363" end_char="1367">storm</TOKEN>
+				<TOKEN id="token-11-13" start_char="1369" end_char="1376">syndrome</TOKEN>
+				<TOKEN id="token-11-14" start_char="1377" end_char="1377">,</TOKEN>
+				<TOKEN id="token-11-15" start_char="1379" end_char="1381">but</TOKEN>
+				<TOKEN id="token-11-16" start_char="1383" end_char="1387">there</TOKEN>
+				<TOKEN id="token-11-17" start_char="1388" end_char="1388">’</TOKEN>
+				<TOKEN id="token-11-18" start_char="1389" end_char="1389">s</TOKEN>
+				<TOKEN id="token-11-19" start_char="1391" end_char="1394">also</TOKEN>
+				<TOKEN id="token-11-20" start_char="1396" end_char="1397">no</TOKEN>
+				<TOKEN id="token-11-21" start_char="1399" end_char="1402">good</TOKEN>
+				<TOKEN id="token-11-22" start_char="1404" end_char="1411">evidence</TOKEN>
+				<TOKEN id="token-11-23" start_char="1413" end_char="1416">that</TOKEN>
+				<TOKEN id="token-11-24" start_char="1418" end_char="1419">it</TOKEN>
+				<TOKEN id="token-11-25" start_char="1421" end_char="1423">can</TOKEN>
+				<TOKEN id="token-11-26" start_char="1425" end_char="1431">improve</TOKEN>
+				<TOKEN id="token-11-27" start_char="1433" end_char="1440">symptoms</TOKEN>
+				<TOKEN id="token-11-28" start_char="1442" end_char="1443">or</TOKEN>
+				<TOKEN id="token-11-29" start_char="1445" end_char="1451">prevent</TOKEN>
+				<TOKEN id="token-11-30" start_char="1453" end_char="1457">COVID</TOKEN>
+				<TOKEN id="token-11-31" start_char="1458" end_char="1458">-</TOKEN>
+				<TOKEN id="token-11-32" start_char="1459" end_char="1460">19</TOKEN>
+				<TOKEN id="token-11-33" start_char="1461" end_char="1461">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-39-12" start_char="1463" end_char="1618">
+				<ORIGINAL_TEXT>Continue reminding patients that the best way to prevent COVID-19 is through proper hand hygiene, using disinfectant sprays or wipes to clean surfaces, etc.</ORIGINAL_TEXT>
+				<TOKEN id="token-12-0" start_char="1463" end_char="1470">Continue</TOKEN>
+				<TOKEN id="token-12-1" start_char="1472" end_char="1480">reminding</TOKEN>
+				<TOKEN id="token-12-2" start_char="1482" end_char="1489">patients</TOKEN>
+				<TOKEN id="token-12-3" start_char="1491" end_char="1494">that</TOKEN>
+				<TOKEN id="token-12-4" start_char="1496" end_char="1498">the</TOKEN>
+				<TOKEN id="token-12-5" start_char="1500" end_char="1503">best</TOKEN>
+				<TOKEN id="token-12-6" start_char="1505" end_char="1507">way</TOKEN>
+				<TOKEN id="token-12-7" start_char="1509" end_char="1510">to</TOKEN>
+				<TOKEN id="token-12-8" start_char="1512" end_char="1518">prevent</TOKEN>
+				<TOKEN id="token-12-9" start_char="1520" end_char="1524">COVID</TOKEN>
+				<TOKEN id="token-12-10" start_char="1525" end_char="1525">-</TOKEN>
+				<TOKEN id="token-12-11" start_char="1526" end_char="1527">19</TOKEN>
+				<TOKEN id="token-12-12" start_char="1529" end_char="1530">is</TOKEN>
+				<TOKEN id="token-12-13" start_char="1532" end_char="1538">through</TOKEN>
+				<TOKEN id="token-12-14" start_char="1540" end_char="1545">proper</TOKEN>
+				<TOKEN id="token-12-15" start_char="1547" end_char="1550">hand</TOKEN>
+				<TOKEN id="token-12-16" start_char="1552" end_char="1558">hygiene</TOKEN>
+				<TOKEN id="token-12-17" start_char="1559" end_char="1559">,</TOKEN>
+				<TOKEN id="token-12-18" start_char="1561" end_char="1565">using</TOKEN>
+				<TOKEN id="token-12-19" start_char="1567" end_char="1578">disinfectant</TOKEN>
+				<TOKEN id="token-12-20" start_char="1580" end_char="1585">sprays</TOKEN>
+				<TOKEN id="token-12-21" start_char="1587" end_char="1588">or</TOKEN>
+				<TOKEN id="token-12-22" start_char="1590" end_char="1594">wipes</TOKEN>
+				<TOKEN id="token-12-23" start_char="1596" end_char="1597">to</TOKEN>
+				<TOKEN id="token-12-24" start_char="1599" end_char="1603">clean</TOKEN>
+				<TOKEN id="token-12-25" start_char="1605" end_char="1612">surfaces</TOKEN>
+				<TOKEN id="token-12-26" start_char="1613" end_char="1613">,</TOKEN>
+				<TOKEN id="token-12-27" start_char="1615" end_char="1617">etc</TOKEN>
+				<TOKEN id="token-12-28" start_char="1618" end_char="1618">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-39-13" start_char="1620" end_char="1634">
+				<ORIGINAL_TEXT>Related topics:</ORIGINAL_TEXT>
+				<TOKEN id="token-13-0" start_char="1620" end_char="1626">Related</TOKEN>
+				<TOKEN id="token-13-1" start_char="1628" end_char="1633">topics</TOKEN>
+				<TOKEN id="token-13-2" start_char="1634" end_char="1634">:</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

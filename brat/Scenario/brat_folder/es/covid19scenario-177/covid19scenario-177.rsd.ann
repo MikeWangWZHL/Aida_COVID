@@ -1,0 +1,40 @@
+T1	PER 0 3	Nos
+T2	PER 138 140	tu
+T3	PER 192 194	tu
+T4	PER 210 213	tus
+T5	PER 402 409	Maldita
+T6	PER 413 430	María Elisa Calle
+T7	ORG 491 511	Facultad de Medicina
+T8	ORG 518 551	Universidad Complutense de Madrid
+T9	PER 733 742	cirujanos
+T10	PER 826 831	Calle
+T11	PER 862 869	nuestro
+T12	MHI 938 945	hipoxia
+T13	MHI 961 969	síndrome
+T14	PER 1290 1297	Maldita
+T15	PER 1301 1319	Víctor Jiménez Cid
+T16	PER 1321 1332	catedrático
+T17	ORG 1356 1389	Universidad Complutense de Madrid
+T18	PER 1392 1399	miembro
+T19	ORG 1406 1440	Sociedad Española de Microbiología
+T20	PER 1688 1701	Raquel Blasco
+T21	PER 1711 1718	Maldita
+T22	PER 1762 1764	os
+T23	PER 1921 1924	nos
+T24	PER 2004 2021	María Elisa Calle
+T25	MHI 2045 2052	asfixia
+T26	MHI 2070 2077	asfixia
+T27	PER 2117 2119	el
+T28	PER 2225 2230	Calle
+T29	PER 2299 2306	estamos
+T30	MHI 2367 2374	asfixia
+T31	FAC 2527 2532	calle
+T32	VEH 2575 2593	transporte público
+T33	FAC 2617 2621	casa
+T34	PER 2658 2667	profesora
+T35	ORG 2674 2694	Facultad de Medicina
+T36	ORG 2701 2734	Universidad Complutense de Madrid
+T37	PER 2886 2893	Maldita
+T38	ORG 2936 2943	Science
+T39	PER 3221 3231	individuos
+T40	ORG 3476 3483	Science

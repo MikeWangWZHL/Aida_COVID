@@ -1,0 +1,52 @@
+New data on Gilead’s remdesivir, released by accident, show no benefit for coronavirus patients.
+Company still sees reason for hope
+
+The antiviral medicine remdesivir from Gilead Sciences failed to speed the improvement of patients with Covid-19 or prevent them from dying, according to results from a long-awaited clinical trial conducted in China.
+Gilead, however, said the data suggest a “potential benefit.”
+
+A summary of the study results was inadvertently posted to the website of the World Health Organization and seen by STAT on Thursday, but then removed.
+“A draft manuscript was provided by the authors to WHO and inadvertently posted on the website and taken down as soon as the mistake was noticed.
+The manuscript is now undergoing peer review and we are waiting for a final version before WHO comments on it,” said WHO spokesperson Daniela Bagozzi.
+advertisement
+
+Gilead spokesperson Amy Flood said the company believes “the post included inappropriate characterization of the study.” Because the study was stopped early because it had too few patients, she said, it cannot “enable statistically meaningful conclusions.” However, she said, “trends in the data suggest a potential benefit for remdesivir, particularly among patients treated early in disease.”
+
+The data (for details, see screenshot below) will be closely scrutinized but are also likely imperfect.
+The study was terminated prematurely, which could have affected the results.
+The context that would be provided by a full manuscript is missing, and the data have not been reviewed as normally occurs before publication.
+advertisement
+
+Many studies are being run to test remdesivir, and this one will not be the final word.
+Results are expected soon from a Gilead-run study in severe Covid-19 patients, although that study may be difficult to interpret because the drug is not compared to patients receiving only standard treatment.
+Encouraging data from patients in that study at the University of Chicago were described by researchers at a virtual town hall and obtained by STAT last week.
+However, unlike those data, these new results are from a randomized controlled trial, the medical gold standard.
+Gilead is also running a study with a control group in more moderate Covid-19 patients, and the National Institute of Allergy and Infectious Diseases is running a study that compares remdesivir to placebo.
+There are even more studies of the drug ongoing.
+According to the summary of the China study, remdesivir was “not associated with a difference in time to clinical improvement” compared to a standard of care control.
+After one month, it appeared 13.9% of the remdesivir patients had died compared to 12.8% of patients in the control arm.
+The difference was not statistically significant.
+“In this study of hospitalized adult patients with severe COVID-19 that was terminated prematurely, remdesivir was not associated with clinical or virological benefits,” the summary states.
+The study was terminated prematurely because it was difficult to enroll patients in China, where the number of Covid-19 cases was decreasing.
+An outside researcher said that the results mean that any benefit from remdesivir is likely to be small.
+“If there is no benefit to remdesivir in a study this size, this suggests that the overall benefit of remdesivir in this population with advanced infection is likely to be small in the larger Gilead trial,” said Andrew Hill, senior visiting research fellow at Liverpool University.
+He added that the results of the study should be pooled with larger studies being conducted by Gilead using a technique called meta-analysis to allow for “a balanced view of the efficacy of remdesivir from all randomized trials.”
+
+Newsletters Sign up for Daily Recap A roundup of STAT's top stories of the day.
+Please enter a valid email address.
+Privacy Policy Leave this field empty if you're human:
+
+STAT contacted the lead investigator of the study but did not receive an immediate response.
+As originally designed, the China study was meant to enroll 453 patients.
+The patients were allowed to enter the study up to 12 days from the onset of Covid-19 symptoms.
+Once enrolled, the patients were randomized in a double-blind fashion and were treated with daily infusions of remdesivir or a placebo for 10 days.
+The primary goal is to show that the drug is better than placebo at improving symptoms within 28 days.
+That improvement is measured with a six-point scoring system ranging from hospital discharge (a score of 1) to death (a score of 6).
+In order to count as someone who responded to the drug, a patient must improve by at least two points.
+Patients can remain hospitalized at the end of the 28-day period of the clinical trial but still improve enough clinically — no longer needing intubation or supplemental oxygen, for example — to count as a responder.
+According to the abstract, 158 patients received remdesivir and 79 patients were in the control arm; one patient in the control arm withdrew before receiving treatment.
+The abstract said that for time to clinical improvement, the hazard ratio was 1.23, which would normally mean the patients on remdesivir improved more slowly than those in the control group.
+However, in a previous note to investors preparing them for the data, Umer Raffat, a biotech analyst at Evercore ISI, had said to expect the opposite arrangement: that a hazard ratio of 1.2 would show patients were doing better.
+It is not certain how the hazard ratio is being described in the abstract.
+Whether or not the drug benefit is trending in a positive or negative direction, the difference described in the abstract is not statistically significant, meaning that the study failed.
+There are differences in the enrollment criteria of Covid-19 patients and the way remdesivir is being used that make extrapolating results from this China study to the ongoing studies difficult.
+Flood, the Gilead spokesperson, said the company regrets that “the WHO prematurely posted information regarding the study, which has since been removed” and emphasized that the researchers running the study “did not provide permission for publication of results.” She said the data are expected to be published in a peer-reviewed journal soon.

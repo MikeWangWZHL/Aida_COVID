@@ -1,0 +1,22 @@
+T1	ORG 50 64	Polygraph.info
+T2	PER 128 140	Daily Debunk
+T3	ORG 148 156	COVID-19
+T4	LOC 196 202	global
+T5	LOC 222 227	world
+T6	ORG 274 281	Reuters
+T7	ORG 345 353	Facebook
+T8	PER 372 378	person
+T9	GPE 382 388	Canada
+T10	PER 389 392	who
+T11	MHI 422 430	Covid-19
+T12	ORG 582 602	Agence France-Presse
+T13	ORG 672 678	Pfizer
+T14	LOC 710 715	world
+T15	ORG 750 756	Covid-
+T16	PER 820 828	minority
+T17	PER 832 838	people
+T18	GPE 897 903	Indian
+T19	GPE 904 910	states
+T20	PER 911 914	10%
+T21	PER 918 924	people
+T22	ORG 969 978	Economist

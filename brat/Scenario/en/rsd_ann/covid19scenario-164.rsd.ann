@@ -1,0 +1,28 @@
+T1	GPE 4 6	US
+T2	ORG 7 17	government
+T3	MHI 35 42	disease
+T4	PER 43 49	expert
+T5	PER 51 64	Anthony Fauci
+T6	ORG 119 138	Gilead Sciences Inc
+T7	PER 179 187	patients
+T8	PER 291 299	patients
+T9	ORG 305 308	FDA
+T10	ORG 326 332	Gilead
+T11	PER 392 398	people
+T12	PER 399 402	who
+T13	PER 418 423	Fauci
+T14	PER 1073 1078	their
+T15	PER 1226 1233	authors
+T16	PER 1265 1270	their
+T17	PER 1333 1337	they
+T18	PER 1368 1376	patients
+T19	GPE 1414 1419	China
+T20	PER 1421 1425	They
+T21	PER 1769 1777	patients
+T22	PER 1903 1911	patients
+T23	PER 2016 2019	our
+T24	PER 2152 2159	Bin Cao
+T25	ORG 2165 2196	China-Japan Friendship Hospital
+T26	ORG 2201 2227	Capital Medical University
+T27	GPE 2231 2236	China
+T28	PER 2238 2241	who

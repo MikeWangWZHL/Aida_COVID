@@ -1,0 +1,39 @@
+T1	GPE 0 7	Chinese
+T2	PER 8 19	authorities
+T3	PER 24 31	experts
+T4	MHI 76 87	coronavirus
+T5	PER 117 120	who
+T6	PER 125 132	patient
+T7	PER 186 193	patient
+T8	PER 236 241	human
+T9	MHI 275 282	disease
+T10	PER 394 399	those
+T11	PER 456 466	scientists
+T12	PER 480 491	individuals
+T13	PER 492 495	who
+T14	PER 520 526	people
+T15	MHI 550 557	disease
+T16	PER 599 602	who
+T17	PER 609 615	people
+T18	PER 727 733	people
+T19	PER 787 789	we
+T20	PER 795 798	who
+T21	PER 799 806	patient
+T22	ORG 822 842	Covid-19 coronavirus
+T23	GPE 868 873	China
+T24	GPE 901 908	Chinese
+T25	PER 909 920	authorities
+T26	MHI 1027 1036	pneumonia
+T27	FAC 1103 1109	market
+T28	GPE 1113 1118	Wuhan
+T29	GPE 1127 1141	Hubei province
+T30	PER 1143 1146	You
+T31	GPE 1243 1249	places
+T32	LOC 1250 1254	that
+T33	GPE 1263 1270	Spanish
+T34	MHI 1271 1274	flu
+T35	LOC 1280 1286	region
+T36	GPE 1383 1388	China
+T37	LOC 1393 1401	globally
+T38	GPE 1411 1415	here
+T39	ORG 1453 1477	Johns Hopkins University

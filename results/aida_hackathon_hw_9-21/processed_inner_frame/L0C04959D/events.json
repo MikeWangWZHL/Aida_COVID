@@ -1,0 +1,379 @@
+{
+    "EVL0C04959D.000001": {
+        "id": "EVL0C04959D.000001",
+        "type": "medical.intervention.cure",
+        "trigger": {
+            "offsets": [
+                36,
+                40
+            ],
+            "text": "kill"
+        },
+        "arguments": [
+            {
+                "role_type": "Instrument",
+                "general_role_type": "A3-mnr_X_instrument_treatment",
+                "arg_id": "ENL0C04959D.000025",
+                "arg_ann_id": "T25",
+                "arg_type_qnode": "EMPTY_NA"
+            },
+            {
+                "role_type": "MedicalIssue",
+                "general_role_type": "A2-ppt_Theme_illness_or_injury",
+                "arg_id": "ENL0C04959D.000027",
+                "arg_ann_id": "T27",
+                "arg_type_qnode": "EMPTY_NA"
+            }
+        ],
+        "event_ann_id": "E1",
+        "event_type_qnode": "Q1595418"
+    },
+    "EVL0C04959D.000002": {
+        "id": "EVL0C04959D.000002",
+        "type": "medical.intervention.cure",
+        "trigger": {
+            "offsets": [
+                98,
+                102
+            ],
+            "text": "beat"
+        },
+        "arguments": [
+            {
+                "role_type": "MedicalIssue",
+                "general_role_type": "A2-ppt_Theme_illness_or_injury",
+                "arg_id": "ENL0C04959D.000029",
+                "arg_ann_id": "T29",
+                "arg_type_qnode": "EMPTY_NA"
+            },
+            {
+                "role_type": "Instrument",
+                "general_role_type": "A3-mnr_X_instrument_treatment",
+                "arg_id": "ENL0C04959D.000030",
+                "arg_ann_id": "T30",
+                "arg_type_qnode": "EMPTY_NA"
+            }
+        ],
+        "event_ann_id": "E2",
+        "event_type_qnode": "Q1595418"
+    },
+    "EVL0C04959D.000003": {
+        "id": "EVL0C04959D.000003",
+        "type": "medical.intervention.cure",
+        "trigger": {
+            "offsets": [
+                585,
+                589
+            ],
+            "text": "beat"
+        },
+        "arguments": [
+            {
+                "role_type": "MedicalIssue",
+                "general_role_type": "A2-ppt_Theme_illness_or_injury",
+                "arg_id": "ENL0C04959D.000033",
+                "arg_ann_id": "T33",
+                "arg_type_qnode": "EMPTY_NA"
+            },
+            {
+                "role_type": "Instrument",
+                "general_role_type": "A3-mnr_X_instrument_treatment",
+                "arg_id": "ENL0C04959D.000035",
+                "arg_ann_id": "T35",
+                "arg_type_qnode": "EMPTY_NA"
+            }
+        ],
+        "event_ann_id": "E3",
+        "event_type_qnode": "Q1595418"
+    },
+    "EVL0C04959D.000004": {
+        "id": "EVL0C04959D.000004",
+        "type": "life.consume.unspecified",
+        "trigger": {
+            "offsets": [
+                607,
+                610
+            ],
+            "text": "eat"
+        },
+        "arguments": [
+            {
+                "role_type": "ConsumedThing",
+                "general_role_type": "A1-ppt_patient_entity_ingested",
+                "arg_id": "ENL0C04959D.000035",
+                "arg_ann_id": "T35",
+                "arg_type_qnode": "EMPTY_NA"
+            }
+        ],
+        "event_ann_id": "E4",
+        "event_type_qnode": "Q1663054"
+    },
+    "EVL0C04959D.000005": {
+        "id": "EVL0C04959D.000005",
+        "type": "contact.contact.broadcast",
+        "trigger": {
+            "offsets": [
+                495,
+                502
+            ],
+            "text": "alleged"
+        },
+        "arguments": [
+            {
+                "role_type": "Communicator",
+                "general_role_type": "A0-pag_agent_announcer",
+                "arg_id": "ENL0C04959D.000037",
+                "arg_ann_id": "T37",
+                "arg_type_qnode": "Q43229|Q215627|Q16334295"
+            },
+            {
+                "role_type": "Topic",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "EVL0C04959D.000003",
+                "arg_ann_id": "E3",
+                "arg_type_qnode": "Q11028"
+            },
+            {
+                "role_type": "Topic2",
+                "general_role_type": "A1-ppt_topic_utterance",
+                "arg_id": "EVL0C04959D.000004",
+                "arg_ann_id": "E4",
+                "arg_type_qnode": "Q11028"
+            }
+        ],
+        "event_ann_id": "E5",
+        "event_type_qnode": "Q567303"
+    },
+    "EVL0C04959D.000006": {
+        "id": "EVL0C04959D.000006",
+        "type": "disaster.diseaseoutbreak.unspecified",
+        "trigger": {
+            "offsets": [
+                260,
+                268
+            ],
+            "text": "pandemic"
+        },
+        "arguments": [
+            {
+                "role_type": "Disease",
+                "general_role_type": "A1-ppt_theme_disease",
+                "arg_id": "ENL0C04959D.000039",
+                "arg_ann_id": "T39",
+                "arg_type_qnode": "Q12136"
+            }
+        ],
+        "event_ann_id": "E6",
+        "event_type_qnode": "outbreak"
+    },
+    "EVL0C04959D.000007": {
+        "id": "EVL0C04959D.000007",
+        "type": "life.consume.unspecified",
+        "trigger": {
+            "offsets": [
+                1941,
+                1947
+            ],
+            "text": "Eating"
+        },
+        "arguments": [
+            {
+                "role_type": "ConsumedThing",
+                "general_role_type": "A1-ppt_patient_entity_ingested",
+                "arg_id": "ENL0C04959D.000040",
+                "arg_ann_id": "T40",
+                "arg_type_qnode": "EMPTY_NA"
+            }
+        ],
+        "event_ann_id": "E7",
+        "event_type_qnode": "Q1663054"
+    },
+    "EVL0C04959D.000008": {
+        "id": "EVL0C04959D.000008",
+        "type": "control.impedeinterferewith.prevent",
+        "trigger": {
+            "offsets": [
+                1984,
+                2002
+            ],
+            "text": "preventive measure"
+        },
+        "arguments": [
+            {
+                "role_type": "Prevented_Thing",
+                "general_role_type": "A1-ppt_theme_Theme",
+                "arg_id": "ENL0C04959D.000044",
+                "arg_ann_id": "T44",
+                "arg_type_qnode": "EMPTY_NA"
+            },
+            {
+                "role_type": "Preventer",
+                "general_role_type": "A0-pag_agent_Agent",
+                "arg_id": "EVL0C04959D.000007",
+                "arg_ann_id": "E7",
+                "arg_type_qnode": "Q215627|Q16334295"
+            }
+        ],
+        "event_ann_id": "E8",
+        "event_type_qnode": "Q1717246"
+    },
+    "EVL0C04959D.000009": {
+        "id": "EVL0C04959D.000009",
+        "type": "medical.intervention.cure",
+        "trigger": {
+            "offsets": [
+                2006,
+                2010
+            ],
+            "text": "cure"
+        },
+        "arguments": [
+            {
+                "role_type": "MedicalIssue",
+                "general_role_type": "A2-ppt_Theme_illness_or_injury",
+                "arg_id": "ENL0C04959D.000044",
+                "arg_ann_id": "T44",
+                "arg_type_qnode": "EMPTY_NA"
+            },
+            {
+                "role_type": "Instrument",
+                "general_role_type": "A3-mnr_X_instrument_treatment",
+                "arg_id": "ENL0C04959D.000040",
+                "arg_ann_id": "T40",
+                "arg_type_qnode": "EMPTY_NA"
+            }
+        ],
+        "event_ann_id": "E9",
+        "event_type_qnode": "Q1595418"
+    },
+    "EVL0C04959D.000010": {
+        "id": "EVL0C04959D.000010",
+        "type": "control.impedeinterferewith.prevent",
+        "trigger": {
+            "offsets": [
+                2630,
+                2637
+            ],
+            "text": "prevent"
+        },
+        "arguments": [
+            {
+                "role_type": "Preventer",
+                "general_role_type": "A0-pag_agent_Agent",
+                "arg_id": "EVL0C04959D.000011",
+                "arg_ann_id": "E11",
+                "arg_type_qnode": "Q215627|Q16334295"
+            },
+            {
+                "role_type": "Prevented_Thing",
+                "general_role_type": "A1-ppt_theme_Theme",
+                "arg_id": "EVL0C04959D.000012",
+                "arg_ann_id": "E12",
+                "arg_type_qnode": "EMPTY_NA"
+            }
+        ],
+        "event_ann_id": "E10",
+        "event_type_qnode": "Q1717246"
+    },
+    "EVL0C04959D.000011": {
+        "id": "EVL0C04959D.000011",
+        "type": "socialbehavior.complyobey.unspecified",
+        "trigger": {
+            "offsets": [
+                2657,
+                2684
+            ],
+            "text": "stay away from other people"
+        },
+        "arguments": [],
+        "event_ann_id": "E11",
+        "event_type_qnode": "Q1399332"
+    },
+    "EVL0C04959D.000012": {
+        "id": "EVL0C04959D.000012",
+        "type": "life.illness.unspecified",
+        "trigger": {
+            "offsets": [
+                2638,
+                2650
+            ],
+            "text": "getting sick"
+        },
+        "arguments": [],
+        "event_ann_id": "E12",
+        "event_type_qnode": "Q12136"
+    },
+    "EVL0C04959D.000013": {
+        "id": "EVL0C04959D.000013",
+        "type": "medical.intervention.cure",
+        "trigger": {
+            "offsets": [
+                2749,
+                2753
+            ],
+            "text": "beat"
+        },
+        "arguments": [
+            {
+                "role_type": "Instrument",
+                "general_role_type": "A3-mnr_X_instrument_treatment",
+                "arg_id": "ENL0C04959D.000050",
+                "arg_ann_id": "T50",
+                "arg_type_qnode": "EMPTY_NA"
+            },
+            {
+                "role_type": "MedicalIssue",
+                "general_role_type": "A2-ppt_Theme_illness_or_injury",
+                "arg_id": "ENL0C04959D.000049",
+                "arg_ann_id": "T49",
+                "arg_type_qnode": "EMPTY_NA"
+            }
+        ],
+        "event_ann_id": "E13",
+        "event_type_qnode": "Q1595418"
+    },
+    "EVL0C04959D.000014": {
+        "id": "EVL0C04959D.000014",
+        "type": "control.impedeinterferewith.prevent",
+        "trigger": {
+            "offsets": [
+                3075,
+                3085
+            ],
+            "text": "preventive"
+        },
+        "arguments": [
+            {
+                "role_type": "Prevented_Thing",
+                "general_role_type": "A1-ppt_theme_Theme",
+                "arg_id": "ENL0C04959D.000053",
+                "arg_ann_id": "T53",
+                "arg_type_qnode": "EMPTY_NA"
+            }
+        ],
+        "event_ann_id": "E14",
+        "event_type_qnode": "Q1717246"
+    },
+    "EVL0C04959D.000015": {
+        "id": "EVL0C04959D.000015",
+        "type": "medical.intervention.cure",
+        "trigger": {
+            "offsets": [
+                3098,
+                3103
+            ],
+            "text": "cures"
+        },
+        "arguments": [
+            {
+                "role_type": "MedicalIssue",
+                "general_role_type": "A2-ppt_Theme_illness_or_injury",
+                "arg_id": "ENL0C04959D.000053",
+                "arg_ann_id": "T53",
+                "arg_type_qnode": "EMPTY_NA"
+            }
+        ],
+        "event_ann_id": "E15",
+        "event_type_qnode": "Q1595418"
+    }
+}

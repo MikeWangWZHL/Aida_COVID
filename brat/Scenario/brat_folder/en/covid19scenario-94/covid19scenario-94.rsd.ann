@@ -1,0 +1,10 @@
+T1	ORG 11 16	COVID
+T2	GPE 158 164	nation
+T3	LOC 172 178	planet
+T4	LOC 275 281	global
+T5	ORG 351 362	governments
+T6	PER 387 393	actors
+T7	PER 408 417	activists
+T8	PER 466 471	their
+T9	ORG 500 529	Stanford Internet Observatory
+T10	ORG 647 655	COVID-19

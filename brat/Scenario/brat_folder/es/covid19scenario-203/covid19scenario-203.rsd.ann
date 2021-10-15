@@ -1,0 +1,36 @@
+T1	PER 0 10	Bill Gates
+T2	PER 52 54	lo
+T3	PER 105 115	cofundador
+T4	ORG 119 128	Microsoft
+T5	PER 130 133	los
+T6	PER 233 240	villano
+T7	PER 300 315	multimillonario
+T8	PER 318 328	filántropo
+T9	GPE 329 343	estadounidense
+T10	PER 344 354	Bill Gates
+T11	PER 355 357	se
+T12	PER 404 406	le
+T13	PER 470 472	su
+T14	PER 535 540	Gates
+T15	ORG 569 572	CNN
+T16	PER 577 579	su
+T17	ORG 580 589	fundación
+T18	ORG 676 688	organización
+T19	LOC 695 700	mundo
+T20	PER 734 745	partidarios
+T21	PER 821 828	magnate
+T22	PER 894 904	cofundador
+T23	ORG 908 917	Microsoft
+T24	PER 1015 1023	personas
+T25	LOC 1094 1099	mundo
+T26	PER 1117 1119	se
+T27	PER 1146 1153	villano
+T28	PER 1236 1251	multimillonario
+T29	PER 1447 1449	lo
+T30	PER 1571 1579	personas
+T31	PER 1750 1751	%
+T32	PER 1758 1767	población
+T33	PER 1778 1788	empresario
+T34	PER 1874 1876	te
+T35	PER 1905 1908	tus
+T36	PER 1909 1915	amigos

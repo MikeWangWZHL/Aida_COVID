@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-267">
+		<TEXT>
+			<SEG id="covid19scenario-267-0" start_char="0" end_char="131">
+				<ORIGINAL_TEXT>CLEVELAND, Ohio -- Casually picking up a package and bringing it into the house could pose a threat during the coronavirus pandemic.</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="8">CLEVELAND</TOKEN>
+				<TOKEN id="token-0-1" start_char="9" end_char="9">,</TOKEN>
+				<TOKEN id="token-0-2" start_char="11" end_char="14">Ohio</TOKEN>
+				<TOKEN id="token-0-3" start_char="16" end_char="17">--</TOKEN>
+				<TOKEN id="token-0-4" start_char="19" end_char="26">Casually</TOKEN>
+				<TOKEN id="token-0-5" start_char="28" end_char="34">picking</TOKEN>
+				<TOKEN id="token-0-6" start_char="36" end_char="37">up</TOKEN>
+				<TOKEN id="token-0-7" start_char="39" end_char="39">a</TOKEN>
+				<TOKEN id="token-0-8" start_char="41" end_char="47">package</TOKEN>
+				<TOKEN id="token-0-9" start_char="49" end_char="51">and</TOKEN>
+				<TOKEN id="token-0-10" start_char="53" end_char="60">bringing</TOKEN>
+				<TOKEN id="token-0-11" start_char="62" end_char="63">it</TOKEN>
+				<TOKEN id="token-0-12" start_char="65" end_char="68">into</TOKEN>
+				<TOKEN id="token-0-13" start_char="70" end_char="72">the</TOKEN>
+				<TOKEN id="token-0-14" start_char="74" end_char="78">house</TOKEN>
+				<TOKEN id="token-0-15" start_char="80" end_char="84">could</TOKEN>
+				<TOKEN id="token-0-16" start_char="86" end_char="89">pose</TOKEN>
+				<TOKEN id="token-0-17" start_char="91" end_char="91">a</TOKEN>
+				<TOKEN id="token-0-18" start_char="93" end_char="98">threat</TOKEN>
+				<TOKEN id="token-0-19" start_char="100" end_char="105">during</TOKEN>
+				<TOKEN id="token-0-20" start_char="107" end_char="109">the</TOKEN>
+				<TOKEN id="token-0-21" start_char="111" end_char="121">coronavirus</TOKEN>
+				<TOKEN id="token-0-22" start_char="123" end_char="130">pandemic</TOKEN>
+				<TOKEN id="token-0-23" start_char="131" end_char="131">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-267-1" start_char="133" end_char="203">
+				<ORIGINAL_TEXT>So how do you protect yourself when you’re ordering necessities online?</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="133" end_char="134">So</TOKEN>
+				<TOKEN id="token-1-1" start_char="136" end_char="138">how</TOKEN>
+				<TOKEN id="token-1-2" start_char="140" end_char="141">do</TOKEN>
+				<TOKEN id="token-1-3" start_char="143" end_char="145">you</TOKEN>
+				<TOKEN id="token-1-4" start_char="147" end_char="153">protect</TOKEN>
+				<TOKEN id="token-1-5" start_char="155" end_char="162">yourself</TOKEN>
+				<TOKEN id="token-1-6" start_char="164" end_char="167">when</TOKEN>
+				<TOKEN id="token-1-7" start_char="169" end_char="171">you</TOKEN>
+				<TOKEN id="token-1-8" start_char="172" end_char="172">’</TOKEN>
+				<TOKEN id="token-1-9" start_char="173" end_char="174">re</TOKEN>
+				<TOKEN id="token-1-10" start_char="176" end_char="183">ordering</TOKEN>
+				<TOKEN id="token-1-11" start_char="185" end_char="195">necessities</TOKEN>
+				<TOKEN id="token-1-12" start_char="197" end_char="202">online</TOKEN>
+				<TOKEN id="token-1-13" start_char="203" end_char="203">?</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-267-2" start_char="205" end_char="242">
+				<ORIGINAL_TEXT>It’s all about cleaning the packaging.</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="205" end_char="206">It</TOKEN>
+				<TOKEN id="token-2-1" start_char="207" end_char="207">’</TOKEN>
+				<TOKEN id="token-2-2" start_char="208" end_char="208">s</TOKEN>
+				<TOKEN id="token-2-3" start_char="210" end_char="212">all</TOKEN>
+				<TOKEN id="token-2-4" start_char="214" end_char="218">about</TOKEN>
+				<TOKEN id="token-2-5" start_char="220" end_char="227">cleaning</TOKEN>
+				<TOKEN id="token-2-6" start_char="229" end_char="231">the</TOKEN>
+				<TOKEN id="token-2-7" start_char="233" end_char="241">packaging</TOKEN>
+				<TOKEN id="token-2-8" start_char="242" end_char="242">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-267-3" start_char="244" end_char="400">
+				<ORIGINAL_TEXT>“One thing we have to realize is that there isn’t some kind of machine that is processing packages,” Case Western Reserve University’s Shanina Knighton said.</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="244" end_char="244">“</TOKEN>
+				<TOKEN id="token-3-1" start_char="245" end_char="247">One</TOKEN>
+				<TOKEN id="token-3-2" start_char="249" end_char="253">thing</TOKEN>
+				<TOKEN id="token-3-3" start_char="255" end_char="256">we</TOKEN>
+				<TOKEN id="token-3-4" start_char="258" end_char="261">have</TOKEN>
+				<TOKEN id="token-3-5" start_char="263" end_char="264">to</TOKEN>
+				<TOKEN id="token-3-6" start_char="266" end_char="272">realize</TOKEN>
+				<TOKEN id="token-3-7" start_char="274" end_char="275">is</TOKEN>
+				<TOKEN id="token-3-8" start_char="277" end_char="280">that</TOKEN>
+				<TOKEN id="token-3-9" start_char="282" end_char="286">there</TOKEN>
+				<TOKEN id="token-3-10" start_char="288" end_char="290">isn</TOKEN>
+				<TOKEN id="token-3-11" start_char="291" end_char="291">’</TOKEN>
+				<TOKEN id="token-3-12" start_char="292" end_char="292">t</TOKEN>
+				<TOKEN id="token-3-13" start_char="294" end_char="297">some</TOKEN>
+				<TOKEN id="token-3-14" start_char="299" end_char="302">kind</TOKEN>
+				<TOKEN id="token-3-15" start_char="304" end_char="305">of</TOKEN>
+				<TOKEN id="token-3-16" start_char="307" end_char="313">machine</TOKEN>
+				<TOKEN id="token-3-17" start_char="315" end_char="318">that</TOKEN>
+				<TOKEN id="token-3-18" start_char="320" end_char="321">is</TOKEN>
+				<TOKEN id="token-3-19" start_char="323" end_char="332">processing</TOKEN>
+				<TOKEN id="token-3-20" start_char="334" end_char="341">packages</TOKEN>
+				<TOKEN id="token-3-21" start_char="342" end_char="343">,”</TOKEN>
+				<TOKEN id="token-3-22" start_char="345" end_char="348">Case</TOKEN>
+				<TOKEN id="token-3-23" start_char="350" end_char="356">Western</TOKEN>
+				<TOKEN id="token-3-24" start_char="358" end_char="364">Reserve</TOKEN>
+				<TOKEN id="token-3-25" start_char="366" end_char="375">University</TOKEN>
+				<TOKEN id="token-3-26" start_char="376" end_char="376">’</TOKEN>
+				<TOKEN id="token-3-27" start_char="377" end_char="377">s</TOKEN>
+				<TOKEN id="token-3-28" start_char="379" end_char="385">Shanina</TOKEN>
+				<TOKEN id="token-3-29" start_char="387" end_char="394">Knighton</TOKEN>
+				<TOKEN id="token-3-30" start_char="396" end_char="399">said</TOKEN>
+				<TOKEN id="token-3-31" start_char="400" end_char="400">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-267-4" start_char="402" end_char="419">
+				<ORIGINAL_TEXT>“These are people.</ORIGINAL_TEXT>
+				<TOKEN id="token-4-0" start_char="402" end_char="402">“</TOKEN>
+				<TOKEN id="token-4-1" start_char="403" end_char="407">These</TOKEN>
+				<TOKEN id="token-4-2" start_char="409" end_char="411">are</TOKEN>
+				<TOKEN id="token-4-3" start_char="413" end_char="418">people</TOKEN>
+				<TOKEN id="token-4-4" start_char="419" end_char="419">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-267-5" start_char="421" end_char="541">
+				<ORIGINAL_TEXT>There are people that work inside of these warehouses, there are people that will come into contact with these packages.”</ORIGINAL_TEXT>
+				<TOKEN id="token-5-0" start_char="421" end_char="425">There</TOKEN>
+				<TOKEN id="token-5-1" start_char="427" end_char="429">are</TOKEN>
+				<TOKEN id="token-5-2" start_char="431" end_char="436">people</TOKEN>
+				<TOKEN id="token-5-3" start_char="438" end_char="441">that</TOKEN>
+				<TOKEN id="token-5-4" start_char="443" end_char="446">work</TOKEN>
+				<TOKEN id="token-5-5" start_char="448" end_char="453">inside</TOKEN>
+				<TOKEN id="token-5-6" start_char="455" end_char="456">of</TOKEN>
+				<TOKEN id="token-5-7" start_char="458" end_char="462">these</TOKEN>
+				<TOKEN id="token-5-8" start_char="464" end_char="473">warehouses</TOKEN>
+				<TOKEN id="token-5-9" start_char="474" end_char="474">,</TOKEN>
+				<TOKEN id="token-5-10" start_char="476" end_char="480">there</TOKEN>
+				<TOKEN id="token-5-11" start_char="482" end_char="484">are</TOKEN>
+				<TOKEN id="token-5-12" start_char="486" end_char="491">people</TOKEN>
+				<TOKEN id="token-5-13" start_char="493" end_char="496">that</TOKEN>
+				<TOKEN id="token-5-14" start_char="498" end_char="501">will</TOKEN>
+				<TOKEN id="token-5-15" start_char="503" end_char="506">come</TOKEN>
+				<TOKEN id="token-5-16" start_char="508" end_char="511">into</TOKEN>
+				<TOKEN id="token-5-17" start_char="513" end_char="519">contact</TOKEN>
+				<TOKEN id="token-5-18" start_char="521" end_char="524">with</TOKEN>
+				<TOKEN id="token-5-19" start_char="526" end_char="530">these</TOKEN>
+				<TOKEN id="token-5-20" start_char="532" end_char="539">packages</TOKEN>
+				<TOKEN id="token-5-21" start_char="540" end_char="541">.”</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-267-6" start_char="543" end_char="769">
+				<ORIGINAL_TEXT>Knighton, a nurse and researcher who studies hygiene, said the people who worked with these packages could be sick -- whether its with the flu or COVID-19 -- and taking the right precautions could help stop the spread of germs.</ORIGINAL_TEXT>
+				<TOKEN id="token-6-0" start_char="543" end_char="550">Knighton</TOKEN>
+				<TOKEN id="token-6-1" start_char="551" end_char="551">,</TOKEN>
+				<TOKEN id="token-6-2" start_char="553" end_char="553">a</TOKEN>
+				<TOKEN id="token-6-3" start_char="555" end_char="559">nurse</TOKEN>
+				<TOKEN id="token-6-4" start_char="561" end_char="563">and</TOKEN>
+				<TOKEN id="token-6-5" start_char="565" end_char="574">researcher</TOKEN>
+				<TOKEN id="token-6-6" start_char="576" end_char="578">who</TOKEN>
+				<TOKEN id="token-6-7" start_char="580" end_char="586">studies</TOKEN>
+				<TOKEN id="token-6-8" start_char="588" end_char="594">hygiene</TOKEN>
+				<TOKEN id="token-6-9" start_char="595" end_char="595">,</TOKEN>
+				<TOKEN id="token-6-10" start_char="597" end_char="600">said</TOKEN>
+				<TOKEN id="token-6-11" start_char="602" end_char="604">the</TOKEN>
+				<TOKEN id="token-6-12" start_char="606" end_char="611">people</TOKEN>
+				<TOKEN id="token-6-13" start_char="613" end_char="615">who</TOKEN>
+				<TOKEN id="token-6-14" start_char="617" end_char="622">worked</TOKEN>
+				<TOKEN id="token-6-15" start_char="624" end_char="627">with</TOKEN>
+				<TOKEN id="token-6-16" start_char="629" end_char="633">these</TOKEN>
+				<TOKEN id="token-6-17" start_char="635" end_char="642">packages</TOKEN>
+				<TOKEN id="token-6-18" start_char="644" end_char="648">could</TOKEN>
+				<TOKEN id="token-6-19" start_char="650" end_char="651">be</TOKEN>
+				<TOKEN id="token-6-20" start_char="653" end_char="656">sick</TOKEN>
+				<TOKEN id="token-6-21" start_char="658" end_char="659">--</TOKEN>
+				<TOKEN id="token-6-22" start_char="661" end_char="667">whether</TOKEN>
+				<TOKEN id="token-6-23" start_char="669" end_char="671">its</TOKEN>
+				<TOKEN id="token-6-24" start_char="673" end_char="676">with</TOKEN>
+				<TOKEN id="token-6-25" start_char="678" end_char="680">the</TOKEN>
+				<TOKEN id="token-6-26" start_char="682" end_char="684">flu</TOKEN>
+				<TOKEN id="token-6-27" start_char="686" end_char="687">or</TOKEN>
+				<TOKEN id="token-6-28" start_char="689" end_char="693">COVID</TOKEN>
+				<TOKEN id="token-6-29" start_char="694" end_char="694">-</TOKEN>
+				<TOKEN id="token-6-30" start_char="695" end_char="696">19</TOKEN>
+				<TOKEN id="token-6-31" start_char="698" end_char="699">--</TOKEN>
+				<TOKEN id="token-6-32" start_char="701" end_char="703">and</TOKEN>
+				<TOKEN id="token-6-33" start_char="705" end_char="710">taking</TOKEN>
+				<TOKEN id="token-6-34" start_char="712" end_char="714">the</TOKEN>
+				<TOKEN id="token-6-35" start_char="716" end_char="720">right</TOKEN>
+				<TOKEN id="token-6-36" start_char="722" end_char="732">precautions</TOKEN>
+				<TOKEN id="token-6-37" start_char="734" end_char="738">could</TOKEN>
+				<TOKEN id="token-6-38" start_char="740" end_char="743">help</TOKEN>
+				<TOKEN id="token-6-39" start_char="745" end_char="748">stop</TOKEN>
+				<TOKEN id="token-6-40" start_char="750" end_char="752">the</TOKEN>
+				<TOKEN id="token-6-41" start_char="754" end_char="759">spread</TOKEN>
+				<TOKEN id="token-6-42" start_char="761" end_char="762">of</TOKEN>
+				<TOKEN id="token-6-43" start_char="764" end_char="768">germs</TOKEN>
+				<TOKEN id="token-6-44" start_char="769" end_char="769">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-267-7" start_char="771" end_char="869">
+				<ORIGINAL_TEXT>Online retailers like Amazon have warned customers about delays in delivery because of coronavirus.</ORIGINAL_TEXT>
+				<TOKEN id="token-7-0" start_char="771" end_char="776">Online</TOKEN>
+				<TOKEN id="token-7-1" start_char="778" end_char="786">retailers</TOKEN>
+				<TOKEN id="token-7-2" start_char="788" end_char="791">like</TOKEN>
+				<TOKEN id="token-7-3" start_char="793" end_char="798">Amazon</TOKEN>
+				<TOKEN id="token-7-4" start_char="800" end_char="803">have</TOKEN>
+				<TOKEN id="token-7-5" start_char="805" end_char="810">warned</TOKEN>
+				<TOKEN id="token-7-6" start_char="812" end_char="820">customers</TOKEN>
+				<TOKEN id="token-7-7" start_char="822" end_char="826">about</TOKEN>
+				<TOKEN id="token-7-8" start_char="828" end_char="833">delays</TOKEN>
+				<TOKEN id="token-7-9" start_char="835" end_char="836">in</TOKEN>
+				<TOKEN id="token-7-10" start_char="838" end_char="845">delivery</TOKEN>
+				<TOKEN id="token-7-11" start_char="847" end_char="853">because</TOKEN>
+				<TOKEN id="token-7-12" start_char="855" end_char="856">of</TOKEN>
+				<TOKEN id="token-7-13" start_char="858" end_char="868">coronavirus</TOKEN>
+				<TOKEN id="token-7-14" start_char="869" end_char="869">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-267-8" start_char="871" end_char="1005">
+				<ORIGINAL_TEXT>At Amazon, the company has prioritized quick delivery and restock of household staples, sanitizers, baby formula, and medical supplies.</ORIGINAL_TEXT>
+				<TOKEN id="token-8-0" start_char="871" end_char="872">At</TOKEN>
+				<TOKEN id="token-8-1" start_char="874" end_char="879">Amazon</TOKEN>
+				<TOKEN id="token-8-2" start_char="880" end_char="880">,</TOKEN>
+				<TOKEN id="token-8-3" start_char="882" end_char="884">the</TOKEN>
+				<TOKEN id="token-8-4" start_char="886" end_char="892">company</TOKEN>
+				<TOKEN id="token-8-5" start_char="894" end_char="896">has</TOKEN>
+				<TOKEN id="token-8-6" start_char="898" end_char="908">prioritized</TOKEN>
+				<TOKEN id="token-8-7" start_char="910" end_char="914">quick</TOKEN>
+				<TOKEN id="token-8-8" start_char="916" end_char="923">delivery</TOKEN>
+				<TOKEN id="token-8-9" start_char="925" end_char="927">and</TOKEN>
+				<TOKEN id="token-8-10" start_char="929" end_char="935">restock</TOKEN>
+				<TOKEN id="token-8-11" start_char="937" end_char="938">of</TOKEN>
+				<TOKEN id="token-8-12" start_char="940" end_char="948">household</TOKEN>
+				<TOKEN id="token-8-13" start_char="950" end_char="956">staples</TOKEN>
+				<TOKEN id="token-8-14" start_char="957" end_char="957">,</TOKEN>
+				<TOKEN id="token-8-15" start_char="959" end_char="968">sanitizers</TOKEN>
+				<TOKEN id="token-8-16" start_char="969" end_char="969">,</TOKEN>
+				<TOKEN id="token-8-17" start_char="971" end_char="974">baby</TOKEN>
+				<TOKEN id="token-8-18" start_char="976" end_char="982">formula</TOKEN>
+				<TOKEN id="token-8-19" start_char="983" end_char="983">,</TOKEN>
+				<TOKEN id="token-8-20" start_char="985" end_char="987">and</TOKEN>
+				<TOKEN id="token-8-21" start_char="989" end_char="995">medical</TOKEN>
+				<TOKEN id="token-8-22" start_char="997" end_char="1004">supplies</TOKEN>
+				<TOKEN id="token-8-23" start_char="1005" end_char="1005">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-267-9" start_char="1007" end_char="1110">
+				<ORIGINAL_TEXT>UPS and FedEx both have stopped requiring signatures for package delivery to practice social distancing.</ORIGINAL_TEXT>
+				<TOKEN id="token-9-0" start_char="1007" end_char="1009">UPS</TOKEN>
+				<TOKEN id="token-9-1" start_char="1011" end_char="1013">and</TOKEN>
+				<TOKEN id="token-9-2" start_char="1015" end_char="1019">FedEx</TOKEN>
+				<TOKEN id="token-9-3" start_char="1021" end_char="1024">both</TOKEN>
+				<TOKEN id="token-9-4" start_char="1026" end_char="1029">have</TOKEN>
+				<TOKEN id="token-9-5" start_char="1031" end_char="1037">stopped</TOKEN>
+				<TOKEN id="token-9-6" start_char="1039" end_char="1047">requiring</TOKEN>
+				<TOKEN id="token-9-7" start_char="1049" end_char="1058">signatures</TOKEN>
+				<TOKEN id="token-9-8" start_char="1060" end_char="1062">for</TOKEN>
+				<TOKEN id="token-9-9" start_char="1064" end_char="1070">package</TOKEN>
+				<TOKEN id="token-9-10" start_char="1072" end_char="1079">delivery</TOKEN>
+				<TOKEN id="token-9-11" start_char="1081" end_char="1082">to</TOKEN>
+				<TOKEN id="token-9-12" start_char="1084" end_char="1091">practice</TOKEN>
+				<TOKEN id="token-9-13" start_char="1093" end_char="1098">social</TOKEN>
+				<TOKEN id="token-9-14" start_char="1100" end_char="1109">distancing</TOKEN>
+				<TOKEN id="token-9-15" start_char="1110" end_char="1110">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-267-10" start_char="1112" end_char="1231">
+				<ORIGINAL_TEXT>Preliminary research has shown that the virus can live on cardboard for up to 24 hours, and 3 days on plastic and steel.</ORIGINAL_TEXT>
+				<TOKEN id="token-10-0" start_char="1112" end_char="1122">Preliminary</TOKEN>
+				<TOKEN id="token-10-1" start_char="1124" end_char="1131">research</TOKEN>
+				<TOKEN id="token-10-2" start_char="1133" end_char="1135">has</TOKEN>
+				<TOKEN id="token-10-3" start_char="1137" end_char="1141">shown</TOKEN>
+				<TOKEN id="token-10-4" start_char="1143" end_char="1146">that</TOKEN>
+				<TOKEN id="token-10-5" start_char="1148" end_char="1150">the</TOKEN>
+				<TOKEN id="token-10-6" start_char="1152" end_char="1156">virus</TOKEN>
+				<TOKEN id="token-10-7" start_char="1158" end_char="1160">can</TOKEN>
+				<TOKEN id="token-10-8" start_char="1162" end_char="1165">live</TOKEN>
+				<TOKEN id="token-10-9" start_char="1167" end_char="1168">on</TOKEN>
+				<TOKEN id="token-10-10" start_char="1170" end_char="1178">cardboard</TOKEN>
+				<TOKEN id="token-10-11" start_char="1180" end_char="1182">for</TOKEN>
+				<TOKEN id="token-10-12" start_char="1184" end_char="1185">up</TOKEN>
+				<TOKEN id="token-10-13" start_char="1187" end_char="1188">to</TOKEN>
+				<TOKEN id="token-10-14" start_char="1190" end_char="1191">24</TOKEN>
+				<TOKEN id="token-10-15" start_char="1193" end_char="1197">hours</TOKEN>
+				<TOKEN id="token-10-16" start_char="1198" end_char="1198">,</TOKEN>
+				<TOKEN id="token-10-17" start_char="1200" end_char="1202">and</TOKEN>
+				<TOKEN id="token-10-18" start_char="1204" end_char="1204">3</TOKEN>
+				<TOKEN id="token-10-19" start_char="1206" end_char="1209">days</TOKEN>
+				<TOKEN id="token-10-20" start_char="1211" end_char="1212">on</TOKEN>
+				<TOKEN id="token-10-21" start_char="1214" end_char="1220">plastic</TOKEN>
+				<TOKEN id="token-10-22" start_char="1222" end_char="1224">and</TOKEN>
+				<TOKEN id="token-10-23" start_char="1226" end_char="1230">steel</TOKEN>
+				<TOKEN id="token-10-24" start_char="1231" end_char="1231">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-267-11" start_char="1233" end_char="1310">
+				<ORIGINAL_TEXT>Do you need to put on gloves before picking up these packages or opening them?</ORIGINAL_TEXT>
+				<TOKEN id="token-11-0" start_char="1233" end_char="1234">Do</TOKEN>
+				<TOKEN id="token-11-1" start_char="1236" end_char="1238">you</TOKEN>
+				<TOKEN id="token-11-2" start_char="1240" end_char="1243">need</TOKEN>
+				<TOKEN id="token-11-3" start_char="1245" end_char="1246">to</TOKEN>
+				<TOKEN id="token-11-4" start_char="1248" end_char="1250">put</TOKEN>
+				<TOKEN id="token-11-5" start_char="1252" end_char="1253">on</TOKEN>
+				<TOKEN id="token-11-6" start_char="1255" end_char="1260">gloves</TOKEN>
+				<TOKEN id="token-11-7" start_char="1262" end_char="1267">before</TOKEN>
+				<TOKEN id="token-11-8" start_char="1269" end_char="1275">picking</TOKEN>
+				<TOKEN id="token-11-9" start_char="1277" end_char="1278">up</TOKEN>
+				<TOKEN id="token-11-10" start_char="1280" end_char="1284">these</TOKEN>
+				<TOKEN id="token-11-11" start_char="1286" end_char="1293">packages</TOKEN>
+				<TOKEN id="token-11-12" start_char="1295" end_char="1296">or</TOKEN>
+				<TOKEN id="token-11-13" start_char="1298" end_char="1304">opening</TOKEN>
+				<TOKEN id="token-11-14" start_char="1306" end_char="1309">them</TOKEN>
+				<TOKEN id="token-11-15" start_char="1310" end_char="1310">?</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-267-12" start_char="1312" end_char="1328">
+				<ORIGINAL_TEXT>Knighton says no.</ORIGINAL_TEXT>
+				<TOKEN id="token-12-0" start_char="1312" end_char="1319">Knighton</TOKEN>
+				<TOKEN id="token-12-1" start_char="1321" end_char="1324">says</TOKEN>
+				<TOKEN id="token-12-2" start_char="1326" end_char="1327">no</TOKEN>
+				<TOKEN id="token-12-3" start_char="1328" end_char="1328">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-267-13" start_char="1330" end_char="1620">
+				<ORIGINAL_TEXT>Besides the fact that hospitals are struggling with a shortage of protective equipment due to the pandemic, often people at home don’t use them correctly: They don’t wash their hands before and after donning the gloves, put them on incorrectly or touch other things while wearing the gloves.</ORIGINAL_TEXT>
+				<TOKEN id="token-13-0" start_char="1330" end_char="1336">Besides</TOKEN>
+				<TOKEN id="token-13-1" start_char="1338" end_char="1340">the</TOKEN>
+				<TOKEN id="token-13-2" start_char="1342" end_char="1345">fact</TOKEN>
+				<TOKEN id="token-13-3" start_char="1347" end_char="1350">that</TOKEN>
+				<TOKEN id="token-13-4" start_char="1352" end_char="1360">hospitals</TOKEN>
+				<TOKEN id="token-13-5" start_char="1362" end_char="1364">are</TOKEN>
+				<TOKEN id="token-13-6" start_char="1366" end_char="1375">struggling</TOKEN>
+				<TOKEN id="token-13-7" start_char="1377" end_char="1380">with</TOKEN>
+				<TOKEN id="token-13-8" start_char="1382" end_char="1382">a</TOKEN>
+				<TOKEN id="token-13-9" start_char="1384" end_char="1391">shortage</TOKEN>
+				<TOKEN id="token-13-10" start_char="1393" end_char="1394">of</TOKEN>
+				<TOKEN id="token-13-11" start_char="1396" end_char="1405">protective</TOKEN>
+				<TOKEN id="token-13-12" start_char="1407" end_char="1415">equipment</TOKEN>
+				<TOKEN id="token-13-13" start_char="1417" end_char="1419">due</TOKEN>
+				<TOKEN id="token-13-14" start_char="1421" end_char="1422">to</TOKEN>
+				<TOKEN id="token-13-15" start_char="1424" end_char="1426">the</TOKEN>
+				<TOKEN id="token-13-16" start_char="1428" end_char="1435">pandemic</TOKEN>
+				<TOKEN id="token-13-17" start_char="1436" end_char="1436">,</TOKEN>
+				<TOKEN id="token-13-18" start_char="1438" end_char="1442">often</TOKEN>
+				<TOKEN id="token-13-19" start_char="1444" end_char="1449">people</TOKEN>
+				<TOKEN id="token-13-20" start_char="1451" end_char="1452">at</TOKEN>
+				<TOKEN id="token-13-21" start_char="1454" end_char="1457">home</TOKEN>
+				<TOKEN id="token-13-22" start_char="1459" end_char="1461">don</TOKEN>
+				<TOKEN id="token-13-23" start_char="1462" end_char="1462">’</TOKEN>
+				<TOKEN id="token-13-24" start_char="1463" end_char="1463">t</TOKEN>
+				<TOKEN id="token-13-25" start_char="1465" end_char="1467">use</TOKEN>
+				<TOKEN id="token-13-26" start_char="1469" end_char="1472">them</TOKEN>
+				<TOKEN id="token-13-27" start_char="1474" end_char="1482">correctly</TOKEN>
+				<TOKEN id="token-13-28" start_char="1483" end_char="1483">:</TOKEN>
+				<TOKEN id="token-13-29" start_char="1485" end_char="1488">They</TOKEN>
+				<TOKEN id="token-13-30" start_char="1490" end_char="1492">don</TOKEN>
+				<TOKEN id="token-13-31" start_char="1493" end_char="1493">’</TOKEN>
+				<TOKEN id="token-13-32" start_char="1494" end_char="1494">t</TOKEN>
+				<TOKEN id="token-13-33" start_char="1496" end_char="1499">wash</TOKEN>
+				<TOKEN id="token-13-34" start_char="1501" end_char="1505">their</TOKEN>
+				<TOKEN id="token-13-35" start_char="1507" end_char="1511">hands</TOKEN>
+				<TOKEN id="token-13-36" start_char="1513" end_char="1518">before</TOKEN>
+				<TOKEN id="token-13-37" start_char="1520" end_char="1522">and</TOKEN>
+				<TOKEN id="token-13-38" start_char="1524" end_char="1528">after</TOKEN>
+				<TOKEN id="token-13-39" start_char="1530" end_char="1536">donning</TOKEN>
+				<TOKEN id="token-13-40" start_char="1538" end_char="1540">the</TOKEN>
+				<TOKEN id="token-13-41" start_char="1542" end_char="1547">gloves</TOKEN>
+				<TOKEN id="token-13-42" start_char="1548" end_char="1548">,</TOKEN>
+				<TOKEN id="token-13-43" start_char="1550" end_char="1552">put</TOKEN>
+				<TOKEN id="token-13-44" start_char="1554" end_char="1557">them</TOKEN>
+				<TOKEN id="token-13-45" start_char="1559" end_char="1560">on</TOKEN>
+				<TOKEN id="token-13-46" start_char="1562" end_char="1572">incorrectly</TOKEN>
+				<TOKEN id="token-13-47" start_char="1574" end_char="1575">or</TOKEN>
+				<TOKEN id="token-13-48" start_char="1577" end_char="1581">touch</TOKEN>
+				<TOKEN id="token-13-49" start_char="1583" end_char="1587">other</TOKEN>
+				<TOKEN id="token-13-50" start_char="1589" end_char="1594">things</TOKEN>
+				<TOKEN id="token-13-51" start_char="1596" end_char="1600">while</TOKEN>
+				<TOKEN id="token-13-52" start_char="1602" end_char="1608">wearing</TOKEN>
+				<TOKEN id="token-13-53" start_char="1610" end_char="1612">the</TOKEN>
+				<TOKEN id="token-13-54" start_char="1614" end_char="1619">gloves</TOKEN>
+				<TOKEN id="token-13-55" start_char="1620" end_char="1620">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-267-14" start_char="1622" end_char="1653">
+				<ORIGINAL_TEXT>So how can you protect yourself?</ORIGINAL_TEXT>
+				<TOKEN id="token-14-0" start_char="1622" end_char="1623">So</TOKEN>
+				<TOKEN id="token-14-1" start_char="1625" end_char="1627">how</TOKEN>
+				<TOKEN id="token-14-2" start_char="1629" end_char="1631">can</TOKEN>
+				<TOKEN id="token-14-3" start_char="1633" end_char="1635">you</TOKEN>
+				<TOKEN id="token-14-4" start_char="1637" end_char="1643">protect</TOKEN>
+				<TOKEN id="token-14-5" start_char="1645" end_char="1652">yourself</TOKEN>
+				<TOKEN id="token-14-6" start_char="1653" end_char="1653">?</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-267-15" start_char="1655" end_char="1748">
+				<ORIGINAL_TEXT>Here are steps you can take to keep yourself safe, whether you’re buying toys or toilet paper.</ORIGINAL_TEXT>
+				<TOKEN id="token-15-0" start_char="1655" end_char="1658">Here</TOKEN>
+				<TOKEN id="token-15-1" start_char="1660" end_char="1662">are</TOKEN>
+				<TOKEN id="token-15-2" start_char="1664" end_char="1668">steps</TOKEN>
+				<TOKEN id="token-15-3" start_char="1670" end_char="1672">you</TOKEN>
+				<TOKEN id="token-15-4" start_char="1674" end_char="1676">can</TOKEN>
+				<TOKEN id="token-15-5" start_char="1678" end_char="1681">take</TOKEN>
+				<TOKEN id="token-15-6" start_char="1683" end_char="1684">to</TOKEN>
+				<TOKEN id="token-15-7" start_char="1686" end_char="1689">keep</TOKEN>
+				<TOKEN id="token-15-8" start_char="1691" end_char="1698">yourself</TOKEN>
+				<TOKEN id="token-15-9" start_char="1700" end_char="1703">safe</TOKEN>
+				<TOKEN id="token-15-10" start_char="1704" end_char="1704">,</TOKEN>
+				<TOKEN id="token-15-11" start_char="1706" end_char="1712">whether</TOKEN>
+				<TOKEN id="token-15-12" start_char="1714" end_char="1716">you</TOKEN>
+				<TOKEN id="token-15-13" start_char="1717" end_char="1717">’</TOKEN>
+				<TOKEN id="token-15-14" start_char="1718" end_char="1719">re</TOKEN>
+				<TOKEN id="token-15-15" start_char="1721" end_char="1726">buying</TOKEN>
+				<TOKEN id="token-15-16" start_char="1728" end_char="1731">toys</TOKEN>
+				<TOKEN id="token-15-17" start_char="1733" end_char="1734">or</TOKEN>
+				<TOKEN id="token-15-18" start_char="1736" end_char="1741">toilet</TOKEN>
+				<TOKEN id="token-15-19" start_char="1743" end_char="1747">paper</TOKEN>
+				<TOKEN id="token-15-20" start_char="1748" end_char="1748">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-267-16" start_char="1750" end_char="1801">
+				<ORIGINAL_TEXT>Step 1: Designate a delivery zone outside the house.</ORIGINAL_TEXT>
+				<TOKEN id="token-16-0" start_char="1750" end_char="1753">Step</TOKEN>
+				<TOKEN id="token-16-1" start_char="1755" end_char="1755">1</TOKEN>
+				<TOKEN id="token-16-2" start_char="1756" end_char="1756">:</TOKEN>
+				<TOKEN id="token-16-3" start_char="1758" end_char="1766">Designate</TOKEN>
+				<TOKEN id="token-16-4" start_char="1768" end_char="1768">a</TOKEN>
+				<TOKEN id="token-16-5" start_char="1770" end_char="1777">delivery</TOKEN>
+				<TOKEN id="token-16-6" start_char="1779" end_char="1782">zone</TOKEN>
+				<TOKEN id="token-16-7" start_char="1784" end_char="1790">outside</TOKEN>
+				<TOKEN id="token-16-8" start_char="1792" end_char="1794">the</TOKEN>
+				<TOKEN id="token-16-9" start_char="1796" end_char="1800">house</TOKEN>
+				<TOKEN id="token-16-10" start_char="1801" end_char="1801">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-267-17" start_char="1803" end_char="1863">
+				<ORIGINAL_TEXT>Maybe it’s a crate or a mat with a sign for delivery workers.</ORIGINAL_TEXT>
+				<TOKEN id="token-17-0" start_char="1803" end_char="1807">Maybe</TOKEN>
+				<TOKEN id="token-17-1" start_char="1809" end_char="1810">it</TOKEN>
+				<TOKEN id="token-17-2" start_char="1811" end_char="1811">’</TOKEN>
+				<TOKEN id="token-17-3" start_char="1812" end_char="1812">s</TOKEN>
+				<TOKEN id="token-17-4" start_char="1814" end_char="1814">a</TOKEN>
+				<TOKEN id="token-17-5" start_char="1816" end_char="1820">crate</TOKEN>
+				<TOKEN id="token-17-6" start_char="1822" end_char="1823">or</TOKEN>
+				<TOKEN id="token-17-7" start_char="1825" end_char="1825">a</TOKEN>
+				<TOKEN id="token-17-8" start_char="1827" end_char="1829">mat</TOKEN>
+				<TOKEN id="token-17-9" start_char="1831" end_char="1834">with</TOKEN>
+				<TOKEN id="token-17-10" start_char="1836" end_char="1836">a</TOKEN>
+				<TOKEN id="token-17-11" start_char="1838" end_char="1841">sign</TOKEN>
+				<TOKEN id="token-17-12" start_char="1843" end_char="1845">for</TOKEN>
+				<TOKEN id="token-17-13" start_char="1847" end_char="1854">delivery</TOKEN>
+				<TOKEN id="token-17-14" start_char="1856" end_char="1862">workers</TOKEN>
+				<TOKEN id="token-17-15" start_char="1863" end_char="1863">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-267-18" start_char="1865" end_char="1938">
+				<ORIGINAL_TEXT>This way you know where package is and you can limit face-to-face contact.</ORIGINAL_TEXT>
+				<TOKEN id="token-18-0" start_char="1865" end_char="1868">This</TOKEN>
+				<TOKEN id="token-18-1" start_char="1870" end_char="1872">way</TOKEN>
+				<TOKEN id="token-18-2" start_char="1874" end_char="1876">you</TOKEN>
+				<TOKEN id="token-18-3" start_char="1878" end_char="1881">know</TOKEN>
+				<TOKEN id="token-18-4" start_char="1883" end_char="1887">where</TOKEN>
+				<TOKEN id="token-18-5" start_char="1889" end_char="1895">package</TOKEN>
+				<TOKEN id="token-18-6" start_char="1897" end_char="1898">is</TOKEN>
+				<TOKEN id="token-18-7" start_char="1900" end_char="1902">and</TOKEN>
+				<TOKEN id="token-18-8" start_char="1904" end_char="1906">you</TOKEN>
+				<TOKEN id="token-18-9" start_char="1908" end_char="1910">can</TOKEN>
+				<TOKEN id="token-18-10" start_char="1912" end_char="1916">limit</TOKEN>
+				<TOKEN id="token-18-11" start_char="1918" end_char="1921">face</TOKEN>
+				<TOKEN id="token-18-12" start_char="1922" end_char="1922">-</TOKEN>
+				<TOKEN id="token-18-13" start_char="1923" end_char="1924">to</TOKEN>
+				<TOKEN id="token-18-14" start_char="1925" end_char="1925">-</TOKEN>
+				<TOKEN id="token-18-15" start_char="1926" end_char="1929">face</TOKEN>
+				<TOKEN id="token-18-16" start_char="1931" end_char="1937">contact</TOKEN>
+				<TOKEN id="token-18-17" start_char="1938" end_char="1938">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-267-19" start_char="1940" end_char="2073">
+				<ORIGINAL_TEXT>Step 2: Bring a disinfectant wipe, spray or wet rag with sanitizer on it to quickly wipe the box or package before bringing it inside.</ORIGINAL_TEXT>
+				<TOKEN id="token-19-0" start_char="1940" end_char="1943">Step</TOKEN>
+				<TOKEN id="token-19-1" start_char="1945" end_char="1945">2</TOKEN>
+				<TOKEN id="token-19-2" start_char="1946" end_char="1946">:</TOKEN>
+				<TOKEN id="token-19-3" start_char="1948" end_char="1952">Bring</TOKEN>
+				<TOKEN id="token-19-4" start_char="1954" end_char="1954">a</TOKEN>
+				<TOKEN id="token-19-5" start_char="1956" end_char="1967">disinfectant</TOKEN>
+				<TOKEN id="token-19-6" start_char="1969" end_char="1972">wipe</TOKEN>
+				<TOKEN id="token-19-7" start_char="1973" end_char="1973">,</TOKEN>
+				<TOKEN id="token-19-8" start_char="1975" end_char="1979">spray</TOKEN>
+				<TOKEN id="token-19-9" start_char="1981" end_char="1982">or</TOKEN>
+				<TOKEN id="token-19-10" start_char="1984" end_char="1986">wet</TOKEN>
+				<TOKEN id="token-19-11" start_char="1988" end_char="1990">rag</TOKEN>
+				<TOKEN id="token-19-12" start_char="1992" end_char="1995">with</TOKEN>
+				<TOKEN id="token-19-13" start_char="1997" end_char="2005">sanitizer</TOKEN>
+				<TOKEN id="token-19-14" start_char="2007" end_char="2008">on</TOKEN>
+				<TOKEN id="token-19-15" start_char="2010" end_char="2011">it</TOKEN>
+				<TOKEN id="token-19-16" start_char="2013" end_char="2014">to</TOKEN>
+				<TOKEN id="token-19-17" start_char="2016" end_char="2022">quickly</TOKEN>
+				<TOKEN id="token-19-18" start_char="2024" end_char="2027">wipe</TOKEN>
+				<TOKEN id="token-19-19" start_char="2029" end_char="2031">the</TOKEN>
+				<TOKEN id="token-19-20" start_char="2033" end_char="2035">box</TOKEN>
+				<TOKEN id="token-19-21" start_char="2037" end_char="2038">or</TOKEN>
+				<TOKEN id="token-19-22" start_char="2040" end_char="2046">package</TOKEN>
+				<TOKEN id="token-19-23" start_char="2048" end_char="2053">before</TOKEN>
+				<TOKEN id="token-19-24" start_char="2055" end_char="2062">bringing</TOKEN>
+				<TOKEN id="token-19-25" start_char="2064" end_char="2065">it</TOKEN>
+				<TOKEN id="token-19-26" start_char="2067" end_char="2072">inside</TOKEN>
+				<TOKEN id="token-19-27" start_char="2073" end_char="2073">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-267-20" start_char="2075" end_char="2125">
+				<ORIGINAL_TEXT>Or, open the box outside and discard the packaging.</ORIGINAL_TEXT>
+				<TOKEN id="token-20-0" start_char="2075" end_char="2076">Or</TOKEN>
+				<TOKEN id="token-20-1" start_char="2077" end_char="2077">,</TOKEN>
+				<TOKEN id="token-20-2" start_char="2079" end_char="2082">open</TOKEN>
+				<TOKEN id="token-20-3" start_char="2084" end_char="2086">the</TOKEN>
+				<TOKEN id="token-20-4" start_char="2088" end_char="2090">box</TOKEN>
+				<TOKEN id="token-20-5" start_char="2092" end_char="2098">outside</TOKEN>
+				<TOKEN id="token-20-6" start_char="2100" end_char="2102">and</TOKEN>
+				<TOKEN id="token-20-7" start_char="2104" end_char="2110">discard</TOKEN>
+				<TOKEN id="token-20-8" start_char="2112" end_char="2114">the</TOKEN>
+				<TOKEN id="token-20-9" start_char="2116" end_char="2124">packaging</TOKEN>
+				<TOKEN id="token-20-10" start_char="2125" end_char="2125">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-267-21" start_char="2127" end_char="2207">
+				<ORIGINAL_TEXT>(Remember: Don’t touch your face with your hands until you’ve washed your hands.)</ORIGINAL_TEXT>
+				<TOKEN id="token-21-0" start_char="2127" end_char="2127">(</TOKEN>
+				<TOKEN id="token-21-1" start_char="2128" end_char="2135">Remember</TOKEN>
+				<TOKEN id="token-21-2" start_char="2136" end_char="2136">:</TOKEN>
+				<TOKEN id="token-21-3" start_char="2138" end_char="2140">Don</TOKEN>
+				<TOKEN id="token-21-4" start_char="2141" end_char="2141">’</TOKEN>
+				<TOKEN id="token-21-5" start_char="2142" end_char="2142">t</TOKEN>
+				<TOKEN id="token-21-6" start_char="2144" end_char="2148">touch</TOKEN>
+				<TOKEN id="token-21-7" start_char="2150" end_char="2153">your</TOKEN>
+				<TOKEN id="token-21-8" start_char="2155" end_char="2158">face</TOKEN>
+				<TOKEN id="token-21-9" start_char="2160" end_char="2163">with</TOKEN>
+				<TOKEN id="token-21-10" start_char="2165" end_char="2168">your</TOKEN>
+				<TOKEN id="token-21-11" start_char="2170" end_char="2174">hands</TOKEN>
+				<TOKEN id="token-21-12" start_char="2176" end_char="2180">until</TOKEN>
+				<TOKEN id="token-21-13" start_char="2182" end_char="2184">you</TOKEN>
+				<TOKEN id="token-21-14" start_char="2185" end_char="2185">’</TOKEN>
+				<TOKEN id="token-21-15" start_char="2186" end_char="2187">ve</TOKEN>
+				<TOKEN id="token-21-16" start_char="2189" end_char="2194">washed</TOKEN>
+				<TOKEN id="token-21-17" start_char="2196" end_char="2199">your</TOKEN>
+				<TOKEN id="token-21-18" start_char="2201" end_char="2205">hands</TOKEN>
+				<TOKEN id="token-21-19" start_char="2206" end_char="2207">.)</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-267-22" start_char="2209" end_char="2302">
+				<ORIGINAL_TEXT>Step 3: Designate a particular surface where you open packages, if you choose to do so inside.</ORIGINAL_TEXT>
+				<TOKEN id="token-22-0" start_char="2209" end_char="2212">Step</TOKEN>
+				<TOKEN id="token-22-1" start_char="2214" end_char="2214">3</TOKEN>
+				<TOKEN id="token-22-2" start_char="2215" end_char="2215">:</TOKEN>
+				<TOKEN id="token-22-3" start_char="2217" end_char="2225">Designate</TOKEN>
+				<TOKEN id="token-22-4" start_char="2227" end_char="2227">a</TOKEN>
+				<TOKEN id="token-22-5" start_char="2229" end_char="2238">particular</TOKEN>
+				<TOKEN id="token-22-6" start_char="2240" end_char="2246">surface</TOKEN>
+				<TOKEN id="token-22-7" start_char="2248" end_char="2252">where</TOKEN>
+				<TOKEN id="token-22-8" start_char="2254" end_char="2256">you</TOKEN>
+				<TOKEN id="token-22-9" start_char="2258" end_char="2261">open</TOKEN>
+				<TOKEN id="token-22-10" start_char="2263" end_char="2270">packages</TOKEN>
+				<TOKEN id="token-22-11" start_char="2271" end_char="2271">,</TOKEN>
+				<TOKEN id="token-22-12" start_char="2273" end_char="2274">if</TOKEN>
+				<TOKEN id="token-22-13" start_char="2276" end_char="2278">you</TOKEN>
+				<TOKEN id="token-22-14" start_char="2280" end_char="2285">choose</TOKEN>
+				<TOKEN id="token-22-15" start_char="2287" end_char="2288">to</TOKEN>
+				<TOKEN id="token-22-16" start_char="2290" end_char="2291">do</TOKEN>
+				<TOKEN id="token-22-17" start_char="2293" end_char="2294">so</TOKEN>
+				<TOKEN id="token-22-18" start_char="2296" end_char="2301">inside</TOKEN>
+				<TOKEN id="token-22-19" start_char="2302" end_char="2302">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-267-23" start_char="2304" end_char="2357">
+				<ORIGINAL_TEXT>A hard surface which can be sanitized easily is ideal.</ORIGINAL_TEXT>
+				<TOKEN id="token-23-0" start_char="2304" end_char="2304">A</TOKEN>
+				<TOKEN id="token-23-1" start_char="2306" end_char="2309">hard</TOKEN>
+				<TOKEN id="token-23-2" start_char="2311" end_char="2317">surface</TOKEN>
+				<TOKEN id="token-23-3" start_char="2319" end_char="2323">which</TOKEN>
+				<TOKEN id="token-23-4" start_char="2325" end_char="2327">can</TOKEN>
+				<TOKEN id="token-23-5" start_char="2329" end_char="2330">be</TOKEN>
+				<TOKEN id="token-23-6" start_char="2332" end_char="2340">sanitized</TOKEN>
+				<TOKEN id="token-23-7" start_char="2342" end_char="2347">easily</TOKEN>
+				<TOKEN id="token-23-8" start_char="2349" end_char="2350">is</TOKEN>
+				<TOKEN id="token-23-9" start_char="2352" end_char="2356">ideal</TOKEN>
+				<TOKEN id="token-23-10" start_char="2357" end_char="2357">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-267-24" start_char="2359" end_char="2441">
+				<ORIGINAL_TEXT>Knighton said this way, you know exactly which surface you need to regularly clean.</ORIGINAL_TEXT>
+				<TOKEN id="token-24-0" start_char="2359" end_char="2366">Knighton</TOKEN>
+				<TOKEN id="token-24-1" start_char="2368" end_char="2371">said</TOKEN>
+				<TOKEN id="token-24-2" start_char="2373" end_char="2376">this</TOKEN>
+				<TOKEN id="token-24-3" start_char="2378" end_char="2380">way</TOKEN>
+				<TOKEN id="token-24-4" start_char="2381" end_char="2381">,</TOKEN>
+				<TOKEN id="token-24-5" start_char="2383" end_char="2385">you</TOKEN>
+				<TOKEN id="token-24-6" start_char="2387" end_char="2390">know</TOKEN>
+				<TOKEN id="token-24-7" start_char="2392" end_char="2398">exactly</TOKEN>
+				<TOKEN id="token-24-8" start_char="2400" end_char="2404">which</TOKEN>
+				<TOKEN id="token-24-9" start_char="2406" end_char="2412">surface</TOKEN>
+				<TOKEN id="token-24-10" start_char="2414" end_char="2416">you</TOKEN>
+				<TOKEN id="token-24-11" start_char="2418" end_char="2421">need</TOKEN>
+				<TOKEN id="token-24-12" start_char="2423" end_char="2424">to</TOKEN>
+				<TOKEN id="token-24-13" start_char="2426" end_char="2434">regularly</TOKEN>
+				<TOKEN id="token-24-14" start_char="2436" end_char="2440">clean</TOKEN>
+				<TOKEN id="token-24-15" start_char="2441" end_char="2441">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-267-25" start_char="2443" end_char="2549">
+				<ORIGINAL_TEXT>Step 4: Wipe down the next layer of plastic or box with sanitizer before putting the item away or using it.</ORIGINAL_TEXT>
+				<TOKEN id="token-25-0" start_char="2443" end_char="2446">Step</TOKEN>
+				<TOKEN id="token-25-1" start_char="2448" end_char="2448">4</TOKEN>
+				<TOKEN id="token-25-2" start_char="2449" end_char="2449">:</TOKEN>
+				<TOKEN id="token-25-3" start_char="2451" end_char="2454">Wipe</TOKEN>
+				<TOKEN id="token-25-4" start_char="2456" end_char="2459">down</TOKEN>
+				<TOKEN id="token-25-5" start_char="2461" end_char="2463">the</TOKEN>
+				<TOKEN id="token-25-6" start_char="2465" end_char="2468">next</TOKEN>
+				<TOKEN id="token-25-7" start_char="2470" end_char="2474">layer</TOKEN>
+				<TOKEN id="token-25-8" start_char="2476" end_char="2477">of</TOKEN>
+				<TOKEN id="token-25-9" start_char="2479" end_char="2485">plastic</TOKEN>
+				<TOKEN id="token-25-10" start_char="2487" end_char="2488">or</TOKEN>
+				<TOKEN id="token-25-11" start_char="2490" end_char="2492">box</TOKEN>
+				<TOKEN id="token-25-12" start_char="2494" end_char="2497">with</TOKEN>
+				<TOKEN id="token-25-13" start_char="2499" end_char="2507">sanitizer</TOKEN>
+				<TOKEN id="token-25-14" start_char="2509" end_char="2514">before</TOKEN>
+				<TOKEN id="token-25-15" start_char="2516" end_char="2522">putting</TOKEN>
+				<TOKEN id="token-25-16" start_char="2524" end_char="2526">the</TOKEN>
+				<TOKEN id="token-25-17" start_char="2528" end_char="2531">item</TOKEN>
+				<TOKEN id="token-25-18" start_char="2533" end_char="2536">away</TOKEN>
+				<TOKEN id="token-25-19" start_char="2538" end_char="2539">or</TOKEN>
+				<TOKEN id="token-25-20" start_char="2541" end_char="2545">using</TOKEN>
+				<TOKEN id="token-25-21" start_char="2547" end_char="2548">it</TOKEN>
+				<TOKEN id="token-25-22" start_char="2549" end_char="2549">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-267-26" start_char="2551" end_char="2574">
+				<ORIGINAL_TEXT>Step 5: Wash your hands.</ORIGINAL_TEXT>
+				<TOKEN id="token-26-0" start_char="2551" end_char="2554">Step</TOKEN>
+				<TOKEN id="token-26-1" start_char="2556" end_char="2556">5</TOKEN>
+				<TOKEN id="token-26-2" start_char="2557" end_char="2557">:</TOKEN>
+				<TOKEN id="token-26-3" start_char="2559" end_char="2562">Wash</TOKEN>
+				<TOKEN id="token-26-4" start_char="2564" end_char="2567">your</TOKEN>
+				<TOKEN id="token-26-5" start_char="2569" end_char="2573">hands</TOKEN>
+				<TOKEN id="token-26-6" start_char="2574" end_char="2574">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

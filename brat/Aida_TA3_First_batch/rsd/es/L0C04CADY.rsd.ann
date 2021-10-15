@@ -1,0 +1,50 @@
+T1	ORG 35 43	gobierno
+T2	PER 233 240	mayoría
+T3	PER 248 258	ciudadanos
+T4	LOC 333 343	territorio
+T5	ORG 379 406	presidencia de la República
+T6	ORG 461 467	grupos
+T7	ORG 471 479	Facebook
+T8	PER 486 497	Colombianos
+T9	GPE 501 507	Panama
+T10	PER 518 529	Venezolanos
+T11	GPE 533 541	Medellín
+T12	PER 601 609	usuarios
+T13	PER 642 649	algunos
+T14	ORG 688 696	gobierno
+T15	ORG 755 762	gremios
+T16	PER 813 818	otros
+T17	ORG 876 885	El Tiempo
+T18	ORG 989 1008	Ministerio de Salud
+T19	ORG 1012 1015	sus
+T20	ORG 1053 1061	Gobierno
+T21	LOC 1118 1123	parte
+T22	LOC 1128 1138	territorio
+T23	ORG 1259 1267	Gobierno
+T24	LOC 1324 1329	parte
+T25	LOC 1334 1344	territorio
+T26	ORG 1471 1483	@MinSaludCol
+T27	ORG 1513 1524	MinSaludCol
+T28	ORG 1527 1538	MinSaludCol
+T29	PER 1786 1804	Felipe Coral Duque
+T30	PER 1810 1823	representante
+T31	PER 1849 1854	Duque
+T32	ORG 1861 1876	Junta Directiva
+T33	ORG 1880 1889	Metroplús
+T34	ORG 1894 1901	empresa
+T35	LOC 2024 2039	Valle de Aburrá
+T36	PER 2075 2089	representantes
+T37	PER 2357 2362	Duque
+T38	ORG 2436 2444	WhatsApp
+T39	ORG 2496 2513	Gobierno Nacional
+T40	PER 2671 2676	Duque
+T41	GPE 3031 3041	municipios
+T42	PER 3082 3089	alcalde
+T43	ORG 3137 3171	Ministerio del Interior y de Salud
+T44	FAC 3210 3215	bares
+T45	FAC 3217 3227	discotecas
+T46	LOC 3230 3237	lugares
+T47	LOC 3289 3297	espacios
+T48	LOC 3309 3325	establecimientos
+T49	ORG 3359 3376	Gobierno Nacional
+T50	GPE 3509 3513	país

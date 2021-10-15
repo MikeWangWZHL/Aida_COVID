@@ -1,0 +1,64 @@
+The race is on to find a cure for Covid-19.
+Researchers are testing new vaccines, resurrecting old drugs, and repurposing treatments originally developed for other diseases.
+Things are moving fast; by the time you read this, the situation may have changed (for the better, we hope).
+So how are scientists thinking they'll fend off this tiny viral adversary?
+Here are a few lines of attack.
+May 2020.
+Subscribe to WIRED.
+Illustration: Zohar Lazar
+
+Lock It Out
+
+Each particle of the new virus, SARS-CoV-2, is studded with spikes, which allow it to attach itself to a human cell, poke a hole, and burrow inside.
+Like the germ that caused the SARS epidemic in 2003, it sticks to a protein on human cells called ACE2, which is especially prevalent in the lungs and small intestine.
+(SARS-CoV-2 is at least 10 times stickier than its cousin, which may account for its rapid spread.)
+One way to stop the invader is to keep it from attaching in the first place.
+This is what your immune system tries to do—it sends out antibodies that gum up the spikes so the virus can't stick to ACE2.
+But there are other ways of achieving the same effect.
+1.
+Make a vaccine.
+For powerful, long-lasting immunity, a so-called live attenuated vaccine is the gold standard.
+It contains a defanged version of the virus that your immune system can use for target practice—but it can also cause infection.
+That's why many researchers are working on vaccines that contain not the whole virus but just the outer spikes.
+Mixed with immune-boosting molecules called adjuvants, they'll elicit a safe antibody response.
+2.
+Take antibody-rich blood plasma from people who have survived Covid-19 and inject it into newly infected or at-risk patients.
+Plasma won't teach the body how to fend off the virus, and one injection won't last forever—but it could be a good way to prepare health workers before they head to a hot spot.
+3.
+Flood the zone with decoys—synthetic molecules that look like ACE2 and trick the virus into binding with them instead, protecting lung cells from damage.
+4.
+Invent drugs that hinder ACE2 from binding with the virus.
+In theory, these compounds would work on both SARS and Covid-19, stopping the viruses from sticking to cells.
+But ACE2 plays a number of other roles throughout the body; it helps regulate blood pressure, kidney function, and even fertility.
+Messing with it could have dangerous consequences.
+Kill It on Contact
+
+All viruses wear heavy-duty protein coats to protect their precious genetic material from the elements.
+The new coronavirus sports an extra outer layer of fatty molecules.
+That's great news for humans, because it's easy to tear open with soap or alcohol-based disinfectants.
+(Soap works best, and you don't need to bother with the antibacterial stuff.)
+Without its fatty layer, the virus dies.
+Wipe it away or wash it down the drain.
+How Long Does the Coronavirus Live on Surfaces?
+Plus: What it means to “flatten the curve,” and everything else you need to know about the coronavirus.
+Sabotage It From the Inside
+
+A virus's sole purpose in life is to hijack the machinery of its host cell and force it to make viral copies.
+By changing how that machinery operates, it's possible to stymie the virus's attempts.
+Drugs that were developed to fight other ailments could have off-label applications for Covid-19.
+1.
+Chloroquine phosphate, used for decades to treat malaria, changes the pH level in human cells, making them less acidic—and less hospitable to certain viruses.
+Researchers are exploring whether SARS-CoV-2 might be one of them.
+Chloroquine can also reduce the lung inflammation that kills some patients with severe Covid-19 infection.
+One problem: An overdose can be fatal.
+2.
+A class of drugs called protease inhibitors, long used to treat HIV and hepatitis C, disrupt the viral replication process.
+Proteases are like molecular scissors; once inside the host cell, SARS-CoV-2 uses them to slice long strands of protein into usable chunks.
+Without these scissors, the virus's life cycle can't continue.
+3.
+Another class of medications targets an enzyme called polymerase, which strings together copies of the virus's genetic material, RNA, inside the host cell.
+Two promising candidates in this category—remdesivir, originally developed to treat Ebola, and favipiravir, first deployed against the flu—impersonate the building blocks of RNA and get incorporated into the chain.
+Once they're there, the polymerase can't add new pieces, and replication halts.
+This article appears in the May issue.
+Subscribe now.
+More From WIRED on Covid-19

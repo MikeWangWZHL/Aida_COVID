@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-1">
+		<TEXT>
+			<SEG id="covid19scenario-1-0" start_char="0" end_char="4">
+				<ORIGINAL_TEXT>About</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="4">About</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-1-1" start_char="6" end_char="108">
+				<ORIGINAL_TEXT>EUvsDisinfo is the flagship project of the European External Action Service’s East StratCom Task Force.</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="6" end_char="16">EUvsDisinfo</TOKEN>
+				<TOKEN id="token-1-1" start_char="18" end_char="19">is</TOKEN>
+				<TOKEN id="token-1-2" start_char="21" end_char="23">the</TOKEN>
+				<TOKEN id="token-1-3" start_char="25" end_char="32">flagship</TOKEN>
+				<TOKEN id="token-1-4" start_char="34" end_char="40">project</TOKEN>
+				<TOKEN id="token-1-5" start_char="42" end_char="43">of</TOKEN>
+				<TOKEN id="token-1-6" start_char="45" end_char="47">the</TOKEN>
+				<TOKEN id="token-1-7" start_char="49" end_char="56">European</TOKEN>
+				<TOKEN id="token-1-8" start_char="58" end_char="65">External</TOKEN>
+				<TOKEN id="token-1-9" start_char="67" end_char="72">Action</TOKEN>
+				<TOKEN id="token-1-10" start_char="74" end_char="80">Service</TOKEN>
+				<TOKEN id="token-1-11" start_char="81" end_char="81">’</TOKEN>
+				<TOKEN id="token-1-12" start_char="82" end_char="82">s</TOKEN>
+				<TOKEN id="token-1-13" start_char="84" end_char="87">East</TOKEN>
+				<TOKEN id="token-1-14" start_char="89" end_char="96">StratCom</TOKEN>
+				<TOKEN id="token-1-15" start_char="98" end_char="101">Task</TOKEN>
+				<TOKEN id="token-1-16" start_char="103" end_char="107">Force</TOKEN>
+				<TOKEN id="token-1-17" start_char="108" end_char="108">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-1-2" start_char="110" end_char="329">
+				<ORIGINAL_TEXT>It was established in 2015 to better forecast, address, and respond to the Russian Federation’s ongoing disinformation campaigns affecting the European Union, its Member States, and countries in the shared neighbourhood.</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="110" end_char="111">It</TOKEN>
+				<TOKEN id="token-2-1" start_char="113" end_char="115">was</TOKEN>
+				<TOKEN id="token-2-2" start_char="117" end_char="127">established</TOKEN>
+				<TOKEN id="token-2-3" start_char="129" end_char="130">in</TOKEN>
+				<TOKEN id="token-2-4" start_char="132" end_char="135">2015</TOKEN>
+				<TOKEN id="token-2-5" start_char="137" end_char="138">to</TOKEN>
+				<TOKEN id="token-2-6" start_char="140" end_char="145">better</TOKEN>
+				<TOKEN id="token-2-7" start_char="147" end_char="154">forecast</TOKEN>
+				<TOKEN id="token-2-8" start_char="155" end_char="155">,</TOKEN>
+				<TOKEN id="token-2-9" start_char="157" end_char="163">address</TOKEN>
+				<TOKEN id="token-2-10" start_char="164" end_char="164">,</TOKEN>
+				<TOKEN id="token-2-11" start_char="166" end_char="168">and</TOKEN>
+				<TOKEN id="token-2-12" start_char="170" end_char="176">respond</TOKEN>
+				<TOKEN id="token-2-13" start_char="178" end_char="179">to</TOKEN>
+				<TOKEN id="token-2-14" start_char="181" end_char="183">the</TOKEN>
+				<TOKEN id="token-2-15" start_char="185" end_char="191">Russian</TOKEN>
+				<TOKEN id="token-2-16" start_char="193" end_char="202">Federation</TOKEN>
+				<TOKEN id="token-2-17" start_char="203" end_char="203">’</TOKEN>
+				<TOKEN id="token-2-18" start_char="204" end_char="204">s</TOKEN>
+				<TOKEN id="token-2-19" start_char="206" end_char="212">ongoing</TOKEN>
+				<TOKEN id="token-2-20" start_char="214" end_char="227">disinformation</TOKEN>
+				<TOKEN id="token-2-21" start_char="229" end_char="237">campaigns</TOKEN>
+				<TOKEN id="token-2-22" start_char="239" end_char="247">affecting</TOKEN>
+				<TOKEN id="token-2-23" start_char="249" end_char="251">the</TOKEN>
+				<TOKEN id="token-2-24" start_char="253" end_char="260">European</TOKEN>
+				<TOKEN id="token-2-25" start_char="262" end_char="266">Union</TOKEN>
+				<TOKEN id="token-2-26" start_char="267" end_char="267">,</TOKEN>
+				<TOKEN id="token-2-27" start_char="269" end_char="271">its</TOKEN>
+				<TOKEN id="token-2-28" start_char="273" end_char="278">Member</TOKEN>
+				<TOKEN id="token-2-29" start_char="280" end_char="285">States</TOKEN>
+				<TOKEN id="token-2-30" start_char="286" end_char="286">,</TOKEN>
+				<TOKEN id="token-2-31" start_char="288" end_char="290">and</TOKEN>
+				<TOKEN id="token-2-32" start_char="292" end_char="300">countries</TOKEN>
+				<TOKEN id="token-2-33" start_char="302" end_char="303">in</TOKEN>
+				<TOKEN id="token-2-34" start_char="305" end_char="307">the</TOKEN>
+				<TOKEN id="token-2-35" start_char="309" end_char="314">shared</TOKEN>
+				<TOKEN id="token-2-36" start_char="316" end_char="328">neighbourhood</TOKEN>
+				<TOKEN id="token-2-37" start_char="329" end_char="329">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-1-3" start_char="331" end_char="560">
+				<ORIGINAL_TEXT>EUvsDisinfo’s core objective is to increase public awareness and understanding of the Kremlin’s disinformation operations, and to help citizens in Europe and beyond develop resistance to digital information and media manipulation.</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="331" end_char="341">EUvsDisinfo</TOKEN>
+				<TOKEN id="token-3-1" start_char="342" end_char="342">’</TOKEN>
+				<TOKEN id="token-3-2" start_char="343" end_char="343">s</TOKEN>
+				<TOKEN id="token-3-3" start_char="345" end_char="348">core</TOKEN>
+				<TOKEN id="token-3-4" start_char="350" end_char="358">objective</TOKEN>
+				<TOKEN id="token-3-5" start_char="360" end_char="361">is</TOKEN>
+				<TOKEN id="token-3-6" start_char="363" end_char="364">to</TOKEN>
+				<TOKEN id="token-3-7" start_char="366" end_char="373">increase</TOKEN>
+				<TOKEN id="token-3-8" start_char="375" end_char="380">public</TOKEN>
+				<TOKEN id="token-3-9" start_char="382" end_char="390">awareness</TOKEN>
+				<TOKEN id="token-3-10" start_char="392" end_char="394">and</TOKEN>
+				<TOKEN id="token-3-11" start_char="396" end_char="408">understanding</TOKEN>
+				<TOKEN id="token-3-12" start_char="410" end_char="411">of</TOKEN>
+				<TOKEN id="token-3-13" start_char="413" end_char="415">the</TOKEN>
+				<TOKEN id="token-3-14" start_char="417" end_char="423">Kremlin</TOKEN>
+				<TOKEN id="token-3-15" start_char="424" end_char="424">’</TOKEN>
+				<TOKEN id="token-3-16" start_char="425" end_char="425">s</TOKEN>
+				<TOKEN id="token-3-17" start_char="427" end_char="440">disinformation</TOKEN>
+				<TOKEN id="token-3-18" start_char="442" end_char="451">operations</TOKEN>
+				<TOKEN id="token-3-19" start_char="452" end_char="452">,</TOKEN>
+				<TOKEN id="token-3-20" start_char="454" end_char="456">and</TOKEN>
+				<TOKEN id="token-3-21" start_char="458" end_char="459">to</TOKEN>
+				<TOKEN id="token-3-22" start_char="461" end_char="464">help</TOKEN>
+				<TOKEN id="token-3-23" start_char="466" end_char="473">citizens</TOKEN>
+				<TOKEN id="token-3-24" start_char="475" end_char="476">in</TOKEN>
+				<TOKEN id="token-3-25" start_char="478" end_char="483">Europe</TOKEN>
+				<TOKEN id="token-3-26" start_char="485" end_char="487">and</TOKEN>
+				<TOKEN id="token-3-27" start_char="489" end_char="494">beyond</TOKEN>
+				<TOKEN id="token-3-28" start_char="496" end_char="502">develop</TOKEN>
+				<TOKEN id="token-3-29" start_char="504" end_char="513">resistance</TOKEN>
+				<TOKEN id="token-3-30" start_char="515" end_char="516">to</TOKEN>
+				<TOKEN id="token-3-31" start_char="518" end_char="524">digital</TOKEN>
+				<TOKEN id="token-3-32" start_char="526" end_char="536">information</TOKEN>
+				<TOKEN id="token-3-33" start_char="538" end_char="540">and</TOKEN>
+				<TOKEN id="token-3-34" start_char="542" end_char="546">media</TOKEN>
+				<TOKEN id="token-3-35" start_char="548" end_char="559">manipulation</TOKEN>
+				<TOKEN id="token-3-36" start_char="560" end_char="560">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-1-4" start_char="562" end_char="571">
+				<ORIGINAL_TEXT>What we do</ORIGINAL_TEXT>
+				<TOKEN id="token-4-0" start_char="562" end_char="565">What</TOKEN>
+				<TOKEN id="token-4-1" start_char="567" end_char="568">we</TOKEN>
+				<TOKEN id="token-4-2" start_char="570" end_char="571">do</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-1-5" start_char="573" end_char="803">
+				<ORIGINAL_TEXT>Using data analysis and media monitoring services in 15 languages, EUvsDisinfo identifies, compiles, and exposes disinformation cases originating in pro-Kremlin media that are spread across the EU and Eastern Partnership countries.</ORIGINAL_TEXT>
+				<TOKEN id="token-5-0" start_char="573" end_char="577">Using</TOKEN>
+				<TOKEN id="token-5-1" start_char="579" end_char="582">data</TOKEN>
+				<TOKEN id="token-5-2" start_char="584" end_char="591">analysis</TOKEN>
+				<TOKEN id="token-5-3" start_char="593" end_char="595">and</TOKEN>
+				<TOKEN id="token-5-4" start_char="597" end_char="601">media</TOKEN>
+				<TOKEN id="token-5-5" start_char="603" end_char="612">monitoring</TOKEN>
+				<TOKEN id="token-5-6" start_char="614" end_char="621">services</TOKEN>
+				<TOKEN id="token-5-7" start_char="623" end_char="624">in</TOKEN>
+				<TOKEN id="token-5-8" start_char="626" end_char="627">15</TOKEN>
+				<TOKEN id="token-5-9" start_char="629" end_char="637">languages</TOKEN>
+				<TOKEN id="token-5-10" start_char="638" end_char="638">,</TOKEN>
+				<TOKEN id="token-5-11" start_char="640" end_char="650">EUvsDisinfo</TOKEN>
+				<TOKEN id="token-5-12" start_char="652" end_char="661">identifies</TOKEN>
+				<TOKEN id="token-5-13" start_char="662" end_char="662">,</TOKEN>
+				<TOKEN id="token-5-14" start_char="664" end_char="671">compiles</TOKEN>
+				<TOKEN id="token-5-15" start_char="672" end_char="672">,</TOKEN>
+				<TOKEN id="token-5-16" start_char="674" end_char="676">and</TOKEN>
+				<TOKEN id="token-5-17" start_char="678" end_char="684">exposes</TOKEN>
+				<TOKEN id="token-5-18" start_char="686" end_char="699">disinformation</TOKEN>
+				<TOKEN id="token-5-19" start_char="701" end_char="705">cases</TOKEN>
+				<TOKEN id="token-5-20" start_char="707" end_char="717">originating</TOKEN>
+				<TOKEN id="token-5-21" start_char="719" end_char="720">in</TOKEN>
+				<TOKEN id="token-5-22" start_char="722" end_char="724">pro</TOKEN>
+				<TOKEN id="token-5-23" start_char="725" end_char="725">-</TOKEN>
+				<TOKEN id="token-5-24" start_char="726" end_char="732">Kremlin</TOKEN>
+				<TOKEN id="token-5-25" start_char="734" end_char="738">media</TOKEN>
+				<TOKEN id="token-5-26" start_char="740" end_char="743">that</TOKEN>
+				<TOKEN id="token-5-27" start_char="745" end_char="747">are</TOKEN>
+				<TOKEN id="token-5-28" start_char="749" end_char="754">spread</TOKEN>
+				<TOKEN id="token-5-29" start_char="756" end_char="761">across</TOKEN>
+				<TOKEN id="token-5-30" start_char="763" end_char="765">the</TOKEN>
+				<TOKEN id="token-5-31" start_char="767" end_char="768">EU</TOKEN>
+				<TOKEN id="token-5-32" start_char="770" end_char="772">and</TOKEN>
+				<TOKEN id="token-5-33" start_char="774" end_char="780">Eastern</TOKEN>
+				<TOKEN id="token-5-34" start_char="782" end_char="792">Partnership</TOKEN>
+				<TOKEN id="token-5-35" start_char="794" end_char="802">countries</TOKEN>
+				<TOKEN id="token-5-36" start_char="803" end_char="803">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-1-6" start_char="805" end_char="938">
+				<ORIGINAL_TEXT>As of 2019, our monitoring capabilities also uncover disinformation spread in the Western Balkans and the EU’s Southern neighbourhood.</ORIGINAL_TEXT>
+				<TOKEN id="token-6-0" start_char="805" end_char="806">As</TOKEN>
+				<TOKEN id="token-6-1" start_char="808" end_char="809">of</TOKEN>
+				<TOKEN id="token-6-2" start_char="811" end_char="814">2019</TOKEN>
+				<TOKEN id="token-6-3" start_char="815" end_char="815">,</TOKEN>
+				<TOKEN id="token-6-4" start_char="817" end_char="819">our</TOKEN>
+				<TOKEN id="token-6-5" start_char="821" end_char="830">monitoring</TOKEN>
+				<TOKEN id="token-6-6" start_char="832" end_char="843">capabilities</TOKEN>
+				<TOKEN id="token-6-7" start_char="845" end_char="848">also</TOKEN>
+				<TOKEN id="token-6-8" start_char="850" end_char="856">uncover</TOKEN>
+				<TOKEN id="token-6-9" start_char="858" end_char="871">disinformation</TOKEN>
+				<TOKEN id="token-6-10" start_char="873" end_char="878">spread</TOKEN>
+				<TOKEN id="token-6-11" start_char="880" end_char="881">in</TOKEN>
+				<TOKEN id="token-6-12" start_char="883" end_char="885">the</TOKEN>
+				<TOKEN id="token-6-13" start_char="887" end_char="893">Western</TOKEN>
+				<TOKEN id="token-6-14" start_char="895" end_char="901">Balkans</TOKEN>
+				<TOKEN id="token-6-15" start_char="903" end_char="905">and</TOKEN>
+				<TOKEN id="token-6-16" start_char="907" end_char="909">the</TOKEN>
+				<TOKEN id="token-6-17" start_char="911" end_char="912">EU</TOKEN>
+				<TOKEN id="token-6-18" start_char="913" end_char="913">’</TOKEN>
+				<TOKEN id="token-6-19" start_char="914" end_char="914">s</TOKEN>
+				<TOKEN id="token-6-20" start_char="916" end_char="923">Southern</TOKEN>
+				<TOKEN id="token-6-21" start_char="925" end_char="937">neighbourhood</TOKEN>
+				<TOKEN id="token-6-22" start_char="938" end_char="938">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-1-7" start_char="940" end_char="1150">
+				<ORIGINAL_TEXT>These cases (and their disproofs) are collected in the EUvsDisinfo database – the only searchable, open-source repository of its kind – which currently comprises over 6,500 samples of pro-Kremlin disinformation.</ORIGINAL_TEXT>
+				<TOKEN id="token-7-0" start_char="940" end_char="944">These</TOKEN>
+				<TOKEN id="token-7-1" start_char="946" end_char="950">cases</TOKEN>
+				<TOKEN id="token-7-2" start_char="952" end_char="952">(</TOKEN>
+				<TOKEN id="token-7-3" start_char="953" end_char="955">and</TOKEN>
+				<TOKEN id="token-7-4" start_char="957" end_char="961">their</TOKEN>
+				<TOKEN id="token-7-5" start_char="963" end_char="971">disproofs</TOKEN>
+				<TOKEN id="token-7-6" start_char="972" end_char="972">)</TOKEN>
+				<TOKEN id="token-7-7" start_char="974" end_char="976">are</TOKEN>
+				<TOKEN id="token-7-8" start_char="978" end_char="986">collected</TOKEN>
+				<TOKEN id="token-7-9" start_char="988" end_char="989">in</TOKEN>
+				<TOKEN id="token-7-10" start_char="991" end_char="993">the</TOKEN>
+				<TOKEN id="token-7-11" start_char="995" end_char="1005">EUvsDisinfo</TOKEN>
+				<TOKEN id="token-7-12" start_char="1007" end_char="1014">database</TOKEN>
+				<TOKEN id="token-7-13" start_char="1016" end_char="1016">–</TOKEN>
+				<TOKEN id="token-7-14" start_char="1018" end_char="1020">the</TOKEN>
+				<TOKEN id="token-7-15" start_char="1022" end_char="1025">only</TOKEN>
+				<TOKEN id="token-7-16" start_char="1027" end_char="1036">searchable</TOKEN>
+				<TOKEN id="token-7-17" start_char="1037" end_char="1037">,</TOKEN>
+				<TOKEN id="token-7-18" start_char="1039" end_char="1042">open</TOKEN>
+				<TOKEN id="token-7-19" start_char="1043" end_char="1043">-</TOKEN>
+				<TOKEN id="token-7-20" start_char="1044" end_char="1049">source</TOKEN>
+				<TOKEN id="token-7-21" start_char="1051" end_char="1060">repository</TOKEN>
+				<TOKEN id="token-7-22" start_char="1062" end_char="1063">of</TOKEN>
+				<TOKEN id="token-7-23" start_char="1065" end_char="1067">its</TOKEN>
+				<TOKEN id="token-7-24" start_char="1069" end_char="1072">kind</TOKEN>
+				<TOKEN id="token-7-25" start_char="1074" end_char="1074">–</TOKEN>
+				<TOKEN id="token-7-26" start_char="1076" end_char="1080">which</TOKEN>
+				<TOKEN id="token-7-27" start_char="1082" end_char="1090">currently</TOKEN>
+				<TOKEN id="token-7-28" start_char="1092" end_char="1100">comprises</TOKEN>
+				<TOKEN id="token-7-29" start_char="1102" end_char="1105">over</TOKEN>
+				<TOKEN id="token-7-30" start_char="1107" end_char="1107">6</TOKEN>
+				<TOKEN id="token-7-31" start_char="1108" end_char="1108">,</TOKEN>
+				<TOKEN id="token-7-32" start_char="1109" end_char="1111">500</TOKEN>
+				<TOKEN id="token-7-33" start_char="1113" end_char="1119">samples</TOKEN>
+				<TOKEN id="token-7-34" start_char="1121" end_char="1122">of</TOKEN>
+				<TOKEN id="token-7-35" start_char="1124" end_char="1126">pro</TOKEN>
+				<TOKEN id="token-7-36" start_char="1127" end_char="1127">-</TOKEN>
+				<TOKEN id="token-7-37" start_char="1128" end_char="1134">Kremlin</TOKEN>
+				<TOKEN id="token-7-38" start_char="1136" end_char="1149">disinformation</TOKEN>
+				<TOKEN id="token-7-39" start_char="1150" end_char="1150">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-1-8" start_char="1152" end_char="1223">
+				<ORIGINAL_TEXT>The database is updated every week, together with a brief trend summary.</ORIGINAL_TEXT>
+				<TOKEN id="token-8-0" start_char="1152" end_char="1154">The</TOKEN>
+				<TOKEN id="token-8-1" start_char="1156" end_char="1163">database</TOKEN>
+				<TOKEN id="token-8-2" start_char="1165" end_char="1166">is</TOKEN>
+				<TOKEN id="token-8-3" start_char="1168" end_char="1174">updated</TOKEN>
+				<TOKEN id="token-8-4" start_char="1176" end_char="1180">every</TOKEN>
+				<TOKEN id="token-8-5" start_char="1182" end_char="1185">week</TOKEN>
+				<TOKEN id="token-8-6" start_char="1186" end_char="1186">,</TOKEN>
+				<TOKEN id="token-8-7" start_char="1188" end_char="1195">together</TOKEN>
+				<TOKEN id="token-8-8" start_char="1197" end_char="1200">with</TOKEN>
+				<TOKEN id="token-8-9" start_char="1202" end_char="1202">a</TOKEN>
+				<TOKEN id="token-8-10" start_char="1204" end_char="1208">brief</TOKEN>
+				<TOKEN id="token-8-11" start_char="1210" end_char="1214">trend</TOKEN>
+				<TOKEN id="token-8-12" start_char="1216" end_char="1222">summary</TOKEN>
+				<TOKEN id="token-8-13" start_char="1223" end_char="1223">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-1-9" start_char="1225" end_char="1311">
+				<ORIGINAL_TEXT>To follow these updates, subscribe to our weekly newsletter, the Disinformation Review.</ORIGINAL_TEXT>
+				<TOKEN id="token-9-0" start_char="1225" end_char="1226">To</TOKEN>
+				<TOKEN id="token-9-1" start_char="1228" end_char="1233">follow</TOKEN>
+				<TOKEN id="token-9-2" start_char="1235" end_char="1239">these</TOKEN>
+				<TOKEN id="token-9-3" start_char="1241" end_char="1247">updates</TOKEN>
+				<TOKEN id="token-9-4" start_char="1248" end_char="1248">,</TOKEN>
+				<TOKEN id="token-9-5" start_char="1250" end_char="1258">subscribe</TOKEN>
+				<TOKEN id="token-9-6" start_char="1260" end_char="1261">to</TOKEN>
+				<TOKEN id="token-9-7" start_char="1263" end_char="1265">our</TOKEN>
+				<TOKEN id="token-9-8" start_char="1267" end_char="1272">weekly</TOKEN>
+				<TOKEN id="token-9-9" start_char="1274" end_char="1283">newsletter</TOKEN>
+				<TOKEN id="token-9-10" start_char="1284" end_char="1284">,</TOKEN>
+				<TOKEN id="token-9-11" start_char="1286" end_char="1288">the</TOKEN>
+				<TOKEN id="token-9-12" start_char="1290" end_char="1303">Disinformation</TOKEN>
+				<TOKEN id="token-9-13" start_char="1305" end_char="1310">Review</TOKEN>
+				<TOKEN id="token-9-14" start_char="1311" end_char="1311">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-1-10" start_char="1313" end_char="1531">
+				<ORIGINAL_TEXT>In addition to the database, we regularly publish articles and analyses about new developments in disinformation methods and practice, and collate international research that makes innovative contributions to the field.</ORIGINAL_TEXT>
+				<TOKEN id="token-10-0" start_char="1313" end_char="1314">In</TOKEN>
+				<TOKEN id="token-10-1" start_char="1316" end_char="1323">addition</TOKEN>
+				<TOKEN id="token-10-2" start_char="1325" end_char="1326">to</TOKEN>
+				<TOKEN id="token-10-3" start_char="1328" end_char="1330">the</TOKEN>
+				<TOKEN id="token-10-4" start_char="1332" end_char="1339">database</TOKEN>
+				<TOKEN id="token-10-5" start_char="1340" end_char="1340">,</TOKEN>
+				<TOKEN id="token-10-6" start_char="1342" end_char="1343">we</TOKEN>
+				<TOKEN id="token-10-7" start_char="1345" end_char="1353">regularly</TOKEN>
+				<TOKEN id="token-10-8" start_char="1355" end_char="1361">publish</TOKEN>
+				<TOKEN id="token-10-9" start_char="1363" end_char="1370">articles</TOKEN>
+				<TOKEN id="token-10-10" start_char="1372" end_char="1374">and</TOKEN>
+				<TOKEN id="token-10-11" start_char="1376" end_char="1383">analyses</TOKEN>
+				<TOKEN id="token-10-12" start_char="1385" end_char="1389">about</TOKEN>
+				<TOKEN id="token-10-13" start_char="1391" end_char="1393">new</TOKEN>
+				<TOKEN id="token-10-14" start_char="1395" end_char="1406">developments</TOKEN>
+				<TOKEN id="token-10-15" start_char="1408" end_char="1409">in</TOKEN>
+				<TOKEN id="token-10-16" start_char="1411" end_char="1424">disinformation</TOKEN>
+				<TOKEN id="token-10-17" start_char="1426" end_char="1432">methods</TOKEN>
+				<TOKEN id="token-10-18" start_char="1434" end_char="1436">and</TOKEN>
+				<TOKEN id="token-10-19" start_char="1438" end_char="1445">practice</TOKEN>
+				<TOKEN id="token-10-20" start_char="1446" end_char="1446">,</TOKEN>
+				<TOKEN id="token-10-21" start_char="1448" end_char="1450">and</TOKEN>
+				<TOKEN id="token-10-22" start_char="1452" end_char="1458">collate</TOKEN>
+				<TOKEN id="token-10-23" start_char="1460" end_char="1472">international</TOKEN>
+				<TOKEN id="token-10-24" start_char="1474" end_char="1481">research</TOKEN>
+				<TOKEN id="token-10-25" start_char="1483" end_char="1486">that</TOKEN>
+				<TOKEN id="token-10-26" start_char="1488" end_char="1492">makes</TOKEN>
+				<TOKEN id="token-10-27" start_char="1494" end_char="1503">innovative</TOKEN>
+				<TOKEN id="token-10-28" start_char="1505" end_char="1517">contributions</TOKEN>
+				<TOKEN id="token-10-29" start_char="1519" end_char="1520">to</TOKEN>
+				<TOKEN id="token-10-30" start_char="1522" end_char="1524">the</TOKEN>
+				<TOKEN id="token-10-31" start_char="1526" end_char="1530">field</TOKEN>
+				<TOKEN id="token-10-32" start_char="1531" end_char="1531">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-1-11" start_char="1533" end_char="1705">
+				<ORIGINAL_TEXT>The section on Elections provides a series of educational materials about one of the most serious disinformation threats facing democratic societies: electoral interference.</ORIGINAL_TEXT>
+				<TOKEN id="token-11-0" start_char="1533" end_char="1535">The</TOKEN>
+				<TOKEN id="token-11-1" start_char="1537" end_char="1543">section</TOKEN>
+				<TOKEN id="token-11-2" start_char="1545" end_char="1546">on</TOKEN>
+				<TOKEN id="token-11-3" start_char="1548" end_char="1556">Elections</TOKEN>
+				<TOKEN id="token-11-4" start_char="1558" end_char="1565">provides</TOKEN>
+				<TOKEN id="token-11-5" start_char="1567" end_char="1567">a</TOKEN>
+				<TOKEN id="token-11-6" start_char="1569" end_char="1574">series</TOKEN>
+				<TOKEN id="token-11-7" start_char="1576" end_char="1577">of</TOKEN>
+				<TOKEN id="token-11-8" start_char="1579" end_char="1589">educational</TOKEN>
+				<TOKEN id="token-11-9" start_char="1591" end_char="1599">materials</TOKEN>
+				<TOKEN id="token-11-10" start_char="1601" end_char="1605">about</TOKEN>
+				<TOKEN id="token-11-11" start_char="1607" end_char="1609">one</TOKEN>
+				<TOKEN id="token-11-12" start_char="1611" end_char="1612">of</TOKEN>
+				<TOKEN id="token-11-13" start_char="1614" end_char="1616">the</TOKEN>
+				<TOKEN id="token-11-14" start_char="1618" end_char="1621">most</TOKEN>
+				<TOKEN id="token-11-15" start_char="1623" end_char="1629">serious</TOKEN>
+				<TOKEN id="token-11-16" start_char="1631" end_char="1644">disinformation</TOKEN>
+				<TOKEN id="token-11-17" start_char="1646" end_char="1652">threats</TOKEN>
+				<TOKEN id="token-11-18" start_char="1654" end_char="1659">facing</TOKEN>
+				<TOKEN id="token-11-19" start_char="1661" end_char="1670">democratic</TOKEN>
+				<TOKEN id="token-11-20" start_char="1672" end_char="1680">societies</TOKEN>
+				<TOKEN id="token-11-21" start_char="1681" end_char="1681">:</TOKEN>
+				<TOKEN id="token-11-22" start_char="1683" end_char="1691">electoral</TOKEN>
+				<TOKEN id="token-11-23" start_char="1693" end_char="1704">interference</TOKEN>
+				<TOKEN id="token-11-24" start_char="1705" end_char="1705">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-1-12" start_char="1707" end_char="1774">
+				<ORIGINAL_TEXT>Our team is also heavily involved in public and government outreach.</ORIGINAL_TEXT>
+				<TOKEN id="token-12-0" start_char="1707" end_char="1709">Our</TOKEN>
+				<TOKEN id="token-12-1" start_char="1711" end_char="1714">team</TOKEN>
+				<TOKEN id="token-12-2" start_char="1716" end_char="1717">is</TOKEN>
+				<TOKEN id="token-12-3" start_char="1719" end_char="1722">also</TOKEN>
+				<TOKEN id="token-12-4" start_char="1724" end_char="1730">heavily</TOKEN>
+				<TOKEN id="token-12-5" start_char="1732" end_char="1739">involved</TOKEN>
+				<TOKEN id="token-12-6" start_char="1741" end_char="1742">in</TOKEN>
+				<TOKEN id="token-12-7" start_char="1744" end_char="1749">public</TOKEN>
+				<TOKEN id="token-12-8" start_char="1751" end_char="1753">and</TOKEN>
+				<TOKEN id="token-12-9" start_char="1755" end_char="1764">government</TOKEN>
+				<TOKEN id="token-12-10" start_char="1766" end_char="1773">outreach</TOKEN>
+				<TOKEN id="token-12-11" start_char="1774" end_char="1774">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-1-13" start_char="1776" end_char="1932">
+				<ORIGINAL_TEXT>We brief and train EU institutions, Member State governments, journalists, and civil society organisations, and regularly speak at international conferences.</ORIGINAL_TEXT>
+				<TOKEN id="token-13-0" start_char="1776" end_char="1777">We</TOKEN>
+				<TOKEN id="token-13-1" start_char="1779" end_char="1783">brief</TOKEN>
+				<TOKEN id="token-13-2" start_char="1785" end_char="1787">and</TOKEN>
+				<TOKEN id="token-13-3" start_char="1789" end_char="1793">train</TOKEN>
+				<TOKEN id="token-13-4" start_char="1795" end_char="1796">EU</TOKEN>
+				<TOKEN id="token-13-5" start_char="1798" end_char="1809">institutions</TOKEN>
+				<TOKEN id="token-13-6" start_char="1810" end_char="1810">,</TOKEN>
+				<TOKEN id="token-13-7" start_char="1812" end_char="1817">Member</TOKEN>
+				<TOKEN id="token-13-8" start_char="1819" end_char="1823">State</TOKEN>
+				<TOKEN id="token-13-9" start_char="1825" end_char="1835">governments</TOKEN>
+				<TOKEN id="token-13-10" start_char="1836" end_char="1836">,</TOKEN>
+				<TOKEN id="token-13-11" start_char="1838" end_char="1848">journalists</TOKEN>
+				<TOKEN id="token-13-12" start_char="1849" end_char="1849">,</TOKEN>
+				<TOKEN id="token-13-13" start_char="1851" end_char="1853">and</TOKEN>
+				<TOKEN id="token-13-14" start_char="1855" end_char="1859">civil</TOKEN>
+				<TOKEN id="token-13-15" start_char="1861" end_char="1867">society</TOKEN>
+				<TOKEN id="token-13-16" start_char="1869" end_char="1881">organisations</TOKEN>
+				<TOKEN id="token-13-17" start_char="1882" end_char="1882">,</TOKEN>
+				<TOKEN id="token-13-18" start_char="1884" end_char="1886">and</TOKEN>
+				<TOKEN id="token-13-19" start_char="1888" end_char="1896">regularly</TOKEN>
+				<TOKEN id="token-13-20" start_char="1898" end_char="1902">speak</TOKEN>
+				<TOKEN id="token-13-21" start_char="1904" end_char="1905">at</TOKEN>
+				<TOKEN id="token-13-22" start_char="1907" end_char="1919">international</TOKEN>
+				<TOKEN id="token-13-23" start_char="1921" end_char="1931">conferences</TOKEN>
+				<TOKEN id="token-13-24" start_char="1932" end_char="1932">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-1-14" start_char="1934" end_char="2070">
+				<ORIGINAL_TEXT>Our products are an important resource for political leaders, state agencies, researchers, think tanks, and journalists around the world.</ORIGINAL_TEXT>
+				<TOKEN id="token-14-0" start_char="1934" end_char="1936">Our</TOKEN>
+				<TOKEN id="token-14-1" start_char="1938" end_char="1945">products</TOKEN>
+				<TOKEN id="token-14-2" start_char="1947" end_char="1949">are</TOKEN>
+				<TOKEN id="token-14-3" start_char="1951" end_char="1952">an</TOKEN>
+				<TOKEN id="token-14-4" start_char="1954" end_char="1962">important</TOKEN>
+				<TOKEN id="token-14-5" start_char="1964" end_char="1971">resource</TOKEN>
+				<TOKEN id="token-14-6" start_char="1973" end_char="1975">for</TOKEN>
+				<TOKEN id="token-14-7" start_char="1977" end_char="1985">political</TOKEN>
+				<TOKEN id="token-14-8" start_char="1987" end_char="1993">leaders</TOKEN>
+				<TOKEN id="token-14-9" start_char="1994" end_char="1994">,</TOKEN>
+				<TOKEN id="token-14-10" start_char="1996" end_char="2000">state</TOKEN>
+				<TOKEN id="token-14-11" start_char="2002" end_char="2009">agencies</TOKEN>
+				<TOKEN id="token-14-12" start_char="2010" end_char="2010">,</TOKEN>
+				<TOKEN id="token-14-13" start_char="2012" end_char="2022">researchers</TOKEN>
+				<TOKEN id="token-14-14" start_char="2023" end_char="2023">,</TOKEN>
+				<TOKEN id="token-14-15" start_char="2025" end_char="2029">think</TOKEN>
+				<TOKEN id="token-14-16" start_char="2031" end_char="2035">tanks</TOKEN>
+				<TOKEN id="token-14-17" start_char="2036" end_char="2036">,</TOKEN>
+				<TOKEN id="token-14-18" start_char="2038" end_char="2040">and</TOKEN>
+				<TOKEN id="token-14-19" start_char="2042" end_char="2052">journalists</TOKEN>
+				<TOKEN id="token-14-20" start_char="2054" end_char="2059">around</TOKEN>
+				<TOKEN id="token-14-21" start_char="2061" end_char="2063">the</TOKEN>
+				<TOKEN id="token-14-22" start_char="2065" end_char="2069">world</TOKEN>
+				<TOKEN id="token-14-23" start_char="2070" end_char="2070">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-1-15" start_char="2072" end_char="2107">
+				<ORIGINAL_TEXT>Want to stay up-to-date on our work?</ORIGINAL_TEXT>
+				<TOKEN id="token-15-0" start_char="2072" end_char="2075">Want</TOKEN>
+				<TOKEN id="token-15-1" start_char="2077" end_char="2078">to</TOKEN>
+				<TOKEN id="token-15-2" start_char="2080" end_char="2083">stay</TOKEN>
+				<TOKEN id="token-15-3" start_char="2085" end_char="2086">up</TOKEN>
+				<TOKEN id="token-15-4" start_char="2087" end_char="2087">-</TOKEN>
+				<TOKEN id="token-15-5" start_char="2088" end_char="2089">to</TOKEN>
+				<TOKEN id="token-15-6" start_char="2090" end_char="2090">-</TOKEN>
+				<TOKEN id="token-15-7" start_char="2091" end_char="2094">date</TOKEN>
+				<TOKEN id="token-15-8" start_char="2096" end_char="2097">on</TOKEN>
+				<TOKEN id="token-15-9" start_char="2099" end_char="2101">our</TOKEN>
+				<TOKEN id="token-15-10" start_char="2103" end_char="2106">work</TOKEN>
+				<TOKEN id="token-15-11" start_char="2107" end_char="2107">?</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-1-16" start_char="2109" end_char="2142">
+				<ORIGINAL_TEXT>Follow us on Facebook and Twitter!</ORIGINAL_TEXT>
+				<TOKEN id="token-16-0" start_char="2109" end_char="2114">Follow</TOKEN>
+				<TOKEN id="token-16-1" start_char="2116" end_char="2117">us</TOKEN>
+				<TOKEN id="token-16-2" start_char="2119" end_char="2120">on</TOKEN>
+				<TOKEN id="token-16-3" start_char="2122" end_char="2129">Facebook</TOKEN>
+				<TOKEN id="token-16-4" start_char="2131" end_char="2133">and</TOKEN>
+				<TOKEN id="token-16-5" start_char="2135" end_char="2141">Twitter</TOKEN>
+				<TOKEN id="token-16-6" start_char="2142" end_char="2142">!</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

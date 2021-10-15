@@ -1,0 +1,54 @@
+(CNN) The US Food and Drug Administration on Sunday issued an emergency use authorization for convalescent plasma to treat Covid-19, saying the "known and potential benefits of the product outweigh the known and potential risks of the product."
+The FDA said more than 70,000 patients had been treated with convalescent plasma,which is made using the blood of people who have recovered from coronavirus infections.
+"Today I am pleased to make a truly historic announcement in our battle against the China virus that will save countless lives," President Trump said at a White House briefing, referring to the coronavirus that causes Covid-19.
+"Today's action will dramatically increase access to this treatment."
+Last week, Trump accused some health officials of playing politics regarding an EUA for convalescent plasma.
+When asked about the FDA not having granted an EUA, Trump said the reason was political.
+On Sunday, a source who is close to the White House Coronavirus Task Force told CNN the FDA had reviewed additional data to inform its EUA decision.
+This official has not personally reviewed the data.
+They added the FDA is under no obligation to consult anyone outside the agency about its decision.
+Convalescent plasma is taken from the blood of people who have recovered from Covid-19.
+At the end of March, the FDA set up a pathway for scientists to try convalescent plasma with patients and study its impact.
+It has already been used to treat more than 60,000 Covid-19 patients.
+However, like blood, convalescent plasma is in limited supply and must come from donors.
+And while there are promising signals from some studies, there is not yet randomized clinical trial data on convalescent plasma to treat Covid-19.
+Some of those trials are underway.
+Experts say more data is needed
+US Health and Human Services Secretary Alex Azar said studies involving 70,000 volunteers justified the EUA.
+"The data we gathered suggests that patients who were treated early in their disease course, within three days of being diagnosed, with plasma containing high levels of antibodies, benefited the most from treatment.
+We saw about a 35% better survival in the patients who benefited most from the treatment," Azar told the White House briefing.
+"We dream in drug development of something like a 35% mortality reduction.
+This is a major advance in the treatment of patients.
+A major advance."
+Azar appeared to be referring to a national study of 35,000 patients treated with convalescent plasma.
+The study, released August 12 in a pre-print, meaning it had not yet been peer-reviewed, showed that 8.7% of patients who were treated within three days of diagnosis died, compared to about 12% of patients who were treated four days or more after their diagnosis.
+That's about a difference of about 37%.
+Those treated with plasma containing the highest levels of antibodies had a 35% lower risk of dying within a week compared to those treated with less-rich plasma.
+But this is not how doctors usually measure the benefit of a treatment.
+The gold standard is a randomized, placebo-controlled clinical trial that means that doctors randomly choose who gets the treatment and who doesn't, so they can truly tell whether it's the treatment affecting survival and not something else.
+And the comparison is usually treated patients compared to untreated patients -- not patients treated earlier compared to those treated later.
+"The problem is, we don't really have enough data to really understand how effective convalescent plasma is," Dr. Jonathan Reiner, a professor of medicine at George Washington University and a CNN medical analyst, said Sunday.
+"While the data to date show some positive signals that convalescent plasma can be helpful in treating individuals with COVID-19, especially if given early in the trajectory of disease, we lack the randomized controlled trial data we need to better understand its utility in COVID-19 treatment," Dr. Thomas File, president of the Infectious Diseases Society of America, said in a statement.
+Dr. Paul Offit, director of the Vaccine Education Center at Children's Hospital of Philadelphia, said he thought it likely the White House pressured the FDA into pushing through the EUA.
+"I think what's happening here is you're seeing bullying, at least at the highest level of the FDA, and I'm sure that there are people at the FDA right now who are the workers there that are as upset about this as I am," Offit told CNN's Wolf Blitzer.
+According to a knowledgeable source, Dr. Francis Collins, head of the National Institutes of Health; Dr. Anthony Fauci, head of the National Institute of Allergy and Infectious Diseases and Dr. H. Clifford Lane, who works under Fauci at NIAID, were among government health officials who had previously been skeptical there was enough data to justify emergency authorization of plasma for Covid-19.
+'Great demand from patients and doctors'
+President Trump said there might have been a holdup on the EUA, "but we broke the logjam over the last week to be honest," Trump said at the briefing.
+He said he believed there were officials at the FDA and in the Department of Health and Human Services "that can see things being held up and wouldn't mind so much."
+"It's my opinion, very strong opinion, and that's for political reasons," Trump said.
+Hahn denied the decision was made for any other than legitimate medical reasons.
+"I took an oath as a doctor 35 years ago to do no harm.
+I abide by that every day," Hahn said in a statement to CNN's Jim Acosta.
+"I've never been asked to make any decision at the FDA based on politics.
+The decisions the scientists at the FDA are making are done on data only."
+Hahn said during the briefing the agency decided the treatment was safe, and looked potentially effective enough to justify the EUA, which is not the same as full approval.
+"So we have ongoing clinical trials that are randomized between a placebo, or an inactive substance, and the convalescent plasma.
+While that was going on we knew there was great demand from patients and doctors," Hahn said.
+While an EUA can open the treatment to more patients, it could also have the effect of limiting enrollment in clinical trials that determine whether it's effective.
+Get CNN Health's weekly newsletter Sign up here to get The Results Are In with Dr. Sanjay Gupta every Tuesday from the CNN Health team.
+On Thursday, Dr. Janet Woodcock, director of the FDA's Center for Drug Evaluation and Research, said that doctors have treated so many Covid-19 patients with convalescent plasma, it has been difficult to figure out if the treatment works.
+"The problem with convalescent plasma is the great enthusiasm about it," Woodcock said in an online conversation about the latest science behind monoclonal antibody treatments and convalescent plasma.
+"It exceeded anyone's expectation as far as the demand."
+Bioethics expert Art Caplan said he's worried about whether there's a large enough supply of convalescent plasma.
+With an EUA, doctors will be more likely to give convalescent plasma without tracking data, so it will then be difficult to determine which donors have the most effective plasma, and which patients are the best candidates to receive it.
+"We're going to get a gold rush towards plasma, with patients demanding it and doctors demanding it for their patients," said Caplan, the founding head of the Division of Medical Ethics at NYU School of Medicine.

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="spa">
+<DOC id="L0C0495A0" lang="spa" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="427" raw_text_md5="9f844b244af6da9aab6c76bbc3ea7f53">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="38">
+<ORIGINAL_TEXT>Иран: сионисты разработали коронавирус</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="4">Иран</TOKEN>
+<TOKEN id="token-0-1" pos="punct" morph="none" start_char="5" end_char="5">:</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="7" end_char="14">сионисты</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="16" end_char="26">разработали</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="28" end_char="38">коронавирус</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="42" end_char="164">
+<ORIGINAL_TEXT>Разместите рекламу в Промо моего блога - и о вашей записи узнают сотни и тысячи людей, ежедневно просматривающих мои посты.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="42" end_char="51">Разместите</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="53" end_char="59">рекламу</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="61" end_char="61">в</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="63" end_char="67">Промо</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="69" end_char="73">моего</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="75" end_char="79">блога</TOKEN>
+<TOKEN id="token-1-6" pos="punct" morph="none" start_char="81" end_char="81">-</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="83" end_char="83">и</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="85" end_char="85">о</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="87" end_char="91">вашей</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="93" end_char="98">записи</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="100" end_char="105">узнают</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="107" end_char="111">сотни</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="113" end_char="113">и</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="115" end_char="120">тысячи</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="122" end_char="126">людей</TOKEN>
+<TOKEN id="token-1-16" pos="punct" morph="none" start_char="127" end_char="127">,</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="129" end_char="137">ежедневно</TOKEN>
+<TOKEN id="token-1-18" pos="word" morph="none" start_char="139" end_char="153">просматривающих</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="155" end_char="157">мои</TOKEN>
+<TOKEN id="token-1-20" pos="word" morph="none" start_char="159" end_char="163">посты</TOKEN>
+<TOKEN id="token-1-21" pos="punct" morph="none" start_char="164" end_char="164">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="166" end_char="317">
+<ORIGINAL_TEXT>И не забывайте смотреть, кто разместил и что предлагает нашему вниманию Запрещается размешать статьи, имеющие в заголовке и первой строке нецензурную и…</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="166" end_char="166">И</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="168" end_char="169">не</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="171" end_char="179">забывайте</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="181" end_char="188">смотреть</TOKEN>
+<TOKEN id="token-2-4" pos="punct" morph="none" start_char="189" end_char="189">,</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="191" end_char="193">кто</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="195" end_char="203">разместил</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="205" end_char="205">и</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="207" end_char="209">что</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="211" end_char="220">предлагает</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="222" end_char="227">нашему</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="229" end_char="236">вниманию</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="238" end_char="248">Запрещается</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="250" end_char="258">размешать</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="260" end_char="265">статьи</TOKEN>
+<TOKEN id="token-2-15" pos="punct" morph="none" start_char="266" end_char="266">,</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="268" end_char="274">имеющие</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="276" end_char="276">в</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="278" end_char="286">заголовке</TOKEN>
+<TOKEN id="token-2-19" pos="word" morph="none" start_char="288" end_char="288">и</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="290" end_char="295">первой</TOKEN>
+<TOKEN id="token-2-21" pos="word" morph="none" start_char="297" end_char="302">строке</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="304" end_char="314">нецензурную</TOKEN>
+<TOKEN id="token-2-23" pos="word" morph="none" start_char="316" end_char="316">и</TOKEN>
+<TOKEN id="token-2-24" pos="punct" morph="none" start_char="317" end_char="317">…</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="321" end_char="363">
+<ORIGINAL_TEXT>новости госпиталей : этот вирус есть яврей.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="321" end_char="327">новости</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="329" end_char="338">госпиталей</TOKEN>
+<TOKEN id="token-3-2" pos="punct" morph="none" start_char="340" end_char="340">:</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="342" end_char="345">этот</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="347" end_char="351">вирус</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="353" end_char="356">есть</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="358" end_char="362">яврей</TOKEN>
+<TOKEN id="token-3-7" pos="punct" morph="none" start_char="363" end_char="363">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="367" end_char="423">
+<ORIGINAL_TEXT>Старьій тезис про кран и воду заиграл новьіми красками :)</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="367" end_char="373">Старьій</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="375" end_char="379">тезис</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="381" end_char="383">про</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="385" end_char="388">кран</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="390" end_char="390">и</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="392" end_char="395">воду</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="397" end_char="403">заиграл</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="405" end_char="411">новьіми</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="413" end_char="420">красками</TOKEN>
+<TOKEN id="token-4-9" pos="punct" morph="none" start_char="422" end_char="423">:)</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-265">
+		<TEXT>
+			<SEG id="covid19scenario-265-0" start_char="0" end_char="83">
+				<ORIGINAL_TEXT>The coronavirus is heading the news these days, and of course – all fakes around it.</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="2">The</TOKEN>
+				<TOKEN id="token-0-1" start_char="4" end_char="14">coronavirus</TOKEN>
+				<TOKEN id="token-0-2" start_char="16" end_char="17">is</TOKEN>
+				<TOKEN id="token-0-3" start_char="19" end_char="25">heading</TOKEN>
+				<TOKEN id="token-0-4" start_char="27" end_char="29">the</TOKEN>
+				<TOKEN id="token-0-5" start_char="31" end_char="34">news</TOKEN>
+				<TOKEN id="token-0-6" start_char="36" end_char="40">these</TOKEN>
+				<TOKEN id="token-0-7" start_char="42" end_char="45">days</TOKEN>
+				<TOKEN id="token-0-8" start_char="46" end_char="46">,</TOKEN>
+				<TOKEN id="token-0-9" start_char="48" end_char="50">and</TOKEN>
+				<TOKEN id="token-0-10" start_char="52" end_char="53">of</TOKEN>
+				<TOKEN id="token-0-11" start_char="55" end_char="60">course</TOKEN>
+				<TOKEN id="token-0-12" start_char="62" end_char="62">–</TOKEN>
+				<TOKEN id="token-0-13" start_char="64" end_char="66">all</TOKEN>
+				<TOKEN id="token-0-14" start_char="68" end_char="72">fakes</TOKEN>
+				<TOKEN id="token-0-15" start_char="74" end_char="79">around</TOKEN>
+				<TOKEN id="token-0-16" start_char="81" end_char="82">it</TOKEN>
+				<TOKEN id="token-0-17" start_char="83" end_char="83">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-265-1" start_char="85" end_char="121">
+				<ORIGINAL_TEXT>The primary object is to cause panic.</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="85" end_char="87">The</TOKEN>
+				<TOKEN id="token-1-1" start_char="89" end_char="95">primary</TOKEN>
+				<TOKEN id="token-1-2" start_char="97" end_char="102">object</TOKEN>
+				<TOKEN id="token-1-3" start_char="104" end_char="105">is</TOKEN>
+				<TOKEN id="token-1-4" start_char="107" end_char="108">to</TOKEN>
+				<TOKEN id="token-1-5" start_char="110" end_char="114">cause</TOKEN>
+				<TOKEN id="token-1-6" start_char="116" end_char="120">panic</TOKEN>
+				<TOKEN id="token-1-7" start_char="121" end_char="121">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-265-2" start_char="123" end_char="264">
+				<ORIGINAL_TEXT>One can hear “exclusive stories”, such as: “according to the Ministry of Health, more than 112 persons have died in Siberia and the Far East“.</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="123" end_char="125">One</TOKEN>
+				<TOKEN id="token-2-1" start_char="127" end_char="129">can</TOKEN>
+				<TOKEN id="token-2-2" start_char="131" end_char="134">hear</TOKEN>
+				<TOKEN id="token-2-3" start_char="136" end_char="136">“</TOKEN>
+				<TOKEN id="token-2-4" start_char="137" end_char="145">exclusive</TOKEN>
+				<TOKEN id="token-2-5" start_char="147" end_char="153">stories</TOKEN>
+				<TOKEN id="token-2-6" start_char="154" end_char="155">”,</TOKEN>
+				<TOKEN id="token-2-7" start_char="157" end_char="160">such</TOKEN>
+				<TOKEN id="token-2-8" start_char="162" end_char="163">as</TOKEN>
+				<TOKEN id="token-2-9" start_char="164" end_char="164">:</TOKEN>
+				<TOKEN id="token-2-10" start_char="166" end_char="166">“</TOKEN>
+				<TOKEN id="token-2-11" start_char="167" end_char="175">according</TOKEN>
+				<TOKEN id="token-2-12" start_char="177" end_char="178">to</TOKEN>
+				<TOKEN id="token-2-13" start_char="180" end_char="182">the</TOKEN>
+				<TOKEN id="token-2-14" start_char="184" end_char="191">Ministry</TOKEN>
+				<TOKEN id="token-2-15" start_char="193" end_char="194">of</TOKEN>
+				<TOKEN id="token-2-16" start_char="196" end_char="201">Health</TOKEN>
+				<TOKEN id="token-2-17" start_char="202" end_char="202">,</TOKEN>
+				<TOKEN id="token-2-18" start_char="204" end_char="207">more</TOKEN>
+				<TOKEN id="token-2-19" start_char="209" end_char="212">than</TOKEN>
+				<TOKEN id="token-2-20" start_char="214" end_char="216">112</TOKEN>
+				<TOKEN id="token-2-21" start_char="218" end_char="224">persons</TOKEN>
+				<TOKEN id="token-2-22" start_char="226" end_char="229">have</TOKEN>
+				<TOKEN id="token-2-23" start_char="231" end_char="234">died</TOKEN>
+				<TOKEN id="token-2-24" start_char="236" end_char="237">in</TOKEN>
+				<TOKEN id="token-2-25" start_char="239" end_char="245">Siberia</TOKEN>
+				<TOKEN id="token-2-26" start_char="247" end_char="249">and</TOKEN>
+				<TOKEN id="token-2-27" start_char="251" end_char="253">the</TOKEN>
+				<TOKEN id="token-2-28" start_char="255" end_char="257">Far</TOKEN>
+				<TOKEN id="token-2-29" start_char="259" end_char="262">East</TOKEN>
+				<TOKEN id="token-2-30" start_char="263" end_char="264">“.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-265-3" start_char="266" end_char="356">
+				<ORIGINAL_TEXT>More than 200 similar reports have been detected by the Fund for Defending National Values.</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="266" end_char="269">More</TOKEN>
+				<TOKEN id="token-3-1" start_char="271" end_char="274">than</TOKEN>
+				<TOKEN id="token-3-2" start_char="276" end_char="278">200</TOKEN>
+				<TOKEN id="token-3-3" start_char="280" end_char="286">similar</TOKEN>
+				<TOKEN id="token-3-4" start_char="288" end_char="294">reports</TOKEN>
+				<TOKEN id="token-3-5" start_char="296" end_char="299">have</TOKEN>
+				<TOKEN id="token-3-6" start_char="301" end_char="304">been</TOKEN>
+				<TOKEN id="token-3-7" start_char="306" end_char="313">detected</TOKEN>
+				<TOKEN id="token-3-8" start_char="315" end_char="316">by</TOKEN>
+				<TOKEN id="token-3-9" start_char="318" end_char="320">the</TOKEN>
+				<TOKEN id="token-3-10" start_char="322" end_char="325">Fund</TOKEN>
+				<TOKEN id="token-3-11" start_char="327" end_char="329">for</TOKEN>
+				<TOKEN id="token-3-12" start_char="331" end_char="339">Defending</TOKEN>
+				<TOKEN id="token-3-13" start_char="341" end_char="348">National</TOKEN>
+				<TOKEN id="token-3-14" start_char="350" end_char="355">Values</TOKEN>
+				<TOKEN id="token-3-15" start_char="356" end_char="356">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-265-4" start_char="358" end_char="520">
+				<ORIGINAL_TEXT>One can hear such delusional stories as “FBI reports that more than 100.000 persons have died in China and almost 3 millions are infected.” Why would the FBI care?</ORIGINAL_TEXT>
+				<TOKEN id="token-4-0" start_char="358" end_char="360">One</TOKEN>
+				<TOKEN id="token-4-1" start_char="362" end_char="364">can</TOKEN>
+				<TOKEN id="token-4-2" start_char="366" end_char="369">hear</TOKEN>
+				<TOKEN id="token-4-3" start_char="371" end_char="374">such</TOKEN>
+				<TOKEN id="token-4-4" start_char="376" end_char="385">delusional</TOKEN>
+				<TOKEN id="token-4-5" start_char="387" end_char="393">stories</TOKEN>
+				<TOKEN id="token-4-6" start_char="395" end_char="396">as</TOKEN>
+				<TOKEN id="token-4-7" start_char="398" end_char="398">“</TOKEN>
+				<TOKEN id="token-4-8" start_char="399" end_char="401">FBI</TOKEN>
+				<TOKEN id="token-4-9" start_char="403" end_char="409">reports</TOKEN>
+				<TOKEN id="token-4-10" start_char="411" end_char="414">that</TOKEN>
+				<TOKEN id="token-4-11" start_char="416" end_char="419">more</TOKEN>
+				<TOKEN id="token-4-12" start_char="421" end_char="424">than</TOKEN>
+				<TOKEN id="token-4-13" start_char="426" end_char="428">100</TOKEN>
+				<TOKEN id="token-4-14" start_char="429" end_char="429">.</TOKEN>
+				<TOKEN id="token-4-15" start_char="430" end_char="432">000</TOKEN>
+				<TOKEN id="token-4-16" start_char="434" end_char="440">persons</TOKEN>
+				<TOKEN id="token-4-17" start_char="442" end_char="445">have</TOKEN>
+				<TOKEN id="token-4-18" start_char="447" end_char="450">died</TOKEN>
+				<TOKEN id="token-4-19" start_char="452" end_char="453">in</TOKEN>
+				<TOKEN id="token-4-20" start_char="455" end_char="459">China</TOKEN>
+				<TOKEN id="token-4-21" start_char="461" end_char="463">and</TOKEN>
+				<TOKEN id="token-4-22" start_char="465" end_char="470">almost</TOKEN>
+				<TOKEN id="token-4-23" start_char="472" end_char="472">3</TOKEN>
+				<TOKEN id="token-4-24" start_char="474" end_char="481">millions</TOKEN>
+				<TOKEN id="token-4-25" start_char="483" end_char="485">are</TOKEN>
+				<TOKEN id="token-4-26" start_char="487" end_char="494">infected</TOKEN>
+				<TOKEN id="token-4-27" start_char="495" end_char="496">.”</TOKEN>
+				<TOKEN id="token-4-28" start_char="498" end_char="500">Why</TOKEN>
+				<TOKEN id="token-4-29" start_char="502" end_char="506">would</TOKEN>
+				<TOKEN id="token-4-30" start_char="508" end_char="510">the</TOKEN>
+				<TOKEN id="token-4-31" start_char="512" end_char="514">FBI</TOKEN>
+				<TOKEN id="token-4-32" start_char="516" end_char="519">care</TOKEN>
+				<TOKEN id="token-4-33" start_char="520" end_char="520">?</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-265-5" start_char="522" end_char="582">
+				<ORIGINAL_TEXT>This organisation deals only with internal issues of the USA.</ORIGINAL_TEXT>
+				<TOKEN id="token-5-0" start_char="522" end_char="525">This</TOKEN>
+				<TOKEN id="token-5-1" start_char="527" end_char="538">organisation</TOKEN>
+				<TOKEN id="token-5-2" start_char="540" end_char="544">deals</TOKEN>
+				<TOKEN id="token-5-3" start_char="546" end_char="549">only</TOKEN>
+				<TOKEN id="token-5-4" start_char="551" end_char="554">with</TOKEN>
+				<TOKEN id="token-5-5" start_char="556" end_char="563">internal</TOKEN>
+				<TOKEN id="token-5-6" start_char="565" end_char="570">issues</TOKEN>
+				<TOKEN id="token-5-7" start_char="572" end_char="573">of</TOKEN>
+				<TOKEN id="token-5-8" start_char="575" end_char="577">the</TOKEN>
+				<TOKEN id="token-5-9" start_char="579" end_char="581">USA</TOKEN>
+				<TOKEN id="token-5-10" start_char="582" end_char="582">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-265-6" start_char="584" end_char="606">
+				<ORIGINAL_TEXT>Why not the NSA or CIA?</ORIGINAL_TEXT>
+				<TOKEN id="token-6-0" start_char="584" end_char="586">Why</TOKEN>
+				<TOKEN id="token-6-1" start_char="588" end_char="590">not</TOKEN>
+				<TOKEN id="token-6-2" start_char="592" end_char="594">the</TOKEN>
+				<TOKEN id="token-6-3" start_char="596" end_char="598">NSA</TOKEN>
+				<TOKEN id="token-6-4" start_char="600" end_char="601">or</TOKEN>
+				<TOKEN id="token-6-5" start_char="603" end_char="605">CIA</TOKEN>
+				<TOKEN id="token-6-6" start_char="606" end_char="606">?</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-265-7" start_char="608" end_char="746">
+				<ORIGINAL_TEXT>And those US specialists from “China” do not act delicately: “Tens of thousands are dead and thousands corps are burned at waste stations“.</ORIGINAL_TEXT>
+				<TOKEN id="token-7-0" start_char="608" end_char="610">And</TOKEN>
+				<TOKEN id="token-7-1" start_char="612" end_char="616">those</TOKEN>
+				<TOKEN id="token-7-2" start_char="618" end_char="619">US</TOKEN>
+				<TOKEN id="token-7-3" start_char="621" end_char="631">specialists</TOKEN>
+				<TOKEN id="token-7-4" start_char="633" end_char="636">from</TOKEN>
+				<TOKEN id="token-7-5" start_char="638" end_char="638">“</TOKEN>
+				<TOKEN id="token-7-6" start_char="639" end_char="643">China</TOKEN>
+				<TOKEN id="token-7-7" start_char="644" end_char="644">”</TOKEN>
+				<TOKEN id="token-7-8" start_char="646" end_char="647">do</TOKEN>
+				<TOKEN id="token-7-9" start_char="649" end_char="651">not</TOKEN>
+				<TOKEN id="token-7-10" start_char="653" end_char="655">act</TOKEN>
+				<TOKEN id="token-7-11" start_char="657" end_char="666">delicately</TOKEN>
+				<TOKEN id="token-7-12" start_char="667" end_char="667">:</TOKEN>
+				<TOKEN id="token-7-13" start_char="669" end_char="669">“</TOKEN>
+				<TOKEN id="token-7-14" start_char="670" end_char="673">Tens</TOKEN>
+				<TOKEN id="token-7-15" start_char="675" end_char="676">of</TOKEN>
+				<TOKEN id="token-7-16" start_char="678" end_char="686">thousands</TOKEN>
+				<TOKEN id="token-7-17" start_char="688" end_char="690">are</TOKEN>
+				<TOKEN id="token-7-18" start_char="692" end_char="695">dead</TOKEN>
+				<TOKEN id="token-7-19" start_char="697" end_char="699">and</TOKEN>
+				<TOKEN id="token-7-20" start_char="701" end_char="709">thousands</TOKEN>
+				<TOKEN id="token-7-21" start_char="711" end_char="715">corps</TOKEN>
+				<TOKEN id="token-7-22" start_char="717" end_char="719">are</TOKEN>
+				<TOKEN id="token-7-23" start_char="721" end_char="726">burned</TOKEN>
+				<TOKEN id="token-7-24" start_char="728" end_char="729">at</TOKEN>
+				<TOKEN id="token-7-25" start_char="731" end_char="735">waste</TOKEN>
+				<TOKEN id="token-7-26" start_char="737" end_char="744">stations</TOKEN>
+				<TOKEN id="token-7-27" start_char="745" end_char="746">“.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-265-8" start_char="748" end_char="848">
+				<ORIGINAL_TEXT>Behind this stand the giant pharmaceutical companies, attempting to forward their business interests.</ORIGINAL_TEXT>
+				<TOKEN id="token-8-0" start_char="748" end_char="753">Behind</TOKEN>
+				<TOKEN id="token-8-1" start_char="755" end_char="758">this</TOKEN>
+				<TOKEN id="token-8-2" start_char="760" end_char="764">stand</TOKEN>
+				<TOKEN id="token-8-3" start_char="766" end_char="768">the</TOKEN>
+				<TOKEN id="token-8-4" start_char="770" end_char="774">giant</TOKEN>
+				<TOKEN id="token-8-5" start_char="776" end_char="789">pharmaceutical</TOKEN>
+				<TOKEN id="token-8-6" start_char="791" end_char="799">companies</TOKEN>
+				<TOKEN id="token-8-7" start_char="800" end_char="800">,</TOKEN>
+				<TOKEN id="token-8-8" start_char="802" end_char="811">attempting</TOKEN>
+				<TOKEN id="token-8-9" start_char="813" end_char="814">to</TOKEN>
+				<TOKEN id="token-8-10" start_char="816" end_char="822">forward</TOKEN>
+				<TOKEN id="token-8-11" start_char="824" end_char="828">their</TOKEN>
+				<TOKEN id="token-8-12" start_char="830" end_char="837">business</TOKEN>
+				<TOKEN id="token-8-13" start_char="839" end_char="847">interests</TOKEN>
+				<TOKEN id="token-8-14" start_char="848" end_char="848">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

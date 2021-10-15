@@ -1,0 +1,184 @@
+{
+    "ATL0C049DQW.000001": {
+        "id": "ATL0C049DQW.000001",
+        "type": "ClaimID_Semantic",
+        "arg_id": "EVL0C049DQW.000001",
+        "value": "CLL0C049DQW.000000",
+        "arg_ann_id": "E1"
+    },
+    "ATL0C049DQW.000002": {
+        "id": "ATL0C049DQW.000002",
+        "type": "ClaimID_Semantic",
+        "arg_id": "EVL0C049DQW.000002",
+        "value": "CLL0C049DQW.000001",
+        "arg_ann_id": "E2"
+    },
+    "ATL0C049DQW.000003": {
+        "id": "ATL0C049DQW.000003",
+        "type": "ClaimID_Semantic",
+        "arg_id": "EVL0C049DQW.000003",
+        "value": "CLL0C049DQW.000002",
+        "arg_ann_id": "E3"
+    },
+    "ATL0C049DQW.000004": {
+        "id": "ATL0C049DQW.000004",
+        "type": "ClaimID_Semantic",
+        "arg_id": "EVL0C049DQW.000004",
+        "value": "CLL0C049DQW.000002",
+        "arg_ann_id": "E4"
+    },
+    "ATL0C049DQW.000005": {
+        "id": "ATL0C049DQW.000005",
+        "type": "ClaimID_Semantic",
+        "arg_id": "EVL0C049DQW.000005",
+        "value": "CLL0C049DQW.000003",
+        "arg_ann_id": "E5"
+    },
+    "ATL0C049DQW.000006": {
+        "id": "ATL0C049DQW.000006",
+        "type": "ClaimID_Semantic",
+        "arg_id": "EVL0C049DQW.000006",
+        "value": "CLL0C049DQW.000004",
+        "arg_ann_id": "E6"
+    },
+    "ATL0C049DQW.000007": {
+        "id": "ATL0C049DQW.000007",
+        "type": "ClaimID_Associate",
+        "arg_id": "EVL0C049DQW.000007",
+        "value": "CLL0C049DQW.000003",
+        "arg_ann_id": "E7"
+    },
+    "ATL0C049DQW.000008": {
+        "id": "ATL0C049DQW.000008",
+        "type": "ClaimID2_Associate",
+        "arg_id": "EVL0C049DQW.000007",
+        "value": "CLL0C049DQW.000004",
+        "arg_ann_id": "E7"
+    },
+    "ATL0C049DQW.000009": {
+        "id": "ATL0C049DQW.000009",
+        "type": "ClaimID_Semantic",
+        "arg_id": "EVL0C049DQW.000008",
+        "value": "CLL0C049DQW.000005",
+        "arg_ann_id": "E8"
+    },
+    "ATL0C049DQW.000010": {
+        "id": "ATL0C049DQW.000010",
+        "type": "ClaimID_Semantic",
+        "arg_id": "EVL0C049DQW.000009",
+        "value": "CLL0C049DQW.000005",
+        "arg_ann_id": "E9"
+    },
+    "ATL0C049DQW.000011": {
+        "id": "ATL0C049DQW.000011",
+        "type": "ClaimID_Associate",
+        "arg_id": "EVL0C049DQW.000010",
+        "value": "CLL0C049DQW.000005",
+        "arg_ann_id": "E10"
+    },
+    "ATL0C049DQW.000012": {
+        "id": "ATL0C049DQW.000012",
+        "type": "ClaimID_Semantic",
+        "arg_id": "EVL0C049DQW.000011",
+        "value": "CLL0C049DQW.000006",
+        "arg_ann_id": "E11"
+    },
+    "ATL0C049DQW.000013": {
+        "id": "ATL0C049DQW.000013",
+        "type": "ClaimID_Semantic",
+        "arg_id": "EVL0C049DQW.000012",
+        "value": "CLL0C049DQW.000007",
+        "arg_ann_id": "E12"
+    },
+    "ATL0C049DQW.000014": {
+        "id": "ATL0C049DQW.000014",
+        "type": "ClaimID_Semantic",
+        "arg_id": "EVL0C049DQW.000013",
+        "value": "CLL0C049DQW.000008",
+        "arg_ann_id": "E13"
+    },
+    "ATL0C049DQW.000015": {
+        "id": "ATL0C049DQW.000015",
+        "type": "ClaimID_Semantic",
+        "arg_id": "EVL0C049DQW.000014",
+        "value": "CLL0C049DQW.000009",
+        "arg_ann_id": "E14"
+    },
+    "ATL0C049DQW.000016": {
+        "id": "ATL0C049DQW.000016",
+        "type": "ClaimID_Semantic",
+        "arg_id": "EVL0C049DQW.000015",
+        "value": "CLL0C049DQW.000009",
+        "arg_ann_id": "E15"
+    },
+    "ATL0C049DQW.000017": {
+        "id": "ATL0C049DQW.000017",
+        "type": "ClaimID_Associate",
+        "arg_id": "EVL0C049DQW.000016",
+        "value": "CLL0C049DQW.000009",
+        "arg_ann_id": "E16"
+    },
+    "ATL0C049DQW.000018": {
+        "id": "ATL0C049DQW.000018",
+        "type": "ClaimID_Semantic",
+        "arg_id": "EVL0C049DQW.000017",
+        "value": "CLL0C049DQW.000010",
+        "arg_ann_id": "E17"
+    },
+    "ATL0C049DQW.000019": {
+        "id": "ATL0C049DQW.000019",
+        "type": "ClaimID_Semantic",
+        "arg_id": "EVL0C049DQW.000018",
+        "value": "CLL0C049DQW.000011",
+        "arg_ann_id": "E18"
+    },
+    "ATL0C049DQW.000020": {
+        "id": "ATL0C049DQW.000020",
+        "type": "ClaimID_Semantic",
+        "arg_id": "EVL0C049DQW.000019",
+        "value": "CLL0C049DQW.000012",
+        "arg_ann_id": "E19"
+    },
+    "ATL0C049DQW.000021": {
+        "id": "ATL0C049DQW.000021",
+        "type": "ClaimID_Semantic",
+        "arg_id": "EVL0C049DQW.000020",
+        "value": "CLL0C049DQW.000013",
+        "arg_ann_id": "E20"
+    },
+    "ATL0C049DQW.000022": {
+        "id": "ATL0C049DQW.000022",
+        "type": "ClaimID_Semantic",
+        "arg_id": "EVL0C049DQW.000021",
+        "value": "CLL0C049DQW.000014",
+        "arg_ann_id": "E21"
+    },
+    "ATL0C049DQW.000023": {
+        "id": "ATL0C049DQW.000023",
+        "type": "ClaimID_Semantic",
+        "arg_id": "EVL0C049DQW.000022",
+        "value": "CLL0C049DQW.000014",
+        "arg_ann_id": "E22"
+    },
+    "ATL0C049DQW.000024": {
+        "id": "ATL0C049DQW.000024",
+        "type": "ClaimID_Associate",
+        "arg_id": "EVL0C049DQW.000023",
+        "value": "CLL0C049DQW.000014",
+        "arg_ann_id": "E23"
+    },
+    "ATL0C049DQW.000025": {
+        "id": "ATL0C049DQW.000025",
+        "type": "ClaimID_Semantic",
+        "arg_id": "EVL0C049DQW.000024",
+        "value": "CLL0C049DQW.000015",
+        "arg_ann_id": "E24"
+    },
+    "ATL0C049DQW.000026": {
+        "id": "ATL0C049DQW.000026",
+        "type": "ClaimID_Semantic",
+        "arg_id": "EVL0C049DQW.000025",
+        "value": "CLL0C049DQW.000016",
+        "arg_ann_id": "E25"
+    }
+}

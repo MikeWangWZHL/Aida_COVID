@@ -1,0 +1,120 @@
+Antiviral Drug Remdesivir Can Help Fight the Coronavirus, But Can Patients Get It?
+Nearly four months since the first case of COVID-19 was confirmed in the United States, a glimmer of hope has emerged for treating the disease.
+Doctors on the frontlines still lack a proven treatment for the disease as researchers race to develop a vaccine.
+No drug is approved by the Food and Drug Administration (FDA) for COVID-19, although dozens of candidates – including drugs used to treat rheumatoid arthritis, parasites, cancer, and HIV – have been proposed and many are currently in clinical trials.
+Amid so little good news, early clinical trial results for the anti-viral drug remdesivir have offered hope.
+The drug appeared to help patients recover faster, from 15 days to 11 days.
+That earned remdesivir an emergency use authorization (EUA) from the FDA, allowing it to be used more broadly outside of clinical trials.
+Infectious disease experts, though eager finally to have an evidence-based therapy to offer patients, say remdesivir is not a magic bullet, and not a game-changer in ending the pandemic.
+That will likely take a vaccine.
+However, they agree that it’s the best option we have now and some suggest it may become part of a cocktail of drugs needed to effectively treat COVID-19.
+The newest obstacle may be the uncertainty that surrounds how the drug will be distributed to patients.
+We spoke to UC San Francisco infectious disease specialists Peter Chin-Hong, MD, and Sarah Doernberg, MD, MAS, and infectious diseases pharmacist Kathy Yang, PharmD, MPH, about how remdesivir fights the coronavirus, who can now get the drug, and why they’re still waiting to see more data.
+What is remdesivir and how does it fight the coronavirus?
+Annie Luetkemeyer, MD, an infectious disease specialist who is leading the COVID-19 clinical trials at UCSF and Zuckerberg San Francisco General Hospital and Trauma Center, explains what we know about remdesivir.
+Remdesivir is an anti-viral drug administered by IV.
+It’s known as a nucleoside analog, meaning it mimics a component of viral RNA that the virus needs to replicate itself.
+“Remdesivir is basically faking the virus into thinking it’s a building block of viral genetic material,” said Chin-Hong.
+The virus uses an enzyme called RNA-dependent RNA polymerase to assemble chains of RNA piece by piece.
+When the RNA polymerase picks up the drug instead, the RNA assembly line is jammed and viral replication soon halted.
+“It’s not an immediate stop,” said Yang, because the virus has a powerful proofreading function that it will use to try to undo the mistake.
+“But it won’t be able to fix it, and replication will stop,” said Yang.
+When tested in infected cells in the lab, remdesivir stops replication in a range of viruses, including hepatitis, Ebola and other human coronaviruses, such as SARS and MERS.
+But the drug was shelved by Gilead Sciences, its manufacturer, after trials in Ebola patients found it to be less effective than other Ebola therapies.
+When the COVID-19 pandemic hit, researchers pulled the drug out of the freezer and found that it also stops replication of SARS-CoV-2.
+Because its safety had been shown in the earlier trials, remdesivir quickly moved into clinical trials for COVID-19.
+What do we know from clinical trials?
+Three clinical trials so far have reported on remdesivir’s effects on COVID-19.
+The only one that has been published is a clinical trial in China that compared remdesivir against placebo and found no benefit from the drug, but the trial did not enroll enough patients to have statistical power.
+(The epidemic had waned in Wuhan and fewer sick patients were available at the time of the trial.)
+It’s unclear whether the patients also received traditional Chinese medicine, which often contain steroids that may have affected the outcomes, said Chin-Hong.
+“So the big picture for me, apart from it being underpowered statistically, was that this trial may not be quite generalizable to what is done in other parts of the world, including the United States,” he said.
+More promising results come from a large National Institutes of Health (NIH) study that enrolled over 1,000 hospitalized COVID-19 patients across 22 countries.
+To qualify, patients had to be hospitalized with confirmed COVID-19 and have evidence of lung involvement, such as an abnormal chest X-ray or needing supplemental oxygen.
+UCSF Medical Center and Zuckerberg San Francisco General were among the hospitals that participated in the NIH remdesivir trial.
+A COVID-19 accelerated care unit is set up outside the hospital at Parnassus.
+Photo credit: Noah Berger
+
+An early analysis of the data, which did not include patients enrolled later in the trial, found that median time to recovery was 11 days for patients on remdesivir and 15 days for patients on placebo.
+It also suggested a lower death rate, 8 percent on remdesivir compared to 11.6 percent on placebo, but that difference was just short of statistical significance.
+UCSF and Zuckerberg San Francisco General Hospital together enrolled about 30 patients in the NIH trial.
+Because the trial was double-blinded, neither the doctors nor the patients knew which patients received remdesivir or placebo.
+With survival rates in San Francisco relatively high compared to harder hit cities, it was hard to attribute any specific improvement to the drug, said Chin-Hong and Doernberg, who both cared for patients in the trial.
+“We’re talking about a couple days of faster recovery overall, so in any one particular patient, that may not be so apparent,” said Doernberg.
+“This is why you have to do large trials.”
+
+Because the results were reported only in a press release and the full data not yet published, experts say it’s unclear how the drug performs in different patient populations or at different stages of the disease.
+Moreover, amid the ongoing crisis, hospitals in the trial likely faced different conditions.
+“The performance of the drug isn’t only about the drug itself, it’s about the system and how the system is dealing with the illness,” said Chin-Hong.
+“Do you have enough oxygen?
+Do you have enough nurses?
+Can a patient get a blood transfusion or other medicines they need?
+These are things we take for granted but may be more challenging in a surge environment.”
+
+A third trial, an open-label study run by Gilead, compared the standard 10-day course of remdesivir against a five-day course and found similar efficacy.
+(Patients receive two doses on the first day and then one dose per day for the rest of the course.)
+A shorter regimen could allow the current supply of drugs to help more patients.
+What’s still unknown at this point?
+Experts are encouraged by the moderate benefits described in the NIH press release, but they said without seeing all the data, it’s still hard to know how best to use remdesivir.
+Does the efficacy of the drug depend on severity of illness?
+Is it more effective if given earlier?
+“Likely the benefit of any anti-viral is when you give it early in infection to stop viral replication,” said Yang.
+Scanning electron micrograph of a cell heavily infected with SARS-CoV-2, the virus that causes COVID-19.
+Image credit: NIAID
+
+Much like Tamiflu is more effective in the first few days of the flu, remdesivir may have more impact earlier in COVID-19.
+That’s important not only from a public health standpoint – the sooner you can lower your viral load, the less you can transmit to others – but also because of the inflammatory complications that arise later in the disease.
+“When you get to the second stage of COVID-19, when the cats out of the bag, you also have this inflammatory response that is causing lung damage,” said Yang.
+“When patients become really sick, antivirals alone may not be enough.”
+
+Although it’s hoped that remdesivir reduces a patient’s viral load, even that cannot be confirmed without the data, said Chin-Hong.
+“I think, scientifically, we need a little more time to look at the data more critically,” he said.
+“Doesn’t mean we’ll stop using it, but it means that before opening the floodgates to anyone, we want to understand it a bit more.”
+
+What does emergency use authorization mean for patients?
+The FDA’s emergency use authorization allows remdesivir to be used more broadly outside of clinical trials.
+But its use is still limited to patients hospitalized with severe COVID-19, defined as having an oxygen saturation of less than 94 percent, requiring supplemental oxygen, mechanical ventilation or a heart-lung bypass machine, also known as ECMO.
+Gilead has agreed to donate its current supply of remdesivir, a total of 1.5 million doses – 607,000 doses to the United States and the rest worldwide.
+Each patient requires six to 11 doses.
+The federal government is coordinating distribution to state health departments, which will then distribute the drug to hospitals.
+You can imagine every country in the world wants to get a supply right now.
+Sarah Doernberg, MD, MAS
+
+It’s unclear if hospitals in San Francisco, which has largely avoided a surge, will receive adequate supplies of the drug.
+An initial allocation of the drug did not include California.
+In the latest allocation, the California Department of Public Heath received 1,200 doses, which will be distributed proportionally to counties based on the number of hospitalized COVID-19 patients.
+San Francisco received 28 doses, enough to treat three or four patients.
+It’s also unclear how remdesivir will be distributed among other countries.
+“You can imagine every country in the world wants to get a supply right now,” said Doernberg.
+An emergency use authorization is not the same as FDA approval, which would require a more extensive review of clinical trial results.
+FDA approval would also allow Gilead to charge for the drug.
+“I’d be even more concerned about equity at that point because there’ll be a price attached to it,” said Chin-Hong.
+“Of course, that brings up the myriad issues of expensive drugs and access.”
+
+What’s next to study with remdesivir?
+The NIH has begun a second phase of its trial to look at combining remdesivir with the anti-inflammatory drug baracitinab.
+UCSF will also take part.
+Baracitinab, already approved for the treatment of rheumatoid arthritis, may help calm the so-called cytokine storms that lead to dangerous inflammation of the lungs and other organ damage in severe cases of COVID-19.
+In the new phase, researchers will compare the two-drug combination against remdesivir alone.
+In fact, now that remdesivir is considered the new “standard of care” for COVID-19, many ongoing clinical trials will likely have to alter their design to provide remdesivir to all patients.
+“This is throwing a wrench in a lot of clinical trials,” said Doernberg.
+“The trials that are not studying remdesivir are having to retool because you can’t, at this point, offer just a placebo to people.
+So you have to change it to allow for remdesivir to be given to both arms of the trial.”
+
+Looking to the future, clinicians hope that remdesivir may eventually be manufactured in alternative forms, perhaps ones that could be inhaled or injected just under the skin, or even as a pill.
+A pill could be given to patients outside of the hospital, perhaps as soon as they test positive, or even as a prophylactic, said Chin-Hong.
+He drew a comparison to some anti-retroviral medicines taken to prevent HIV infection that “not only help the patient, but help society at large” by reducing transmission.
+A pill would also be safer for patients with kidney failure, said Yang.
+Remdesivir in its current IV form uses a chemical, cyclodextrin, that makes the drug soluble, but can accumulate in the kidneys, said Yang.
+How hopeful should we be about remdesivir?
+“It’s the among the first good news we’ve had, so I’m optimistic about that,” said Doernberg.
+“If you can get people out of the hospital safely earlier, then it lowers the stress on hospital resources and it’s going to decrease mortality.”
+
+“It’s a modest improvement, but it’s better than anything else we have,” said Yang.
+Experts said that it is important to pursue other therapies, but cautioned that most drugs that work in theory, or even in the lab, do not work in patients.
+“Not everything that shows efficacy in the lab translates to clinical improvement.
+We see that all the time,” said Yang.
+The malaria drug hydroxychloroquine, for example, shows activity against the coronavirus in vitro, but can cause cardiac toxicity in patients.
+By that measure, remdesivir has come a long way.
+“But remdesivir is not the end of the story,” said Chin-Hong.
+“We’re not going to see the end of this until we have a really great vaccine – and even when you have a vaccine, not everyone gets the vaccination.”

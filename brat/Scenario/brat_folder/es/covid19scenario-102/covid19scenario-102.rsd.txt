@@ -1,0 +1,9 @@
+Actualiza el navegador para disfrutar de una mejor experiencia de visualización.
+Te recomendamos que actualices tu navegador a la versión más reciente para evitar problemas de compatibilidad con algunas funciones de nuestra web.
+Versiones mínimas de navegador recomendadas:
+- Google Chrome 37
+- Firefox 40
+- Internet Explorer Edge
+- Safari 2
+- Opera 36
+Para conocer qué versión de navegador tienes, puedes utilizar whatbrowser.org

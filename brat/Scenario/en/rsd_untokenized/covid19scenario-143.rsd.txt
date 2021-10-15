@@ -1,0 +1,50 @@
+It is improbable that SARS-CoV-2 emerged through laboratory manipulation of a related SARS-CoV-like coronavirus.
+As noted above, the RBD of SARS-CoV-2 is optimized for binding to human ACE2 with an efficient solution different from those previously predicted7,11.
+Furthermore, if genetic manipulation had been performed, one of the several reverse-genetic systems available for betacoronaviruses would probably have been used19.
+However, the genetic data irrefutably show that SARS-CoV-2 is not derived from any previously used virus backbone20.
+Instead, we propose two scenarios that can plausibly explain the origin of SARS-CoV-2: (i) natural selection in an animal host before zoonotic transfer; and (ii) natural selection in humans following zoonotic transfer.
+We also discuss whether selection during passage could have given rise to SARS-CoV-2.
+1.
+Natural selection in an animal host before zoonotic transfer
+
+As many early cases of COVID-19 were linked to the Huanan market in Wuhan1,2, it is possible that an animal source was present at this location.
+Given the similarity of SARS-CoV-2 to bat SARS-CoV-like coronaviruses2, it is likely that bats serve as reservoir hosts for its progenitor.
+Although RaTG13, sampled from a Rhinolophus affinis bat1, is ~96% identical overall to SARS-CoV-2, its spike diverges in the RBD, which suggests that it may not bind efficiently to human ACE27 (Fig.
+1a).
+Malayan pangolins (Manis javanica) illegally imported into Guangdong province contain coronaviruses similar to SARS-CoV-221.
+Although the RaTG13 bat virus remains the closest to SARS-CoV-2 across the genome1, some pangolin coronaviruses exhibit strong similarity to SARS-CoV-2 in the RBD, including all six key RBD residues21 (Fig.
+1).
+This clearly shows that the SARS-CoV-2 spike protein optimized for binding to human-like ACE2 is the result of natural selection.
+Neither the bat betacoronaviruses nor the pangolin betacoronaviruses sampled thus far have polybasic cleavage sites.
+Although no animal coronavirus has been identified that is sufficiently similar to have served as the direct progenitor of SARS-CoV-2, the diversity of coronaviruses in bats and other species is massively undersampled.
+Mutations, insertions and deletions can occur near the S1–S2 junction of coronaviruses22, which shows that the polybasic cleavage site can arise by a natural evolutionary process.
+For a precursor virus to acquire both the polybasic cleavage site and mutations in the spike protein suitable for binding to human ACE2, an animal host would probably have to have a high population density (to allow natural selection to proceed efficiently) and an ACE2-encoding gene that is similar to the human ortholog.
+2.
+Natural selection in humans following zoonotic transfer
+
+It is possible that a progenitor of SARS-CoV-2 jumped into humans, acquiring the genomic features described above through adaptation during undetected human-to-human transmission.
+Once acquired, these adaptations would enable the pandemic to take off and produce a sufficiently large cluster of cases to trigger the surveillance system that detected it1,2.
+All SARS-CoV-2 genomes sequenced so far have the genomic features described above and are thus derived from a common ancestor that had them too.
+The presence in pangolins of an RBD very similar to that of SARS-CoV-2 means that we can infer this was also probably in the virus that jumped to humans.
+This leaves the insertion of polybasic cleavage site to occur during human-to-human transmission.
+Estimates of the timing of the most recent common ancestor of SARS-CoV-2 made with current sequence data point to emergence of the virus in late November 2019 to early December 201923, compatible with the earliest retrospectively confirmed cases24.
+Hence, this scenario presumes a period of unrecognized transmission in humans between the initial zoonotic event and the acquisition of the polybasic cleavage site.
+Sufficient opportunity could have arisen if there had been many prior zoonotic events that produced short chains of human-to-human transmission over an extended period.
+This is essentially the situation for MERS-CoV, for which all human cases are the result of repeated jumps of the virus from dromedary camels, producing single infections or short transmission chains that eventually resolve, with no adaptation to sustained transmission25.
+Studies of banked human samples could provide information on whether such cryptic spread has occurred.
+Retrospective serological studies could also be informative, and a few such studies have been conducted showing low-level exposures to SARS-CoV-like coronaviruses in certain areas of China26.
+Critically, however, these studies could not have distinguished whether exposures were due to prior infections with SARS-CoV, SARS-CoV-2 or other SARS-CoV-like coronaviruses.
+Further serological studies should be conducted to determine the extent of prior human exposure to SARS-CoV-2.
+3.
+Selection during passage
+
+Basic research involving passage of bat SARS-CoV-like coronaviruses in cell culture and/or animal models has been ongoing for many years in biosafety level 2 laboratories across the world27, and there are documented instances of laboratory escapes of SARS-CoV28.
+We must therefore examine the possibility of an inadvertent laboratory release of SARS-CoV-2.
+In theory, it is possible that SARS-CoV-2 acquired RBD mutations (Fig.
+1a) during adaptation to passage in cell culture, as has been observed in studies of SARS-CoV11.
+The finding of SARS-CoV-like coronaviruses from pangolins with nearly identical RBDs, however, provides a much stronger and more parsimonious explanation of how SARS-CoV-2 acquired these via recombination or mutation19.
+The acquisition of both the polybasic cleavage site and predicted O-linked glycans also argues against culture-based scenarios.
+New polybasic cleavage sites have been observed only after prolonged passage of low-pathogenicity avian influenza virus in vitro or in vivo17.
+Furthermore, a hypothetical generation of SARS-CoV-2 by cell culture or animal passage would have required prior isolation of a progenitor virus with very high genetic similarity, which has not been described.
+Subsequent generation of a polybasic cleavage site would have then required repeated passage in cell culture or animals with ACE2 receptors similar to those of humans, but such work has also not previously been described.
+Finally, the generation of the predicted O-linked glycans is also unlikely to have occurred due to cell-culture passage, as such features suggest the involvement of an immune system18.

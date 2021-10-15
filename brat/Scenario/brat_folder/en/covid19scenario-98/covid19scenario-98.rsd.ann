@@ -1,0 +1,25 @@
+T1	ORG 22 25	our
+T2	GPE 26 30	City
+T3	ORG 59 61	We
+T4	PER 75 79	your
+T5	PER 145 149	your
+T6	PER 156 160	your
+T7	PER 161 167	family
+T8	PER 172 175	our
+T9	PER 176 185	community
+T10	GPE 187 197	ORIGINALLY
+T11	ORG 355 366	City Limits
+T12	PER 445 456	researchers
+T13	ORG 648 697	Journal of Applied and Environmental Microbiology
+T14	MHI 834 839	virus
+T15	GPE 1016 1031	Washington, D.C
+T16	ORG 1040 1049	nonprofit
+T17	ORG 1061 1094	Federation of American Scientists
+T18	ORG 1128 1170	Centers for Disease Control and Prevention
+T19	PER 1416 1418	we
+T20	PER 1465 1467	we
+T21	LOC 1618 1625	surface
+T22	ORG 1689 1692	CDC
+T23	PER 1778 1782	your
+T24	ORG 1936 1939	our
+T25	GPE 1955 1962	Indiana

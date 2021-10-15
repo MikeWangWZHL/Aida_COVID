@@ -1,0 +1,59 @@
+T1	MHI 32 43	Coronavirus
+T2	GPE 153 158	China
+T3	GPE 174 185	responsable
+T4	LOC 222 227	mundo
+T5	FAC 352 363	laboratorio
+T6	GPE 367 372	Wuhan
+T7	GPE 374 379	China
+T8	PER 392 400	personas
+T9	PER 450 456	humano
+T10	PER 549 555	humano
+T11	FAC 562 569	mercado
+T12	GPE 576 582	ciudad
+T13	GPE 586 591	Wuhan
+T14	ORG 722 745	Alianza de Inteligencia
+T15	GPE 771 777	países
+T16	GPE 787 794	inglesa
+T17	GPE 796 810	Estados Unidos
+T18	GPE 812 823	Reino Unido
+T19	GPE 825 831	Canadá
+T20	GPE 833 842	Australia
+T21	GPE 845 858	Nueva Zelanda
+T22	ORG 900 944	Servicio Secreto de Inteligencia Australiano
+T23	ORG 946 950	ASIS
+T24	ORG 971 977	diario
+T25	ORG 979 998	The Daily Telegraph
+T26	GPE 1056 1061	Wuhan
+T27	LOC 1095 1100	mundo
+T28	GPE 1111 1116	China
+T29	GPE 1169 1171	su
+T30	ORG 1210 1214	ASIS
+T31	ORG 1227 1235	agencias
+T32	GPE 1255 1269	Estados Unidos
+T33	PER 1334 1340	hombre
+T34	ORG 1446 1454	agencias
+T35	FAC 1566 1577	laboratorio
+T36	ORG 1626 1631	medio
+T37	GPE 1632 1643	australiano
+T38	ORG 1645 1663	Saturday Telegraph
+T39	GPE 1734 1739	China
+T40	PER 1756 1767	Shi Zhengli
+T41	PER 1769 1778	directora
+T42	ORG 1783 1811	Centro de Virología de Wuhan
+T43	ORG 1924 1935	laboratorio
+T44	ORG 1959 2031	Organización de Investigación Científica e Industrial de la Commonwealth
+T45	ORG 2032 2037	CSIRO
+T46	GPE 2043 2052	Australia
+T47	ORG 2063 2096	Universidad de Carolina del Norte
+T48	GPE 2101 2115	Estados Unidos
+T49	PER 2137 2148	Shi Zhengli
+T50	PER 2230 2237	humanos
+T51	ORG 2258 2291	Universidad de Carolina del Norte
+T52	MHI 2338 2343	virus
+T53	PER 2397 2408	murciélagos
+T54	PER 2415 2422	humanos
+T55	PER 2579 2590	murciélagos
+T56	GPE 2643 2648	China
+T57	PER 2725 2734	potencias
+T58	PER 2751 2760	comunidad
+T59	PER 2909 2918	población

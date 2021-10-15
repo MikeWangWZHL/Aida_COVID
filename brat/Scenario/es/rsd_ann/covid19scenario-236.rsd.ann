@@ -1,0 +1,103 @@
+T1	PER 1 3	Le
+T2	PER 96 99	Nos
+T3	PER 199 207	COVID-19
+T4	PER 284 286	Os
+T5	GPE 403 408	Wuhan
+T6	MHI 411 423	Corona-virus
+T7	ORG 532 535	OMS
+T8	PER 590 598	COVID-19
+T9	LOC 634 639	zonas
+T10	LOC 656 661	áreas
+T11	LOC 769 773	área
+T12	ORG 786 791	COVID
+T13	ORG 896 928	Organización Mundial de la Salud
+T14	ORG 930 933	OMS
+T15	ORG 940 943	CDC
+T16	GPE 944 958	estadounidense
+T17	ORG 1005 1075	Centros para el Control y Prevención de Enfermedades de Estados Unidos
+T18	ORG 1077 1080	CDC
+T19	ORG 1086 1089	sus
+T20	ORG 1119 1121	su
+T21	MHI 1275 1280	gripe
+T22	PER 1586 1594	expertos
+T23	PER 1680 1687	Maldita
+T24	PER 1763 1775	investigador
+T25	ORG 1780 1824	departamento de Biología Celular y Molecular
+T26	ORG 1829 1861	Centro Nacional de Biotecnología
+T27	ORG 1863 1866	CNB
+T28	ORG 1867 1871	CSIC
+T29	PER 1875 1883	director
+T30	ORG 1888 1922	Laboratorio de Coronavirus del CNB
+T31	PER 1924 1937	Luis Enjuanes
+T32	PER 2008 2010	su
+T33	PER 2021 2033	investigador
+T34	ORG 2038 2043	grupo
+T35	ORG 2066 2141	Instituto de Biología Integrativa de Sistemas de la Universidat de València
+T36	PER 2142 2152	Ron Geller
+T37	PER 2167 2174	Maldita
+T38	PER 2185 2187	su
+T39	PER 2416 2421	gente
+T40	PER 2528 2539	científicos
+T41	GPE 2700 2706	países
+T42	GPE 2730 2739	Australia
+T43	LOC 2742 2748	climas
+T44	GPE 2762 2767	India
+T45	GPE 2770 2776	México
+T46	ORG 2917 2920	OMS
+T47	PER 2960 2971	científicos
+T48	PER 3215 3222	autores
+T49	LOC 3301 3310	latitudes
+T50	GPE 3416 3424	ciudades
+T51	PER 3697 3705	expertos
+T52	PER 3818 3831	Marc Lipsitch
+T53	PER 3833 3841	profesor
+T54	PER 3861 3869	director
+T55	ORG 3874 3922	Centro de Dinámica de Enfermedades Transmisibles
+T56	ORG 3929 3958	Escuela de Salud Pública T.H.
+T57	PER 3959 3963	Chan
+T58	GPE 3967 3974	Harvard
+T59	GPE 3976 3990	Estados Unidos
+T60	ORG 4022 4044	Universidad de Harvard
+T61	MHI 4091 4101	enfermedad
+T62	PER 4191 4193	Su
+T63	PER 4550 4558	Lipsitch
+T64	PER 4676 4683	experto
+T65	PER 4824 4831	Maldita
+T66	PER 4835 4846	Isabel Sola
+T67	PER 4848 4856	viróloga
+T68	ORG 4861 4872	laboratorio
+T69	ORG 4892 4924	Centro Nacional de Biotecnología
+T70	ORG 4926 4929	CNB
+T71	ORG 4930 4934	CSIC
+T72	MHI 4948 4953	virus
+T73	PER 5246 5253	persona
+T74	ORG 5367 5377	The Lancet
+T75	MHI 5406 5411	virus
+T76	PER 5843 5857	investigadores
+T77	ORG 5862 5865	MIT
+T78	ORG 5867 5907	Instituto de Tecnología de Massachusetts
+T79	ORG 5913 5916	sus
+T80	PER 6015 6023	nuestros
+T81	LOC 6108 6116	regiones
+T82	GPE 6300 6306	países
+T83	LOC 6307 6316	africanos
+T84	GPE 6368 6374	países
+T85	LOC 6463 6480	África occidental
+T86	LOC 6744 6752	regiones
+T87	MHI 6859 6867	COVID-19
+T88	LOC 6905 6912	latitud
+T89	LOC 7024 7032	regiones
+T90	GPE 7095 7100	China
+T91	GPE 7102 7108	Italia
+T92	GPE 7110 7123	Corea del Sur
+T93	GPE 7126 7130	Irán
+T94	PER 7219 7221	os
+T95	ORG 7237 7269	Organización Mundial de la Salud
+T96	ORG 7271 7274	OMS
+T97	PER 7557 7559	te
+T98	PER 7718 7729	Isabel Sola
+T99	ORG 7790 7793	OMS
+T100	GPE 7887 7893	países
+T101	FAC 7947 7954	estudio
+T102	ORG 8073 8083	The Lancet
+T103	ORG 8104 8108	CMAJ

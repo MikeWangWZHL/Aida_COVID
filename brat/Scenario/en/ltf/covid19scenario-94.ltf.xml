@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-94">
+		<TEXT>
+			<SEG id="covid19scenario-94-0" start_char="0" end_char="178">
+				<ORIGINAL_TEXT>The global COVID-19 crisis has significantly shifted the landscape for mis- and disinformation as the pandemic has become the primary concern of almost every nation on the planet.</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="2">The</TOKEN>
+				<TOKEN id="token-0-1" start_char="4" end_char="9">global</TOKEN>
+				<TOKEN id="token-0-2" start_char="11" end_char="15">COVID</TOKEN>
+				<TOKEN id="token-0-3" start_char="16" end_char="16">-</TOKEN>
+				<TOKEN id="token-0-4" start_char="17" end_char="18">19</TOKEN>
+				<TOKEN id="token-0-5" start_char="20" end_char="25">crisis</TOKEN>
+				<TOKEN id="token-0-6" start_char="27" end_char="29">has</TOKEN>
+				<TOKEN id="token-0-7" start_char="31" end_char="43">significantly</TOKEN>
+				<TOKEN id="token-0-8" start_char="45" end_char="51">shifted</TOKEN>
+				<TOKEN id="token-0-9" start_char="53" end_char="55">the</TOKEN>
+				<TOKEN id="token-0-10" start_char="57" end_char="65">landscape</TOKEN>
+				<TOKEN id="token-0-11" start_char="67" end_char="69">for</TOKEN>
+				<TOKEN id="token-0-12" start_char="71" end_char="73">mis</TOKEN>
+				<TOKEN id="token-0-13" start_char="74" end_char="74">-</TOKEN>
+				<TOKEN id="token-0-14" start_char="76" end_char="78">and</TOKEN>
+				<TOKEN id="token-0-15" start_char="80" end_char="93">disinformation</TOKEN>
+				<TOKEN id="token-0-16" start_char="95" end_char="96">as</TOKEN>
+				<TOKEN id="token-0-17" start_char="98" end_char="100">the</TOKEN>
+				<TOKEN id="token-0-18" start_char="102" end_char="109">pandemic</TOKEN>
+				<TOKEN id="token-0-19" start_char="111" end_char="113">has</TOKEN>
+				<TOKEN id="token-0-20" start_char="115" end_char="120">become</TOKEN>
+				<TOKEN id="token-0-21" start_char="122" end_char="124">the</TOKEN>
+				<TOKEN id="token-0-22" start_char="126" end_char="132">primary</TOKEN>
+				<TOKEN id="token-0-23" start_char="134" end_char="140">concern</TOKEN>
+				<TOKEN id="token-0-24" start_char="142" end_char="143">of</TOKEN>
+				<TOKEN id="token-0-25" start_char="145" end_char="150">almost</TOKEN>
+				<TOKEN id="token-0-26" start_char="152" end_char="156">every</TOKEN>
+				<TOKEN id="token-0-27" start_char="158" end_char="163">nation</TOKEN>
+				<TOKEN id="token-0-28" start_char="165" end_char="166">on</TOKEN>
+				<TOKEN id="token-0-29" start_char="168" end_char="170">the</TOKEN>
+				<TOKEN id="token-0-30" start_char="172" end_char="177">planet</TOKEN>
+				<TOKEN id="token-0-31" start_char="178" end_char="178">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-94-1" start_char="180" end_char="481">
+				<ORIGINAL_TEXT>This has perhaps never happened before; few topics have commanded and sustained attention at a global level simultaneously, or provided such a wealth of opportunities for governments, economically motivated actors, and domestic activists alike to spread malign narratives in service to their interests.</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="180" end_char="183">This</TOKEN>
+				<TOKEN id="token-1-1" start_char="185" end_char="187">has</TOKEN>
+				<TOKEN id="token-1-2" start_char="189" end_char="195">perhaps</TOKEN>
+				<TOKEN id="token-1-3" start_char="197" end_char="201">never</TOKEN>
+				<TOKEN id="token-1-4" start_char="203" end_char="210">happened</TOKEN>
+				<TOKEN id="token-1-5" start_char="212" end_char="217">before</TOKEN>
+				<TOKEN id="token-1-6" start_char="218" end_char="218">;</TOKEN>
+				<TOKEN id="token-1-7" start_char="220" end_char="222">few</TOKEN>
+				<TOKEN id="token-1-8" start_char="224" end_char="229">topics</TOKEN>
+				<TOKEN id="token-1-9" start_char="231" end_char="234">have</TOKEN>
+				<TOKEN id="token-1-10" start_char="236" end_char="244">commanded</TOKEN>
+				<TOKEN id="token-1-11" start_char="246" end_char="248">and</TOKEN>
+				<TOKEN id="token-1-12" start_char="250" end_char="258">sustained</TOKEN>
+				<TOKEN id="token-1-13" start_char="260" end_char="268">attention</TOKEN>
+				<TOKEN id="token-1-14" start_char="270" end_char="271">at</TOKEN>
+				<TOKEN id="token-1-15" start_char="273" end_char="273">a</TOKEN>
+				<TOKEN id="token-1-16" start_char="275" end_char="280">global</TOKEN>
+				<TOKEN id="token-1-17" start_char="282" end_char="286">level</TOKEN>
+				<TOKEN id="token-1-18" start_char="288" end_char="301">simultaneously</TOKEN>
+				<TOKEN id="token-1-19" start_char="302" end_char="302">,</TOKEN>
+				<TOKEN id="token-1-20" start_char="304" end_char="305">or</TOKEN>
+				<TOKEN id="token-1-21" start_char="307" end_char="314">provided</TOKEN>
+				<TOKEN id="token-1-22" start_char="316" end_char="319">such</TOKEN>
+				<TOKEN id="token-1-23" start_char="321" end_char="321">a</TOKEN>
+				<TOKEN id="token-1-24" start_char="323" end_char="328">wealth</TOKEN>
+				<TOKEN id="token-1-25" start_char="330" end_char="331">of</TOKEN>
+				<TOKEN id="token-1-26" start_char="333" end_char="345">opportunities</TOKEN>
+				<TOKEN id="token-1-27" start_char="347" end_char="349">for</TOKEN>
+				<TOKEN id="token-1-28" start_char="351" end_char="361">governments</TOKEN>
+				<TOKEN id="token-1-29" start_char="362" end_char="362">,</TOKEN>
+				<TOKEN id="token-1-30" start_char="364" end_char="375">economically</TOKEN>
+				<TOKEN id="token-1-31" start_char="377" end_char="385">motivated</TOKEN>
+				<TOKEN id="token-1-32" start_char="387" end_char="392">actors</TOKEN>
+				<TOKEN id="token-1-33" start_char="393" end_char="393">,</TOKEN>
+				<TOKEN id="token-1-34" start_char="395" end_char="397">and</TOKEN>
+				<TOKEN id="token-1-35" start_char="399" end_char="406">domestic</TOKEN>
+				<TOKEN id="token-1-36" start_char="408" end_char="416">activists</TOKEN>
+				<TOKEN id="token-1-37" start_char="418" end_char="422">alike</TOKEN>
+				<TOKEN id="token-1-38" start_char="424" end_char="425">to</TOKEN>
+				<TOKEN id="token-1-39" start_char="427" end_char="432">spread</TOKEN>
+				<TOKEN id="token-1-40" start_char="434" end_char="439">malign</TOKEN>
+				<TOKEN id="token-1-41" start_char="441" end_char="450">narratives</TOKEN>
+				<TOKEN id="token-1-42" start_char="452" end_char="453">in</TOKEN>
+				<TOKEN id="token-1-43" start_char="455" end_char="461">service</TOKEN>
+				<TOKEN id="token-1-44" start_char="463" end_char="464">to</TOKEN>
+				<TOKEN id="token-1-45" start_char="466" end_char="470">their</TOKEN>
+				<TOKEN id="token-1-46" start_char="472" end_char="480">interests</TOKEN>
+				<TOKEN id="token-1-47" start_char="481" end_char="481">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-94-2" start_char="483" end_char="662">
+				<ORIGINAL_TEXT>In response, the Stanford Internet Observatory is launching the Virality Project, a global study aimed at understanding the disinformation dynamics specific to the COVID-19 crisis.</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="483" end_char="484">In</TOKEN>
+				<TOKEN id="token-2-1" start_char="486" end_char="493">response</TOKEN>
+				<TOKEN id="token-2-2" start_char="494" end_char="494">,</TOKEN>
+				<TOKEN id="token-2-3" start_char="496" end_char="498">the</TOKEN>
+				<TOKEN id="token-2-4" start_char="500" end_char="507">Stanford</TOKEN>
+				<TOKEN id="token-2-5" start_char="509" end_char="516">Internet</TOKEN>
+				<TOKEN id="token-2-6" start_char="518" end_char="528">Observatory</TOKEN>
+				<TOKEN id="token-2-7" start_char="530" end_char="531">is</TOKEN>
+				<TOKEN id="token-2-8" start_char="533" end_char="541">launching</TOKEN>
+				<TOKEN id="token-2-9" start_char="543" end_char="545">the</TOKEN>
+				<TOKEN id="token-2-10" start_char="547" end_char="554">Virality</TOKEN>
+				<TOKEN id="token-2-11" start_char="556" end_char="562">Project</TOKEN>
+				<TOKEN id="token-2-12" start_char="563" end_char="563">,</TOKEN>
+				<TOKEN id="token-2-13" start_char="565" end_char="565">a</TOKEN>
+				<TOKEN id="token-2-14" start_char="567" end_char="572">global</TOKEN>
+				<TOKEN id="token-2-15" start_char="574" end_char="578">study</TOKEN>
+				<TOKEN id="token-2-16" start_char="580" end_char="584">aimed</TOKEN>
+				<TOKEN id="token-2-17" start_char="586" end_char="587">at</TOKEN>
+				<TOKEN id="token-2-18" start_char="589" end_char="601">understanding</TOKEN>
+				<TOKEN id="token-2-19" start_char="603" end_char="605">the</TOKEN>
+				<TOKEN id="token-2-20" start_char="607" end_char="620">disinformation</TOKEN>
+				<TOKEN id="token-2-21" start_char="622" end_char="629">dynamics</TOKEN>
+				<TOKEN id="token-2-22" start_char="631" end_char="638">specific</TOKEN>
+				<TOKEN id="token-2-23" start_char="640" end_char="641">to</TOKEN>
+				<TOKEN id="token-2-24" start_char="643" end_char="645">the</TOKEN>
+				<TOKEN id="token-2-25" start_char="647" end_char="651">COVID</TOKEN>
+				<TOKEN id="token-2-26" start_char="652" end_char="652">-</TOKEN>
+				<TOKEN id="token-2-27" start_char="653" end_char="654">19</TOKEN>
+				<TOKEN id="token-2-28" start_char="656" end_char="661">crisis</TOKEN>
+				<TOKEN id="token-2-29" start_char="662" end_char="662">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-94-3" start_char="664" end_char="679">
+				<ORIGINAL_TEXT>CONTINUE READING</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="664" end_char="671">CONTINUE</TOKEN>
+				<TOKEN id="token-3-1" start_char="673" end_char="679">READING</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

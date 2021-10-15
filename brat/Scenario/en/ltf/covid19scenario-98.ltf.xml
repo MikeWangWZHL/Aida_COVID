@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-98">
+		<TEXT>
+			<SEG id="covid19scenario-98-0" start_char="0" end_char="57">
+				<ORIGINAL_TEXT>This story is part of our City Limits: Coronavirus series.</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="3">This</TOKEN>
+				<TOKEN id="token-0-1" start_char="5" end_char="9">story</TOKEN>
+				<TOKEN id="token-0-2" start_char="11" end_char="12">is</TOKEN>
+				<TOKEN id="token-0-3" start_char="14" end_char="17">part</TOKEN>
+				<TOKEN id="token-0-4" start_char="19" end_char="20">of</TOKEN>
+				<TOKEN id="token-0-5" start_char="22" end_char="24">our</TOKEN>
+				<TOKEN id="token-0-6" start_char="26" end_char="29">City</TOKEN>
+				<TOKEN id="token-0-7" start_char="31" end_char="36">Limits</TOKEN>
+				<TOKEN id="token-0-8" start_char="37" end_char="37">:</TOKEN>
+				<TOKEN id="token-0-9" start_char="39" end_char="49">Coronavirus</TOKEN>
+				<TOKEN id="token-0-10" start_char="51" end_char="56">series</TOKEN>
+				<TOKEN id="token-0-11" start_char="57" end_char="57">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-98-1" start_char="59" end_char="185">
+				<ORIGINAL_TEXT>We're answering your questions about the effect the coronavirus pandemic is having on your life, your family and our community.</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="59" end_char="60">We</TOKEN>
+				<TOKEN id="token-1-1" start_char="61" end_char="61">'</TOKEN>
+				<TOKEN id="token-1-2" start_char="62" end_char="63">re</TOKEN>
+				<TOKEN id="token-1-3" start_char="65" end_char="73">answering</TOKEN>
+				<TOKEN id="token-1-4" start_char="75" end_char="78">your</TOKEN>
+				<TOKEN id="token-1-5" start_char="80" end_char="88">questions</TOKEN>
+				<TOKEN id="token-1-6" start_char="90" end_char="94">about</TOKEN>
+				<TOKEN id="token-1-7" start_char="96" end_char="98">the</TOKEN>
+				<TOKEN id="token-1-8" start_char="100" end_char="105">effect</TOKEN>
+				<TOKEN id="token-1-9" start_char="107" end_char="109">the</TOKEN>
+				<TOKEN id="token-1-10" start_char="111" end_char="121">coronavirus</TOKEN>
+				<TOKEN id="token-1-11" start_char="123" end_char="130">pandemic</TOKEN>
+				<TOKEN id="token-1-12" start_char="132" end_char="133">is</TOKEN>
+				<TOKEN id="token-1-13" start_char="135" end_char="140">having</TOKEN>
+				<TOKEN id="token-1-14" start_char="142" end_char="143">on</TOKEN>
+				<TOKEN id="token-1-15" start_char="145" end_char="148">your</TOKEN>
+				<TOKEN id="token-1-16" start_char="150" end_char="153">life</TOKEN>
+				<TOKEN id="token-1-17" start_char="154" end_char="154">,</TOKEN>
+				<TOKEN id="token-1-18" start_char="156" end_char="159">your</TOKEN>
+				<TOKEN id="token-1-19" start_char="161" end_char="166">family</TOKEN>
+				<TOKEN id="token-1-20" start_char="168" end_char="170">and</TOKEN>
+				<TOKEN id="token-1-21" start_char="172" end_char="174">our</TOKEN>
+				<TOKEN id="token-1-22" start_char="176" end_char="184">community</TOKEN>
+				<TOKEN id="token-1-23" start_char="185" end_char="185">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-98-2" start_char="187" end_char="219">
+				<ORIGINAL_TEXT>ORIGINALLY PUBLISHED MAY 15, 2020</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="187" end_char="196">ORIGINALLY</TOKEN>
+				<TOKEN id="token-2-1" start_char="198" end_char="206">PUBLISHED</TOKEN>
+				<TOKEN id="token-2-2" start_char="208" end_char="210">MAY</TOKEN>
+				<TOKEN id="token-2-3" start_char="212" end_char="213">15</TOKEN>
+				<TOKEN id="token-2-4" start_char="214" end_char="214">,</TOKEN>
+				<TOKEN id="token-2-5" start_char="216" end_char="219">2020</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-98-3" start_char="221" end_char="330">
+				<ORIGINAL_TEXT>A number of sources suggest that freezing temperatures do not kill the novel coronavirus that causes COVID-19.</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="221" end_char="221">A</TOKEN>
+				<TOKEN id="token-3-1" start_char="223" end_char="228">number</TOKEN>
+				<TOKEN id="token-3-2" start_char="230" end_char="231">of</TOKEN>
+				<TOKEN id="token-3-3" start_char="233" end_char="239">sources</TOKEN>
+				<TOKEN id="token-3-4" start_char="241" end_char="247">suggest</TOKEN>
+				<TOKEN id="token-3-5" start_char="249" end_char="252">that</TOKEN>
+				<TOKEN id="token-3-6" start_char="254" end_char="261">freezing</TOKEN>
+				<TOKEN id="token-3-7" start_char="263" end_char="274">temperatures</TOKEN>
+				<TOKEN id="token-3-8" start_char="276" end_char="277">do</TOKEN>
+				<TOKEN id="token-3-9" start_char="279" end_char="281">not</TOKEN>
+				<TOKEN id="token-3-10" start_char="283" end_char="286">kill</TOKEN>
+				<TOKEN id="token-3-11" start_char="288" end_char="290">the</TOKEN>
+				<TOKEN id="token-3-12" start_char="292" end_char="296">novel</TOKEN>
+				<TOKEN id="token-3-13" start_char="298" end_char="308">coronavirus</TOKEN>
+				<TOKEN id="token-3-14" start_char="310" end_char="313">that</TOKEN>
+				<TOKEN id="token-3-15" start_char="315" end_char="320">causes</TOKEN>
+				<TOKEN id="token-3-16" start_char="322" end_char="326">COVID</TOKEN>
+				<TOKEN id="token-3-17" start_char="327" end_char="327">-</TOKEN>
+				<TOKEN id="token-3-18" start_char="328" end_char="329">19</TOKEN>
+				<TOKEN id="token-3-19" start_char="330" end_char="330">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-98-4" start_char="332" end_char="438">
+				<ORIGINAL_TEXT>Four questions came to City Limits: Coronavirus asking whether the virus can be neutralized by freezing it.</ORIGINAL_TEXT>
+				<TOKEN id="token-4-0" start_char="332" end_char="335">Four</TOKEN>
+				<TOKEN id="token-4-1" start_char="337" end_char="345">questions</TOKEN>
+				<TOKEN id="token-4-2" start_char="347" end_char="350">came</TOKEN>
+				<TOKEN id="token-4-3" start_char="352" end_char="353">to</TOKEN>
+				<TOKEN id="token-4-4" start_char="355" end_char="358">City</TOKEN>
+				<TOKEN id="token-4-5" start_char="360" end_char="365">Limits</TOKEN>
+				<TOKEN id="token-4-6" start_char="366" end_char="366">:</TOKEN>
+				<TOKEN id="token-4-7" start_char="368" end_char="378">Coronavirus</TOKEN>
+				<TOKEN id="token-4-8" start_char="380" end_char="385">asking</TOKEN>
+				<TOKEN id="token-4-9" start_char="387" end_char="393">whether</TOKEN>
+				<TOKEN id="token-4-10" start_char="395" end_char="397">the</TOKEN>
+				<TOKEN id="token-4-11" start_char="399" end_char="403">virus</TOKEN>
+				<TOKEN id="token-4-12" start_char="405" end_char="407">can</TOKEN>
+				<TOKEN id="token-4-13" start_char="409" end_char="410">be</TOKEN>
+				<TOKEN id="token-4-14" start_char="412" end_char="422">neutralized</TOKEN>
+				<TOKEN id="token-4-15" start_char="424" end_char="425">by</TOKEN>
+				<TOKEN id="token-4-16" start_char="427" end_char="434">freezing</TOKEN>
+				<TOKEN id="token-4-17" start_char="436" end_char="437">it</TOKEN>
+				<TOKEN id="token-4-18" start_char="438" end_char="438">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-98-5" start_char="440" end_char="638">
+				<ORIGINAL_TEXT>Some researchers point to a 2010 study on two viruses related to the COVID-19 virus as an indication that those viruses survived longer in lower temperatures but don’t address freezing in particular.</ORIGINAL_TEXT>
+				<TOKEN id="token-5-0" start_char="440" end_char="443">Some</TOKEN>
+				<TOKEN id="token-5-1" start_char="445" end_char="455">researchers</TOKEN>
+				<TOKEN id="token-5-2" start_char="457" end_char="461">point</TOKEN>
+				<TOKEN id="token-5-3" start_char="463" end_char="464">to</TOKEN>
+				<TOKEN id="token-5-4" start_char="466" end_char="466">a</TOKEN>
+				<TOKEN id="token-5-5" start_char="468" end_char="471">2010</TOKEN>
+				<TOKEN id="token-5-6" start_char="473" end_char="477">study</TOKEN>
+				<TOKEN id="token-5-7" start_char="479" end_char="480">on</TOKEN>
+				<TOKEN id="token-5-8" start_char="482" end_char="484">two</TOKEN>
+				<TOKEN id="token-5-9" start_char="486" end_char="492">viruses</TOKEN>
+				<TOKEN id="token-5-10" start_char="494" end_char="500">related</TOKEN>
+				<TOKEN id="token-5-11" start_char="502" end_char="503">to</TOKEN>
+				<TOKEN id="token-5-12" start_char="505" end_char="507">the</TOKEN>
+				<TOKEN id="token-5-13" start_char="509" end_char="513">COVID</TOKEN>
+				<TOKEN id="token-5-14" start_char="514" end_char="514">-</TOKEN>
+				<TOKEN id="token-5-15" start_char="515" end_char="516">19</TOKEN>
+				<TOKEN id="token-5-16" start_char="518" end_char="522">virus</TOKEN>
+				<TOKEN id="token-5-17" start_char="524" end_char="525">as</TOKEN>
+				<TOKEN id="token-5-18" start_char="527" end_char="528">an</TOKEN>
+				<TOKEN id="token-5-19" start_char="530" end_char="539">indication</TOKEN>
+				<TOKEN id="token-5-20" start_char="541" end_char="544">that</TOKEN>
+				<TOKEN id="token-5-21" start_char="546" end_char="550">those</TOKEN>
+				<TOKEN id="token-5-22" start_char="552" end_char="558">viruses</TOKEN>
+				<TOKEN id="token-5-23" start_char="560" end_char="567">survived</TOKEN>
+				<TOKEN id="token-5-24" start_char="569" end_char="574">longer</TOKEN>
+				<TOKEN id="token-5-25" start_char="576" end_char="577">in</TOKEN>
+				<TOKEN id="token-5-26" start_char="579" end_char="583">lower</TOKEN>
+				<TOKEN id="token-5-27" start_char="585" end_char="596">temperatures</TOKEN>
+				<TOKEN id="token-5-28" start_char="598" end_char="600">but</TOKEN>
+				<TOKEN id="token-5-29" start_char="602" end_char="604">don</TOKEN>
+				<TOKEN id="token-5-30" start_char="605" end_char="605">’</TOKEN>
+				<TOKEN id="token-5-31" start_char="606" end_char="606">t</TOKEN>
+				<TOKEN id="token-5-32" start_char="608" end_char="614">address</TOKEN>
+				<TOKEN id="token-5-33" start_char="616" end_char="623">freezing</TOKEN>
+				<TOKEN id="token-5-34" start_char="625" end_char="626">in</TOKEN>
+				<TOKEN id="token-5-35" start_char="628" end_char="637">particular</TOKEN>
+				<TOKEN id="token-5-36" start_char="638" end_char="638">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-98-6" start_char="640" end_char="792">
+				<ORIGINAL_TEXT>And the Journal of Applied and Environmental Microbiology cites the 2010 study, which looks at the effects of temperature and humidity on viral survival.</ORIGINAL_TEXT>
+				<TOKEN id="token-6-0" start_char="640" end_char="642">And</TOKEN>
+				<TOKEN id="token-6-1" start_char="644" end_char="646">the</TOKEN>
+				<TOKEN id="token-6-2" start_char="648" end_char="654">Journal</TOKEN>
+				<TOKEN id="token-6-3" start_char="656" end_char="657">of</TOKEN>
+				<TOKEN id="token-6-4" start_char="659" end_char="665">Applied</TOKEN>
+				<TOKEN id="token-6-5" start_char="667" end_char="669">and</TOKEN>
+				<TOKEN id="token-6-6" start_char="671" end_char="683">Environmental</TOKEN>
+				<TOKEN id="token-6-7" start_char="685" end_char="696">Microbiology</TOKEN>
+				<TOKEN id="token-6-8" start_char="698" end_char="702">cites</TOKEN>
+				<TOKEN id="token-6-9" start_char="704" end_char="706">the</TOKEN>
+				<TOKEN id="token-6-10" start_char="708" end_char="711">2010</TOKEN>
+				<TOKEN id="token-6-11" start_char="713" end_char="717">study</TOKEN>
+				<TOKEN id="token-6-12" start_char="718" end_char="718">,</TOKEN>
+				<TOKEN id="token-6-13" start_char="720" end_char="724">which</TOKEN>
+				<TOKEN id="token-6-14" start_char="726" end_char="730">looks</TOKEN>
+				<TOKEN id="token-6-15" start_char="732" end_char="733">at</TOKEN>
+				<TOKEN id="token-6-16" start_char="735" end_char="737">the</TOKEN>
+				<TOKEN id="token-6-17" start_char="739" end_char="745">effects</TOKEN>
+				<TOKEN id="token-6-18" start_char="747" end_char="748">of</TOKEN>
+				<TOKEN id="token-6-19" start_char="750" end_char="760">temperature</TOKEN>
+				<TOKEN id="token-6-20" start_char="762" end_char="764">and</TOKEN>
+				<TOKEN id="token-6-21" start_char="766" end_char="773">humidity</TOKEN>
+				<TOKEN id="token-6-22" start_char="775" end_char="776">on</TOKEN>
+				<TOKEN id="token-6-23" start_char="778" end_char="782">viral</TOKEN>
+				<TOKEN id="token-6-24" start_char="784" end_char="791">survival</TOKEN>
+				<TOKEN id="token-6-25" start_char="792" end_char="792">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-98-7" start_char="794" end_char="901">
+				<ORIGINAL_TEXT>The 2010 study found, in fact, that the virus survived longer in both lower temperatures and lower humidity.</ORIGINAL_TEXT>
+				<TOKEN id="token-7-0" start_char="794" end_char="796">The</TOKEN>
+				<TOKEN id="token-7-1" start_char="798" end_char="801">2010</TOKEN>
+				<TOKEN id="token-7-2" start_char="803" end_char="807">study</TOKEN>
+				<TOKEN id="token-7-3" start_char="809" end_char="813">found</TOKEN>
+				<TOKEN id="token-7-4" start_char="814" end_char="814">,</TOKEN>
+				<TOKEN id="token-7-5" start_char="816" end_char="817">in</TOKEN>
+				<TOKEN id="token-7-6" start_char="819" end_char="822">fact</TOKEN>
+				<TOKEN id="token-7-7" start_char="823" end_char="823">,</TOKEN>
+				<TOKEN id="token-7-8" start_char="825" end_char="828">that</TOKEN>
+				<TOKEN id="token-7-9" start_char="830" end_char="832">the</TOKEN>
+				<TOKEN id="token-7-10" start_char="834" end_char="838">virus</TOKEN>
+				<TOKEN id="token-7-11" start_char="840" end_char="847">survived</TOKEN>
+				<TOKEN id="token-7-12" start_char="849" end_char="854">longer</TOKEN>
+				<TOKEN id="token-7-13" start_char="856" end_char="857">in</TOKEN>
+				<TOKEN id="token-7-14" start_char="859" end_char="862">both</TOKEN>
+				<TOKEN id="token-7-15" start_char="864" end_char="868">lower</TOKEN>
+				<TOKEN id="token-7-16" start_char="870" end_char="881">temperatures</TOKEN>
+				<TOKEN id="token-7-17" start_char="883" end_char="885">and</TOKEN>
+				<TOKEN id="token-7-18" start_char="887" end_char="891">lower</TOKEN>
+				<TOKEN id="token-7-19" start_char="893" end_char="900">humidity</TOKEN>
+				<TOKEN id="token-7-20" start_char="901" end_char="901">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-98-8" start_char="903" end_char="1012">
+				<ORIGINAL_TEXT>The journal article also said research done in 2006 “expected” the viruses studied would survive being frozen.</ORIGINAL_TEXT>
+				<TOKEN id="token-8-0" start_char="903" end_char="905">The</TOKEN>
+				<TOKEN id="token-8-1" start_char="907" end_char="913">journal</TOKEN>
+				<TOKEN id="token-8-2" start_char="915" end_char="921">article</TOKEN>
+				<TOKEN id="token-8-3" start_char="923" end_char="926">also</TOKEN>
+				<TOKEN id="token-8-4" start_char="928" end_char="931">said</TOKEN>
+				<TOKEN id="token-8-5" start_char="933" end_char="940">research</TOKEN>
+				<TOKEN id="token-8-6" start_char="942" end_char="945">done</TOKEN>
+				<TOKEN id="token-8-7" start_char="947" end_char="948">in</TOKEN>
+				<TOKEN id="token-8-8" start_char="950" end_char="953">2006</TOKEN>
+				<TOKEN id="token-8-9" start_char="955" end_char="955">“</TOKEN>
+				<TOKEN id="token-8-10" start_char="956" end_char="963">expected</TOKEN>
+				<TOKEN id="token-8-11" start_char="964" end_char="964">”</TOKEN>
+				<TOKEN id="token-8-12" start_char="966" end_char="968">the</TOKEN>
+				<TOKEN id="token-8-13" start_char="970" end_char="976">viruses</TOKEN>
+				<TOKEN id="token-8-14" start_char="978" end_char="984">studied</TOKEN>
+				<TOKEN id="token-8-15" start_char="986" end_char="990">would</TOKEN>
+				<TOKEN id="token-8-16" start_char="992" end_char="998">survive</TOKEN>
+				<TOKEN id="token-8-17" start_char="1000" end_char="1004">being</TOKEN>
+				<TOKEN id="token-8-18" start_char="1006" end_char="1011">frozen</TOKEN>
+				<TOKEN id="token-8-19" start_char="1012" end_char="1012">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-98-9" start_char="1014" end_char="1122">
+				<ORIGINAL_TEXT>A Washington, D.C.,-based nonprofit called the Federation of American Scientists report the same conclusions.</ORIGINAL_TEXT>
+				<TOKEN id="token-9-0" start_char="1014" end_char="1014">A</TOKEN>
+				<TOKEN id="token-9-1" start_char="1016" end_char="1025">Washington</TOKEN>
+				<TOKEN id="token-9-2" start_char="1026" end_char="1026">,</TOKEN>
+				<TOKEN id="token-9-3" start_char="1028" end_char="1028">D</TOKEN>
+				<TOKEN id="token-9-4" start_char="1029" end_char="1029">.</TOKEN>
+				<TOKEN id="token-9-5" start_char="1030" end_char="1030">C</TOKEN>
+				<TOKEN id="token-9-6" start_char="1031" end_char="1033">.,-</TOKEN>
+				<TOKEN id="token-9-7" start_char="1034" end_char="1038">based</TOKEN>
+				<TOKEN id="token-9-8" start_char="1040" end_char="1048">nonprofit</TOKEN>
+				<TOKEN id="token-9-9" start_char="1050" end_char="1055">called</TOKEN>
+				<TOKEN id="token-9-10" start_char="1057" end_char="1059">the</TOKEN>
+				<TOKEN id="token-9-11" start_char="1061" end_char="1070">Federation</TOKEN>
+				<TOKEN id="token-9-12" start_char="1072" end_char="1073">of</TOKEN>
+				<TOKEN id="token-9-13" start_char="1075" end_char="1082">American</TOKEN>
+				<TOKEN id="token-9-14" start_char="1084" end_char="1093">Scientists</TOKEN>
+				<TOKEN id="token-9-15" start_char="1095" end_char="1100">report</TOKEN>
+				<TOKEN id="token-9-16" start_char="1102" end_char="1104">the</TOKEN>
+				<TOKEN id="token-9-17" start_char="1106" end_char="1109">same</TOKEN>
+				<TOKEN id="token-9-18" start_char="1111" end_char="1121">conclusions</TOKEN>
+				<TOKEN id="token-9-19" start_char="1122" end_char="1122">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-98-10" start_char="1124" end_char="1260">
+				<ORIGINAL_TEXT>The Centers for Disease Control and Prevention says it is simply not known whether weather and temperature affect the spread of COVID-19.</ORIGINAL_TEXT>
+				<TOKEN id="token-10-0" start_char="1124" end_char="1126">The</TOKEN>
+				<TOKEN id="token-10-1" start_char="1128" end_char="1134">Centers</TOKEN>
+				<TOKEN id="token-10-2" start_char="1136" end_char="1138">for</TOKEN>
+				<TOKEN id="token-10-3" start_char="1140" end_char="1146">Disease</TOKEN>
+				<TOKEN id="token-10-4" start_char="1148" end_char="1154">Control</TOKEN>
+				<TOKEN id="token-10-5" start_char="1156" end_char="1158">and</TOKEN>
+				<TOKEN id="token-10-6" start_char="1160" end_char="1169">Prevention</TOKEN>
+				<TOKEN id="token-10-7" start_char="1171" end_char="1174">says</TOKEN>
+				<TOKEN id="token-10-8" start_char="1176" end_char="1177">it</TOKEN>
+				<TOKEN id="token-10-9" start_char="1179" end_char="1180">is</TOKEN>
+				<TOKEN id="token-10-10" start_char="1182" end_char="1187">simply</TOKEN>
+				<TOKEN id="token-10-11" start_char="1189" end_char="1191">not</TOKEN>
+				<TOKEN id="token-10-12" start_char="1193" end_char="1197">known</TOKEN>
+				<TOKEN id="token-10-13" start_char="1199" end_char="1205">whether</TOKEN>
+				<TOKEN id="token-10-14" start_char="1207" end_char="1213">weather</TOKEN>
+				<TOKEN id="token-10-15" start_char="1215" end_char="1217">and</TOKEN>
+				<TOKEN id="token-10-16" start_char="1219" end_char="1229">temperature</TOKEN>
+				<TOKEN id="token-10-17" start_char="1231" end_char="1236">affect</TOKEN>
+				<TOKEN id="token-10-18" start_char="1238" end_char="1240">the</TOKEN>
+				<TOKEN id="token-10-19" start_char="1242" end_char="1247">spread</TOKEN>
+				<TOKEN id="token-10-20" start_char="1249" end_char="1250">of</TOKEN>
+				<TOKEN id="token-10-21" start_char="1252" end_char="1256">COVID</TOKEN>
+				<TOKEN id="token-10-22" start_char="1257" end_char="1257">-</TOKEN>
+				<TOKEN id="token-10-23" start_char="1258" end_char="1259">19</TOKEN>
+				<TOKEN id="token-10-24" start_char="1260" end_char="1260">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-98-11" start_char="1262" end_char="1271">
+				<ORIGINAL_TEXT>It states:</ORIGINAL_TEXT>
+				<TOKEN id="token-11-0" start_char="1262" end_char="1263">It</TOKEN>
+				<TOKEN id="token-11-1" start_char="1265" end_char="1270">states</TOKEN>
+				<TOKEN id="token-11-2" start_char="1271" end_char="1271">:</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-98-12" start_char="1273" end_char="1405">
+				<ORIGINAL_TEXT>“Generally coronaviruses survive for shorter periods at higher temperatures and higher humidity than in cooler or dryer environments.</ORIGINAL_TEXT>
+				<TOKEN id="token-12-0" start_char="1273" end_char="1273">“</TOKEN>
+				<TOKEN id="token-12-1" start_char="1274" end_char="1282">Generally</TOKEN>
+				<TOKEN id="token-12-2" start_char="1284" end_char="1296">coronaviruses</TOKEN>
+				<TOKEN id="token-12-3" start_char="1298" end_char="1304">survive</TOKEN>
+				<TOKEN id="token-12-4" start_char="1306" end_char="1308">for</TOKEN>
+				<TOKEN id="token-12-5" start_char="1310" end_char="1316">shorter</TOKEN>
+				<TOKEN id="token-12-6" start_char="1318" end_char="1324">periods</TOKEN>
+				<TOKEN id="token-12-7" start_char="1326" end_char="1327">at</TOKEN>
+				<TOKEN id="token-12-8" start_char="1329" end_char="1334">higher</TOKEN>
+				<TOKEN id="token-12-9" start_char="1336" end_char="1347">temperatures</TOKEN>
+				<TOKEN id="token-12-10" start_char="1349" end_char="1351">and</TOKEN>
+				<TOKEN id="token-12-11" start_char="1353" end_char="1358">higher</TOKEN>
+				<TOKEN id="token-12-12" start_char="1360" end_char="1367">humidity</TOKEN>
+				<TOKEN id="token-12-13" start_char="1369" end_char="1372">than</TOKEN>
+				<TOKEN id="token-12-14" start_char="1374" end_char="1375">in</TOKEN>
+				<TOKEN id="token-12-15" start_char="1377" end_char="1382">cooler</TOKEN>
+				<TOKEN id="token-12-16" start_char="1384" end_char="1385">or</TOKEN>
+				<TOKEN id="token-12-17" start_char="1387" end_char="1391">dryer</TOKEN>
+				<TOKEN id="token-12-18" start_char="1393" end_char="1404">environments</TOKEN>
+				<TOKEN id="token-12-19" start_char="1405" end_char="1405">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-98-13" start_char="1407" end_char="1546">
+				<ORIGINAL_TEXT>However, we don’t have direct data for this virus, nor do we have direct data for a temperature-based cutoff for inactivation at this point.</ORIGINAL_TEXT>
+				<TOKEN id="token-13-0" start_char="1407" end_char="1413">However</TOKEN>
+				<TOKEN id="token-13-1" start_char="1414" end_char="1414">,</TOKEN>
+				<TOKEN id="token-13-2" start_char="1416" end_char="1417">we</TOKEN>
+				<TOKEN id="token-13-3" start_char="1419" end_char="1421">don</TOKEN>
+				<TOKEN id="token-13-4" start_char="1422" end_char="1422">’</TOKEN>
+				<TOKEN id="token-13-5" start_char="1423" end_char="1423">t</TOKEN>
+				<TOKEN id="token-13-6" start_char="1425" end_char="1428">have</TOKEN>
+				<TOKEN id="token-13-7" start_char="1430" end_char="1435">direct</TOKEN>
+				<TOKEN id="token-13-8" start_char="1437" end_char="1440">data</TOKEN>
+				<TOKEN id="token-13-9" start_char="1442" end_char="1444">for</TOKEN>
+				<TOKEN id="token-13-10" start_char="1446" end_char="1449">this</TOKEN>
+				<TOKEN id="token-13-11" start_char="1451" end_char="1455">virus</TOKEN>
+				<TOKEN id="token-13-12" start_char="1456" end_char="1456">,</TOKEN>
+				<TOKEN id="token-13-13" start_char="1458" end_char="1460">nor</TOKEN>
+				<TOKEN id="token-13-14" start_char="1462" end_char="1463">do</TOKEN>
+				<TOKEN id="token-13-15" start_char="1465" end_char="1466">we</TOKEN>
+				<TOKEN id="token-13-16" start_char="1468" end_char="1471">have</TOKEN>
+				<TOKEN id="token-13-17" start_char="1473" end_char="1478">direct</TOKEN>
+				<TOKEN id="token-13-18" start_char="1480" end_char="1483">data</TOKEN>
+				<TOKEN id="token-13-19" start_char="1485" end_char="1487">for</TOKEN>
+				<TOKEN id="token-13-20" start_char="1489" end_char="1489">a</TOKEN>
+				<TOKEN id="token-13-21" start_char="1491" end_char="1501">temperature</TOKEN>
+				<TOKEN id="token-13-22" start_char="1502" end_char="1502">-</TOKEN>
+				<TOKEN id="token-13-23" start_char="1503" end_char="1507">based</TOKEN>
+				<TOKEN id="token-13-24" start_char="1509" end_char="1514">cutoff</TOKEN>
+				<TOKEN id="token-13-25" start_char="1516" end_char="1518">for</TOKEN>
+				<TOKEN id="token-13-26" start_char="1520" end_char="1531">inactivation</TOKEN>
+				<TOKEN id="token-13-27" start_char="1533" end_char="1534">at</TOKEN>
+				<TOKEN id="token-13-28" start_char="1536" end_char="1539">this</TOKEN>
+				<TOKEN id="token-13-29" start_char="1541" end_char="1545">point</TOKEN>
+				<TOKEN id="token-13-30" start_char="1546" end_char="1546">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-98-14" start_char="1548" end_char="1647">
+				<ORIGINAL_TEXT>The necessary temperature would also be based on the materials of the surface, the environment, etc.</ORIGINAL_TEXT>
+				<TOKEN id="token-14-0" start_char="1548" end_char="1550">The</TOKEN>
+				<TOKEN id="token-14-1" start_char="1552" end_char="1560">necessary</TOKEN>
+				<TOKEN id="token-14-2" start_char="1562" end_char="1572">temperature</TOKEN>
+				<TOKEN id="token-14-3" start_char="1574" end_char="1578">would</TOKEN>
+				<TOKEN id="token-14-4" start_char="1580" end_char="1583">also</TOKEN>
+				<TOKEN id="token-14-5" start_char="1585" end_char="1586">be</TOKEN>
+				<TOKEN id="token-14-6" start_char="1588" end_char="1592">based</TOKEN>
+				<TOKEN id="token-14-7" start_char="1594" end_char="1595">on</TOKEN>
+				<TOKEN id="token-14-8" start_char="1597" end_char="1599">the</TOKEN>
+				<TOKEN id="token-14-9" start_char="1601" end_char="1609">materials</TOKEN>
+				<TOKEN id="token-14-10" start_char="1611" end_char="1612">of</TOKEN>
+				<TOKEN id="token-14-11" start_char="1614" end_char="1616">the</TOKEN>
+				<TOKEN id="token-14-12" start_char="1618" end_char="1624">surface</TOKEN>
+				<TOKEN id="token-14-13" start_char="1625" end_char="1625">,</TOKEN>
+				<TOKEN id="token-14-14" start_char="1627" end_char="1629">the</TOKEN>
+				<TOKEN id="token-14-15" start_char="1631" end_char="1641">environment</TOKEN>
+				<TOKEN id="token-14-16" start_char="1642" end_char="1642">,</TOKEN>
+				<TOKEN id="token-14-17" start_char="1644" end_char="1646">etc</TOKEN>
+				<TOKEN id="token-14-18" start_char="1647" end_char="1647">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-98-15" start_char="1649" end_char="1734">
+				<ORIGINAL_TEXT>Regardless of temperature please follow CDC’s guidance for cleaning and disinfection.”</ORIGINAL_TEXT>
+				<TOKEN id="token-15-0" start_char="1649" end_char="1658">Regardless</TOKEN>
+				<TOKEN id="token-15-1" start_char="1660" end_char="1661">of</TOKEN>
+				<TOKEN id="token-15-2" start_char="1663" end_char="1673">temperature</TOKEN>
+				<TOKEN id="token-15-3" start_char="1675" end_char="1680">please</TOKEN>
+				<TOKEN id="token-15-4" start_char="1682" end_char="1687">follow</TOKEN>
+				<TOKEN id="token-15-5" start_char="1689" end_char="1691">CDC</TOKEN>
+				<TOKEN id="token-15-6" start_char="1692" end_char="1692">’</TOKEN>
+				<TOKEN id="token-15-7" start_char="1693" end_char="1693">s</TOKEN>
+				<TOKEN id="token-15-8" start_char="1695" end_char="1702">guidance</TOKEN>
+				<TOKEN id="token-15-9" start_char="1704" end_char="1706">for</TOKEN>
+				<TOKEN id="token-15-10" start_char="1708" end_char="1715">cleaning</TOKEN>
+				<TOKEN id="token-15-11" start_char="1717" end_char="1719">and</TOKEN>
+				<TOKEN id="token-15-12" start_char="1721" end_char="1732">disinfection</TOKEN>
+				<TOKEN id="token-15-13" start_char="1733" end_char="1734">.”</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-98-16" start_char="1736" end_char="1847">
+				<ORIGINAL_TEXT>This guidance includes frequently washing your hands and cleaning and disinfecting surfaces that are used often.</ORIGINAL_TEXT>
+				<TOKEN id="token-16-0" start_char="1736" end_char="1739">This</TOKEN>
+				<TOKEN id="token-16-1" start_char="1741" end_char="1748">guidance</TOKEN>
+				<TOKEN id="token-16-2" start_char="1750" end_char="1757">includes</TOKEN>
+				<TOKEN id="token-16-3" start_char="1759" end_char="1768">frequently</TOKEN>
+				<TOKEN id="token-16-4" start_char="1770" end_char="1776">washing</TOKEN>
+				<TOKEN id="token-16-5" start_char="1778" end_char="1781">your</TOKEN>
+				<TOKEN id="token-16-6" start_char="1783" end_char="1787">hands</TOKEN>
+				<TOKEN id="token-16-7" start_char="1789" end_char="1791">and</TOKEN>
+				<TOKEN id="token-16-8" start_char="1793" end_char="1800">cleaning</TOKEN>
+				<TOKEN id="token-16-9" start_char="1802" end_char="1804">and</TOKEN>
+				<TOKEN id="token-16-10" start_char="1806" end_char="1817">disinfecting</TOKEN>
+				<TOKEN id="token-16-11" start_char="1819" end_char="1826">surfaces</TOKEN>
+				<TOKEN id="token-16-12" start_char="1828" end_char="1831">that</TOKEN>
+				<TOKEN id="token-16-13" start_char="1833" end_char="1835">are</TOKEN>
+				<TOKEN id="token-16-14" start_char="1837" end_char="1840">used</TOKEN>
+				<TOKEN id="token-16-15" start_char="1842" end_char="1846">often</TOKEN>
+				<TOKEN id="token-16-16" start_char="1847" end_char="1847">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-98-17" start_char="1849" end_char="1875">
+				<ORIGINAL_TEXT>This post has been updated.</ORIGINAL_TEXT>
+				<TOKEN id="token-17-0" start_char="1849" end_char="1852">This</TOKEN>
+				<TOKEN id="token-17-1" start_char="1854" end_char="1857">post</TOKEN>
+				<TOKEN id="token-17-2" start_char="1859" end_char="1861">has</TOKEN>
+				<TOKEN id="token-17-3" start_char="1863" end_char="1866">been</TOKEN>
+				<TOKEN id="token-17-4" start_char="1868" end_char="1874">updated</TOKEN>
+				<TOKEN id="token-17-5" start_char="1875" end_char="1875">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-98-18" start_char="1877" end_char="1972">
+				<ORIGINAL_TEXT>For the latest news and resources about COVID-19, bookmark our Coronavirus In Indiana page here.</ORIGINAL_TEXT>
+				<TOKEN id="token-18-0" start_char="1877" end_char="1879">For</TOKEN>
+				<TOKEN id="token-18-1" start_char="1881" end_char="1883">the</TOKEN>
+				<TOKEN id="token-18-2" start_char="1885" end_char="1890">latest</TOKEN>
+				<TOKEN id="token-18-3" start_char="1892" end_char="1895">news</TOKEN>
+				<TOKEN id="token-18-4" start_char="1897" end_char="1899">and</TOKEN>
+				<TOKEN id="token-18-5" start_char="1901" end_char="1909">resources</TOKEN>
+				<TOKEN id="token-18-6" start_char="1911" end_char="1915">about</TOKEN>
+				<TOKEN id="token-18-7" start_char="1917" end_char="1921">COVID</TOKEN>
+				<TOKEN id="token-18-8" start_char="1922" end_char="1922">-</TOKEN>
+				<TOKEN id="token-18-9" start_char="1923" end_char="1924">19</TOKEN>
+				<TOKEN id="token-18-10" start_char="1925" end_char="1925">,</TOKEN>
+				<TOKEN id="token-18-11" start_char="1927" end_char="1934">bookmark</TOKEN>
+				<TOKEN id="token-18-12" start_char="1936" end_char="1938">our</TOKEN>
+				<TOKEN id="token-18-13" start_char="1940" end_char="1950">Coronavirus</TOKEN>
+				<TOKEN id="token-18-14" start_char="1952" end_char="1953">In</TOKEN>
+				<TOKEN id="token-18-15" start_char="1955" end_char="1961">Indiana</TOKEN>
+				<TOKEN id="token-18-16" start_char="1963" end_char="1966">page</TOKEN>
+				<TOKEN id="token-18-17" start_char="1968" end_char="1971">here</TOKEN>
+				<TOKEN id="token-18-18" start_char="1972" end_char="1972">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

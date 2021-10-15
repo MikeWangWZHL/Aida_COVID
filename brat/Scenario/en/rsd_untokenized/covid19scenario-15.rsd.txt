@@ -1,0 +1,358 @@
+Note: The objective of this report is to provide a snapshot overview of the current trends and insights into disinformation activities related to COVID-19/Coronavirus.
+It does not provide a comprehensive or complete overview and focusses primarily on the external dimension, in line with the European External Action Service (eeas) mandate.
+The report was authored by the EEAS Strategic Communications and Information Analysis Division, which contributes to the EU’s efforts to counter disinformation, including through detection, analysis and exposure of disinformation campaigns.
+In addressing disinformation and identifying and analysing disinformation surrounding the COVID-19 outbreak, the EEAS is working closely with the European Commission, European Parliament services and EU Member States.
+The EEAS also cooperates on this issue with international partners (G7, NATO and non-state actors).
+The results are regularly published on EUvsDisinfo.eu and social media channels.
+Insights are shared with EU institutions and EU Member States in real time, including through the Rapid Alert System on Disinformation.
+SUMMARY
+
+In line with the previous EEAS Special Reports and based on publicly available information, this edition gives an overview of recent developments around COVID-19 related disinformation.
+The report focusses on foreign state and non-state actors trying to exploit the uncertainty in societies as well as people’s fears and insecurities to advance their own agenda.
+While misinformation and disinformation[1] relating to issues surrounding the COVID-19 pandemic have continued to spread across the globe, the volume has – according to our findings – shown at least a temporary decrease during the period observed, alongside a general downward trend on COVID-19 related web searches[2].
+There is a crystallizing and clustering around specific topics and narratives: alleged links between COVID-19 and 5G networks; COVID-19 restrictions as pretext establishing global domination of secretive elites; and attacks on individuals engaged in the development of vaccines, especially Bill Gates.
+External actors, notably pro-Kremlin sources, are still involved in spreading disinformation, including by amplifying existing conspiracy theories, which link the COVID-19 pandemic to biological warfare, 5G technology and fuel anti-vaccination sentiment.
+The efforts of state actors like China to deflect blame, to use the pandemic to promote their own governmental system and enhance their image abroad continue.
+The claim that there are clandestine US biological laboratories on the territory of “former Soviet republics”[3] has been spread both by pro-Kremlin outlets as well as Chinese officials and state media.
+Disinformation around COVID-19 has real world consequences.
+It has become clear that disinformation is not just a potential health risk when false cures are propagated.
+The spread of false information pertaining to the 5G network has also led to multiple arson attacks on telecommunication infrastructure across Europe.
+[4]
+
+In some regions and countries, the COVID-19 pandemic is used to restrict freedom of speech and freedom of the media.
+The EEAS has observed numerous cases in which governments or state officials have used the crisis to curtail media freedoms.
+The work of independent media and fact-checkers is crucial to deliver reliable and authoritative information about the pandemic.
+Continued threats and harassment against fact-checkers and fact-checking organisations are being observed.
+Social media companies continue to invest into detecting and countering misinformation and disinformation on their platforms.
+While the efforts are commendable, it is clear that much more needs to be done.
+In detail: COVID-19 related disinformation, propaganda and other activities (April 23 – 18 May)
+
+Disinformation and propaganda around COVID-19
+
+As the previous reports, this one focusses specifically on recent activities related to foreign state and non-state actors.
+Foreign actors have been trying to exploit citizens’ fears, insecurities and concerns for their own agenda, which must be distinguished from the legitimate democratic debate where citizens voice concerns and criticism in connection with the pandemic and measures taken by governments
+
+The information environment relating to COVID-19 continues to be crowded with disinformation and while many of the targets (the West as such, the EU and NATO, the United States) and themes remain the same, new targets have emerged, notably Bill and Melinda Gates and the Gates Foundation.
+Pro-Kremlin media outlets continue to disinform about COVID-19, however the intensity of the disinformation campaign seems to have decreased[5].
+Overall, the EUvsDisinfo database now contains nearly 500 examples of COVID-19-related pro-Kremlin disinformation.
+Although pro-Kremlin disinformation messages about EU actions in response to COVID-19 and EU solidarity continue to circulate, at least three English-language pro-Kremlin outlets reduced the number of COVID-19 related articles since the second half of April, compared to late March and the beginning of April.
+One of those outlets, “South Front”[6], has even removed a dedicated section on COVID-19 from its website.
+According to recent reports in Dutch media[7], the General Intelligence and Security service of the Netherlands has determined that Russian narratives about COVID-19 were shared in a number of Dutch-speaking social media groups.
+The narratives emphasized alleged lack of European solidarity in the field of COVID-19.
+Such findings are largely consistent with prominent pro-Kremlin disinformation narratives about COVID-19, reported by EUvsDisinfo.eu.
+Inside Russia, state-controlled channels continue to report on the domestic situation, acknowledging that COVID-19 is a complex challenge, including for Russia.
+At the same time, some state-controlled media outlets continue to spread false information about Bill Gates and vaccines; however in at least one case another state-run media outlet has called this out as “conspiracy theories” and challenged it[8].
+Russia’s state-controlled TV channels also used the broader COVID-19 situation to advance earlier-established disinformation narratives about the collapse of “perverse” Western values[9] (i.e.
+no one in Europe demands gay parades anymore) and abandonment of Ukraine (“the West have disposed of Ukraine like trash”)[10].
+In line with our previous analysis, China’s general aim of controlling the narrative on COVID-19 and deflecting any criticism of the country is still present.
+China – “having made sacrifices to buy time for the rest of the world”[11] – is portrayed as a responsible and transparent actor in the pandemic and a model for other countries to follow.
+In parallel, where established facts or prevailing narratives could be seen as unfavourable to China or could support criticism of Chinese authorities there seems to be the effort of creating doubt in relation to those.
+For example, creating doubts about China’s role in the COVID-19 outbreak[12] and countering international calls for an independent inquiry into the origins of the outbreak of the virus in China[13].
+At the same time, there has been a shift towards more directly challenging and mocking[14] the US administration and its response to the pandemic[15].
+China’s state-run media has been implying a US cover-up[16] and demanding answers from the country[17].
+Multiple Russian state-controlled media channels, including RIA Novosti news agency and RT[18], explicitly defended China in face of international criticism of handing the COVID-19 outbreak.
+EU-sanctioned TV host and media manager Dmitry Kiselyov compared criticism of the Chinese government to Russia being held responsible for the chemical attack in Salisbury[19] and meddling in the 2016 U.S. presidential elections[20] – referring to two prominent pro-Kremlin disinformation narratives.
+Multiple pro-Kremlin outlets have reported (in Russian, French and English) about alleged clandestine US biological laboratories in Ukraine.
+The implication behind such disinformation messages is that the US is afraid of leakage[21] of infectious substances on its own territory, that such labs facilitated the US support for Euromaidan[22] that epidemics[23] start around the labs, and more directly that COVID-19 might have been created in one of the labs in Ukraine[24].
+These type of messages build on a prominent pro-Kremlin disinformation narrative about the “secret military laboratories”, most notably in the case of Lugar lab in Georgia.
+As such, they are easily replicated throughout the region: in Armenia, Georgia, Moldova[25].
+The same conspiracy theory about US biological laboratories in former Soviet republics has been also spread by Chinese officials and state media.
+This started with statements of a Russian Foreign ministry spokesperson[26] in mid-April, which were later referred to by a Chinese MFA spokesperson[27].
+It has been tweeted more than once by an official account of the Chinese MFA[28] and covered by China’s state-run media[29].
+RT Russian in turn published an article quoting concerns[30] of a representative of China’s Ministry of Foreign Affairs about these alleged laboratories[31].
+The messaging by Chinese officials and media talk about the need to address “concerns from local people and surrounding countries” or “international concerns”.
+The US biolab theory has become embedded into Chinese state media articles implying a wider cover-up by the US[32].
+Nature magazine has reported[33] that Chinese state media[34] and officials[35] have been heavily promoting unproven traditional Chinese medicines (TCM) as treatments for COVID-19, including highlighting the sending of TCM to third countries as international aid.
+[36] However, there is currently no scientific proof of any medicine preventing or curing COVID-19, a fact also confirmed by the WHO[37].
+Freedom House has stated in their overview of Chinese activities[38] that “since March, coordinated and covert attempts by China-linked actors to manipulate information—particularly regarding COVID-19” have been detected in a number of countries, with content often delivered in local languages.
+The analysis also highlights a departure from Beijing’s more traditional model of positive propaganda combined with suppression of criticism.
+That expanding nature of the Chinese influence toolbox – including a more confrontational tone and “Russian-style disinformation tactics” – has been also noted by other analysts[39] and illustrated by various cases[40] mentioned in our current and previous reports.
+The Syrian regime is further advancing its disinformation campaign against sanctions claiming that Western countries are perpetrating an “economic war” against Syria and the Syrian people and that sanctions have crippled the health sector and are impeding the country’s response to COVID-19.
+This was reiterated by Assad claiming that COVID-19 comes in addition to “an economic challenge, which we have been facing as a result of over nine years and unjust sanctions imposed on our people”[41].
+Prior to that, the regime’s political representative to the UN further advanced this narrative at a meeting of the UNSC on the humanitarian situation in Syria, claiming that “illegitimate economic measures prevent the medical and health bodies in Syria to obtain the necessary equipment for the test, diagnosis and prevention and treatment of COVID-19”.
+[42]
+
+Terrorist groups have been calling for an opportunistic use of the chaos and distraction caused by COVID-19 to perpetrate attacks.
+This narrative has raised security and stability implications since it materialised in an increased number of attacks in conflict areas (e.g.
+Syria, Iraq) widely reported in the media[43].
+When it comes to adverse narratives, the Global Coalition noted that COVID-19 is being described by Da’esh as a retribution for its activities in Iraq and Syria.
+An intense appearance of COVID-19 related mis- and disinformation was observed across the Western Balkans, together with an increased activity of local fact-checkers contributing to awareness raising and opening public debate on the issue both locally and internationally.
+Local independent fact-checkers are confirming cases of the spread of pseudo-science, conspiracy theories etc., including in relation to health advice and to the alleged impact of 5G networks on COVID-19.
+[44]
+
+Bill Gates[45] and the Gates Foundation have been attacked by multiple actors throughout the last months.
+Similar to other private organisations, they are accused of sinister intentions, like seeking global domination[46].
+Building on top of these accusations, multilateral initiatives like the Global Pledging effort[47], which partners with private actors, are accused of generating money not for the fight against COVID-19, but to further their private interests.
+The COVID-19 pandemic is also used to undermine NATO presence in the Baltic States[48].
+A sophisticated influence operation, jointly targeting NATO, media, fact-checkers and state-institutions in the Baltic States[49], is an example of how the pandemic is instrumentalised in attempts to sow distrust among Western partners and intimidate individual voices of the press.
+The disinformation narratives used in such influence operations are consistent with those in pro-Kremlin media outlets, as observed by EUvsDisinfo[50].
+Update: Social media platforms
+
+Actions taken by the platforms
+
+Twitter announced it would grant researchers access to a real-time data stream of “tens of millions of daily public tweets about COVID-19”, to track misinformation and disinformation.
+Twitter said that any developer or researcher with an approved Twitter developer account can apply for access to the COVID-19 stream if they meet certain criteria and the data is used for “the public good.” Twitter said it had never offered a full stream on a particular topic before.
+[51] Additionally, Twitter announced that they are introducing “new labels and warning messages that will provide additional context and information on some Tweets containing disputed or misleading information related to COVID-19”.
+[52]
+
+Facebook announced in their April 2020 Coordinated Inauthentic Behaviour Report[53] that it took down 8 networks for coordinated inauthentic behaviour in April.
+Six of them (in the US, Georgia, Myanmar and Mauritania) focussed on domestic audiences.
+However, the other two were taken down for foreign interference, with one network emanating from Russia, and one from Iran.
+Facebook[54] removed numerous assets of outlets “News Front”[55] and “South Front”[56] (followed by over 270 thousand users) for coordinated inauthentic behaviour on behalf of a foreign entity.
+Ahead of the Facebook takedown, EUvsDisinfo exposed[57] these outlets as disseminating pro-Kremlin disinformation on multiple topics, including conspiracy theories about COVID-19 pandemic, vaccines and the global response[58].
+According to Facebook, the coordinated inauthentic activity originated in Russia, the non-government controlled areas in Donbas region and Crimea.
+“News Front” has previously been linked to the Russian security services (see: reporting by the DFR Lab[59] and Zeit[60]).
+Poynter’s Coronavirus Facts Alliance accounts for over 5.000 COVID-19 related fact-checks since February 2020[61], which signifies a significant burden.
+Facebook reported labelling about 50 million pieces of content related to COVID-19 on their platform alone with warnings, based on around 7,500 articles by their independent fact-checking partners[62].
+Platforms are also still vulnerable to being the tool for viral distribution of false information and conspiracy theories.
+In the beginning of May, for example, a pseudo-documentary[63] containing multiple cases of false, misleading and harmful claims spread with high velocity across the internet.
+It was first uploaded to YouTube and amplified by conspiracy groups on Facebook[64], gaining millions of views within only a few days.
+YouTube and Facebook have removed the “Plandemic” scene, saying that it spread inaccurate information about Covid-19 that could be harmful to the public.
+However, the video continued to circulate, as people post new copies.
+[65] This shows that further and continued efforts by the platforms are necessary beyond the Code of Practice[66] and as outlined in the previous edition of this report.
+Independent research on social media platforms
+
+Bellingcat[67] has discovered an ongoing information operation on Twitter and Facebook using a network of bots made up of newly created and stolen accounts.
+The network is pushing topics supportive of the Chinese government and critical of either popular figures or protestors who are against it.
+Bellingcat claims that the “content of the accounts correlates with findings made in the past, both by Twitter[68] and other entities[69], of state-linked information operations that are being run out of People’s Republic of China.”
+
+The Citizen Lab at the University of Toronto, that has previously researched the broad COVID-19 related censorship on Chinese social media platforms[70], has discovered that communications among international users of WeChat – the most popular social media platform in China and third in the world – are subject to surveillance that was previously thought to be exclusively reserved for China-based accounts[71].
+Documents and images transmitted among non-China-registered accounts are monitored for content that is politically sensitive in China and then used to invisibly train WeChat’s Chinese online censorship system.
+Earlier research had found that all users who have registered their WeChat accounts with a Chinese phone number are subject to Chinese online censorship regime wherever they are located in the world, even if they have later changed their account to a non-Chinese phone number[72].
+This export of Chinese online censorship has raised questions about its role on politics in other countries[73].
+The Australian Strategic Policy Institute (ASPI) has reported a growing significance and impact of Chinese non-state actors on Western social media platforms.
+Across March and April, “a loosely coordinated pro-China trolling campaign on Twitter harassed Western media outlets, impersonated Taiwanese users in an effort to undermine Taiwan’s position with the World Health Organization (WHO), spread false information about the COVID-19 outbreak, and joined in pre-existing inauthentic social media campaigns”.
+[74]
+
+Data from the Hamilton dashboard of GMF’s Alliance for Securing Democracy (ASD) shows that there has been a marked increase in the number of posts by Chinese officials on Twitter – from up to 4000 posts in December 2019 to 17.000 tweets in April since the COVID-19 crisis began in early 2020[75].
+Twitter is blocked in China.
+ASD also found that COVID-19 related messaging on Chinese state media, government and diplomatic Twitter accounts in the end of April and beginning of May were attacking the United States for its handling of the COVID-19 pandemic, accused Washington of spreading conspiracy theories and framed China as a victim of “scapegoating” from the West.
+Additionally, there was an aim to cast doubt on the virus’ origins in China and demonstrate China’s support for multilateral efforts to combat its spread.
+Other messaging signalled China’s return to normalcy, while highlighting the negative effects the virus is having inside the United States.
+[76]
+
+Media freedom
+
+Since mid-March 2020, media watchdogs have drawn attention to numerous cases in which governments have used the crisis to curtail media freedoms, including in the Eastern Partnership countries and Russia, Western Balkans, and the Southern Neighbourhood.
+Across the entire Neighbourhood, media are facing restrictions on access to public information and censorship.
+Journalists and bloggers are facing threats, harassment and physical violence.
+Moreover, the economic downfall has caused additional financial challenge for the already cash-stripped media sector due to reduced revenues from advertising.
+This puts the political or economic neutrality of the concerned media outlets at risk, and increases vulnerabilities to malign foreign influence.
+Numerous institutions have called for greater respect of media freedoms and an emergency financial assistance to independent media in times of COVID-19[77], including Amnesty International[78], Reporters Without Borders[79] and International Federation of Journalists[80].
+İfade Özgürlüğü Derneği[81] (Freedom of Expression Association, an organisation conducting research projects on internet censorship, academic freedom, press freedom and artistic expression) reported on 3 May on[82] that as of May 2020, 415,000 websites and 140,000 URL addresses have been blocked in Turkey, observing a “continued increase in internet censorship” since the outbreak of the pandemic.
+42,000 tweets, 7,200 Twitter accounts, 12,450 YouTube videos and 6,500 Facebook posts have also been blocked.
+A Novaya Gazeta article[83] on the COVID-19 situation in the region of Chechnya was removed following the order of the Russian government; the journalist Elena Milashina herself had faced physical attacks and threats.
+Later, Russian authorities allowed Novaya Gazeta to publish a censored version of the article – a section of which was replaced by a black square.
+The Russian Ministry of Foreign Affairs accused the New York Times and the Financial Times of making anti-Russia allegations by misrepresenting the statistics of new COVID-19 infections.
+According to the ministry, the outlets made a “politically engaged attempt, to shift public attention from domestic troubles to yet another sensational anti-Russia fake news item”[84].
+The ministry said[85] it would send letters to the editorial boards of the New York Times and the Financial Times over their reporting that Russia is undercounting and underreporting COVID-19 deaths, and ask them to publish refutations prepared by the Russian authorities.
+The ministry would also contact the OSCE Representative on Freedom of the Media and UNESCO Director-General, and will notify the UN Secretariat.
+According to reporting, this might even lead to a loss of accreditation for those media outlets in Russia, with Foreign Ministry spokeswoman Maria Zakharova saying that “[further] steps will depend on whether they publish retractions”.
+[86]
+
+Looking at China, there are media reports of strengthening suppression of information about China’s handling of the COVID-19 outbreak[87].
+An increasingly strong enforcement of internet censorship goes beyond merely blocking or deleting unwanted information from online platforms and includes intimidation, detainment and other real world reprisals against internet users by security officials[88].
+Concerning China’s domestic media, Reporters Without Borders (RSF) has stated that “Beijing has used the crisis to further tighten its control of the media, banning the publication of any reports that question how it has been managed.
+This has been made easier since state and privately-owned media organizations are all strictly controlled by the Communist Party”.
+[89] China is ranked 177th out of 180 countries in RSF’s 2020 World Press Freedom index.
+[90]
+
+19 foreign journalists have been expelled or forced to leave China in the past 12 months[91], the majority of them during the COVID-19 pandemic[92].
+In the case of three Wall Street Journal reporters, COVID-19 related coverage was invoked as the justification for the expulsion by the Chinese authorities[93].
+Restrictions on foreign correspondents limit the availability of independent information that could be useful in understanding and assessing the measures taken in bringing the outbreak under control in the first country severely affected.
+Expulsions of foreign journalists is, however, a long-term the issue that goes beyond the COVID-19 crisis.
+The Foreign Correspondents’ Club of China (FCCC) annual survey for 2019[94] also found that “Chinese authorities increasingly use the threat of expulsion and visa denial to retaliate and warn against critical foreign coverage; summon journalists to meetings with officials; and harass Chinese citizens who work for the foreign press.”
+
+You can find the PDF version of the report here.
+Sources
+
+[1] For a more specific distinction and terminology, please see the second edition of our second report from April
+
+[2] Google Trends – searches related to Covid-19 in the past 90 days
+
+[3] CGTN opinion – The U.S. needs to open up about its biological laboratories in the former USSR
+
+[4] The Guardian – Why the 5G coronavirus conspiracy theory is false – video explainer; Politico – 5G arsonists turn up in continental Europe
+
+[5] EUvsDisinfo – Flattening the Curve; EUvsDisinfo – Disinfo: Only authoritarian states and closed societies will be able to protect their populations from the coronavirus and from future pandemics
+
+[6] EUvsDisinfo – Keyword: south front
+
+[7] NU.nl – Ollongren: Rusland verspreidt in Nederland desinformatie over coronavirus
+
+[8] EUvsDisinfo – COVID-19: Moscow’s Hand Shows Signs of Shakiness
+
+[9] EUvsDisinfo – Disinfo: The system of Western values has collapsed
+
+[10] EUvsDisinfo – Disinfo: The West have disposed of Ukraine like a trash
+
+[11] Global Times – Interventions avoid 7m infections in China: Nature study
+
+[12] Xinhua – Xinhua Headlines: Truth in China’s pandemic battle smashes absurd U.S. allegations
+
+[13] The Guardian – Australia called ‘gum stuck to China’s shoe’ by state media in coronavirus investigation stoush
+
+[14] Tweet: China Xinhua News 30.04.2020
+
+[15] Ecns.cn – Five questions Washington needs to answer on coronavirus pandemic
+
+[16] Xinhua – Xinhua Headlines: “Cover-up,” a label China shall return to the White House ; Tweet – @MFA_China 27.04.2020
+
+[17] Ecns.cn – Five questions Washington needs to answer on coronavirus pandemic
+
+[18] EUvsDisinfo – COVID-19: Pro-Kremlin Media Defend Beijing
+
+[19] EUvsDisinfo – Keyword: Sergei Skripal
+
+[20] EUvsDisinfo – Keyword: election meddling
+
+[21] EUvsDisinfo – Disinfo: US laboratories in Ukraine are deadly
+
+[22] EUvsDisinfo – Disinfo: Plans to close biolabs in Ukraine made US start supporting Euromaidan
+
+[23] EUvsDisinfo – Disinfo: Strange coincidence of epidemics and research laboratories supported by the US in Ukraine
+
+[24] EUvsDisinfo – Disinfo: Coronavirus could have been created in a Ukrainian laboratory
+
+[25] EUvsDisinfo – Keyword: Lugar Laboratory
+
+[26] TASS: US labs in third countries may be developing pathogenic agents — diplomat
+
+[27] Foreign Ministry Spokesperson Geng Shuang’s Regular Press Conference on April 29, 2020
+
+[28] Tweet: @MFA_China 29.04.2020; Tweet: @MFA_China 06.05.2020
+
+[29] Xinhua: China urges U.S. to address int’l concern of its bio-laboratories ; Ecns.cn – China urges U.S. to address int’l concern of its bio-laboratories
+
+[30] EUvsDisinfo – Disinfo: China and Russia are worried about in-transparent US biological laboratories on Russia’s borders
+
+[31] EUvsDisinfo – Keyword: Lugar Laboratory
+
+[32] Global Times – Ten questions the US needs to offer clear answers to the world; People’s Daily – 10 questions on COVID-19 that must be answered by U.S. politicians
+
+[33] Nature – China is promoting coronavirus treatments based on unproven traditional medicines
+
+[34] People’s Daily – TCM effective in treating COVID-19 patients in Wuhan: expert; Ecns.cn – Chinese experts share anti-epidemic knowledge with overseas Chinese in Kuwait; People’s Daily – Secrets behind China’s high COVID-19 cure rate, CGTN – COVID-19 patients in China benefit from Traditional Chinese Medicine
+
+[35] Tweet – @EmbajadaChinaEc 29.04.2020
+
+[36] Nature – China is promoting coronavirus treatments based on unproven traditional medicines
+
+[37] WHO: Q&A on coronaviruses (COVID-19)
+
+[38] Freedom House – China Media Bulletin 144: New disinformation tactics, coronavirus censorship, activist arrests (No.
+144)
+
+[39] The Alliance for Securing Democracy (ASD) – Five Things to Know About Beijing’s Disinformation Approach ; Australian Strategic Policy Institute (ASPI) – Covid-19 disinformation and social media manipulation trends, 8 April –15 April; Recorded Future – Chinese Influence Operations Evolve in Campaigns Targeting Taiwanese Elections, Hong Kong Protests;
+
+[40] ProPublica – How China Built a Twitter Propaganda Machine Then Let It Loose on Coronavirus; New York Times – Chinese Agents Helped Spread Messages That Sowed Virus Panic in U.S., Officials Say;
+
+[41] SANA – President al-Assad holds meeting with government team for confronting Coronavirus to discuss latest developments
+
+[42] SANA – Al-Jaafari: Coercive economic measures prevent Syrians from obtaining their basic needs, hinder efforts of confronting coronavirus, must be lifted immediately
+
+[43] euobserver – Opinion: How Europe’s terrorists take advantage of the pandemic; Arab News – Daesh extremists step up as Iraq, Syria, grapple with virus; Daily Sabah – Daesh ramps up attacks in Iraq, Syria amid pandemic, political crisis
+
+[44] For example, items on COVID-19 conspiracy theories and false news on 5G, Bill Gates and medical treatments dominate.
+See Raskrinkavanje.me – Nema dokaza o povezanosti 5G mreže s korona virusom; medical treatment: Raskrinkavanje.me – Zlatnih sunđera ima u cijelom Mediteranu i djelovima Atlantika, a ne samo u Crnoj Gori; Bill Gates: Raskrinkavanje.me – Ne, Bil Gejts nije smislio koronavirus da bi nas čipovao; Politico – ‘It’s overwhelming’: On the frontline to combat coronavirus ‘fake news’
+
+[45] EUvsDisinfo – Pro-Kremlin Media and the “Gates of Hell”
+
+[46] EUvsDisinfo – Keyword: Bill Gates
+
+[47] European Commission – Coronavirus Global Response: EU launches pledging effort
+
+[48] Ministry of National Defence of Lithuania – Another disinformation attack against NATO presence in Lithuania
+
+[49] DFRLab – Fact-checker’s identity stolen to spread disinfo about NATO and COVID-19
+
+[50] EUvsDisinfo – Keyword: NATO
+
+[51] Twitter – COVID-19 stream; Reuters – Twitter opens up data for researchers to study COVID-19 tweets
+
+[52] Twitter Blog – Updating our Approach to Misleading Information
+
+[53] Facebook – April 2020 Coordinated Inauthentic Behavior Report
+
+[54] Facebook – April 2020 Coordinated Inauthentic Behavior Report
+
+[55] EUvsDisinfo – No News on the News Front
+
+[56] EUvsDisinfo – South Front – Russia Hiding Being Russian
+
+[57] EUvsDisinfo – No News on the News Front and EUvsDisinfo – South Front – Russia Hiding Being Russian
+
+[58] EUvsDisinfo – Figure of the Week: 117 Million
+
+[59] DFRLab – Facebook removes Russian propaganda outlet in Ukraine
+
+[60] Zeit Online – War without blood
+
+[61] Poynter – Fighting the Infodemic: The #CoronaVirusFacts Alliance
+
+[62] Facebook AI – Using AI to detect COVID-19 misinformation and exploitative content
+
+[63] NPR – Seen ‘Plandemic’?
+We Take A Close Look At The Viral Conspiracy Video’s Claims
+
+[64] OneZero – Facebook Groups and YouTube Enabled Viral Spread of ‘Plandemic’ Misinformation
+
+[65] New York Times – Virus Conspiracists Elevate a New Champion
+
+[66] For more information, see the ERGA Report on disinformation and the independent assessment of the Code of Practice commissioned by the Eruopean Commission
+
+[67] Bellingcat – Uncovering A Pro-Chinese Government Information Operation On Twitter and Facebook: Analysis Of The #MilesGuo Bot Network
+
+[68] Twitter Blog – Information operations directed at Hong Kong
+
+[69] Australian Strategic Policy Institute (ASPI) – Tweeting through the Great Firewall
+
+[70] The Citizen Lab – Censored Contagion: How Information on the Coronavirus is Managed on Chinese Social Media
+
+[71] The Citizen Lab – We Chat, They Watch: How International Users Unwittingly Build up WeChat’s Chinese Censorship Apparatus
+
+[72] The Citizen Lab – One App, Two Systems: How WeChat uses one censorship policy in China and another internationally
+
+[73] Human Rights Watch (HRW) – How China’s censorship machine crosses borders — and into Western politics
+
+[74] Australian Strategic Policy Institute (ASPI) – COVID-19 Attracts Patriotic Troll Campaigns in Support of China’s Geopolitical Interests
+
+[75] Politico – Chinese diplomacy ramps up social media offensive in Covid-19 info war
+
+[76] Hamilton Weekly Report: April 25-May 1, 2020; Hamilton Weekly Report: May 2-8, 2020
+
+[77] 42 Members of the European Parliament; Baltic Centre for Media Excellence and 33 media organisations from EaP countries; 21 member states of Media Freedom Coalition; 102 co-signatories of an appeal for emergency support by European Federation of Journalists;
+
+[78] Amnesty International – Global: Crackdown on journalists weakens efforts to tackle COVID-19
+
+[79] Reporters Without Borders – CORONAVIRUS: We need reliable news more than ever – act now!
+[80] International Federation of Journalists – IFJ Launches Global Platform for Quality Journalism
+
+[81] Freedom of Expression Association
+
+[82] Tweet – @ifadeorgtr 03.05.2020
+
+[83] EUvsDisinfo – COVID-19 Without Independent Journalism
+
+[84] Ministry of Foreign Affairs of the Russian Federation – Anti-Russia allegations by The New York Times and the Financial Times on countering the new coronavirus infection
+
+[85] Russian MFA – Briefing by Foreign Ministry Spokesperson Maria Zakharova, Moscow, May 14, 2020
+
+[86] The Moscow Times – NYT Defies Russia’s Call to Retract Report on Coronavirus Deaths; New York Times – Russia Slams New York Times, Financial Times on Virus Deaths
+
+[87] New York Times – Coronavirus Survivors Want Answers, and China Is Silencing Them; NPR – China Says It Contained COVID-19.
+Now It Fights To Control The Story
+
+[88] New York Times – Coronavirus Outrage Spurs China’s Internet Police to Action; South China Morning Post – Chinese activists detained after sharing censored coronavirus material on crowdsourcing site Github
+
+[89] Reporters Without Borders (RSF) – Asia-Pacific
+
+[90] Reporters Without Borders (RSF) – China
+
+[91] ABC NEWS – In the midst of the coronavirus pandemic, China forces out foreign reporters
+
+[92] New York Times – China Announces That It Will Expel American Journalists; Reporters Without Borders (RSF) – Coronavirus: mass expulsion of foreign correspondents further cripples freedom of information in China
+
+[93] CNN – Beijing expels three Wall Street Journal reporters
+
+[94] Committee to Protect Journalists (CPJ) – China uses visa process to intimidate foreign press, FCCC survey finds

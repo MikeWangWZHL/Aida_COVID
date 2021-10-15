@@ -1,0 +1,532 @@
+{
+    "ENL0C04959D.000001": {
+        "id": "ENL0C04959D.000001",
+        "type": "PER",
+        "offsets": [
+            212,
+            218
+        ],
+        "text": "people",
+        "arg_ann_id": "T1"
+    },
+    "ENL0C04959D.000002": {
+        "id": "ENL0C04959D.000002",
+        "type": "ORG",
+        "offsets": [
+            486,
+            494
+        ],
+        "text": "Facebook",
+        "arg_ann_id": "T2"
+    },
+    "ENL0C04959D.000003": {
+        "id": "ENL0C04959D.000003",
+        "type": "PER",
+        "offsets": [
+            567,
+            569
+        ],
+        "text": "we",
+        "arg_ann_id": "T3"
+    },
+    "ENL0C04959D.000004": {
+        "id": "ENL0C04959D.000004",
+        "type": "ORG",
+        "offsets": [
+            722,
+            741
+        ],
+        "text": "Journal of Virology",
+        "arg_ann_id": "T4"
+    },
+    "ENL0C04959D.000005": {
+        "id": "ENL0C04959D.000005",
+        "type": "ORG",
+        "offsets": [
+            751,
+            784
+        ],
+        "text": "American Society for Microbiology",
+        "arg_ann_id": "T5"
+    },
+    "ENL0C04959D.000006": {
+        "id": "ENL0C04959D.000006",
+        "type": "PER",
+        "offsets": [
+            1512,
+            1516
+        ],
+        "text": "body",
+        "arg_ann_id": "T6"
+    },
+    "ENL0C04959D.000007": {
+        "id": "ENL0C04959D.000007",
+        "type": "ORG",
+        "offsets": [
+            1631,
+            1649
+        ],
+        "text": "MD Anderson Center",
+        "arg_ann_id": "T7"
+    },
+    "ENL0C04959D.000008": {
+        "id": "ENL0C04959D.000008",
+        "type": "PER",
+        "offsets": [
+            1841,
+            1844
+        ],
+        "text": "you",
+        "arg_ann_id": "T8"
+    },
+    "ENL0C04959D.000009": {
+        "id": "ENL0C04959D.000009",
+        "type": "PER",
+        "offsets": [
+            1890,
+            1894
+        ],
+        "text": "your",
+        "arg_ann_id": "T9"
+    },
+    "ENL0C04959D.000010": {
+        "id": "ENL0C04959D.000010",
+        "type": "ORG",
+        "offsets": [
+            2251,
+            2259
+        ],
+        "text": "Facebook",
+        "arg_ann_id": "T10"
+    },
+    "ENL0C04959D.000011": {
+        "id": "ENL0C04959D.000011",
+        "type": "PER",
+        "offsets": [
+            2438,
+            2454
+        ],
+        "text": "Donald Schaffner",
+        "arg_ann_id": "T11"
+    },
+    "ENL0C04959D.000012": {
+        "id": "ENL0C04959D.000012",
+        "type": "PER",
+        "offsets": [
+            2471,
+            2481
+        ],
+        "text": "specialist",
+        "arg_ann_id": "T12"
+    },
+    "ENL0C04959D.000013": {
+        "id": "ENL0C04959D.000013",
+        "type": "ORG",
+        "offsets": [
+            2492,
+            2507
+        ],
+        "text": "Associate Press",
+        "arg_ann_id": "T13"
+    },
+    "ENL0C04959D.000014": {
+        "id": "ENL0C04959D.000014",
+        "type": "PER",
+        "offsets": [
+            2569,
+            2575
+        ],
+        "text": "people",
+        "arg_ann_id": "T14"
+    },
+    "ENL0C04959D.000015": {
+        "id": "ENL0C04959D.000015",
+        "type": "PER",
+        "offsets": [
+            2599,
+            2603
+        ],
+        "text": "they",
+        "arg_ann_id": "T15"
+    },
+    "ENL0C04959D.000016": {
+        "id": "ENL0C04959D.000016",
+        "type": "PER",
+        "offsets": [
+            2678,
+            2684
+        ],
+        "text": "people",
+        "arg_ann_id": "T16"
+    },
+    "ENL0C04959D.000017": {
+        "id": "ENL0C04959D.000017",
+        "type": "ORG",
+        "offsets": [
+            2687,
+            2690
+        ],
+        "text": "Our",
+        "arg_ann_id": "T17"
+    },
+    "ENL0C04959D.000018": {
+        "id": "ENL0C04959D.000018",
+        "type": "ORG",
+        "offsets": [
+            3235,
+            3238
+        ],
+        "text": "Our",
+        "arg_ann_id": "T18"
+    },
+    "ENL0C04959D.000019": {
+        "id": "ENL0C04959D.000019",
+        "type": "PER",
+        "offsets": [
+            3266,
+            3269
+        ],
+        "text": "you",
+        "arg_ann_id": "T19"
+    },
+    "ENL0C04959D.000020": {
+        "id": "ENL0C04959D.000020",
+        "type": "ORG",
+        "offsets": [
+            3285,
+            3288
+        ],
+        "text": "our",
+        "arg_ann_id": "T20"
+    },
+    "ENL0C04959D.000021": {
+        "id": "ENL0C04959D.000021",
+        "type": "PER",
+        "offsets": [
+            3301,
+            3304
+        ],
+        "text": "You",
+        "arg_ann_id": "T21"
+    },
+    "ENL0C04959D.000022": {
+        "id": "ENL0C04959D.000022",
+        "type": "ORG",
+        "offsets": [
+            3322,
+            3325
+        ],
+        "text": "our",
+        "arg_ann_id": "T22"
+    },
+    "ENL0C04959D.000023": {
+        "id": "ENL0C04959D.000023",
+        "type": "ORG",
+        "offsets": [
+            3392,
+            3395
+        ],
+        "text": "Our",
+        "arg_ann_id": "T23"
+    },
+    "ENL0C04959D.000024": {
+        "id": "ENL0C04959D.000024",
+        "type": "ORG",
+        "offsets": [
+            3449,
+            3457
+        ],
+        "text": "Facebook",
+        "arg_ann_id": "T24"
+    },
+    "ENL0C04959D.000025": {
+        "id": "ENL0C04959D.000025",
+        "type": "COM",
+        "offsets": [
+            16,
+            29
+        ],
+        "text": "alkaline diet",
+        "arg_ann_id": "T25"
+    },
+    "ENL0C04959D.000026": {
+        "id": "ENL0C04959D.000026",
+        "type": "medical_intervention_cure",
+        "offsets": [
+            36,
+            40
+        ],
+        "text": "kill",
+        "arg_ann_id": "T26"
+    },
+    "ENL0C04959D.000027": {
+        "id": "ENL0C04959D.000027",
+        "type": "MHI",
+        "offsets": [
+            45,
+            56
+        ],
+        "text": "coronavirus",
+        "arg_ann_id": "T27"
+    },
+    "ENL0C04959D.000028": {
+        "id": "ENL0C04959D.000028",
+        "type": "medical_intervention_cure",
+        "offsets": [
+            98,
+            102
+        ],
+        "text": "beat",
+        "arg_ann_id": "T28"
+    },
+    "ENL0C04959D.000029": {
+        "id": "ENL0C04959D.000029",
+        "type": "MHI",
+        "offsets": [
+            107,
+            118
+        ],
+        "text": "coronavirus",
+        "arg_ann_id": "T29"
+    },
+    "ENL0C04959D.000030": {
+        "id": "ENL0C04959D.000030",
+        "type": "COM",
+        "offsets": [
+            74,
+            87
+        ],
+        "text": "alkaline diet",
+        "arg_ann_id": "T30"
+    },
+    "ENL0C04959D.000031": {
+        "id": "ENL0C04959D.000031",
+        "type": "COM",
+        "offsets": [
+            293,
+            307
+        ],
+        "text": "alkaline diets",
+        "arg_ann_id": "T31"
+    },
+    "ENL0C04959D.000032": {
+        "id": "ENL0C04959D.000032",
+        "type": "medical_intervention_cure",
+        "offsets": [
+            585,
+            589
+        ],
+        "text": "beat",
+        "arg_ann_id": "T32"
+    },
+    "ENL0C04959D.000033": {
+        "id": "ENL0C04959D.000033",
+        "type": "MHI",
+        "offsets": [
+            590,
+            601
+        ],
+        "text": "coronavirus",
+        "arg_ann_id": "T33"
+    },
+    "ENL0C04959D.000034": {
+        "id": "ENL0C04959D.000034",
+        "type": "life_consume_unspecified",
+        "offsets": [
+            607,
+            610
+        ],
+        "text": "eat",
+        "arg_ann_id": "T34"
+    },
+    "ENL0C04959D.000035": {
+        "id": "ENL0C04959D.000035",
+        "type": "COM",
+        "offsets": [
+            611,
+            625
+        ],
+        "text": "alkaline foods",
+        "arg_ann_id": "T35"
+    },
+    "ENL0C04959D.000036": {
+        "id": "ENL0C04959D.000036",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            495,
+            502
+        ],
+        "text": "alleged",
+        "arg_ann_id": "T36"
+    },
+    "ENL0C04959D.000037": {
+        "id": "ENL0C04959D.000037",
+        "type": "INF",
+        "offsets": [
+            470,
+            475
+        ],
+        "text": "claim",
+        "arg_ann_id": "T37"
+    },
+    "ENL0C04959D.000038": {
+        "id": "ENL0C04959D.000038",
+        "type": "disaster_diseaseoutbreak_unspecified",
+        "offsets": [
+            260,
+            268
+        ],
+        "text": "pandemic",
+        "arg_ann_id": "T38"
+    },
+    "ENL0C04959D.000039": {
+        "id": "ENL0C04959D.000039",
+        "type": "MHI",
+        "offsets": [
+            159,
+            170
+        ],
+        "text": "coronavirus",
+        "arg_ann_id": "T39"
+    },
+    "ENL0C04959D.000040": {
+        "id": "ENL0C04959D.000040",
+        "type": "COM",
+        "offsets": [
+            1953,
+            1967
+        ],
+        "text": "alkaline foods",
+        "arg_ann_id": "T40"
+    },
+    "ENL0C04959D.000041": {
+        "id": "ENL0C04959D.000041",
+        "type": "life_consume_unspecified",
+        "offsets": [
+            1941,
+            1947
+        ],
+        "text": "Eating",
+        "arg_ann_id": "T41"
+    },
+    "ENL0C04959D.000042": {
+        "id": "ENL0C04959D.000042",
+        "type": "control_impedeinterferewith_prevent",
+        "offsets": [
+            1984,
+            2002
+        ],
+        "text": "preventive measure",
+        "arg_ann_id": "T42"
+    },
+    "ENL0C04959D.000043": {
+        "id": "ENL0C04959D.000043",
+        "type": "medical_intervention_cure",
+        "offsets": [
+            2006,
+            2010
+        ],
+        "text": "cure",
+        "arg_ann_id": "T43"
+    },
+    "ENL0C04959D.000044": {
+        "id": "ENL0C04959D.000044",
+        "type": "MHI",
+        "offsets": [
+            2019,
+            2030
+        ],
+        "text": "coronavirus",
+        "arg_ann_id": "T44"
+    },
+    "ENL0C04959D.000045": {
+        "id": "ENL0C04959D.000045",
+        "type": "control_impedeinterferewith_prevent",
+        "offsets": [
+            2630,
+            2637
+        ],
+        "text": "prevent",
+        "arg_ann_id": "T45"
+    },
+    "ENL0C04959D.000046": {
+        "id": "ENL0C04959D.000046",
+        "type": "socialbehavior_complyobey_unspecified",
+        "offsets": [
+            2657,
+            2684
+        ],
+        "text": "stay away from other people",
+        "arg_ann_id": "T46"
+    },
+    "ENL0C04959D.000047": {
+        "id": "ENL0C04959D.000047",
+        "type": "life_illness_unspecified",
+        "offsets": [
+            2638,
+            2650
+        ],
+        "text": "getting sick",
+        "arg_ann_id": "T47"
+    },
+    "ENL0C04959D.000048": {
+        "id": "ENL0C04959D.000048",
+        "type": "medical_intervention_cure",
+        "offsets": [
+            2749,
+            2753
+        ],
+        "text": "beat",
+        "arg_ann_id": "T48"
+    },
+    "ENL0C04959D.000049": {
+        "id": "ENL0C04959D.000049",
+        "type": "MHI",
+        "offsets": [
+            2758,
+            2769
+        ],
+        "text": "coronavirus",
+        "arg_ann_id": "T49"
+    },
+    "ENL0C04959D.000050": {
+        "id": "ENL0C04959D.000050",
+        "type": "COM",
+        "offsets": [
+            2725,
+            2738
+        ],
+        "text": "alkaline diet",
+        "arg_ann_id": "T50"
+    },
+    "ENL0C04959D.000051": {
+        "id": "ENL0C04959D.000051",
+        "type": "control_impedeinterferewith_prevent",
+        "offsets": [
+            3075,
+            3085
+        ],
+        "text": "preventive",
+        "arg_ann_id": "T51"
+    },
+    "ENL0C04959D.000052": {
+        "id": "ENL0C04959D.000052",
+        "type": "medical_intervention_cure",
+        "offsets": [
+            3098,
+            3103
+        ],
+        "text": "cures",
+        "arg_ann_id": "T52"
+    },
+    "ENL0C04959D.000053": {
+        "id": "ENL0C04959D.000053",
+        "type": "MHI",
+        "offsets": [
+            3108,
+            3116
+        ],
+        "text": "COVID-19",
+        "arg_ann_id": "T53"
+    }
+}

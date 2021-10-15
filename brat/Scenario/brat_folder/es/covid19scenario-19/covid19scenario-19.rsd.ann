@@ -1,0 +1,44 @@
+T1	ORG 34 51	La Voz de Galicia
+T2	PER 52 66	UXÍA RODRÍGUEZ
+T3	GPE 126 131	China
+T4	ORG 220 230	AliExpress
+T5	GPE 264 269	Wuhan
+T6	LOC 301 306	mundo
+T7	PER 345 351	muchos
+T8	PER 371 381	trabajador
+T9	GPE 382 387	chino
+T10	LOC 493 500	esquina
+T11	LOC 507 524	Península Ibérica
+T12	LOC 555 560	miles
+T13	LOC 564 574	kilómetros
+T14	GPE 578 584	España
+T15	PER 585 592	algunos
+T16	FAC 651 656	bazar
+T17	GPE 657 662	chino
+T18	GPE 663 667	aquí
+T19	PER 727 734	Simpson
+T20	PER 879 885	hombre
+T21	MHI 890 895	gripe
+T22	GPE 899 904	Japón
+T23	GPE 956 967	Springfield
+T24	PER 978 988	habitantes
+T25	GPE 1020 1024	país
+T26	LOC 1025 1033	asiático
+T27	PER 1034 1036	se
+T28	PER 1048 1061	Homer Simpson
+T29	PER 1168 1170	él
+T30	ORG 1246 1278	Organización Mundial de la Salud
+T31	GPE 1537 1542	China
+T32	PER 1564 1572	personas
+T33	GPE 1597 1602	China
+T34	PER 1773 1791	María José Pereira
+T35	PER 1794 1798	jefa
+T36	ORG 1803 1844	Servicio de Medicina Preventiva del Chuac
+T37	LOC 2028 2038	superficie
+T38	MHI 2052 2063	coronavirus
+T39	PER 2093 2104	científicos
+T40	PER 2143 2145	su
+T41	LOC 2195 2205	superficie
+T42	PER 2768 2773	gente
+T43	ORG 2849 2852	OMS
+T44	ORG 2854 2857	que

@@ -1,0 +1,55 @@
+The novel coronavirus likely originated in bats, but the pathogen may have then hopped into dogs before infecting humans, a new study suggests.
+But not everyone agrees with that hypothesis.
+One expert told Live Science that "there are a lot of weaknesses" in the study and that the data don't support the study's conclusions.
+Evolution of a virus
+Before the new coronavirus SARS-CoV-2 made the jump to humans, two other coronaviruses , SARS-CoV and MERS-CoV, evolved in bats and passed through other animals on their way to people.
+SARS-CoV passed through civets and MERS-CoV through camels, and the molecular structure of SARS-CoV-2 suggests that the virus also passed through an intermediate animal , but scientists don't yet know which one.
+In February, authors of a preliminary study published to the preprint database bioRxiv suggested that pangolins may bridge the gap between bats and humans, since SARS-CoV-2 and related coronaviruses that infect pangolins sport similar spike proteins — a structure on the surface of the virus that allows it to infect cells.
+But other scientists argued that, despite their spike proteins, pangolin coronaviruses bear many differences to SARS-CoV-2 that make pangolins unlikely to be the source of infection, The New York Times reported .
+With the mystery unresolved, biology professor Xuhua Xia of the University of Ottawa in Canada launched his own investigation into how the coronavirus passed from bats to people.
+His analysis, published April 14 in the journal Molecular Biology and Evolution , offered a new solution: dogs.
+Xia reached his conclusion by scanning the genetic code of SARS-CoV-2 and other coronaviruses for a specific feature known as a CpG site, a sequence of genetic code in which the compound cytosine (C) is followed by the compound guanine (G).
+The human immune system sees CpG sites as a red flag, signaling that an invasive virus is present.
+A human protein called zinc finger antiviral protein (ZAP) latches onto the CpG sites on the viral genetic code and recruits help to break down the pathogen, according to UniProt , an online protein database.
+The theory follows that, the fewer CpG sites, the less vulnerable a virus will be to ZAP.
+Related: 10 deadly diseases that hopped across species
+Xia found that SARS-CoV-2 carries fewer CpG sites than the other known coronaviruses that first evolved in animals, including SARS-CoV and MERS-CoV.
+In addition, the closest known relative of SARS-CoV-2 , the bat coronavirus RaTG13, contains fewer CpG sites than related bat coronaviruses , according to the analysis.
+"This suggests that SARS-CoV-2 may have evolved in a new host (or new host tissue) with high ZAP expression," which would place evolutionary pressure on the virus to shed CpG sites, Xia wrote.
+Essentially, in order to survive and reproduce, a pathogen like SARS-CoV-2 needs to be able to evade the host’s immune fighters, and in this case it would mean getting rid of CpG sites that could alert ZAP proteins to the virus.
+From the intestines of dogs?
+Unfortunately, little data exists on exactly how much ZAP appears in different animal tissues, Xia told Live Science.
+So he worked backwards, looking for animal coronaviruses with low CpG levels.
+He found a coronavirus that primarily infects the canine intestine, and thus inferred that the dog gut might contain adequate ZAP levels to drive viral evolution in this way.
+"Only canids seem to have the tissue generating low-CpG CoVs during my study," Xia said.
+If a precursor to SARS-CoV-2 breached the canine intestine, then this would have "resulted in rapid evolution of the virus" to lose CpG sites and become better equipped to infect humans, he wrote in the paper.
+Beyond the low CpG levels, the paper did not note other genetic similarities between SARS-CoV-2 and the dog coronavirus, but suggested that the canine gut might provide the right environment for such viruses to evolve.
+But why the dog intestine?
+Some research suggests that ZAP mRNA, which contains instructions to build the protein, appears in both the dog lung and colon but that higher concentrations accumulate in the lungs, Xia said.
+It may be that a glut of ZAP in the lungs guards the organ from coronaviruses, while the lower concentrations of ZAP in the colon leave the gut open to severe infection, though there are reasons to be cautious in coming to this conclusion, Xia said.
+But does this hypothesis make sense?
+"I think the data do not support these conclusions," Pleuni Pennings, an assistant professor of ecology and evolution at San Francisco State University, who was not involved in the study, told Live Science in an email.
+Pennings, whose research group has examined the CpG levels of many viruses, pointed out several weaknesses in the study's logic.
+Inconclusive evidence
+In a 2018 study published in the journal PLOS Genetics , Pennings surveyed CpG levels in the HIV virus and investigated how the pathogen evolves within individual people.
+She then led a similar study of several other viruses — including Dengue fever virus, influenza , and hepatitis B and C — to learn how often these bugs lose or gain CpG sites through mutations.
+Her group found that, in general, mutations that add CpG sites tend to be found in viral samples taken from people less often than mutations that remove CpG sites from the genome.
+CpG-creating mutations may be costly to viruses in that they alert the body to infection, so over time, evolutionary forces minimize their appearance, Pennings said.
+That said, many viruses still carry CpG sites, so the mutations may carry some benefit "even if it comes with a slight cost," she added.
+So SARS-CoV-2 is not unusual in that way.
+"There are many viruses with lower [CpG] values than SARS-CoV-2," Pennings said.
+"When you look at all viruses, the [CpG] value is not strange at all," she said.
+Xia did find that SARS-CoV-2 contains fewer CpG sites than other animal-borne coronaviruses, and assuming that finding is correct, then it raises the question of why that came to be, she added.
+But even if there is an evolutionary reason to explain why SARS-CoV-2 lost CpG sites, that evolutionary reason may not give the virus a special advantage for infecting humans, Pennings said.
+In his paper, Xia noted that studies have "shown an association between decreased CpG in viral RNA genomes and increased virulence," meaning low-CpG viruses appear associated with more severe infection.
+However, although evolution favors mutations that delete CpG sites, and there's a general trend tying fewer CpG sites to more severe infection, "it doesn’t mean that viruses with low numbers of CpG sites are necessarily more virulent," Pennings said.
+For example, the BK virus contains very few CpG sites and resides in the kidneys of an estimated 60% to 80% of adults , but typically only triggers symptoms in immunosuppressed people, she noted.
+(The virus was named the initials of the first person it was isolated from.)
+If the CpG levels present in SARS-CoV-2 are somehow related to disease severity, "then this would provide an efficient way for vaccine development," Xia said.
+In this hypothetical scenario, scientists could eliminate CpG sites from the coronavirus genome in a lab dish, thereby weakening the bug to the point that it could safely be incorporated into a vaccine.
+But as of yet, no correlation has been drawn between CpG and the relative severity of SARS-CoV-2 infections.
+Several pangolin coronaviruses included in Xia's study also contained few CpG sites, on par with SARS-CoV-2 and the bat virus RaTG13.
+Given other genetic differences between human and pangolin coronaviruses, however, the ancestor shared between this low-CpG pangolin coronavirus and SARS-CoV-2 would likely have existed over 130 years ago, Xia said.
+"We expect a SARS-CoV-2 progenitor to be much more recent," he said.
+But did dogs serve as an intermittent host for the coronavirus?
+At this point, there's little evidence to suggest so.

@@ -1,0 +1,64 @@
+The current coronavirus disease 2019 (COVID-19) outbreak vividly demonstrates the burden that respiratory infectious diseases impose in an intimately connected world.
+Unprecedented containment and mitigation policies have been implemented in an effort to limit the spread of COVID-19, including travel restrictions, screening and testing of travelers, isolation and quarantine, and school closures.
+A key goal of such policies is to decrease the encounters between infected individuals and susceptible individuals and decelerate the rate of transmission.
+Although such social distancing strategies are critical in the current time of pandemic, it may seem surprising that the current understanding of the routes of host-to-host transmission in respiratory infectious diseases are predicated on a model of disease transmission developed in the 1930s that, by modern standards, seems overly simplified.
+Implementing public health recommendations based on these older models may limit the effectiveness of the proposed interventions.
+Understanding Respiratory Infectious Disease Transmission
+
+In 1897, Carl Flügge showed that pathogens were present in expiratory droplets large enough to settle around an infected individual.
+“Droplet transmission” by contact with the ejected and infected fluid phase of droplets was thought to be the primary route for respiratory transmission of diseases.
+This view prevailed until William F. Wells focused on tuberculosis transmission in the 1930s and dichotomized respiratory droplet emissions into “large” and “small” droplets.
+According to Wells, isolated droplets are emitted upon exhalation.
+Large droplets settle faster than they evaporate, contaminating the immediate vicinity of the infected individual.
+In contrast, small droplets evaporate faster than they settle.
+In this model, as small droplets transition from the warm and moist conditions of the respiratory system to the colder and drier outside environment, they evaporate and form residual particulates made of the dried material from the original droplets.
+These residual particulates are referred to as droplet nuclei or aerosols.
+These ideas resulted in a dichotomous classification between large vs small droplets, or droplets vs aerosol, which can then mediate transmission of respiratory disease.
+Infection control strategies were then developed based on whether a respiratory infectious disease is primarily transmitted via the large or the small droplet route.
+The dichotomy of large vs small droplets remains at the core of the classification systems of routes of respiratory disease transmission adopted by the World Health Organization and other agencies, such as the Centers for Disease Control and Prevention.
+These classification systems employ various arbitrary droplet diameter cutoffs, from 5 to 10 μm, to categorize host-to-host transmission as droplets or aerosol routes.1 Such dichotomies continue to underly current risk management, major recommendations, and allocation of resources for response management associated with infection control, including for COVID-19.
+Even when maximum containment policies were enforced, the rapid international spread of COVID-19 suggests that using arbitrary droplet size cutoffs may not accurately reflect what actually occurs with respiratory emissions, possibly contributing to the ineffectiveness of some procedures used to limit the spread of respiratory disease.
+New Model for Respiratory Emissions
+
+Recent work has demonstrated that exhalations, sneezes, and coughs not only consist of mucosalivary droplets following short-range semiballistic emission trajectories but, importantly, are primarily made of a multiphase turbulent gas (a puff) cloud that entrains ambient air and traps and carries within it clusters of droplets with a continuum of droplet sizes (Figure; Video).2,3 The locally moist and warm atmosphere within the turbulent gas cloud allows the contained droplets to evade evaporation for much longer than occurs with isolated droplets.
+Under these conditions, the lifetime of a droplet could be considerably extended by a factor of up to 1000, from a fraction of a second to minutes.
+Figure.
+Multiphase Turbulent Gas Cloud From a Human Sneeze
+
+Video.
+Gas Clouds Demonstrate Their Ability to Travel Great Distances
+
+Owing to the forward momentum of the cloud, pathogen-bearing droplets are propelled much farther than if they were emitted in isolation without a turbulent puff cloud trapping and carrying them forward.
+Given various combinations of an individual patient’s physiology and environmental conditions, such as humidity and temperature, the gas cloud and its payload of pathogen-bearing droplets of all sizes can travel 23 to 27 feet (7-8 m).3,4 Importantly, the range of all droplets, large and small, is extended through their interaction with and trapping within the turbulent gas cloud, compared with the commonly accepted dichotomized droplet model that does not account for the possibility of a hot and moist gas cloud.
+Moreover, throughout the trajectory, droplets of all sizes settle out or evaporate at rates that depend not only on their size, but also on the degree of turbulence and speed of the gas cloud, coupled with the properties of the ambient environment (temperature, humidity, and airflow).
+Droplets that settle along the trajectory can contaminate surfaces, while the rest remain trapped and clustered in the moving cloud.
+Eventually the cloud and its droplet payload lose momentum and coherence, and the remaining droplets within the cloud evaporate, producing residues or droplet nuclei that may stay suspended in the air for hours, following airflow patterns imposed by ventilation or climate-control systems.
+The evaporation of pathogen-laden droplets in complex biological fluids is poorly understood.
+The degree and rate of evaporation depend strongly on ambient temperature and humidity conditions, but also on the inner dynamics of the turbulent puff cloud coupled with the composition of the liquid exhaled by the patient.
+A 2020 report from China demonstrated that severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) virus particles could be found in the ventilation systems in hospital rooms of patients with COVID-19.5 Finding virus particles in these systems is more consistent with the turbulent gas cloud hypothesis of disease transmission than the dichotomous model because it explains how viable virus particles can travel long distances from patients.
+Whether these data have clinical implications with respect to COVID-19 is unknown.
+Implications for Prevention and Precaution
+
+Although no studies have directly evaluated the biophysics of droplets and gas cloud formation for patients infected with the SARS-CoV-2 virus, several properties of the exhaled gas cloud and respiratory transmission may apply to this pathogen.
+If so, this possibility may influence current recommendations intended to minimize the risk for disease transmission.
+In the latest World Health Organization recommendations for COVID-19, health care personnel and other staff are advised to maintain a 3-foot (1-m)6 distance away from a person showing symptoms of disease, such as coughing and sneezing.
+The Centers for Disease Control and Prevention recommends a 6-foot (2-m) separation.7,8 However, these distances are based on estimates of range that have not considered the possible presence of a high-momentum cloud carrying the droplets long distances.
+Given the turbulent puff cloud dynamic model, recommendations for separations of 3 to 6 feet (1-2 m) may underestimate the distance, timescale, and persistence over which the cloud and its pathogenic payload travel, thus generating an underappreciated potential exposure range for a health care worker.
+For these and other reasons, wearing of appropriate personal protection equipment is vitally important for health care workers caring for patients who may be infected, even if they are farther than 6 feet away from a patient.
+Turbulent gas cloud dynamics should influence the design and recommended use of surgical and other masks.
+These masks can be used both for source control (ie, reducing spread from an infected person) and for protection of the wearer (ie, preventing spread to an unaffected person).
+The protective efficacy of N95 masks depends on their ability to filter incoming air from aerosolized droplet nuclei.
+However, these masks are only designed for a certain range of environmental and local conditions and a limited duration of usage.9 Mask efficacy as source control depends on the ability of the mask to trap or alter the high-momentum gas cloud emission with its pathogenic payload.
+Peak exhalation speeds can reach up to 33 to 100 feet per second (10-30 m/s), creating a cloud that can span approximately 23 to 27 feet (7-8 m).
+Protective and source control masks, as well as other protective equipment, should have the ability to repeatedly withstand the kind of high-momentum multiphase turbulent gas cloud that may be ejected during a sneeze or a cough and the exposure from them.
+Currently used surgical and N95 masks are not tested for these potential characteristics of respiratory emissions.
+There is a need to understand the biophysics of host-to-host respiratory disease transmission accounting for in-host physiology, pathogenesis, and epidemiological spread of disease.
+The rapid spread of COVID-19 highlights the need to better understand the dynamics of respiratory disease transmission by better characterizing transmission routes, the role of patient physiology in shaping them, and best approaches for source control to potentially improve protection of front-line workers and prevent disease from spreading to the most vulnerable members of the population.
+Back to top Article Information
+
+Corresponding Author: Lydia Bourouiba, PhD, Massachusetts Institute of Technology, 77 Massachusetts Ave, Cambridge, MA 02139 (lbouro@mit.edu).
+Published Online: March 26, 2020. doi:10.1001/jama.2020.4756
+
+Conflict of Interest Disclosures: None reported.
+Funding/Support: Dr Bourouiba reported receiving research support from the Smith Family Foundation, the Massachusetts Institute of Technology (MIT) Policy Lab, the MIT Reed Fund, and the Esther and Harold E. Edgerton Career Development chair at MIT.
+Role of the Funder/Sponsor: The funders had no role in the preparation, review or approval of the manuscript and decision to submit the manuscript for publication.

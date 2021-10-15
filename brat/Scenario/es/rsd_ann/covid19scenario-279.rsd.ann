@@ -1,0 +1,66 @@
+T1	ORG 3 11	tribunal
+T2	GPE 15 19	Perú
+T3	ORG 86 94	COVID-19
+T4	PER 121 127	élites
+T5	PER 167 178	magistrados
+T6	ORG 187 192	corte
+T7	PER 218 224	jueces
+T8	PER 262 270	imputado
+T9	PER 275 277	se
+T10	PER 382 388	élites
+T11	PER 400 402	se
+T12	PER 413 429	multimillonarios
+T13	PER 435 447	George Soros
+T14	PER 452 471	familia Rockefeller
+T15	PER 477 487	empresario
+T16	PER 490 500	cofundador
+T17	ORG 504 513	Microsoft
+T18	PER 514 524	Bill Gates
+T19	ORG 582 626	Sala Penal de Apelaciones de Chincha y Pisco
+T20	PER 698 707	creadores
+T21	PER 789 792	sus
+T22	ORG 804 817	corporaciones
+T23	ORG 840 848	tribunal
+T24	ORG 865 898	Corte Superior de Justicia de Ica
+T25	ORG 899 902	que
+T26	PER 917 923	jueces
+T27	PER 924 937	Tito Gallegos
+T28	PER 939 950	Luis Leguía
+T29	PER 953 967	Tony Changaray
+T30	PER 1033 1041	imputado
+T31	PER 1058 1060	se
+T32	PER 1061 1063	le
+T33	PER 1072 1074	su
+T34	ORG 1164 1172	Gobierno
+T35	PER 1182 1190	personas
+T36	PER 1220 1227	defensa
+T37	PER 1232 1240	imputado
+T38	PER 1318 1327	creadores
+T39	PER 1357 1367	Bill Gates
+T40	PER 1369 1374	Soros
+T41	PER 1376 1387	Rockefeller
+T42	ORG 1441 1451	LP Derecho
+T43	PER 1473 1479	jueces
+T44	ORG 1549 1557	tribunal
+T45	ORG 1562 1614	Oficina Desconcentrada de Control de la Magistratura
+T46	ORG 1616 1622	Odecma
+T47	GPE 1624 1630	de Ica
+T48	LOC 1664 1667	sur
+T49	GPE 1671 1675	Lima
+T50	PER 1718 1729	magistrados
+T51	PER 1905 1911	jueces
+T52	PER 1964 1970	élites
+T53	LOC 1997 2002	mundo
+T54	ORG 2008 2061	Sala Superior Penal de Apelaciones de Chincha y Pisco
+T55	ORG 2062 2064	se
+T56	WEA 2190 2198	COVID-19
+T57	ORG 2257 2289	Organización Mundial de la Salud
+T58	ORG 2291 2294	OMS
+T59	FAC 2379 2390	laboratorio
+T60	ORG 2552 2554	su
+T61	PER 2568 2581	farmacéuticas
+T62	ORG 2607 2610	sus
+T63	PER 2653 2658	Gates
+T64	PER 2661 2666	Soros
+T65	PER 2672 2682	impulsores
+T66	PER 2720 2729	población

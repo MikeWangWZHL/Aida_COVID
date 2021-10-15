@@ -1,0 +1,2208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-209">
+		<TEXT>
+			<SEG id="covid19scenario-209-0" start_char="0" end_char="115">
+				<ORIGINAL_TEXT>Siempre que un suceso así azota a la sociedad, los bulos y mitos no tardan en propagarse por la red como la pólvora.</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="6">Siempre</TOKEN>
+				<TOKEN id="token-0-1" start_char="8" end_char="10">que</TOKEN>
+				<TOKEN id="token-0-2" start_char="12" end_char="13">un</TOKEN>
+				<TOKEN id="token-0-3" start_char="15" end_char="20">suceso</TOKEN>
+				<TOKEN id="token-0-4" start_char="22" end_char="24">así</TOKEN>
+				<TOKEN id="token-0-5" start_char="26" end_char="30">azota</TOKEN>
+				<TOKEN id="token-0-6" start_char="32" end_char="32">a</TOKEN>
+				<TOKEN id="token-0-7" start_char="34" end_char="35">la</TOKEN>
+				<TOKEN id="token-0-8" start_char="37" end_char="44">sociedad</TOKEN>
+				<TOKEN id="token-0-9" start_char="45" end_char="45">,</TOKEN>
+				<TOKEN id="token-0-10" start_char="47" end_char="49">los</TOKEN>
+				<TOKEN id="token-0-11" start_char="51" end_char="55">bulos</TOKEN>
+				<TOKEN id="token-0-12" start_char="57" end_char="57">y</TOKEN>
+				<TOKEN id="token-0-13" start_char="59" end_char="63">mitos</TOKEN>
+				<TOKEN id="token-0-14" start_char="65" end_char="66">no</TOKEN>
+				<TOKEN id="token-0-15" start_char="68" end_char="73">tardan</TOKEN>
+				<TOKEN id="token-0-16" start_char="75" end_char="76">en</TOKEN>
+				<TOKEN id="token-0-17" start_char="78" end_char="87">propagarse</TOKEN>
+				<TOKEN id="token-0-18" start_char="89" end_char="91">por</TOKEN>
+				<TOKEN id="token-0-19" start_char="93" end_char="94">la</TOKEN>
+				<TOKEN id="token-0-20" start_char="96" end_char="98">red</TOKEN>
+				<TOKEN id="token-0-21" start_char="100" end_char="103">como</TOKEN>
+				<TOKEN id="token-0-22" start_char="105" end_char="106">la</TOKEN>
+				<TOKEN id="token-0-23" start_char="108" end_char="114">pólvora</TOKEN>
+				<TOKEN id="token-0-24" start_char="115" end_char="115">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-1" start_char="117" end_char="176">
+				<ORIGINAL_TEXT>Y con la crisis del coronavirus, esto no iba a ser distinto.</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="117" end_char="117">Y</TOKEN>
+				<TOKEN id="token-1-1" start_char="119" end_char="121">con</TOKEN>
+				<TOKEN id="token-1-2" start_char="123" end_char="124">la</TOKEN>
+				<TOKEN id="token-1-3" start_char="126" end_char="131">crisis</TOKEN>
+				<TOKEN id="token-1-4" start_char="133" end_char="135">del</TOKEN>
+				<TOKEN id="token-1-5" start_char="137" end_char="147">coronavirus</TOKEN>
+				<TOKEN id="token-1-6" start_char="148" end_char="148">,</TOKEN>
+				<TOKEN id="token-1-7" start_char="150" end_char="153">esto</TOKEN>
+				<TOKEN id="token-1-8" start_char="155" end_char="156">no</TOKEN>
+				<TOKEN id="token-1-9" start_char="158" end_char="160">iba</TOKEN>
+				<TOKEN id="token-1-10" start_char="162" end_char="162">a</TOKEN>
+				<TOKEN id="token-1-11" start_char="164" end_char="166">ser</TOKEN>
+				<TOKEN id="token-1-12" start_char="168" end_char="175">distinto</TOKEN>
+				<TOKEN id="token-1-13" start_char="176" end_char="176">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-2" start_char="178" end_char="374">
+				<ORIGINAL_TEXT>Se han dicho cosas acerca de él muy descabelladas y que desmentiremos a continuación, pero las más peligrosas son las que juegan con la verosimilitud para calar en las personas e incitar el pánico.</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="178" end_char="179">Se</TOKEN>
+				<TOKEN id="token-2-1" start_char="181" end_char="183">han</TOKEN>
+				<TOKEN id="token-2-2" start_char="185" end_char="189">dicho</TOKEN>
+				<TOKEN id="token-2-3" start_char="191" end_char="195">cosas</TOKEN>
+				<TOKEN id="token-2-4" start_char="197" end_char="202">acerca</TOKEN>
+				<TOKEN id="token-2-5" start_char="204" end_char="205">de</TOKEN>
+				<TOKEN id="token-2-6" start_char="207" end_char="208">él</TOKEN>
+				<TOKEN id="token-2-7" start_char="210" end_char="212">muy</TOKEN>
+				<TOKEN id="token-2-8" start_char="214" end_char="226">descabelladas</TOKEN>
+				<TOKEN id="token-2-9" start_char="228" end_char="228">y</TOKEN>
+				<TOKEN id="token-2-10" start_char="230" end_char="232">que</TOKEN>
+				<TOKEN id="token-2-11" start_char="234" end_char="246">desmentiremos</TOKEN>
+				<TOKEN id="token-2-12" start_char="248" end_char="248">a</TOKEN>
+				<TOKEN id="token-2-13" start_char="250" end_char="261">continuación</TOKEN>
+				<TOKEN id="token-2-14" start_char="262" end_char="262">,</TOKEN>
+				<TOKEN id="token-2-15" start_char="264" end_char="267">pero</TOKEN>
+				<TOKEN id="token-2-16" start_char="269" end_char="271">las</TOKEN>
+				<TOKEN id="token-2-17" start_char="273" end_char="275">más</TOKEN>
+				<TOKEN id="token-2-18" start_char="277" end_char="286">peligrosas</TOKEN>
+				<TOKEN id="token-2-19" start_char="288" end_char="290">son</TOKEN>
+				<TOKEN id="token-2-20" start_char="292" end_char="294">las</TOKEN>
+				<TOKEN id="token-2-21" start_char="296" end_char="298">que</TOKEN>
+				<TOKEN id="token-2-22" start_char="300" end_char="305">juegan</TOKEN>
+				<TOKEN id="token-2-23" start_char="307" end_char="309">con</TOKEN>
+				<TOKEN id="token-2-24" start_char="311" end_char="312">la</TOKEN>
+				<TOKEN id="token-2-25" start_char="314" end_char="326">verosimilitud</TOKEN>
+				<TOKEN id="token-2-26" start_char="328" end_char="331">para</TOKEN>
+				<TOKEN id="token-2-27" start_char="333" end_char="337">calar</TOKEN>
+				<TOKEN id="token-2-28" start_char="339" end_char="340">en</TOKEN>
+				<TOKEN id="token-2-29" start_char="342" end_char="344">las</TOKEN>
+				<TOKEN id="token-2-30" start_char="346" end_char="353">personas</TOKEN>
+				<TOKEN id="token-2-31" start_char="355" end_char="355">e</TOKEN>
+				<TOKEN id="token-2-32" start_char="357" end_char="363">incitar</TOKEN>
+				<TOKEN id="token-2-33" start_char="365" end_char="366">el</TOKEN>
+				<TOKEN id="token-2-34" start_char="368" end_char="373">pánico</TOKEN>
+				<TOKEN id="token-2-35" start_char="374" end_char="374">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-3" start_char="376" end_char="566">
+				<ORIGINAL_TEXT>Y es que si bien es normal que cause miedo por la propagación que está teniendo y por las 2.744 muertes que a día que se escribe este artículo ha causado, hay que poner las cosas en contexto.</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="376" end_char="376">Y</TOKEN>
+				<TOKEN id="token-3-1" start_char="378" end_char="379">es</TOKEN>
+				<TOKEN id="token-3-2" start_char="381" end_char="383">que</TOKEN>
+				<TOKEN id="token-3-3" start_char="385" end_char="386">si</TOKEN>
+				<TOKEN id="token-3-4" start_char="388" end_char="391">bien</TOKEN>
+				<TOKEN id="token-3-5" start_char="393" end_char="394">es</TOKEN>
+				<TOKEN id="token-3-6" start_char="396" end_char="401">normal</TOKEN>
+				<TOKEN id="token-3-7" start_char="403" end_char="405">que</TOKEN>
+				<TOKEN id="token-3-8" start_char="407" end_char="411">cause</TOKEN>
+				<TOKEN id="token-3-9" start_char="413" end_char="417">miedo</TOKEN>
+				<TOKEN id="token-3-10" start_char="419" end_char="421">por</TOKEN>
+				<TOKEN id="token-3-11" start_char="423" end_char="424">la</TOKEN>
+				<TOKEN id="token-3-12" start_char="426" end_char="436">propagación</TOKEN>
+				<TOKEN id="token-3-13" start_char="438" end_char="440">que</TOKEN>
+				<TOKEN id="token-3-14" start_char="442" end_char="445">está</TOKEN>
+				<TOKEN id="token-3-15" start_char="447" end_char="454">teniendo</TOKEN>
+				<TOKEN id="token-3-16" start_char="456" end_char="456">y</TOKEN>
+				<TOKEN id="token-3-17" start_char="458" end_char="460">por</TOKEN>
+				<TOKEN id="token-3-18" start_char="462" end_char="464">las</TOKEN>
+				<TOKEN id="token-3-19" start_char="466" end_char="466">2</TOKEN>
+				<TOKEN id="token-3-20" start_char="467" end_char="467">.</TOKEN>
+				<TOKEN id="token-3-21" start_char="468" end_char="470">744</TOKEN>
+				<TOKEN id="token-3-22" start_char="472" end_char="478">muertes</TOKEN>
+				<TOKEN id="token-3-23" start_char="480" end_char="482">que</TOKEN>
+				<TOKEN id="token-3-24" start_char="484" end_char="484">a</TOKEN>
+				<TOKEN id="token-3-25" start_char="486" end_char="488">día</TOKEN>
+				<TOKEN id="token-3-26" start_char="490" end_char="492">que</TOKEN>
+				<TOKEN id="token-3-27" start_char="494" end_char="495">se</TOKEN>
+				<TOKEN id="token-3-28" start_char="497" end_char="503">escribe</TOKEN>
+				<TOKEN id="token-3-29" start_char="505" end_char="508">este</TOKEN>
+				<TOKEN id="token-3-30" start_char="510" end_char="517">artículo</TOKEN>
+				<TOKEN id="token-3-31" start_char="519" end_char="520">ha</TOKEN>
+				<TOKEN id="token-3-32" start_char="522" end_char="528">causado</TOKEN>
+				<TOKEN id="token-3-33" start_char="529" end_char="529">,</TOKEN>
+				<TOKEN id="token-3-34" start_char="531" end_char="533">hay</TOKEN>
+				<TOKEN id="token-3-35" start_char="535" end_char="537">que</TOKEN>
+				<TOKEN id="token-3-36" start_char="539" end_char="543">poner</TOKEN>
+				<TOKEN id="token-3-37" start_char="545" end_char="547">las</TOKEN>
+				<TOKEN id="token-3-38" start_char="549" end_char="553">cosas</TOKEN>
+				<TOKEN id="token-3-39" start_char="555" end_char="556">en</TOKEN>
+				<TOKEN id="token-3-40" start_char="558" end_char="565">contexto</TOKEN>
+				<TOKEN id="token-3-41" start_char="566" end_char="566">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-4" start_char="568" end_char="691">
+				<ORIGINAL_TEXT>A día de hoy se han diagnosticado 82.104 casos y han muerto estas personas, lo que implica una letalidad del virus del 2’3%.</ORIGINAL_TEXT>
+				<TOKEN id="token-4-0" start_char="568" end_char="568">A</TOKEN>
+				<TOKEN id="token-4-1" start_char="570" end_char="572">día</TOKEN>
+				<TOKEN id="token-4-2" start_char="574" end_char="575">de</TOKEN>
+				<TOKEN id="token-4-3" start_char="577" end_char="579">hoy</TOKEN>
+				<TOKEN id="token-4-4" start_char="581" end_char="582">se</TOKEN>
+				<TOKEN id="token-4-5" start_char="584" end_char="586">han</TOKEN>
+				<TOKEN id="token-4-6" start_char="588" end_char="600">diagnosticado</TOKEN>
+				<TOKEN id="token-4-7" start_char="602" end_char="603">82</TOKEN>
+				<TOKEN id="token-4-8" start_char="604" end_char="604">.</TOKEN>
+				<TOKEN id="token-4-9" start_char="605" end_char="607">104</TOKEN>
+				<TOKEN id="token-4-10" start_char="609" end_char="613">casos</TOKEN>
+				<TOKEN id="token-4-11" start_char="615" end_char="615">y</TOKEN>
+				<TOKEN id="token-4-12" start_char="617" end_char="619">han</TOKEN>
+				<TOKEN id="token-4-13" start_char="621" end_char="626">muerto</TOKEN>
+				<TOKEN id="token-4-14" start_char="628" end_char="632">estas</TOKEN>
+				<TOKEN id="token-4-15" start_char="634" end_char="641">personas</TOKEN>
+				<TOKEN id="token-4-16" start_char="642" end_char="642">,</TOKEN>
+				<TOKEN id="token-4-17" start_char="644" end_char="645">lo</TOKEN>
+				<TOKEN id="token-4-18" start_char="647" end_char="649">que</TOKEN>
+				<TOKEN id="token-4-19" start_char="651" end_char="657">implica</TOKEN>
+				<TOKEN id="token-4-20" start_char="659" end_char="661">una</TOKEN>
+				<TOKEN id="token-4-21" start_char="663" end_char="671">letalidad</TOKEN>
+				<TOKEN id="token-4-22" start_char="673" end_char="675">del</TOKEN>
+				<TOKEN id="token-4-23" start_char="677" end_char="681">virus</TOKEN>
+				<TOKEN id="token-4-24" start_char="683" end_char="685">del</TOKEN>
+				<TOKEN id="token-4-25" start_char="687" end_char="687">2</TOKEN>
+				<TOKEN id="token-4-26" start_char="688" end_char="688">’</TOKEN>
+				<TOKEN id="token-4-27" start_char="689" end_char="689">3</TOKEN>
+				<TOKEN id="token-4-28" start_char="690" end_char="691">%.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-5" start_char="693" end_char="758">
+				<ORIGINAL_TEXT>Pero, ¿cuántas personas mueren a causa de la gripe común cada año?</ORIGINAL_TEXT>
+				<TOKEN id="token-5-0" start_char="693" end_char="696">Pero</TOKEN>
+				<TOKEN id="token-5-1" start_char="697" end_char="697">,</TOKEN>
+				<TOKEN id="token-5-2" start_char="699" end_char="699">¿</TOKEN>
+				<TOKEN id="token-5-3" start_char="700" end_char="706">cuántas</TOKEN>
+				<TOKEN id="token-5-4" start_char="708" end_char="715">personas</TOKEN>
+				<TOKEN id="token-5-5" start_char="717" end_char="722">mueren</TOKEN>
+				<TOKEN id="token-5-6" start_char="724" end_char="724">a</TOKEN>
+				<TOKEN id="token-5-7" start_char="726" end_char="730">causa</TOKEN>
+				<TOKEN id="token-5-8" start_char="732" end_char="733">de</TOKEN>
+				<TOKEN id="token-5-9" start_char="735" end_char="736">la</TOKEN>
+				<TOKEN id="token-5-10" start_char="738" end_char="742">gripe</TOKEN>
+				<TOKEN id="token-5-11" start_char="744" end_char="748">común</TOKEN>
+				<TOKEN id="token-5-12" start_char="750" end_char="753">cada</TOKEN>
+				<TOKEN id="token-5-13" start_char="755" end_char="757">año</TOKEN>
+				<TOKEN id="token-5-14" start_char="758" end_char="758">?</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-6" start_char="760" end_char="825">
+				<ORIGINAL_TEXT>Entre 300.000 y 600.000 personas, con una letalidad de casi el 2%.</ORIGINAL_TEXT>
+				<TOKEN id="token-6-0" start_char="760" end_char="764">Entre</TOKEN>
+				<TOKEN id="token-6-1" start_char="766" end_char="768">300</TOKEN>
+				<TOKEN id="token-6-2" start_char="769" end_char="769">.</TOKEN>
+				<TOKEN id="token-6-3" start_char="770" end_char="772">000</TOKEN>
+				<TOKEN id="token-6-4" start_char="774" end_char="774">y</TOKEN>
+				<TOKEN id="token-6-5" start_char="776" end_char="778">600</TOKEN>
+				<TOKEN id="token-6-6" start_char="779" end_char="779">.</TOKEN>
+				<TOKEN id="token-6-7" start_char="780" end_char="782">000</TOKEN>
+				<TOKEN id="token-6-8" start_char="784" end_char="791">personas</TOKEN>
+				<TOKEN id="token-6-9" start_char="792" end_char="792">,</TOKEN>
+				<TOKEN id="token-6-10" start_char="794" end_char="796">con</TOKEN>
+				<TOKEN id="token-6-11" start_char="798" end_char="800">una</TOKEN>
+				<TOKEN id="token-6-12" start_char="802" end_char="810">letalidad</TOKEN>
+				<TOKEN id="token-6-13" start_char="812" end_char="813">de</TOKEN>
+				<TOKEN id="token-6-14" start_char="815" end_char="818">casi</TOKEN>
+				<TOKEN id="token-6-15" start_char="820" end_char="821">el</TOKEN>
+				<TOKEN id="token-6-16" start_char="823" end_char="823">2</TOKEN>
+				<TOKEN id="token-6-17" start_char="824" end_char="825">%.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-7" start_char="827" end_char="852">
+				<ORIGINAL_TEXT>¿Dónde están las noticias?</ORIGINAL_TEXT>
+				<TOKEN id="token-7-0" start_char="827" end_char="827">¿</TOKEN>
+				<TOKEN id="token-7-1" start_char="828" end_char="832">Dónde</TOKEN>
+				<TOKEN id="token-7-2" start_char="834" end_char="838">están</TOKEN>
+				<TOKEN id="token-7-3" start_char="840" end_char="842">las</TOKEN>
+				<TOKEN id="token-7-4" start_char="844" end_char="851">noticias</TOKEN>
+				<TOKEN id="token-7-5" start_char="852" end_char="852">?</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-8" start_char="854" end_char="894">
+				<ORIGINAL_TEXT>¿Dónde está el pánico por la gripe común?</ORIGINAL_TEXT>
+				<TOKEN id="token-8-0" start_char="854" end_char="854">¿</TOKEN>
+				<TOKEN id="token-8-1" start_char="855" end_char="859">Dónde</TOKEN>
+				<TOKEN id="token-8-2" start_char="861" end_char="864">está</TOKEN>
+				<TOKEN id="token-8-3" start_char="866" end_char="867">el</TOKEN>
+				<TOKEN id="token-8-4" start_char="869" end_char="874">pánico</TOKEN>
+				<TOKEN id="token-8-5" start_char="876" end_char="878">por</TOKEN>
+				<TOKEN id="token-8-6" start_char="880" end_char="881">la</TOKEN>
+				<TOKEN id="token-8-7" start_char="883" end_char="887">gripe</TOKEN>
+				<TOKEN id="token-8-8" start_char="889" end_char="893">común</TOKEN>
+				<TOKEN id="token-8-9" start_char="894" end_char="894">?</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-9" start_char="896" end_char="979">
+				<ORIGINAL_TEXT>La diferencia entre el coronavirus y la gripe es que uno es una novedad, el otro no.</ORIGINAL_TEXT>
+				<TOKEN id="token-9-0" start_char="896" end_char="897">La</TOKEN>
+				<TOKEN id="token-9-1" start_char="899" end_char="908">diferencia</TOKEN>
+				<TOKEN id="token-9-2" start_char="910" end_char="914">entre</TOKEN>
+				<TOKEN id="token-9-3" start_char="916" end_char="917">el</TOKEN>
+				<TOKEN id="token-9-4" start_char="919" end_char="929">coronavirus</TOKEN>
+				<TOKEN id="token-9-5" start_char="931" end_char="931">y</TOKEN>
+				<TOKEN id="token-9-6" start_char="933" end_char="934">la</TOKEN>
+				<TOKEN id="token-9-7" start_char="936" end_char="940">gripe</TOKEN>
+				<TOKEN id="token-9-8" start_char="942" end_char="943">es</TOKEN>
+				<TOKEN id="token-9-9" start_char="945" end_char="947">que</TOKEN>
+				<TOKEN id="token-9-10" start_char="949" end_char="951">uno</TOKEN>
+				<TOKEN id="token-9-11" start_char="953" end_char="954">es</TOKEN>
+				<TOKEN id="token-9-12" start_char="956" end_char="958">una</TOKEN>
+				<TOKEN id="token-9-13" start_char="960" end_char="966">novedad</TOKEN>
+				<TOKEN id="token-9-14" start_char="967" end_char="967">,</TOKEN>
+				<TOKEN id="token-9-15" start_char="969" end_char="970">el</TOKEN>
+				<TOKEN id="token-9-16" start_char="972" end_char="975">otro</TOKEN>
+				<TOKEN id="token-9-17" start_char="977" end_char="978">no</TOKEN>
+				<TOKEN id="token-9-18" start_char="979" end_char="979">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-10" start_char="981" end_char="1044">
+				<ORIGINAL_TEXT>Y en lo que se refiere a epidemias, la novedad siempre da miedo.</ORIGINAL_TEXT>
+				<TOKEN id="token-10-0" start_char="981" end_char="981">Y</TOKEN>
+				<TOKEN id="token-10-1" start_char="983" end_char="984">en</TOKEN>
+				<TOKEN id="token-10-2" start_char="986" end_char="987">lo</TOKEN>
+				<TOKEN id="token-10-3" start_char="989" end_char="991">que</TOKEN>
+				<TOKEN id="token-10-4" start_char="993" end_char="994">se</TOKEN>
+				<TOKEN id="token-10-5" start_char="996" end_char="1002">refiere</TOKEN>
+				<TOKEN id="token-10-6" start_char="1004" end_char="1004">a</TOKEN>
+				<TOKEN id="token-10-7" start_char="1006" end_char="1014">epidemias</TOKEN>
+				<TOKEN id="token-10-8" start_char="1015" end_char="1015">,</TOKEN>
+				<TOKEN id="token-10-9" start_char="1017" end_char="1018">la</TOKEN>
+				<TOKEN id="token-10-10" start_char="1020" end_char="1026">novedad</TOKEN>
+				<TOKEN id="token-10-11" start_char="1028" end_char="1034">siempre</TOKEN>
+				<TOKEN id="token-10-12" start_char="1036" end_char="1037">da</TOKEN>
+				<TOKEN id="token-10-13" start_char="1039" end_char="1043">miedo</TOKEN>
+				<TOKEN id="token-10-14" start_char="1044" end_char="1044">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-11" start_char="1046" end_char="1267">
+				<ORIGINAL_TEXT>Por ello, en el artículo de hoy haremos un repaso de los principales bulos y rumores que se han extendido por Internet para ver que, si bien es normal que las alarmas de salud pública nos asusten, debemos estar tranquilos.</ORIGINAL_TEXT>
+				<TOKEN id="token-11-0" start_char="1046" end_char="1048">Por</TOKEN>
+				<TOKEN id="token-11-1" start_char="1050" end_char="1053">ello</TOKEN>
+				<TOKEN id="token-11-2" start_char="1054" end_char="1054">,</TOKEN>
+				<TOKEN id="token-11-3" start_char="1056" end_char="1057">en</TOKEN>
+				<TOKEN id="token-11-4" start_char="1059" end_char="1060">el</TOKEN>
+				<TOKEN id="token-11-5" start_char="1062" end_char="1069">artículo</TOKEN>
+				<TOKEN id="token-11-6" start_char="1071" end_char="1072">de</TOKEN>
+				<TOKEN id="token-11-7" start_char="1074" end_char="1076">hoy</TOKEN>
+				<TOKEN id="token-11-8" start_char="1078" end_char="1084">haremos</TOKEN>
+				<TOKEN id="token-11-9" start_char="1086" end_char="1087">un</TOKEN>
+				<TOKEN id="token-11-10" start_char="1089" end_char="1094">repaso</TOKEN>
+				<TOKEN id="token-11-11" start_char="1096" end_char="1097">de</TOKEN>
+				<TOKEN id="token-11-12" start_char="1099" end_char="1101">los</TOKEN>
+				<TOKEN id="token-11-13" start_char="1103" end_char="1113">principales</TOKEN>
+				<TOKEN id="token-11-14" start_char="1115" end_char="1119">bulos</TOKEN>
+				<TOKEN id="token-11-15" start_char="1121" end_char="1121">y</TOKEN>
+				<TOKEN id="token-11-16" start_char="1123" end_char="1129">rumores</TOKEN>
+				<TOKEN id="token-11-17" start_char="1131" end_char="1133">que</TOKEN>
+				<TOKEN id="token-11-18" start_char="1135" end_char="1136">se</TOKEN>
+				<TOKEN id="token-11-19" start_char="1138" end_char="1140">han</TOKEN>
+				<TOKEN id="token-11-20" start_char="1142" end_char="1150">extendido</TOKEN>
+				<TOKEN id="token-11-21" start_char="1152" end_char="1154">por</TOKEN>
+				<TOKEN id="token-11-22" start_char="1156" end_char="1163">Internet</TOKEN>
+				<TOKEN id="token-11-23" start_char="1165" end_char="1168">para</TOKEN>
+				<TOKEN id="token-11-24" start_char="1170" end_char="1172">ver</TOKEN>
+				<TOKEN id="token-11-25" start_char="1174" end_char="1176">que</TOKEN>
+				<TOKEN id="token-11-26" start_char="1177" end_char="1177">,</TOKEN>
+				<TOKEN id="token-11-27" start_char="1179" end_char="1180">si</TOKEN>
+				<TOKEN id="token-11-28" start_char="1182" end_char="1185">bien</TOKEN>
+				<TOKEN id="token-11-29" start_char="1187" end_char="1188">es</TOKEN>
+				<TOKEN id="token-11-30" start_char="1190" end_char="1195">normal</TOKEN>
+				<TOKEN id="token-11-31" start_char="1197" end_char="1199">que</TOKEN>
+				<TOKEN id="token-11-32" start_char="1201" end_char="1203">las</TOKEN>
+				<TOKEN id="token-11-33" start_char="1205" end_char="1211">alarmas</TOKEN>
+				<TOKEN id="token-11-34" start_char="1213" end_char="1214">de</TOKEN>
+				<TOKEN id="token-11-35" start_char="1216" end_char="1220">salud</TOKEN>
+				<TOKEN id="token-11-36" start_char="1222" end_char="1228">pública</TOKEN>
+				<TOKEN id="token-11-37" start_char="1230" end_char="1232">nos</TOKEN>
+				<TOKEN id="token-11-38" start_char="1234" end_char="1240">asusten</TOKEN>
+				<TOKEN id="token-11-39" start_char="1241" end_char="1241">,</TOKEN>
+				<TOKEN id="token-11-40" start_char="1243" end_char="1249">debemos</TOKEN>
+				<TOKEN id="token-11-41" start_char="1251" end_char="1255">estar</TOKEN>
+				<TOKEN id="token-11-42" start_char="1257" end_char="1266">tranquilos</TOKEN>
+				<TOKEN id="token-11-43" start_char="1267" end_char="1267">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-12" start_char="1269" end_char="1315">
+				<ORIGINAL_TEXT>Este virus no va a causar una extinción masiva.</ORIGINAL_TEXT>
+				<TOKEN id="token-12-0" start_char="1269" end_char="1272">Este</TOKEN>
+				<TOKEN id="token-12-1" start_char="1274" end_char="1278">virus</TOKEN>
+				<TOKEN id="token-12-2" start_char="1280" end_char="1281">no</TOKEN>
+				<TOKEN id="token-12-3" start_char="1283" end_char="1284">va</TOKEN>
+				<TOKEN id="token-12-4" start_char="1286" end_char="1286">a</TOKEN>
+				<TOKEN id="token-12-5" start_char="1288" end_char="1293">causar</TOKEN>
+				<TOKEN id="token-12-6" start_char="1295" end_char="1297">una</TOKEN>
+				<TOKEN id="token-12-7" start_char="1299" end_char="1307">extinción</TOKEN>
+				<TOKEN id="token-12-8" start_char="1309" end_char="1314">masiva</TOKEN>
+				<TOKEN id="token-12-9" start_char="1315" end_char="1315">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-13" start_char="1317" end_char="1371">
+				<ORIGINAL_TEXT>Lo superaremos como cualquier otra crisis de este tipo.</ORIGINAL_TEXT>
+				<TOKEN id="token-13-0" start_char="1317" end_char="1318">Lo</TOKEN>
+				<TOKEN id="token-13-1" start_char="1320" end_char="1330">superaremos</TOKEN>
+				<TOKEN id="token-13-2" start_char="1332" end_char="1335">como</TOKEN>
+				<TOKEN id="token-13-3" start_char="1337" end_char="1345">cualquier</TOKEN>
+				<TOKEN id="token-13-4" start_char="1347" end_char="1350">otra</TOKEN>
+				<TOKEN id="token-13-5" start_char="1352" end_char="1357">crisis</TOKEN>
+				<TOKEN id="token-13-6" start_char="1359" end_char="1360">de</TOKEN>
+				<TOKEN id="token-13-7" start_char="1362" end_char="1365">este</TOKEN>
+				<TOKEN id="token-13-8" start_char="1367" end_char="1370">tipo</TOKEN>
+				<TOKEN id="token-13-9" start_char="1371" end_char="1371">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-14" start_char="1373" end_char="1464">
+				<ORIGINAL_TEXT>Para saber más acerca de su naturaleza: “Coronavirus: qué es, causas, síntomas y prevención”</ORIGINAL_TEXT>
+				<TOKEN id="token-14-0" start_char="1373" end_char="1376">Para</TOKEN>
+				<TOKEN id="token-14-1" start_char="1378" end_char="1382">saber</TOKEN>
+				<TOKEN id="token-14-2" start_char="1384" end_char="1386">más</TOKEN>
+				<TOKEN id="token-14-3" start_char="1388" end_char="1393">acerca</TOKEN>
+				<TOKEN id="token-14-4" start_char="1395" end_char="1396">de</TOKEN>
+				<TOKEN id="token-14-5" start_char="1398" end_char="1399">su</TOKEN>
+				<TOKEN id="token-14-6" start_char="1401" end_char="1410">naturaleza</TOKEN>
+				<TOKEN id="token-14-7" start_char="1411" end_char="1411">:</TOKEN>
+				<TOKEN id="token-14-8" start_char="1413" end_char="1413">“</TOKEN>
+				<TOKEN id="token-14-9" start_char="1414" end_char="1424">Coronavirus</TOKEN>
+				<TOKEN id="token-14-10" start_char="1425" end_char="1425">:</TOKEN>
+				<TOKEN id="token-14-11" start_char="1427" end_char="1429">qué</TOKEN>
+				<TOKEN id="token-14-12" start_char="1431" end_char="1432">es</TOKEN>
+				<TOKEN id="token-14-13" start_char="1433" end_char="1433">,</TOKEN>
+				<TOKEN id="token-14-14" start_char="1435" end_char="1440">causas</TOKEN>
+				<TOKEN id="token-14-15" start_char="1441" end_char="1441">,</TOKEN>
+				<TOKEN id="token-14-16" start_char="1443" end_char="1450">síntomas</TOKEN>
+				<TOKEN id="token-14-17" start_char="1452" end_char="1452">y</TOKEN>
+				<TOKEN id="token-14-18" start_char="1454" end_char="1463">prevención</TOKEN>
+				<TOKEN id="token-14-19" start_char="1464" end_char="1464">”</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-15" start_char="1466" end_char="1517">
+				<ORIGINAL_TEXT>¿Qué bulos acerca del coronavirus debemos desmentir?</ORIGINAL_TEXT>
+				<TOKEN id="token-15-0" start_char="1466" end_char="1466">¿</TOKEN>
+				<TOKEN id="token-15-1" start_char="1467" end_char="1469">Qué</TOKEN>
+				<TOKEN id="token-15-2" start_char="1471" end_char="1475">bulos</TOKEN>
+				<TOKEN id="token-15-3" start_char="1477" end_char="1482">acerca</TOKEN>
+				<TOKEN id="token-15-4" start_char="1484" end_char="1486">del</TOKEN>
+				<TOKEN id="token-15-5" start_char="1488" end_char="1498">coronavirus</TOKEN>
+				<TOKEN id="token-15-6" start_char="1500" end_char="1506">debemos</TOKEN>
+				<TOKEN id="token-15-7" start_char="1508" end_char="1516">desmentir</TOKEN>
+				<TOKEN id="token-15-8" start_char="1517" end_char="1517">?</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-16" start_char="1519" end_char="1728">
+				<ORIGINAL_TEXT>Debido a la rápida difusión de informaciones falsas, la Organización Mundial de la Salud (OMS) se ha apresurado a hacer un recopilatorio de los principales bulos que pueden encontrarse actualmente por Internet.</ORIGINAL_TEXT>
+				<TOKEN id="token-16-0" start_char="1519" end_char="1524">Debido</TOKEN>
+				<TOKEN id="token-16-1" start_char="1526" end_char="1526">a</TOKEN>
+				<TOKEN id="token-16-2" start_char="1528" end_char="1529">la</TOKEN>
+				<TOKEN id="token-16-3" start_char="1531" end_char="1536">rápida</TOKEN>
+				<TOKEN id="token-16-4" start_char="1538" end_char="1545">difusión</TOKEN>
+				<TOKEN id="token-16-5" start_char="1547" end_char="1548">de</TOKEN>
+				<TOKEN id="token-16-6" start_char="1550" end_char="1562">informaciones</TOKEN>
+				<TOKEN id="token-16-7" start_char="1564" end_char="1569">falsas</TOKEN>
+				<TOKEN id="token-16-8" start_char="1570" end_char="1570">,</TOKEN>
+				<TOKEN id="token-16-9" start_char="1572" end_char="1573">la</TOKEN>
+				<TOKEN id="token-16-10" start_char="1575" end_char="1586">Organización</TOKEN>
+				<TOKEN id="token-16-11" start_char="1588" end_char="1594">Mundial</TOKEN>
+				<TOKEN id="token-16-12" start_char="1596" end_char="1597">de</TOKEN>
+				<TOKEN id="token-16-13" start_char="1599" end_char="1600">la</TOKEN>
+				<TOKEN id="token-16-14" start_char="1602" end_char="1606">Salud</TOKEN>
+				<TOKEN id="token-16-15" start_char="1608" end_char="1608">(</TOKEN>
+				<TOKEN id="token-16-16" start_char="1609" end_char="1611">OMS</TOKEN>
+				<TOKEN id="token-16-17" start_char="1612" end_char="1612">)</TOKEN>
+				<TOKEN id="token-16-18" start_char="1614" end_char="1615">se</TOKEN>
+				<TOKEN id="token-16-19" start_char="1617" end_char="1618">ha</TOKEN>
+				<TOKEN id="token-16-20" start_char="1620" end_char="1629">apresurado</TOKEN>
+				<TOKEN id="token-16-21" start_char="1631" end_char="1631">a</TOKEN>
+				<TOKEN id="token-16-22" start_char="1633" end_char="1637">hacer</TOKEN>
+				<TOKEN id="token-16-23" start_char="1639" end_char="1640">un</TOKEN>
+				<TOKEN id="token-16-24" start_char="1642" end_char="1654">recopilatorio</TOKEN>
+				<TOKEN id="token-16-25" start_char="1656" end_char="1657">de</TOKEN>
+				<TOKEN id="token-16-26" start_char="1659" end_char="1661">los</TOKEN>
+				<TOKEN id="token-16-27" start_char="1663" end_char="1673">principales</TOKEN>
+				<TOKEN id="token-16-28" start_char="1675" end_char="1679">bulos</TOKEN>
+				<TOKEN id="token-16-29" start_char="1681" end_char="1683">que</TOKEN>
+				<TOKEN id="token-16-30" start_char="1685" end_char="1690">pueden</TOKEN>
+				<TOKEN id="token-16-31" start_char="1692" end_char="1702">encontrarse</TOKEN>
+				<TOKEN id="token-16-32" start_char="1704" end_char="1714">actualmente</TOKEN>
+				<TOKEN id="token-16-33" start_char="1716" end_char="1718">por</TOKEN>
+				<TOKEN id="token-16-34" start_char="1720" end_char="1727">Internet</TOKEN>
+				<TOKEN id="token-16-35" start_char="1728" end_char="1728">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-17" start_char="1730" end_char="1908">
+				<ORIGINAL_TEXT>Los mitos que desmentiremos son aquellos relacionados con la supuesta letalidad del virus, su transmisión e incluso “remedios” para curar la enfermedad causada por el coronavirus.</ORIGINAL_TEXT>
+				<TOKEN id="token-17-0" start_char="1730" end_char="1732">Los</TOKEN>
+				<TOKEN id="token-17-1" start_char="1734" end_char="1738">mitos</TOKEN>
+				<TOKEN id="token-17-2" start_char="1740" end_char="1742">que</TOKEN>
+				<TOKEN id="token-17-3" start_char="1744" end_char="1756">desmentiremos</TOKEN>
+				<TOKEN id="token-17-4" start_char="1758" end_char="1760">son</TOKEN>
+				<TOKEN id="token-17-5" start_char="1762" end_char="1769">aquellos</TOKEN>
+				<TOKEN id="token-17-6" start_char="1771" end_char="1782">relacionados</TOKEN>
+				<TOKEN id="token-17-7" start_char="1784" end_char="1786">con</TOKEN>
+				<TOKEN id="token-17-8" start_char="1788" end_char="1789">la</TOKEN>
+				<TOKEN id="token-17-9" start_char="1791" end_char="1798">supuesta</TOKEN>
+				<TOKEN id="token-17-10" start_char="1800" end_char="1808">letalidad</TOKEN>
+				<TOKEN id="token-17-11" start_char="1810" end_char="1812">del</TOKEN>
+				<TOKEN id="token-17-12" start_char="1814" end_char="1818">virus</TOKEN>
+				<TOKEN id="token-17-13" start_char="1819" end_char="1819">,</TOKEN>
+				<TOKEN id="token-17-14" start_char="1821" end_char="1822">su</TOKEN>
+				<TOKEN id="token-17-15" start_char="1824" end_char="1834">transmisión</TOKEN>
+				<TOKEN id="token-17-16" start_char="1836" end_char="1836">e</TOKEN>
+				<TOKEN id="token-17-17" start_char="1838" end_char="1844">incluso</TOKEN>
+				<TOKEN id="token-17-18" start_char="1846" end_char="1846">“</TOKEN>
+				<TOKEN id="token-17-19" start_char="1847" end_char="1854">remedios</TOKEN>
+				<TOKEN id="token-17-20" start_char="1855" end_char="1855">”</TOKEN>
+				<TOKEN id="token-17-21" start_char="1857" end_char="1860">para</TOKEN>
+				<TOKEN id="token-17-22" start_char="1862" end_char="1866">curar</TOKEN>
+				<TOKEN id="token-17-23" start_char="1868" end_char="1869">la</TOKEN>
+				<TOKEN id="token-17-24" start_char="1871" end_char="1880">enfermedad</TOKEN>
+				<TOKEN id="token-17-25" start_char="1882" end_char="1888">causada</TOKEN>
+				<TOKEN id="token-17-26" start_char="1890" end_char="1892">por</TOKEN>
+				<TOKEN id="token-17-27" start_char="1894" end_char="1895">el</TOKEN>
+				<TOKEN id="token-17-28" start_char="1897" end_char="1907">coronavirus</TOKEN>
+				<TOKEN id="token-17-29" start_char="1908" end_char="1908">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-18" start_char="1910" end_char="1948">
+				<ORIGINAL_TEXT>A continuación presentamos estos bulos.</ORIGINAL_TEXT>
+				<TOKEN id="token-18-0" start_char="1910" end_char="1910">A</TOKEN>
+				<TOKEN id="token-18-1" start_char="1912" end_char="1923">continuación</TOKEN>
+				<TOKEN id="token-18-2" start_char="1925" end_char="1935">presentamos</TOKEN>
+				<TOKEN id="token-18-3" start_char="1937" end_char="1941">estos</TOKEN>
+				<TOKEN id="token-18-4" start_char="1943" end_char="1947">bulos</TOKEN>
+				<TOKEN id="token-18-5" start_char="1948" end_char="1948">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-19" start_char="1950" end_char="1951">
+				<ORIGINAL_TEXT>1.</ORIGINAL_TEXT>
+				<TOKEN id="token-19-0" start_char="1950" end_char="1950">1</TOKEN>
+				<TOKEN id="token-19-1" start_char="1951" end_char="1951">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-20" start_char="1953" end_char="1981">
+				<ORIGINAL_TEXT>“El coronavirus es muy letal”</ORIGINAL_TEXT>
+				<TOKEN id="token-20-0" start_char="1953" end_char="1953">“</TOKEN>
+				<TOKEN id="token-20-1" start_char="1954" end_char="1955">El</TOKEN>
+				<TOKEN id="token-20-2" start_char="1957" end_char="1967">coronavirus</TOKEN>
+				<TOKEN id="token-20-3" start_char="1969" end_char="1970">es</TOKEN>
+				<TOKEN id="token-20-4" start_char="1972" end_char="1974">muy</TOKEN>
+				<TOKEN id="token-20-5" start_char="1976" end_char="1980">letal</TOKEN>
+				<TOKEN id="token-20-6" start_char="1981" end_char="1981">”</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-21" start_char="1983" end_char="2017">
+				<ORIGINAL_TEXT>No, el coronavirus no es muy letal.</ORIGINAL_TEXT>
+				<TOKEN id="token-21-0" start_char="1983" end_char="1984">No</TOKEN>
+				<TOKEN id="token-21-1" start_char="1985" end_char="1985">,</TOKEN>
+				<TOKEN id="token-21-2" start_char="1987" end_char="1988">el</TOKEN>
+				<TOKEN id="token-21-3" start_char="1990" end_char="2000">coronavirus</TOKEN>
+				<TOKEN id="token-21-4" start_char="2002" end_char="2003">no</TOKEN>
+				<TOKEN id="token-21-5" start_char="2005" end_char="2006">es</TOKEN>
+				<TOKEN id="token-21-6" start_char="2008" end_char="2010">muy</TOKEN>
+				<TOKEN id="token-21-7" start_char="2012" end_char="2016">letal</TOKEN>
+				<TOKEN id="token-21-8" start_char="2017" end_char="2017">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-22" start_char="2019" end_char="2127">
+				<ORIGINAL_TEXT>Muy letales son enfermedades como el ébola, que algunos brotes llegan a matar hasta al 90% de los infectados.</ORIGINAL_TEXT>
+				<TOKEN id="token-22-0" start_char="2019" end_char="2021">Muy</TOKEN>
+				<TOKEN id="token-22-1" start_char="2023" end_char="2029">letales</TOKEN>
+				<TOKEN id="token-22-2" start_char="2031" end_char="2033">son</TOKEN>
+				<TOKEN id="token-22-3" start_char="2035" end_char="2046">enfermedades</TOKEN>
+				<TOKEN id="token-22-4" start_char="2048" end_char="2051">como</TOKEN>
+				<TOKEN id="token-22-5" start_char="2053" end_char="2054">el</TOKEN>
+				<TOKEN id="token-22-6" start_char="2056" end_char="2060">ébola</TOKEN>
+				<TOKEN id="token-22-7" start_char="2061" end_char="2061">,</TOKEN>
+				<TOKEN id="token-22-8" start_char="2063" end_char="2065">que</TOKEN>
+				<TOKEN id="token-22-9" start_char="2067" end_char="2073">algunos</TOKEN>
+				<TOKEN id="token-22-10" start_char="2075" end_char="2080">brotes</TOKEN>
+				<TOKEN id="token-22-11" start_char="2082" end_char="2087">llegan</TOKEN>
+				<TOKEN id="token-22-12" start_char="2089" end_char="2089">a</TOKEN>
+				<TOKEN id="token-22-13" start_char="2091" end_char="2095">matar</TOKEN>
+				<TOKEN id="token-22-14" start_char="2097" end_char="2101">hasta</TOKEN>
+				<TOKEN id="token-22-15" start_char="2103" end_char="2104">al</TOKEN>
+				<TOKEN id="token-22-16" start_char="2106" end_char="2107">90</TOKEN>
+				<TOKEN id="token-22-17" start_char="2108" end_char="2108">%</TOKEN>
+				<TOKEN id="token-22-18" start_char="2110" end_char="2111">de</TOKEN>
+				<TOKEN id="token-22-19" start_char="2113" end_char="2115">los</TOKEN>
+				<TOKEN id="token-22-20" start_char="2117" end_char="2126">infectados</TOKEN>
+				<TOKEN id="token-22-21" start_char="2127" end_char="2127">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-23" start_char="2129" end_char="2196">
+				<ORIGINAL_TEXT>El coronavirus tiene una letalidad muy similar a la gripe, del 2’3%.</ORIGINAL_TEXT>
+				<TOKEN id="token-23-0" start_char="2129" end_char="2130">El</TOKEN>
+				<TOKEN id="token-23-1" start_char="2132" end_char="2142">coronavirus</TOKEN>
+				<TOKEN id="token-23-2" start_char="2144" end_char="2148">tiene</TOKEN>
+				<TOKEN id="token-23-3" start_char="2150" end_char="2152">una</TOKEN>
+				<TOKEN id="token-23-4" start_char="2154" end_char="2162">letalidad</TOKEN>
+				<TOKEN id="token-23-5" start_char="2164" end_char="2166">muy</TOKEN>
+				<TOKEN id="token-23-6" start_char="2168" end_char="2174">similar</TOKEN>
+				<TOKEN id="token-23-7" start_char="2176" end_char="2176">a</TOKEN>
+				<TOKEN id="token-23-8" start_char="2178" end_char="2179">la</TOKEN>
+				<TOKEN id="token-23-9" start_char="2181" end_char="2185">gripe</TOKEN>
+				<TOKEN id="token-23-10" start_char="2186" end_char="2186">,</TOKEN>
+				<TOKEN id="token-23-11" start_char="2188" end_char="2190">del</TOKEN>
+				<TOKEN id="token-23-12" start_char="2192" end_char="2192">2</TOKEN>
+				<TOKEN id="token-23-13" start_char="2193" end_char="2193">’</TOKEN>
+				<TOKEN id="token-23-14" start_char="2194" end_char="2194">3</TOKEN>
+				<TOKEN id="token-23-15" start_char="2195" end_char="2196">%.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-24" start_char="2198" end_char="2319">
+				<ORIGINAL_TEXT>Y es que las personas que mueren son prácticamente todas de la población de riesgo: mayores de 65 años e inmunodeprimidos.</ORIGINAL_TEXT>
+				<TOKEN id="token-24-0" start_char="2198" end_char="2198">Y</TOKEN>
+				<TOKEN id="token-24-1" start_char="2200" end_char="2201">es</TOKEN>
+				<TOKEN id="token-24-2" start_char="2203" end_char="2205">que</TOKEN>
+				<TOKEN id="token-24-3" start_char="2207" end_char="2209">las</TOKEN>
+				<TOKEN id="token-24-4" start_char="2211" end_char="2218">personas</TOKEN>
+				<TOKEN id="token-24-5" start_char="2220" end_char="2222">que</TOKEN>
+				<TOKEN id="token-24-6" start_char="2224" end_char="2229">mueren</TOKEN>
+				<TOKEN id="token-24-7" start_char="2231" end_char="2233">son</TOKEN>
+				<TOKEN id="token-24-8" start_char="2235" end_char="2247">prácticamente</TOKEN>
+				<TOKEN id="token-24-9" start_char="2249" end_char="2253">todas</TOKEN>
+				<TOKEN id="token-24-10" start_char="2255" end_char="2256">de</TOKEN>
+				<TOKEN id="token-24-11" start_char="2258" end_char="2259">la</TOKEN>
+				<TOKEN id="token-24-12" start_char="2261" end_char="2269">población</TOKEN>
+				<TOKEN id="token-24-13" start_char="2271" end_char="2272">de</TOKEN>
+				<TOKEN id="token-24-14" start_char="2274" end_char="2279">riesgo</TOKEN>
+				<TOKEN id="token-24-15" start_char="2280" end_char="2280">:</TOKEN>
+				<TOKEN id="token-24-16" start_char="2282" end_char="2288">mayores</TOKEN>
+				<TOKEN id="token-24-17" start_char="2290" end_char="2291">de</TOKEN>
+				<TOKEN id="token-24-18" start_char="2293" end_char="2294">65</TOKEN>
+				<TOKEN id="token-24-19" start_char="2296" end_char="2299">años</TOKEN>
+				<TOKEN id="token-24-20" start_char="2301" end_char="2301">e</TOKEN>
+				<TOKEN id="token-24-21" start_char="2303" end_char="2318">inmunodeprimidos</TOKEN>
+				<TOKEN id="token-24-22" start_char="2319" end_char="2319">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-25" start_char="2321" end_char="2339">
+				<ORIGINAL_TEXT>Igual que la gripe.</ORIGINAL_TEXT>
+				<TOKEN id="token-25-0" start_char="2321" end_char="2325">Igual</TOKEN>
+				<TOKEN id="token-25-1" start_char="2327" end_char="2329">que</TOKEN>
+				<TOKEN id="token-25-2" start_char="2331" end_char="2332">la</TOKEN>
+				<TOKEN id="token-25-3" start_char="2334" end_char="2338">gripe</TOKEN>
+				<TOKEN id="token-25-4" start_char="2339" end_char="2339">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-26" start_char="2341" end_char="2441">
+				<ORIGINAL_TEXT>Una persona sana y/o joven no va a morir a causa del virus igual que no muere por culpa de una gripe.</ORIGINAL_TEXT>
+				<TOKEN id="token-26-0" start_char="2341" end_char="2343">Una</TOKEN>
+				<TOKEN id="token-26-1" start_char="2345" end_char="2351">persona</TOKEN>
+				<TOKEN id="token-26-2" start_char="2353" end_char="2356">sana</TOKEN>
+				<TOKEN id="token-26-3" start_char="2358" end_char="2358">y</TOKEN>
+				<TOKEN id="token-26-4" start_char="2359" end_char="2359">/</TOKEN>
+				<TOKEN id="token-26-5" start_char="2360" end_char="2360">o</TOKEN>
+				<TOKEN id="token-26-6" start_char="2362" end_char="2366">joven</TOKEN>
+				<TOKEN id="token-26-7" start_char="2368" end_char="2369">no</TOKEN>
+				<TOKEN id="token-26-8" start_char="2371" end_char="2372">va</TOKEN>
+				<TOKEN id="token-26-9" start_char="2374" end_char="2374">a</TOKEN>
+				<TOKEN id="token-26-10" start_char="2376" end_char="2380">morir</TOKEN>
+				<TOKEN id="token-26-11" start_char="2382" end_char="2382">a</TOKEN>
+				<TOKEN id="token-26-12" start_char="2384" end_char="2388">causa</TOKEN>
+				<TOKEN id="token-26-13" start_char="2390" end_char="2392">del</TOKEN>
+				<TOKEN id="token-26-14" start_char="2394" end_char="2398">virus</TOKEN>
+				<TOKEN id="token-26-15" start_char="2400" end_char="2404">igual</TOKEN>
+				<TOKEN id="token-26-16" start_char="2406" end_char="2408">que</TOKEN>
+				<TOKEN id="token-26-17" start_char="2410" end_char="2411">no</TOKEN>
+				<TOKEN id="token-26-18" start_char="2413" end_char="2417">muere</TOKEN>
+				<TOKEN id="token-26-19" start_char="2419" end_char="2421">por</TOKEN>
+				<TOKEN id="token-26-20" start_char="2423" end_char="2427">culpa</TOKEN>
+				<TOKEN id="token-26-21" start_char="2429" end_char="2430">de</TOKEN>
+				<TOKEN id="token-26-22" start_char="2432" end_char="2434">una</TOKEN>
+				<TOKEN id="token-26-23" start_char="2436" end_char="2440">gripe</TOKEN>
+				<TOKEN id="token-26-24" start_char="2441" end_char="2441">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-27" start_char="2443" end_char="2444">
+				<ORIGINAL_TEXT>2.</ORIGINAL_TEXT>
+				<TOKEN id="token-27-0" start_char="2443" end_char="2443">2</TOKEN>
+				<TOKEN id="token-27-1" start_char="2444" end_char="2444">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-28" start_char="2446" end_char="2497">
+				<ORIGINAL_TEXT>“Viaja muy lejos en el aire después de un estornudo”</ORIGINAL_TEXT>
+				<TOKEN id="token-28-0" start_char="2446" end_char="2446">“</TOKEN>
+				<TOKEN id="token-28-1" start_char="2447" end_char="2451">Viaja</TOKEN>
+				<TOKEN id="token-28-2" start_char="2453" end_char="2455">muy</TOKEN>
+				<TOKEN id="token-28-3" start_char="2457" end_char="2461">lejos</TOKEN>
+				<TOKEN id="token-28-4" start_char="2463" end_char="2464">en</TOKEN>
+				<TOKEN id="token-28-5" start_char="2466" end_char="2467">el</TOKEN>
+				<TOKEN id="token-28-6" start_char="2469" end_char="2472">aire</TOKEN>
+				<TOKEN id="token-28-7" start_char="2474" end_char="2480">después</TOKEN>
+				<TOKEN id="token-28-8" start_char="2482" end_char="2483">de</TOKEN>
+				<TOKEN id="token-28-9" start_char="2485" end_char="2486">un</TOKEN>
+				<TOKEN id="token-28-10" start_char="2488" end_char="2496">estornudo</TOKEN>
+				<TOKEN id="token-28-11" start_char="2497" end_char="2497">”</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-29" start_char="2499" end_char="2504">
+				<ORIGINAL_TEXT>Falso.</ORIGINAL_TEXT>
+				<TOKEN id="token-29-0" start_char="2499" end_char="2503">Falso</TOKEN>
+				<TOKEN id="token-29-1" start_char="2504" end_char="2504">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-30" start_char="2506" end_char="2644">
+				<ORIGINAL_TEXT>Es cierto que el virus puede viajar a través de las gotículas respiratorias que genera una persona infectada al hablar, toser o estornudar.</ORIGINAL_TEXT>
+				<TOKEN id="token-30-0" start_char="2506" end_char="2507">Es</TOKEN>
+				<TOKEN id="token-30-1" start_char="2509" end_char="2514">cierto</TOKEN>
+				<TOKEN id="token-30-2" start_char="2516" end_char="2518">que</TOKEN>
+				<TOKEN id="token-30-3" start_char="2520" end_char="2521">el</TOKEN>
+				<TOKEN id="token-30-4" start_char="2523" end_char="2527">virus</TOKEN>
+				<TOKEN id="token-30-5" start_char="2529" end_char="2533">puede</TOKEN>
+				<TOKEN id="token-30-6" start_char="2535" end_char="2540">viajar</TOKEN>
+				<TOKEN id="token-30-7" start_char="2542" end_char="2542">a</TOKEN>
+				<TOKEN id="token-30-8" start_char="2544" end_char="2549">través</TOKEN>
+				<TOKEN id="token-30-9" start_char="2551" end_char="2552">de</TOKEN>
+				<TOKEN id="token-30-10" start_char="2554" end_char="2556">las</TOKEN>
+				<TOKEN id="token-30-11" start_char="2558" end_char="2566">gotículas</TOKEN>
+				<TOKEN id="token-30-12" start_char="2568" end_char="2580">respiratorias</TOKEN>
+				<TOKEN id="token-30-13" start_char="2582" end_char="2584">que</TOKEN>
+				<TOKEN id="token-30-14" start_char="2586" end_char="2591">genera</TOKEN>
+				<TOKEN id="token-30-15" start_char="2593" end_char="2595">una</TOKEN>
+				<TOKEN id="token-30-16" start_char="2597" end_char="2603">persona</TOKEN>
+				<TOKEN id="token-30-17" start_char="2605" end_char="2613">infectada</TOKEN>
+				<TOKEN id="token-30-18" start_char="2615" end_char="2616">al</TOKEN>
+				<TOKEN id="token-30-19" start_char="2618" end_char="2623">hablar</TOKEN>
+				<TOKEN id="token-30-20" start_char="2624" end_char="2624">,</TOKEN>
+				<TOKEN id="token-30-21" start_char="2626" end_char="2630">toser</TOKEN>
+				<TOKEN id="token-30-22" start_char="2632" end_char="2632">o</TOKEN>
+				<TOKEN id="token-30-23" start_char="2634" end_char="2643">estornudar</TOKEN>
+				<TOKEN id="token-30-24" start_char="2644" end_char="2644">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-31" start_char="2646" end_char="2718">
+				<ORIGINAL_TEXT>Y esto es precisamente lo que hace que el contagio sea bastante sencillo.</ORIGINAL_TEXT>
+				<TOKEN id="token-31-0" start_char="2646" end_char="2646">Y</TOKEN>
+				<TOKEN id="token-31-1" start_char="2648" end_char="2651">esto</TOKEN>
+				<TOKEN id="token-31-2" start_char="2653" end_char="2654">es</TOKEN>
+				<TOKEN id="token-31-3" start_char="2656" end_char="2667">precisamente</TOKEN>
+				<TOKEN id="token-31-4" start_char="2669" end_char="2670">lo</TOKEN>
+				<TOKEN id="token-31-5" start_char="2672" end_char="2674">que</TOKEN>
+				<TOKEN id="token-31-6" start_char="2676" end_char="2679">hace</TOKEN>
+				<TOKEN id="token-31-7" start_char="2681" end_char="2683">que</TOKEN>
+				<TOKEN id="token-31-8" start_char="2685" end_char="2686">el</TOKEN>
+				<TOKEN id="token-31-9" start_char="2688" end_char="2695">contagio</TOKEN>
+				<TOKEN id="token-31-10" start_char="2697" end_char="2699">sea</TOKEN>
+				<TOKEN id="token-31-11" start_char="2701" end_char="2708">bastante</TOKEN>
+				<TOKEN id="token-31-12" start_char="2710" end_char="2717">sencillo</TOKEN>
+				<TOKEN id="token-31-13" start_char="2718" end_char="2718">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-32" start_char="2720" end_char="2830">
+				<ORIGINAL_TEXT>Pero estas gotas son muy pesadas, por lo que no pueden viajar más de 1 metro en el aire antes de caer al suelo.</ORIGINAL_TEXT>
+				<TOKEN id="token-32-0" start_char="2720" end_char="2723">Pero</TOKEN>
+				<TOKEN id="token-32-1" start_char="2725" end_char="2729">estas</TOKEN>
+				<TOKEN id="token-32-2" start_char="2731" end_char="2735">gotas</TOKEN>
+				<TOKEN id="token-32-3" start_char="2737" end_char="2739">son</TOKEN>
+				<TOKEN id="token-32-4" start_char="2741" end_char="2743">muy</TOKEN>
+				<TOKEN id="token-32-5" start_char="2745" end_char="2751">pesadas</TOKEN>
+				<TOKEN id="token-32-6" start_char="2752" end_char="2752">,</TOKEN>
+				<TOKEN id="token-32-7" start_char="2754" end_char="2756">por</TOKEN>
+				<TOKEN id="token-32-8" start_char="2758" end_char="2759">lo</TOKEN>
+				<TOKEN id="token-32-9" start_char="2761" end_char="2763">que</TOKEN>
+				<TOKEN id="token-32-10" start_char="2765" end_char="2766">no</TOKEN>
+				<TOKEN id="token-32-11" start_char="2768" end_char="2773">pueden</TOKEN>
+				<TOKEN id="token-32-12" start_char="2775" end_char="2780">viajar</TOKEN>
+				<TOKEN id="token-32-13" start_char="2782" end_char="2784">más</TOKEN>
+				<TOKEN id="token-32-14" start_char="2786" end_char="2787">de</TOKEN>
+				<TOKEN id="token-32-15" start_char="2789" end_char="2789">1</TOKEN>
+				<TOKEN id="token-32-16" start_char="2791" end_char="2795">metro</TOKEN>
+				<TOKEN id="token-32-17" start_char="2797" end_char="2798">en</TOKEN>
+				<TOKEN id="token-32-18" start_char="2800" end_char="2801">el</TOKEN>
+				<TOKEN id="token-32-19" start_char="2803" end_char="2806">aire</TOKEN>
+				<TOKEN id="token-32-20" start_char="2808" end_char="2812">antes</TOKEN>
+				<TOKEN id="token-32-21" start_char="2814" end_char="2815">de</TOKEN>
+				<TOKEN id="token-32-22" start_char="2817" end_char="2820">caer</TOKEN>
+				<TOKEN id="token-32-23" start_char="2822" end_char="2823">al</TOKEN>
+				<TOKEN id="token-32-24" start_char="2825" end_char="2829">suelo</TOKEN>
+				<TOKEN id="token-32-25" start_char="2830" end_char="2830">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-33" start_char="2832" end_char="2925">
+				<ORIGINAL_TEXT>Es decir, necesitas un contacto muy cercano con una persona infectada para sufrir el contagio.</ORIGINAL_TEXT>
+				<TOKEN id="token-33-0" start_char="2832" end_char="2833">Es</TOKEN>
+				<TOKEN id="token-33-1" start_char="2835" end_char="2839">decir</TOKEN>
+				<TOKEN id="token-33-2" start_char="2840" end_char="2840">,</TOKEN>
+				<TOKEN id="token-33-3" start_char="2842" end_char="2850">necesitas</TOKEN>
+				<TOKEN id="token-33-4" start_char="2852" end_char="2853">un</TOKEN>
+				<TOKEN id="token-33-5" start_char="2855" end_char="2862">contacto</TOKEN>
+				<TOKEN id="token-33-6" start_char="2864" end_char="2866">muy</TOKEN>
+				<TOKEN id="token-33-7" start_char="2868" end_char="2874">cercano</TOKEN>
+				<TOKEN id="token-33-8" start_char="2876" end_char="2878">con</TOKEN>
+				<TOKEN id="token-33-9" start_char="2880" end_char="2882">una</TOKEN>
+				<TOKEN id="token-33-10" start_char="2884" end_char="2890">persona</TOKEN>
+				<TOKEN id="token-33-11" start_char="2892" end_char="2900">infectada</TOKEN>
+				<TOKEN id="token-33-12" start_char="2902" end_char="2905">para</TOKEN>
+				<TOKEN id="token-33-13" start_char="2907" end_char="2912">sufrir</TOKEN>
+				<TOKEN id="token-33-14" start_char="2914" end_char="2915">el</TOKEN>
+				<TOKEN id="token-33-15" start_char="2917" end_char="2924">contagio</TOKEN>
+				<TOKEN id="token-33-16" start_char="2925" end_char="2925">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-34" start_char="2927" end_char="2928">
+				<ORIGINAL_TEXT>3.</ORIGINAL_TEXT>
+				<TOKEN id="token-34-0" start_char="2927" end_char="2927">3</TOKEN>
+				<TOKEN id="token-34-1" start_char="2928" end_char="2928">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-35" start_char="2930" end_char="2989">
+				<ORIGINAL_TEXT>“Puedes contagiarte al recibir una carta o paquete de China”</ORIGINAL_TEXT>
+				<TOKEN id="token-35-0" start_char="2930" end_char="2930">“</TOKEN>
+				<TOKEN id="token-35-1" start_char="2931" end_char="2936">Puedes</TOKEN>
+				<TOKEN id="token-35-2" start_char="2938" end_char="2948">contagiarte</TOKEN>
+				<TOKEN id="token-35-3" start_char="2950" end_char="2951">al</TOKEN>
+				<TOKEN id="token-35-4" start_char="2953" end_char="2959">recibir</TOKEN>
+				<TOKEN id="token-35-5" start_char="2961" end_char="2963">una</TOKEN>
+				<TOKEN id="token-35-6" start_char="2965" end_char="2969">carta</TOKEN>
+				<TOKEN id="token-35-7" start_char="2971" end_char="2971">o</TOKEN>
+				<TOKEN id="token-35-8" start_char="2973" end_char="2979">paquete</TOKEN>
+				<TOKEN id="token-35-9" start_char="2981" end_char="2982">de</TOKEN>
+				<TOKEN id="token-35-10" start_char="2984" end_char="2988">China</TOKEN>
+				<TOKEN id="token-35-11" start_char="2989" end_char="2989">”</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-36" start_char="2991" end_char="2993">
+				<ORIGINAL_TEXT>No.</ORIGINAL_TEXT>
+				<TOKEN id="token-36-0" start_char="2991" end_char="2992">No</TOKEN>
+				<TOKEN id="token-36-1" start_char="2993" end_char="2993">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-37" start_char="2995" end_char="3152">
+				<ORIGINAL_TEXT>Es cierto que el contagio puede darse por tocar objetos contaminados con fluidos corporales de una persona enferma, pues en la superficie pueden quedar virus.</ORIGINAL_TEXT>
+				<TOKEN id="token-37-0" start_char="2995" end_char="2996">Es</TOKEN>
+				<TOKEN id="token-37-1" start_char="2998" end_char="3003">cierto</TOKEN>
+				<TOKEN id="token-37-2" start_char="3005" end_char="3007">que</TOKEN>
+				<TOKEN id="token-37-3" start_char="3009" end_char="3010">el</TOKEN>
+				<TOKEN id="token-37-4" start_char="3012" end_char="3019">contagio</TOKEN>
+				<TOKEN id="token-37-5" start_char="3021" end_char="3025">puede</TOKEN>
+				<TOKEN id="token-37-6" start_char="3027" end_char="3031">darse</TOKEN>
+				<TOKEN id="token-37-7" start_char="3033" end_char="3035">por</TOKEN>
+				<TOKEN id="token-37-8" start_char="3037" end_char="3041">tocar</TOKEN>
+				<TOKEN id="token-37-9" start_char="3043" end_char="3049">objetos</TOKEN>
+				<TOKEN id="token-37-10" start_char="3051" end_char="3062">contaminados</TOKEN>
+				<TOKEN id="token-37-11" start_char="3064" end_char="3066">con</TOKEN>
+				<TOKEN id="token-37-12" start_char="3068" end_char="3074">fluidos</TOKEN>
+				<TOKEN id="token-37-13" start_char="3076" end_char="3085">corporales</TOKEN>
+				<TOKEN id="token-37-14" start_char="3087" end_char="3088">de</TOKEN>
+				<TOKEN id="token-37-15" start_char="3090" end_char="3092">una</TOKEN>
+				<TOKEN id="token-37-16" start_char="3094" end_char="3100">persona</TOKEN>
+				<TOKEN id="token-37-17" start_char="3102" end_char="3108">enferma</TOKEN>
+				<TOKEN id="token-37-18" start_char="3109" end_char="3109">,</TOKEN>
+				<TOKEN id="token-37-19" start_char="3111" end_char="3114">pues</TOKEN>
+				<TOKEN id="token-37-20" start_char="3116" end_char="3117">en</TOKEN>
+				<TOKEN id="token-37-21" start_char="3119" end_char="3120">la</TOKEN>
+				<TOKEN id="token-37-22" start_char="3122" end_char="3131">superficie</TOKEN>
+				<TOKEN id="token-37-23" start_char="3133" end_char="3138">pueden</TOKEN>
+				<TOKEN id="token-37-24" start_char="3140" end_char="3145">quedar</TOKEN>
+				<TOKEN id="token-37-25" start_char="3147" end_char="3151">virus</TOKEN>
+				<TOKEN id="token-37-26" start_char="3152" end_char="3152">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-38" start_char="3154" end_char="3219">
+				<ORIGINAL_TEXT>Pero los virus sobreviven muy poco tiempo fuera del cuerpo humano.</ORIGINAL_TEXT>
+				<TOKEN id="token-38-0" start_char="3154" end_char="3157">Pero</TOKEN>
+				<TOKEN id="token-38-1" start_char="3159" end_char="3161">los</TOKEN>
+				<TOKEN id="token-38-2" start_char="3163" end_char="3167">virus</TOKEN>
+				<TOKEN id="token-38-3" start_char="3169" end_char="3178">sobreviven</TOKEN>
+				<TOKEN id="token-38-4" start_char="3180" end_char="3182">muy</TOKEN>
+				<TOKEN id="token-38-5" start_char="3184" end_char="3187">poco</TOKEN>
+				<TOKEN id="token-38-6" start_char="3189" end_char="3194">tiempo</TOKEN>
+				<TOKEN id="token-38-7" start_char="3196" end_char="3200">fuera</TOKEN>
+				<TOKEN id="token-38-8" start_char="3202" end_char="3204">del</TOKEN>
+				<TOKEN id="token-38-9" start_char="3206" end_char="3211">cuerpo</TOKEN>
+				<TOKEN id="token-38-10" start_char="3213" end_char="3218">humano</TOKEN>
+				<TOKEN id="token-38-11" start_char="3219" end_char="3219">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-39" start_char="3221" end_char="3282">
+				<ORIGINAL_TEXT>De hecho, a las pocas horas de estar al “descubierto”, mueren.</ORIGINAL_TEXT>
+				<TOKEN id="token-39-0" start_char="3221" end_char="3222">De</TOKEN>
+				<TOKEN id="token-39-1" start_char="3224" end_char="3228">hecho</TOKEN>
+				<TOKEN id="token-39-2" start_char="3229" end_char="3229">,</TOKEN>
+				<TOKEN id="token-39-3" start_char="3231" end_char="3231">a</TOKEN>
+				<TOKEN id="token-39-4" start_char="3233" end_char="3235">las</TOKEN>
+				<TOKEN id="token-39-5" start_char="3237" end_char="3241">pocas</TOKEN>
+				<TOKEN id="token-39-6" start_char="3243" end_char="3247">horas</TOKEN>
+				<TOKEN id="token-39-7" start_char="3249" end_char="3250">de</TOKEN>
+				<TOKEN id="token-39-8" start_char="3252" end_char="3256">estar</TOKEN>
+				<TOKEN id="token-39-9" start_char="3258" end_char="3259">al</TOKEN>
+				<TOKEN id="token-39-10" start_char="3261" end_char="3261">“</TOKEN>
+				<TOKEN id="token-39-11" start_char="3262" end_char="3272">descubierto</TOKEN>
+				<TOKEN id="token-39-12" start_char="3273" end_char="3274">”,</TOKEN>
+				<TOKEN id="token-39-13" start_char="3276" end_char="3281">mueren</TOKEN>
+				<TOKEN id="token-39-14" start_char="3282" end_char="3282">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-40" start_char="3284" end_char="3496">
+				<ORIGINAL_TEXT>Por lo tanto, en caso de recibir un paquete de China (que las probabilidades de que en algún momento tuviera el virus en su interior son prácticamente nulas) el virus llegaría muerto y no causaría ningún problema.</ORIGINAL_TEXT>
+				<TOKEN id="token-40-0" start_char="3284" end_char="3286">Por</TOKEN>
+				<TOKEN id="token-40-1" start_char="3288" end_char="3289">lo</TOKEN>
+				<TOKEN id="token-40-2" start_char="3291" end_char="3295">tanto</TOKEN>
+				<TOKEN id="token-40-3" start_char="3296" end_char="3296">,</TOKEN>
+				<TOKEN id="token-40-4" start_char="3298" end_char="3299">en</TOKEN>
+				<TOKEN id="token-40-5" start_char="3301" end_char="3304">caso</TOKEN>
+				<TOKEN id="token-40-6" start_char="3306" end_char="3307">de</TOKEN>
+				<TOKEN id="token-40-7" start_char="3309" end_char="3315">recibir</TOKEN>
+				<TOKEN id="token-40-8" start_char="3317" end_char="3318">un</TOKEN>
+				<TOKEN id="token-40-9" start_char="3320" end_char="3326">paquete</TOKEN>
+				<TOKEN id="token-40-10" start_char="3328" end_char="3329">de</TOKEN>
+				<TOKEN id="token-40-11" start_char="3331" end_char="3335">China</TOKEN>
+				<TOKEN id="token-40-12" start_char="3337" end_char="3337">(</TOKEN>
+				<TOKEN id="token-40-13" start_char="3338" end_char="3340">que</TOKEN>
+				<TOKEN id="token-40-14" start_char="3342" end_char="3344">las</TOKEN>
+				<TOKEN id="token-40-15" start_char="3346" end_char="3359">probabilidades</TOKEN>
+				<TOKEN id="token-40-16" start_char="3361" end_char="3362">de</TOKEN>
+				<TOKEN id="token-40-17" start_char="3364" end_char="3366">que</TOKEN>
+				<TOKEN id="token-40-18" start_char="3368" end_char="3369">en</TOKEN>
+				<TOKEN id="token-40-19" start_char="3371" end_char="3375">algún</TOKEN>
+				<TOKEN id="token-40-20" start_char="3377" end_char="3383">momento</TOKEN>
+				<TOKEN id="token-40-21" start_char="3385" end_char="3391">tuviera</TOKEN>
+				<TOKEN id="token-40-22" start_char="3393" end_char="3394">el</TOKEN>
+				<TOKEN id="token-40-23" start_char="3396" end_char="3400">virus</TOKEN>
+				<TOKEN id="token-40-24" start_char="3402" end_char="3403">en</TOKEN>
+				<TOKEN id="token-40-25" start_char="3405" end_char="3406">su</TOKEN>
+				<TOKEN id="token-40-26" start_char="3408" end_char="3415">interior</TOKEN>
+				<TOKEN id="token-40-27" start_char="3417" end_char="3419">son</TOKEN>
+				<TOKEN id="token-40-28" start_char="3421" end_char="3433">prácticamente</TOKEN>
+				<TOKEN id="token-40-29" start_char="3435" end_char="3439">nulas</TOKEN>
+				<TOKEN id="token-40-30" start_char="3440" end_char="3440">)</TOKEN>
+				<TOKEN id="token-40-31" start_char="3442" end_char="3443">el</TOKEN>
+				<TOKEN id="token-40-32" start_char="3445" end_char="3449">virus</TOKEN>
+				<TOKEN id="token-40-33" start_char="3451" end_char="3458">llegaría</TOKEN>
+				<TOKEN id="token-40-34" start_char="3460" end_char="3465">muerto</TOKEN>
+				<TOKEN id="token-40-35" start_char="3467" end_char="3467">y</TOKEN>
+				<TOKEN id="token-40-36" start_char="3469" end_char="3470">no</TOKEN>
+				<TOKEN id="token-40-37" start_char="3472" end_char="3479">causaría</TOKEN>
+				<TOKEN id="token-40-38" start_char="3481" end_char="3486">ningún</TOKEN>
+				<TOKEN id="token-40-39" start_char="3488" end_char="3495">problema</TOKEN>
+				<TOKEN id="token-40-40" start_char="3496" end_char="3496">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-41" start_char="3498" end_char="3499">
+				<ORIGINAL_TEXT>4.</ORIGINAL_TEXT>
+				<TOKEN id="token-41-0" start_char="3498" end_char="3498">4</TOKEN>
+				<TOKEN id="token-41-1" start_char="3499" end_char="3499">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-42" start_char="3501" end_char="3568">
+				<ORIGINAL_TEXT>“Los mosquitos pueden transmitir el virus a través de las picaduras”</ORIGINAL_TEXT>
+				<TOKEN id="token-42-0" start_char="3501" end_char="3501">“</TOKEN>
+				<TOKEN id="token-42-1" start_char="3502" end_char="3504">Los</TOKEN>
+				<TOKEN id="token-42-2" start_char="3506" end_char="3514">mosquitos</TOKEN>
+				<TOKEN id="token-42-3" start_char="3516" end_char="3521">pueden</TOKEN>
+				<TOKEN id="token-42-4" start_char="3523" end_char="3532">transmitir</TOKEN>
+				<TOKEN id="token-42-5" start_char="3534" end_char="3535">el</TOKEN>
+				<TOKEN id="token-42-6" start_char="3537" end_char="3541">virus</TOKEN>
+				<TOKEN id="token-42-7" start_char="3543" end_char="3543">a</TOKEN>
+				<TOKEN id="token-42-8" start_char="3545" end_char="3550">través</TOKEN>
+				<TOKEN id="token-42-9" start_char="3552" end_char="3553">de</TOKEN>
+				<TOKEN id="token-42-10" start_char="3555" end_char="3557">las</TOKEN>
+				<TOKEN id="token-42-11" start_char="3559" end_char="3567">picaduras</TOKEN>
+				<TOKEN id="token-42-12" start_char="3568" end_char="3568">”</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-43" start_char="3570" end_char="3586">
+				<ORIGINAL_TEXT>Totalmente falso.</ORIGINAL_TEXT>
+				<TOKEN id="token-43-0" start_char="3570" end_char="3579">Totalmente</TOKEN>
+				<TOKEN id="token-43-1" start_char="3581" end_char="3585">falso</TOKEN>
+				<TOKEN id="token-43-2" start_char="3586" end_char="3586">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-44" start_char="3588" end_char="3667">
+				<ORIGINAL_TEXT>Los mosquitos son capaces de transmitir enfermedades como la malaria, es cierto.</ORIGINAL_TEXT>
+				<TOKEN id="token-44-0" start_char="3588" end_char="3590">Los</TOKEN>
+				<TOKEN id="token-44-1" start_char="3592" end_char="3600">mosquitos</TOKEN>
+				<TOKEN id="token-44-2" start_char="3602" end_char="3604">son</TOKEN>
+				<TOKEN id="token-44-3" start_char="3606" end_char="3612">capaces</TOKEN>
+				<TOKEN id="token-44-4" start_char="3614" end_char="3615">de</TOKEN>
+				<TOKEN id="token-44-5" start_char="3617" end_char="3626">transmitir</TOKEN>
+				<TOKEN id="token-44-6" start_char="3628" end_char="3639">enfermedades</TOKEN>
+				<TOKEN id="token-44-7" start_char="3641" end_char="3644">como</TOKEN>
+				<TOKEN id="token-44-8" start_char="3646" end_char="3647">la</TOKEN>
+				<TOKEN id="token-44-9" start_char="3649" end_char="3655">malaria</TOKEN>
+				<TOKEN id="token-44-10" start_char="3656" end_char="3656">,</TOKEN>
+				<TOKEN id="token-44-11" start_char="3658" end_char="3659">es</TOKEN>
+				<TOKEN id="token-44-12" start_char="3661" end_char="3666">cierto</TOKEN>
+				<TOKEN id="token-44-13" start_char="3667" end_char="3667">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-45" start_char="3669" end_char="3719">
+				<ORIGINAL_TEXT>Pero el coronavirus no sigue esta ruta de contagio.</ORIGINAL_TEXT>
+				<TOKEN id="token-45-0" start_char="3669" end_char="3672">Pero</TOKEN>
+				<TOKEN id="token-45-1" start_char="3674" end_char="3675">el</TOKEN>
+				<TOKEN id="token-45-2" start_char="3677" end_char="3687">coronavirus</TOKEN>
+				<TOKEN id="token-45-3" start_char="3689" end_char="3690">no</TOKEN>
+				<TOKEN id="token-45-4" start_char="3692" end_char="3696">sigue</TOKEN>
+				<TOKEN id="token-45-5" start_char="3698" end_char="3701">esta</TOKEN>
+				<TOKEN id="token-45-6" start_char="3703" end_char="3706">ruta</TOKEN>
+				<TOKEN id="token-45-7" start_char="3708" end_char="3709">de</TOKEN>
+				<TOKEN id="token-45-8" start_char="3711" end_char="3718">contagio</TOKEN>
+				<TOKEN id="token-45-9" start_char="3719" end_char="3719">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-46" start_char="3721" end_char="3964">
+				<ORIGINAL_TEXT>Este virus se transmite por el aire a través de las gotículas respiratorias de saliva que genera una persona infectada, por contacto directo con sus fluidos corporales o por contacto indirecto de objetos contaminados por el virus recientemente.</ORIGINAL_TEXT>
+				<TOKEN id="token-46-0" start_char="3721" end_char="3724">Este</TOKEN>
+				<TOKEN id="token-46-1" start_char="3726" end_char="3730">virus</TOKEN>
+				<TOKEN id="token-46-2" start_char="3732" end_char="3733">se</TOKEN>
+				<TOKEN id="token-46-3" start_char="3735" end_char="3743">transmite</TOKEN>
+				<TOKEN id="token-46-4" start_char="3745" end_char="3747">por</TOKEN>
+				<TOKEN id="token-46-5" start_char="3749" end_char="3750">el</TOKEN>
+				<TOKEN id="token-46-6" start_char="3752" end_char="3755">aire</TOKEN>
+				<TOKEN id="token-46-7" start_char="3757" end_char="3757">a</TOKEN>
+				<TOKEN id="token-46-8" start_char="3759" end_char="3764">través</TOKEN>
+				<TOKEN id="token-46-9" start_char="3766" end_char="3767">de</TOKEN>
+				<TOKEN id="token-46-10" start_char="3769" end_char="3771">las</TOKEN>
+				<TOKEN id="token-46-11" start_char="3773" end_char="3781">gotículas</TOKEN>
+				<TOKEN id="token-46-12" start_char="3783" end_char="3795">respiratorias</TOKEN>
+				<TOKEN id="token-46-13" start_char="3797" end_char="3798">de</TOKEN>
+				<TOKEN id="token-46-14" start_char="3800" end_char="3805">saliva</TOKEN>
+				<TOKEN id="token-46-15" start_char="3807" end_char="3809">que</TOKEN>
+				<TOKEN id="token-46-16" start_char="3811" end_char="3816">genera</TOKEN>
+				<TOKEN id="token-46-17" start_char="3818" end_char="3820">una</TOKEN>
+				<TOKEN id="token-46-18" start_char="3822" end_char="3828">persona</TOKEN>
+				<TOKEN id="token-46-19" start_char="3830" end_char="3838">infectada</TOKEN>
+				<TOKEN id="token-46-20" start_char="3839" end_char="3839">,</TOKEN>
+				<TOKEN id="token-46-21" start_char="3841" end_char="3843">por</TOKEN>
+				<TOKEN id="token-46-22" start_char="3845" end_char="3852">contacto</TOKEN>
+				<TOKEN id="token-46-23" start_char="3854" end_char="3860">directo</TOKEN>
+				<TOKEN id="token-46-24" start_char="3862" end_char="3864">con</TOKEN>
+				<TOKEN id="token-46-25" start_char="3866" end_char="3868">sus</TOKEN>
+				<TOKEN id="token-46-26" start_char="3870" end_char="3876">fluidos</TOKEN>
+				<TOKEN id="token-46-27" start_char="3878" end_char="3887">corporales</TOKEN>
+				<TOKEN id="token-46-28" start_char="3889" end_char="3889">o</TOKEN>
+				<TOKEN id="token-46-29" start_char="3891" end_char="3893">por</TOKEN>
+				<TOKEN id="token-46-30" start_char="3895" end_char="3902">contacto</TOKEN>
+				<TOKEN id="token-46-31" start_char="3904" end_char="3912">indirecto</TOKEN>
+				<TOKEN id="token-46-32" start_char="3914" end_char="3915">de</TOKEN>
+				<TOKEN id="token-46-33" start_char="3917" end_char="3923">objetos</TOKEN>
+				<TOKEN id="token-46-34" start_char="3925" end_char="3936">contaminados</TOKEN>
+				<TOKEN id="token-46-35" start_char="3938" end_char="3940">por</TOKEN>
+				<TOKEN id="token-46-36" start_char="3942" end_char="3943">el</TOKEN>
+				<TOKEN id="token-46-37" start_char="3945" end_char="3949">virus</TOKEN>
+				<TOKEN id="token-46-38" start_char="3951" end_char="3963">recientemente</TOKEN>
+				<TOKEN id="token-46-39" start_char="3964" end_char="3964">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-47" start_char="3966" end_char="3967">
+				<ORIGINAL_TEXT>5.</ORIGINAL_TEXT>
+				<TOKEN id="token-47-0" start_char="3966" end_char="3966">5</TOKEN>
+				<TOKEN id="token-47-1" start_char="3967" end_char="3967">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-48" start_char="3969" end_char="4017">
+				<ORIGINAL_TEXT>“Resiste mucho tiempo sobre objetos como monedas”</ORIGINAL_TEXT>
+				<TOKEN id="token-48-0" start_char="3969" end_char="3969">“</TOKEN>
+				<TOKEN id="token-48-1" start_char="3970" end_char="3976">Resiste</TOKEN>
+				<TOKEN id="token-48-2" start_char="3978" end_char="3982">mucho</TOKEN>
+				<TOKEN id="token-48-3" start_char="3984" end_char="3989">tiempo</TOKEN>
+				<TOKEN id="token-48-4" start_char="3991" end_char="3995">sobre</TOKEN>
+				<TOKEN id="token-48-5" start_char="3997" end_char="4003">objetos</TOKEN>
+				<TOKEN id="token-48-6" start_char="4005" end_char="4008">como</TOKEN>
+				<TOKEN id="token-48-7" start_char="4010" end_char="4016">monedas</TOKEN>
+				<TOKEN id="token-48-8" start_char="4017" end_char="4017">”</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-49" start_char="4019" end_char="4024">
+				<ORIGINAL_TEXT>Falso.</ORIGINAL_TEXT>
+				<TOKEN id="token-49-0" start_char="4019" end_char="4023">Falso</TOKEN>
+				<TOKEN id="token-49-1" start_char="4024" end_char="4024">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-50" start_char="4026" end_char="4136">
+				<ORIGINAL_TEXT>El virus puede sobrevivir sobre la superficie de objetos inanimados durante poco tiempo, como mucho unas horas.</ORIGINAL_TEXT>
+				<TOKEN id="token-50-0" start_char="4026" end_char="4027">El</TOKEN>
+				<TOKEN id="token-50-1" start_char="4029" end_char="4033">virus</TOKEN>
+				<TOKEN id="token-50-2" start_char="4035" end_char="4039">puede</TOKEN>
+				<TOKEN id="token-50-3" start_char="4041" end_char="4050">sobrevivir</TOKEN>
+				<TOKEN id="token-50-4" start_char="4052" end_char="4056">sobre</TOKEN>
+				<TOKEN id="token-50-5" start_char="4058" end_char="4059">la</TOKEN>
+				<TOKEN id="token-50-6" start_char="4061" end_char="4070">superficie</TOKEN>
+				<TOKEN id="token-50-7" start_char="4072" end_char="4073">de</TOKEN>
+				<TOKEN id="token-50-8" start_char="4075" end_char="4081">objetos</TOKEN>
+				<TOKEN id="token-50-9" start_char="4083" end_char="4092">inanimados</TOKEN>
+				<TOKEN id="token-50-10" start_char="4094" end_char="4100">durante</TOKEN>
+				<TOKEN id="token-50-11" start_char="4102" end_char="4105">poco</TOKEN>
+				<TOKEN id="token-50-12" start_char="4107" end_char="4112">tiempo</TOKEN>
+				<TOKEN id="token-50-13" start_char="4113" end_char="4113">,</TOKEN>
+				<TOKEN id="token-50-14" start_char="4115" end_char="4118">como</TOKEN>
+				<TOKEN id="token-50-15" start_char="4120" end_char="4124">mucho</TOKEN>
+				<TOKEN id="token-50-16" start_char="4126" end_char="4129">unas</TOKEN>
+				<TOKEN id="token-50-17" start_char="4131" end_char="4135">horas</TOKEN>
+				<TOKEN id="token-50-18" start_char="4136" end_char="4136">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-51" start_char="4138" end_char="4348">
+				<ORIGINAL_TEXT>El contagio por el contacto con objetos como monedas, billetes, picaportes, tarjetas de crédito, mesas, reposabrazos, etc, es posible pero solo un poco tiempo después de que un infectado depositara ahí el virus.</ORIGINAL_TEXT>
+				<TOKEN id="token-51-0" start_char="4138" end_char="4139">El</TOKEN>
+				<TOKEN id="token-51-1" start_char="4141" end_char="4148">contagio</TOKEN>
+				<TOKEN id="token-51-2" start_char="4150" end_char="4152">por</TOKEN>
+				<TOKEN id="token-51-3" start_char="4154" end_char="4155">el</TOKEN>
+				<TOKEN id="token-51-4" start_char="4157" end_char="4164">contacto</TOKEN>
+				<TOKEN id="token-51-5" start_char="4166" end_char="4168">con</TOKEN>
+				<TOKEN id="token-51-6" start_char="4170" end_char="4176">objetos</TOKEN>
+				<TOKEN id="token-51-7" start_char="4178" end_char="4181">como</TOKEN>
+				<TOKEN id="token-51-8" start_char="4183" end_char="4189">monedas</TOKEN>
+				<TOKEN id="token-51-9" start_char="4190" end_char="4190">,</TOKEN>
+				<TOKEN id="token-51-10" start_char="4192" end_char="4199">billetes</TOKEN>
+				<TOKEN id="token-51-11" start_char="4200" end_char="4200">,</TOKEN>
+				<TOKEN id="token-51-12" start_char="4202" end_char="4211">picaportes</TOKEN>
+				<TOKEN id="token-51-13" start_char="4212" end_char="4212">,</TOKEN>
+				<TOKEN id="token-51-14" start_char="4214" end_char="4221">tarjetas</TOKEN>
+				<TOKEN id="token-51-15" start_char="4223" end_char="4224">de</TOKEN>
+				<TOKEN id="token-51-16" start_char="4226" end_char="4232">crédito</TOKEN>
+				<TOKEN id="token-51-17" start_char="4233" end_char="4233">,</TOKEN>
+				<TOKEN id="token-51-18" start_char="4235" end_char="4239">mesas</TOKEN>
+				<TOKEN id="token-51-19" start_char="4240" end_char="4240">,</TOKEN>
+				<TOKEN id="token-51-20" start_char="4242" end_char="4253">reposabrazos</TOKEN>
+				<TOKEN id="token-51-21" start_char="4254" end_char="4254">,</TOKEN>
+				<TOKEN id="token-51-22" start_char="4256" end_char="4258">etc</TOKEN>
+				<TOKEN id="token-51-23" start_char="4259" end_char="4259">,</TOKEN>
+				<TOKEN id="token-51-24" start_char="4261" end_char="4262">es</TOKEN>
+				<TOKEN id="token-51-25" start_char="4264" end_char="4270">posible</TOKEN>
+				<TOKEN id="token-51-26" start_char="4272" end_char="4275">pero</TOKEN>
+				<TOKEN id="token-51-27" start_char="4277" end_char="4280">solo</TOKEN>
+				<TOKEN id="token-51-28" start_char="4282" end_char="4283">un</TOKEN>
+				<TOKEN id="token-51-29" start_char="4285" end_char="4288">poco</TOKEN>
+				<TOKEN id="token-51-30" start_char="4290" end_char="4295">tiempo</TOKEN>
+				<TOKEN id="token-51-31" start_char="4297" end_char="4303">después</TOKEN>
+				<TOKEN id="token-51-32" start_char="4305" end_char="4306">de</TOKEN>
+				<TOKEN id="token-51-33" start_char="4308" end_char="4310">que</TOKEN>
+				<TOKEN id="token-51-34" start_char="4312" end_char="4313">un</TOKEN>
+				<TOKEN id="token-51-35" start_char="4315" end_char="4323">infectado</TOKEN>
+				<TOKEN id="token-51-36" start_char="4325" end_char="4334">depositara</TOKEN>
+				<TOKEN id="token-51-37" start_char="4336" end_char="4338">ahí</TOKEN>
+				<TOKEN id="token-51-38" start_char="4340" end_char="4341">el</TOKEN>
+				<TOKEN id="token-51-39" start_char="4343" end_char="4347">virus</TOKEN>
+				<TOKEN id="token-51-40" start_char="4348" end_char="4348">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-52" start_char="4350" end_char="4419">
+				<ORIGINAL_TEXT>Después de este tiempo, el virus muere y no existe riesgo de contagio.</ORIGINAL_TEXT>
+				<TOKEN id="token-52-0" start_char="4350" end_char="4356">Después</TOKEN>
+				<TOKEN id="token-52-1" start_char="4358" end_char="4359">de</TOKEN>
+				<TOKEN id="token-52-2" start_char="4361" end_char="4364">este</TOKEN>
+				<TOKEN id="token-52-3" start_char="4366" end_char="4371">tiempo</TOKEN>
+				<TOKEN id="token-52-4" start_char="4372" end_char="4372">,</TOKEN>
+				<TOKEN id="token-52-5" start_char="4374" end_char="4375">el</TOKEN>
+				<TOKEN id="token-52-6" start_char="4377" end_char="4381">virus</TOKEN>
+				<TOKEN id="token-52-7" start_char="4383" end_char="4387">muere</TOKEN>
+				<TOKEN id="token-52-8" start_char="4389" end_char="4389">y</TOKEN>
+				<TOKEN id="token-52-9" start_char="4391" end_char="4392">no</TOKEN>
+				<TOKEN id="token-52-10" start_char="4394" end_char="4399">existe</TOKEN>
+				<TOKEN id="token-52-11" start_char="4401" end_char="4406">riesgo</TOKEN>
+				<TOKEN id="token-52-12" start_char="4408" end_char="4409">de</TOKEN>
+				<TOKEN id="token-52-13" start_char="4411" end_char="4418">contagio</TOKEN>
+				<TOKEN id="token-52-14" start_char="4419" end_char="4419">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-53" start_char="4421" end_char="4422">
+				<ORIGINAL_TEXT>6.</ORIGINAL_TEXT>
+				<TOKEN id="token-53-0" start_char="4421" end_char="4421">6</TOKEN>
+				<TOKEN id="token-53-1" start_char="4422" end_char="4422">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-54" start_char="4424" end_char="4494">
+				<ORIGINAL_TEXT>“Aplicar aceite de sésamo en la piel y comer ajo previene la infección”</ORIGINAL_TEXT>
+				<TOKEN id="token-54-0" start_char="4424" end_char="4424">“</TOKEN>
+				<TOKEN id="token-54-1" start_char="4425" end_char="4431">Aplicar</TOKEN>
+				<TOKEN id="token-54-2" start_char="4433" end_char="4438">aceite</TOKEN>
+				<TOKEN id="token-54-3" start_char="4440" end_char="4441">de</TOKEN>
+				<TOKEN id="token-54-4" start_char="4443" end_char="4448">sésamo</TOKEN>
+				<TOKEN id="token-54-5" start_char="4450" end_char="4451">en</TOKEN>
+				<TOKEN id="token-54-6" start_char="4453" end_char="4454">la</TOKEN>
+				<TOKEN id="token-54-7" start_char="4456" end_char="4459">piel</TOKEN>
+				<TOKEN id="token-54-8" start_char="4461" end_char="4461">y</TOKEN>
+				<TOKEN id="token-54-9" start_char="4463" end_char="4467">comer</TOKEN>
+				<TOKEN id="token-54-10" start_char="4469" end_char="4471">ajo</TOKEN>
+				<TOKEN id="token-54-11" start_char="4473" end_char="4480">previene</TOKEN>
+				<TOKEN id="token-54-12" start_char="4482" end_char="4483">la</TOKEN>
+				<TOKEN id="token-54-13" start_char="4485" end_char="4493">infección</TOKEN>
+				<TOKEN id="token-54-14" start_char="4494" end_char="4494">”</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-55" start_char="4496" end_char="4512">
+				<ORIGINAL_TEXT>Totalmente falso.</ORIGINAL_TEXT>
+				<TOKEN id="token-55-0" start_char="4496" end_char="4505">Totalmente</TOKEN>
+				<TOKEN id="token-55-1" start_char="4507" end_char="4511">falso</TOKEN>
+				<TOKEN id="token-55-2" start_char="4512" end_char="4512">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-56" start_char="4514" end_char="4636">
+				<ORIGINAL_TEXT>Las leyendas urbanas en torno a la supuesta eficacia del aceite de sésamo y del ajo no tienen ningún fundamento científico.</ORIGINAL_TEXT>
+				<TOKEN id="token-56-0" start_char="4514" end_char="4516">Las</TOKEN>
+				<TOKEN id="token-56-1" start_char="4518" end_char="4525">leyendas</TOKEN>
+				<TOKEN id="token-56-2" start_char="4527" end_char="4533">urbanas</TOKEN>
+				<TOKEN id="token-56-3" start_char="4535" end_char="4536">en</TOKEN>
+				<TOKEN id="token-56-4" start_char="4538" end_char="4542">torno</TOKEN>
+				<TOKEN id="token-56-5" start_char="4544" end_char="4544">a</TOKEN>
+				<TOKEN id="token-56-6" start_char="4546" end_char="4547">la</TOKEN>
+				<TOKEN id="token-56-7" start_char="4549" end_char="4556">supuesta</TOKEN>
+				<TOKEN id="token-56-8" start_char="4558" end_char="4565">eficacia</TOKEN>
+				<TOKEN id="token-56-9" start_char="4567" end_char="4569">del</TOKEN>
+				<TOKEN id="token-56-10" start_char="4571" end_char="4576">aceite</TOKEN>
+				<TOKEN id="token-56-11" start_char="4578" end_char="4579">de</TOKEN>
+				<TOKEN id="token-56-12" start_char="4581" end_char="4586">sésamo</TOKEN>
+				<TOKEN id="token-56-13" start_char="4588" end_char="4588">y</TOKEN>
+				<TOKEN id="token-56-14" start_char="4590" end_char="4592">del</TOKEN>
+				<TOKEN id="token-56-15" start_char="4594" end_char="4596">ajo</TOKEN>
+				<TOKEN id="token-56-16" start_char="4598" end_char="4599">no</TOKEN>
+				<TOKEN id="token-56-17" start_char="4601" end_char="4606">tienen</TOKEN>
+				<TOKEN id="token-56-18" start_char="4608" end_char="4613">ningún</TOKEN>
+				<TOKEN id="token-56-19" start_char="4615" end_char="4624">fundamento</TOKEN>
+				<TOKEN id="token-56-20" start_char="4626" end_char="4635">científico</TOKEN>
+				<TOKEN id="token-56-21" start_char="4636" end_char="4636">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-57" start_char="4638" end_char="4902">
+				<ORIGINAL_TEXT>La única manera de prevenir el contagio es lavarse frecuentemente las manos con agua y jabón, no viajar a zonas en las que se han declarado brotes, usar mascarillas si hay riesgo y respetar las distancias de seguridad con las personas sospechosas de estar enfermas.</ORIGINAL_TEXT>
+				<TOKEN id="token-57-0" start_char="4638" end_char="4639">La</TOKEN>
+				<TOKEN id="token-57-1" start_char="4641" end_char="4645">única</TOKEN>
+				<TOKEN id="token-57-2" start_char="4647" end_char="4652">manera</TOKEN>
+				<TOKEN id="token-57-3" start_char="4654" end_char="4655">de</TOKEN>
+				<TOKEN id="token-57-4" start_char="4657" end_char="4664">prevenir</TOKEN>
+				<TOKEN id="token-57-5" start_char="4666" end_char="4667">el</TOKEN>
+				<TOKEN id="token-57-6" start_char="4669" end_char="4676">contagio</TOKEN>
+				<TOKEN id="token-57-7" start_char="4678" end_char="4679">es</TOKEN>
+				<TOKEN id="token-57-8" start_char="4681" end_char="4687">lavarse</TOKEN>
+				<TOKEN id="token-57-9" start_char="4689" end_char="4702">frecuentemente</TOKEN>
+				<TOKEN id="token-57-10" start_char="4704" end_char="4706">las</TOKEN>
+				<TOKEN id="token-57-11" start_char="4708" end_char="4712">manos</TOKEN>
+				<TOKEN id="token-57-12" start_char="4714" end_char="4716">con</TOKEN>
+				<TOKEN id="token-57-13" start_char="4718" end_char="4721">agua</TOKEN>
+				<TOKEN id="token-57-14" start_char="4723" end_char="4723">y</TOKEN>
+				<TOKEN id="token-57-15" start_char="4725" end_char="4729">jabón</TOKEN>
+				<TOKEN id="token-57-16" start_char="4730" end_char="4730">,</TOKEN>
+				<TOKEN id="token-57-17" start_char="4732" end_char="4733">no</TOKEN>
+				<TOKEN id="token-57-18" start_char="4735" end_char="4740">viajar</TOKEN>
+				<TOKEN id="token-57-19" start_char="4742" end_char="4742">a</TOKEN>
+				<TOKEN id="token-57-20" start_char="4744" end_char="4748">zonas</TOKEN>
+				<TOKEN id="token-57-21" start_char="4750" end_char="4751">en</TOKEN>
+				<TOKEN id="token-57-22" start_char="4753" end_char="4755">las</TOKEN>
+				<TOKEN id="token-57-23" start_char="4757" end_char="4759">que</TOKEN>
+				<TOKEN id="token-57-24" start_char="4761" end_char="4762">se</TOKEN>
+				<TOKEN id="token-57-25" start_char="4764" end_char="4766">han</TOKEN>
+				<TOKEN id="token-57-26" start_char="4768" end_char="4776">declarado</TOKEN>
+				<TOKEN id="token-57-27" start_char="4778" end_char="4783">brotes</TOKEN>
+				<TOKEN id="token-57-28" start_char="4784" end_char="4784">,</TOKEN>
+				<TOKEN id="token-57-29" start_char="4786" end_char="4789">usar</TOKEN>
+				<TOKEN id="token-57-30" start_char="4791" end_char="4801">mascarillas</TOKEN>
+				<TOKEN id="token-57-31" start_char="4803" end_char="4804">si</TOKEN>
+				<TOKEN id="token-57-32" start_char="4806" end_char="4808">hay</TOKEN>
+				<TOKEN id="token-57-33" start_char="4810" end_char="4815">riesgo</TOKEN>
+				<TOKEN id="token-57-34" start_char="4817" end_char="4817">y</TOKEN>
+				<TOKEN id="token-57-35" start_char="4819" end_char="4826">respetar</TOKEN>
+				<TOKEN id="token-57-36" start_char="4828" end_char="4830">las</TOKEN>
+				<TOKEN id="token-57-37" start_char="4832" end_char="4841">distancias</TOKEN>
+				<TOKEN id="token-57-38" start_char="4843" end_char="4844">de</TOKEN>
+				<TOKEN id="token-57-39" start_char="4846" end_char="4854">seguridad</TOKEN>
+				<TOKEN id="token-57-40" start_char="4856" end_char="4858">con</TOKEN>
+				<TOKEN id="token-57-41" start_char="4860" end_char="4862">las</TOKEN>
+				<TOKEN id="token-57-42" start_char="4864" end_char="4871">personas</TOKEN>
+				<TOKEN id="token-57-43" start_char="4873" end_char="4883">sospechosas</TOKEN>
+				<TOKEN id="token-57-44" start_char="4885" end_char="4886">de</TOKEN>
+				<TOKEN id="token-57-45" start_char="4888" end_char="4892">estar</TOKEN>
+				<TOKEN id="token-57-46" start_char="4894" end_char="4901">enfermas</TOKEN>
+				<TOKEN id="token-57-47" start_char="4902" end_char="4902">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-58" start_char="4904" end_char="4914">
+				<ORIGINAL_TEXT>No hay más.</ORIGINAL_TEXT>
+				<TOKEN id="token-58-0" start_char="4904" end_char="4905">No</TOKEN>
+				<TOKEN id="token-58-1" start_char="4907" end_char="4909">hay</TOKEN>
+				<TOKEN id="token-58-2" start_char="4911" end_char="4913">más</TOKEN>
+				<TOKEN id="token-58-3" start_char="4914" end_char="4914">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-59" start_char="4916" end_char="4946">
+				<ORIGINAL_TEXT>No existen remedios milagrosos.</ORIGINAL_TEXT>
+				<TOKEN id="token-59-0" start_char="4916" end_char="4917">No</TOKEN>
+				<TOKEN id="token-59-1" start_char="4919" end_char="4925">existen</TOKEN>
+				<TOKEN id="token-59-2" start_char="4927" end_char="4934">remedios</TOKEN>
+				<TOKEN id="token-59-3" start_char="4936" end_char="4945">milagrosos</TOKEN>
+				<TOKEN id="token-59-4" start_char="4946" end_char="4946">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-60" start_char="4948" end_char="4949">
+				<ORIGINAL_TEXT>7.</ORIGINAL_TEXT>
+				<TOKEN id="token-60-0" start_char="4948" end_char="4948">7</TOKEN>
+				<TOKEN id="token-60-1" start_char="4949" end_char="4949">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-61" start_char="4951" end_char="4995">
+				<ORIGINAL_TEXT>“Los animales de compañía pueden contagiarte”</ORIGINAL_TEXT>
+				<TOKEN id="token-61-0" start_char="4951" end_char="4951">“</TOKEN>
+				<TOKEN id="token-61-1" start_char="4952" end_char="4954">Los</TOKEN>
+				<TOKEN id="token-61-2" start_char="4956" end_char="4963">animales</TOKEN>
+				<TOKEN id="token-61-3" start_char="4965" end_char="4966">de</TOKEN>
+				<TOKEN id="token-61-4" start_char="4968" end_char="4975">compañía</TOKEN>
+				<TOKEN id="token-61-5" start_char="4977" end_char="4982">pueden</TOKEN>
+				<TOKEN id="token-61-6" start_char="4984" end_char="4994">contagiarte</TOKEN>
+				<TOKEN id="token-61-7" start_char="4995" end_char="4995">”</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-62" start_char="4997" end_char="5037">
+				<ORIGINAL_TEXT>No hay pruebas de que esto pueda ocurrir.</ORIGINAL_TEXT>
+				<TOKEN id="token-62-0" start_char="4997" end_char="4998">No</TOKEN>
+				<TOKEN id="token-62-1" start_char="5000" end_char="5002">hay</TOKEN>
+				<TOKEN id="token-62-2" start_char="5004" end_char="5010">pruebas</TOKEN>
+				<TOKEN id="token-62-3" start_char="5012" end_char="5013">de</TOKEN>
+				<TOKEN id="token-62-4" start_char="5015" end_char="5017">que</TOKEN>
+				<TOKEN id="token-62-5" start_char="5019" end_char="5022">esto</TOKEN>
+				<TOKEN id="token-62-6" start_char="5024" end_char="5028">pueda</TOKEN>
+				<TOKEN id="token-62-7" start_char="5030" end_char="5036">ocurrir</TOKEN>
+				<TOKEN id="token-62-8" start_char="5037" end_char="5037">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-63" start_char="5039" end_char="5225">
+				<ORIGINAL_TEXT>A día de hoy, no hay absolutamente ninguna evidencia científica que respalde la idea que los animales de compañía como los perros y los gatos puedan ser vehículo de transmisión del virus.</ORIGINAL_TEXT>
+				<TOKEN id="token-63-0" start_char="5039" end_char="5039">A</TOKEN>
+				<TOKEN id="token-63-1" start_char="5041" end_char="5043">día</TOKEN>
+				<TOKEN id="token-63-2" start_char="5045" end_char="5046">de</TOKEN>
+				<TOKEN id="token-63-3" start_char="5048" end_char="5050">hoy</TOKEN>
+				<TOKEN id="token-63-4" start_char="5051" end_char="5051">,</TOKEN>
+				<TOKEN id="token-63-5" start_char="5053" end_char="5054">no</TOKEN>
+				<TOKEN id="token-63-6" start_char="5056" end_char="5058">hay</TOKEN>
+				<TOKEN id="token-63-7" start_char="5060" end_char="5072">absolutamente</TOKEN>
+				<TOKEN id="token-63-8" start_char="5074" end_char="5080">ninguna</TOKEN>
+				<TOKEN id="token-63-9" start_char="5082" end_char="5090">evidencia</TOKEN>
+				<TOKEN id="token-63-10" start_char="5092" end_char="5101">científica</TOKEN>
+				<TOKEN id="token-63-11" start_char="5103" end_char="5105">que</TOKEN>
+				<TOKEN id="token-63-12" start_char="5107" end_char="5114">respalde</TOKEN>
+				<TOKEN id="token-63-13" start_char="5116" end_char="5117">la</TOKEN>
+				<TOKEN id="token-63-14" start_char="5119" end_char="5122">idea</TOKEN>
+				<TOKEN id="token-63-15" start_char="5124" end_char="5126">que</TOKEN>
+				<TOKEN id="token-63-16" start_char="5128" end_char="5130">los</TOKEN>
+				<TOKEN id="token-63-17" start_char="5132" end_char="5139">animales</TOKEN>
+				<TOKEN id="token-63-18" start_char="5141" end_char="5142">de</TOKEN>
+				<TOKEN id="token-63-19" start_char="5144" end_char="5151">compañía</TOKEN>
+				<TOKEN id="token-63-20" start_char="5153" end_char="5156">como</TOKEN>
+				<TOKEN id="token-63-21" start_char="5158" end_char="5160">los</TOKEN>
+				<TOKEN id="token-63-22" start_char="5162" end_char="5167">perros</TOKEN>
+				<TOKEN id="token-63-23" start_char="5169" end_char="5169">y</TOKEN>
+				<TOKEN id="token-63-24" start_char="5171" end_char="5173">los</TOKEN>
+				<TOKEN id="token-63-25" start_char="5175" end_char="5179">gatos</TOKEN>
+				<TOKEN id="token-63-26" start_char="5181" end_char="5186">puedan</TOKEN>
+				<TOKEN id="token-63-27" start_char="5188" end_char="5190">ser</TOKEN>
+				<TOKEN id="token-63-28" start_char="5192" end_char="5199">vehículo</TOKEN>
+				<TOKEN id="token-63-29" start_char="5201" end_char="5202">de</TOKEN>
+				<TOKEN id="token-63-30" start_char="5204" end_char="5214">transmisión</TOKEN>
+				<TOKEN id="token-63-31" start_char="5216" end_char="5218">del</TOKEN>
+				<TOKEN id="token-63-32" start_char="5220" end_char="5224">virus</TOKEN>
+				<TOKEN id="token-63-33" start_char="5225" end_char="5225">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-64" start_char="5227" end_char="5273">
+				<ORIGINAL_TEXT>Este solo puede propagarse a través de humanos.</ORIGINAL_TEXT>
+				<TOKEN id="token-64-0" start_char="5227" end_char="5230">Este</TOKEN>
+				<TOKEN id="token-64-1" start_char="5232" end_char="5235">solo</TOKEN>
+				<TOKEN id="token-64-2" start_char="5237" end_char="5241">puede</TOKEN>
+				<TOKEN id="token-64-3" start_char="5243" end_char="5252">propagarse</TOKEN>
+				<TOKEN id="token-64-4" start_char="5254" end_char="5254">a</TOKEN>
+				<TOKEN id="token-64-5" start_char="5256" end_char="5261">través</TOKEN>
+				<TOKEN id="token-64-6" start_char="5263" end_char="5264">de</TOKEN>
+				<TOKEN id="token-64-7" start_char="5266" end_char="5272">humanos</TOKEN>
+				<TOKEN id="token-64-8" start_char="5273" end_char="5273">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-65" start_char="5275" end_char="5276">
+				<ORIGINAL_TEXT>8.</ORIGINAL_TEXT>
+				<TOKEN id="token-65-0" start_char="5275" end_char="5275">8</TOKEN>
+				<TOKEN id="token-65-1" start_char="5276" end_char="5276">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-66" start_char="5278" end_char="5321">
+				<ORIGINAL_TEXT>“Las vacunas contra la neumonía te protegen”</ORIGINAL_TEXT>
+				<TOKEN id="token-66-0" start_char="5278" end_char="5278">“</TOKEN>
+				<TOKEN id="token-66-1" start_char="5279" end_char="5281">Las</TOKEN>
+				<TOKEN id="token-66-2" start_char="5283" end_char="5289">vacunas</TOKEN>
+				<TOKEN id="token-66-3" start_char="5291" end_char="5296">contra</TOKEN>
+				<TOKEN id="token-66-4" start_char="5298" end_char="5299">la</TOKEN>
+				<TOKEN id="token-66-5" start_char="5301" end_char="5308">neumonía</TOKEN>
+				<TOKEN id="token-66-6" start_char="5310" end_char="5311">te</TOKEN>
+				<TOKEN id="token-66-7" start_char="5313" end_char="5320">protegen</TOKEN>
+				<TOKEN id="token-66-8" start_char="5321" end_char="5321">”</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-67" start_char="5323" end_char="5328">
+				<ORIGINAL_TEXT>Falso.</ORIGINAL_TEXT>
+				<TOKEN id="token-67-0" start_char="5323" end_char="5327">Falso</TOKEN>
+				<TOKEN id="token-67-1" start_char="5328" end_char="5328">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-68" start_char="5330" end_char="5380">
+				<ORIGINAL_TEXT>Las vacunas son específicas del germen en cuestión.</ORIGINAL_TEXT>
+				<TOKEN id="token-68-0" start_char="5330" end_char="5332">Las</TOKEN>
+				<TOKEN id="token-68-1" start_char="5334" end_char="5340">vacunas</TOKEN>
+				<TOKEN id="token-68-2" start_char="5342" end_char="5344">son</TOKEN>
+				<TOKEN id="token-68-3" start_char="5346" end_char="5356">específicas</TOKEN>
+				<TOKEN id="token-68-4" start_char="5358" end_char="5360">del</TOKEN>
+				<TOKEN id="token-68-5" start_char="5362" end_char="5367">germen</TOKEN>
+				<TOKEN id="token-68-6" start_char="5369" end_char="5370">en</TOKEN>
+				<TOKEN id="token-68-7" start_char="5372" end_char="5379">cuestión</TOKEN>
+				<TOKEN id="token-68-8" start_char="5380" end_char="5380">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-69" start_char="5382" end_char="5505">
+				<ORIGINAL_TEXT>Y a día de hoy no hay ninguna vacuna, aunque se está investigando rápidamente, para prevenir el contagio por el coronavirus.</ORIGINAL_TEXT>
+				<TOKEN id="token-69-0" start_char="5382" end_char="5382">Y</TOKEN>
+				<TOKEN id="token-69-1" start_char="5384" end_char="5384">a</TOKEN>
+				<TOKEN id="token-69-2" start_char="5386" end_char="5388">día</TOKEN>
+				<TOKEN id="token-69-3" start_char="5390" end_char="5391">de</TOKEN>
+				<TOKEN id="token-69-4" start_char="5393" end_char="5395">hoy</TOKEN>
+				<TOKEN id="token-69-5" start_char="5397" end_char="5398">no</TOKEN>
+				<TOKEN id="token-69-6" start_char="5400" end_char="5402">hay</TOKEN>
+				<TOKEN id="token-69-7" start_char="5404" end_char="5410">ninguna</TOKEN>
+				<TOKEN id="token-69-8" start_char="5412" end_char="5417">vacuna</TOKEN>
+				<TOKEN id="token-69-9" start_char="5418" end_char="5418">,</TOKEN>
+				<TOKEN id="token-69-10" start_char="5420" end_char="5425">aunque</TOKEN>
+				<TOKEN id="token-69-11" start_char="5427" end_char="5428">se</TOKEN>
+				<TOKEN id="token-69-12" start_char="5430" end_char="5433">está</TOKEN>
+				<TOKEN id="token-69-13" start_char="5435" end_char="5446">investigando</TOKEN>
+				<TOKEN id="token-69-14" start_char="5448" end_char="5458">rápidamente</TOKEN>
+				<TOKEN id="token-69-15" start_char="5459" end_char="5459">,</TOKEN>
+				<TOKEN id="token-69-16" start_char="5461" end_char="5464">para</TOKEN>
+				<TOKEN id="token-69-17" start_char="5466" end_char="5473">prevenir</TOKEN>
+				<TOKEN id="token-69-18" start_char="5475" end_char="5476">el</TOKEN>
+				<TOKEN id="token-69-19" start_char="5478" end_char="5485">contagio</TOKEN>
+				<TOKEN id="token-69-20" start_char="5487" end_char="5489">por</TOKEN>
+				<TOKEN id="token-69-21" start_char="5491" end_char="5492">el</TOKEN>
+				<TOKEN id="token-69-22" start_char="5494" end_char="5504">coronavirus</TOKEN>
+				<TOKEN id="token-69-23" start_char="5505" end_char="5505">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-70" start_char="5507" end_char="5585">
+				<ORIGINAL_TEXT>Ninguna vacuna que se comercialice actualmente nos protege frente a este virus.</ORIGINAL_TEXT>
+				<TOKEN id="token-70-0" start_char="5507" end_char="5513">Ninguna</TOKEN>
+				<TOKEN id="token-70-1" start_char="5515" end_char="5520">vacuna</TOKEN>
+				<TOKEN id="token-70-2" start_char="5522" end_char="5524">que</TOKEN>
+				<TOKEN id="token-70-3" start_char="5526" end_char="5527">se</TOKEN>
+				<TOKEN id="token-70-4" start_char="5529" end_char="5540">comercialice</TOKEN>
+				<TOKEN id="token-70-5" start_char="5542" end_char="5552">actualmente</TOKEN>
+				<TOKEN id="token-70-6" start_char="5554" end_char="5556">nos</TOKEN>
+				<TOKEN id="token-70-7" start_char="5558" end_char="5564">protege</TOKEN>
+				<TOKEN id="token-70-8" start_char="5566" end_char="5571">frente</TOKEN>
+				<TOKEN id="token-70-9" start_char="5573" end_char="5573">a</TOKEN>
+				<TOKEN id="token-70-10" start_char="5575" end_char="5578">este</TOKEN>
+				<TOKEN id="token-70-11" start_char="5580" end_char="5584">virus</TOKEN>
+				<TOKEN id="token-70-12" start_char="5585" end_char="5585">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-71" start_char="5587" end_char="5588">
+				<ORIGINAL_TEXT>9.</ORIGINAL_TEXT>
+				<TOKEN id="token-71-0" start_char="5587" end_char="5587">9</TOKEN>
+				<TOKEN id="token-71-1" start_char="5588" end_char="5588">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-72" start_char="5590" end_char="5656">
+				<ORIGINAL_TEXT>“Enjuagarse la nariz con una solución salina previene la infección”</ORIGINAL_TEXT>
+				<TOKEN id="token-72-0" start_char="5590" end_char="5590">“</TOKEN>
+				<TOKEN id="token-72-1" start_char="5591" end_char="5600">Enjuagarse</TOKEN>
+				<TOKEN id="token-72-2" start_char="5602" end_char="5603">la</TOKEN>
+				<TOKEN id="token-72-3" start_char="5605" end_char="5609">nariz</TOKEN>
+				<TOKEN id="token-72-4" start_char="5611" end_char="5613">con</TOKEN>
+				<TOKEN id="token-72-5" start_char="5615" end_char="5617">una</TOKEN>
+				<TOKEN id="token-72-6" start_char="5619" end_char="5626">solución</TOKEN>
+				<TOKEN id="token-72-7" start_char="5628" end_char="5633">salina</TOKEN>
+				<TOKEN id="token-72-8" start_char="5635" end_char="5642">previene</TOKEN>
+				<TOKEN id="token-72-9" start_char="5644" end_char="5645">la</TOKEN>
+				<TOKEN id="token-72-10" start_char="5647" end_char="5655">infección</TOKEN>
+				<TOKEN id="token-72-11" start_char="5656" end_char="5656">”</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-73" start_char="5658" end_char="5663">
+				<ORIGINAL_TEXT>Falso.</ORIGINAL_TEXT>
+				<TOKEN id="token-73-0" start_char="5658" end_char="5662">Falso</TOKEN>
+				<TOKEN id="token-73-1" start_char="5663" end_char="5663">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-74" start_char="5665" end_char="5842">
+				<ORIGINAL_TEXT>El origen de este mito es que enjuagarse la nariz con una solución salina puede acelerar la recuperación de un resfriado común, pero en ningún caso previene la infección de este.</ORIGINAL_TEXT>
+				<TOKEN id="token-74-0" start_char="5665" end_char="5666">El</TOKEN>
+				<TOKEN id="token-74-1" start_char="5668" end_char="5673">origen</TOKEN>
+				<TOKEN id="token-74-2" start_char="5675" end_char="5676">de</TOKEN>
+				<TOKEN id="token-74-3" start_char="5678" end_char="5681">este</TOKEN>
+				<TOKEN id="token-74-4" start_char="5683" end_char="5686">mito</TOKEN>
+				<TOKEN id="token-74-5" start_char="5688" end_char="5689">es</TOKEN>
+				<TOKEN id="token-74-6" start_char="5691" end_char="5693">que</TOKEN>
+				<TOKEN id="token-74-7" start_char="5695" end_char="5704">enjuagarse</TOKEN>
+				<TOKEN id="token-74-8" start_char="5706" end_char="5707">la</TOKEN>
+				<TOKEN id="token-74-9" start_char="5709" end_char="5713">nariz</TOKEN>
+				<TOKEN id="token-74-10" start_char="5715" end_char="5717">con</TOKEN>
+				<TOKEN id="token-74-11" start_char="5719" end_char="5721">una</TOKEN>
+				<TOKEN id="token-74-12" start_char="5723" end_char="5730">solución</TOKEN>
+				<TOKEN id="token-74-13" start_char="5732" end_char="5737">salina</TOKEN>
+				<TOKEN id="token-74-14" start_char="5739" end_char="5743">puede</TOKEN>
+				<TOKEN id="token-74-15" start_char="5745" end_char="5752">acelerar</TOKEN>
+				<TOKEN id="token-74-16" start_char="5754" end_char="5755">la</TOKEN>
+				<TOKEN id="token-74-17" start_char="5757" end_char="5768">recuperación</TOKEN>
+				<TOKEN id="token-74-18" start_char="5770" end_char="5771">de</TOKEN>
+				<TOKEN id="token-74-19" start_char="5773" end_char="5774">un</TOKEN>
+				<TOKEN id="token-74-20" start_char="5776" end_char="5784">resfriado</TOKEN>
+				<TOKEN id="token-74-21" start_char="5786" end_char="5790">común</TOKEN>
+				<TOKEN id="token-74-22" start_char="5791" end_char="5791">,</TOKEN>
+				<TOKEN id="token-74-23" start_char="5793" end_char="5796">pero</TOKEN>
+				<TOKEN id="token-74-24" start_char="5798" end_char="5799">en</TOKEN>
+				<TOKEN id="token-74-25" start_char="5801" end_char="5806">ningún</TOKEN>
+				<TOKEN id="token-74-26" start_char="5808" end_char="5811">caso</TOKEN>
+				<TOKEN id="token-74-27" start_char="5813" end_char="5820">previene</TOKEN>
+				<TOKEN id="token-74-28" start_char="5822" end_char="5823">la</TOKEN>
+				<TOKEN id="token-74-29" start_char="5825" end_char="5833">infección</TOKEN>
+				<TOKEN id="token-74-30" start_char="5835" end_char="5836">de</TOKEN>
+				<TOKEN id="token-74-31" start_char="5838" end_char="5841">este</TOKEN>
+				<TOKEN id="token-74-32" start_char="5842" end_char="5842">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-75" start_char="5844" end_char="6030">
+				<ORIGINAL_TEXT>Por lo tanto, si no puede prevenir el contagio de un resfriado común, menos lo hará con el coronavirus, que es un virus que no está en las células de la nariz, sino en la de los pulmones.</ORIGINAL_TEXT>
+				<TOKEN id="token-75-0" start_char="5844" end_char="5846">Por</TOKEN>
+				<TOKEN id="token-75-1" start_char="5848" end_char="5849">lo</TOKEN>
+				<TOKEN id="token-75-2" start_char="5851" end_char="5855">tanto</TOKEN>
+				<TOKEN id="token-75-3" start_char="5856" end_char="5856">,</TOKEN>
+				<TOKEN id="token-75-4" start_char="5858" end_char="5859">si</TOKEN>
+				<TOKEN id="token-75-5" start_char="5861" end_char="5862">no</TOKEN>
+				<TOKEN id="token-75-6" start_char="5864" end_char="5868">puede</TOKEN>
+				<TOKEN id="token-75-7" start_char="5870" end_char="5877">prevenir</TOKEN>
+				<TOKEN id="token-75-8" start_char="5879" end_char="5880">el</TOKEN>
+				<TOKEN id="token-75-9" start_char="5882" end_char="5889">contagio</TOKEN>
+				<TOKEN id="token-75-10" start_char="5891" end_char="5892">de</TOKEN>
+				<TOKEN id="token-75-11" start_char="5894" end_char="5895">un</TOKEN>
+				<TOKEN id="token-75-12" start_char="5897" end_char="5905">resfriado</TOKEN>
+				<TOKEN id="token-75-13" start_char="5907" end_char="5911">común</TOKEN>
+				<TOKEN id="token-75-14" start_char="5912" end_char="5912">,</TOKEN>
+				<TOKEN id="token-75-15" start_char="5914" end_char="5918">menos</TOKEN>
+				<TOKEN id="token-75-16" start_char="5920" end_char="5921">lo</TOKEN>
+				<TOKEN id="token-75-17" start_char="5923" end_char="5926">hará</TOKEN>
+				<TOKEN id="token-75-18" start_char="5928" end_char="5930">con</TOKEN>
+				<TOKEN id="token-75-19" start_char="5932" end_char="5933">el</TOKEN>
+				<TOKEN id="token-75-20" start_char="5935" end_char="5945">coronavirus</TOKEN>
+				<TOKEN id="token-75-21" start_char="5946" end_char="5946">,</TOKEN>
+				<TOKEN id="token-75-22" start_char="5948" end_char="5950">que</TOKEN>
+				<TOKEN id="token-75-23" start_char="5952" end_char="5953">es</TOKEN>
+				<TOKEN id="token-75-24" start_char="5955" end_char="5956">un</TOKEN>
+				<TOKEN id="token-75-25" start_char="5958" end_char="5962">virus</TOKEN>
+				<TOKEN id="token-75-26" start_char="5964" end_char="5966">que</TOKEN>
+				<TOKEN id="token-75-27" start_char="5968" end_char="5969">no</TOKEN>
+				<TOKEN id="token-75-28" start_char="5971" end_char="5974">está</TOKEN>
+				<TOKEN id="token-75-29" start_char="5976" end_char="5977">en</TOKEN>
+				<TOKEN id="token-75-30" start_char="5979" end_char="5981">las</TOKEN>
+				<TOKEN id="token-75-31" start_char="5983" end_char="5989">células</TOKEN>
+				<TOKEN id="token-75-32" start_char="5991" end_char="5992">de</TOKEN>
+				<TOKEN id="token-75-33" start_char="5994" end_char="5995">la</TOKEN>
+				<TOKEN id="token-75-34" start_char="5997" end_char="6001">nariz</TOKEN>
+				<TOKEN id="token-75-35" start_char="6002" end_char="6002">,</TOKEN>
+				<TOKEN id="token-75-36" start_char="6004" end_char="6007">sino</TOKEN>
+				<TOKEN id="token-75-37" start_char="6009" end_char="6010">en</TOKEN>
+				<TOKEN id="token-75-38" start_char="6012" end_char="6013">la</TOKEN>
+				<TOKEN id="token-75-39" start_char="6015" end_char="6016">de</TOKEN>
+				<TOKEN id="token-75-40" start_char="6018" end_char="6020">los</TOKEN>
+				<TOKEN id="token-75-41" start_char="6022" end_char="6029">pulmones</TOKEN>
+				<TOKEN id="token-75-42" start_char="6030" end_char="6030">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-76" start_char="6032" end_char="6034">
+				<ORIGINAL_TEXT>10.</ORIGINAL_TEXT>
+				<TOKEN id="token-76-0" start_char="6032" end_char="6033">10</TOKEN>
+				<TOKEN id="token-76-1" start_char="6034" end_char="6034">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-77" start_char="6036" end_char="6067">
+				<ORIGINAL_TEXT>“La orina de niño mata al virus”</ORIGINAL_TEXT>
+				<TOKEN id="token-77-0" start_char="6036" end_char="6036">“</TOKEN>
+				<TOKEN id="token-77-1" start_char="6037" end_char="6038">La</TOKEN>
+				<TOKEN id="token-77-2" start_char="6040" end_char="6044">orina</TOKEN>
+				<TOKEN id="token-77-3" start_char="6046" end_char="6047">de</TOKEN>
+				<TOKEN id="token-77-4" start_char="6049" end_char="6052">niño</TOKEN>
+				<TOKEN id="token-77-5" start_char="6054" end_char="6057">mata</TOKEN>
+				<TOKEN id="token-77-6" start_char="6059" end_char="6060">al</TOKEN>
+				<TOKEN id="token-77-7" start_char="6062" end_char="6066">virus</TOKEN>
+				<TOKEN id="token-77-8" start_char="6067" end_char="6067">”</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-78" start_char="6069" end_char="6097">
+				<ORIGINAL_TEXT>Evidentemente, esto es falso.</ORIGINAL_TEXT>
+				<TOKEN id="token-78-0" start_char="6069" end_char="6081">Evidentemente</TOKEN>
+				<TOKEN id="token-78-1" start_char="6082" end_char="6082">,</TOKEN>
+				<TOKEN id="token-78-2" start_char="6084" end_char="6087">esto</TOKEN>
+				<TOKEN id="token-78-3" start_char="6089" end_char="6090">es</TOKEN>
+				<TOKEN id="token-78-4" start_char="6092" end_char="6096">falso</TOKEN>
+				<TOKEN id="token-78-5" start_char="6097" end_char="6097">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-79" start_char="6099" end_char="6211">
+				<ORIGINAL_TEXT>Se ha llegado a decir que la orina de niño tiene propiedades viricidas, es decir, que puede matar al coronavirus.</ORIGINAL_TEXT>
+				<TOKEN id="token-79-0" start_char="6099" end_char="6100">Se</TOKEN>
+				<TOKEN id="token-79-1" start_char="6102" end_char="6103">ha</TOKEN>
+				<TOKEN id="token-79-2" start_char="6105" end_char="6111">llegado</TOKEN>
+				<TOKEN id="token-79-3" start_char="6113" end_char="6113">a</TOKEN>
+				<TOKEN id="token-79-4" start_char="6115" end_char="6119">decir</TOKEN>
+				<TOKEN id="token-79-5" start_char="6121" end_char="6123">que</TOKEN>
+				<TOKEN id="token-79-6" start_char="6125" end_char="6126">la</TOKEN>
+				<TOKEN id="token-79-7" start_char="6128" end_char="6132">orina</TOKEN>
+				<TOKEN id="token-79-8" start_char="6134" end_char="6135">de</TOKEN>
+				<TOKEN id="token-79-9" start_char="6137" end_char="6140">niño</TOKEN>
+				<TOKEN id="token-79-10" start_char="6142" end_char="6146">tiene</TOKEN>
+				<TOKEN id="token-79-11" start_char="6148" end_char="6158">propiedades</TOKEN>
+				<TOKEN id="token-79-12" start_char="6160" end_char="6168">viricidas</TOKEN>
+				<TOKEN id="token-79-13" start_char="6169" end_char="6169">,</TOKEN>
+				<TOKEN id="token-79-14" start_char="6171" end_char="6172">es</TOKEN>
+				<TOKEN id="token-79-15" start_char="6174" end_char="6178">decir</TOKEN>
+				<TOKEN id="token-79-16" start_char="6179" end_char="6179">,</TOKEN>
+				<TOKEN id="token-79-17" start_char="6181" end_char="6183">que</TOKEN>
+				<TOKEN id="token-79-18" start_char="6185" end_char="6189">puede</TOKEN>
+				<TOKEN id="token-79-19" start_char="6191" end_char="6195">matar</TOKEN>
+				<TOKEN id="token-79-20" start_char="6197" end_char="6198">al</TOKEN>
+				<TOKEN id="token-79-21" start_char="6200" end_char="6210">coronavirus</TOKEN>
+				<TOKEN id="token-79-22" start_char="6211" end_char="6211">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-80" start_char="6213" end_char="6339">
+				<ORIGINAL_TEXT>Pero esto no tiene ningún fundamento científico y si no hay ningún fármaco capaz de matar a este virus, menos lo hará la orina.</ORIGINAL_TEXT>
+				<TOKEN id="token-80-0" start_char="6213" end_char="6216">Pero</TOKEN>
+				<TOKEN id="token-80-1" start_char="6218" end_char="6221">esto</TOKEN>
+				<TOKEN id="token-80-2" start_char="6223" end_char="6224">no</TOKEN>
+				<TOKEN id="token-80-3" start_char="6226" end_char="6230">tiene</TOKEN>
+				<TOKEN id="token-80-4" start_char="6232" end_char="6237">ningún</TOKEN>
+				<TOKEN id="token-80-5" start_char="6239" end_char="6248">fundamento</TOKEN>
+				<TOKEN id="token-80-6" start_char="6250" end_char="6259">científico</TOKEN>
+				<TOKEN id="token-80-7" start_char="6261" end_char="6261">y</TOKEN>
+				<TOKEN id="token-80-8" start_char="6263" end_char="6264">si</TOKEN>
+				<TOKEN id="token-80-9" start_char="6266" end_char="6267">no</TOKEN>
+				<TOKEN id="token-80-10" start_char="6269" end_char="6271">hay</TOKEN>
+				<TOKEN id="token-80-11" start_char="6273" end_char="6278">ningún</TOKEN>
+				<TOKEN id="token-80-12" start_char="6280" end_char="6286">fármaco</TOKEN>
+				<TOKEN id="token-80-13" start_char="6288" end_char="6292">capaz</TOKEN>
+				<TOKEN id="token-80-14" start_char="6294" end_char="6295">de</TOKEN>
+				<TOKEN id="token-80-15" start_char="6297" end_char="6301">matar</TOKEN>
+				<TOKEN id="token-80-16" start_char="6303" end_char="6303">a</TOKEN>
+				<TOKEN id="token-80-17" start_char="6305" end_char="6308">este</TOKEN>
+				<TOKEN id="token-80-18" start_char="6310" end_char="6314">virus</TOKEN>
+				<TOKEN id="token-80-19" start_char="6315" end_char="6315">,</TOKEN>
+				<TOKEN id="token-80-20" start_char="6317" end_char="6321">menos</TOKEN>
+				<TOKEN id="token-80-21" start_char="6323" end_char="6324">lo</TOKEN>
+				<TOKEN id="token-80-22" start_char="6326" end_char="6329">hará</TOKEN>
+				<TOKEN id="token-80-23" start_char="6331" end_char="6332">la</TOKEN>
+				<TOKEN id="token-80-24" start_char="6334" end_char="6338">orina</TOKEN>
+				<TOKEN id="token-80-25" start_char="6339" end_char="6339">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-81" start_char="6341" end_char="6343">
+				<ORIGINAL_TEXT>11.</ORIGINAL_TEXT>
+				<TOKEN id="token-81-0" start_char="6341" end_char="6342">11</TOKEN>
+				<TOKEN id="token-81-1" start_char="6343" end_char="6343">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-82" start_char="6345" end_char="6383">
+				<ORIGINAL_TEXT>“Los secadores de manos matan al virus”</ORIGINAL_TEXT>
+				<TOKEN id="token-82-0" start_char="6345" end_char="6345">“</TOKEN>
+				<TOKEN id="token-82-1" start_char="6346" end_char="6348">Los</TOKEN>
+				<TOKEN id="token-82-2" start_char="6350" end_char="6358">secadores</TOKEN>
+				<TOKEN id="token-82-3" start_char="6360" end_char="6361">de</TOKEN>
+				<TOKEN id="token-82-4" start_char="6363" end_char="6367">manos</TOKEN>
+				<TOKEN id="token-82-5" start_char="6369" end_char="6373">matan</TOKEN>
+				<TOKEN id="token-82-6" start_char="6375" end_char="6376">al</TOKEN>
+				<TOKEN id="token-82-7" start_char="6378" end_char="6382">virus</TOKEN>
+				<TOKEN id="token-82-8" start_char="6383" end_char="6383">”</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-83" start_char="6385" end_char="6396">
+				<ORIGINAL_TEXT>En absoluto.</ORIGINAL_TEXT>
+				<TOKEN id="token-83-0" start_char="6385" end_char="6386">En</TOKEN>
+				<TOKEN id="token-83-1" start_char="6388" end_char="6395">absoluto</TOKEN>
+				<TOKEN id="token-83-2" start_char="6396" end_char="6396">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-84" start_char="6398" end_char="6532">
+				<ORIGINAL_TEXT>Los secadores de manos pueden ser útiles para la prevención, pues después de lavarse las manos correctamente permiten que queden secas.</ORIGINAL_TEXT>
+				<TOKEN id="token-84-0" start_char="6398" end_char="6400">Los</TOKEN>
+				<TOKEN id="token-84-1" start_char="6402" end_char="6410">secadores</TOKEN>
+				<TOKEN id="token-84-2" start_char="6412" end_char="6413">de</TOKEN>
+				<TOKEN id="token-84-3" start_char="6415" end_char="6419">manos</TOKEN>
+				<TOKEN id="token-84-4" start_char="6421" end_char="6426">pueden</TOKEN>
+				<TOKEN id="token-84-5" start_char="6428" end_char="6430">ser</TOKEN>
+				<TOKEN id="token-84-6" start_char="6432" end_char="6437">útiles</TOKEN>
+				<TOKEN id="token-84-7" start_char="6439" end_char="6442">para</TOKEN>
+				<TOKEN id="token-84-8" start_char="6444" end_char="6445">la</TOKEN>
+				<TOKEN id="token-84-9" start_char="6447" end_char="6456">prevención</TOKEN>
+				<TOKEN id="token-84-10" start_char="6457" end_char="6457">,</TOKEN>
+				<TOKEN id="token-84-11" start_char="6459" end_char="6462">pues</TOKEN>
+				<TOKEN id="token-84-12" start_char="6464" end_char="6470">después</TOKEN>
+				<TOKEN id="token-84-13" start_char="6472" end_char="6473">de</TOKEN>
+				<TOKEN id="token-84-14" start_char="6475" end_char="6481">lavarse</TOKEN>
+				<TOKEN id="token-84-15" start_char="6483" end_char="6485">las</TOKEN>
+				<TOKEN id="token-84-16" start_char="6487" end_char="6491">manos</TOKEN>
+				<TOKEN id="token-84-17" start_char="6493" end_char="6505">correctamente</TOKEN>
+				<TOKEN id="token-84-18" start_char="6507" end_char="6514">permiten</TOKEN>
+				<TOKEN id="token-84-19" start_char="6516" end_char="6518">que</TOKEN>
+				<TOKEN id="token-84-20" start_char="6520" end_char="6525">queden</TOKEN>
+				<TOKEN id="token-84-21" start_char="6527" end_char="6531">secas</TOKEN>
+				<TOKEN id="token-84-22" start_char="6532" end_char="6532">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-85" start_char="6534" end_char="6568">
+				<ORIGINAL_TEXT>Pero en ningún caso matan al virus.</ORIGINAL_TEXT>
+				<TOKEN id="token-85-0" start_char="6534" end_char="6537">Pero</TOKEN>
+				<TOKEN id="token-85-1" start_char="6539" end_char="6540">en</TOKEN>
+				<TOKEN id="token-85-2" start_char="6542" end_char="6547">ningún</TOKEN>
+				<TOKEN id="token-85-3" start_char="6549" end_char="6552">caso</TOKEN>
+				<TOKEN id="token-85-4" start_char="6554" end_char="6558">matan</TOKEN>
+				<TOKEN id="token-85-5" start_char="6560" end_char="6561">al</TOKEN>
+				<TOKEN id="token-85-6" start_char="6563" end_char="6567">virus</TOKEN>
+				<TOKEN id="token-85-7" start_char="6568" end_char="6568">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-86" start_char="6570" end_char="6609">
+				<ORIGINAL_TEXT>El aire caliente no mata al coronavirus.</ORIGINAL_TEXT>
+				<TOKEN id="token-86-0" start_char="6570" end_char="6571">El</TOKEN>
+				<TOKEN id="token-86-1" start_char="6573" end_char="6576">aire</TOKEN>
+				<TOKEN id="token-86-2" start_char="6578" end_char="6585">caliente</TOKEN>
+				<TOKEN id="token-86-3" start_char="6587" end_char="6588">no</TOKEN>
+				<TOKEN id="token-86-4" start_char="6590" end_char="6593">mata</TOKEN>
+				<TOKEN id="token-86-5" start_char="6595" end_char="6596">al</TOKEN>
+				<TOKEN id="token-86-6" start_char="6598" end_char="6608">coronavirus</TOKEN>
+				<TOKEN id="token-86-7" start_char="6609" end_char="6609">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-87" start_char="6611" end_char="6613">
+				<ORIGINAL_TEXT>12.</ORIGINAL_TEXT>
+				<TOKEN id="token-87-0" start_char="6611" end_char="6612">12</TOKEN>
+				<TOKEN id="token-87-1" start_char="6613" end_char="6613">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-88" start_char="6615" end_char="6640">
+				<ORIGINAL_TEXT>“La cocaína mata al virus”</ORIGINAL_TEXT>
+				<TOKEN id="token-88-0" start_char="6615" end_char="6615">“</TOKEN>
+				<TOKEN id="token-88-1" start_char="6616" end_char="6617">La</TOKEN>
+				<TOKEN id="token-88-2" start_char="6619" end_char="6625">cocaína</TOKEN>
+				<TOKEN id="token-88-3" start_char="6627" end_char="6630">mata</TOKEN>
+				<TOKEN id="token-88-4" start_char="6632" end_char="6633">al</TOKEN>
+				<TOKEN id="token-88-5" start_char="6635" end_char="6639">virus</TOKEN>
+				<TOKEN id="token-88-6" start_char="6640" end_char="6640">”</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-89" start_char="6642" end_char="6677">
+				<ORIGINAL_TEXT>Otro de los bulos más descabellados.</ORIGINAL_TEXT>
+				<TOKEN id="token-89-0" start_char="6642" end_char="6645">Otro</TOKEN>
+				<TOKEN id="token-89-1" start_char="6647" end_char="6648">de</TOKEN>
+				<TOKEN id="token-89-2" start_char="6650" end_char="6652">los</TOKEN>
+				<TOKEN id="token-89-3" start_char="6654" end_char="6658">bulos</TOKEN>
+				<TOKEN id="token-89-4" start_char="6660" end_char="6662">más</TOKEN>
+				<TOKEN id="token-89-5" start_char="6664" end_char="6676">descabellados</TOKEN>
+				<TOKEN id="token-89-6" start_char="6677" end_char="6677">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-90" start_char="6679" end_char="6728">
+				<ORIGINAL_TEXT>Evidentemente, la cocaína no puede matar al virus.</ORIGINAL_TEXT>
+				<TOKEN id="token-90-0" start_char="6679" end_char="6691">Evidentemente</TOKEN>
+				<TOKEN id="token-90-1" start_char="6692" end_char="6692">,</TOKEN>
+				<TOKEN id="token-90-2" start_char="6694" end_char="6695">la</TOKEN>
+				<TOKEN id="token-90-3" start_char="6697" end_char="6703">cocaína</TOKEN>
+				<TOKEN id="token-90-4" start_char="6705" end_char="6706">no</TOKEN>
+				<TOKEN id="token-90-5" start_char="6708" end_char="6712">puede</TOKEN>
+				<TOKEN id="token-90-6" start_char="6714" end_char="6718">matar</TOKEN>
+				<TOKEN id="token-90-7" start_char="6720" end_char="6721">al</TOKEN>
+				<TOKEN id="token-90-8" start_char="6723" end_char="6727">virus</TOKEN>
+				<TOKEN id="token-90-9" start_char="6728" end_char="6728">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-91" start_char="6730" end_char="6827">
+				<ORIGINAL_TEXT>No tiene ninguna propiedad que permita eliminar el virus de nuestro cuerpo o prevenir su contagio.</ORIGINAL_TEXT>
+				<TOKEN id="token-91-0" start_char="6730" end_char="6731">No</TOKEN>
+				<TOKEN id="token-91-1" start_char="6733" end_char="6737">tiene</TOKEN>
+				<TOKEN id="token-91-2" start_char="6739" end_char="6745">ninguna</TOKEN>
+				<TOKEN id="token-91-3" start_char="6747" end_char="6755">propiedad</TOKEN>
+				<TOKEN id="token-91-4" start_char="6757" end_char="6759">que</TOKEN>
+				<TOKEN id="token-91-5" start_char="6761" end_char="6767">permita</TOKEN>
+				<TOKEN id="token-91-6" start_char="6769" end_char="6776">eliminar</TOKEN>
+				<TOKEN id="token-91-7" start_char="6778" end_char="6779">el</TOKEN>
+				<TOKEN id="token-91-8" start_char="6781" end_char="6785">virus</TOKEN>
+				<TOKEN id="token-91-9" start_char="6787" end_char="6788">de</TOKEN>
+				<TOKEN id="token-91-10" start_char="6790" end_char="6796">nuestro</TOKEN>
+				<TOKEN id="token-91-11" start_char="6798" end_char="6803">cuerpo</TOKEN>
+				<TOKEN id="token-91-12" start_char="6805" end_char="6805">o</TOKEN>
+				<TOKEN id="token-91-13" start_char="6807" end_char="6814">prevenir</TOKEN>
+				<TOKEN id="token-91-14" start_char="6816" end_char="6817">su</TOKEN>
+				<TOKEN id="token-91-15" start_char="6819" end_char="6826">contagio</TOKEN>
+				<TOKEN id="token-91-16" start_char="6827" end_char="6827">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-92" start_char="6829" end_char="6978">
+				<ORIGINAL_TEXT>Seguramente esto se trataba de una broma que ha circulado por Internet, aunque la OMS haya tenido que intervenir para que no fuera tomada como cierta.</ORIGINAL_TEXT>
+				<TOKEN id="token-92-0" start_char="6829" end_char="6839">Seguramente</TOKEN>
+				<TOKEN id="token-92-1" start_char="6841" end_char="6844">esto</TOKEN>
+				<TOKEN id="token-92-2" start_char="6846" end_char="6847">se</TOKEN>
+				<TOKEN id="token-92-3" start_char="6849" end_char="6855">trataba</TOKEN>
+				<TOKEN id="token-92-4" start_char="6857" end_char="6858">de</TOKEN>
+				<TOKEN id="token-92-5" start_char="6860" end_char="6862">una</TOKEN>
+				<TOKEN id="token-92-6" start_char="6864" end_char="6868">broma</TOKEN>
+				<TOKEN id="token-92-7" start_char="6870" end_char="6872">que</TOKEN>
+				<TOKEN id="token-92-8" start_char="6874" end_char="6875">ha</TOKEN>
+				<TOKEN id="token-92-9" start_char="6877" end_char="6885">circulado</TOKEN>
+				<TOKEN id="token-92-10" start_char="6887" end_char="6889">por</TOKEN>
+				<TOKEN id="token-92-11" start_char="6891" end_char="6898">Internet</TOKEN>
+				<TOKEN id="token-92-12" start_char="6899" end_char="6899">,</TOKEN>
+				<TOKEN id="token-92-13" start_char="6901" end_char="6906">aunque</TOKEN>
+				<TOKEN id="token-92-14" start_char="6908" end_char="6909">la</TOKEN>
+				<TOKEN id="token-92-15" start_char="6911" end_char="6913">OMS</TOKEN>
+				<TOKEN id="token-92-16" start_char="6915" end_char="6918">haya</TOKEN>
+				<TOKEN id="token-92-17" start_char="6920" end_char="6925">tenido</TOKEN>
+				<TOKEN id="token-92-18" start_char="6927" end_char="6929">que</TOKEN>
+				<TOKEN id="token-92-19" start_char="6931" end_char="6940">intervenir</TOKEN>
+				<TOKEN id="token-92-20" start_char="6942" end_char="6945">para</TOKEN>
+				<TOKEN id="token-92-21" start_char="6947" end_char="6949">que</TOKEN>
+				<TOKEN id="token-92-22" start_char="6951" end_char="6952">no</TOKEN>
+				<TOKEN id="token-92-23" start_char="6954" end_char="6958">fuera</TOKEN>
+				<TOKEN id="token-92-24" start_char="6960" end_char="6965">tomada</TOKEN>
+				<TOKEN id="token-92-25" start_char="6967" end_char="6970">como</TOKEN>
+				<TOKEN id="token-92-26" start_char="6972" end_char="6977">cierta</TOKEN>
+				<TOKEN id="token-92-27" start_char="6978" end_char="6978">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-93" start_char="6980" end_char="6982">
+				<ORIGINAL_TEXT>13.</ORIGINAL_TEXT>
+				<TOKEN id="token-93-0" start_char="6980" end_char="6981">13</TOKEN>
+				<TOKEN id="token-93-1" start_char="6982" end_char="6982">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-94" start_char="6984" end_char="7018">
+				<ORIGINAL_TEXT>“El frío y la nieve matan al virus”</ORIGINAL_TEXT>
+				<TOKEN id="token-94-0" start_char="6984" end_char="6984">“</TOKEN>
+				<TOKEN id="token-94-1" start_char="6985" end_char="6986">El</TOKEN>
+				<TOKEN id="token-94-2" start_char="6988" end_char="6991">frío</TOKEN>
+				<TOKEN id="token-94-3" start_char="6993" end_char="6993">y</TOKEN>
+				<TOKEN id="token-94-4" start_char="6995" end_char="6996">la</TOKEN>
+				<TOKEN id="token-94-5" start_char="6998" end_char="7002">nieve</TOKEN>
+				<TOKEN id="token-94-6" start_char="7004" end_char="7008">matan</TOKEN>
+				<TOKEN id="token-94-7" start_char="7010" end_char="7011">al</TOKEN>
+				<TOKEN id="token-94-8" start_char="7013" end_char="7017">virus</TOKEN>
+				<TOKEN id="token-94-9" start_char="7018" end_char="7018">”</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-95" start_char="7020" end_char="7022">
+				<ORIGINAL_TEXT>No.</ORIGINAL_TEXT>
+				<TOKEN id="token-95-0" start_char="7020" end_char="7021">No</TOKEN>
+				<TOKEN id="token-95-1" start_char="7022" end_char="7022">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-96" start_char="7024" end_char="7093">
+				<ORIGINAL_TEXT>Los virus son una de las estructuras más resistentes de la naturaleza.</ORIGINAL_TEXT>
+				<TOKEN id="token-96-0" start_char="7024" end_char="7026">Los</TOKEN>
+				<TOKEN id="token-96-1" start_char="7028" end_char="7032">virus</TOKEN>
+				<TOKEN id="token-96-2" start_char="7034" end_char="7036">son</TOKEN>
+				<TOKEN id="token-96-3" start_char="7038" end_char="7040">una</TOKEN>
+				<TOKEN id="token-96-4" start_char="7042" end_char="7043">de</TOKEN>
+				<TOKEN id="token-96-5" start_char="7045" end_char="7047">las</TOKEN>
+				<TOKEN id="token-96-6" start_char="7049" end_char="7059">estructuras</TOKEN>
+				<TOKEN id="token-96-7" start_char="7061" end_char="7063">más</TOKEN>
+				<TOKEN id="token-96-8" start_char="7065" end_char="7075">resistentes</TOKEN>
+				<TOKEN id="token-96-9" start_char="7077" end_char="7078">de</TOKEN>
+				<TOKEN id="token-96-10" start_char="7080" end_char="7081">la</TOKEN>
+				<TOKEN id="token-96-11" start_char="7083" end_char="7092">naturaleza</TOKEN>
+				<TOKEN id="token-96-12" start_char="7093" end_char="7093">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-97" start_char="7095" end_char="7137">
+				<ORIGINAL_TEXT>El frío no tiene ningún efecto sobre ellos.</ORIGINAL_TEXT>
+				<TOKEN id="token-97-0" start_char="7095" end_char="7096">El</TOKEN>
+				<TOKEN id="token-97-1" start_char="7098" end_char="7101">frío</TOKEN>
+				<TOKEN id="token-97-2" start_char="7103" end_char="7104">no</TOKEN>
+				<TOKEN id="token-97-3" start_char="7106" end_char="7110">tiene</TOKEN>
+				<TOKEN id="token-97-4" start_char="7112" end_char="7117">ningún</TOKEN>
+				<TOKEN id="token-97-5" start_char="7119" end_char="7124">efecto</TOKEN>
+				<TOKEN id="token-97-6" start_char="7126" end_char="7130">sobre</TOKEN>
+				<TOKEN id="token-97-7" start_char="7132" end_char="7136">ellos</TOKEN>
+				<TOKEN id="token-97-8" start_char="7137" end_char="7137">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-98" start_char="7139" end_char="7300">
+				<ORIGINAL_TEXT>Es más, si tiene alguno es el de potenciar su desarrollo, pues los virus respiratorios aprovechan el descenso de las temperaturas para incrementar su transmisión.</ORIGINAL_TEXT>
+				<TOKEN id="token-98-0" start_char="7139" end_char="7140">Es</TOKEN>
+				<TOKEN id="token-98-1" start_char="7142" end_char="7144">más</TOKEN>
+				<TOKEN id="token-98-2" start_char="7145" end_char="7145">,</TOKEN>
+				<TOKEN id="token-98-3" start_char="7147" end_char="7148">si</TOKEN>
+				<TOKEN id="token-98-4" start_char="7150" end_char="7154">tiene</TOKEN>
+				<TOKEN id="token-98-5" start_char="7156" end_char="7161">alguno</TOKEN>
+				<TOKEN id="token-98-6" start_char="7163" end_char="7164">es</TOKEN>
+				<TOKEN id="token-98-7" start_char="7166" end_char="7167">el</TOKEN>
+				<TOKEN id="token-98-8" start_char="7169" end_char="7170">de</TOKEN>
+				<TOKEN id="token-98-9" start_char="7172" end_char="7180">potenciar</TOKEN>
+				<TOKEN id="token-98-10" start_char="7182" end_char="7183">su</TOKEN>
+				<TOKEN id="token-98-11" start_char="7185" end_char="7194">desarrollo</TOKEN>
+				<TOKEN id="token-98-12" start_char="7195" end_char="7195">,</TOKEN>
+				<TOKEN id="token-98-13" start_char="7197" end_char="7200">pues</TOKEN>
+				<TOKEN id="token-98-14" start_char="7202" end_char="7204">los</TOKEN>
+				<TOKEN id="token-98-15" start_char="7206" end_char="7210">virus</TOKEN>
+				<TOKEN id="token-98-16" start_char="7212" end_char="7224">respiratorios</TOKEN>
+				<TOKEN id="token-98-17" start_char="7226" end_char="7235">aprovechan</TOKEN>
+				<TOKEN id="token-98-18" start_char="7237" end_char="7238">el</TOKEN>
+				<TOKEN id="token-98-19" start_char="7240" end_char="7247">descenso</TOKEN>
+				<TOKEN id="token-98-20" start_char="7249" end_char="7250">de</TOKEN>
+				<TOKEN id="token-98-21" start_char="7252" end_char="7254">las</TOKEN>
+				<TOKEN id="token-98-22" start_char="7256" end_char="7267">temperaturas</TOKEN>
+				<TOKEN id="token-98-23" start_char="7269" end_char="7272">para</TOKEN>
+				<TOKEN id="token-98-24" start_char="7274" end_char="7284">incrementar</TOKEN>
+				<TOKEN id="token-98-25" start_char="7286" end_char="7287">su</TOKEN>
+				<TOKEN id="token-98-26" start_char="7289" end_char="7299">transmisión</TOKEN>
+				<TOKEN id="token-98-27" start_char="7300" end_char="7300">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-99" start_char="7302" end_char="7304">
+				<ORIGINAL_TEXT>14.</ORIGINAL_TEXT>
+				<TOKEN id="token-99-0" start_char="7302" end_char="7303">14</TOKEN>
+				<TOKEN id="token-99-1" start_char="7304" end_char="7304">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-100" start_char="7306" end_char="7349">
+				<ORIGINAL_TEXT>“Rociar el cuerpo con alcohol mata al virus”</ORIGINAL_TEXT>
+				<TOKEN id="token-100-0" start_char="7306" end_char="7306">“</TOKEN>
+				<TOKEN id="token-100-1" start_char="7307" end_char="7312">Rociar</TOKEN>
+				<TOKEN id="token-100-2" start_char="7314" end_char="7315">el</TOKEN>
+				<TOKEN id="token-100-3" start_char="7317" end_char="7322">cuerpo</TOKEN>
+				<TOKEN id="token-100-4" start_char="7324" end_char="7326">con</TOKEN>
+				<TOKEN id="token-100-5" start_char="7328" end_char="7334">alcohol</TOKEN>
+				<TOKEN id="token-100-6" start_char="7336" end_char="7339">mata</TOKEN>
+				<TOKEN id="token-100-7" start_char="7341" end_char="7342">al</TOKEN>
+				<TOKEN id="token-100-8" start_char="7344" end_char="7348">virus</TOKEN>
+				<TOKEN id="token-100-9" start_char="7349" end_char="7349">”</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-101" start_char="7351" end_char="7353">
+				<ORIGINAL_TEXT>No.</ORIGINAL_TEXT>
+				<TOKEN id="token-101-0" start_char="7351" end_char="7352">No</TOKEN>
+				<TOKEN id="token-101-1" start_char="7353" end_char="7353">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-102" start_char="7355" end_char="7436">
+				<ORIGINAL_TEXT>El alcohol tiene muchas propiedades antimicrobianas, es decir, de matar bacterias.</ORIGINAL_TEXT>
+				<TOKEN id="token-102-0" start_char="7355" end_char="7356">El</TOKEN>
+				<TOKEN id="token-102-1" start_char="7358" end_char="7364">alcohol</TOKEN>
+				<TOKEN id="token-102-2" start_char="7366" end_char="7370">tiene</TOKEN>
+				<TOKEN id="token-102-3" start_char="7372" end_char="7377">muchas</TOKEN>
+				<TOKEN id="token-102-4" start_char="7379" end_char="7389">propiedades</TOKEN>
+				<TOKEN id="token-102-5" start_char="7391" end_char="7405">antimicrobianas</TOKEN>
+				<TOKEN id="token-102-6" start_char="7406" end_char="7406">,</TOKEN>
+				<TOKEN id="token-102-7" start_char="7408" end_char="7409">es</TOKEN>
+				<TOKEN id="token-102-8" start_char="7411" end_char="7415">decir</TOKEN>
+				<TOKEN id="token-102-9" start_char="7416" end_char="7416">,</TOKEN>
+				<TOKEN id="token-102-10" start_char="7418" end_char="7419">de</TOKEN>
+				<TOKEN id="token-102-11" start_char="7421" end_char="7425">matar</TOKEN>
+				<TOKEN id="token-102-12" start_char="7427" end_char="7435">bacterias</TOKEN>
+				<TOKEN id="token-102-13" start_char="7436" end_char="7436">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-103" start_char="7438" end_char="7585">
+				<ORIGINAL_TEXT>Pero el virus se encuentra en el interior de nuestro cuerpo, por lo que rociar el cuerpo de alcohol no va a tener absolutamente ningún efecto en él.</ORIGINAL_TEXT>
+				<TOKEN id="token-103-0" start_char="7438" end_char="7441">Pero</TOKEN>
+				<TOKEN id="token-103-1" start_char="7443" end_char="7444">el</TOKEN>
+				<TOKEN id="token-103-2" start_char="7446" end_char="7450">virus</TOKEN>
+				<TOKEN id="token-103-3" start_char="7452" end_char="7453">se</TOKEN>
+				<TOKEN id="token-103-4" start_char="7455" end_char="7463">encuentra</TOKEN>
+				<TOKEN id="token-103-5" start_char="7465" end_char="7466">en</TOKEN>
+				<TOKEN id="token-103-6" start_char="7468" end_char="7469">el</TOKEN>
+				<TOKEN id="token-103-7" start_char="7471" end_char="7478">interior</TOKEN>
+				<TOKEN id="token-103-8" start_char="7480" end_char="7481">de</TOKEN>
+				<TOKEN id="token-103-9" start_char="7483" end_char="7489">nuestro</TOKEN>
+				<TOKEN id="token-103-10" start_char="7491" end_char="7496">cuerpo</TOKEN>
+				<TOKEN id="token-103-11" start_char="7497" end_char="7497">,</TOKEN>
+				<TOKEN id="token-103-12" start_char="7499" end_char="7501">por</TOKEN>
+				<TOKEN id="token-103-13" start_char="7503" end_char="7504">lo</TOKEN>
+				<TOKEN id="token-103-14" start_char="7506" end_char="7508">que</TOKEN>
+				<TOKEN id="token-103-15" start_char="7510" end_char="7515">rociar</TOKEN>
+				<TOKEN id="token-103-16" start_char="7517" end_char="7518">el</TOKEN>
+				<TOKEN id="token-103-17" start_char="7520" end_char="7525">cuerpo</TOKEN>
+				<TOKEN id="token-103-18" start_char="7527" end_char="7528">de</TOKEN>
+				<TOKEN id="token-103-19" start_char="7530" end_char="7536">alcohol</TOKEN>
+				<TOKEN id="token-103-20" start_char="7538" end_char="7539">no</TOKEN>
+				<TOKEN id="token-103-21" start_char="7541" end_char="7542">va</TOKEN>
+				<TOKEN id="token-103-22" start_char="7544" end_char="7544">a</TOKEN>
+				<TOKEN id="token-103-23" start_char="7546" end_char="7550">tener</TOKEN>
+				<TOKEN id="token-103-24" start_char="7552" end_char="7564">absolutamente</TOKEN>
+				<TOKEN id="token-103-25" start_char="7566" end_char="7571">ningún</TOKEN>
+				<TOKEN id="token-103-26" start_char="7573" end_char="7578">efecto</TOKEN>
+				<TOKEN id="token-103-27" start_char="7580" end_char="7581">en</TOKEN>
+				<TOKEN id="token-103-28" start_char="7583" end_char="7584">él</TOKEN>
+				<TOKEN id="token-103-29" start_char="7585" end_char="7585">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-104" start_char="7587" end_char="7704">
+				<ORIGINAL_TEXT>Es más, hacerlo va a dañar enormemente la microbiota de tu piel y te hará susceptible de enfermar por otros patógenos.</ORIGINAL_TEXT>
+				<TOKEN id="token-104-0" start_char="7587" end_char="7588">Es</TOKEN>
+				<TOKEN id="token-104-1" start_char="7590" end_char="7592">más</TOKEN>
+				<TOKEN id="token-104-2" start_char="7593" end_char="7593">,</TOKEN>
+				<TOKEN id="token-104-3" start_char="7595" end_char="7601">hacerlo</TOKEN>
+				<TOKEN id="token-104-4" start_char="7603" end_char="7604">va</TOKEN>
+				<TOKEN id="token-104-5" start_char="7606" end_char="7606">a</TOKEN>
+				<TOKEN id="token-104-6" start_char="7608" end_char="7612">dañar</TOKEN>
+				<TOKEN id="token-104-7" start_char="7614" end_char="7624">enormemente</TOKEN>
+				<TOKEN id="token-104-8" start_char="7626" end_char="7627">la</TOKEN>
+				<TOKEN id="token-104-9" start_char="7629" end_char="7638">microbiota</TOKEN>
+				<TOKEN id="token-104-10" start_char="7640" end_char="7641">de</TOKEN>
+				<TOKEN id="token-104-11" start_char="7643" end_char="7644">tu</TOKEN>
+				<TOKEN id="token-104-12" start_char="7646" end_char="7649">piel</TOKEN>
+				<TOKEN id="token-104-13" start_char="7651" end_char="7651">y</TOKEN>
+				<TOKEN id="token-104-14" start_char="7653" end_char="7654">te</TOKEN>
+				<TOKEN id="token-104-15" start_char="7656" end_char="7659">hará</TOKEN>
+				<TOKEN id="token-104-16" start_char="7661" end_char="7671">susceptible</TOKEN>
+				<TOKEN id="token-104-17" start_char="7673" end_char="7674">de</TOKEN>
+				<TOKEN id="token-104-18" start_char="7676" end_char="7683">enfermar</TOKEN>
+				<TOKEN id="token-104-19" start_char="7685" end_char="7687">por</TOKEN>
+				<TOKEN id="token-104-20" start_char="7689" end_char="7693">otros</TOKEN>
+				<TOKEN id="token-104-21" start_char="7695" end_char="7703">patógenos</TOKEN>
+				<TOKEN id="token-104-22" start_char="7704" end_char="7704">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-105" start_char="7706" end_char="7708">
+				<ORIGINAL_TEXT>15.</ORIGINAL_TEXT>
+				<TOKEN id="token-105-0" start_char="7706" end_char="7707">15</TOKEN>
+				<TOKEN id="token-105-1" start_char="7708" end_char="7708">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-106" start_char="7710" end_char="7746">
+				<ORIGINAL_TEXT>“Las mascarillas pueden reutilizarse”</ORIGINAL_TEXT>
+				<TOKEN id="token-106-0" start_char="7710" end_char="7710">“</TOKEN>
+				<TOKEN id="token-106-1" start_char="7711" end_char="7713">Las</TOKEN>
+				<TOKEN id="token-106-2" start_char="7715" end_char="7725">mascarillas</TOKEN>
+				<TOKEN id="token-106-3" start_char="7727" end_char="7732">pueden</TOKEN>
+				<TOKEN id="token-106-4" start_char="7734" end_char="7745">reutilizarse</TOKEN>
+				<TOKEN id="token-106-5" start_char="7746" end_char="7746">”</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-107" start_char="7748" end_char="7750">
+				<ORIGINAL_TEXT>No.</ORIGINAL_TEXT>
+				<TOKEN id="token-107-0" start_char="7748" end_char="7749">No</TOKEN>
+				<TOKEN id="token-107-1" start_char="7750" end_char="7750">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-108" start_char="7752" end_char="7790">
+				<ORIGINAL_TEXT>Las mascarillas no pueden reutilizarse.</ORIGINAL_TEXT>
+				<TOKEN id="token-108-0" start_char="7752" end_char="7754">Las</TOKEN>
+				<TOKEN id="token-108-1" start_char="7756" end_char="7766">mascarillas</TOKEN>
+				<TOKEN id="token-108-2" start_char="7768" end_char="7769">no</TOKEN>
+				<TOKEN id="token-108-3" start_char="7771" end_char="7776">pueden</TOKEN>
+				<TOKEN id="token-108-4" start_char="7778" end_char="7789">reutilizarse</TOKEN>
+				<TOKEN id="token-108-5" start_char="7790" end_char="7790">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-109" start_char="7792" end_char="7954">
+				<ORIGINAL_TEXT>Si se cree que hay riesgo de haber entrado en contacto con una persona enferma, hay que deshacerse de la mascarilla sin tocar la parte frontal y usar una de nueva.</ORIGINAL_TEXT>
+				<TOKEN id="token-109-0" start_char="7792" end_char="7793">Si</TOKEN>
+				<TOKEN id="token-109-1" start_char="7795" end_char="7796">se</TOKEN>
+				<TOKEN id="token-109-2" start_char="7798" end_char="7801">cree</TOKEN>
+				<TOKEN id="token-109-3" start_char="7803" end_char="7805">que</TOKEN>
+				<TOKEN id="token-109-4" start_char="7807" end_char="7809">hay</TOKEN>
+				<TOKEN id="token-109-5" start_char="7811" end_char="7816">riesgo</TOKEN>
+				<TOKEN id="token-109-6" start_char="7818" end_char="7819">de</TOKEN>
+				<TOKEN id="token-109-7" start_char="7821" end_char="7825">haber</TOKEN>
+				<TOKEN id="token-109-8" start_char="7827" end_char="7833">entrado</TOKEN>
+				<TOKEN id="token-109-9" start_char="7835" end_char="7836">en</TOKEN>
+				<TOKEN id="token-109-10" start_char="7838" end_char="7845">contacto</TOKEN>
+				<TOKEN id="token-109-11" start_char="7847" end_char="7849">con</TOKEN>
+				<TOKEN id="token-109-12" start_char="7851" end_char="7853">una</TOKEN>
+				<TOKEN id="token-109-13" start_char="7855" end_char="7861">persona</TOKEN>
+				<TOKEN id="token-109-14" start_char="7863" end_char="7869">enferma</TOKEN>
+				<TOKEN id="token-109-15" start_char="7870" end_char="7870">,</TOKEN>
+				<TOKEN id="token-109-16" start_char="7872" end_char="7874">hay</TOKEN>
+				<TOKEN id="token-109-17" start_char="7876" end_char="7878">que</TOKEN>
+				<TOKEN id="token-109-18" start_char="7880" end_char="7889">deshacerse</TOKEN>
+				<TOKEN id="token-109-19" start_char="7891" end_char="7892">de</TOKEN>
+				<TOKEN id="token-109-20" start_char="7894" end_char="7895">la</TOKEN>
+				<TOKEN id="token-109-21" start_char="7897" end_char="7906">mascarilla</TOKEN>
+				<TOKEN id="token-109-22" start_char="7908" end_char="7910">sin</TOKEN>
+				<TOKEN id="token-109-23" start_char="7912" end_char="7916">tocar</TOKEN>
+				<TOKEN id="token-109-24" start_char="7918" end_char="7919">la</TOKEN>
+				<TOKEN id="token-109-25" start_char="7921" end_char="7925">parte</TOKEN>
+				<TOKEN id="token-109-26" start_char="7927" end_char="7933">frontal</TOKEN>
+				<TOKEN id="token-109-27" start_char="7935" end_char="7935">y</TOKEN>
+				<TOKEN id="token-109-28" start_char="7937" end_char="7940">usar</TOKEN>
+				<TOKEN id="token-109-29" start_char="7942" end_char="7944">una</TOKEN>
+				<TOKEN id="token-109-30" start_char="7946" end_char="7947">de</TOKEN>
+				<TOKEN id="token-109-31" start_char="7949" end_char="7953">nueva</TOKEN>
+				<TOKEN id="token-109-32" start_char="7954" end_char="7954">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-110" start_char="7956" end_char="8005">
+				<ORIGINAL_TEXT>Limpiarla con alcohol no es garantía de seguridad.</ORIGINAL_TEXT>
+				<TOKEN id="token-110-0" start_char="7956" end_char="7964">Limpiarla</TOKEN>
+				<TOKEN id="token-110-1" start_char="7966" end_char="7968">con</TOKEN>
+				<TOKEN id="token-110-2" start_char="7970" end_char="7976">alcohol</TOKEN>
+				<TOKEN id="token-110-3" start_char="7978" end_char="7979">no</TOKEN>
+				<TOKEN id="token-110-4" start_char="7981" end_char="7982">es</TOKEN>
+				<TOKEN id="token-110-5" start_char="7984" end_char="7991">garantía</TOKEN>
+				<TOKEN id="token-110-6" start_char="7993" end_char="7994">de</TOKEN>
+				<TOKEN id="token-110-7" start_char="7996" end_char="8004">seguridad</TOKEN>
+				<TOKEN id="token-110-8" start_char="8005" end_char="8005">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-111" start_char="8007" end_char="8009">
+				<ORIGINAL_TEXT>16.</ORIGINAL_TEXT>
+				<TOKEN id="token-111-0" start_char="8007" end_char="8008">16</TOKEN>
+				<TOKEN id="token-111-1" start_char="8009" end_char="8009">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-112" start_char="8011" end_char="8053">
+				<ORIGINAL_TEXT>“Hay medicamentos para tratar la infección”</ORIGINAL_TEXT>
+				<TOKEN id="token-112-0" start_char="8011" end_char="8011">“</TOKEN>
+				<TOKEN id="token-112-1" start_char="8012" end_char="8014">Hay</TOKEN>
+				<TOKEN id="token-112-2" start_char="8016" end_char="8027">medicamentos</TOKEN>
+				<TOKEN id="token-112-3" start_char="8029" end_char="8032">para</TOKEN>
+				<TOKEN id="token-112-4" start_char="8034" end_char="8039">tratar</TOKEN>
+				<TOKEN id="token-112-5" start_char="8041" end_char="8042">la</TOKEN>
+				<TOKEN id="token-112-6" start_char="8044" end_char="8052">infección</TOKEN>
+				<TOKEN id="token-112-7" start_char="8053" end_char="8053">”</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-113" start_char="8055" end_char="8057">
+				<ORIGINAL_TEXT>No.</ORIGINAL_TEXT>
+				<TOKEN id="token-113-0" start_char="8055" end_char="8056">No</TOKEN>
+				<TOKEN id="token-113-1" start_char="8057" end_char="8057">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-114" start_char="8059" end_char="8127">
+				<ORIGINAL_TEXT>No hay ningún fármaco que haya demostrado matar al virus eficazmente.</ORIGINAL_TEXT>
+				<TOKEN id="token-114-0" start_char="8059" end_char="8060">No</TOKEN>
+				<TOKEN id="token-114-1" start_char="8062" end_char="8064">hay</TOKEN>
+				<TOKEN id="token-114-2" start_char="8066" end_char="8071">ningún</TOKEN>
+				<TOKEN id="token-114-3" start_char="8073" end_char="8079">fármaco</TOKEN>
+				<TOKEN id="token-114-4" start_char="8081" end_char="8083">que</TOKEN>
+				<TOKEN id="token-114-5" start_char="8085" end_char="8088">haya</TOKEN>
+				<TOKEN id="token-114-6" start_char="8090" end_char="8099">demostrado</TOKEN>
+				<TOKEN id="token-114-7" start_char="8101" end_char="8105">matar</TOKEN>
+				<TOKEN id="token-114-8" start_char="8107" end_char="8108">al</TOKEN>
+				<TOKEN id="token-114-9" start_char="8110" end_char="8114">virus</TOKEN>
+				<TOKEN id="token-114-10" start_char="8116" end_char="8126">eficazmente</TOKEN>
+				<TOKEN id="token-114-11" start_char="8127" end_char="8127">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-115" start_char="8129" end_char="8276">
+				<ORIGINAL_TEXT>Por ello, el tratamiento consiste en dar apoyo médico para aliviar los síntomas que causa el coronavirus hasta que el cuerpo lo elimine por sí solo.</ORIGINAL_TEXT>
+				<TOKEN id="token-115-0" start_char="8129" end_char="8131">Por</TOKEN>
+				<TOKEN id="token-115-1" start_char="8133" end_char="8136">ello</TOKEN>
+				<TOKEN id="token-115-2" start_char="8137" end_char="8137">,</TOKEN>
+				<TOKEN id="token-115-3" start_char="8139" end_char="8140">el</TOKEN>
+				<TOKEN id="token-115-4" start_char="8142" end_char="8152">tratamiento</TOKEN>
+				<TOKEN id="token-115-5" start_char="8154" end_char="8161">consiste</TOKEN>
+				<TOKEN id="token-115-6" start_char="8163" end_char="8164">en</TOKEN>
+				<TOKEN id="token-115-7" start_char="8166" end_char="8168">dar</TOKEN>
+				<TOKEN id="token-115-8" start_char="8170" end_char="8174">apoyo</TOKEN>
+				<TOKEN id="token-115-9" start_char="8176" end_char="8181">médico</TOKEN>
+				<TOKEN id="token-115-10" start_char="8183" end_char="8186">para</TOKEN>
+				<TOKEN id="token-115-11" start_char="8188" end_char="8194">aliviar</TOKEN>
+				<TOKEN id="token-115-12" start_char="8196" end_char="8198">los</TOKEN>
+				<TOKEN id="token-115-13" start_char="8200" end_char="8207">síntomas</TOKEN>
+				<TOKEN id="token-115-14" start_char="8209" end_char="8211">que</TOKEN>
+				<TOKEN id="token-115-15" start_char="8213" end_char="8217">causa</TOKEN>
+				<TOKEN id="token-115-16" start_char="8219" end_char="8220">el</TOKEN>
+				<TOKEN id="token-115-17" start_char="8222" end_char="8232">coronavirus</TOKEN>
+				<TOKEN id="token-115-18" start_char="8234" end_char="8238">hasta</TOKEN>
+				<TOKEN id="token-115-19" start_char="8240" end_char="8242">que</TOKEN>
+				<TOKEN id="token-115-20" start_char="8244" end_char="8245">el</TOKEN>
+				<TOKEN id="token-115-21" start_char="8247" end_char="8252">cuerpo</TOKEN>
+				<TOKEN id="token-115-22" start_char="8254" end_char="8255">lo</TOKEN>
+				<TOKEN id="token-115-23" start_char="8257" end_char="8263">elimine</TOKEN>
+				<TOKEN id="token-115-24" start_char="8265" end_char="8267">por</TOKEN>
+				<TOKEN id="token-115-25" start_char="8269" end_char="8270">sí</TOKEN>
+				<TOKEN id="token-115-26" start_char="8272" end_char="8275">solo</TOKEN>
+				<TOKEN id="token-115-27" start_char="8276" end_char="8276">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-116" start_char="8278" end_char="8339">
+				<ORIGINAL_TEXT>Y es que en la práctica totalidad de los casos, lo va a hacer.</ORIGINAL_TEXT>
+				<TOKEN id="token-116-0" start_char="8278" end_char="8278">Y</TOKEN>
+				<TOKEN id="token-116-1" start_char="8280" end_char="8281">es</TOKEN>
+				<TOKEN id="token-116-2" start_char="8283" end_char="8285">que</TOKEN>
+				<TOKEN id="token-116-3" start_char="8287" end_char="8288">en</TOKEN>
+				<TOKEN id="token-116-4" start_char="8290" end_char="8291">la</TOKEN>
+				<TOKEN id="token-116-5" start_char="8293" end_char="8300">práctica</TOKEN>
+				<TOKEN id="token-116-6" start_char="8302" end_char="8310">totalidad</TOKEN>
+				<TOKEN id="token-116-7" start_char="8312" end_char="8313">de</TOKEN>
+				<TOKEN id="token-116-8" start_char="8315" end_char="8317">los</TOKEN>
+				<TOKEN id="token-116-9" start_char="8319" end_char="8323">casos</TOKEN>
+				<TOKEN id="token-116-10" start_char="8324" end_char="8324">,</TOKEN>
+				<TOKEN id="token-116-11" start_char="8326" end_char="8327">lo</TOKEN>
+				<TOKEN id="token-116-12" start_char="8329" end_char="8330">va</TOKEN>
+				<TOKEN id="token-116-13" start_char="8332" end_char="8332">a</TOKEN>
+				<TOKEN id="token-116-14" start_char="8334" end_char="8338">hacer</TOKEN>
+				<TOKEN id="token-116-15" start_char="8339" end_char="8339">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-117" start_char="8341" end_char="8400">
+				<ORIGINAL_TEXT>Recordemos que su letalidad es muy similar a la de la gripe.</ORIGINAL_TEXT>
+				<TOKEN id="token-117-0" start_char="8341" end_char="8350">Recordemos</TOKEN>
+				<TOKEN id="token-117-1" start_char="8352" end_char="8354">que</TOKEN>
+				<TOKEN id="token-117-2" start_char="8356" end_char="8357">su</TOKEN>
+				<TOKEN id="token-117-3" start_char="8359" end_char="8367">letalidad</TOKEN>
+				<TOKEN id="token-117-4" start_char="8369" end_char="8370">es</TOKEN>
+				<TOKEN id="token-117-5" start_char="8372" end_char="8374">muy</TOKEN>
+				<TOKEN id="token-117-6" start_char="8376" end_char="8382">similar</TOKEN>
+				<TOKEN id="token-117-7" start_char="8384" end_char="8384">a</TOKEN>
+				<TOKEN id="token-117-8" start_char="8386" end_char="8387">la</TOKEN>
+				<TOKEN id="token-117-9" start_char="8389" end_char="8390">de</TOKEN>
+				<TOKEN id="token-117-10" start_char="8392" end_char="8393">la</TOKEN>
+				<TOKEN id="token-117-11" start_char="8395" end_char="8399">gripe</TOKEN>
+				<TOKEN id="token-117-12" start_char="8400" end_char="8400">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-118" start_char="8402" end_char="8439">
+				<ORIGINAL_TEXT>Para la gripe tampoco hay tratamiento.</ORIGINAL_TEXT>
+				<TOKEN id="token-118-0" start_char="8402" end_char="8405">Para</TOKEN>
+				<TOKEN id="token-118-1" start_char="8407" end_char="8408">la</TOKEN>
+				<TOKEN id="token-118-2" start_char="8410" end_char="8414">gripe</TOKEN>
+				<TOKEN id="token-118-3" start_char="8416" end_char="8422">tampoco</TOKEN>
+				<TOKEN id="token-118-4" start_char="8424" end_char="8426">hay</TOKEN>
+				<TOKEN id="token-118-5" start_char="8428" end_char="8438">tratamiento</TOKEN>
+				<TOKEN id="token-118-6" start_char="8439" end_char="8439">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-119" start_char="8441" end_char="8443">
+				<ORIGINAL_TEXT>17.</ORIGINAL_TEXT>
+				<TOKEN id="token-119-0" start_char="8441" end_char="8442">17</TOKEN>
+				<TOKEN id="token-119-1" start_char="8443" end_char="8443">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-120" start_char="8445" end_char="8465">
+				<ORIGINAL_TEXT>“Vamos a morir todos”</ORIGINAL_TEXT>
+				<TOKEN id="token-120-0" start_char="8445" end_char="8445">“</TOKEN>
+				<TOKEN id="token-120-1" start_char="8446" end_char="8450">Vamos</TOKEN>
+				<TOKEN id="token-120-2" start_char="8452" end_char="8452">a</TOKEN>
+				<TOKEN id="token-120-3" start_char="8454" end_char="8458">morir</TOKEN>
+				<TOKEN id="token-120-4" start_char="8460" end_char="8464">todos</TOKEN>
+				<TOKEN id="token-120-5" start_char="8465" end_char="8465">”</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-121" start_char="8467" end_char="8522">
+				<ORIGINAL_TEXT>Pese a que se convirtiera en trending topic mundial, no.</ORIGINAL_TEXT>
+				<TOKEN id="token-121-0" start_char="8467" end_char="8470">Pese</TOKEN>
+				<TOKEN id="token-121-1" start_char="8472" end_char="8472">a</TOKEN>
+				<TOKEN id="token-121-2" start_char="8474" end_char="8476">que</TOKEN>
+				<TOKEN id="token-121-3" start_char="8478" end_char="8479">se</TOKEN>
+				<TOKEN id="token-121-4" start_char="8481" end_char="8491">convirtiera</TOKEN>
+				<TOKEN id="token-121-5" start_char="8493" end_char="8494">en</TOKEN>
+				<TOKEN id="token-121-6" start_char="8496" end_char="8503">trending</TOKEN>
+				<TOKEN id="token-121-7" start_char="8505" end_char="8509">topic</TOKEN>
+				<TOKEN id="token-121-8" start_char="8511" end_char="8517">mundial</TOKEN>
+				<TOKEN id="token-121-9" start_char="8518" end_char="8518">,</TOKEN>
+				<TOKEN id="token-121-10" start_char="8520" end_char="8521">no</TOKEN>
+				<TOKEN id="token-121-11" start_char="8522" end_char="8522">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-122" start_char="8524" end_char="8546">
+				<ORIGINAL_TEXT>No vamos a morir todos.</ORIGINAL_TEXT>
+				<TOKEN id="token-122-0" start_char="8524" end_char="8525">No</TOKEN>
+				<TOKEN id="token-122-1" start_char="8527" end_char="8531">vamos</TOKEN>
+				<TOKEN id="token-122-2" start_char="8533" end_char="8533">a</TOKEN>
+				<TOKEN id="token-122-3" start_char="8535" end_char="8539">morir</TOKEN>
+				<TOKEN id="token-122-4" start_char="8541" end_char="8545">todos</TOKEN>
+				<TOKEN id="token-122-5" start_char="8546" end_char="8546">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-123" start_char="8548" end_char="8619">
+				<ORIGINAL_TEXT>El coronavirus quizás cause una pandemia, y es normal que esto dé miedo.</ORIGINAL_TEXT>
+				<TOKEN id="token-123-0" start_char="8548" end_char="8549">El</TOKEN>
+				<TOKEN id="token-123-1" start_char="8551" end_char="8561">coronavirus</TOKEN>
+				<TOKEN id="token-123-2" start_char="8563" end_char="8568">quizás</TOKEN>
+				<TOKEN id="token-123-3" start_char="8570" end_char="8574">cause</TOKEN>
+				<TOKEN id="token-123-4" start_char="8576" end_char="8578">una</TOKEN>
+				<TOKEN id="token-123-5" start_char="8580" end_char="8587">pandemia</TOKEN>
+				<TOKEN id="token-123-6" start_char="8588" end_char="8588">,</TOKEN>
+				<TOKEN id="token-123-7" start_char="8590" end_char="8590">y</TOKEN>
+				<TOKEN id="token-123-8" start_char="8592" end_char="8593">es</TOKEN>
+				<TOKEN id="token-123-9" start_char="8595" end_char="8600">normal</TOKEN>
+				<TOKEN id="token-123-10" start_char="8602" end_char="8604">que</TOKEN>
+				<TOKEN id="token-123-11" start_char="8606" end_char="8609">esto</TOKEN>
+				<TOKEN id="token-123-12" start_char="8611" end_char="8612">dé</TOKEN>
+				<TOKEN id="token-123-13" start_char="8614" end_char="8618">miedo</TOKEN>
+				<TOKEN id="token-123-14" start_char="8619" end_char="8619">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-124" start_char="8621" end_char="8784">
+				<ORIGINAL_TEXT>Pero es muy importante mantener la calma y no incitar al pánico, pues cada año sufrimos una pandemia de gripe que mata a medio millón de personas y nadie se alarma.</ORIGINAL_TEXT>
+				<TOKEN id="token-124-0" start_char="8621" end_char="8624">Pero</TOKEN>
+				<TOKEN id="token-124-1" start_char="8626" end_char="8627">es</TOKEN>
+				<TOKEN id="token-124-2" start_char="8629" end_char="8631">muy</TOKEN>
+				<TOKEN id="token-124-3" start_char="8633" end_char="8642">importante</TOKEN>
+				<TOKEN id="token-124-4" start_char="8644" end_char="8651">mantener</TOKEN>
+				<TOKEN id="token-124-5" start_char="8653" end_char="8654">la</TOKEN>
+				<TOKEN id="token-124-6" start_char="8656" end_char="8660">calma</TOKEN>
+				<TOKEN id="token-124-7" start_char="8662" end_char="8662">y</TOKEN>
+				<TOKEN id="token-124-8" start_char="8664" end_char="8665">no</TOKEN>
+				<TOKEN id="token-124-9" start_char="8667" end_char="8673">incitar</TOKEN>
+				<TOKEN id="token-124-10" start_char="8675" end_char="8676">al</TOKEN>
+				<TOKEN id="token-124-11" start_char="8678" end_char="8683">pánico</TOKEN>
+				<TOKEN id="token-124-12" start_char="8684" end_char="8684">,</TOKEN>
+				<TOKEN id="token-124-13" start_char="8686" end_char="8689">pues</TOKEN>
+				<TOKEN id="token-124-14" start_char="8691" end_char="8694">cada</TOKEN>
+				<TOKEN id="token-124-15" start_char="8696" end_char="8698">año</TOKEN>
+				<TOKEN id="token-124-16" start_char="8700" end_char="8707">sufrimos</TOKEN>
+				<TOKEN id="token-124-17" start_char="8709" end_char="8711">una</TOKEN>
+				<TOKEN id="token-124-18" start_char="8713" end_char="8720">pandemia</TOKEN>
+				<TOKEN id="token-124-19" start_char="8722" end_char="8723">de</TOKEN>
+				<TOKEN id="token-124-20" start_char="8725" end_char="8729">gripe</TOKEN>
+				<TOKEN id="token-124-21" start_char="8731" end_char="8733">que</TOKEN>
+				<TOKEN id="token-124-22" start_char="8735" end_char="8738">mata</TOKEN>
+				<TOKEN id="token-124-23" start_char="8740" end_char="8740">a</TOKEN>
+				<TOKEN id="token-124-24" start_char="8742" end_char="8746">medio</TOKEN>
+				<TOKEN id="token-124-25" start_char="8748" end_char="8753">millón</TOKEN>
+				<TOKEN id="token-124-26" start_char="8755" end_char="8756">de</TOKEN>
+				<TOKEN id="token-124-27" start_char="8758" end_char="8765">personas</TOKEN>
+				<TOKEN id="token-124-28" start_char="8767" end_char="8767">y</TOKEN>
+				<TOKEN id="token-124-29" start_char="8769" end_char="8773">nadie</TOKEN>
+				<TOKEN id="token-124-30" start_char="8775" end_char="8776">se</TOKEN>
+				<TOKEN id="token-124-31" start_char="8778" end_char="8783">alarma</TOKEN>
+				<TOKEN id="token-124-32" start_char="8784" end_char="8784">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-125" start_char="8786" end_char="8900">
+				<ORIGINAL_TEXT>Igual que pasó con la epidemia de SARS del 2003 o con la más reciente crisis del ébola de 2014, lo vamos a superar.</ORIGINAL_TEXT>
+				<TOKEN id="token-125-0" start_char="8786" end_char="8790">Igual</TOKEN>
+				<TOKEN id="token-125-1" start_char="8792" end_char="8794">que</TOKEN>
+				<TOKEN id="token-125-2" start_char="8796" end_char="8799">pasó</TOKEN>
+				<TOKEN id="token-125-3" start_char="8801" end_char="8803">con</TOKEN>
+				<TOKEN id="token-125-4" start_char="8805" end_char="8806">la</TOKEN>
+				<TOKEN id="token-125-5" start_char="8808" end_char="8815">epidemia</TOKEN>
+				<TOKEN id="token-125-6" start_char="8817" end_char="8818">de</TOKEN>
+				<TOKEN id="token-125-7" start_char="8820" end_char="8823">SARS</TOKEN>
+				<TOKEN id="token-125-8" start_char="8825" end_char="8827">del</TOKEN>
+				<TOKEN id="token-125-9" start_char="8829" end_char="8832">2003</TOKEN>
+				<TOKEN id="token-125-10" start_char="8834" end_char="8834">o</TOKEN>
+				<TOKEN id="token-125-11" start_char="8836" end_char="8838">con</TOKEN>
+				<TOKEN id="token-125-12" start_char="8840" end_char="8841">la</TOKEN>
+				<TOKEN id="token-125-13" start_char="8843" end_char="8845">más</TOKEN>
+				<TOKEN id="token-125-14" start_char="8847" end_char="8854">reciente</TOKEN>
+				<TOKEN id="token-125-15" start_char="8856" end_char="8861">crisis</TOKEN>
+				<TOKEN id="token-125-16" start_char="8863" end_char="8865">del</TOKEN>
+				<TOKEN id="token-125-17" start_char="8867" end_char="8871">ébola</TOKEN>
+				<TOKEN id="token-125-18" start_char="8873" end_char="8874">de</TOKEN>
+				<TOKEN id="token-125-19" start_char="8876" end_char="8879">2014</TOKEN>
+				<TOKEN id="token-125-20" start_char="8880" end_char="8880">,</TOKEN>
+				<TOKEN id="token-125-21" start_char="8882" end_char="8883">lo</TOKEN>
+				<TOKEN id="token-125-22" start_char="8885" end_char="8889">vamos</TOKEN>
+				<TOKEN id="token-125-23" start_char="8891" end_char="8891">a</TOKEN>
+				<TOKEN id="token-125-24" start_char="8893" end_char="8899">superar</TOKEN>
+				<TOKEN id="token-125-25" start_char="8900" end_char="8900">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-126" start_char="8902" end_char="9017">
+				<ORIGINAL_TEXT>Evidentemente es una lástima que se están perdiendo vidas, pero en ningún caso nos va a poner al borde la extinción.</ORIGINAL_TEXT>
+				<TOKEN id="token-126-0" start_char="8902" end_char="8914">Evidentemente</TOKEN>
+				<TOKEN id="token-126-1" start_char="8916" end_char="8917">es</TOKEN>
+				<TOKEN id="token-126-2" start_char="8919" end_char="8921">una</TOKEN>
+				<TOKEN id="token-126-3" start_char="8923" end_char="8929">lástima</TOKEN>
+				<TOKEN id="token-126-4" start_char="8931" end_char="8933">que</TOKEN>
+				<TOKEN id="token-126-5" start_char="8935" end_char="8936">se</TOKEN>
+				<TOKEN id="token-126-6" start_char="8938" end_char="8942">están</TOKEN>
+				<TOKEN id="token-126-7" start_char="8944" end_char="8952">perdiendo</TOKEN>
+				<TOKEN id="token-126-8" start_char="8954" end_char="8958">vidas</TOKEN>
+				<TOKEN id="token-126-9" start_char="8959" end_char="8959">,</TOKEN>
+				<TOKEN id="token-126-10" start_char="8961" end_char="8964">pero</TOKEN>
+				<TOKEN id="token-126-11" start_char="8966" end_char="8967">en</TOKEN>
+				<TOKEN id="token-126-12" start_char="8969" end_char="8974">ningún</TOKEN>
+				<TOKEN id="token-126-13" start_char="8976" end_char="8979">caso</TOKEN>
+				<TOKEN id="token-126-14" start_char="8981" end_char="8983">nos</TOKEN>
+				<TOKEN id="token-126-15" start_char="8985" end_char="8986">va</TOKEN>
+				<TOKEN id="token-126-16" start_char="8988" end_char="8988">a</TOKEN>
+				<TOKEN id="token-126-17" start_char="8990" end_char="8994">poner</TOKEN>
+				<TOKEN id="token-126-18" start_char="8996" end_char="8997">al</TOKEN>
+				<TOKEN id="token-126-19" start_char="8999" end_char="9003">borde</TOKEN>
+				<TOKEN id="token-126-20" start_char="9005" end_char="9006">la</TOKEN>
+				<TOKEN id="token-126-21" start_char="9008" end_char="9016">extinción</TOKEN>
+				<TOKEN id="token-126-22" start_char="9017" end_char="9017">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-127" start_char="9019" end_char="9074">
+				<ORIGINAL_TEXT>Por encima de todo, calma y, en especial, sentido común.</ORIGINAL_TEXT>
+				<TOKEN id="token-127-0" start_char="9019" end_char="9021">Por</TOKEN>
+				<TOKEN id="token-127-1" start_char="9023" end_char="9028">encima</TOKEN>
+				<TOKEN id="token-127-2" start_char="9030" end_char="9031">de</TOKEN>
+				<TOKEN id="token-127-3" start_char="9033" end_char="9036">todo</TOKEN>
+				<TOKEN id="token-127-4" start_char="9037" end_char="9037">,</TOKEN>
+				<TOKEN id="token-127-5" start_char="9039" end_char="9043">calma</TOKEN>
+				<TOKEN id="token-127-6" start_char="9045" end_char="9045">y</TOKEN>
+				<TOKEN id="token-127-7" start_char="9046" end_char="9046">,</TOKEN>
+				<TOKEN id="token-127-8" start_char="9048" end_char="9049">en</TOKEN>
+				<TOKEN id="token-127-9" start_char="9051" end_char="9058">especial</TOKEN>
+				<TOKEN id="token-127-10" start_char="9059" end_char="9059">,</TOKEN>
+				<TOKEN id="token-127-11" start_char="9061" end_char="9067">sentido</TOKEN>
+				<TOKEN id="token-127-12" start_char="9069" end_char="9073">común</TOKEN>
+				<TOKEN id="token-127-13" start_char="9074" end_char="9074">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-209-128" start_char="9076" end_char="9101">
+				<ORIGINAL_TEXT>Referencias bibliográficas</ORIGINAL_TEXT>
+				<TOKEN id="token-128-0" start_char="9076" end_char="9086">Referencias</TOKEN>
+				<TOKEN id="token-128-1" start_char="9088" end_char="9101">bibliográficas</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

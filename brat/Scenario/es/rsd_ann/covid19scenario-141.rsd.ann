@@ -1,0 +1,57 @@
+T1	PER 3 13	secretario
+T2	ORG 17 23	Estado
+T3	GPE 24 38	estadounidense
+T4	PER 39 50	Mike Pompeo
+T5	MHI 142 153	coronavirus
+T6	FAC 171 182	laboratorio
+T7	GPE 186 191	Wuhan
+T8	FAC 193 198	donde
+T9	GPE 219 224	China
+T10	LOC 257 261	allí
+T11	ORG 288 294	cadena
+T12	ORG 295 298	ABC
+T13	GPE 301 306	China
+T14	LOC 341 346	mundo
+T15	FAC 360 372	laboratorios
+T16	LOC 436 441	mundo
+T17	FAC 495 506	laboratorio
+T18	GPE 507 512	chino
+T19	PER 555 562	crítico
+T20	GPE 613 618	China
+T21	PER 620 626	Pompeo
+T22	PER 627 629	se
+T23	PER 716 723	nuestro
+T24	FAC 777 791	laboratorio P4
+T25	ORG 796 827	Instituto de Virología de Wuhan
+T26	GPE 835 844	provincia
+T27	GPE 856 861	Hubei
+T28	GPE 863 868	China
+T29	ORG 886 909	Partido Comunista chino
+T30	LOC 940 945	mundo
+T31	LOC 946 956	occidental
+T32	PER 972 983	científicos
+T33	LOC 988 993	mundo
+T34	PER 1041 1047	Pompeo
+T35	PER 1063 1075	Donald Trump
+T36	GPE 1118 1125	gigante
+T37	LOC 1126 1134	asiático
+T38	PER 1179 1187	millones
+T39	PER 1191 1199	personas
+T40	PER 1218 1225	240.000
+T41	LOC 1229 1233	todo
+T42	LOC 1237 1242	mundo
+T43	PER 1250 1255	Trump
+T44	GPE 1257 1262	Pekín
+T45	GPE 1320 1322	le
+T46	ORG 1334 1336	se
+T47	GPE 1361 1366	China
+T48	GPE 1367 1369	se
+T49	ORG 1397 1406	regimenes
+T50	ORG 1464 1496	Organización Mundial de la Salud
+T51	ORG 1498 1501	OMS
+T52	PER 1559 1563	jefe
+T53	ORG 1570 1580	diplomacia
+T54	GPE 1581 1595	estadounidense
+T55	ORG 1611 1625	Deutsche Welle
+T56	ORG 1632 1639	emisora
+T57	GPE 1657 1665	Alemania

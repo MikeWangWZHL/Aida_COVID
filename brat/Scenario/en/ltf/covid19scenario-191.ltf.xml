@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-191">
+		<TEXT>
+			<SEG id="covid19scenario-191-0" start_char="0" end_char="7">
+				<ORIGINAL_TEXT>Disproof</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="7">Disproof</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-191-1" start_char="9" end_char="147">
+				<ORIGINAL_TEXT>Recurring narrative from the Kremlin and editors of Russian state media claiming that the EEAS did not give any examples of disinformation.</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="9" end_char="17">Recurring</TOKEN>
+				<TOKEN id="token-1-1" start_char="19" end_char="27">narrative</TOKEN>
+				<TOKEN id="token-1-2" start_char="29" end_char="32">from</TOKEN>
+				<TOKEN id="token-1-3" start_char="34" end_char="36">the</TOKEN>
+				<TOKEN id="token-1-4" start_char="38" end_char="44">Kremlin</TOKEN>
+				<TOKEN id="token-1-5" start_char="46" end_char="48">and</TOKEN>
+				<TOKEN id="token-1-6" start_char="50" end_char="56">editors</TOKEN>
+				<TOKEN id="token-1-7" start_char="58" end_char="59">of</TOKEN>
+				<TOKEN id="token-1-8" start_char="61" end_char="67">Russian</TOKEN>
+				<TOKEN id="token-1-9" start_char="69" end_char="73">state</TOKEN>
+				<TOKEN id="token-1-10" start_char="75" end_char="79">media</TOKEN>
+				<TOKEN id="token-1-11" start_char="81" end_char="88">claiming</TOKEN>
+				<TOKEN id="token-1-12" start_char="90" end_char="93">that</TOKEN>
+				<TOKEN id="token-1-13" start_char="95" end_char="97">the</TOKEN>
+				<TOKEN id="token-1-14" start_char="99" end_char="102">EEAS</TOKEN>
+				<TOKEN id="token-1-15" start_char="104" end_char="106">did</TOKEN>
+				<TOKEN id="token-1-16" start_char="108" end_char="110">not</TOKEN>
+				<TOKEN id="token-1-17" start_char="112" end_char="115">give</TOKEN>
+				<TOKEN id="token-1-18" start_char="117" end_char="119">any</TOKEN>
+				<TOKEN id="token-1-19" start_char="121" end_char="128">examples</TOKEN>
+				<TOKEN id="token-1-20" start_char="130" end_char="131">of</TOKEN>
+				<TOKEN id="token-1-21" start_char="133" end_char="146">disinformation</TOKEN>
+				<TOKEN id="token-1-22" start_char="147" end_char="147">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-191-2" start_char="149" end_char="377">
+				<ORIGINAL_TEXT>The cases the report referred to are listed in this very database, documenting the most common disinformation narratives and examples in many different languages by pro-Kremlin media: more than two hundred are on the coronavirus.</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="149" end_char="151">The</TOKEN>
+				<TOKEN id="token-2-1" start_char="153" end_char="157">cases</TOKEN>
+				<TOKEN id="token-2-2" start_char="159" end_char="161">the</TOKEN>
+				<TOKEN id="token-2-3" start_char="163" end_char="168">report</TOKEN>
+				<TOKEN id="token-2-4" start_char="170" end_char="177">referred</TOKEN>
+				<TOKEN id="token-2-5" start_char="179" end_char="180">to</TOKEN>
+				<TOKEN id="token-2-6" start_char="182" end_char="184">are</TOKEN>
+				<TOKEN id="token-2-7" start_char="186" end_char="191">listed</TOKEN>
+				<TOKEN id="token-2-8" start_char="193" end_char="194">in</TOKEN>
+				<TOKEN id="token-2-9" start_char="196" end_char="199">this</TOKEN>
+				<TOKEN id="token-2-10" start_char="201" end_char="204">very</TOKEN>
+				<TOKEN id="token-2-11" start_char="206" end_char="213">database</TOKEN>
+				<TOKEN id="token-2-12" start_char="214" end_char="214">,</TOKEN>
+				<TOKEN id="token-2-13" start_char="216" end_char="226">documenting</TOKEN>
+				<TOKEN id="token-2-14" start_char="228" end_char="230">the</TOKEN>
+				<TOKEN id="token-2-15" start_char="232" end_char="235">most</TOKEN>
+				<TOKEN id="token-2-16" start_char="237" end_char="242">common</TOKEN>
+				<TOKEN id="token-2-17" start_char="244" end_char="257">disinformation</TOKEN>
+				<TOKEN id="token-2-18" start_char="259" end_char="268">narratives</TOKEN>
+				<TOKEN id="token-2-19" start_char="270" end_char="272">and</TOKEN>
+				<TOKEN id="token-2-20" start_char="274" end_char="281">examples</TOKEN>
+				<TOKEN id="token-2-21" start_char="283" end_char="284">in</TOKEN>
+				<TOKEN id="token-2-22" start_char="286" end_char="289">many</TOKEN>
+				<TOKEN id="token-2-23" start_char="291" end_char="299">different</TOKEN>
+				<TOKEN id="token-2-24" start_char="301" end_char="309">languages</TOKEN>
+				<TOKEN id="token-2-25" start_char="311" end_char="312">by</TOKEN>
+				<TOKEN id="token-2-26" start_char="314" end_char="316">pro</TOKEN>
+				<TOKEN id="token-2-27" start_char="317" end_char="317">-</TOKEN>
+				<TOKEN id="token-2-28" start_char="318" end_char="324">Kremlin</TOKEN>
+				<TOKEN id="token-2-29" start_char="326" end_char="330">media</TOKEN>
+				<TOKEN id="token-2-30" start_char="331" end_char="331">:</TOKEN>
+				<TOKEN id="token-2-31" start_char="333" end_char="336">more</TOKEN>
+				<TOKEN id="token-2-32" start_char="338" end_char="341">than</TOKEN>
+				<TOKEN id="token-2-33" start_char="343" end_char="345">two</TOKEN>
+				<TOKEN id="token-2-34" start_char="347" end_char="353">hundred</TOKEN>
+				<TOKEN id="token-2-35" start_char="355" end_char="357">are</TOKEN>
+				<TOKEN id="token-2-36" start_char="359" end_char="360">on</TOKEN>
+				<TOKEN id="token-2-37" start_char="362" end_char="364">the</TOKEN>
+				<TOKEN id="token-2-38" start_char="366" end_char="376">coronavirus</TOKEN>
+				<TOKEN id="token-2-39" start_char="377" end_char="377">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-191-3" start_char="379" end_char="470">
+				<ORIGINAL_TEXT>The EEAS did not publish a report accusing Russia of spreading disinformation on March 16th.</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="379" end_char="381">The</TOKEN>
+				<TOKEN id="token-3-1" start_char="383" end_char="386">EEAS</TOKEN>
+				<TOKEN id="token-3-2" start_char="388" end_char="390">did</TOKEN>
+				<TOKEN id="token-3-3" start_char="392" end_char="394">not</TOKEN>
+				<TOKEN id="token-3-4" start_char="396" end_char="402">publish</TOKEN>
+				<TOKEN id="token-3-5" start_char="404" end_char="404">a</TOKEN>
+				<TOKEN id="token-3-6" start_char="406" end_char="411">report</TOKEN>
+				<TOKEN id="token-3-7" start_char="413" end_char="420">accusing</TOKEN>
+				<TOKEN id="token-3-8" start_char="422" end_char="427">Russia</TOKEN>
+				<TOKEN id="token-3-9" start_char="429" end_char="430">of</TOKEN>
+				<TOKEN id="token-3-10" start_char="432" end_char="440">spreading</TOKEN>
+				<TOKEN id="token-3-11" start_char="442" end_char="455">disinformation</TOKEN>
+				<TOKEN id="token-3-12" start_char="457" end_char="458">on</TOKEN>
+				<TOKEN id="token-3-13" start_char="460" end_char="464">March</TOKEN>
+				<TOKEN id="token-3-14" start_char="466" end_char="469">16th</TOKEN>
+				<TOKEN id="token-3-15" start_char="470" end_char="470">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-191-4" start_char="472" end_char="592">
+				<ORIGINAL_TEXT>However, some parts of an internal report were leaked to news agencies and were subsequently commented on by the Kremlin.</ORIGINAL_TEXT>
+				<TOKEN id="token-4-0" start_char="472" end_char="478">However</TOKEN>
+				<TOKEN id="token-4-1" start_char="479" end_char="479">,</TOKEN>
+				<TOKEN id="token-4-2" start_char="481" end_char="484">some</TOKEN>
+				<TOKEN id="token-4-3" start_char="486" end_char="490">parts</TOKEN>
+				<TOKEN id="token-4-4" start_char="492" end_char="493">of</TOKEN>
+				<TOKEN id="token-4-5" start_char="495" end_char="496">an</TOKEN>
+				<TOKEN id="token-4-6" start_char="498" end_char="505">internal</TOKEN>
+				<TOKEN id="token-4-7" start_char="507" end_char="512">report</TOKEN>
+				<TOKEN id="token-4-8" start_char="514" end_char="517">were</TOKEN>
+				<TOKEN id="token-4-9" start_char="519" end_char="524">leaked</TOKEN>
+				<TOKEN id="token-4-10" start_char="526" end_char="527">to</TOKEN>
+				<TOKEN id="token-4-11" start_char="529" end_char="532">news</TOKEN>
+				<TOKEN id="token-4-12" start_char="534" end_char="541">agencies</TOKEN>
+				<TOKEN id="token-4-13" start_char="543" end_char="545">and</TOKEN>
+				<TOKEN id="token-4-14" start_char="547" end_char="550">were</TOKEN>
+				<TOKEN id="token-4-15" start_char="552" end_char="563">subsequently</TOKEN>
+				<TOKEN id="token-4-16" start_char="565" end_char="573">commented</TOKEN>
+				<TOKEN id="token-4-17" start_char="575" end_char="576">on</TOKEN>
+				<TOKEN id="token-4-18" start_char="578" end_char="579">by</TOKEN>
+				<TOKEN id="token-4-19" start_char="581" end_char="583">the</TOKEN>
+				<TOKEN id="token-4-20" start_char="585" end_char="591">Kremlin</TOKEN>
+				<TOKEN id="token-4-21" start_char="592" end_char="592">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-191-5" start_char="594" end_char="655">
+				<ORIGINAL_TEXT>The report itself included several examples of disinformation.</ORIGINAL_TEXT>
+				<TOKEN id="token-5-0" start_char="594" end_char="596">The</TOKEN>
+				<TOKEN id="token-5-1" start_char="598" end_char="603">report</TOKEN>
+				<TOKEN id="token-5-2" start_char="605" end_char="610">itself</TOKEN>
+				<TOKEN id="token-5-3" start_char="612" end_char="619">included</TOKEN>
+				<TOKEN id="token-5-4" start_char="621" end_char="627">several</TOKEN>
+				<TOKEN id="token-5-5" start_char="629" end_char="636">examples</TOKEN>
+				<TOKEN id="token-5-6" start_char="638" end_char="639">of</TOKEN>
+				<TOKEN id="token-5-7" start_char="641" end_char="654">disinformation</TOKEN>
+				<TOKEN id="token-5-8" start_char="655" end_char="655">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-191-6" start_char="657" end_char="752">
+				<ORIGINAL_TEXT>A shorter version of the original report was published on March 19th on the EUvsDisinfo website.</ORIGINAL_TEXT>
+				<TOKEN id="token-6-0" start_char="657" end_char="657">A</TOKEN>
+				<TOKEN id="token-6-1" start_char="659" end_char="665">shorter</TOKEN>
+				<TOKEN id="token-6-2" start_char="667" end_char="673">version</TOKEN>
+				<TOKEN id="token-6-3" start_char="675" end_char="676">of</TOKEN>
+				<TOKEN id="token-6-4" start_char="678" end_char="680">the</TOKEN>
+				<TOKEN id="token-6-5" start_char="682" end_char="689">original</TOKEN>
+				<TOKEN id="token-6-6" start_char="691" end_char="696">report</TOKEN>
+				<TOKEN id="token-6-7" start_char="698" end_char="700">was</TOKEN>
+				<TOKEN id="token-6-8" start_char="702" end_char="710">published</TOKEN>
+				<TOKEN id="token-6-9" start_char="712" end_char="713">on</TOKEN>
+				<TOKEN id="token-6-10" start_char="715" end_char="719">March</TOKEN>
+				<TOKEN id="token-6-11" start_char="721" end_char="724">19th</TOKEN>
+				<TOKEN id="token-6-12" start_char="726" end_char="727">on</TOKEN>
+				<TOKEN id="token-6-13" start_char="729" end_char="731">the</TOKEN>
+				<TOKEN id="token-6-14" start_char="733" end_char="743">EUvsDisinfo</TOKEN>
+				<TOKEN id="token-6-15" start_char="745" end_char="751">website</TOKEN>
+				<TOKEN id="token-6-16" start_char="752" end_char="752">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-191-7" start_char="754" end_char="846">
+				<ORIGINAL_TEXT>It summarises the trends of disinformation narratives about COVID-19 for different audiences.</ORIGINAL_TEXT>
+				<TOKEN id="token-7-0" start_char="754" end_char="755">It</TOKEN>
+				<TOKEN id="token-7-1" start_char="757" end_char="766">summarises</TOKEN>
+				<TOKEN id="token-7-2" start_char="768" end_char="770">the</TOKEN>
+				<TOKEN id="token-7-3" start_char="772" end_char="777">trends</TOKEN>
+				<TOKEN id="token-7-4" start_char="779" end_char="780">of</TOKEN>
+				<TOKEN id="token-7-5" start_char="782" end_char="795">disinformation</TOKEN>
+				<TOKEN id="token-7-6" start_char="797" end_char="806">narratives</TOKEN>
+				<TOKEN id="token-7-7" start_char="808" end_char="812">about</TOKEN>
+				<TOKEN id="token-7-8" start_char="814" end_char="818">COVID</TOKEN>
+				<TOKEN id="token-7-9" start_char="819" end_char="819">-</TOKEN>
+				<TOKEN id="token-7-10" start_char="820" end_char="821">19</TOKEN>
+				<TOKEN id="token-7-11" start_char="823" end_char="825">for</TOKEN>
+				<TOKEN id="token-7-12" start_char="827" end_char="835">different</TOKEN>
+				<TOKEN id="token-7-13" start_char="837" end_char="845">audiences</TOKEN>
+				<TOKEN id="token-7-14" start_char="846" end_char="846">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-191-8" start_char="848" end_char="884">
+				<ORIGINAL_TEXT>An update was published on April 1st.</ORIGINAL_TEXT>
+				<TOKEN id="token-8-0" start_char="848" end_char="849">An</TOKEN>
+				<TOKEN id="token-8-1" start_char="851" end_char="856">update</TOKEN>
+				<TOKEN id="token-8-2" start_char="858" end_char="860">was</TOKEN>
+				<TOKEN id="token-8-3" start_char="862" end_char="870">published</TOKEN>
+				<TOKEN id="token-8-4" start_char="872" end_char="873">on</TOKEN>
+				<TOKEN id="token-8-5" start_char="875" end_char="879">April</TOKEN>
+				<TOKEN id="token-8-6" start_char="881" end_char="883">1st</TOKEN>
+				<TOKEN id="token-8-7" start_char="884" end_char="884">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

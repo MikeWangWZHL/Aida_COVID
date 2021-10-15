@@ -1,0 +1,45 @@
+Recently, concerns have been raised that Elderberry can potentially stimulate what is commonly called a cytokine storm or cytokine release syndrome (CRS).
+CRS was considered a major source of fatalities during the SARS epidemic, and some are reporting that we may see similar outcomes with COVID-19.
+With so much misinformation out there, it can be challenging to determine what is legitimate information and which sources are reliable.
+Learn from our Formulation Manager, Susan Hirsch, and Chief Scientist & VP of Scientific Affairs, Dr. Jeremy Stewart, about cytokines and how there is currently no validated correlation between Elderberry and COVID-19.
+What Are Cytokines and How Do They Affect the Body?
+Cytokines are cellular communication molecules that the immune system uses to communicate with itself and mobilize the healing response.
+They are used for local communication between immune cells and local tissues.
+It is important to understand the nature of a cytokine storm.
+You can think of it as kind of a power surge in the body that can cause even more damage than the body has already experienced.
+A cytokine storm is experienced in the advanced stages of infection, such as sepsis or acute respiratory distress syndrome (ARDS), when there is already a significant amount of damage to the tissues in the body.
+The body sends an overwhelming number of messages to try and mobilize the healing response and activate immune cells, but the messages end up jamming the system, and spilling over into systemic circulation.
+The resulting influx of too many activated immune cells ends up causing additional damage to the tissues.
+By the time a cytokine storm may be experienced in a respiratory distress situation, a person would most likely be in a significantly compromised state and may already be in the ICU on lifesaving respiration equipment with care being managed by medical professionals.
+*1
+Elderberry and a Healthy Immune Response*
+Elderberry has a long history of use as both an herb and food in helping to support immune health.
+* Herbs contain a diverse mixture of phytochemicals that have a complex interaction with the body.
+They do not work using only one mechanism, and they may work differently for different people at different times.
+Because of their complexity, herbalists consider herbs to be supporters of physiology rather than overly stimulating in terms of immune response (unless there is toxicity involved, which is not the case with Elderberry).
+*
+Concerns raised about Elderberry seem to be based on a 2001 study involving healthy volunteers and the popular Elderberry product Sambucol®.
+In that study, researchers concluded, “Sambucol might therefore be beneficial to the immune system activation and in the inflammatory process in healthy individuals.”2 The key take-away from this study is that Elderberry supported cytokine production during a healthy inflammatory process related to optimal immune function that was beneficial in this situation.
+However, the research did not suggest it would stimulate a cytokine storm in patients that have an underlying condition that may tax the immune system.
+More recently, a 2016 study showed that a formula based on Elderberry inhibited cytokines in people who had atherosclerosis.3 The take-away from this study is that the cytokines were not helpful to the overall situation, and Elderberry did not stimulate cytokine production.
+The Bottom Line
+Elderberry is not likely to be able to cause CRS to happen by itself, and there have been no causative links of Elderberry or any herbs associated with CRS.
+CRS is caused by a severe amount of damage to the tissues and activated immune cells in later stages of infection, and therefore should be managed by medical professionals.
+Cytokine storms are rare in human physiology, and consequently we do not have a history of managing them with Elderberry.
+This article is not intended for the purpose of providing medical advice.
+All information, content, and material found in this article is for informational purposes only and is not intended to serve as a substitute for the consultation, diagnosis, and/or medical treatment of a qualified physician or healthcare provider.
+References:
+1 Tisoncik JR, Korth MJ, Simmons CP, Farrar J, Martin TR, & Katze MG.
+Into the eye of the cytokine storm.
+Microbiol Mol Biol Rev.
+2012 Mar 76(1): 16-32. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3294426/
+2 Barak V, Halperin T, and Kalickman I.
+The effect of Sambucol, a black Elderberry-based, natural product, on the production of human cytokines: I. inflammatory cytokines.
+European Cytokine Network 12, no.
+2 (June 2001): 290–96.
+https://www.ncbi.nlm.nih.gov/pubmed/11399518
+3 Kirichenko TV, Sobenin IA, Nikolic D, Rizzo M, and Orekhov AN.
+Anti-cytokine therapy for prevention of atherosclerosis.
+Phytomedicine: International Journal of Phytotherapy and Phytopharmacology 23, no.
+11 (October 15, 2016): 1198–1210.
+https://doi.org/10.1016/j.phymed.2015.12.002.

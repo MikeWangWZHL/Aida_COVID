@@ -1,0 +1,55 @@
+T1	PER 0 3	Nos
+T2	PER 238 249	Pepe Alcamí
+T3	PER 251 259	virólogo
+T4	ORG 264 293	Instituto de Salud Carlos III
+T5	ORG 304 319	Maldita Ciencia
+T6	MHI 330 335	virus
+T7	PER 364 366	tu
+T8	PER 398 400	tu
+T9	PER 592 594	Os
+T10	MHI 643 652	SARS-CoV-
+T11	PER 775 780	Covid
+T12	PER 1123 1125	se
+T13	LOC 1477 1481	zona
+T14	PER 1561 1567	Alcamí
+T15	PER 2564 2571	canguro
+T16	PER 2572 2574	se
+T17	PER 2583 2588	Willy
+T18	PER 2591 2593	lo
+T19	LOC 2609 2615	sabana
+T20	GPE 2619 2628	Melbourne
+T21	PER 2858 2861	nos
+T22	PER 3202 3204	os
+T23	PER 3259 3266	nuestro
+T24	PER 3389 3416	Magdalena Martínez Cañamero
+T25	PER 3418 3430	microbióloga
+T26	ORG 3437 3456	Universidad de Jaén
+T27	PER 3459 3466	miembro
+T28	ORG 3473 3507	Sociedad Española de Microbiología
+T29	ORG 3519 3534	Maldita Ciencia
+T30	PER 3576 3584	nuestras
+T31	PER 3715 3717	el
+T32	PER 3741 3746	demás
+T33	MHI 3811 3819	COVID-19
+T34	PER 3876 3883	experta
+T35	PER 3940 3942	os
+T36	PER 4084 4086	se
+T37	PER 4097 4115	Víctor Jiménez Cid
+T38	PER 4117 4128	catedrático
+T39	ORG 4152 4185	Universidad Complutense de Madrid
+T40	PER 4188 4195	miembro
+T41	ORG 4202 4236	Sociedad Española de Microbiología
+T42	PER 4238 4241	que
+T43	PER 4475 4483	primeros
+T44	PER 4518 4525	usuario
+T45	PER 4532 4540	segundos
+T46	ORG 4658 4673	Maldita Ciencia
+T47	PER 4675 4687	Juan Sabatté
+T48	PER 4689 4695	médico
+T49	PER 4724 4736	investigador
+T50	ORG 4741 4799	Consejo Nacional de Investigaciones Científicas y Técnicas
+T51	ORG 4801 4808	CONICET
+T52	GPE 4813 4822	Argentina
+T53	ORG 5006 5009	AFP
+T54	ORG 5011 5016	medio
+T55	PER 5339 5346	nuestro

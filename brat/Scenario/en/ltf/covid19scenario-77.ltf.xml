@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-77">
+		<TEXT>
+			<SEG id="covid19scenario-77-0" start_char="0" end_char="7">
+				<ORIGINAL_TEXT>Disproof</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="7">Disproof</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-77-1" start_char="9" end_char="186">
+				<ORIGINAL_TEXT>This is another conspiracy theory about the 2019-nCoV coronavirus, based on recurring pro-Kremlin disinformation narratives about biological weapons and the Lugar Lab in Georgia.</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="9" end_char="12">This</TOKEN>
+				<TOKEN id="token-1-1" start_char="14" end_char="15">is</TOKEN>
+				<TOKEN id="token-1-2" start_char="17" end_char="23">another</TOKEN>
+				<TOKEN id="token-1-3" start_char="25" end_char="34">conspiracy</TOKEN>
+				<TOKEN id="token-1-4" start_char="36" end_char="41">theory</TOKEN>
+				<TOKEN id="token-1-5" start_char="43" end_char="47">about</TOKEN>
+				<TOKEN id="token-1-6" start_char="49" end_char="51">the</TOKEN>
+				<TOKEN id="token-1-7" start_char="53" end_char="56">2019</TOKEN>
+				<TOKEN id="token-1-8" start_char="57" end_char="57">-</TOKEN>
+				<TOKEN id="token-1-9" start_char="58" end_char="61">nCoV</TOKEN>
+				<TOKEN id="token-1-10" start_char="63" end_char="73">coronavirus</TOKEN>
+				<TOKEN id="token-1-11" start_char="74" end_char="74">,</TOKEN>
+				<TOKEN id="token-1-12" start_char="76" end_char="80">based</TOKEN>
+				<TOKEN id="token-1-13" start_char="82" end_char="83">on</TOKEN>
+				<TOKEN id="token-1-14" start_char="85" end_char="93">recurring</TOKEN>
+				<TOKEN id="token-1-15" start_char="95" end_char="97">pro</TOKEN>
+				<TOKEN id="token-1-16" start_char="98" end_char="98">-</TOKEN>
+				<TOKEN id="token-1-17" start_char="99" end_char="105">Kremlin</TOKEN>
+				<TOKEN id="token-1-18" start_char="107" end_char="120">disinformation</TOKEN>
+				<TOKEN id="token-1-19" start_char="122" end_char="131">narratives</TOKEN>
+				<TOKEN id="token-1-20" start_char="133" end_char="137">about</TOKEN>
+				<TOKEN id="token-1-21" start_char="139" end_char="148">biological</TOKEN>
+				<TOKEN id="token-1-22" start_char="150" end_char="156">weapons</TOKEN>
+				<TOKEN id="token-1-23" start_char="158" end_char="160">and</TOKEN>
+				<TOKEN id="token-1-24" start_char="162" end_char="164">the</TOKEN>
+				<TOKEN id="token-1-25" start_char="166" end_char="170">Lugar</TOKEN>
+				<TOKEN id="token-1-26" start_char="172" end_char="174">Lab</TOKEN>
+				<TOKEN id="token-1-27" start_char="176" end_char="177">in</TOKEN>
+				<TOKEN id="token-1-28" start_char="179" end_char="185">Georgia</TOKEN>
+				<TOKEN id="token-1-29" start_char="186" end_char="186">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-77-2" start_char="188" end_char="318">
+				<ORIGINAL_TEXT>The coronavirus (2019-nCoV) comes from a family of viruses originating in animals that include other viruses such as SARS and MERS.</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="188" end_char="190">The</TOKEN>
+				<TOKEN id="token-2-1" start_char="192" end_char="202">coronavirus</TOKEN>
+				<TOKEN id="token-2-2" start_char="204" end_char="204">(</TOKEN>
+				<TOKEN id="token-2-3" start_char="205" end_char="208">2019</TOKEN>
+				<TOKEN id="token-2-4" start_char="209" end_char="209">-</TOKEN>
+				<TOKEN id="token-2-5" start_char="210" end_char="213">nCoV</TOKEN>
+				<TOKEN id="token-2-6" start_char="214" end_char="214">)</TOKEN>
+				<TOKEN id="token-2-7" start_char="216" end_char="220">comes</TOKEN>
+				<TOKEN id="token-2-8" start_char="222" end_char="225">from</TOKEN>
+				<TOKEN id="token-2-9" start_char="227" end_char="227">a</TOKEN>
+				<TOKEN id="token-2-10" start_char="229" end_char="234">family</TOKEN>
+				<TOKEN id="token-2-11" start_char="236" end_char="237">of</TOKEN>
+				<TOKEN id="token-2-12" start_char="239" end_char="245">viruses</TOKEN>
+				<TOKEN id="token-2-13" start_char="247" end_char="257">originating</TOKEN>
+				<TOKEN id="token-2-14" start_char="259" end_char="260">in</TOKEN>
+				<TOKEN id="token-2-15" start_char="262" end_char="268">animals</TOKEN>
+				<TOKEN id="token-2-16" start_char="270" end_char="273">that</TOKEN>
+				<TOKEN id="token-2-17" start_char="275" end_char="281">include</TOKEN>
+				<TOKEN id="token-2-18" start_char="283" end_char="287">other</TOKEN>
+				<TOKEN id="token-2-19" start_char="289" end_char="295">viruses</TOKEN>
+				<TOKEN id="token-2-20" start_char="297" end_char="300">such</TOKEN>
+				<TOKEN id="token-2-21" start_char="302" end_char="303">as</TOKEN>
+				<TOKEN id="token-2-22" start_char="305" end_char="308">SARS</TOKEN>
+				<TOKEN id="token-2-23" start_char="310" end_char="312">and</TOKEN>
+				<TOKEN id="token-2-24" start_char="314" end_char="317">MERS</TOKEN>
+				<TOKEN id="token-2-25" start_char="318" end_char="318">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-77-3" start_char="320" end_char="688">
+				<ORIGINAL_TEXT>A group of 27 prominent public health scientists, from nine countries, wrote a statement published online by the Lancet, that &quot;strongly condemn conspiracy theories suggesting that COVID-19 does not have a natural origin&quot;, and they “overwhelmingly conclude that this coronavirus originated in wildlife,” just like many other viruses that have recently emerged in humans.</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="320" end_char="320">A</TOKEN>
+				<TOKEN id="token-3-1" start_char="322" end_char="326">group</TOKEN>
+				<TOKEN id="token-3-2" start_char="328" end_char="329">of</TOKEN>
+				<TOKEN id="token-3-3" start_char="331" end_char="332">27</TOKEN>
+				<TOKEN id="token-3-4" start_char="334" end_char="342">prominent</TOKEN>
+				<TOKEN id="token-3-5" start_char="344" end_char="349">public</TOKEN>
+				<TOKEN id="token-3-6" start_char="351" end_char="356">health</TOKEN>
+				<TOKEN id="token-3-7" start_char="358" end_char="367">scientists</TOKEN>
+				<TOKEN id="token-3-8" start_char="368" end_char="368">,</TOKEN>
+				<TOKEN id="token-3-9" start_char="370" end_char="373">from</TOKEN>
+				<TOKEN id="token-3-10" start_char="375" end_char="378">nine</TOKEN>
+				<TOKEN id="token-3-11" start_char="380" end_char="388">countries</TOKEN>
+				<TOKEN id="token-3-12" start_char="389" end_char="389">,</TOKEN>
+				<TOKEN id="token-3-13" start_char="391" end_char="395">wrote</TOKEN>
+				<TOKEN id="token-3-14" start_char="397" end_char="397">a</TOKEN>
+				<TOKEN id="token-3-15" start_char="399" end_char="407">statement</TOKEN>
+				<TOKEN id="token-3-16" start_char="409" end_char="417">published</TOKEN>
+				<TOKEN id="token-3-17" start_char="419" end_char="424">online</TOKEN>
+				<TOKEN id="token-3-18" start_char="426" end_char="427">by</TOKEN>
+				<TOKEN id="token-3-19" start_char="429" end_char="431">the</TOKEN>
+				<TOKEN id="token-3-20" start_char="433" end_char="438">Lancet</TOKEN>
+				<TOKEN id="token-3-21" start_char="439" end_char="439">,</TOKEN>
+				<TOKEN id="token-3-22" start_char="441" end_char="444">that</TOKEN>
+				<TOKEN id="token-3-23" start_char="446" end_char="446">&quot;</TOKEN>
+				<TOKEN id="token-3-24" start_char="447" end_char="454">strongly</TOKEN>
+				<TOKEN id="token-3-25" start_char="456" end_char="462">condemn</TOKEN>
+				<TOKEN id="token-3-26" start_char="464" end_char="473">conspiracy</TOKEN>
+				<TOKEN id="token-3-27" start_char="475" end_char="482">theories</TOKEN>
+				<TOKEN id="token-3-28" start_char="484" end_char="493">suggesting</TOKEN>
+				<TOKEN id="token-3-29" start_char="495" end_char="498">that</TOKEN>
+				<TOKEN id="token-3-30" start_char="500" end_char="504">COVID</TOKEN>
+				<TOKEN id="token-3-31" start_char="505" end_char="505">-</TOKEN>
+				<TOKEN id="token-3-32" start_char="506" end_char="507">19</TOKEN>
+				<TOKEN id="token-3-33" start_char="509" end_char="512">does</TOKEN>
+				<TOKEN id="token-3-34" start_char="514" end_char="516">not</TOKEN>
+				<TOKEN id="token-3-35" start_char="518" end_char="521">have</TOKEN>
+				<TOKEN id="token-3-36" start_char="523" end_char="523">a</TOKEN>
+				<TOKEN id="token-3-37" start_char="525" end_char="531">natural</TOKEN>
+				<TOKEN id="token-3-38" start_char="533" end_char="538">origin</TOKEN>
+				<TOKEN id="token-3-39" start_char="539" end_char="540">&quot;,</TOKEN>
+				<TOKEN id="token-3-40" start_char="542" end_char="544">and</TOKEN>
+				<TOKEN id="token-3-41" start_char="546" end_char="549">they</TOKEN>
+				<TOKEN id="token-3-42" start_char="551" end_char="551">“</TOKEN>
+				<TOKEN id="token-3-43" start_char="552" end_char="565">overwhelmingly</TOKEN>
+				<TOKEN id="token-3-44" start_char="567" end_char="574">conclude</TOKEN>
+				<TOKEN id="token-3-45" start_char="576" end_char="579">that</TOKEN>
+				<TOKEN id="token-3-46" start_char="581" end_char="584">this</TOKEN>
+				<TOKEN id="token-3-47" start_char="586" end_char="596">coronavirus</TOKEN>
+				<TOKEN id="token-3-48" start_char="598" end_char="607">originated</TOKEN>
+				<TOKEN id="token-3-49" start_char="609" end_char="610">in</TOKEN>
+				<TOKEN id="token-3-50" start_char="612" end_char="619">wildlife</TOKEN>
+				<TOKEN id="token-3-51" start_char="620" end_char="621">,”</TOKEN>
+				<TOKEN id="token-3-52" start_char="623" end_char="626">just</TOKEN>
+				<TOKEN id="token-3-53" start_char="628" end_char="631">like</TOKEN>
+				<TOKEN id="token-3-54" start_char="633" end_char="636">many</TOKEN>
+				<TOKEN id="token-3-55" start_char="638" end_char="642">other</TOKEN>
+				<TOKEN id="token-3-56" start_char="644" end_char="650">viruses</TOKEN>
+				<TOKEN id="token-3-57" start_char="652" end_char="655">that</TOKEN>
+				<TOKEN id="token-3-58" start_char="657" end_char="660">have</TOKEN>
+				<TOKEN id="token-3-59" start_char="662" end_char="669">recently</TOKEN>
+				<TOKEN id="token-3-60" start_char="671" end_char="677">emerged</TOKEN>
+				<TOKEN id="token-3-61" start_char="679" end_char="680">in</TOKEN>
+				<TOKEN id="token-3-62" start_char="682" end_char="687">humans</TOKEN>
+				<TOKEN id="token-3-63" start_char="688" end_char="688">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

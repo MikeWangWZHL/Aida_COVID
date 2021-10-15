@@ -1,0 +1,1331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-78">
+		<TEXT>
+			<SEG id="covid19scenario-78-0" start_char="0" end_char="19">
+				<ORIGINAL_TEXT>Who can enter Canada</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="2">Who</TOKEN>
+				<TOKEN id="token-0-1" start_char="4" end_char="6">can</TOKEN>
+				<TOKEN id="token-0-2" start_char="8" end_char="12">enter</TOKEN>
+				<TOKEN id="token-0-3" start_char="14" end_char="19">Canada</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-1" start_char="21" end_char="66">
+				<ORIGINAL_TEXT>You can travel to and enter Canada if you’re a</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="21" end_char="23">You</TOKEN>
+				<TOKEN id="token-1-1" start_char="25" end_char="27">can</TOKEN>
+				<TOKEN id="token-1-2" start_char="29" end_char="34">travel</TOKEN>
+				<TOKEN id="token-1-3" start_char="36" end_char="37">to</TOKEN>
+				<TOKEN id="token-1-4" start_char="39" end_char="41">and</TOKEN>
+				<TOKEN id="token-1-5" start_char="43" end_char="47">enter</TOKEN>
+				<TOKEN id="token-1-6" start_char="49" end_char="54">Canada</TOKEN>
+				<TOKEN id="token-1-7" start_char="56" end_char="57">if</TOKEN>
+				<TOKEN id="token-1-8" start_char="59" end_char="61">you</TOKEN>
+				<TOKEN id="token-1-9" start_char="62" end_char="62">’</TOKEN>
+				<TOKEN id="token-1-10" start_char="63" end_char="64">re</TOKEN>
+				<TOKEN id="token-1-11" start_char="66" end_char="66">a</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-2" start_char="68" end_char="83">
+				<ORIGINAL_TEXT>Canadian citizen</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="68" end_char="75">Canadian</TOKEN>
+				<TOKEN id="token-2-1" start_char="77" end_char="83">citizen</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-3" start_char="85" end_char="161">
+				<ORIGINAL_TEXT>dual Canadian citizen with a valid Canadian passport or special authorization</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="85" end_char="88">dual</TOKEN>
+				<TOKEN id="token-3-1" start_char="90" end_char="97">Canadian</TOKEN>
+				<TOKEN id="token-3-2" start_char="99" end_char="105">citizen</TOKEN>
+				<TOKEN id="token-3-3" start_char="107" end_char="110">with</TOKEN>
+				<TOKEN id="token-3-4" start_char="112" end_char="112">a</TOKEN>
+				<TOKEN id="token-3-5" start_char="114" end_char="118">valid</TOKEN>
+				<TOKEN id="token-3-6" start_char="120" end_char="127">Canadian</TOKEN>
+				<TOKEN id="token-3-7" start_char="129" end_char="136">passport</TOKEN>
+				<TOKEN id="token-3-8" start_char="138" end_char="139">or</TOKEN>
+				<TOKEN id="token-3-9" start_char="141" end_char="147">special</TOKEN>
+				<TOKEN id="token-3-10" start_char="149" end_char="161">authorization</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-4" start_char="163" end_char="190">
+				<ORIGINAL_TEXT>permanent resident of Canada</ORIGINAL_TEXT>
+				<TOKEN id="token-4-0" start_char="163" end_char="171">permanent</TOKEN>
+				<TOKEN id="token-4-1" start_char="173" end_char="180">resident</TOKEN>
+				<TOKEN id="token-4-2" start_char="182" end_char="183">of</TOKEN>
+				<TOKEN id="token-4-3" start_char="185" end_char="190">Canada</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-5" start_char="192" end_char="234">
+				<ORIGINAL_TEXT>person registered under Canada’s Indian Act</ORIGINAL_TEXT>
+				<TOKEN id="token-5-0" start_char="192" end_char="197">person</TOKEN>
+				<TOKEN id="token-5-1" start_char="199" end_char="208">registered</TOKEN>
+				<TOKEN id="token-5-2" start_char="210" end_char="214">under</TOKEN>
+				<TOKEN id="token-5-3" start_char="216" end_char="221">Canada</TOKEN>
+				<TOKEN id="token-5-4" start_char="222" end_char="222">’</TOKEN>
+				<TOKEN id="token-5-5" start_char="223" end_char="223">s</TOKEN>
+				<TOKEN id="token-5-6" start_char="225" end_char="230">Indian</TOKEN>
+				<TOKEN id="token-5-7" start_char="232" end_char="234">Act</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-6" start_char="236" end_char="251">
+				<ORIGINAL_TEXT>protected person</ORIGINAL_TEXT>
+				<TOKEN id="token-6-0" start_char="236" end_char="244">protected</TOKEN>
+				<TOKEN id="token-6-1" start_char="246" end_char="251">person</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-7" start_char="253" end_char="356">
+				<ORIGINAL_TEXT>Foreign nationals, including United States (US) citizens, can travel to Canada only if they’re eligible.</ORIGINAL_TEXT>
+				<TOKEN id="token-7-0" start_char="253" end_char="259">Foreign</TOKEN>
+				<TOKEN id="token-7-1" start_char="261" end_char="269">nationals</TOKEN>
+				<TOKEN id="token-7-2" start_char="270" end_char="270">,</TOKEN>
+				<TOKEN id="token-7-3" start_char="272" end_char="280">including</TOKEN>
+				<TOKEN id="token-7-4" start_char="282" end_char="287">United</TOKEN>
+				<TOKEN id="token-7-5" start_char="289" end_char="294">States</TOKEN>
+				<TOKEN id="token-7-6" start_char="296" end_char="296">(</TOKEN>
+				<TOKEN id="token-7-7" start_char="297" end_char="298">US</TOKEN>
+				<TOKEN id="token-7-8" start_char="299" end_char="299">)</TOKEN>
+				<TOKEN id="token-7-9" start_char="301" end_char="308">citizens</TOKEN>
+				<TOKEN id="token-7-10" start_char="309" end_char="309">,</TOKEN>
+				<TOKEN id="token-7-11" start_char="311" end_char="313">can</TOKEN>
+				<TOKEN id="token-7-12" start_char="315" end_char="320">travel</TOKEN>
+				<TOKEN id="token-7-13" start_char="322" end_char="323">to</TOKEN>
+				<TOKEN id="token-7-14" start_char="325" end_char="330">Canada</TOKEN>
+				<TOKEN id="token-7-15" start_char="332" end_char="335">only</TOKEN>
+				<TOKEN id="token-7-16" start_char="337" end_char="338">if</TOKEN>
+				<TOKEN id="token-7-17" start_char="340" end_char="343">they</TOKEN>
+				<TOKEN id="token-7-18" start_char="344" end_char="344">’</TOKEN>
+				<TOKEN id="token-7-19" start_char="345" end_char="346">re</TOKEN>
+				<TOKEN id="token-7-20" start_char="348" end_char="355">eligible</TOKEN>
+				<TOKEN id="token-7-21" start_char="356" end_char="356">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-8" start_char="358" end_char="411">
+				<ORIGINAL_TEXT>Foreign nationals who are eligible to travel to Canada</ORIGINAL_TEXT>
+				<TOKEN id="token-8-0" start_char="358" end_char="364">Foreign</TOKEN>
+				<TOKEN id="token-8-1" start_char="366" end_char="374">nationals</TOKEN>
+				<TOKEN id="token-8-2" start_char="376" end_char="378">who</TOKEN>
+				<TOKEN id="token-8-3" start_char="380" end_char="382">are</TOKEN>
+				<TOKEN id="token-8-4" start_char="384" end_char="391">eligible</TOKEN>
+				<TOKEN id="token-8-5" start_char="393" end_char="394">to</TOKEN>
+				<TOKEN id="token-8-6" start_char="396" end_char="401">travel</TOKEN>
+				<TOKEN id="token-8-7" start_char="403" end_char="404">to</TOKEN>
+				<TOKEN id="token-8-8" start_char="406" end_char="411">Canada</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-9" start_char="413" end_char="526">
+				<ORIGINAL_TEXT>To be eligible to travel to Canada as a foreign national, you must meet the requirements for one of the following:</ORIGINAL_TEXT>
+				<TOKEN id="token-9-0" start_char="413" end_char="414">To</TOKEN>
+				<TOKEN id="token-9-1" start_char="416" end_char="417">be</TOKEN>
+				<TOKEN id="token-9-2" start_char="419" end_char="426">eligible</TOKEN>
+				<TOKEN id="token-9-3" start_char="428" end_char="429">to</TOKEN>
+				<TOKEN id="token-9-4" start_char="431" end_char="436">travel</TOKEN>
+				<TOKEN id="token-9-5" start_char="438" end_char="439">to</TOKEN>
+				<TOKEN id="token-9-6" start_char="441" end_char="446">Canada</TOKEN>
+				<TOKEN id="token-9-7" start_char="448" end_char="449">as</TOKEN>
+				<TOKEN id="token-9-8" start_char="451" end_char="451">a</TOKEN>
+				<TOKEN id="token-9-9" start_char="453" end_char="459">foreign</TOKEN>
+				<TOKEN id="token-9-10" start_char="461" end_char="468">national</TOKEN>
+				<TOKEN id="token-9-11" start_char="469" end_char="469">,</TOKEN>
+				<TOKEN id="token-9-12" start_char="471" end_char="473">you</TOKEN>
+				<TOKEN id="token-9-13" start_char="475" end_char="478">must</TOKEN>
+				<TOKEN id="token-9-14" start_char="480" end_char="483">meet</TOKEN>
+				<TOKEN id="token-9-15" start_char="485" end_char="487">the</TOKEN>
+				<TOKEN id="token-9-16" start_char="489" end_char="500">requirements</TOKEN>
+				<TOKEN id="token-9-17" start_char="502" end_char="504">for</TOKEN>
+				<TOKEN id="token-9-18" start_char="506" end_char="508">one</TOKEN>
+				<TOKEN id="token-9-19" start_char="510" end_char="511">of</TOKEN>
+				<TOKEN id="token-9-20" start_char="513" end_char="515">the</TOKEN>
+				<TOKEN id="token-9-21" start_char="517" end_char="525">following</TOKEN>
+				<TOKEN id="token-9-22" start_char="526" end_char="526">:</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-10" start_char="528" end_char="640">
+				<ORIGINAL_TEXT>Immediate family members of a Canadian citizen, person registered under Canada’s Indian Act or permanent resident</ORIGINAL_TEXT>
+				<TOKEN id="token-10-0" start_char="528" end_char="536">Immediate</TOKEN>
+				<TOKEN id="token-10-1" start_char="538" end_char="543">family</TOKEN>
+				<TOKEN id="token-10-2" start_char="545" end_char="551">members</TOKEN>
+				<TOKEN id="token-10-3" start_char="553" end_char="554">of</TOKEN>
+				<TOKEN id="token-10-4" start_char="556" end_char="556">a</TOKEN>
+				<TOKEN id="token-10-5" start_char="558" end_char="565">Canadian</TOKEN>
+				<TOKEN id="token-10-6" start_char="567" end_char="573">citizen</TOKEN>
+				<TOKEN id="token-10-7" start_char="574" end_char="574">,</TOKEN>
+				<TOKEN id="token-10-8" start_char="576" end_char="581">person</TOKEN>
+				<TOKEN id="token-10-9" start_char="583" end_char="592">registered</TOKEN>
+				<TOKEN id="token-10-10" start_char="594" end_char="598">under</TOKEN>
+				<TOKEN id="token-10-11" start_char="600" end_char="605">Canada</TOKEN>
+				<TOKEN id="token-10-12" start_char="606" end_char="606">’</TOKEN>
+				<TOKEN id="token-10-13" start_char="607" end_char="607">s</TOKEN>
+				<TOKEN id="token-10-14" start_char="609" end_char="614">Indian</TOKEN>
+				<TOKEN id="token-10-15" start_char="616" end_char="618">Act</TOKEN>
+				<TOKEN id="token-10-16" start_char="620" end_char="621">or</TOKEN>
+				<TOKEN id="token-10-17" start_char="623" end_char="631">permanent</TOKEN>
+				<TOKEN id="token-10-18" start_char="633" end_char="640">resident</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-11" start_char="642" end_char="673">
+				<ORIGINAL_TEXT>To be eligible, you must be both</ORIGINAL_TEXT>
+				<TOKEN id="token-11-0" start_char="642" end_char="643">To</TOKEN>
+				<TOKEN id="token-11-1" start_char="645" end_char="646">be</TOKEN>
+				<TOKEN id="token-11-2" start_char="648" end_char="655">eligible</TOKEN>
+				<TOKEN id="token-11-3" start_char="656" end_char="656">,</TOKEN>
+				<TOKEN id="token-11-4" start_char="658" end_char="660">you</TOKEN>
+				<TOKEN id="token-11-5" start_char="662" end_char="665">must</TOKEN>
+				<TOKEN id="token-11-6" start_char="667" end_char="668">be</TOKEN>
+				<TOKEN id="token-11-7" start_char="670" end_char="673">both</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-12" start_char="675" end_char="789">
+				<ORIGINAL_TEXT>an immediate family member of a Canadian citizen, person registered under Canada’s Indian Act or permanent resident</ORIGINAL_TEXT>
+				<TOKEN id="token-12-0" start_char="675" end_char="676">an</TOKEN>
+				<TOKEN id="token-12-1" start_char="678" end_char="686">immediate</TOKEN>
+				<TOKEN id="token-12-2" start_char="688" end_char="693">family</TOKEN>
+				<TOKEN id="token-12-3" start_char="695" end_char="700">member</TOKEN>
+				<TOKEN id="token-12-4" start_char="702" end_char="703">of</TOKEN>
+				<TOKEN id="token-12-5" start_char="705" end_char="705">a</TOKEN>
+				<TOKEN id="token-12-6" start_char="707" end_char="714">Canadian</TOKEN>
+				<TOKEN id="token-12-7" start_char="716" end_char="722">citizen</TOKEN>
+				<TOKEN id="token-12-8" start_char="723" end_char="723">,</TOKEN>
+				<TOKEN id="token-12-9" start_char="725" end_char="730">person</TOKEN>
+				<TOKEN id="token-12-10" start_char="732" end_char="741">registered</TOKEN>
+				<TOKEN id="token-12-11" start_char="743" end_char="747">under</TOKEN>
+				<TOKEN id="token-12-12" start_char="749" end_char="754">Canada</TOKEN>
+				<TOKEN id="token-12-13" start_char="755" end_char="755">’</TOKEN>
+				<TOKEN id="token-12-14" start_char="756" end_char="756">s</TOKEN>
+				<TOKEN id="token-12-15" start_char="758" end_char="763">Indian</TOKEN>
+				<TOKEN id="token-12-16" start_char="765" end_char="767">Act</TOKEN>
+				<TOKEN id="token-12-17" start_char="769" end_char="770">or</TOKEN>
+				<TOKEN id="token-12-18" start_char="772" end_char="780">permanent</TOKEN>
+				<TOKEN id="token-12-19" start_char="782" end_char="789">resident</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-13" start_char="791" end_char="827">
+				<ORIGINAL_TEXT>staying in Canada for 15 days or more</ORIGINAL_TEXT>
+				<TOKEN id="token-13-0" start_char="791" end_char="797">staying</TOKEN>
+				<TOKEN id="token-13-1" start_char="799" end_char="800">in</TOKEN>
+				<TOKEN id="token-13-2" start_char="802" end_char="807">Canada</TOKEN>
+				<TOKEN id="token-13-3" start_char="809" end_char="811">for</TOKEN>
+				<TOKEN id="token-13-4" start_char="813" end_char="814">15</TOKEN>
+				<TOKEN id="token-13-5" start_char="816" end_char="819">days</TOKEN>
+				<TOKEN id="token-13-6" start_char="821" end_char="822">or</TOKEN>
+				<TOKEN id="token-13-7" start_char="824" end_char="827">more</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-14" start_char="829" end_char="936">
+				<ORIGINAL_TEXT>You must also have a quarantine plan that shows how you’ll quarantine for 14 days when you arrive in Canada.</ORIGINAL_TEXT>
+				<TOKEN id="token-14-0" start_char="829" end_char="831">You</TOKEN>
+				<TOKEN id="token-14-1" start_char="833" end_char="836">must</TOKEN>
+				<TOKEN id="token-14-2" start_char="838" end_char="841">also</TOKEN>
+				<TOKEN id="token-14-3" start_char="843" end_char="846">have</TOKEN>
+				<TOKEN id="token-14-4" start_char="848" end_char="848">a</TOKEN>
+				<TOKEN id="token-14-5" start_char="850" end_char="859">quarantine</TOKEN>
+				<TOKEN id="token-14-6" start_char="861" end_char="864">plan</TOKEN>
+				<TOKEN id="token-14-7" start_char="866" end_char="869">that</TOKEN>
+				<TOKEN id="token-14-8" start_char="871" end_char="875">shows</TOKEN>
+				<TOKEN id="token-14-9" start_char="877" end_char="879">how</TOKEN>
+				<TOKEN id="token-14-10" start_char="881" end_char="883">you</TOKEN>
+				<TOKEN id="token-14-11" start_char="884" end_char="884">’</TOKEN>
+				<TOKEN id="token-14-12" start_char="885" end_char="886">ll</TOKEN>
+				<TOKEN id="token-14-13" start_char="888" end_char="897">quarantine</TOKEN>
+				<TOKEN id="token-14-14" start_char="899" end_char="901">for</TOKEN>
+				<TOKEN id="token-14-15" start_char="903" end_char="904">14</TOKEN>
+				<TOKEN id="token-14-16" start_char="906" end_char="909">days</TOKEN>
+				<TOKEN id="token-14-17" start_char="911" end_char="914">when</TOKEN>
+				<TOKEN id="token-14-18" start_char="916" end_char="918">you</TOKEN>
+				<TOKEN id="token-14-19" start_char="920" end_char="925">arrive</TOKEN>
+				<TOKEN id="token-14-20" start_char="927" end_char="928">in</TOKEN>
+				<TOKEN id="token-14-21" start_char="930" end_char="935">Canada</TOKEN>
+				<TOKEN id="token-14-22" start_char="936" end_char="936">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-15" start_char="938" end_char="960">
+				<ORIGINAL_TEXT>This plan is mandatory.</ORIGINAL_TEXT>
+				<TOKEN id="token-15-0" start_char="938" end_char="941">This</TOKEN>
+				<TOKEN id="token-15-1" start_char="943" end_char="946">plan</TOKEN>
+				<TOKEN id="token-15-2" start_char="948" end_char="949">is</TOKEN>
+				<TOKEN id="token-15-3" start_char="951" end_char="959">mandatory</TOKEN>
+				<TOKEN id="token-15-4" start_char="960" end_char="960">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-16" start_char="962" end_char="1067">
+				<ORIGINAL_TEXT>Immediate family members staying for less than 15 days must be travelling for a non-discretionary purpose.</ORIGINAL_TEXT>
+				<TOKEN id="token-16-0" start_char="962" end_char="970">Immediate</TOKEN>
+				<TOKEN id="token-16-1" start_char="972" end_char="977">family</TOKEN>
+				<TOKEN id="token-16-2" start_char="979" end_char="985">members</TOKEN>
+				<TOKEN id="token-16-3" start_char="987" end_char="993">staying</TOKEN>
+				<TOKEN id="token-16-4" start_char="995" end_char="997">for</TOKEN>
+				<TOKEN id="token-16-5" start_char="999" end_char="1002">less</TOKEN>
+				<TOKEN id="token-16-6" start_char="1004" end_char="1007">than</TOKEN>
+				<TOKEN id="token-16-7" start_char="1009" end_char="1010">15</TOKEN>
+				<TOKEN id="token-16-8" start_char="1012" end_char="1015">days</TOKEN>
+				<TOKEN id="token-16-9" start_char="1017" end_char="1020">must</TOKEN>
+				<TOKEN id="token-16-10" start_char="1022" end_char="1023">be</TOKEN>
+				<TOKEN id="token-16-11" start_char="1025" end_char="1034">travelling</TOKEN>
+				<TOKEN id="token-16-12" start_char="1036" end_char="1038">for</TOKEN>
+				<TOKEN id="token-16-13" start_char="1040" end_char="1040">a</TOKEN>
+				<TOKEN id="token-16-14" start_char="1042" end_char="1044">non</TOKEN>
+				<TOKEN id="token-16-15" start_char="1045" end_char="1045">-</TOKEN>
+				<TOKEN id="token-16-16" start_char="1046" end_char="1058">discretionary</TOKEN>
+				<TOKEN id="token-16-17" start_char="1060" end_char="1066">purpose</TOKEN>
+				<TOKEN id="token-16-18" start_char="1067" end_char="1067">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-17" start_char="1069" end_char="1147">
+				<ORIGINAL_TEXT>Find out who’s considered an immediate family member and how to unite with them</ORIGINAL_TEXT>
+				<TOKEN id="token-17-0" start_char="1069" end_char="1072">Find</TOKEN>
+				<TOKEN id="token-17-1" start_char="1074" end_char="1076">out</TOKEN>
+				<TOKEN id="token-17-2" start_char="1078" end_char="1080">who</TOKEN>
+				<TOKEN id="token-17-3" start_char="1081" end_char="1081">’</TOKEN>
+				<TOKEN id="token-17-4" start_char="1082" end_char="1082">s</TOKEN>
+				<TOKEN id="token-17-5" start_char="1084" end_char="1093">considered</TOKEN>
+				<TOKEN id="token-17-6" start_char="1095" end_char="1096">an</TOKEN>
+				<TOKEN id="token-17-7" start_char="1098" end_char="1106">immediate</TOKEN>
+				<TOKEN id="token-17-8" start_char="1108" end_char="1113">family</TOKEN>
+				<TOKEN id="token-17-9" start_char="1115" end_char="1120">member</TOKEN>
+				<TOKEN id="token-17-10" start_char="1122" end_char="1124">and</TOKEN>
+				<TOKEN id="token-17-11" start_char="1126" end_char="1128">how</TOKEN>
+				<TOKEN id="token-17-12" start_char="1130" end_char="1131">to</TOKEN>
+				<TOKEN id="token-17-13" start_char="1133" end_char="1137">unite</TOKEN>
+				<TOKEN id="token-17-14" start_char="1139" end_char="1142">with</TOKEN>
+				<TOKEN id="token-17-15" start_char="1144" end_char="1147">them</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-18" start_char="1149" end_char="1260">
+				<ORIGINAL_TEXT>Extended family members of a Canadian citizen, person registered under Canada’s Indian Act or permanent resident</ORIGINAL_TEXT>
+				<TOKEN id="token-18-0" start_char="1149" end_char="1156">Extended</TOKEN>
+				<TOKEN id="token-18-1" start_char="1158" end_char="1163">family</TOKEN>
+				<TOKEN id="token-18-2" start_char="1165" end_char="1171">members</TOKEN>
+				<TOKEN id="token-18-3" start_char="1173" end_char="1174">of</TOKEN>
+				<TOKEN id="token-18-4" start_char="1176" end_char="1176">a</TOKEN>
+				<TOKEN id="token-18-5" start_char="1178" end_char="1185">Canadian</TOKEN>
+				<TOKEN id="token-18-6" start_char="1187" end_char="1193">citizen</TOKEN>
+				<TOKEN id="token-18-7" start_char="1194" end_char="1194">,</TOKEN>
+				<TOKEN id="token-18-8" start_char="1196" end_char="1201">person</TOKEN>
+				<TOKEN id="token-18-9" start_char="1203" end_char="1212">registered</TOKEN>
+				<TOKEN id="token-18-10" start_char="1214" end_char="1218">under</TOKEN>
+				<TOKEN id="token-18-11" start_char="1220" end_char="1225">Canada</TOKEN>
+				<TOKEN id="token-18-12" start_char="1226" end_char="1226">’</TOKEN>
+				<TOKEN id="token-18-13" start_char="1227" end_char="1227">s</TOKEN>
+				<TOKEN id="token-18-14" start_char="1229" end_char="1234">Indian</TOKEN>
+				<TOKEN id="token-18-15" start_char="1236" end_char="1238">Act</TOKEN>
+				<TOKEN id="token-18-16" start_char="1240" end_char="1241">or</TOKEN>
+				<TOKEN id="token-18-17" start_char="1243" end_char="1251">permanent</TOKEN>
+				<TOKEN id="token-18-18" start_char="1253" end_char="1260">resident</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-19" start_char="1262" end_char="1309">
+				<ORIGINAL_TEXT>To be eligible, all of the following must apply:</ORIGINAL_TEXT>
+				<TOKEN id="token-19-0" start_char="1262" end_char="1263">To</TOKEN>
+				<TOKEN id="token-19-1" start_char="1265" end_char="1266">be</TOKEN>
+				<TOKEN id="token-19-2" start_char="1268" end_char="1275">eligible</TOKEN>
+				<TOKEN id="token-19-3" start_char="1276" end_char="1276">,</TOKEN>
+				<TOKEN id="token-19-4" start_char="1278" end_char="1280">all</TOKEN>
+				<TOKEN id="token-19-5" start_char="1282" end_char="1283">of</TOKEN>
+				<TOKEN id="token-19-6" start_char="1285" end_char="1287">the</TOKEN>
+				<TOKEN id="token-19-7" start_char="1289" end_char="1297">following</TOKEN>
+				<TOKEN id="token-19-8" start_char="1299" end_char="1302">must</TOKEN>
+				<TOKEN id="token-19-9" start_char="1304" end_char="1308">apply</TOKEN>
+				<TOKEN id="token-19-10" start_char="1309" end_char="1309">:</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-20" start_char="1311" end_char="1432">
+				<ORIGINAL_TEXT>You’re an extended family member of a Canadian citizen, person registered under Canada’s Indian Act or permanent resident.</ORIGINAL_TEXT>
+				<TOKEN id="token-20-0" start_char="1311" end_char="1313">You</TOKEN>
+				<TOKEN id="token-20-1" start_char="1314" end_char="1314">’</TOKEN>
+				<TOKEN id="token-20-2" start_char="1315" end_char="1316">re</TOKEN>
+				<TOKEN id="token-20-3" start_char="1318" end_char="1319">an</TOKEN>
+				<TOKEN id="token-20-4" start_char="1321" end_char="1328">extended</TOKEN>
+				<TOKEN id="token-20-5" start_char="1330" end_char="1335">family</TOKEN>
+				<TOKEN id="token-20-6" start_char="1337" end_char="1342">member</TOKEN>
+				<TOKEN id="token-20-7" start_char="1344" end_char="1345">of</TOKEN>
+				<TOKEN id="token-20-8" start_char="1347" end_char="1347">a</TOKEN>
+				<TOKEN id="token-20-9" start_char="1349" end_char="1356">Canadian</TOKEN>
+				<TOKEN id="token-20-10" start_char="1358" end_char="1364">citizen</TOKEN>
+				<TOKEN id="token-20-11" start_char="1365" end_char="1365">,</TOKEN>
+				<TOKEN id="token-20-12" start_char="1367" end_char="1372">person</TOKEN>
+				<TOKEN id="token-20-13" start_char="1374" end_char="1383">registered</TOKEN>
+				<TOKEN id="token-20-14" start_char="1385" end_char="1389">under</TOKEN>
+				<TOKEN id="token-20-15" start_char="1391" end_char="1396">Canada</TOKEN>
+				<TOKEN id="token-20-16" start_char="1397" end_char="1397">’</TOKEN>
+				<TOKEN id="token-20-17" start_char="1398" end_char="1398">s</TOKEN>
+				<TOKEN id="token-20-18" start_char="1400" end_char="1405">Indian</TOKEN>
+				<TOKEN id="token-20-19" start_char="1407" end_char="1409">Act</TOKEN>
+				<TOKEN id="token-20-20" start_char="1411" end_char="1412">or</TOKEN>
+				<TOKEN id="token-20-21" start_char="1414" end_char="1422">permanent</TOKEN>
+				<TOKEN id="token-20-22" start_char="1424" end_char="1431">resident</TOKEN>
+				<TOKEN id="token-20-23" start_char="1432" end_char="1432">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-21" start_char="1434" end_char="1478">
+				<ORIGINAL_TEXT>You’re staying in Canada for 15 days or more.</ORIGINAL_TEXT>
+				<TOKEN id="token-21-0" start_char="1434" end_char="1436">You</TOKEN>
+				<TOKEN id="token-21-1" start_char="1437" end_char="1437">’</TOKEN>
+				<TOKEN id="token-21-2" start_char="1438" end_char="1439">re</TOKEN>
+				<TOKEN id="token-21-3" start_char="1441" end_char="1447">staying</TOKEN>
+				<TOKEN id="token-21-4" start_char="1449" end_char="1450">in</TOKEN>
+				<TOKEN id="token-21-5" start_char="1452" end_char="1457">Canada</TOKEN>
+				<TOKEN id="token-21-6" start_char="1459" end_char="1461">for</TOKEN>
+				<TOKEN id="token-21-7" start_char="1463" end_char="1464">15</TOKEN>
+				<TOKEN id="token-21-8" start_char="1466" end_char="1469">days</TOKEN>
+				<TOKEN id="token-21-9" start_char="1471" end_char="1472">or</TOKEN>
+				<TOKEN id="token-21-10" start_char="1474" end_char="1477">more</TOKEN>
+				<TOKEN id="token-21-11" start_char="1478" end_char="1478">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-22" start_char="1480" end_char="1567">
+				<ORIGINAL_TEXT>You have written authorization from Immigration, Refugees and Citizenship Canada (IRCC).</ORIGINAL_TEXT>
+				<TOKEN id="token-22-0" start_char="1480" end_char="1482">You</TOKEN>
+				<TOKEN id="token-22-1" start_char="1484" end_char="1487">have</TOKEN>
+				<TOKEN id="token-22-2" start_char="1489" end_char="1495">written</TOKEN>
+				<TOKEN id="token-22-3" start_char="1497" end_char="1509">authorization</TOKEN>
+				<TOKEN id="token-22-4" start_char="1511" end_char="1514">from</TOKEN>
+				<TOKEN id="token-22-5" start_char="1516" end_char="1526">Immigration</TOKEN>
+				<TOKEN id="token-22-6" start_char="1527" end_char="1527">,</TOKEN>
+				<TOKEN id="token-22-7" start_char="1529" end_char="1536">Refugees</TOKEN>
+				<TOKEN id="token-22-8" start_char="1538" end_char="1540">and</TOKEN>
+				<TOKEN id="token-22-9" start_char="1542" end_char="1552">Citizenship</TOKEN>
+				<TOKEN id="token-22-10" start_char="1554" end_char="1559">Canada</TOKEN>
+				<TOKEN id="token-22-11" start_char="1561" end_char="1561">(</TOKEN>
+				<TOKEN id="token-22-12" start_char="1562" end_char="1565">IRCC</TOKEN>
+				<TOKEN id="token-22-13" start_char="1566" end_char="1567">).</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-23" start_char="1569" end_char="1676">
+				<ORIGINAL_TEXT>You must also have a quarantine plan that shows how you’ll quarantine for 14 days when you arrive in Canada.</ORIGINAL_TEXT>
+				<TOKEN id="token-23-0" start_char="1569" end_char="1571">You</TOKEN>
+				<TOKEN id="token-23-1" start_char="1573" end_char="1576">must</TOKEN>
+				<TOKEN id="token-23-2" start_char="1578" end_char="1581">also</TOKEN>
+				<TOKEN id="token-23-3" start_char="1583" end_char="1586">have</TOKEN>
+				<TOKEN id="token-23-4" start_char="1588" end_char="1588">a</TOKEN>
+				<TOKEN id="token-23-5" start_char="1590" end_char="1599">quarantine</TOKEN>
+				<TOKEN id="token-23-6" start_char="1601" end_char="1604">plan</TOKEN>
+				<TOKEN id="token-23-7" start_char="1606" end_char="1609">that</TOKEN>
+				<TOKEN id="token-23-8" start_char="1611" end_char="1615">shows</TOKEN>
+				<TOKEN id="token-23-9" start_char="1617" end_char="1619">how</TOKEN>
+				<TOKEN id="token-23-10" start_char="1621" end_char="1623">you</TOKEN>
+				<TOKEN id="token-23-11" start_char="1624" end_char="1624">’</TOKEN>
+				<TOKEN id="token-23-12" start_char="1625" end_char="1626">ll</TOKEN>
+				<TOKEN id="token-23-13" start_char="1628" end_char="1637">quarantine</TOKEN>
+				<TOKEN id="token-23-14" start_char="1639" end_char="1641">for</TOKEN>
+				<TOKEN id="token-23-15" start_char="1643" end_char="1644">14</TOKEN>
+				<TOKEN id="token-23-16" start_char="1646" end_char="1649">days</TOKEN>
+				<TOKEN id="token-23-17" start_char="1651" end_char="1654">when</TOKEN>
+				<TOKEN id="token-23-18" start_char="1656" end_char="1658">you</TOKEN>
+				<TOKEN id="token-23-19" start_char="1660" end_char="1665">arrive</TOKEN>
+				<TOKEN id="token-23-20" start_char="1667" end_char="1668">in</TOKEN>
+				<TOKEN id="token-23-21" start_char="1670" end_char="1675">Canada</TOKEN>
+				<TOKEN id="token-23-22" start_char="1676" end_char="1676">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-24" start_char="1678" end_char="1700">
+				<ORIGINAL_TEXT>This plan is mandatory.</ORIGINAL_TEXT>
+				<TOKEN id="token-24-0" start_char="1678" end_char="1681">This</TOKEN>
+				<TOKEN id="token-24-1" start_char="1683" end_char="1686">plan</TOKEN>
+				<TOKEN id="token-24-2" start_char="1688" end_char="1689">is</TOKEN>
+				<TOKEN id="token-24-3" start_char="1691" end_char="1699">mandatory</TOKEN>
+				<TOKEN id="token-24-4" start_char="1700" end_char="1700">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-25" start_char="1702" end_char="1806">
+				<ORIGINAL_TEXT>Extended family members staying for less than 15 days must be travelling for a non-discretionary purpose.</ORIGINAL_TEXT>
+				<TOKEN id="token-25-0" start_char="1702" end_char="1709">Extended</TOKEN>
+				<TOKEN id="token-25-1" start_char="1711" end_char="1716">family</TOKEN>
+				<TOKEN id="token-25-2" start_char="1718" end_char="1724">members</TOKEN>
+				<TOKEN id="token-25-3" start_char="1726" end_char="1732">staying</TOKEN>
+				<TOKEN id="token-25-4" start_char="1734" end_char="1736">for</TOKEN>
+				<TOKEN id="token-25-5" start_char="1738" end_char="1741">less</TOKEN>
+				<TOKEN id="token-25-6" start_char="1743" end_char="1746">than</TOKEN>
+				<TOKEN id="token-25-7" start_char="1748" end_char="1749">15</TOKEN>
+				<TOKEN id="token-25-8" start_char="1751" end_char="1754">days</TOKEN>
+				<TOKEN id="token-25-9" start_char="1756" end_char="1759">must</TOKEN>
+				<TOKEN id="token-25-10" start_char="1761" end_char="1762">be</TOKEN>
+				<TOKEN id="token-25-11" start_char="1764" end_char="1773">travelling</TOKEN>
+				<TOKEN id="token-25-12" start_char="1775" end_char="1777">for</TOKEN>
+				<TOKEN id="token-25-13" start_char="1779" end_char="1779">a</TOKEN>
+				<TOKEN id="token-25-14" start_char="1781" end_char="1783">non</TOKEN>
+				<TOKEN id="token-25-15" start_char="1784" end_char="1784">-</TOKEN>
+				<TOKEN id="token-25-16" start_char="1785" end_char="1797">discretionary</TOKEN>
+				<TOKEN id="token-25-17" start_char="1799" end_char="1805">purpose</TOKEN>
+				<TOKEN id="token-25-18" start_char="1806" end_char="1806">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-26" start_char="1808" end_char="1885">
+				<ORIGINAL_TEXT>Find out who’s considered an extended family member and how to unite with them</ORIGINAL_TEXT>
+				<TOKEN id="token-26-0" start_char="1808" end_char="1811">Find</TOKEN>
+				<TOKEN id="token-26-1" start_char="1813" end_char="1815">out</TOKEN>
+				<TOKEN id="token-26-2" start_char="1817" end_char="1819">who</TOKEN>
+				<TOKEN id="token-26-3" start_char="1820" end_char="1820">’</TOKEN>
+				<TOKEN id="token-26-4" start_char="1821" end_char="1821">s</TOKEN>
+				<TOKEN id="token-26-5" start_char="1823" end_char="1832">considered</TOKEN>
+				<TOKEN id="token-26-6" start_char="1834" end_char="1835">an</TOKEN>
+				<TOKEN id="token-26-7" start_char="1837" end_char="1844">extended</TOKEN>
+				<TOKEN id="token-26-8" start_char="1846" end_char="1851">family</TOKEN>
+				<TOKEN id="token-26-9" start_char="1853" end_char="1858">member</TOKEN>
+				<TOKEN id="token-26-10" start_char="1860" end_char="1862">and</TOKEN>
+				<TOKEN id="token-26-11" start_char="1864" end_char="1866">how</TOKEN>
+				<TOKEN id="token-26-12" start_char="1868" end_char="1869">to</TOKEN>
+				<TOKEN id="token-26-13" start_char="1871" end_char="1875">unite</TOKEN>
+				<TOKEN id="token-26-14" start_char="1877" end_char="1880">with</TOKEN>
+				<TOKEN id="token-26-15" start_char="1882" end_char="1885">them</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-27" start_char="1887" end_char="1918">
+				<ORIGINAL_TEXT>Coming for compassionate reasons</ORIGINAL_TEXT>
+				<TOKEN id="token-27-0" start_char="1887" end_char="1892">Coming</TOKEN>
+				<TOKEN id="token-27-1" start_char="1894" end_char="1896">for</TOKEN>
+				<TOKEN id="token-27-2" start_char="1898" end_char="1910">compassionate</TOKEN>
+				<TOKEN id="token-27-3" start_char="1912" end_char="1918">reasons</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-28" start_char="1920" end_char="2104">
+				<ORIGINAL_TEXT>If you’re a foreign national travelling to Canada for a compassionate reason, you must get an authorization from the Public Health Agency of Canada (PHAC) to travel to and enter Canada.</ORIGINAL_TEXT>
+				<TOKEN id="token-28-0" start_char="1920" end_char="1921">If</TOKEN>
+				<TOKEN id="token-28-1" start_char="1923" end_char="1925">you</TOKEN>
+				<TOKEN id="token-28-2" start_char="1926" end_char="1926">’</TOKEN>
+				<TOKEN id="token-28-3" start_char="1927" end_char="1928">re</TOKEN>
+				<TOKEN id="token-28-4" start_char="1930" end_char="1930">a</TOKEN>
+				<TOKEN id="token-28-5" start_char="1932" end_char="1938">foreign</TOKEN>
+				<TOKEN id="token-28-6" start_char="1940" end_char="1947">national</TOKEN>
+				<TOKEN id="token-28-7" start_char="1949" end_char="1958">travelling</TOKEN>
+				<TOKEN id="token-28-8" start_char="1960" end_char="1961">to</TOKEN>
+				<TOKEN id="token-28-9" start_char="1963" end_char="1968">Canada</TOKEN>
+				<TOKEN id="token-28-10" start_char="1970" end_char="1972">for</TOKEN>
+				<TOKEN id="token-28-11" start_char="1974" end_char="1974">a</TOKEN>
+				<TOKEN id="token-28-12" start_char="1976" end_char="1988">compassionate</TOKEN>
+				<TOKEN id="token-28-13" start_char="1990" end_char="1995">reason</TOKEN>
+				<TOKEN id="token-28-14" start_char="1996" end_char="1996">,</TOKEN>
+				<TOKEN id="token-28-15" start_char="1998" end_char="2000">you</TOKEN>
+				<TOKEN id="token-28-16" start_char="2002" end_char="2005">must</TOKEN>
+				<TOKEN id="token-28-17" start_char="2007" end_char="2009">get</TOKEN>
+				<TOKEN id="token-28-18" start_char="2011" end_char="2012">an</TOKEN>
+				<TOKEN id="token-28-19" start_char="2014" end_char="2026">authorization</TOKEN>
+				<TOKEN id="token-28-20" start_char="2028" end_char="2031">from</TOKEN>
+				<TOKEN id="token-28-21" start_char="2033" end_char="2035">the</TOKEN>
+				<TOKEN id="token-28-22" start_char="2037" end_char="2042">Public</TOKEN>
+				<TOKEN id="token-28-23" start_char="2044" end_char="2049">Health</TOKEN>
+				<TOKEN id="token-28-24" start_char="2051" end_char="2056">Agency</TOKEN>
+				<TOKEN id="token-28-25" start_char="2058" end_char="2059">of</TOKEN>
+				<TOKEN id="token-28-26" start_char="2061" end_char="2066">Canada</TOKEN>
+				<TOKEN id="token-28-27" start_char="2068" end_char="2068">(</TOKEN>
+				<TOKEN id="token-28-28" start_char="2069" end_char="2072">PHAC</TOKEN>
+				<TOKEN id="token-28-29" start_char="2073" end_char="2073">)</TOKEN>
+				<TOKEN id="token-28-30" start_char="2075" end_char="2076">to</TOKEN>
+				<TOKEN id="token-28-31" start_char="2078" end_char="2083">travel</TOKEN>
+				<TOKEN id="token-28-32" start_char="2085" end_char="2086">to</TOKEN>
+				<TOKEN id="token-28-33" start_char="2088" end_char="2090">and</TOKEN>
+				<TOKEN id="token-28-34" start_char="2092" end_char="2096">enter</TOKEN>
+				<TOKEN id="token-28-35" start_char="2098" end_char="2103">Canada</TOKEN>
+				<TOKEN id="token-28-36" start_char="2104" end_char="2104">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-29" start_char="2106" end_char="2150">
+				<ORIGINAL_TEXT>Examples of compassionate reasons can include</ORIGINAL_TEXT>
+				<TOKEN id="token-29-0" start_char="2106" end_char="2113">Examples</TOKEN>
+				<TOKEN id="token-29-1" start_char="2115" end_char="2116">of</TOKEN>
+				<TOKEN id="token-29-2" start_char="2118" end_char="2130">compassionate</TOKEN>
+				<TOKEN id="token-29-3" start_char="2132" end_char="2138">reasons</TOKEN>
+				<TOKEN id="token-29-4" start_char="2140" end_char="2142">can</TOKEN>
+				<TOKEN id="token-29-5" start_char="2144" end_char="2150">include</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-30" start_char="2152" end_char="2212">
+				<ORIGINAL_TEXT>being present during the final moments of life of a loved one</ORIGINAL_TEXT>
+				<TOKEN id="token-30-0" start_char="2152" end_char="2156">being</TOKEN>
+				<TOKEN id="token-30-1" start_char="2158" end_char="2164">present</TOKEN>
+				<TOKEN id="token-30-2" start_char="2166" end_char="2171">during</TOKEN>
+				<TOKEN id="token-30-3" start_char="2173" end_char="2175">the</TOKEN>
+				<TOKEN id="token-30-4" start_char="2177" end_char="2181">final</TOKEN>
+				<TOKEN id="token-30-5" start_char="2183" end_char="2189">moments</TOKEN>
+				<TOKEN id="token-30-6" start_char="2191" end_char="2192">of</TOKEN>
+				<TOKEN id="token-30-7" start_char="2194" end_char="2197">life</TOKEN>
+				<TOKEN id="token-30-8" start_char="2199" end_char="2200">of</TOKEN>
+				<TOKEN id="token-30-9" start_char="2202" end_char="2202">a</TOKEN>
+				<TOKEN id="token-30-10" start_char="2204" end_char="2208">loved</TOKEN>
+				<TOKEN id="token-30-11" start_char="2210" end_char="2212">one</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-31" start_char="2214" end_char="2264">
+				<ORIGINAL_TEXT>providing support to a person deemed critically ill</ORIGINAL_TEXT>
+				<TOKEN id="token-31-0" start_char="2214" end_char="2222">providing</TOKEN>
+				<TOKEN id="token-31-1" start_char="2224" end_char="2230">support</TOKEN>
+				<TOKEN id="token-31-2" start_char="2232" end_char="2233">to</TOKEN>
+				<TOKEN id="token-31-3" start_char="2235" end_char="2235">a</TOKEN>
+				<TOKEN id="token-31-4" start_char="2237" end_char="2242">person</TOKEN>
+				<TOKEN id="token-31-5" start_char="2244" end_char="2249">deemed</TOKEN>
+				<TOKEN id="token-31-6" start_char="2251" end_char="2260">critically</TOKEN>
+				<TOKEN id="token-31-7" start_char="2262" end_char="2264">ill</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-32" start_char="2266" end_char="2322">
+				<ORIGINAL_TEXT>providing care to a person who medically requires support</ORIGINAL_TEXT>
+				<TOKEN id="token-32-0" start_char="2266" end_char="2274">providing</TOKEN>
+				<TOKEN id="token-32-1" start_char="2276" end_char="2279">care</TOKEN>
+				<TOKEN id="token-32-2" start_char="2281" end_char="2282">to</TOKEN>
+				<TOKEN id="token-32-3" start_char="2284" end_char="2284">a</TOKEN>
+				<TOKEN id="token-32-4" start_char="2286" end_char="2291">person</TOKEN>
+				<TOKEN id="token-32-5" start_char="2293" end_char="2295">who</TOKEN>
+				<TOKEN id="token-32-6" start_char="2297" end_char="2305">medically</TOKEN>
+				<TOKEN id="token-32-7" start_char="2307" end_char="2314">requires</TOKEN>
+				<TOKEN id="token-32-8" start_char="2316" end_char="2322">support</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-33" start_char="2324" end_char="2366">
+				<ORIGINAL_TEXT>attending a funeral or end-of-life ceremony</ORIGINAL_TEXT>
+				<TOKEN id="token-33-0" start_char="2324" end_char="2332">attending</TOKEN>
+				<TOKEN id="token-33-1" start_char="2334" end_char="2334">a</TOKEN>
+				<TOKEN id="token-33-2" start_char="2336" end_char="2342">funeral</TOKEN>
+				<TOKEN id="token-33-3" start_char="2344" end_char="2345">or</TOKEN>
+				<TOKEN id="token-33-4" start_char="2347" end_char="2349">end</TOKEN>
+				<TOKEN id="token-33-5" start_char="2350" end_char="2350">-</TOKEN>
+				<TOKEN id="token-33-6" start_char="2351" end_char="2352">of</TOKEN>
+				<TOKEN id="token-33-7" start_char="2353" end_char="2353">-</TOKEN>
+				<TOKEN id="token-33-8" start_char="2354" end_char="2357">life</TOKEN>
+				<TOKEN id="token-33-9" start_char="2359" end_char="2366">ceremony</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-34" start_char="2368" end_char="2407">
+				<ORIGINAL_TEXT>After you get an authorization from PHAC</ORIGINAL_TEXT>
+				<TOKEN id="token-34-0" start_char="2368" end_char="2372">After</TOKEN>
+				<TOKEN id="token-34-1" start_char="2374" end_char="2376">you</TOKEN>
+				<TOKEN id="token-34-2" start_char="2378" end_char="2380">get</TOKEN>
+				<TOKEN id="token-34-3" start_char="2382" end_char="2383">an</TOKEN>
+				<TOKEN id="token-34-4" start_char="2385" end_char="2397">authorization</TOKEN>
+				<TOKEN id="token-34-5" start_char="2399" end_char="2402">from</TOKEN>
+				<TOKEN id="token-34-6" start_char="2404" end_char="2407">PHAC</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-35" start_char="2409" end_char="2461">
+				<ORIGINAL_TEXT>You may also need to apply for a visitor visa or eTA.</ORIGINAL_TEXT>
+				<TOKEN id="token-35-0" start_char="2409" end_char="2411">You</TOKEN>
+				<TOKEN id="token-35-1" start_char="2413" end_char="2415">may</TOKEN>
+				<TOKEN id="token-35-2" start_char="2417" end_char="2420">also</TOKEN>
+				<TOKEN id="token-35-3" start_char="2422" end_char="2425">need</TOKEN>
+				<TOKEN id="token-35-4" start_char="2427" end_char="2428">to</TOKEN>
+				<TOKEN id="token-35-5" start_char="2430" end_char="2434">apply</TOKEN>
+				<TOKEN id="token-35-6" start_char="2436" end_char="2438">for</TOKEN>
+				<TOKEN id="token-35-7" start_char="2440" end_char="2440">a</TOKEN>
+				<TOKEN id="token-35-8" start_char="2442" end_char="2448">visitor</TOKEN>
+				<TOKEN id="token-35-9" start_char="2450" end_char="2453">visa</TOKEN>
+				<TOKEN id="token-35-10" start_char="2455" end_char="2456">or</TOKEN>
+				<TOKEN id="token-35-11" start_char="2458" end_char="2460">eTA</TOKEN>
+				<TOKEN id="token-35-12" start_char="2461" end_char="2461">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-36" start_char="2463" end_char="2524">
+				<ORIGINAL_TEXT>This will allow you to board your flight and travel to Canada.</ORIGINAL_TEXT>
+				<TOKEN id="token-36-0" start_char="2463" end_char="2466">This</TOKEN>
+				<TOKEN id="token-36-1" start_char="2468" end_char="2471">will</TOKEN>
+				<TOKEN id="token-36-2" start_char="2473" end_char="2477">allow</TOKEN>
+				<TOKEN id="token-36-3" start_char="2479" end_char="2481">you</TOKEN>
+				<TOKEN id="token-36-4" start_char="2483" end_char="2484">to</TOKEN>
+				<TOKEN id="token-36-5" start_char="2486" end_char="2490">board</TOKEN>
+				<TOKEN id="token-36-6" start_char="2492" end_char="2495">your</TOKEN>
+				<TOKEN id="token-36-7" start_char="2497" end_char="2502">flight</TOKEN>
+				<TOKEN id="token-36-8" start_char="2504" end_char="2506">and</TOKEN>
+				<TOKEN id="token-36-9" start_char="2508" end_char="2513">travel</TOKEN>
+				<TOKEN id="token-36-10" start_char="2515" end_char="2516">to</TOKEN>
+				<TOKEN id="token-36-11" start_char="2518" end_char="2523">Canada</TOKEN>
+				<TOKEN id="token-36-12" start_char="2524" end_char="2524">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-37" start_char="2526" end_char="2661">
+				<ORIGINAL_TEXT>If you don’t know which travel document you need to travel to Canada, use our online tool to find out if you need a visitor visa or eTA.</ORIGINAL_TEXT>
+				<TOKEN id="token-37-0" start_char="2526" end_char="2527">If</TOKEN>
+				<TOKEN id="token-37-1" start_char="2529" end_char="2531">you</TOKEN>
+				<TOKEN id="token-37-2" start_char="2533" end_char="2535">don</TOKEN>
+				<TOKEN id="token-37-3" start_char="2536" end_char="2536">’</TOKEN>
+				<TOKEN id="token-37-4" start_char="2537" end_char="2537">t</TOKEN>
+				<TOKEN id="token-37-5" start_char="2539" end_char="2542">know</TOKEN>
+				<TOKEN id="token-37-6" start_char="2544" end_char="2548">which</TOKEN>
+				<TOKEN id="token-37-7" start_char="2550" end_char="2555">travel</TOKEN>
+				<TOKEN id="token-37-8" start_char="2557" end_char="2564">document</TOKEN>
+				<TOKEN id="token-37-9" start_char="2566" end_char="2568">you</TOKEN>
+				<TOKEN id="token-37-10" start_char="2570" end_char="2573">need</TOKEN>
+				<TOKEN id="token-37-11" start_char="2575" end_char="2576">to</TOKEN>
+				<TOKEN id="token-37-12" start_char="2578" end_char="2583">travel</TOKEN>
+				<TOKEN id="token-37-13" start_char="2585" end_char="2586">to</TOKEN>
+				<TOKEN id="token-37-14" start_char="2588" end_char="2593">Canada</TOKEN>
+				<TOKEN id="token-37-15" start_char="2594" end_char="2594">,</TOKEN>
+				<TOKEN id="token-37-16" start_char="2596" end_char="2598">use</TOKEN>
+				<TOKEN id="token-37-17" start_char="2600" end_char="2602">our</TOKEN>
+				<TOKEN id="token-37-18" start_char="2604" end_char="2609">online</TOKEN>
+				<TOKEN id="token-37-19" start_char="2611" end_char="2614">tool</TOKEN>
+				<TOKEN id="token-37-20" start_char="2616" end_char="2617">to</TOKEN>
+				<TOKEN id="token-37-21" start_char="2619" end_char="2622">find</TOKEN>
+				<TOKEN id="token-37-22" start_char="2624" end_char="2626">out</TOKEN>
+				<TOKEN id="token-37-23" start_char="2628" end_char="2629">if</TOKEN>
+				<TOKEN id="token-37-24" start_char="2631" end_char="2633">you</TOKEN>
+				<TOKEN id="token-37-25" start_char="2635" end_char="2638">need</TOKEN>
+				<TOKEN id="token-37-26" start_char="2640" end_char="2640">a</TOKEN>
+				<TOKEN id="token-37-27" start_char="2642" end_char="2648">visitor</TOKEN>
+				<TOKEN id="token-37-28" start_char="2650" end_char="2653">visa</TOKEN>
+				<TOKEN id="token-37-29" start_char="2655" end_char="2656">or</TOKEN>
+				<TOKEN id="token-37-30" start_char="2658" end_char="2660">eTA</TOKEN>
+				<TOKEN id="token-37-31" start_char="2661" end_char="2661">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-38" start_char="2663" end_char="2721">
+				<ORIGINAL_TEXT>Participating in an International Single-Sport Event (ISSE)</ORIGINAL_TEXT>
+				<TOKEN id="token-38-0" start_char="2663" end_char="2675">Participating</TOKEN>
+				<TOKEN id="token-38-1" start_char="2677" end_char="2678">in</TOKEN>
+				<TOKEN id="token-38-2" start_char="2680" end_char="2681">an</TOKEN>
+				<TOKEN id="token-38-3" start_char="2683" end_char="2695">International</TOKEN>
+				<TOKEN id="token-38-4" start_char="2697" end_char="2702">Single</TOKEN>
+				<TOKEN id="token-38-5" start_char="2703" end_char="2703">-</TOKEN>
+				<TOKEN id="token-38-6" start_char="2704" end_char="2708">Sport</TOKEN>
+				<TOKEN id="token-38-7" start_char="2710" end_char="2714">Event</TOKEN>
+				<TOKEN id="token-38-8" start_char="2716" end_char="2716">(</TOKEN>
+				<TOKEN id="token-38-9" start_char="2717" end_char="2720">ISSE</TOKEN>
+				<TOKEN id="token-38-10" start_char="2721" end_char="2721">)</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-39" start_char="2723" end_char="2798">
+				<ORIGINAL_TEXT>You may be eligible to come to Canada to participate in an ISSE, if you’re a</ORIGINAL_TEXT>
+				<TOKEN id="token-39-0" start_char="2723" end_char="2725">You</TOKEN>
+				<TOKEN id="token-39-1" start_char="2727" end_char="2729">may</TOKEN>
+				<TOKEN id="token-39-2" start_char="2731" end_char="2732">be</TOKEN>
+				<TOKEN id="token-39-3" start_char="2734" end_char="2741">eligible</TOKEN>
+				<TOKEN id="token-39-4" start_char="2743" end_char="2744">to</TOKEN>
+				<TOKEN id="token-39-5" start_char="2746" end_char="2749">come</TOKEN>
+				<TOKEN id="token-39-6" start_char="2751" end_char="2752">to</TOKEN>
+				<TOKEN id="token-39-7" start_char="2754" end_char="2759">Canada</TOKEN>
+				<TOKEN id="token-39-8" start_char="2761" end_char="2762">to</TOKEN>
+				<TOKEN id="token-39-9" start_char="2764" end_char="2774">participate</TOKEN>
+				<TOKEN id="token-39-10" start_char="2776" end_char="2777">in</TOKEN>
+				<TOKEN id="token-39-11" start_char="2779" end_char="2780">an</TOKEN>
+				<TOKEN id="token-39-12" start_char="2782" end_char="2785">ISSE</TOKEN>
+				<TOKEN id="token-39-13" start_char="2786" end_char="2786">,</TOKEN>
+				<TOKEN id="token-39-14" start_char="2788" end_char="2789">if</TOKEN>
+				<TOKEN id="token-39-15" start_char="2791" end_char="2793">you</TOKEN>
+				<TOKEN id="token-39-16" start_char="2794" end_char="2794">’</TOKEN>
+				<TOKEN id="token-39-17" start_char="2795" end_char="2796">re</TOKEN>
+				<TOKEN id="token-39-18" start_char="2798" end_char="2798">a</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-40" start_char="2800" end_char="2831">
+				<ORIGINAL_TEXT>high-performance amateur athlete</ORIGINAL_TEXT>
+				<TOKEN id="token-40-0" start_char="2800" end_char="2803">high</TOKEN>
+				<TOKEN id="token-40-1" start_char="2804" end_char="2804">-</TOKEN>
+				<TOKEN id="token-40-2" start_char="2805" end_char="2815">performance</TOKEN>
+				<TOKEN id="token-40-3" start_char="2817" end_char="2823">amateur</TOKEN>
+				<TOKEN id="token-40-4" start_char="2825" end_char="2831">athlete</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-41" start_char="2833" end_char="2944">
+				<ORIGINAL_TEXT>person providing essential support and are affiliated with your national organization responsible for that sport</ORIGINAL_TEXT>
+				<TOKEN id="token-41-0" start_char="2833" end_char="2838">person</TOKEN>
+				<TOKEN id="token-41-1" start_char="2840" end_char="2848">providing</TOKEN>
+				<TOKEN id="token-41-2" start_char="2850" end_char="2858">essential</TOKEN>
+				<TOKEN id="token-41-3" start_char="2860" end_char="2866">support</TOKEN>
+				<TOKEN id="token-41-4" start_char="2868" end_char="2870">and</TOKEN>
+				<TOKEN id="token-41-5" start_char="2872" end_char="2874">are</TOKEN>
+				<TOKEN id="token-41-6" start_char="2876" end_char="2885">affiliated</TOKEN>
+				<TOKEN id="token-41-7" start_char="2887" end_char="2890">with</TOKEN>
+				<TOKEN id="token-41-8" start_char="2892" end_char="2895">your</TOKEN>
+				<TOKEN id="token-41-9" start_char="2897" end_char="2904">national</TOKEN>
+				<TOKEN id="token-41-10" start_char="2906" end_char="2917">organization</TOKEN>
+				<TOKEN id="token-41-11" start_char="2919" end_char="2929">responsible</TOKEN>
+				<TOKEN id="token-41-12" start_char="2931" end_char="2933">for</TOKEN>
+				<TOKEN id="token-41-13" start_char="2935" end_char="2938">that</TOKEN>
+				<TOKEN id="token-41-14" start_char="2940" end_char="2944">sport</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-42" start_char="2946" end_char="3001">
+				<ORIGINAL_TEXT>To come to Canada, your National Sport Organization must</ORIGINAL_TEXT>
+				<TOKEN id="token-42-0" start_char="2946" end_char="2947">To</TOKEN>
+				<TOKEN id="token-42-1" start_char="2949" end_char="2952">come</TOKEN>
+				<TOKEN id="token-42-2" start_char="2954" end_char="2955">to</TOKEN>
+				<TOKEN id="token-42-3" start_char="2957" end_char="2962">Canada</TOKEN>
+				<TOKEN id="token-42-4" start_char="2963" end_char="2963">,</TOKEN>
+				<TOKEN id="token-42-5" start_char="2965" end_char="2968">your</TOKEN>
+				<TOKEN id="token-42-6" start_char="2970" end_char="2977">National</TOKEN>
+				<TOKEN id="token-42-7" start_char="2979" end_char="2983">Sport</TOKEN>
+				<TOKEN id="token-42-8" start_char="2985" end_char="2996">Organization</TOKEN>
+				<TOKEN id="token-42-9" start_char="2998" end_char="3001">must</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-43" start_char="3003" end_char="3083">
+				<ORIGINAL_TEXT>get a letter of authorization from the Deputy Minister of Canadian Heritage (PCH)</ORIGINAL_TEXT>
+				<TOKEN id="token-43-0" start_char="3003" end_char="3005">get</TOKEN>
+				<TOKEN id="token-43-1" start_char="3007" end_char="3007">a</TOKEN>
+				<TOKEN id="token-43-2" start_char="3009" end_char="3014">letter</TOKEN>
+				<TOKEN id="token-43-3" start_char="3016" end_char="3017">of</TOKEN>
+				<TOKEN id="token-43-4" start_char="3019" end_char="3031">authorization</TOKEN>
+				<TOKEN id="token-43-5" start_char="3033" end_char="3036">from</TOKEN>
+				<TOKEN id="token-43-6" start_char="3038" end_char="3040">the</TOKEN>
+				<TOKEN id="token-43-7" start_char="3042" end_char="3047">Deputy</TOKEN>
+				<TOKEN id="token-43-8" start_char="3049" end_char="3056">Minister</TOKEN>
+				<TOKEN id="token-43-9" start_char="3058" end_char="3059">of</TOKEN>
+				<TOKEN id="token-43-10" start_char="3061" end_char="3068">Canadian</TOKEN>
+				<TOKEN id="token-43-11" start_char="3070" end_char="3077">Heritage</TOKEN>
+				<TOKEN id="token-43-12" start_char="3079" end_char="3079">(</TOKEN>
+				<TOKEN id="token-43-13" start_char="3080" end_char="3082">PCH</TOKEN>
+				<TOKEN id="token-43-14" start_char="3083" end_char="3083">)</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-44" start_char="3085" end_char="3186">
+				<ORIGINAL_TEXT>receive ongoing support from provincial or territorial governments and local public health authorities</ORIGINAL_TEXT>
+				<TOKEN id="token-44-0" start_char="3085" end_char="3091">receive</TOKEN>
+				<TOKEN id="token-44-1" start_char="3093" end_char="3099">ongoing</TOKEN>
+				<TOKEN id="token-44-2" start_char="3101" end_char="3107">support</TOKEN>
+				<TOKEN id="token-44-3" start_char="3109" end_char="3112">from</TOKEN>
+				<TOKEN id="token-44-4" start_char="3114" end_char="3123">provincial</TOKEN>
+				<TOKEN id="token-44-5" start_char="3125" end_char="3126">or</TOKEN>
+				<TOKEN id="token-44-6" start_char="3128" end_char="3138">territorial</TOKEN>
+				<TOKEN id="token-44-7" start_char="3140" end_char="3150">governments</TOKEN>
+				<TOKEN id="token-44-8" start_char="3152" end_char="3154">and</TOKEN>
+				<TOKEN id="token-44-9" start_char="3156" end_char="3160">local</TOKEN>
+				<TOKEN id="token-44-10" start_char="3162" end_char="3167">public</TOKEN>
+				<TOKEN id="token-44-11" start_char="3169" end_char="3174">health</TOKEN>
+				<TOKEN id="token-44-12" start_char="3176" end_char="3186">authorities</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-45" start_char="3188" end_char="3272">
+				<ORIGINAL_TEXT>You need to bring the letter of authorization with you to travel to and enter Canada.</ORIGINAL_TEXT>
+				<TOKEN id="token-45-0" start_char="3188" end_char="3190">You</TOKEN>
+				<TOKEN id="token-45-1" start_char="3192" end_char="3195">need</TOKEN>
+				<TOKEN id="token-45-2" start_char="3197" end_char="3198">to</TOKEN>
+				<TOKEN id="token-45-3" start_char="3200" end_char="3204">bring</TOKEN>
+				<TOKEN id="token-45-4" start_char="3206" end_char="3208">the</TOKEN>
+				<TOKEN id="token-45-5" start_char="3210" end_char="3215">letter</TOKEN>
+				<TOKEN id="token-45-6" start_char="3217" end_char="3218">of</TOKEN>
+				<TOKEN id="token-45-7" start_char="3220" end_char="3232">authorization</TOKEN>
+				<TOKEN id="token-45-8" start_char="3234" end_char="3237">with</TOKEN>
+				<TOKEN id="token-45-9" start_char="3239" end_char="3241">you</TOKEN>
+				<TOKEN id="token-45-10" start_char="3243" end_char="3244">to</TOKEN>
+				<TOKEN id="token-45-11" start_char="3246" end_char="3251">travel</TOKEN>
+				<TOKEN id="token-45-12" start_char="3253" end_char="3254">to</TOKEN>
+				<TOKEN id="token-45-13" start_char="3256" end_char="3258">and</TOKEN>
+				<TOKEN id="token-45-14" start_char="3260" end_char="3264">enter</TOKEN>
+				<TOKEN id="token-45-15" start_char="3266" end_char="3271">Canada</TOKEN>
+				<TOKEN id="token-45-16" start_char="3272" end_char="3272">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-46" start_char="3274" end_char="3357">
+				<ORIGINAL_TEXT>In most cases you also need a visitor visa or Electronic Travel Authorization (eTA).</ORIGINAL_TEXT>
+				<TOKEN id="token-46-0" start_char="3274" end_char="3275">In</TOKEN>
+				<TOKEN id="token-46-1" start_char="3277" end_char="3280">most</TOKEN>
+				<TOKEN id="token-46-2" start_char="3282" end_char="3286">cases</TOKEN>
+				<TOKEN id="token-46-3" start_char="3288" end_char="3290">you</TOKEN>
+				<TOKEN id="token-46-4" start_char="3292" end_char="3295">also</TOKEN>
+				<TOKEN id="token-46-5" start_char="3297" end_char="3300">need</TOKEN>
+				<TOKEN id="token-46-6" start_char="3302" end_char="3302">a</TOKEN>
+				<TOKEN id="token-46-7" start_char="3304" end_char="3310">visitor</TOKEN>
+				<TOKEN id="token-46-8" start_char="3312" end_char="3315">visa</TOKEN>
+				<TOKEN id="token-46-9" start_char="3317" end_char="3318">or</TOKEN>
+				<TOKEN id="token-46-10" start_char="3320" end_char="3329">Electronic</TOKEN>
+				<TOKEN id="token-46-11" start_char="3331" end_char="3336">Travel</TOKEN>
+				<TOKEN id="token-46-12" start_char="3338" end_char="3350">Authorization</TOKEN>
+				<TOKEN id="token-46-13" start_char="3352" end_char="3352">(</TOKEN>
+				<TOKEN id="token-46-14" start_char="3353" end_char="3355">eTA</TOKEN>
+				<TOKEN id="token-46-15" start_char="3356" end_char="3357">).</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-47" start_char="3359" end_char="3494">
+				<ORIGINAL_TEXT>PCH will give you instructions about when to apply for your visitor visa or eTA (if needed) and how to get your application prioritized.</ORIGINAL_TEXT>
+				<TOKEN id="token-47-0" start_char="3359" end_char="3361">PCH</TOKEN>
+				<TOKEN id="token-47-1" start_char="3363" end_char="3366">will</TOKEN>
+				<TOKEN id="token-47-2" start_char="3368" end_char="3371">give</TOKEN>
+				<TOKEN id="token-47-3" start_char="3373" end_char="3375">you</TOKEN>
+				<TOKEN id="token-47-4" start_char="3377" end_char="3388">instructions</TOKEN>
+				<TOKEN id="token-47-5" start_char="3390" end_char="3394">about</TOKEN>
+				<TOKEN id="token-47-6" start_char="3396" end_char="3399">when</TOKEN>
+				<TOKEN id="token-47-7" start_char="3401" end_char="3402">to</TOKEN>
+				<TOKEN id="token-47-8" start_char="3404" end_char="3408">apply</TOKEN>
+				<TOKEN id="token-47-9" start_char="3410" end_char="3412">for</TOKEN>
+				<TOKEN id="token-47-10" start_char="3414" end_char="3417">your</TOKEN>
+				<TOKEN id="token-47-11" start_char="3419" end_char="3425">visitor</TOKEN>
+				<TOKEN id="token-47-12" start_char="3427" end_char="3430">visa</TOKEN>
+				<TOKEN id="token-47-13" start_char="3432" end_char="3433">or</TOKEN>
+				<TOKEN id="token-47-14" start_char="3435" end_char="3437">eTA</TOKEN>
+				<TOKEN id="token-47-15" start_char="3439" end_char="3439">(</TOKEN>
+				<TOKEN id="token-47-16" start_char="3440" end_char="3441">if</TOKEN>
+				<TOKEN id="token-47-17" start_char="3443" end_char="3448">needed</TOKEN>
+				<TOKEN id="token-47-18" start_char="3449" end_char="3449">)</TOKEN>
+				<TOKEN id="token-47-19" start_char="3451" end_char="3453">and</TOKEN>
+				<TOKEN id="token-47-20" start_char="3455" end_char="3457">how</TOKEN>
+				<TOKEN id="token-47-21" start_char="3459" end_char="3460">to</TOKEN>
+				<TOKEN id="token-47-22" start_char="3462" end_char="3464">get</TOKEN>
+				<TOKEN id="token-47-23" start_char="3466" end_char="3469">your</TOKEN>
+				<TOKEN id="token-47-24" start_char="3471" end_char="3481">application</TOKEN>
+				<TOKEN id="token-47-25" start_char="3483" end_char="3493">prioritized</TOKEN>
+				<TOKEN id="token-47-26" start_char="3494" end_char="3494">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-48" start_char="3496" end_char="3541">
+				<ORIGINAL_TEXT>Find out more about the authorization process.</ORIGINAL_TEXT>
+				<TOKEN id="token-48-0" start_char="3496" end_char="3499">Find</TOKEN>
+				<TOKEN id="token-48-1" start_char="3501" end_char="3503">out</TOKEN>
+				<TOKEN id="token-48-2" start_char="3505" end_char="3508">more</TOKEN>
+				<TOKEN id="token-48-3" start_char="3510" end_char="3514">about</TOKEN>
+				<TOKEN id="token-48-4" start_char="3516" end_char="3518">the</TOKEN>
+				<TOKEN id="token-48-5" start_char="3520" end_char="3532">authorization</TOKEN>
+				<TOKEN id="token-48-6" start_char="3534" end_char="3540">process</TOKEN>
+				<TOKEN id="token-48-7" start_char="3541" end_char="3541">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-49" start_char="3543" end_char="3569">
+				<ORIGINAL_TEXT>All other foreign nationals</ORIGINAL_TEXT>
+				<TOKEN id="token-49-0" start_char="3543" end_char="3545">All</TOKEN>
+				<TOKEN id="token-49-1" start_char="3547" end_char="3551">other</TOKEN>
+				<TOKEN id="token-49-2" start_char="3553" end_char="3559">foreign</TOKEN>
+				<TOKEN id="token-49-3" start_char="3561" end_char="3569">nationals</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-50" start_char="3571" end_char="3634">
+				<ORIGINAL_TEXT>To be eligible, you must meet one of the following requirements:</ORIGINAL_TEXT>
+				<TOKEN id="token-50-0" start_char="3571" end_char="3572">To</TOKEN>
+				<TOKEN id="token-50-1" start_char="3574" end_char="3575">be</TOKEN>
+				<TOKEN id="token-50-2" start_char="3577" end_char="3584">eligible</TOKEN>
+				<TOKEN id="token-50-3" start_char="3585" end_char="3585">,</TOKEN>
+				<TOKEN id="token-50-4" start_char="3587" end_char="3589">you</TOKEN>
+				<TOKEN id="token-50-5" start_char="3591" end_char="3594">must</TOKEN>
+				<TOKEN id="token-50-6" start_char="3596" end_char="3599">meet</TOKEN>
+				<TOKEN id="token-50-7" start_char="3601" end_char="3603">one</TOKEN>
+				<TOKEN id="token-50-8" start_char="3605" end_char="3606">of</TOKEN>
+				<TOKEN id="token-50-9" start_char="3608" end_char="3610">the</TOKEN>
+				<TOKEN id="token-50-10" start_char="3612" end_char="3620">following</TOKEN>
+				<TOKEN id="token-50-11" start_char="3622" end_char="3633">requirements</TOKEN>
+				<TOKEN id="token-50-12" start_char="3634" end_char="3634">:</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-51" start_char="3636" end_char="3711">
+				<ORIGINAL_TEXT>You must be travelling directly from the US for a non-discretionary purpose.</ORIGINAL_TEXT>
+				<TOKEN id="token-51-0" start_char="3636" end_char="3638">You</TOKEN>
+				<TOKEN id="token-51-1" start_char="3640" end_char="3643">must</TOKEN>
+				<TOKEN id="token-51-2" start_char="3645" end_char="3646">be</TOKEN>
+				<TOKEN id="token-51-3" start_char="3648" end_char="3657">travelling</TOKEN>
+				<TOKEN id="token-51-4" start_char="3659" end_char="3666">directly</TOKEN>
+				<TOKEN id="token-51-5" start_char="3668" end_char="3671">from</TOKEN>
+				<TOKEN id="token-51-6" start_char="3673" end_char="3675">the</TOKEN>
+				<TOKEN id="token-51-7" start_char="3677" end_char="3678">US</TOKEN>
+				<TOKEN id="token-51-8" start_char="3680" end_char="3682">for</TOKEN>
+				<TOKEN id="token-51-9" start_char="3684" end_char="3684">a</TOKEN>
+				<TOKEN id="token-51-10" start_char="3686" end_char="3688">non</TOKEN>
+				<TOKEN id="token-51-11" start_char="3689" end_char="3689">-</TOKEN>
+				<TOKEN id="token-51-12" start_char="3690" end_char="3702">discretionary</TOKEN>
+				<TOKEN id="token-51-13" start_char="3704" end_char="3710">purpose</TOKEN>
+				<TOKEN id="token-51-14" start_char="3711" end_char="3711">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-52" start_char="3713" end_char="3810">
+				<ORIGINAL_TEXT>You must be exempt from the travel restrictions and be travelling for a non-discretionary purpose.</ORIGINAL_TEXT>
+				<TOKEN id="token-52-0" start_char="3713" end_char="3715">You</TOKEN>
+				<TOKEN id="token-52-1" start_char="3717" end_char="3720">must</TOKEN>
+				<TOKEN id="token-52-2" start_char="3722" end_char="3723">be</TOKEN>
+				<TOKEN id="token-52-3" start_char="3725" end_char="3730">exempt</TOKEN>
+				<TOKEN id="token-52-4" start_char="3732" end_char="3735">from</TOKEN>
+				<TOKEN id="token-52-5" start_char="3737" end_char="3739">the</TOKEN>
+				<TOKEN id="token-52-6" start_char="3741" end_char="3746">travel</TOKEN>
+				<TOKEN id="token-52-7" start_char="3748" end_char="3759">restrictions</TOKEN>
+				<TOKEN id="token-52-8" start_char="3761" end_char="3763">and</TOKEN>
+				<TOKEN id="token-52-9" start_char="3765" end_char="3766">be</TOKEN>
+				<TOKEN id="token-52-10" start_char="3768" end_char="3777">travelling</TOKEN>
+				<TOKEN id="token-52-11" start_char="3779" end_char="3781">for</TOKEN>
+				<TOKEN id="token-52-12" start_char="3783" end_char="3783">a</TOKEN>
+				<TOKEN id="token-52-13" start_char="3785" end_char="3787">non</TOKEN>
+				<TOKEN id="token-52-14" start_char="3788" end_char="3788">-</TOKEN>
+				<TOKEN id="token-52-15" start_char="3789" end_char="3801">discretionary</TOKEN>
+				<TOKEN id="token-52-16" start_char="3803" end_char="3809">purpose</TOKEN>
+				<TOKEN id="token-52-17" start_char="3810" end_char="3810">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-53" start_char="3812" end_char="3892">
+				<ORIGINAL_TEXT>Travellers coming from outside the US who are exempt from the travel restrictions</ORIGINAL_TEXT>
+				<TOKEN id="token-53-0" start_char="3812" end_char="3821">Travellers</TOKEN>
+				<TOKEN id="token-53-1" start_char="3823" end_char="3828">coming</TOKEN>
+				<TOKEN id="token-53-2" start_char="3830" end_char="3833">from</TOKEN>
+				<TOKEN id="token-53-3" start_char="3835" end_char="3841">outside</TOKEN>
+				<TOKEN id="token-53-4" start_char="3843" end_char="3845">the</TOKEN>
+				<TOKEN id="token-53-5" start_char="3847" end_char="3848">US</TOKEN>
+				<TOKEN id="token-53-6" start_char="3850" end_char="3852">who</TOKEN>
+				<TOKEN id="token-53-7" start_char="3854" end_char="3856">are</TOKEN>
+				<TOKEN id="token-53-8" start_char="3858" end_char="3863">exempt</TOKEN>
+				<TOKEN id="token-53-9" start_char="3865" end_char="3868">from</TOKEN>
+				<TOKEN id="token-53-10" start_char="3870" end_char="3872">the</TOKEN>
+				<TOKEN id="token-53-11" start_char="3874" end_char="3879">travel</TOKEN>
+				<TOKEN id="token-53-12" start_char="3881" end_char="3892">restrictions</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-54" start_char="3894" end_char="3918">
+				<ORIGINAL_TEXT>temporary foreign workers</ORIGINAL_TEXT>
+				<TOKEN id="token-54-0" start_char="3894" end_char="3902">temporary</TOKEN>
+				<TOKEN id="token-54-1" start_char="3904" end_char="3910">foreign</TOKEN>
+				<TOKEN id="token-54-2" start_char="3912" end_char="3918">workers</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-55" start_char="3920" end_char="3946">
+				<ORIGINAL_TEXT>some international students</ORIGINAL_TEXT>
+				<TOKEN id="token-55-0" start_char="3920" end_char="3923">some</TOKEN>
+				<TOKEN id="token-55-1" start_char="3925" end_char="3937">international</TOKEN>
+				<TOKEN id="token-55-2" start_char="3939" end_char="3946">students</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-56" start_char="3948" end_char="4063">
+				<ORIGINAL_TEXT>some people who have been approved to become a permanent resident of Canada, but who are not yet permanent residents</ORIGINAL_TEXT>
+				<TOKEN id="token-56-0" start_char="3948" end_char="3951">some</TOKEN>
+				<TOKEN id="token-56-1" start_char="3953" end_char="3958">people</TOKEN>
+				<TOKEN id="token-56-2" start_char="3960" end_char="3962">who</TOKEN>
+				<TOKEN id="token-56-3" start_char="3964" end_char="3967">have</TOKEN>
+				<TOKEN id="token-56-4" start_char="3969" end_char="3972">been</TOKEN>
+				<TOKEN id="token-56-5" start_char="3974" end_char="3981">approved</TOKEN>
+				<TOKEN id="token-56-6" start_char="3983" end_char="3984">to</TOKEN>
+				<TOKEN id="token-56-7" start_char="3986" end_char="3991">become</TOKEN>
+				<TOKEN id="token-56-8" start_char="3993" end_char="3993">a</TOKEN>
+				<TOKEN id="token-56-9" start_char="3995" end_char="4003">permanent</TOKEN>
+				<TOKEN id="token-56-10" start_char="4005" end_char="4012">resident</TOKEN>
+				<TOKEN id="token-56-11" start_char="4014" end_char="4015">of</TOKEN>
+				<TOKEN id="token-56-12" start_char="4017" end_char="4022">Canada</TOKEN>
+				<TOKEN id="token-56-13" start_char="4023" end_char="4023">,</TOKEN>
+				<TOKEN id="token-56-14" start_char="4025" end_char="4027">but</TOKEN>
+				<TOKEN id="token-56-15" start_char="4029" end_char="4031">who</TOKEN>
+				<TOKEN id="token-56-16" start_char="4033" end_char="4035">are</TOKEN>
+				<TOKEN id="token-56-17" start_char="4037" end_char="4039">not</TOKEN>
+				<TOKEN id="token-56-18" start_char="4041" end_char="4043">yet</TOKEN>
+				<TOKEN id="token-56-19" start_char="4045" end_char="4053">permanent</TOKEN>
+				<TOKEN id="token-56-20" start_char="4055" end_char="4063">residents</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-57" start_char="4065" end_char="4237">
+				<ORIGINAL_TEXT>immediate family members with written authorization from IRCC to reunite with a temporary resident of Canada (see Uniting with immediate family members for more information)</ORIGINAL_TEXT>
+				<TOKEN id="token-57-0" start_char="4065" end_char="4073">immediate</TOKEN>
+				<TOKEN id="token-57-1" start_char="4075" end_char="4080">family</TOKEN>
+				<TOKEN id="token-57-2" start_char="4082" end_char="4088">members</TOKEN>
+				<TOKEN id="token-57-3" start_char="4090" end_char="4093">with</TOKEN>
+				<TOKEN id="token-57-4" start_char="4095" end_char="4101">written</TOKEN>
+				<TOKEN id="token-57-5" start_char="4103" end_char="4115">authorization</TOKEN>
+				<TOKEN id="token-57-6" start_char="4117" end_char="4120">from</TOKEN>
+				<TOKEN id="token-57-7" start_char="4122" end_char="4125">IRCC</TOKEN>
+				<TOKEN id="token-57-8" start_char="4127" end_char="4128">to</TOKEN>
+				<TOKEN id="token-57-9" start_char="4130" end_char="4136">reunite</TOKEN>
+				<TOKEN id="token-57-10" start_char="4138" end_char="4141">with</TOKEN>
+				<TOKEN id="token-57-11" start_char="4143" end_char="4143">a</TOKEN>
+				<TOKEN id="token-57-12" start_char="4145" end_char="4153">temporary</TOKEN>
+				<TOKEN id="token-57-13" start_char="4155" end_char="4162">resident</TOKEN>
+				<TOKEN id="token-57-14" start_char="4164" end_char="4165">of</TOKEN>
+				<TOKEN id="token-57-15" start_char="4167" end_char="4172">Canada</TOKEN>
+				<TOKEN id="token-57-16" start_char="4174" end_char="4174">(</TOKEN>
+				<TOKEN id="token-57-17" start_char="4175" end_char="4177">see</TOKEN>
+				<TOKEN id="token-57-18" start_char="4179" end_char="4185">Uniting</TOKEN>
+				<TOKEN id="token-57-19" start_char="4187" end_char="4190">with</TOKEN>
+				<TOKEN id="token-57-20" start_char="4192" end_char="4200">immediate</TOKEN>
+				<TOKEN id="token-57-21" start_char="4202" end_char="4207">family</TOKEN>
+				<TOKEN id="token-57-22" start_char="4209" end_char="4215">members</TOKEN>
+				<TOKEN id="token-57-23" start_char="4217" end_char="4219">for</TOKEN>
+				<TOKEN id="token-57-24" start_char="4221" end_char="4224">more</TOKEN>
+				<TOKEN id="token-57-25" start_char="4226" end_char="4236">information</TOKEN>
+				<TOKEN id="token-57-26" start_char="4237" end_char="4237">)</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-58" start_char="4239" end_char="4351">
+				<ORIGINAL_TEXT>transiting passengers (must remain in the secure transit area of a Canadian airport to complete their connection)</ORIGINAL_TEXT>
+				<TOKEN id="token-58-0" start_char="4239" end_char="4248">transiting</TOKEN>
+				<TOKEN id="token-58-1" start_char="4250" end_char="4259">passengers</TOKEN>
+				<TOKEN id="token-58-2" start_char="4261" end_char="4261">(</TOKEN>
+				<TOKEN id="token-58-3" start_char="4262" end_char="4265">must</TOKEN>
+				<TOKEN id="token-58-4" start_char="4267" end_char="4272">remain</TOKEN>
+				<TOKEN id="token-58-5" start_char="4274" end_char="4275">in</TOKEN>
+				<TOKEN id="token-58-6" start_char="4277" end_char="4279">the</TOKEN>
+				<TOKEN id="token-58-7" start_char="4281" end_char="4286">secure</TOKEN>
+				<TOKEN id="token-58-8" start_char="4288" end_char="4294">transit</TOKEN>
+				<TOKEN id="token-58-9" start_char="4296" end_char="4299">area</TOKEN>
+				<TOKEN id="token-58-10" start_char="4301" end_char="4302">of</TOKEN>
+				<TOKEN id="token-58-11" start_char="4304" end_char="4304">a</TOKEN>
+				<TOKEN id="token-58-12" start_char="4306" end_char="4313">Canadian</TOKEN>
+				<TOKEN id="token-58-13" start_char="4315" end_char="4321">airport</TOKEN>
+				<TOKEN id="token-58-14" start_char="4323" end_char="4324">to</TOKEN>
+				<TOKEN id="token-58-15" start_char="4326" end_char="4333">complete</TOKEN>
+				<TOKEN id="token-58-16" start_char="4335" end_char="4339">their</TOKEN>
+				<TOKEN id="token-58-17" start_char="4341" end_char="4350">connection</TOKEN>
+				<TOKEN id="token-58-18" start_char="4351" end_char="4351">)</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-59" start_char="4353" end_char="4500">
+				<ORIGINAL_TEXT>members of the Canadian forces, visiting forces coming to perform official duties, Department of National Defence and their immediate family members</ORIGINAL_TEXT>
+				<TOKEN id="token-59-0" start_char="4353" end_char="4359">members</TOKEN>
+				<TOKEN id="token-59-1" start_char="4361" end_char="4362">of</TOKEN>
+				<TOKEN id="token-59-2" start_char="4364" end_char="4366">the</TOKEN>
+				<TOKEN id="token-59-3" start_char="4368" end_char="4375">Canadian</TOKEN>
+				<TOKEN id="token-59-4" start_char="4377" end_char="4382">forces</TOKEN>
+				<TOKEN id="token-59-5" start_char="4383" end_char="4383">,</TOKEN>
+				<TOKEN id="token-59-6" start_char="4385" end_char="4392">visiting</TOKEN>
+				<TOKEN id="token-59-7" start_char="4394" end_char="4399">forces</TOKEN>
+				<TOKEN id="token-59-8" start_char="4401" end_char="4406">coming</TOKEN>
+				<TOKEN id="token-59-9" start_char="4408" end_char="4409">to</TOKEN>
+				<TOKEN id="token-59-10" start_char="4411" end_char="4417">perform</TOKEN>
+				<TOKEN id="token-59-11" start_char="4419" end_char="4426">official</TOKEN>
+				<TOKEN id="token-59-12" start_char="4428" end_char="4433">duties</TOKEN>
+				<TOKEN id="token-59-13" start_char="4434" end_char="4434">,</TOKEN>
+				<TOKEN id="token-59-14" start_char="4436" end_char="4445">Department</TOKEN>
+				<TOKEN id="token-59-15" start_char="4447" end_char="4448">of</TOKEN>
+				<TOKEN id="token-59-16" start_char="4450" end_char="4457">National</TOKEN>
+				<TOKEN id="token-59-17" start_char="4459" end_char="4465">Defence</TOKEN>
+				<TOKEN id="token-59-18" start_char="4467" end_char="4469">and</TOKEN>
+				<TOKEN id="token-59-19" start_char="4471" end_char="4475">their</TOKEN>
+				<TOKEN id="token-59-20" start_char="4477" end_char="4485">immediate</TOKEN>
+				<TOKEN id="token-59-21" start_char="4487" end_char="4492">family</TOKEN>
+				<TOKEN id="token-59-22" start_char="4494" end_char="4500">members</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-60" start_char="4502" end_char="4685">
+				<ORIGINAL_TEXT>accredited diplomats and their immediate family members (includes North Atlantic Treaty Organization [NATO], those under the United Nations Headquarters Agreement, other organizations)</ORIGINAL_TEXT>
+				<TOKEN id="token-60-0" start_char="4502" end_char="4511">accredited</TOKEN>
+				<TOKEN id="token-60-1" start_char="4513" end_char="4521">diplomats</TOKEN>
+				<TOKEN id="token-60-2" start_char="4523" end_char="4525">and</TOKEN>
+				<TOKEN id="token-60-3" start_char="4527" end_char="4531">their</TOKEN>
+				<TOKEN id="token-60-4" start_char="4533" end_char="4541">immediate</TOKEN>
+				<TOKEN id="token-60-5" start_char="4543" end_char="4548">family</TOKEN>
+				<TOKEN id="token-60-6" start_char="4550" end_char="4556">members</TOKEN>
+				<TOKEN id="token-60-7" start_char="4558" end_char="4558">(</TOKEN>
+				<TOKEN id="token-60-8" start_char="4559" end_char="4566">includes</TOKEN>
+				<TOKEN id="token-60-9" start_char="4568" end_char="4572">North</TOKEN>
+				<TOKEN id="token-60-10" start_char="4574" end_char="4581">Atlantic</TOKEN>
+				<TOKEN id="token-60-11" start_char="4583" end_char="4588">Treaty</TOKEN>
+				<TOKEN id="token-60-12" start_char="4590" end_char="4601">Organization</TOKEN>
+				<TOKEN id="token-60-13" start_char="4603" end_char="4603">[</TOKEN>
+				<TOKEN id="token-60-14" start_char="4604" end_char="4607">NATO</TOKEN>
+				<TOKEN id="token-60-15" start_char="4608" end_char="4609">],</TOKEN>
+				<TOKEN id="token-60-16" start_char="4611" end_char="4615">those</TOKEN>
+				<TOKEN id="token-60-17" start_char="4617" end_char="4621">under</TOKEN>
+				<TOKEN id="token-60-18" start_char="4623" end_char="4625">the</TOKEN>
+				<TOKEN id="token-60-19" start_char="4627" end_char="4632">United</TOKEN>
+				<TOKEN id="token-60-20" start_char="4634" end_char="4640">Nations</TOKEN>
+				<TOKEN id="token-60-21" start_char="4642" end_char="4653">Headquarters</TOKEN>
+				<TOKEN id="token-60-22" start_char="4655" end_char="4663">Agreement</TOKEN>
+				<TOKEN id="token-60-23" start_char="4664" end_char="4664">,</TOKEN>
+				<TOKEN id="token-60-24" start_char="4666" end_char="4670">other</TOKEN>
+				<TOKEN id="token-60-25" start_char="4672" end_char="4684">organizations</TOKEN>
+				<TOKEN id="token-60-26" start_char="4685" end_char="4685">)</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-61" start_char="4687" end_char="4713">
+				<ORIGINAL_TEXT>air and marine crew members</ORIGINAL_TEXT>
+				<TOKEN id="token-61-0" start_char="4687" end_char="4689">air</TOKEN>
+				<TOKEN id="token-61-1" start_char="4691" end_char="4693">and</TOKEN>
+				<TOKEN id="token-61-2" start_char="4695" end_char="4700">marine</TOKEN>
+				<TOKEN id="token-61-3" start_char="4702" end_char="4705">crew</TOKEN>
+				<TOKEN id="token-61-4" start_char="4707" end_char="4713">members</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-62" start_char="4715" end_char="4893">
+				<ORIGINAL_TEXT>French citizens who live in Saint-Pierre and Miquelon and have been in only Canada, the US or Saint-Pierre and Miquelon during the 14 days before the day they seek to enter Canada</ORIGINAL_TEXT>
+				<TOKEN id="token-62-0" start_char="4715" end_char="4720">French</TOKEN>
+				<TOKEN id="token-62-1" start_char="4722" end_char="4729">citizens</TOKEN>
+				<TOKEN id="token-62-2" start_char="4731" end_char="4733">who</TOKEN>
+				<TOKEN id="token-62-3" start_char="4735" end_char="4738">live</TOKEN>
+				<TOKEN id="token-62-4" start_char="4740" end_char="4741">in</TOKEN>
+				<TOKEN id="token-62-5" start_char="4743" end_char="4747">Saint</TOKEN>
+				<TOKEN id="token-62-6" start_char="4748" end_char="4748">-</TOKEN>
+				<TOKEN id="token-62-7" start_char="4749" end_char="4754">Pierre</TOKEN>
+				<TOKEN id="token-62-8" start_char="4756" end_char="4758">and</TOKEN>
+				<TOKEN id="token-62-9" start_char="4760" end_char="4767">Miquelon</TOKEN>
+				<TOKEN id="token-62-10" start_char="4769" end_char="4771">and</TOKEN>
+				<TOKEN id="token-62-11" start_char="4773" end_char="4776">have</TOKEN>
+				<TOKEN id="token-62-12" start_char="4778" end_char="4781">been</TOKEN>
+				<TOKEN id="token-62-13" start_char="4783" end_char="4784">in</TOKEN>
+				<TOKEN id="token-62-14" start_char="4786" end_char="4789">only</TOKEN>
+				<TOKEN id="token-62-15" start_char="4791" end_char="4796">Canada</TOKEN>
+				<TOKEN id="token-62-16" start_char="4797" end_char="4797">,</TOKEN>
+				<TOKEN id="token-62-17" start_char="4799" end_char="4801">the</TOKEN>
+				<TOKEN id="token-62-18" start_char="4803" end_char="4804">US</TOKEN>
+				<TOKEN id="token-62-19" start_char="4806" end_char="4807">or</TOKEN>
+				<TOKEN id="token-62-20" start_char="4809" end_char="4813">Saint</TOKEN>
+				<TOKEN id="token-62-21" start_char="4814" end_char="4814">-</TOKEN>
+				<TOKEN id="token-62-22" start_char="4815" end_char="4820">Pierre</TOKEN>
+				<TOKEN id="token-62-23" start_char="4822" end_char="4824">and</TOKEN>
+				<TOKEN id="token-62-24" start_char="4826" end_char="4833">Miquelon</TOKEN>
+				<TOKEN id="token-62-25" start_char="4835" end_char="4840">during</TOKEN>
+				<TOKEN id="token-62-26" start_char="4842" end_char="4844">the</TOKEN>
+				<TOKEN id="token-62-27" start_char="4846" end_char="4847">14</TOKEN>
+				<TOKEN id="token-62-28" start_char="4849" end_char="4852">days</TOKEN>
+				<TOKEN id="token-62-29" start_char="4854" end_char="4859">before</TOKEN>
+				<TOKEN id="token-62-30" start_char="4861" end_char="4863">the</TOKEN>
+				<TOKEN id="token-62-31" start_char="4865" end_char="4867">day</TOKEN>
+				<TOKEN id="token-62-32" start_char="4869" end_char="4872">they</TOKEN>
+				<TOKEN id="token-62-33" start_char="4874" end_char="4877">seek</TOKEN>
+				<TOKEN id="token-62-34" start_char="4879" end_char="4880">to</TOKEN>
+				<TOKEN id="token-62-35" start_char="4882" end_char="4886">enter</TOKEN>
+				<TOKEN id="token-62-36" start_char="4888" end_char="4893">Canada</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-63" start_char="4895" end_char="5078">
+				<ORIGINAL_TEXT>any person who does not pose a significant harm to public health, in the opinion of the Chief Public Health Officer of Canada, and who will provide an essential service while in Canada</ORIGINAL_TEXT>
+				<TOKEN id="token-63-0" start_char="4895" end_char="4897">any</TOKEN>
+				<TOKEN id="token-63-1" start_char="4899" end_char="4904">person</TOKEN>
+				<TOKEN id="token-63-2" start_char="4906" end_char="4908">who</TOKEN>
+				<TOKEN id="token-63-3" start_char="4910" end_char="4913">does</TOKEN>
+				<TOKEN id="token-63-4" start_char="4915" end_char="4917">not</TOKEN>
+				<TOKEN id="token-63-5" start_char="4919" end_char="4922">pose</TOKEN>
+				<TOKEN id="token-63-6" start_char="4924" end_char="4924">a</TOKEN>
+				<TOKEN id="token-63-7" start_char="4926" end_char="4936">significant</TOKEN>
+				<TOKEN id="token-63-8" start_char="4938" end_char="4941">harm</TOKEN>
+				<TOKEN id="token-63-9" start_char="4943" end_char="4944">to</TOKEN>
+				<TOKEN id="token-63-10" start_char="4946" end_char="4951">public</TOKEN>
+				<TOKEN id="token-63-11" start_char="4953" end_char="4958">health</TOKEN>
+				<TOKEN id="token-63-12" start_char="4959" end_char="4959">,</TOKEN>
+				<TOKEN id="token-63-13" start_char="4961" end_char="4962">in</TOKEN>
+				<TOKEN id="token-63-14" start_char="4964" end_char="4966">the</TOKEN>
+				<TOKEN id="token-63-15" start_char="4968" end_char="4974">opinion</TOKEN>
+				<TOKEN id="token-63-16" start_char="4976" end_char="4977">of</TOKEN>
+				<TOKEN id="token-63-17" start_char="4979" end_char="4981">the</TOKEN>
+				<TOKEN id="token-63-18" start_char="4983" end_char="4987">Chief</TOKEN>
+				<TOKEN id="token-63-19" start_char="4989" end_char="4994">Public</TOKEN>
+				<TOKEN id="token-63-20" start_char="4996" end_char="5001">Health</TOKEN>
+				<TOKEN id="token-63-21" start_char="5003" end_char="5009">Officer</TOKEN>
+				<TOKEN id="token-63-22" start_char="5011" end_char="5012">of</TOKEN>
+				<TOKEN id="token-63-23" start_char="5014" end_char="5019">Canada</TOKEN>
+				<TOKEN id="token-63-24" start_char="5020" end_char="5020">,</TOKEN>
+				<TOKEN id="token-63-25" start_char="5022" end_char="5024">and</TOKEN>
+				<TOKEN id="token-63-26" start_char="5026" end_char="5028">who</TOKEN>
+				<TOKEN id="token-63-27" start_char="5030" end_char="5033">will</TOKEN>
+				<TOKEN id="token-63-28" start_char="5035" end_char="5041">provide</TOKEN>
+				<TOKEN id="token-63-29" start_char="5043" end_char="5044">an</TOKEN>
+				<TOKEN id="token-63-30" start_char="5046" end_char="5054">essential</TOKEN>
+				<TOKEN id="token-63-31" start_char="5056" end_char="5062">service</TOKEN>
+				<TOKEN id="token-63-32" start_char="5064" end_char="5068">while</TOKEN>
+				<TOKEN id="token-63-33" start_char="5070" end_char="5071">in</TOKEN>
+				<TOKEN id="token-63-34" start_char="5073" end_char="5078">Canada</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-64" start_char="5080" end_char="5425">
+				<ORIGINAL_TEXT>any person whose presence in Canada is in the national interest, in the opinion of the Minister of Immigration, Refugees and Citizenship; Minister of Public Safety and Emergency Preparedness; or Minister of Foreign Affairs If you fall under this exemption, you don’t have to demonstrate that you’re entering Canada for a non-discretionary reason.</ORIGINAL_TEXT>
+				<TOKEN id="token-64-0" start_char="5080" end_char="5082">any</TOKEN>
+				<TOKEN id="token-64-1" start_char="5084" end_char="5089">person</TOKEN>
+				<TOKEN id="token-64-2" start_char="5091" end_char="5095">whose</TOKEN>
+				<TOKEN id="token-64-3" start_char="5097" end_char="5104">presence</TOKEN>
+				<TOKEN id="token-64-4" start_char="5106" end_char="5107">in</TOKEN>
+				<TOKEN id="token-64-5" start_char="5109" end_char="5114">Canada</TOKEN>
+				<TOKEN id="token-64-6" start_char="5116" end_char="5117">is</TOKEN>
+				<TOKEN id="token-64-7" start_char="5119" end_char="5120">in</TOKEN>
+				<TOKEN id="token-64-8" start_char="5122" end_char="5124">the</TOKEN>
+				<TOKEN id="token-64-9" start_char="5126" end_char="5133">national</TOKEN>
+				<TOKEN id="token-64-10" start_char="5135" end_char="5142">interest</TOKEN>
+				<TOKEN id="token-64-11" start_char="5143" end_char="5143">,</TOKEN>
+				<TOKEN id="token-64-12" start_char="5145" end_char="5146">in</TOKEN>
+				<TOKEN id="token-64-13" start_char="5148" end_char="5150">the</TOKEN>
+				<TOKEN id="token-64-14" start_char="5152" end_char="5158">opinion</TOKEN>
+				<TOKEN id="token-64-15" start_char="5160" end_char="5161">of</TOKEN>
+				<TOKEN id="token-64-16" start_char="5163" end_char="5165">the</TOKEN>
+				<TOKEN id="token-64-17" start_char="5167" end_char="5174">Minister</TOKEN>
+				<TOKEN id="token-64-18" start_char="5176" end_char="5177">of</TOKEN>
+				<TOKEN id="token-64-19" start_char="5179" end_char="5189">Immigration</TOKEN>
+				<TOKEN id="token-64-20" start_char="5190" end_char="5190">,</TOKEN>
+				<TOKEN id="token-64-21" start_char="5192" end_char="5199">Refugees</TOKEN>
+				<TOKEN id="token-64-22" start_char="5201" end_char="5203">and</TOKEN>
+				<TOKEN id="token-64-23" start_char="5205" end_char="5215">Citizenship</TOKEN>
+				<TOKEN id="token-64-24" start_char="5216" end_char="5216">;</TOKEN>
+				<TOKEN id="token-64-25" start_char="5218" end_char="5225">Minister</TOKEN>
+				<TOKEN id="token-64-26" start_char="5227" end_char="5228">of</TOKEN>
+				<TOKEN id="token-64-27" start_char="5230" end_char="5235">Public</TOKEN>
+				<TOKEN id="token-64-28" start_char="5237" end_char="5242">Safety</TOKEN>
+				<TOKEN id="token-64-29" start_char="5244" end_char="5246">and</TOKEN>
+				<TOKEN id="token-64-30" start_char="5248" end_char="5256">Emergency</TOKEN>
+				<TOKEN id="token-64-31" start_char="5258" end_char="5269">Preparedness</TOKEN>
+				<TOKEN id="token-64-32" start_char="5270" end_char="5270">;</TOKEN>
+				<TOKEN id="token-64-33" start_char="5272" end_char="5273">or</TOKEN>
+				<TOKEN id="token-64-34" start_char="5275" end_char="5282">Minister</TOKEN>
+				<TOKEN id="token-64-35" start_char="5284" end_char="5285">of</TOKEN>
+				<TOKEN id="token-64-36" start_char="5287" end_char="5293">Foreign</TOKEN>
+				<TOKEN id="token-64-37" start_char="5295" end_char="5301">Affairs</TOKEN>
+				<TOKEN id="token-64-38" start_char="5303" end_char="5304">If</TOKEN>
+				<TOKEN id="token-64-39" start_char="5306" end_char="5308">you</TOKEN>
+				<TOKEN id="token-64-40" start_char="5310" end_char="5313">fall</TOKEN>
+				<TOKEN id="token-64-41" start_char="5315" end_char="5319">under</TOKEN>
+				<TOKEN id="token-64-42" start_char="5321" end_char="5324">this</TOKEN>
+				<TOKEN id="token-64-43" start_char="5326" end_char="5334">exemption</TOKEN>
+				<TOKEN id="token-64-44" start_char="5335" end_char="5335">,</TOKEN>
+				<TOKEN id="token-64-45" start_char="5337" end_char="5339">you</TOKEN>
+				<TOKEN id="token-64-46" start_char="5341" end_char="5343">don</TOKEN>
+				<TOKEN id="token-64-47" start_char="5344" end_char="5344">’</TOKEN>
+				<TOKEN id="token-64-48" start_char="5345" end_char="5345">t</TOKEN>
+				<TOKEN id="token-64-49" start_char="5347" end_char="5350">have</TOKEN>
+				<TOKEN id="token-64-50" start_char="5352" end_char="5353">to</TOKEN>
+				<TOKEN id="token-64-51" start_char="5355" end_char="5365">demonstrate</TOKEN>
+				<TOKEN id="token-64-52" start_char="5367" end_char="5370">that</TOKEN>
+				<TOKEN id="token-64-53" start_char="5372" end_char="5374">you</TOKEN>
+				<TOKEN id="token-64-54" start_char="5375" end_char="5375">’</TOKEN>
+				<TOKEN id="token-64-55" start_char="5376" end_char="5377">re</TOKEN>
+				<TOKEN id="token-64-56" start_char="5379" end_char="5386">entering</TOKEN>
+				<TOKEN id="token-64-57" start_char="5388" end_char="5393">Canada</TOKEN>
+				<TOKEN id="token-64-58" start_char="5395" end_char="5397">for</TOKEN>
+				<TOKEN id="token-64-59" start_char="5399" end_char="5399">a</TOKEN>
+				<TOKEN id="token-64-60" start_char="5401" end_char="5403">non</TOKEN>
+				<TOKEN id="token-64-61" start_char="5404" end_char="5404">-</TOKEN>
+				<TOKEN id="token-64-62" start_char="5405" end_char="5417">discretionary</TOKEN>
+				<TOKEN id="token-64-63" start_char="5419" end_char="5424">reason</TOKEN>
+				<TOKEN id="token-64-64" start_char="5425" end_char="5425">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-65" start_char="5427" end_char="5500">
+				<ORIGINAL_TEXT>This exemption may be applied only by any of the 3 ministers listed above.</ORIGINAL_TEXT>
+				<TOKEN id="token-65-0" start_char="5427" end_char="5430">This</TOKEN>
+				<TOKEN id="token-65-1" start_char="5432" end_char="5440">exemption</TOKEN>
+				<TOKEN id="token-65-2" start_char="5442" end_char="5444">may</TOKEN>
+				<TOKEN id="token-65-3" start_char="5446" end_char="5447">be</TOKEN>
+				<TOKEN id="token-65-4" start_char="5449" end_char="5455">applied</TOKEN>
+				<TOKEN id="token-65-5" start_char="5457" end_char="5460">only</TOKEN>
+				<TOKEN id="token-65-6" start_char="5462" end_char="5463">by</TOKEN>
+				<TOKEN id="token-65-7" start_char="5465" end_char="5467">any</TOKEN>
+				<TOKEN id="token-65-8" start_char="5469" end_char="5470">of</TOKEN>
+				<TOKEN id="token-65-9" start_char="5472" end_char="5474">the</TOKEN>
+				<TOKEN id="token-65-10" start_char="5476" end_char="5476">3</TOKEN>
+				<TOKEN id="token-65-11" start_char="5478" end_char="5486">ministers</TOKEN>
+				<TOKEN id="token-65-12" start_char="5488" end_char="5493">listed</TOKEN>
+				<TOKEN id="token-65-13" start_char="5495" end_char="5499">above</TOKEN>
+				<TOKEN id="token-65-14" start_char="5500" end_char="5500">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-66" start_char="5502" end_char="5555">
+				<ORIGINAL_TEXT>This exemption is for exceptional circumstances only .</ORIGINAL_TEXT>
+				<TOKEN id="token-66-0" start_char="5502" end_char="5505">This</TOKEN>
+				<TOKEN id="token-66-1" start_char="5507" end_char="5515">exemption</TOKEN>
+				<TOKEN id="token-66-2" start_char="5517" end_char="5518">is</TOKEN>
+				<TOKEN id="token-66-3" start_char="5520" end_char="5522">for</TOKEN>
+				<TOKEN id="token-66-4" start_char="5524" end_char="5534">exceptional</TOKEN>
+				<TOKEN id="token-66-5" start_char="5536" end_char="5548">circumstances</TOKEN>
+				<TOKEN id="token-66-6" start_char="5550" end_char="5553">only</TOKEN>
+				<TOKEN id="token-66-7" start_char="5555" end_char="5555">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-67" start_char="5557" end_char="5622">
+				<ORIGINAL_TEXT>All other options must be considered before it will be considered.</ORIGINAL_TEXT>
+				<TOKEN id="token-67-0" start_char="5557" end_char="5559">All</TOKEN>
+				<TOKEN id="token-67-1" start_char="5561" end_char="5565">other</TOKEN>
+				<TOKEN id="token-67-2" start_char="5567" end_char="5573">options</TOKEN>
+				<TOKEN id="token-67-3" start_char="5575" end_char="5578">must</TOKEN>
+				<TOKEN id="token-67-4" start_char="5580" end_char="5581">be</TOKEN>
+				<TOKEN id="token-67-5" start_char="5583" end_char="5592">considered</TOKEN>
+				<TOKEN id="token-67-6" start_char="5594" end_char="5599">before</TOKEN>
+				<TOKEN id="token-67-7" start_char="5601" end_char="5602">it</TOKEN>
+				<TOKEN id="token-67-8" start_char="5604" end_char="5607">will</TOKEN>
+				<TOKEN id="token-67-9" start_char="5609" end_char="5610">be</TOKEN>
+				<TOKEN id="token-67-10" start_char="5612" end_char="5621">considered</TOKEN>
+				<TOKEN id="token-67-11" start_char="5622" end_char="5622">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-68" start_char="5624" end_char="5728">
+				<ORIGINAL_TEXT>If you think you may qualify for a national interest exemption, you can contact your nearest visa office.</ORIGINAL_TEXT>
+				<TOKEN id="token-68-0" start_char="5624" end_char="5625">If</TOKEN>
+				<TOKEN id="token-68-1" start_char="5627" end_char="5629">you</TOKEN>
+				<TOKEN id="token-68-2" start_char="5631" end_char="5635">think</TOKEN>
+				<TOKEN id="token-68-3" start_char="5637" end_char="5639">you</TOKEN>
+				<TOKEN id="token-68-4" start_char="5641" end_char="5643">may</TOKEN>
+				<TOKEN id="token-68-5" start_char="5645" end_char="5651">qualify</TOKEN>
+				<TOKEN id="token-68-6" start_char="5653" end_char="5655">for</TOKEN>
+				<TOKEN id="token-68-7" start_char="5657" end_char="5657">a</TOKEN>
+				<TOKEN id="token-68-8" start_char="5659" end_char="5666">national</TOKEN>
+				<TOKEN id="token-68-9" start_char="5668" end_char="5675">interest</TOKEN>
+				<TOKEN id="token-68-10" start_char="5677" end_char="5685">exemption</TOKEN>
+				<TOKEN id="token-68-11" start_char="5686" end_char="5686">,</TOKEN>
+				<TOKEN id="token-68-12" start_char="5688" end_char="5690">you</TOKEN>
+				<TOKEN id="token-68-13" start_char="5692" end_char="5694">can</TOKEN>
+				<TOKEN id="token-68-14" start_char="5696" end_char="5702">contact</TOKEN>
+				<TOKEN id="token-68-15" start_char="5704" end_char="5707">your</TOKEN>
+				<TOKEN id="token-68-16" start_char="5709" end_char="5715">nearest</TOKEN>
+				<TOKEN id="token-68-17" start_char="5717" end_char="5720">visa</TOKEN>
+				<TOKEN id="token-68-18" start_char="5722" end_char="5727">office</TOKEN>
+				<TOKEN id="token-68-19" start_char="5728" end_char="5728">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-69" start_char="5730" end_char="5836">
+				<ORIGINAL_TEXT>any person who is coming at the invitation of the Minister of Health for the purpose of COVID-19 assistance</ORIGINAL_TEXT>
+				<TOKEN id="token-69-0" start_char="5730" end_char="5732">any</TOKEN>
+				<TOKEN id="token-69-1" start_char="5734" end_char="5739">person</TOKEN>
+				<TOKEN id="token-69-2" start_char="5741" end_char="5743">who</TOKEN>
+				<TOKEN id="token-69-3" start_char="5745" end_char="5746">is</TOKEN>
+				<TOKEN id="token-69-4" start_char="5748" end_char="5753">coming</TOKEN>
+				<TOKEN id="token-69-5" start_char="5755" end_char="5756">at</TOKEN>
+				<TOKEN id="token-69-6" start_char="5758" end_char="5760">the</TOKEN>
+				<TOKEN id="token-69-7" start_char="5762" end_char="5771">invitation</TOKEN>
+				<TOKEN id="token-69-8" start_char="5773" end_char="5774">of</TOKEN>
+				<TOKEN id="token-69-9" start_char="5776" end_char="5778">the</TOKEN>
+				<TOKEN id="token-69-10" start_char="5780" end_char="5787">Minister</TOKEN>
+				<TOKEN id="token-69-11" start_char="5789" end_char="5790">of</TOKEN>
+				<TOKEN id="token-69-12" start_char="5792" end_char="5797">Health</TOKEN>
+				<TOKEN id="token-69-13" start_char="5799" end_char="5801">for</TOKEN>
+				<TOKEN id="token-69-14" start_char="5803" end_char="5805">the</TOKEN>
+				<TOKEN id="token-69-15" start_char="5807" end_char="5813">purpose</TOKEN>
+				<TOKEN id="token-69-16" start_char="5815" end_char="5816">of</TOKEN>
+				<TOKEN id="token-69-17" start_char="5818" end_char="5822">COVID</TOKEN>
+				<TOKEN id="token-69-18" start_char="5823" end_char="5823">-</TOKEN>
+				<TOKEN id="token-69-19" start_char="5824" end_char="5825">19</TOKEN>
+				<TOKEN id="token-69-20" start_char="5827" end_char="5836">assistance</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-70" start_char="5838" end_char="5891">
+				<ORIGINAL_TEXT>any person whose purpose is to make medical deliveries</ORIGINAL_TEXT>
+				<TOKEN id="token-70-0" start_char="5838" end_char="5840">any</TOKEN>
+				<TOKEN id="token-70-1" start_char="5842" end_char="5847">person</TOKEN>
+				<TOKEN id="token-70-2" start_char="5849" end_char="5853">whose</TOKEN>
+				<TOKEN id="token-70-3" start_char="5855" end_char="5861">purpose</TOKEN>
+				<TOKEN id="token-70-4" start_char="5863" end_char="5864">is</TOKEN>
+				<TOKEN id="token-70-5" start_char="5866" end_char="5867">to</TOKEN>
+				<TOKEN id="token-70-6" start_char="5869" end_char="5872">make</TOKEN>
+				<TOKEN id="token-70-7" start_char="5874" end_char="5880">medical</TOKEN>
+				<TOKEN id="token-70-8" start_char="5882" end_char="5891">deliveries</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-71" start_char="5893" end_char="6002">
+				<ORIGINAL_TEXT>You must also have a quarantine plan that shows how you will quarantine for 14 days when you arrive in Canada.</ORIGINAL_TEXT>
+				<TOKEN id="token-71-0" start_char="5893" end_char="5895">You</TOKEN>
+				<TOKEN id="token-71-1" start_char="5897" end_char="5900">must</TOKEN>
+				<TOKEN id="token-71-2" start_char="5902" end_char="5905">also</TOKEN>
+				<TOKEN id="token-71-3" start_char="5907" end_char="5910">have</TOKEN>
+				<TOKEN id="token-71-4" start_char="5912" end_char="5912">a</TOKEN>
+				<TOKEN id="token-71-5" start_char="5914" end_char="5923">quarantine</TOKEN>
+				<TOKEN id="token-71-6" start_char="5925" end_char="5928">plan</TOKEN>
+				<TOKEN id="token-71-7" start_char="5930" end_char="5933">that</TOKEN>
+				<TOKEN id="token-71-8" start_char="5935" end_char="5939">shows</TOKEN>
+				<TOKEN id="token-71-9" start_char="5941" end_char="5943">how</TOKEN>
+				<TOKEN id="token-71-10" start_char="5945" end_char="5947">you</TOKEN>
+				<TOKEN id="token-71-11" start_char="5949" end_char="5952">will</TOKEN>
+				<TOKEN id="token-71-12" start_char="5954" end_char="5963">quarantine</TOKEN>
+				<TOKEN id="token-71-13" start_char="5965" end_char="5967">for</TOKEN>
+				<TOKEN id="token-71-14" start_char="5969" end_char="5970">14</TOKEN>
+				<TOKEN id="token-71-15" start_char="5972" end_char="5975">days</TOKEN>
+				<TOKEN id="token-71-16" start_char="5977" end_char="5980">when</TOKEN>
+				<TOKEN id="token-71-17" start_char="5982" end_char="5984">you</TOKEN>
+				<TOKEN id="token-71-18" start_char="5986" end_char="5991">arrive</TOKEN>
+				<TOKEN id="token-71-19" start_char="5993" end_char="5994">in</TOKEN>
+				<TOKEN id="token-71-20" start_char="5996" end_char="6001">Canada</TOKEN>
+				<TOKEN id="token-71-21" start_char="6002" end_char="6002">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-78-72" start_char="6004" end_char="6026">
+				<ORIGINAL_TEXT>This plan is mandatory.</ORIGINAL_TEXT>
+				<TOKEN id="token-72-0" start_char="6004" end_char="6007">This</TOKEN>
+				<TOKEN id="token-72-1" start_char="6009" end_char="6012">plan</TOKEN>
+				<TOKEN id="token-72-2" start_char="6014" end_char="6015">is</TOKEN>
+				<TOKEN id="token-72-3" start_char="6017" end_char="6025">mandatory</TOKEN>
+				<TOKEN id="token-72-4" start_char="6026" end_char="6026">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

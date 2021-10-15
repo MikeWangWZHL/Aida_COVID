@@ -1,0 +1,24 @@
+T1	PER 0 3	Nos
+T2	ORG 24 31	nuestro
+T3	PER 162 169	mayoría
+T4	PER 176 185	población
+T5	ORG 430 484	Agencia Internacional para la Investigación del Cáncer
+T6	ORG 486 490	IARC
+T7	ORG 495 498	sus
+T8	PER 642 649	humanos
+T9	ORG 761 771	Cancer.org
+T10	ORG 786 820	Sociedad Estadounidense del Cáncer
+T11	ORG 1153 1163	Cancer.org
+T12	ORG 1261 1282	Ministerio de Sanidad
+T13	PER 1298 1305	Maldita
+T14	ORG 1442 1449	Sanidad
+T15	ORG 1567 1569	CE
+T16	LOC 1597 1603	dentro
+T17	LOC 1610 1612	UE
+T18	PER 1635 1645	fabricante
+T19	PER 1810 1812	su
+T20	ORG 1995 2016	Ministerio de Sanidad
+T21	ORG 2039 2094	Agencia Española de Medicamentos y Productos Sanitarios
+T22	ORG 2096 2101	AEMPS
+T23	ORG 2129 2140	autoridades
+T24	GPE 2159 2180	Comunidades Autónomas

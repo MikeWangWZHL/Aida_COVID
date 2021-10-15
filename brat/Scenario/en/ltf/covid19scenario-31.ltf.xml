@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-31">
+		<TEXT>
+			<SEG id="covid19scenario-31-0" start_char="0" end_char="93">
+				<ORIGINAL_TEXT>In December 2019, a novel coronavirus strain (SARS-CoV-2) emerged in the city of Wuhan, China.</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="1">In</TOKEN>
+				<TOKEN id="token-0-1" start_char="3" end_char="10">December</TOKEN>
+				<TOKEN id="token-0-2" start_char="12" end_char="15">2019</TOKEN>
+				<TOKEN id="token-0-3" start_char="16" end_char="16">,</TOKEN>
+				<TOKEN id="token-0-4" start_char="18" end_char="18">a</TOKEN>
+				<TOKEN id="token-0-5" start_char="20" end_char="24">novel</TOKEN>
+				<TOKEN id="token-0-6" start_char="26" end_char="36">coronavirus</TOKEN>
+				<TOKEN id="token-0-7" start_char="38" end_char="43">strain</TOKEN>
+				<TOKEN id="token-0-8" start_char="45" end_char="45">(</TOKEN>
+				<TOKEN id="token-0-9" start_char="46" end_char="49">SARS</TOKEN>
+				<TOKEN id="token-0-10" start_char="50" end_char="50">-</TOKEN>
+				<TOKEN id="token-0-11" start_char="51" end_char="53">CoV</TOKEN>
+				<TOKEN id="token-0-12" start_char="54" end_char="54">-</TOKEN>
+				<TOKEN id="token-0-13" start_char="55" end_char="55">2</TOKEN>
+				<TOKEN id="token-0-14" start_char="56" end_char="56">)</TOKEN>
+				<TOKEN id="token-0-15" start_char="58" end_char="64">emerged</TOKEN>
+				<TOKEN id="token-0-16" start_char="66" end_char="67">in</TOKEN>
+				<TOKEN id="token-0-17" start_char="69" end_char="71">the</TOKEN>
+				<TOKEN id="token-0-18" start_char="73" end_char="76">city</TOKEN>
+				<TOKEN id="token-0-19" start_char="78" end_char="79">of</TOKEN>
+				<TOKEN id="token-0-20" start_char="81" end_char="85">Wuhan</TOKEN>
+				<TOKEN id="token-0-21" start_char="86" end_char="86">,</TOKEN>
+				<TOKEN id="token-0-22" start_char="88" end_char="92">China</TOKEN>
+				<TOKEN id="token-0-23" start_char="93" end_char="93">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-31-1" start_char="95" end_char="193">
+				<ORIGINAL_TEXT>This subreddit seeks to monitor the spread of the disease COVID-19, declared a pandemic by the WHO.</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="95" end_char="98">This</TOKEN>
+				<TOKEN id="token-1-1" start_char="100" end_char="108">subreddit</TOKEN>
+				<TOKEN id="token-1-2" start_char="110" end_char="114">seeks</TOKEN>
+				<TOKEN id="token-1-3" start_char="116" end_char="117">to</TOKEN>
+				<TOKEN id="token-1-4" start_char="119" end_char="125">monitor</TOKEN>
+				<TOKEN id="token-1-5" start_char="127" end_char="129">the</TOKEN>
+				<TOKEN id="token-1-6" start_char="131" end_char="136">spread</TOKEN>
+				<TOKEN id="token-1-7" start_char="138" end_char="139">of</TOKEN>
+				<TOKEN id="token-1-8" start_char="141" end_char="143">the</TOKEN>
+				<TOKEN id="token-1-9" start_char="145" end_char="151">disease</TOKEN>
+				<TOKEN id="token-1-10" start_char="153" end_char="157">COVID</TOKEN>
+				<TOKEN id="token-1-11" start_char="158" end_char="158">-</TOKEN>
+				<TOKEN id="token-1-12" start_char="159" end_char="160">19</TOKEN>
+				<TOKEN id="token-1-13" start_char="161" end_char="161">,</TOKEN>
+				<TOKEN id="token-1-14" start_char="163" end_char="170">declared</TOKEN>
+				<TOKEN id="token-1-15" start_char="172" end_char="172">a</TOKEN>
+				<TOKEN id="token-1-16" start_char="174" end_char="181">pandemic</TOKEN>
+				<TOKEN id="token-1-17" start_char="183" end_char="184">by</TOKEN>
+				<TOKEN id="token-1-18" start_char="186" end_char="188">the</TOKEN>
+				<TOKEN id="token-1-19" start_char="190" end_char="192">WHO</TOKEN>
+				<TOKEN id="token-1-20" start_char="193" end_char="193">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-31-2" start_char="195" end_char="250">
+				<ORIGINAL_TEXT>This subreddit is for high-quality posts and discussion.</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="195" end_char="198">This</TOKEN>
+				<TOKEN id="token-2-1" start_char="200" end_char="208">subreddit</TOKEN>
+				<TOKEN id="token-2-2" start_char="210" end_char="211">is</TOKEN>
+				<TOKEN id="token-2-3" start_char="213" end_char="215">for</TOKEN>
+				<TOKEN id="token-2-4" start_char="217" end_char="220">high</TOKEN>
+				<TOKEN id="token-2-5" start_char="221" end_char="221">-</TOKEN>
+				<TOKEN id="token-2-6" start_char="222" end_char="228">quality</TOKEN>
+				<TOKEN id="token-2-7" start_char="230" end_char="234">posts</TOKEN>
+				<TOKEN id="token-2-8" start_char="236" end_char="238">and</TOKEN>
+				<TOKEN id="token-2-9" start_char="240" end_char="249">discussion</TOKEN>
+				<TOKEN id="token-2-10" start_char="250" end_char="250">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-31-3" start_char="252" end_char="282">
+				<ORIGINAL_TEXT>Please be civil and empathetic.</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="252" end_char="257">Please</TOKEN>
+				<TOKEN id="token-3-1" start_char="259" end_char="260">be</TOKEN>
+				<TOKEN id="token-3-2" start_char="262" end_char="266">civil</TOKEN>
+				<TOKEN id="token-3-3" start_char="268" end_char="270">and</TOKEN>
+				<TOKEN id="token-3-4" start_char="272" end_char="281">empathetic</TOKEN>
+				<TOKEN id="token-3-5" start_char="282" end_char="282">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

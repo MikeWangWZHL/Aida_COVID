@@ -1,0 +1,44 @@
+Desde que en diciembre de 2019 comenzó en Wuhan (China) el brote del coronavirus, hoy conocido como SARS-CoV-2, hasta ahora, que ha superado oficialmente los 100.000 infectados en todo el mundo, han aparecido muchas teorías de la conspiración que apuntan a que el virus podría haber sido creado en un laboratorio, bien modificando un virus existente o creándolo artificialmente desde cero.
+Veamos cuáles son estas conspiraciones y por qué son mentira.
+Verán cómo al final estas cosas nos sirven para aprender algo más acerca del enigmático causante de la mayor epidemia aparecida en muchas décadas.
+Teoría loca #1
+Una de las primeras que empezaron a circular es que el SARS-CoV-2 surgió de un laboratorio de Wuhan en el que se estaba trabajando con, precisamente, un coronavirus de murciélago llamado RaTG13.
+Este virus, presente en una especie muy común en el sudeste asiático (Rhinolophus affinis) tiene una similitud del 96% con el protagonista del brote.
+Un dibujo de un Rhinolophus pearsonii de 1878.
+(Anatomical and Zoological Researches)
+¿Cuál es el problema?
+Que hasta el propio virus SARS que circuló en 2003 es mucho más homologable al virus actual, con un 99,8% de parecido genético.
+También el coronavirus que suele afectar a la civeta —se cree que fue este animal el huésped intermedio donde se gestó el SARS— comparte con el microorganismo detrás del Covid-19 apenas 202 diferencias en los nucleótidos, las moléculas orgánicas que conforman el genoma del virus.
+Por tanto, ¿qué sentido tendría para alguien que quisiera crear el SARS-CoV-2 utilizar como modelo un coronavirus tan diferente?
+Entre el virus actual y el citado RaTG13, hay más de 1.100 diferencias en los nucleótidos, demasiadas teniendo en cuenta que el genoma del coronavirus contiene casi 30.000 nucleótidos.
+"Es altamente improbable que el RaTG13 sea la fuente inmediata del SARS-CoV-2", explicaba un trabajo publicado hace unos días en 'Emerging Microbes and Infections'.
+¿Qué sentido tendría para alguien que quisiera crear el SARS-CoV-2 utilizar como modelo un coronavirus tan diferente como el RaTG13?
+Es cierto que aún no se ha identificado el reservorio animal donde un virus de murciélago mutó hasta adquirir la capacidad de infectar a los humanos.
+Esta información es clave para tirar por tierra todas las teorías alternativas.
+Se sospechaba del pangolín, pero a día de hoy aún se desconoce.
+Lo cual está dando pie a que sigan las especulaciones.
+Teoría loca #2
+En China, las redes sociales pronto aludieron a un estudio publicado en 2015 por la revista 'Nature Medicine'.
+En él, se detallaba que una cepa de coronavirus de murciélago similar al SARS estaba circulando por ahí y mostraba potencial para saltar al ser humano.
+Para probarlo, en el estudio, los investigadores de la Universidad de Carolina del Norte (EEUU) crearon un coronavirus quimérico mezclando el gen SHC014 de murciélago con la base de un SARS adaptado para infectar ratones.
+La idea es lo suficientemente atractiva como para inspirar una novela de Michael Crichton: el virus quimérico que acabó escapando a sus creadores e infectando el mundo.
+Todo lo que aparece en una imagen microscópica tiene potencial de asustar.
+(NIH)
+Pero la realidad es más tozuda.
+En realidad, que un virus de ratones fuese capaz de infectar a humanos no tiene base científica.
+Para empezar, porque cuenta con una divergencia de más de 5.000 nucleótidos con el SARS-CoV-2.
+Cuando el virus se 'especializa' para ser capaz de replicarse mejor en ratones, pierde indefectiblemente esta capacidad para hacerlo en seres humanos.
+Sí es cierto que se realizaron bastantes experimentos para tratar de encontrar receptores que permitieran que un virus animal fuese capaz de acceder a las células humanas, concretamente, se pensó en el receptor ACE2.
+El temor a que pudiera encontrarse un patógeno capaz de saltar directamente de murciélagos a humanos generó bastante resquemor, y fue determinante para que durante años la financiación para este tipo de experimentos se congelara por parte del Gobierno estadounidense.
+Se realizaron bastantes experimentos para tratar de encontrar receptores que permitieran que un virus fuese capaz de acceder a las células humanas
+Pero, en resumen, el candidato más eficaz que pudo crearse, un virus murino con capacidad teórica de infectar a humanos llamado SL-SCH014-MA15, se diferencia del actual SARS-CoV-2 en más de 6.000 nucleótidos.
+Teoría loca #3
+La última de las conspiraciones que se maneja en redes sociales y foros es que el llamado coronavirus de Wuhan es un invento absolutamente artificial, ni siquiera una modificación de un virus existente.
+Un 'preprint' —artículo previo a su publicación y no revisado— aparecido este mes en el repositorio BioRvix declaraba que el SARS-CoV-2 tiene en su genoma una secuencia del VIH, y que por tanto no podía ser otra cosa que una fabricación deliberada.
+Un análisis incorrecto y parcial puede llevar a conclusiones peligrosas que alimenten conspiraciones
+Pronto, muchos otros científicos han salido a reanalizar esos datos y los resultados han tirado por tierra la especulación.
+Si hay partes del genoma similares al VIH-1, no es sino por aleatoriedad.
+Los autores del 'preprint' original decidieron finalmente retirar el informe ante las preocupaciones generadas en la comunidad científica.
+"Un análisis incorrecto y parcial puede llevar a conclusiones peligrosas que alimenten conspiraciones y dañen el proceso de los verdaderos descubrimientos científicos y el esfuerzo por controlar el daño a la salud pública", escribía en su reanálisis Feng Gao, de la Universidad de Duke.
+Los análisis que han estudiado el genoma del coronavirus coinciden en señalar los murciélagos como la fuente más probable de la epidemia.
+Todo lo demás es científicamente infundado, aunque narrativamente sea mucho más atractivo.

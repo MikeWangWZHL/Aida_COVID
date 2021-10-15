@@ -1,0 +1,60 @@
+T1	ORG 17 37	Sociedad Coronavirus
+T2	ORG 232 235	OMS
+T3	PER 243 251	expertos
+T4	FAC 309 314	hogar
+T5	PER 396 405	sanitaria
+T6	ORG 477 480	Efe
+T7	ORG 538 570	Organización Mundial de la Salud
+T8	ORG 572 575	OMS
+T9	PER 734 742	expertos
+T10	FAC 797 802	hogar
+T11	GPE 811 816	China
+T12	LOC 868 876	espacios
+T13	PER 898 908	presidente
+T14	GPE 909 923	estadounidense
+T15	PER 924 936	Donald Trump
+T16	PER 980 988	expertos
+T17	ORG 1076 1108	Organización Mundial de la Salud
+T18	ORG 1407 1446	Consejo General de Enfermería de España
+T19	PER 1451 1460	enfermera
+T20	PER 1461 1477	Guadalupe Fontán
+T21	PER 1804 1813	enfermera
+T22	ORG 1818 1821	CGE
+T23	PER 1823 1833	LupeFontan
+T24	PER 1834 1836	te
+T25	PER 1955 1957	tu
+T26	ORG 2038 2067	Consejo General de Enfermería
+T27	ORG 2085 2097	CGEnfermeria
+T28	FAC 2142 2147	hogar
+T29	PER 2155 2158	nos
+T30	FAC 2279 2286	hogares
+T31	PER 2288 2307	Mónica Berjón Otero
+T32	PER 2309 2322	investigadora
+T33	ORG 2377 2418	Max Planck Institute for Medical Research
+T34	GPE 2420 2430	Heidelberg
+T35	GPE 2432 2440	Alemania
+T36	ORG 2452 2459	Maldita
+T37	PER 2574 2582	nosotros
+T38	PER 2633 2641	personal
+T39	PER 2775 2783	nuestras
+T40	PER 2906 2912	Berjón
+T41	LOC 3542 3553	superficies
+T42	PER 3641 3647	Zuñiga
+T43	FAC 3722 3729	cabinas
+T44	PER 3864 3869	Usera
+T45	PER 4369 4377	expertos
+T46	FAC 4465 4472	hogares
+T47	ORG 4533 4536	OMS
+T48	FAC 4643 4650	hogares
+T49	FAC 4798 4803	hogar
+T50	PER 4896 4901	Usera
+T51	ORG 4903 4917	Organizaciones
+T52	ORG 4937 4940	OMS
+T53	FAC 4969 4976	hogares
+T54	ORG 5009 5013	EiTB
+T55	ORG 5046 5056	Maldita.es
+T56	ORG 5070 5072	su
+T57	ORG 5110 5122	VOST Euskadi
+T58	ORG 5124 5170	Asociación de Voluntarios Digitales de Euskadi
+T59	PER 5181 5190	comunidad
+T60	ORG 5215 5238	La Mecánica del Caracol

@@ -1,0 +1,1012 @@
+{
+    "ENL0C049DQW.000001": {
+        "id": "ENL0C049DQW.000001",
+        "type": "LOC",
+        "offsets": [
+            171,
+            177
+        ],
+        "text": "global",
+        "arg_ann_id": "T1"
+    },
+    "ENL0C049DQW.000002": {
+        "id": "ENL0C049DQW.000002",
+        "type": "ORG",
+        "offsets": [
+            357,
+            382
+        ],
+        "text": "World Health Organization",
+        "arg_ann_id": "T2"
+    },
+    "ENL0C049DQW.000003": {
+        "id": "ENL0C049DQW.000003",
+        "type": "ORG",
+        "offsets": [
+            384,
+            387
+        ],
+        "text": "WHO",
+        "arg_ann_id": "T3"
+    },
+    "ENL0C049DQW.000004": {
+        "id": "ENL0C049DQW.000004",
+        "type": "PER",
+        "offsets": [
+            512,
+            514
+        ],
+        "text": "we",
+        "arg_ann_id": "T4"
+    },
+    "ENL0C049DQW.000005": {
+        "id": "ENL0C049DQW.000005",
+        "type": "PER",
+        "offsets": [
+            535,
+            544
+        ],
+        "text": "ourselves",
+        "arg_ann_id": "T5"
+    },
+    "ENL0C049DQW.000006": {
+        "id": "ENL0C049DQW.000006",
+        "type": "PER",
+        "offsets": [
+            660,
+            663
+        ],
+        "text": "you",
+        "arg_ann_id": "T6"
+    },
+    "ENL0C049DQW.000007": {
+        "id": "ENL0C049DQW.000007",
+        "type": "MHI",
+        "offsets": [
+            994,
+            1004
+        ],
+        "text": "salmonella",
+        "arg_ann_id": "T7"
+    },
+    "ENL0C049DQW.000008": {
+        "id": "ENL0C049DQW.000008",
+        "type": "INF",
+        "offsets": [
+            1258,
+            1272
+        ],
+        "text": "Facebook video",
+        "arg_ann_id": "T8"
+    },
+    "ENL0C049DQW.000009": {
+        "id": "ENL0C049DQW.000009",
+        "type": "MHI",
+        "offsets": [
+            1420,
+            1427
+        ],
+        "text": "disease",
+        "arg_ann_id": "T9"
+    },
+    "ENL0C049DQW.000010": {
+        "id": "ENL0C049DQW.000010",
+        "type": "COM",
+        "offsets": [
+            1637,
+            1646
+        ],
+        "text": "Vitamin C",
+        "arg_ann_id": "T10"
+    },
+    "ENL0C049DQW.000011": {
+        "id": "ENL0C049DQW.000011",
+        "type": "MHI",
+        "offsets": [
+            2017,
+            2021
+        ],
+        "text": "cold",
+        "arg_ann_id": "T11"
+    },
+    "ENL0C049DQW.000012": {
+        "id": "ENL0C049DQW.000012",
+        "type": "PER",
+        "offsets": [
+            2286,
+            2292
+        ],
+        "text": "adults",
+        "arg_ann_id": "T12"
+    },
+    "ENL0C049DQW.000013": {
+        "id": "ENL0C049DQW.000013",
+        "type": "PER",
+        "offsets": [
+            2308,
+            2313
+        ],
+        "text": "their",
+        "arg_ann_id": "T13"
+    },
+    "ENL0C049DQW.000014": {
+        "id": "ENL0C049DQW.000014",
+        "type": "MHI",
+        "offsets": [
+            2476,
+            2481
+        ],
+        "text": "virus",
+        "arg_ann_id": "T14"
+    },
+    "ENL0C049DQW.000015": {
+        "id": "ENL0C049DQW.000015",
+        "type": "PER",
+        "offsets": [
+            3041,
+            3045
+        ],
+        "text": "body",
+        "arg_ann_id": "T15"
+    },
+    "ENL0C049DQW.000016": {
+        "id": "ENL0C049DQW.000016",
+        "type": "MHI",
+        "offsets": [
+            3592,
+            3595
+        ],
+        "text": "flu",
+        "arg_ann_id": "T16"
+    },
+    "ENL0C049DQW.000017": {
+        "id": "ENL0C049DQW.000017",
+        "type": "PER",
+        "offsets": [
+            3697,
+            3703
+        ],
+        "text": "humans",
+        "arg_ann_id": "T17"
+    },
+    "ENL0C049DQW.000018": {
+        "id": "ENL0C049DQW.000018",
+        "type": "MHI",
+        "offsets": [
+            3734,
+            3737
+        ],
+        "text": "flu",
+        "arg_ann_id": "T18"
+    },
+    "ENL0C049DQW.000019": {
+        "id": "ENL0C049DQW.000019",
+        "type": "MHI",
+        "offsets": [
+            3844,
+            3855
+        ],
+        "text": "coronavirus",
+        "arg_ann_id": "T19"
+    },
+    "ENL0C049DQW.000020": {
+        "id": "ENL0C049DQW.000020",
+        "type": "ORG",
+        "offsets": [
+            3879,
+            3907
+        ],
+        "text": "British Dietetic Association",
+        "arg_ann_id": "T20"
+    },
+    "ENL0C049DQW.000021": {
+        "id": "ENL0C049DQW.000021",
+        "type": "ORG",
+        "offsets": [
+            3909,
+            3912
+        ],
+        "text": "BDA",
+        "arg_ann_id": "T21"
+    },
+    "ENL0C049DQW.000022": {
+        "id": "ENL0C049DQW.000022",
+        "type": "PER",
+        "offsets": [
+            3971,
+            3977
+        ],
+        "text": "person",
+        "arg_ann_id": "T22"
+    },
+    "ENL0C049DQW.000023": {
+        "id": "ENL0C049DQW.000023",
+        "type": "ORG",
+        "offsets": [
+            4012,
+            4015
+        ],
+        "text": "WHO",
+        "arg_ann_id": "T23"
+    },
+    "ENL0C049DQW.000024": {
+        "id": "ENL0C049DQW.000024",
+        "type": "ORG",
+        "offsets": [
+            4028,
+            4031
+        ],
+        "text": "BDA",
+        "arg_ann_id": "T24"
+    },
+    "ENL0C049DQW.000025": {
+        "id": "ENL0C049DQW.000025",
+        "type": "PER",
+        "offsets": [
+            4043,
+            4049
+        ],
+        "text": "people",
+        "arg_ann_id": "T25"
+    },
+    "ENL0C049DQW.000026": {
+        "id": "ENL0C049DQW.000026",
+        "type": "PER",
+        "offsets": [
+            4202,
+            4208
+        ],
+        "text": "people",
+        "arg_ann_id": "T26"
+    },
+    "ENL0C049DQW.000027": {
+        "id": "ENL0C049DQW.000027",
+        "type": "PER",
+        "offsets": [
+            4228,
+            4232
+        ],
+        "text": "they",
+        "arg_ann_id": "T27"
+    },
+    "ENL0C049DQW.000028": {
+        "id": "ENL0C049DQW.000028",
+        "type": "PER",
+        "offsets": [
+            4261,
+            4263
+        ],
+        "text": "we",
+        "arg_ann_id": "T28"
+    },
+    "ENL0C049DQW.000029": {
+        "id": "ENL0C049DQW.000029",
+        "type": "PER",
+        "offsets": [
+            4281,
+            4284
+        ],
+        "text": "our",
+        "arg_ann_id": "T29"
+    },
+    "ENL0C049DQW.000030": {
+        "id": "ENL0C049DQW.000030",
+        "type": "PER",
+        "offsets": [
+            4439,
+            4445
+        ],
+        "text": "People",
+        "arg_ann_id": "T30"
+    },
+    "ENL0C049DQW.000031": {
+        "id": "ENL0C049DQW.000031",
+        "type": "ORG",
+        "offsets": [
+            4624,
+            4627
+        ],
+        "text": "BDA",
+        "arg_ann_id": "T31"
+    },
+    "ENL0C049DQW.000032": {
+        "id": "ENL0C049DQW.000032",
+        "type": "PER",
+        "offsets": [
+            4640,
+            4646
+        ],
+        "text": "adults",
+        "arg_ann_id": "T32"
+    },
+    "ENL0C049DQW.000033": {
+        "id": "ENL0C049DQW.000033",
+        "type": "GPE",
+        "offsets": [
+            4661,
+            4663
+        ],
+        "text": "UK",
+        "arg_ann_id": "T33"
+    },
+    "ENL0C049DQW.000034": {
+        "id": "ENL0C049DQW.000034",
+        "type": "PER",
+        "offsets": [
+            4863,
+            4866
+        ],
+        "text": "our",
+        "arg_ann_id": "T34"
+    },
+    "ENL0C049DQW.000035": {
+        "id": "ENL0C049DQW.000035",
+        "type": "PER",
+        "offsets": [
+            4940,
+            4944
+        ],
+        "text": "many",
+        "arg_ann_id": "T35"
+    },
+    "ENL0C049DQW.000036": {
+        "id": "ENL0C049DQW.000036",
+        "type": "PER",
+        "offsets": [
+            4948,
+            4950
+        ],
+        "text": "us",
+        "arg_ann_id": "T36"
+    },
+    "ENL0C049DQW.000037": {
+        "id": "ENL0C049DQW.000037",
+        "type": "MHI",
+        "offsets": [
+            5254,
+            5265
+        ],
+        "text": "coronavirus",
+        "arg_ann_id": "T37"
+    },
+    "ENL0C049DQW.000038": {
+        "id": "ENL0C049DQW.000038",
+        "type": "PER",
+        "offsets": [
+            5313,
+            5317
+        ],
+        "text": "your",
+        "arg_ann_id": "T38"
+    },
+    "ENL0C049DQW.000039": {
+        "id": "ENL0C049DQW.000039",
+        "type": "ORG",
+        "offsets": [
+            5592,
+            5601
+        ],
+        "text": "authority",
+        "arg_ann_id": "T39"
+    },
+    "ENL0C049DQW.000040": {
+        "id": "ENL0C049DQW.000040",
+        "type": "ORG",
+        "offsets": [
+            5605,
+            5617
+        ],
+        "text": "organisation",
+        "arg_ann_id": "T40"
+    },
+    "ENL0C049DQW.000041": {
+        "id": "ENL0C049DQW.000041",
+        "type": "ORG",
+        "offsets": [
+            5628,
+            5631
+        ],
+        "text": "NHS",
+        "arg_ann_id": "T41"
+    },
+    "ENL0C049DQW.000042": {
+        "id": "ENL0C049DQW.000042",
+        "type": "ORG",
+        "offsets": [
+            5635,
+            5638
+        ],
+        "text": "WHO",
+        "arg_ann_id": "T42"
+    },
+    "ENL0C049DQW.000043": {
+        "id": "ENL0C049DQW.000043",
+        "type": "PER",
+        "offsets": [
+            5839,
+            5845
+        ],
+        "text": "people",
+        "arg_ann_id": "T43"
+    },
+    "ENL0C049DQW.000044": {
+        "id": "ENL0C049DQW.000044",
+        "type": "GPE",
+        "offsets": [
+            5896,
+            5898
+        ],
+        "text": "EU",
+        "arg_ann_id": "T44"
+    },
+    "ENL0C049DQW.000045": {
+        "id": "ENL0C049DQW.000045",
+        "type": "control_impedeinterferewith_prevent",
+        "offsets": [
+            59,
+            66
+        ],
+        "text": "prevent",
+        "arg_ann_id": "T45"
+    },
+    "ENL0C049DQW.000046": {
+        "id": "ENL0C049DQW.000046",
+        "type": "MHI",
+        "offsets": [
+            75,
+            83
+        ],
+        "text": "COVID-19",
+        "arg_ann_id": "T46"
+    },
+    "ENL0C049DQW.000047": {
+        "id": "ENL0C049DQW.000047",
+        "type": "COM",
+        "offsets": [
+            35,
+            40
+        ],
+        "text": "foods",
+        "arg_ann_id": "T47"
+    },
+    "ENL0C049DQW.000048": {
+        "id": "ENL0C049DQW.000048",
+        "type": "COM",
+        "offsets": [
+            44,
+            49
+        ],
+        "text": "diets",
+        "arg_ann_id": "T48"
+    },
+    "ENL0C049DQW.000049": {
+        "id": "ENL0C049DQW.000049",
+        "type": "medical_intervention_cure",
+        "offsets": [
+            70,
+            74
+        ],
+        "text": "cure",
+        "arg_ann_id": "T49"
+    },
+    "ENL0C049DQW.000050": {
+        "id": "ENL0C049DQW.000050",
+        "type": "COM",
+        "offsets": [
+            126,
+            139
+        ],
+        "text": "\"super foods\"",
+        "arg_ann_id": "T50"
+    },
+    "ENL0C049DQW.000051": {
+        "id": "ENL0C049DQW.000051",
+        "type": "MHI",
+        "offsets": [
+            149,
+            157
+        ],
+        "text": "COVID-19",
+        "arg_ann_id": "T51"
+    },
+    "ENL0C049DQW.000052": {
+        "id": "ENL0C049DQW.000052",
+        "type": "medical_intervention_cure",
+        "offsets": [
+            144,
+            148
+        ],
+        "text": "cure",
+        "arg_ann_id": "T52"
+    },
+    "ENL0C049DQW.000053": {
+        "id": "ENL0C049DQW.000053",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            119,
+            125
+        ],
+        "text": "claims",
+        "arg_ann_id": "T53"
+    },
+    "ENL0C049DQW.000054": {
+        "id": "ENL0C049DQW.000054",
+        "type": "INF",
+        "offsets": [
+            86,
+            95
+        ],
+        "text": "Fake news",
+        "arg_ann_id": "T54"
+    },
+    "ENL0C049DQW.000055": {
+        "id": "ENL0C049DQW.000055",
+        "type": "MHI",
+        "offsets": [
+            1220,
+            1228
+        ],
+        "text": "COVID-19",
+        "arg_ann_id": "T55"
+    },
+    "ENL0C049DQW.000056": {
+        "id": "ENL0C049DQW.000056",
+        "type": "COM",
+        "offsets": [
+            1114,
+            1120
+        ],
+        "text": "garlic",
+        "arg_ann_id": "T56"
+    },
+    "ENL0C049DQW.000057": {
+        "id": "ENL0C049DQW.000057",
+        "type": "control_impedeinterferewith_prevent",
+        "offsets": [
+            1204,
+            1211
+        ],
+        "text": "prevent",
+        "arg_ann_id": "T57"
+    },
+    "ENL0C049DQW.000058": {
+        "id": "ENL0C049DQW.000058",
+        "type": "medical_intervention_cure",
+        "offsets": [
+            1215,
+            1219
+        ],
+        "text": "cure",
+        "arg_ann_id": "T58"
+    },
+    "ENL0C049DQW.000059": {
+        "id": "ENL0C049DQW.000059",
+        "type": "life_consume_unspecified",
+        "offsets": [
+            1190,
+            1196
+        ],
+        "text": "eating",
+        "arg_ann_id": "T59"
+    },
+    "ENL0C049DQW.000060": {
+        "id": "ENL0C049DQW.000060",
+        "type": "medical_intervention_cure",
+        "offsets": [
+            1330,
+            1336
+        ],
+        "text": "combat",
+        "arg_ann_id": "T60"
+    },
+    "ENL0C049DQW.000061": {
+        "id": "ENL0C049DQW.000061",
+        "type": "MHI",
+        "offsets": [
+            1343,
+            1354
+        ],
+        "text": "coronavirus",
+        "arg_ann_id": "T61"
+    },
+    "ENL0C049DQW.000062": {
+        "id": "ENL0C049DQW.000062",
+        "type": "life_consume_unspecified",
+        "offsets": [
+            1286,
+            1294
+        ],
+        "text": "drinking",
+        "arg_ann_id": "T62"
+    },
+    "ENL0C049DQW.000063": {
+        "id": "ENL0C049DQW.000063",
+        "type": "COM",
+        "offsets": [
+            1295,
+            1323
+        ],
+        "text": "warm water with lemon slices",
+        "arg_ann_id": "T63"
+    },
+    "ENL0C049DQW.000064": {
+        "id": "ENL0C049DQW.000064",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            1273,
+            1280
+        ],
+        "text": "claimed",
+        "arg_ann_id": "T64"
+    },
+    "ENL0C049DQW.000065": {
+        "id": "ENL0C049DQW.000065",
+        "type": "COM",
+        "offsets": [
+            1401,
+            1406
+        ],
+        "text": "lemon",
+        "arg_ann_id": "T65"
+    },
+    "ENL0C049DQW.000066": {
+        "id": "ENL0C049DQW.000066",
+        "type": "medical_intervention_cure",
+        "offsets": [
+            1411,
+            1415
+        ],
+        "text": "cure",
+        "arg_ann_id": "T66"
+    },
+    "ENL0C049DQW.000067": {
+        "id": "ENL0C049DQW.000067",
+        "type": "COM",
+        "offsets": [
+            2239,
+            2248
+        ],
+        "text": "vitamin C",
+        "arg_ann_id": "T67"
+    },
+    "ENL0C049DQW.000068": {
+        "id": "ENL0C049DQW.000068",
+        "type": "control_impedeinterferewith_prevent",
+        "offsets": [
+            2254,
+            2261
+        ],
+        "text": "prevent",
+        "arg_ann_id": "T68"
+    },
+    "ENL0C049DQW.000069": {
+        "id": "ENL0C049DQW.000069",
+        "type": "medical_intervention_cure",
+        "offsets": [
+            2265,
+            2269
+        ],
+        "text": "cure",
+        "arg_ann_id": "T69"
+    },
+    "ENL0C049DQW.000070": {
+        "id": "ENL0C049DQW.000070",
+        "type": "MHI",
+        "offsets": [
+            2270,
+            2278
+        ],
+        "text": "COVID-19",
+        "arg_ann_id": "T70"
+    },
+    "ENL0C049DQW.000071": {
+        "id": "ENL0C049DQW.000071",
+        "type": "medical_intervention_cure",
+        "offsets": [
+            2489,
+            2494
+        ],
+        "text": "cured",
+        "arg_ann_id": "T71"
+    },
+    "ENL0C049DQW.000072": {
+        "id": "ENL0C049DQW.000072",
+        "type": "life_consume_unspecified",
+        "offsets": [
+            2498,
+            2504
+        ],
+        "text": "eating",
+        "arg_ann_id": "T72"
+    },
+    "ENL0C049DQW.000073": {
+        "id": "ENL0C049DQW.000073",
+        "type": "COM",
+        "offsets": [
+            2505,
+            2574
+        ],
+        "text": "foods with a pH (level of acidity) that is higher than the virus\u2019s pH",
+        "arg_ann_id": "T73"
+    },
+    "ENL0C049DQW.000074": {
+        "id": "ENL0C049DQW.000074",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            2463,
+            2471
+        ],
+        "text": "suggests",
+        "arg_ann_id": "T74"
+    },
+    "ENL0C049DQW.000075": {
+        "id": "ENL0C049DQW.000075",
+        "type": "INF",
+        "offsets": [
+            2425,
+            2439
+        ],
+        "text": "Misinformation",
+        "arg_ann_id": "T75"
+    },
+    "ENL0C049DQW.000076": {
+        "id": "ENL0C049DQW.000076",
+        "type": "COM",
+        "offsets": [
+            2677,
+            2691
+        ],
+        "text": "alkaline foods",
+        "arg_ann_id": "T76"
+    },
+    "ENL0C049DQW.000077": {
+        "id": "ENL0C049DQW.000077",
+        "type": "medical_intervention_cure",
+        "offsets": [
+            2702,
+            2706
+        ],
+        "text": "cure",
+        "arg_ann_id": "T77"
+    },
+    "ENL0C049DQW.000078": {
+        "id": "ENL0C049DQW.000078",
+        "type": "MHI",
+        "offsets": [
+            2708,
+            2719
+        ],
+        "text": "coronavirus",
+        "arg_ann_id": "T78"
+    },
+    "ENL0C049DQW.000079": {
+        "id": "ENL0C049DQW.000079",
+        "type": "medical_intervention_cure",
+        "offsets": [
+            3168,
+            3172
+        ],
+        "text": "cure",
+        "arg_ann_id": "T79"
+    },
+    "ENL0C049DQW.000080": {
+        "id": "ENL0C049DQW.000080",
+        "type": "MHI",
+        "offsets": [
+            3173,
+            3189
+        ],
+        "text": "viral infections",
+        "arg_ann_id": "T80"
+    },
+    "ENL0C049DQW.000081": {
+        "id": "ENL0C049DQW.000081",
+        "type": "COM",
+        "offsets": [
+            3093,
+            3098
+        ],
+        "text": "foods",
+        "arg_ann_id": "T81"
+    },
+    "ENL0C049DQW.000082": {
+        "id": "ENL0C049DQW.000082",
+        "type": "COM",
+        "offsets": [
+            3299,
+            3320
+        ],
+        "text": "ketogenic (keto) diet",
+        "arg_ann_id": "T82"
+    },
+    "ENL0C049DQW.000083": {
+        "id": "ENL0C049DQW.000083",
+        "type": "control_impedeinterferewith_prevent",
+        "offsets": [
+            3389,
+            3399
+        ],
+        "text": "protective",
+        "arg_ann_id": "T83"
+    },
+    "ENL0C049DQW.000084": {
+        "id": "ENL0C049DQW.000084",
+        "type": "MHI",
+        "offsets": [
+            3408,
+            3416
+        ],
+        "text": "COVID-19",
+        "arg_ann_id": "T84"
+    },
+    "ENL0C049DQW.000085": {
+        "id": "ENL0C049DQW.000085",
+        "type": "COM",
+        "offsets": [
+            3817,
+            3831
+        ],
+        "text": "ketogenic diet",
+        "arg_ann_id": "T85"
+    },
+    "ENL0C049DQW.000086": {
+        "id": "ENL0C049DQW.000086",
+        "type": "control_impedeinterferewith_prevent",
+        "offsets": [
+            3836,
+            3843
+        ],
+        "text": "prevent",
+        "arg_ann_id": "T86"
+    },
+    "ENL0C049DQW.000087": {
+        "id": "ENL0C049DQW.000087",
+        "type": "control_impedeinterferewith_prevent",
+        "offsets": [
+            3961,
+            3968
+        ],
+        "text": "prevent",
+        "arg_ann_id": "T87"
+    },
+    "ENL0C049DQW.000088": {
+        "id": "ENL0C049DQW.000088",
+        "type": "MHI",
+        "offsets": [
+            3992,
+            4000
+        ],
+        "text": "COVID-19",
+        "arg_ann_id": "T88"
+    },
+    "ENL0C049DQW.000089": {
+        "id": "ENL0C049DQW.000089",
+        "type": "COM",
+        "offsets": [
+            3937,
+            3941
+        ],
+        "text": "food",
+        "arg_ann_id": "T89"
+    },
+    "ENL0C049DQW.000090": {
+        "id": "ENL0C049DQW.000090",
+        "type": "COM",
+        "offsets": [
+            3945,
+            3956
+        ],
+        "text": "supplements",
+        "arg_ann_id": "T90"
+    },
+    "ENL0C049DQW.000091": {
+        "id": "ENL0C049DQW.000091",
+        "type": "life_infect_unspecified",
+        "offsets": [
+            3983,
+            3991
+        ],
+        "text": "catching",
+        "arg_ann_id": "T91"
+    },
+    "ENL0C049DQW.000092": {
+        "id": "ENL0C049DQW.000092",
+        "type": "contact_contact_broadcast",
+        "offsets": [
+            3918,
+            3924
+        ],
+        "text": "stated",
+        "arg_ann_id": "T92"
+    },
+    "ENL0C049DQW.000093": {
+        "id": "ENL0C049DQW.000093",
+        "type": "COM",
+        "offsets": [
+            5796,
+            5801
+        ],
+        "text": "foods",
+        "arg_ann_id": "T93"
+    },
+    "ENL0C049DQW.000094": {
+        "id": "ENL0C049DQW.000094",
+        "type": "COM",
+        "offsets": [
+            5805,
+            5816
+        ],
+        "text": "supplements",
+        "arg_ann_id": "T94"
+    },
+    "ENL0C049DQW.000095": {
+        "id": "ENL0C049DQW.000095",
+        "type": "control_impedeinterferewith_prevent",
+        "offsets": [
+            5831,
+            5838
+        ],
+        "text": "protect",
+        "arg_ann_id": "T95"
+    },
+    "ENL0C049DQW.000096": {
+        "id": "ENL0C049DQW.000096",
+        "type": "MHI",
+        "offsets": [
+            5857,
+            5868
+        ],
+        "text": "coronavirus",
+        "arg_ann_id": "T96"
+    },
+    "ENL0C049DQW.000097": {
+        "id": "ENL0C049DQW.000097",
+        "type": "COM",
+        "offsets": [
+            5950,
+            5954
+        ],
+        "text": "food",
+        "arg_ann_id": "T97"
+    },
+    "ENL0C049DQW.000098": {
+        "id": "ENL0C049DQW.000098",
+        "type": "COM",
+        "offsets": [
+            5958,
+            5968
+        ],
+        "text": "supplement",
+        "arg_ann_id": "T98"
+    },
+    "ENL0C049DQW.000099": {
+        "id": "ENL0C049DQW.000099",
+        "type": "medical_intervention_cure",
+        "offsets": [
+            5973,
+            5978
+        ],
+        "text": "fight",
+        "arg_ann_id": "T99"
+    },
+    "ENL0C049DQW.000100": {
+        "id": "ENL0C049DQW.000100",
+        "type": "MHI",
+        "offsets": [
+            6002,
+            6010
+        ],
+        "text": "COVID-19",
+        "arg_ann_id": "T100"
+    },
+    "ENL0C049DQW.000101": {
+        "id": "ENL0C049DQW.000101",
+        "type": "MHI",
+        "offsets": [
+            5979,
+            5995
+        ],
+        "text": "viral infections",
+        "arg_ann_id": "T101"
+    }
+}

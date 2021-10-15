@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-247">
+		<TEXT>
+			<SEG id="covid19scenario-247-0" start_char="0" end_char="12">
+				<ORIGINAL_TEXT>Myth Unmasked</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="3">Myth</TOKEN>
+				<TOKEN id="token-0-1" start_char="5" end_char="12">Unmasked</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-1" start_char="14" end_char="94">
+				<ORIGINAL_TEXT>Does wearing a face mask remove your ability to legally carry a concealed weapon?</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="14" end_char="17">Does</TOKEN>
+				<TOKEN id="token-1-1" start_char="19" end_char="25">wearing</TOKEN>
+				<TOKEN id="token-1-2" start_char="27" end_char="27">a</TOKEN>
+				<TOKEN id="token-1-3" start_char="29" end_char="32">face</TOKEN>
+				<TOKEN id="token-1-4" start_char="34" end_char="37">mask</TOKEN>
+				<TOKEN id="token-1-5" start_char="39" end_char="44">remove</TOKEN>
+				<TOKEN id="token-1-6" start_char="46" end_char="49">your</TOKEN>
+				<TOKEN id="token-1-7" start_char="51" end_char="57">ability</TOKEN>
+				<TOKEN id="token-1-8" start_char="59" end_char="60">to</TOKEN>
+				<TOKEN id="token-1-9" start_char="62" end_char="68">legally</TOKEN>
+				<TOKEN id="token-1-10" start_char="70" end_char="74">carry</TOKEN>
+				<TOKEN id="token-1-11" start_char="76" end_char="76">a</TOKEN>
+				<TOKEN id="token-1-12" start_char="78" end_char="86">concealed</TOKEN>
+				<TOKEN id="token-1-13" start_char="88" end_char="93">weapon</TOKEN>
+				<TOKEN id="token-1-14" start_char="94" end_char="94">?</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-2" start_char="96" end_char="350">
+				<ORIGINAL_TEXT>No, that's not true: Laws vary by state, but authorities in several states have issued guidance making it clear that their law does not prohibit someone from lawfully carrying a concealed weapon while wearing a mask to help to stop the spread of COVID-19.</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="96" end_char="97">No</TOKEN>
+				<TOKEN id="token-2-1" start_char="98" end_char="98">,</TOKEN>
+				<TOKEN id="token-2-2" start_char="100" end_char="103">that</TOKEN>
+				<TOKEN id="token-2-3" start_char="104" end_char="104">'</TOKEN>
+				<TOKEN id="token-2-4" start_char="105" end_char="105">s</TOKEN>
+				<TOKEN id="token-2-5" start_char="107" end_char="109">not</TOKEN>
+				<TOKEN id="token-2-6" start_char="111" end_char="114">true</TOKEN>
+				<TOKEN id="token-2-7" start_char="115" end_char="115">:</TOKEN>
+				<TOKEN id="token-2-8" start_char="117" end_char="120">Laws</TOKEN>
+				<TOKEN id="token-2-9" start_char="122" end_char="125">vary</TOKEN>
+				<TOKEN id="token-2-10" start_char="127" end_char="128">by</TOKEN>
+				<TOKEN id="token-2-11" start_char="130" end_char="134">state</TOKEN>
+				<TOKEN id="token-2-12" start_char="135" end_char="135">,</TOKEN>
+				<TOKEN id="token-2-13" start_char="137" end_char="139">but</TOKEN>
+				<TOKEN id="token-2-14" start_char="141" end_char="151">authorities</TOKEN>
+				<TOKEN id="token-2-15" start_char="153" end_char="154">in</TOKEN>
+				<TOKEN id="token-2-16" start_char="156" end_char="162">several</TOKEN>
+				<TOKEN id="token-2-17" start_char="164" end_char="169">states</TOKEN>
+				<TOKEN id="token-2-18" start_char="171" end_char="174">have</TOKEN>
+				<TOKEN id="token-2-19" start_char="176" end_char="181">issued</TOKEN>
+				<TOKEN id="token-2-20" start_char="183" end_char="190">guidance</TOKEN>
+				<TOKEN id="token-2-21" start_char="192" end_char="197">making</TOKEN>
+				<TOKEN id="token-2-22" start_char="199" end_char="200">it</TOKEN>
+				<TOKEN id="token-2-23" start_char="202" end_char="206">clear</TOKEN>
+				<TOKEN id="token-2-24" start_char="208" end_char="211">that</TOKEN>
+				<TOKEN id="token-2-25" start_char="213" end_char="217">their</TOKEN>
+				<TOKEN id="token-2-26" start_char="219" end_char="221">law</TOKEN>
+				<TOKEN id="token-2-27" start_char="223" end_char="226">does</TOKEN>
+				<TOKEN id="token-2-28" start_char="228" end_char="230">not</TOKEN>
+				<TOKEN id="token-2-29" start_char="232" end_char="239">prohibit</TOKEN>
+				<TOKEN id="token-2-30" start_char="241" end_char="247">someone</TOKEN>
+				<TOKEN id="token-2-31" start_char="249" end_char="252">from</TOKEN>
+				<TOKEN id="token-2-32" start_char="254" end_char="261">lawfully</TOKEN>
+				<TOKEN id="token-2-33" start_char="263" end_char="270">carrying</TOKEN>
+				<TOKEN id="token-2-34" start_char="272" end_char="272">a</TOKEN>
+				<TOKEN id="token-2-35" start_char="274" end_char="282">concealed</TOKEN>
+				<TOKEN id="token-2-36" start_char="284" end_char="289">weapon</TOKEN>
+				<TOKEN id="token-2-37" start_char="291" end_char="295">while</TOKEN>
+				<TOKEN id="token-2-38" start_char="297" end_char="303">wearing</TOKEN>
+				<TOKEN id="token-2-39" start_char="305" end_char="305">a</TOKEN>
+				<TOKEN id="token-2-40" start_char="307" end_char="310">mask</TOKEN>
+				<TOKEN id="token-2-41" start_char="312" end_char="313">to</TOKEN>
+				<TOKEN id="token-2-42" start_char="315" end_char="318">help</TOKEN>
+				<TOKEN id="token-2-43" start_char="320" end_char="321">to</TOKEN>
+				<TOKEN id="token-2-44" start_char="323" end_char="326">stop</TOKEN>
+				<TOKEN id="token-2-45" start_char="328" end_char="330">the</TOKEN>
+				<TOKEN id="token-2-46" start_char="332" end_char="337">spread</TOKEN>
+				<TOKEN id="token-2-47" start_char="339" end_char="340">of</TOKEN>
+				<TOKEN id="token-2-48" start_char="342" end_char="346">COVID</TOKEN>
+				<TOKEN id="token-2-49" start_char="347" end_char="347">-</TOKEN>
+				<TOKEN id="token-2-50" start_char="348" end_char="349">19</TOKEN>
+				<TOKEN id="token-2-51" start_char="350" end_char="350">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-3" start_char="352" end_char="413">
+				<ORIGINAL_TEXT>Lead Stories could find no examples where it would be illegal.</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="352" end_char="355">Lead</TOKEN>
+				<TOKEN id="token-3-1" start_char="357" end_char="363">Stories</TOKEN>
+				<TOKEN id="token-3-2" start_char="365" end_char="369">could</TOKEN>
+				<TOKEN id="token-3-3" start_char="371" end_char="374">find</TOKEN>
+				<TOKEN id="token-3-4" start_char="376" end_char="377">no</TOKEN>
+				<TOKEN id="token-3-5" start_char="379" end_char="386">examples</TOKEN>
+				<TOKEN id="token-3-6" start_char="388" end_char="392">where</TOKEN>
+				<TOKEN id="token-3-7" start_char="394" end_char="395">it</TOKEN>
+				<TOKEN id="token-3-8" start_char="397" end_char="401">would</TOKEN>
+				<TOKEN id="token-3-9" start_char="403" end_char="404">be</TOKEN>
+				<TOKEN id="token-3-10" start_char="406" end_char="412">illegal</TOKEN>
+				<TOKEN id="token-3-11" start_char="413" end_char="413">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-4" start_char="415" end_char="488">
+				<ORIGINAL_TEXT>The claim appeared in a post (archived here) on Facebook on June 24, 2020.</ORIGINAL_TEXT>
+				<TOKEN id="token-4-0" start_char="415" end_char="417">The</TOKEN>
+				<TOKEN id="token-4-1" start_char="419" end_char="423">claim</TOKEN>
+				<TOKEN id="token-4-2" start_char="425" end_char="432">appeared</TOKEN>
+				<TOKEN id="token-4-3" start_char="434" end_char="435">in</TOKEN>
+				<TOKEN id="token-4-4" start_char="437" end_char="437">a</TOKEN>
+				<TOKEN id="token-4-5" start_char="439" end_char="442">post</TOKEN>
+				<TOKEN id="token-4-6" start_char="444" end_char="444">(</TOKEN>
+				<TOKEN id="token-4-7" start_char="445" end_char="452">archived</TOKEN>
+				<TOKEN id="token-4-8" start_char="454" end_char="457">here</TOKEN>
+				<TOKEN id="token-4-9" start_char="458" end_char="458">)</TOKEN>
+				<TOKEN id="token-4-10" start_char="460" end_char="461">on</TOKEN>
+				<TOKEN id="token-4-11" start_char="463" end_char="470">Facebook</TOKEN>
+				<TOKEN id="token-4-12" start_char="472" end_char="473">on</TOKEN>
+				<TOKEN id="token-4-13" start_char="475" end_char="478">June</TOKEN>
+				<TOKEN id="token-4-14" start_char="480" end_char="481">24</TOKEN>
+				<TOKEN id="token-4-15" start_char="482" end_char="482">,</TOKEN>
+				<TOKEN id="token-4-16" start_char="484" end_char="487">2020</TOKEN>
+				<TOKEN id="token-4-17" start_char="488" end_char="488">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-5" start_char="490" end_char="497">
+				<ORIGINAL_TEXT>It read:</ORIGINAL_TEXT>
+				<TOKEN id="token-5-0" start_char="490" end_char="491">It</TOKEN>
+				<TOKEN id="token-5-1" start_char="493" end_char="496">read</TOKEN>
+				<TOKEN id="token-5-2" start_char="497" end_char="497">:</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-6" start_char="499" end_char="534">
+				<ORIGINAL_TEXT>Know what else wearing a mask does??</ORIGINAL_TEXT>
+				<TOKEN id="token-6-0" start_char="499" end_char="502">Know</TOKEN>
+				<TOKEN id="token-6-1" start_char="504" end_char="507">what</TOKEN>
+				<TOKEN id="token-6-2" start_char="509" end_char="512">else</TOKEN>
+				<TOKEN id="token-6-3" start_char="514" end_char="520">wearing</TOKEN>
+				<TOKEN id="token-6-4" start_char="522" end_char="522">a</TOKEN>
+				<TOKEN id="token-6-5" start_char="524" end_char="527">mask</TOKEN>
+				<TOKEN id="token-6-6" start_char="529" end_char="532">does</TOKEN>
+				<TOKEN id="token-6-7" start_char="533" end_char="534">??</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-7" start_char="536" end_char="536">
+				<ORIGINAL_TEXT>?</ORIGINAL_TEXT>
+				<TOKEN id="token-7-0" start_char="536" end_char="536">?</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-8" start_char="538" end_char="544">
+				<ORIGINAL_TEXT>Anyone?</ORIGINAL_TEXT>
+				<TOKEN id="token-8-0" start_char="538" end_char="543">Anyone</TOKEN>
+				<TOKEN id="token-8-1" start_char="544" end_char="544">?</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-9" start_char="546" end_char="546">
+				<ORIGINAL_TEXT>?</ORIGINAL_TEXT>
+				<TOKEN id="token-9-0" start_char="546" end_char="546">?</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-10" start_char="548" end_char="582">
+				<ORIGINAL_TEXT>REMOVES YOUR CONCEAL CARRY ability.</ORIGINAL_TEXT>
+				<TOKEN id="token-10-0" start_char="548" end_char="554">REMOVES</TOKEN>
+				<TOKEN id="token-10-1" start_char="556" end_char="559">YOUR</TOKEN>
+				<TOKEN id="token-10-2" start_char="561" end_char="567">CONCEAL</TOKEN>
+				<TOKEN id="token-10-3" start_char="569" end_char="573">CARRY</TOKEN>
+				<TOKEN id="token-10-4" start_char="575" end_char="581">ability</TOKEN>
+				<TOKEN id="token-10-5" start_char="582" end_char="582">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-11" start_char="584" end_char="596">
+				<ORIGINAL_TEXT>That's right!</ORIGINAL_TEXT>
+				<TOKEN id="token-11-0" start_char="584" end_char="587">That</TOKEN>
+				<TOKEN id="token-11-1" start_char="588" end_char="588">'</TOKEN>
+				<TOKEN id="token-11-2" start_char="589" end_char="589">s</TOKEN>
+				<TOKEN id="token-11-3" start_char="591" end_char="595">right</TOKEN>
+				<TOKEN id="token-11-4" start_char="596" end_char="596">!</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-12" start_char="598" end_char="598">
+				<ORIGINAL_TEXT>!</ORIGINAL_TEXT>
+				<TOKEN id="token-12-0" start_char="598" end_char="598">!</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-13" start_char="600" end_char="616">
+				<ORIGINAL_TEXT>Its in the rules.</ORIGINAL_TEXT>
+				<TOKEN id="token-13-0" start_char="600" end_char="602">Its</TOKEN>
+				<TOKEN id="token-13-1" start_char="604" end_char="605">in</TOKEN>
+				<TOKEN id="token-13-2" start_char="607" end_char="609">the</TOKEN>
+				<TOKEN id="token-13-3" start_char="611" end_char="615">rules</TOKEN>
+				<TOKEN id="token-13-4" start_char="616" end_char="616">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-14" start_char="618" end_char="685">
+				<ORIGINAL_TEXT>CCW licencees are NOT allowed to wear face coverings while carrying.</ORIGINAL_TEXT>
+				<TOKEN id="token-14-0" start_char="618" end_char="620">CCW</TOKEN>
+				<TOKEN id="token-14-1" start_char="622" end_char="630">licencees</TOKEN>
+				<TOKEN id="token-14-2" start_char="632" end_char="634">are</TOKEN>
+				<TOKEN id="token-14-3" start_char="636" end_char="638">NOT</TOKEN>
+				<TOKEN id="token-14-4" start_char="640" end_char="646">allowed</TOKEN>
+				<TOKEN id="token-14-5" start_char="648" end_char="649">to</TOKEN>
+				<TOKEN id="token-14-6" start_char="651" end_char="654">wear</TOKEN>
+				<TOKEN id="token-14-7" start_char="656" end_char="659">face</TOKEN>
+				<TOKEN id="token-14-8" start_char="661" end_char="669">coverings</TOKEN>
+				<TOKEN id="token-14-9" start_char="671" end_char="675">while</TOKEN>
+				<TOKEN id="token-14-10" start_char="677" end_char="684">carrying</TOKEN>
+				<TOKEN id="token-14-11" start_char="685" end_char="685">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-15" start_char="687" end_char="707">
+				<ORIGINAL_TEXT>Now let that sink in.</ORIGINAL_TEXT>
+				<TOKEN id="token-15-0" start_char="687" end_char="689">Now</TOKEN>
+				<TOKEN id="token-15-1" start_char="691" end_char="693">let</TOKEN>
+				<TOKEN id="token-15-2" start_char="695" end_char="698">that</TOKEN>
+				<TOKEN id="token-15-3" start_char="700" end_char="703">sink</TOKEN>
+				<TOKEN id="token-15-4" start_char="705" end_char="706">in</TOKEN>
+				<TOKEN id="token-15-5" start_char="707" end_char="707">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-16" start_char="709" end_char="777">
+				<ORIGINAL_TEXT>This is what the post looked like on Facebook at the time of writing:</ORIGINAL_TEXT>
+				<TOKEN id="token-16-0" start_char="709" end_char="712">This</TOKEN>
+				<TOKEN id="token-16-1" start_char="714" end_char="715">is</TOKEN>
+				<TOKEN id="token-16-2" start_char="717" end_char="720">what</TOKEN>
+				<TOKEN id="token-16-3" start_char="722" end_char="724">the</TOKEN>
+				<TOKEN id="token-16-4" start_char="726" end_char="729">post</TOKEN>
+				<TOKEN id="token-16-5" start_char="731" end_char="736">looked</TOKEN>
+				<TOKEN id="token-16-6" start_char="738" end_char="741">like</TOKEN>
+				<TOKEN id="token-16-7" start_char="743" end_char="744">on</TOKEN>
+				<TOKEN id="token-16-8" start_char="746" end_char="753">Facebook</TOKEN>
+				<TOKEN id="token-16-9" start_char="755" end_char="756">at</TOKEN>
+				<TOKEN id="token-16-10" start_char="758" end_char="760">the</TOKEN>
+				<TOKEN id="token-16-11" start_char="762" end_char="765">time</TOKEN>
+				<TOKEN id="token-16-12" start_char="767" end_char="768">of</TOKEN>
+				<TOKEN id="token-16-13" start_char="770" end_char="776">writing</TOKEN>
+				<TOKEN id="token-16-14" start_char="777" end_char="777">:</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-17" start_char="779" end_char="845">
+				<ORIGINAL_TEXT>(Source: Facebook screenshot taken on Mon Jun 29 15:37:05 2020 UTC)</ORIGINAL_TEXT>
+				<TOKEN id="token-17-0" start_char="779" end_char="779">(</TOKEN>
+				<TOKEN id="token-17-1" start_char="780" end_char="785">Source</TOKEN>
+				<TOKEN id="token-17-2" start_char="786" end_char="786">:</TOKEN>
+				<TOKEN id="token-17-3" start_char="788" end_char="795">Facebook</TOKEN>
+				<TOKEN id="token-17-4" start_char="797" end_char="806">screenshot</TOKEN>
+				<TOKEN id="token-17-5" start_char="808" end_char="812">taken</TOKEN>
+				<TOKEN id="token-17-6" start_char="814" end_char="815">on</TOKEN>
+				<TOKEN id="token-17-7" start_char="817" end_char="819">Mon</TOKEN>
+				<TOKEN id="token-17-8" start_char="821" end_char="823">Jun</TOKEN>
+				<TOKEN id="token-17-9" start_char="825" end_char="826">29</TOKEN>
+				<TOKEN id="token-17-10" start_char="828" end_char="829">15</TOKEN>
+				<TOKEN id="token-17-11" start_char="830" end_char="830">:</TOKEN>
+				<TOKEN id="token-17-12" start_char="831" end_char="832">37</TOKEN>
+				<TOKEN id="token-17-13" start_char="833" end_char="833">:</TOKEN>
+				<TOKEN id="token-17-14" start_char="834" end_char="835">05</TOKEN>
+				<TOKEN id="token-17-15" start_char="837" end_char="840">2020</TOKEN>
+				<TOKEN id="token-17-16" start_char="842" end_char="844">UTC</TOKEN>
+				<TOKEN id="token-17-17" start_char="845" end_char="845">)</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-18" start_char="847" end_char="1034">
+				<ORIGINAL_TEXT>Although wearing a mask to hide one's identity is illegal in some states in certain obvious situations -- while committing a crime, for example -- that's not what we're talking about here.</ORIGINAL_TEXT>
+				<TOKEN id="token-18-0" start_char="847" end_char="854">Although</TOKEN>
+				<TOKEN id="token-18-1" start_char="856" end_char="862">wearing</TOKEN>
+				<TOKEN id="token-18-2" start_char="864" end_char="864">a</TOKEN>
+				<TOKEN id="token-18-3" start_char="866" end_char="869">mask</TOKEN>
+				<TOKEN id="token-18-4" start_char="871" end_char="872">to</TOKEN>
+				<TOKEN id="token-18-5" start_char="874" end_char="877">hide</TOKEN>
+				<TOKEN id="token-18-6" start_char="879" end_char="881">one</TOKEN>
+				<TOKEN id="token-18-7" start_char="882" end_char="882">'</TOKEN>
+				<TOKEN id="token-18-8" start_char="883" end_char="883">s</TOKEN>
+				<TOKEN id="token-18-9" start_char="885" end_char="892">identity</TOKEN>
+				<TOKEN id="token-18-10" start_char="894" end_char="895">is</TOKEN>
+				<TOKEN id="token-18-11" start_char="897" end_char="903">illegal</TOKEN>
+				<TOKEN id="token-18-12" start_char="905" end_char="906">in</TOKEN>
+				<TOKEN id="token-18-13" start_char="908" end_char="911">some</TOKEN>
+				<TOKEN id="token-18-14" start_char="913" end_char="918">states</TOKEN>
+				<TOKEN id="token-18-15" start_char="920" end_char="921">in</TOKEN>
+				<TOKEN id="token-18-16" start_char="923" end_char="929">certain</TOKEN>
+				<TOKEN id="token-18-17" start_char="931" end_char="937">obvious</TOKEN>
+				<TOKEN id="token-18-18" start_char="939" end_char="948">situations</TOKEN>
+				<TOKEN id="token-18-19" start_char="950" end_char="951">--</TOKEN>
+				<TOKEN id="token-18-20" start_char="953" end_char="957">while</TOKEN>
+				<TOKEN id="token-18-21" start_char="959" end_char="968">committing</TOKEN>
+				<TOKEN id="token-18-22" start_char="970" end_char="970">a</TOKEN>
+				<TOKEN id="token-18-23" start_char="972" end_char="976">crime</TOKEN>
+				<TOKEN id="token-18-24" start_char="977" end_char="977">,</TOKEN>
+				<TOKEN id="token-18-25" start_char="979" end_char="981">for</TOKEN>
+				<TOKEN id="token-18-26" start_char="983" end_char="989">example</TOKEN>
+				<TOKEN id="token-18-27" start_char="991" end_char="992">--</TOKEN>
+				<TOKEN id="token-18-28" start_char="994" end_char="997">that</TOKEN>
+				<TOKEN id="token-18-29" start_char="998" end_char="998">'</TOKEN>
+				<TOKEN id="token-18-30" start_char="999" end_char="999">s</TOKEN>
+				<TOKEN id="token-18-31" start_char="1001" end_char="1003">not</TOKEN>
+				<TOKEN id="token-18-32" start_char="1005" end_char="1008">what</TOKEN>
+				<TOKEN id="token-18-33" start_char="1010" end_char="1011">we</TOKEN>
+				<TOKEN id="token-18-34" start_char="1012" end_char="1012">'</TOKEN>
+				<TOKEN id="token-18-35" start_char="1013" end_char="1014">re</TOKEN>
+				<TOKEN id="token-18-36" start_char="1016" end_char="1022">talking</TOKEN>
+				<TOKEN id="token-18-37" start_char="1024" end_char="1028">about</TOKEN>
+				<TOKEN id="token-18-38" start_char="1030" end_char="1033">here</TOKEN>
+				<TOKEN id="token-18-39" start_char="1034" end_char="1034">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-19" start_char="1036" end_char="1166">
+				<ORIGINAL_TEXT>We're talking about wearing a mask for the purposes of public health, as this sheriff in Humboldt County, California, has stressed.</ORIGINAL_TEXT>
+				<TOKEN id="token-19-0" start_char="1036" end_char="1037">We</TOKEN>
+				<TOKEN id="token-19-1" start_char="1038" end_char="1038">'</TOKEN>
+				<TOKEN id="token-19-2" start_char="1039" end_char="1040">re</TOKEN>
+				<TOKEN id="token-19-3" start_char="1042" end_char="1048">talking</TOKEN>
+				<TOKEN id="token-19-4" start_char="1050" end_char="1054">about</TOKEN>
+				<TOKEN id="token-19-5" start_char="1056" end_char="1062">wearing</TOKEN>
+				<TOKEN id="token-19-6" start_char="1064" end_char="1064">a</TOKEN>
+				<TOKEN id="token-19-7" start_char="1066" end_char="1069">mask</TOKEN>
+				<TOKEN id="token-19-8" start_char="1071" end_char="1073">for</TOKEN>
+				<TOKEN id="token-19-9" start_char="1075" end_char="1077">the</TOKEN>
+				<TOKEN id="token-19-10" start_char="1079" end_char="1086">purposes</TOKEN>
+				<TOKEN id="token-19-11" start_char="1088" end_char="1089">of</TOKEN>
+				<TOKEN id="token-19-12" start_char="1091" end_char="1096">public</TOKEN>
+				<TOKEN id="token-19-13" start_char="1098" end_char="1103">health</TOKEN>
+				<TOKEN id="token-19-14" start_char="1104" end_char="1104">,</TOKEN>
+				<TOKEN id="token-19-15" start_char="1106" end_char="1107">as</TOKEN>
+				<TOKEN id="token-19-16" start_char="1109" end_char="1112">this</TOKEN>
+				<TOKEN id="token-19-17" start_char="1114" end_char="1120">sheriff</TOKEN>
+				<TOKEN id="token-19-18" start_char="1122" end_char="1123">in</TOKEN>
+				<TOKEN id="token-19-19" start_char="1125" end_char="1132">Humboldt</TOKEN>
+				<TOKEN id="token-19-20" start_char="1134" end_char="1139">County</TOKEN>
+				<TOKEN id="token-19-21" start_char="1140" end_char="1140">,</TOKEN>
+				<TOKEN id="token-19-22" start_char="1142" end_char="1151">California</TOKEN>
+				<TOKEN id="token-19-23" start_char="1152" end_char="1152">,</TOKEN>
+				<TOKEN id="token-19-24" start_char="1154" end_char="1156">has</TOKEN>
+				<TOKEN id="token-19-25" start_char="1158" end_char="1165">stressed</TOKEN>
+				<TOKEN id="token-19-26" start_char="1166" end_char="1166">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-20" start_char="1168" end_char="1195">
+				<ORIGINAL_TEXT>Sheriff William Honsal said:</ORIGINAL_TEXT>
+				<TOKEN id="token-20-0" start_char="1168" end_char="1174">Sheriff</TOKEN>
+				<TOKEN id="token-20-1" start_char="1176" end_char="1182">William</TOKEN>
+				<TOKEN id="token-20-2" start_char="1184" end_char="1189">Honsal</TOKEN>
+				<TOKEN id="token-20-3" start_char="1191" end_char="1194">said</TOKEN>
+				<TOKEN id="token-20-4" start_char="1195" end_char="1195">:</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-21" start_char="1197" end_char="1310">
+				<ORIGINAL_TEXT>Penal Code 25300(a) only applies to those persons who are carrying weapons while masked to hide their identity ...</ORIGINAL_TEXT>
+				<TOKEN id="token-21-0" start_char="1197" end_char="1201">Penal</TOKEN>
+				<TOKEN id="token-21-1" start_char="1203" end_char="1206">Code</TOKEN>
+				<TOKEN id="token-21-2" start_char="1208" end_char="1212">25300</TOKEN>
+				<TOKEN id="token-21-3" start_char="1213" end_char="1213">(</TOKEN>
+				<TOKEN id="token-21-4" start_char="1214" end_char="1214">a</TOKEN>
+				<TOKEN id="token-21-5" start_char="1215" end_char="1215">)</TOKEN>
+				<TOKEN id="token-21-6" start_char="1217" end_char="1220">only</TOKEN>
+				<TOKEN id="token-21-7" start_char="1222" end_char="1228">applies</TOKEN>
+				<TOKEN id="token-21-8" start_char="1230" end_char="1231">to</TOKEN>
+				<TOKEN id="token-21-9" start_char="1233" end_char="1237">those</TOKEN>
+				<TOKEN id="token-21-10" start_char="1239" end_char="1245">persons</TOKEN>
+				<TOKEN id="token-21-11" start_char="1247" end_char="1249">who</TOKEN>
+				<TOKEN id="token-21-12" start_char="1251" end_char="1253">are</TOKEN>
+				<TOKEN id="token-21-13" start_char="1255" end_char="1262">carrying</TOKEN>
+				<TOKEN id="token-21-14" start_char="1264" end_char="1270">weapons</TOKEN>
+				<TOKEN id="token-21-15" start_char="1272" end_char="1276">while</TOKEN>
+				<TOKEN id="token-21-16" start_char="1278" end_char="1283">masked</TOKEN>
+				<TOKEN id="token-21-17" start_char="1285" end_char="1286">to</TOKEN>
+				<TOKEN id="token-21-18" start_char="1288" end_char="1291">hide</TOKEN>
+				<TOKEN id="token-21-19" start_char="1293" end_char="1297">their</TOKEN>
+				<TOKEN id="token-21-20" start_char="1299" end_char="1306">identity</TOKEN>
+				<TOKEN id="token-21-21" start_char="1308" end_char="1310">...</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-22" start_char="1312" end_char="1490">
+				<ORIGINAL_TEXT>If you are lawfully carrying your weapon while following the guidance from the Public Health Officer, to wear a mask for protection against COVD-19, then you are not in violation.</ORIGINAL_TEXT>
+				<TOKEN id="token-22-0" start_char="1312" end_char="1313">If</TOKEN>
+				<TOKEN id="token-22-1" start_char="1315" end_char="1317">you</TOKEN>
+				<TOKEN id="token-22-2" start_char="1319" end_char="1321">are</TOKEN>
+				<TOKEN id="token-22-3" start_char="1323" end_char="1330">lawfully</TOKEN>
+				<TOKEN id="token-22-4" start_char="1332" end_char="1339">carrying</TOKEN>
+				<TOKEN id="token-22-5" start_char="1341" end_char="1344">your</TOKEN>
+				<TOKEN id="token-22-6" start_char="1346" end_char="1351">weapon</TOKEN>
+				<TOKEN id="token-22-7" start_char="1353" end_char="1357">while</TOKEN>
+				<TOKEN id="token-22-8" start_char="1359" end_char="1367">following</TOKEN>
+				<TOKEN id="token-22-9" start_char="1369" end_char="1371">the</TOKEN>
+				<TOKEN id="token-22-10" start_char="1373" end_char="1380">guidance</TOKEN>
+				<TOKEN id="token-22-11" start_char="1382" end_char="1385">from</TOKEN>
+				<TOKEN id="token-22-12" start_char="1387" end_char="1389">the</TOKEN>
+				<TOKEN id="token-22-13" start_char="1391" end_char="1396">Public</TOKEN>
+				<TOKEN id="token-22-14" start_char="1398" end_char="1403">Health</TOKEN>
+				<TOKEN id="token-22-15" start_char="1405" end_char="1411">Officer</TOKEN>
+				<TOKEN id="token-22-16" start_char="1412" end_char="1412">,</TOKEN>
+				<TOKEN id="token-22-17" start_char="1414" end_char="1415">to</TOKEN>
+				<TOKEN id="token-22-18" start_char="1417" end_char="1420">wear</TOKEN>
+				<TOKEN id="token-22-19" start_char="1422" end_char="1422">a</TOKEN>
+				<TOKEN id="token-22-20" start_char="1424" end_char="1427">mask</TOKEN>
+				<TOKEN id="token-22-21" start_char="1429" end_char="1431">for</TOKEN>
+				<TOKEN id="token-22-22" start_char="1433" end_char="1442">protection</TOKEN>
+				<TOKEN id="token-22-23" start_char="1444" end_char="1450">against</TOKEN>
+				<TOKEN id="token-22-24" start_char="1452" end_char="1455">COVD</TOKEN>
+				<TOKEN id="token-22-25" start_char="1456" end_char="1456">-</TOKEN>
+				<TOKEN id="token-22-26" start_char="1457" end_char="1458">19</TOKEN>
+				<TOKEN id="token-22-27" start_char="1459" end_char="1459">,</TOKEN>
+				<TOKEN id="token-22-28" start_char="1461" end_char="1464">then</TOKEN>
+				<TOKEN id="token-22-29" start_char="1466" end_char="1468">you</TOKEN>
+				<TOKEN id="token-22-30" start_char="1470" end_char="1472">are</TOKEN>
+				<TOKEN id="token-22-31" start_char="1474" end_char="1476">not</TOKEN>
+				<TOKEN id="token-22-32" start_char="1478" end_char="1479">in</TOKEN>
+				<TOKEN id="token-22-33" start_char="1481" end_char="1489">violation</TOKEN>
+				<TOKEN id="token-22-34" start_char="1490" end_char="1490">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-23" start_char="1492" end_char="1599">
+				<ORIGINAL_TEXT>Authorities in other states have similarly addressed the confusion around masks and concealed carry permits.</ORIGINAL_TEXT>
+				<TOKEN id="token-23-0" start_char="1492" end_char="1502">Authorities</TOKEN>
+				<TOKEN id="token-23-1" start_char="1504" end_char="1505">in</TOKEN>
+				<TOKEN id="token-23-2" start_char="1507" end_char="1511">other</TOKEN>
+				<TOKEN id="token-23-3" start_char="1513" end_char="1518">states</TOKEN>
+				<TOKEN id="token-23-4" start_char="1520" end_char="1523">have</TOKEN>
+				<TOKEN id="token-23-5" start_char="1525" end_char="1533">similarly</TOKEN>
+				<TOKEN id="token-23-6" start_char="1535" end_char="1543">addressed</TOKEN>
+				<TOKEN id="token-23-7" start_char="1545" end_char="1547">the</TOKEN>
+				<TOKEN id="token-23-8" start_char="1549" end_char="1557">confusion</TOKEN>
+				<TOKEN id="token-23-9" start_char="1559" end_char="1564">around</TOKEN>
+				<TOKEN id="token-23-10" start_char="1566" end_char="1570">masks</TOKEN>
+				<TOKEN id="token-23-11" start_char="1572" end_char="1574">and</TOKEN>
+				<TOKEN id="token-23-12" start_char="1576" end_char="1584">concealed</TOKEN>
+				<TOKEN id="token-23-13" start_char="1586" end_char="1590">carry</TOKEN>
+				<TOKEN id="token-23-14" start_char="1592" end_char="1598">permits</TOKEN>
+				<TOKEN id="token-23-15" start_char="1599" end_char="1599">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-24" start_char="1601" end_char="1693">
+				<ORIGINAL_TEXT>In Macon County, Illinois, for example, the state's attorney's office wrote this on Facebook:</ORIGINAL_TEXT>
+				<TOKEN id="token-24-0" start_char="1601" end_char="1602">In</TOKEN>
+				<TOKEN id="token-24-1" start_char="1604" end_char="1608">Macon</TOKEN>
+				<TOKEN id="token-24-2" start_char="1610" end_char="1615">County</TOKEN>
+				<TOKEN id="token-24-3" start_char="1616" end_char="1616">,</TOKEN>
+				<TOKEN id="token-24-4" start_char="1618" end_char="1625">Illinois</TOKEN>
+				<TOKEN id="token-24-5" start_char="1626" end_char="1626">,</TOKEN>
+				<TOKEN id="token-24-6" start_char="1628" end_char="1630">for</TOKEN>
+				<TOKEN id="token-24-7" start_char="1632" end_char="1638">example</TOKEN>
+				<TOKEN id="token-24-8" start_char="1639" end_char="1639">,</TOKEN>
+				<TOKEN id="token-24-9" start_char="1641" end_char="1643">the</TOKEN>
+				<TOKEN id="token-24-10" start_char="1645" end_char="1649">state</TOKEN>
+				<TOKEN id="token-24-11" start_char="1650" end_char="1650">'</TOKEN>
+				<TOKEN id="token-24-12" start_char="1651" end_char="1651">s</TOKEN>
+				<TOKEN id="token-24-13" start_char="1653" end_char="1660">attorney</TOKEN>
+				<TOKEN id="token-24-14" start_char="1661" end_char="1661">'</TOKEN>
+				<TOKEN id="token-24-15" start_char="1662" end_char="1662">s</TOKEN>
+				<TOKEN id="token-24-16" start_char="1664" end_char="1669">office</TOKEN>
+				<TOKEN id="token-24-17" start_char="1671" end_char="1675">wrote</TOKEN>
+				<TOKEN id="token-24-18" start_char="1677" end_char="1680">this</TOKEN>
+				<TOKEN id="token-24-19" start_char="1682" end_char="1683">on</TOKEN>
+				<TOKEN id="token-24-20" start_char="1685" end_char="1692">Facebook</TOKEN>
+				<TOKEN id="token-24-21" start_char="1693" end_char="1693">:</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-25" start_char="1695" end_char="1947">
+				<ORIGINAL_TEXT>To clear up any uncertainties, the position of the Macon County State's Attorney's Office is that Concealed Carry License holders are not in violation of state law for carrying concealed while wearing proper masks in public during the COVID-19 pandemic.</ORIGINAL_TEXT>
+				<TOKEN id="token-25-0" start_char="1695" end_char="1696">To</TOKEN>
+				<TOKEN id="token-25-1" start_char="1698" end_char="1702">clear</TOKEN>
+				<TOKEN id="token-25-2" start_char="1704" end_char="1705">up</TOKEN>
+				<TOKEN id="token-25-3" start_char="1707" end_char="1709">any</TOKEN>
+				<TOKEN id="token-25-4" start_char="1711" end_char="1723">uncertainties</TOKEN>
+				<TOKEN id="token-25-5" start_char="1724" end_char="1724">,</TOKEN>
+				<TOKEN id="token-25-6" start_char="1726" end_char="1728">the</TOKEN>
+				<TOKEN id="token-25-7" start_char="1730" end_char="1737">position</TOKEN>
+				<TOKEN id="token-25-8" start_char="1739" end_char="1740">of</TOKEN>
+				<TOKEN id="token-25-9" start_char="1742" end_char="1744">the</TOKEN>
+				<TOKEN id="token-25-10" start_char="1746" end_char="1750">Macon</TOKEN>
+				<TOKEN id="token-25-11" start_char="1752" end_char="1757">County</TOKEN>
+				<TOKEN id="token-25-12" start_char="1759" end_char="1763">State</TOKEN>
+				<TOKEN id="token-25-13" start_char="1764" end_char="1764">'</TOKEN>
+				<TOKEN id="token-25-14" start_char="1765" end_char="1765">s</TOKEN>
+				<TOKEN id="token-25-15" start_char="1767" end_char="1774">Attorney</TOKEN>
+				<TOKEN id="token-25-16" start_char="1775" end_char="1775">'</TOKEN>
+				<TOKEN id="token-25-17" start_char="1776" end_char="1776">s</TOKEN>
+				<TOKEN id="token-25-18" start_char="1778" end_char="1783">Office</TOKEN>
+				<TOKEN id="token-25-19" start_char="1785" end_char="1786">is</TOKEN>
+				<TOKEN id="token-25-20" start_char="1788" end_char="1791">that</TOKEN>
+				<TOKEN id="token-25-21" start_char="1793" end_char="1801">Concealed</TOKEN>
+				<TOKEN id="token-25-22" start_char="1803" end_char="1807">Carry</TOKEN>
+				<TOKEN id="token-25-23" start_char="1809" end_char="1815">License</TOKEN>
+				<TOKEN id="token-25-24" start_char="1817" end_char="1823">holders</TOKEN>
+				<TOKEN id="token-25-25" start_char="1825" end_char="1827">are</TOKEN>
+				<TOKEN id="token-25-26" start_char="1829" end_char="1831">not</TOKEN>
+				<TOKEN id="token-25-27" start_char="1833" end_char="1834">in</TOKEN>
+				<TOKEN id="token-25-28" start_char="1836" end_char="1844">violation</TOKEN>
+				<TOKEN id="token-25-29" start_char="1846" end_char="1847">of</TOKEN>
+				<TOKEN id="token-25-30" start_char="1849" end_char="1853">state</TOKEN>
+				<TOKEN id="token-25-31" start_char="1855" end_char="1857">law</TOKEN>
+				<TOKEN id="token-25-32" start_char="1859" end_char="1861">for</TOKEN>
+				<TOKEN id="token-25-33" start_char="1863" end_char="1870">carrying</TOKEN>
+				<TOKEN id="token-25-34" start_char="1872" end_char="1880">concealed</TOKEN>
+				<TOKEN id="token-25-35" start_char="1882" end_char="1886">while</TOKEN>
+				<TOKEN id="token-25-36" start_char="1888" end_char="1894">wearing</TOKEN>
+				<TOKEN id="token-25-37" start_char="1896" end_char="1901">proper</TOKEN>
+				<TOKEN id="token-25-38" start_char="1903" end_char="1907">masks</TOKEN>
+				<TOKEN id="token-25-39" start_char="1909" end_char="1910">in</TOKEN>
+				<TOKEN id="token-25-40" start_char="1912" end_char="1917">public</TOKEN>
+				<TOKEN id="token-25-41" start_char="1919" end_char="1924">during</TOKEN>
+				<TOKEN id="token-25-42" start_char="1926" end_char="1928">the</TOKEN>
+				<TOKEN id="token-25-43" start_char="1930" end_char="1934">COVID</TOKEN>
+				<TOKEN id="token-25-44" start_char="1935" end_char="1935">-</TOKEN>
+				<TOKEN id="token-25-45" start_char="1936" end_char="1937">19</TOKEN>
+				<TOKEN id="token-25-46" start_char="1939" end_char="1946">pandemic</TOKEN>
+				<TOKEN id="token-25-47" start_char="1947" end_char="1947">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-26" start_char="1949" end_char="1957">
+				<ORIGINAL_TEXT>Carry on!</ORIGINAL_TEXT>
+				<TOKEN id="token-26-0" start_char="1949" end_char="1953">Carry</TOKEN>
+				<TOKEN id="token-26-1" start_char="1955" end_char="1956">on</TOKEN>
+				<TOKEN id="token-26-2" start_char="1957" end_char="1957">!</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-27" start_char="1959" end_char="1986">
+				<ORIGINAL_TEXT>Social media users saw this:</ORIGINAL_TEXT>
+				<TOKEN id="token-27-0" start_char="1959" end_char="1964">Social</TOKEN>
+				<TOKEN id="token-27-1" start_char="1966" end_char="1970">media</TOKEN>
+				<TOKEN id="token-27-2" start_char="1972" end_char="1976">users</TOKEN>
+				<TOKEN id="token-27-3" start_char="1978" end_char="1980">saw</TOKEN>
+				<TOKEN id="token-27-4" start_char="1982" end_char="1985">this</TOKEN>
+				<TOKEN id="token-27-5" start_char="1986" end_char="1986">:</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-28" start_char="1988" end_char="2061">
+				<ORIGINAL_TEXT>In Marion County, Oregon, the sheriff's office posted on Facebook, saying:</ORIGINAL_TEXT>
+				<TOKEN id="token-28-0" start_char="1988" end_char="1989">In</TOKEN>
+				<TOKEN id="token-28-1" start_char="1991" end_char="1996">Marion</TOKEN>
+				<TOKEN id="token-28-2" start_char="1998" end_char="2003">County</TOKEN>
+				<TOKEN id="token-28-3" start_char="2004" end_char="2004">,</TOKEN>
+				<TOKEN id="token-28-4" start_char="2006" end_char="2011">Oregon</TOKEN>
+				<TOKEN id="token-28-5" start_char="2012" end_char="2012">,</TOKEN>
+				<TOKEN id="token-28-6" start_char="2014" end_char="2016">the</TOKEN>
+				<TOKEN id="token-28-7" start_char="2018" end_char="2024">sheriff</TOKEN>
+				<TOKEN id="token-28-8" start_char="2025" end_char="2025">'</TOKEN>
+				<TOKEN id="token-28-9" start_char="2026" end_char="2026">s</TOKEN>
+				<TOKEN id="token-28-10" start_char="2028" end_char="2033">office</TOKEN>
+				<TOKEN id="token-28-11" start_char="2035" end_char="2040">posted</TOKEN>
+				<TOKEN id="token-28-12" start_char="2042" end_char="2043">on</TOKEN>
+				<TOKEN id="token-28-13" start_char="2045" end_char="2052">Facebook</TOKEN>
+				<TOKEN id="token-28-14" start_char="2053" end_char="2053">,</TOKEN>
+				<TOKEN id="token-28-15" start_char="2055" end_char="2060">saying</TOKEN>
+				<TOKEN id="token-28-16" start_char="2061" end_char="2061">:</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-29" start_char="2063" end_char="2309">
+				<ORIGINAL_TEXT>Since the Phase 2 guidelines for Marion County were announced, we've received quite a few calls from people with Concealed Handgun Licenses who were concerned due to rumors it was unlawful to wear a mask while lawfully carrying a concealed weapon.</ORIGINAL_TEXT>
+				<TOKEN id="token-29-0" start_char="2063" end_char="2067">Since</TOKEN>
+				<TOKEN id="token-29-1" start_char="2069" end_char="2071">the</TOKEN>
+				<TOKEN id="token-29-2" start_char="2073" end_char="2077">Phase</TOKEN>
+				<TOKEN id="token-29-3" start_char="2079" end_char="2079">2</TOKEN>
+				<TOKEN id="token-29-4" start_char="2081" end_char="2090">guidelines</TOKEN>
+				<TOKEN id="token-29-5" start_char="2092" end_char="2094">for</TOKEN>
+				<TOKEN id="token-29-6" start_char="2096" end_char="2101">Marion</TOKEN>
+				<TOKEN id="token-29-7" start_char="2103" end_char="2108">County</TOKEN>
+				<TOKEN id="token-29-8" start_char="2110" end_char="2113">were</TOKEN>
+				<TOKEN id="token-29-9" start_char="2115" end_char="2123">announced</TOKEN>
+				<TOKEN id="token-29-10" start_char="2124" end_char="2124">,</TOKEN>
+				<TOKEN id="token-29-11" start_char="2126" end_char="2127">we</TOKEN>
+				<TOKEN id="token-29-12" start_char="2128" end_char="2128">'</TOKEN>
+				<TOKEN id="token-29-13" start_char="2129" end_char="2130">ve</TOKEN>
+				<TOKEN id="token-29-14" start_char="2132" end_char="2139">received</TOKEN>
+				<TOKEN id="token-29-15" start_char="2141" end_char="2145">quite</TOKEN>
+				<TOKEN id="token-29-16" start_char="2147" end_char="2147">a</TOKEN>
+				<TOKEN id="token-29-17" start_char="2149" end_char="2151">few</TOKEN>
+				<TOKEN id="token-29-18" start_char="2153" end_char="2157">calls</TOKEN>
+				<TOKEN id="token-29-19" start_char="2159" end_char="2162">from</TOKEN>
+				<TOKEN id="token-29-20" start_char="2164" end_char="2169">people</TOKEN>
+				<TOKEN id="token-29-21" start_char="2171" end_char="2174">with</TOKEN>
+				<TOKEN id="token-29-22" start_char="2176" end_char="2184">Concealed</TOKEN>
+				<TOKEN id="token-29-23" start_char="2186" end_char="2192">Handgun</TOKEN>
+				<TOKEN id="token-29-24" start_char="2194" end_char="2201">Licenses</TOKEN>
+				<TOKEN id="token-29-25" start_char="2203" end_char="2205">who</TOKEN>
+				<TOKEN id="token-29-26" start_char="2207" end_char="2210">were</TOKEN>
+				<TOKEN id="token-29-27" start_char="2212" end_char="2220">concerned</TOKEN>
+				<TOKEN id="token-29-28" start_char="2222" end_char="2224">due</TOKEN>
+				<TOKEN id="token-29-29" start_char="2226" end_char="2227">to</TOKEN>
+				<TOKEN id="token-29-30" start_char="2229" end_char="2234">rumors</TOKEN>
+				<TOKEN id="token-29-31" start_char="2236" end_char="2237">it</TOKEN>
+				<TOKEN id="token-29-32" start_char="2239" end_char="2241">was</TOKEN>
+				<TOKEN id="token-29-33" start_char="2243" end_char="2250">unlawful</TOKEN>
+				<TOKEN id="token-29-34" start_char="2252" end_char="2253">to</TOKEN>
+				<TOKEN id="token-29-35" start_char="2255" end_char="2258">wear</TOKEN>
+				<TOKEN id="token-29-36" start_char="2260" end_char="2260">a</TOKEN>
+				<TOKEN id="token-29-37" start_char="2262" end_char="2265">mask</TOKEN>
+				<TOKEN id="token-29-38" start_char="2267" end_char="2271">while</TOKEN>
+				<TOKEN id="token-29-39" start_char="2273" end_char="2280">lawfully</TOKEN>
+				<TOKEN id="token-29-40" start_char="2282" end_char="2289">carrying</TOKEN>
+				<TOKEN id="token-29-41" start_char="2291" end_char="2291">a</TOKEN>
+				<TOKEN id="token-29-42" start_char="2293" end_char="2301">concealed</TOKEN>
+				<TOKEN id="token-29-43" start_char="2303" end_char="2308">weapon</TOKEN>
+				<TOKEN id="token-29-44" start_char="2309" end_char="2309">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-30" start_char="2311" end_char="2410">
+				<ORIGINAL_TEXT>Oregon law DOES NOT prohibit someone from wearing a mask while lawfully carrying a concealed weapon.</ORIGINAL_TEXT>
+				<TOKEN id="token-30-0" start_char="2311" end_char="2316">Oregon</TOKEN>
+				<TOKEN id="token-30-1" start_char="2318" end_char="2320">law</TOKEN>
+				<TOKEN id="token-30-2" start_char="2322" end_char="2325">DOES</TOKEN>
+				<TOKEN id="token-30-3" start_char="2327" end_char="2329">NOT</TOKEN>
+				<TOKEN id="token-30-4" start_char="2331" end_char="2338">prohibit</TOKEN>
+				<TOKEN id="token-30-5" start_char="2340" end_char="2346">someone</TOKEN>
+				<TOKEN id="token-30-6" start_char="2348" end_char="2351">from</TOKEN>
+				<TOKEN id="token-30-7" start_char="2353" end_char="2359">wearing</TOKEN>
+				<TOKEN id="token-30-8" start_char="2361" end_char="2361">a</TOKEN>
+				<TOKEN id="token-30-9" start_char="2363" end_char="2366">mask</TOKEN>
+				<TOKEN id="token-30-10" start_char="2368" end_char="2372">while</TOKEN>
+				<TOKEN id="token-30-11" start_char="2374" end_char="2381">lawfully</TOKEN>
+				<TOKEN id="token-30-12" start_char="2383" end_char="2390">carrying</TOKEN>
+				<TOKEN id="token-30-13" start_char="2392" end_char="2392">a</TOKEN>
+				<TOKEN id="token-30-14" start_char="2394" end_char="2402">concealed</TOKEN>
+				<TOKEN id="token-30-15" start_char="2404" end_char="2409">weapon</TOKEN>
+				<TOKEN id="token-30-16" start_char="2410" end_char="2410">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-31" start_char="2412" end_char="2515">
+				<ORIGINAL_TEXT>Instead of letting the rumor grow, we genuinely appreciate people taking time to call and ask questions.</ORIGINAL_TEXT>
+				<TOKEN id="token-31-0" start_char="2412" end_char="2418">Instead</TOKEN>
+				<TOKEN id="token-31-1" start_char="2420" end_char="2421">of</TOKEN>
+				<TOKEN id="token-31-2" start_char="2423" end_char="2429">letting</TOKEN>
+				<TOKEN id="token-31-3" start_char="2431" end_char="2433">the</TOKEN>
+				<TOKEN id="token-31-4" start_char="2435" end_char="2439">rumor</TOKEN>
+				<TOKEN id="token-31-5" start_char="2441" end_char="2444">grow</TOKEN>
+				<TOKEN id="token-31-6" start_char="2445" end_char="2445">,</TOKEN>
+				<TOKEN id="token-31-7" start_char="2447" end_char="2448">we</TOKEN>
+				<TOKEN id="token-31-8" start_char="2450" end_char="2458">genuinely</TOKEN>
+				<TOKEN id="token-31-9" start_char="2460" end_char="2469">appreciate</TOKEN>
+				<TOKEN id="token-31-10" start_char="2471" end_char="2476">people</TOKEN>
+				<TOKEN id="token-31-11" start_char="2478" end_char="2483">taking</TOKEN>
+				<TOKEN id="token-31-12" start_char="2485" end_char="2488">time</TOKEN>
+				<TOKEN id="token-31-13" start_char="2490" end_char="2491">to</TOKEN>
+				<TOKEN id="token-31-14" start_char="2493" end_char="2496">call</TOKEN>
+				<TOKEN id="token-31-15" start_char="2498" end_char="2500">and</TOKEN>
+				<TOKEN id="token-31-16" start_char="2502" end_char="2504">ask</TOKEN>
+				<TOKEN id="token-31-17" start_char="2506" end_char="2514">questions</TOKEN>
+				<TOKEN id="token-31-18" start_char="2515" end_char="2515">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-32" start_char="2517" end_char="2544">
+				<ORIGINAL_TEXT>Social media users saw this:</ORIGINAL_TEXT>
+				<TOKEN id="token-32-0" start_char="2517" end_char="2522">Social</TOKEN>
+				<TOKEN id="token-32-1" start_char="2524" end_char="2528">media</TOKEN>
+				<TOKEN id="token-32-2" start_char="2530" end_char="2534">users</TOKEN>
+				<TOKEN id="token-32-3" start_char="2536" end_char="2538">saw</TOKEN>
+				<TOKEN id="token-32-4" start_char="2540" end_char="2543">this</TOKEN>
+				<TOKEN id="token-32-5" start_char="2544" end_char="2544">:</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-33" start_char="2546" end_char="2608">
+				<ORIGINAL_TEXT>Finally, the South Carolina Law Enforcement Division said this:</ORIGINAL_TEXT>
+				<TOKEN id="token-33-0" start_char="2546" end_char="2552">Finally</TOKEN>
+				<TOKEN id="token-33-1" start_char="2553" end_char="2553">,</TOKEN>
+				<TOKEN id="token-33-2" start_char="2555" end_char="2557">the</TOKEN>
+				<TOKEN id="token-33-3" start_char="2559" end_char="2563">South</TOKEN>
+				<TOKEN id="token-33-4" start_char="2565" end_char="2572">Carolina</TOKEN>
+				<TOKEN id="token-33-5" start_char="2574" end_char="2576">Law</TOKEN>
+				<TOKEN id="token-33-6" start_char="2578" end_char="2588">Enforcement</TOKEN>
+				<TOKEN id="token-33-7" start_char="2590" end_char="2597">Division</TOKEN>
+				<TOKEN id="token-33-8" start_char="2599" end_char="2602">said</TOKEN>
+				<TOKEN id="token-33-9" start_char="2604" end_char="2607">this</TOKEN>
+				<TOKEN id="token-33-10" start_char="2608" end_char="2608">:</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-34" start_char="2610" end_char="2876">
+				<ORIGINAL_TEXT>There is no South Carolina Concealed Weapons Permit (CWP) law that prohibits a South Carolina CWP holder from wearing a mask to comply with a city or a county health ordinance or to help stop the spread of COVID-19 while carrying a concealed weapon in South Carolina.</ORIGINAL_TEXT>
+				<TOKEN id="token-34-0" start_char="2610" end_char="2614">There</TOKEN>
+				<TOKEN id="token-34-1" start_char="2616" end_char="2617">is</TOKEN>
+				<TOKEN id="token-34-2" start_char="2619" end_char="2620">no</TOKEN>
+				<TOKEN id="token-34-3" start_char="2622" end_char="2626">South</TOKEN>
+				<TOKEN id="token-34-4" start_char="2628" end_char="2635">Carolina</TOKEN>
+				<TOKEN id="token-34-5" start_char="2637" end_char="2645">Concealed</TOKEN>
+				<TOKEN id="token-34-6" start_char="2647" end_char="2653">Weapons</TOKEN>
+				<TOKEN id="token-34-7" start_char="2655" end_char="2660">Permit</TOKEN>
+				<TOKEN id="token-34-8" start_char="2662" end_char="2662">(</TOKEN>
+				<TOKEN id="token-34-9" start_char="2663" end_char="2665">CWP</TOKEN>
+				<TOKEN id="token-34-10" start_char="2666" end_char="2666">)</TOKEN>
+				<TOKEN id="token-34-11" start_char="2668" end_char="2670">law</TOKEN>
+				<TOKEN id="token-34-12" start_char="2672" end_char="2675">that</TOKEN>
+				<TOKEN id="token-34-13" start_char="2677" end_char="2685">prohibits</TOKEN>
+				<TOKEN id="token-34-14" start_char="2687" end_char="2687">a</TOKEN>
+				<TOKEN id="token-34-15" start_char="2689" end_char="2693">South</TOKEN>
+				<TOKEN id="token-34-16" start_char="2695" end_char="2702">Carolina</TOKEN>
+				<TOKEN id="token-34-17" start_char="2704" end_char="2706">CWP</TOKEN>
+				<TOKEN id="token-34-18" start_char="2708" end_char="2713">holder</TOKEN>
+				<TOKEN id="token-34-19" start_char="2715" end_char="2718">from</TOKEN>
+				<TOKEN id="token-34-20" start_char="2720" end_char="2726">wearing</TOKEN>
+				<TOKEN id="token-34-21" start_char="2728" end_char="2728">a</TOKEN>
+				<TOKEN id="token-34-22" start_char="2730" end_char="2733">mask</TOKEN>
+				<TOKEN id="token-34-23" start_char="2735" end_char="2736">to</TOKEN>
+				<TOKEN id="token-34-24" start_char="2738" end_char="2743">comply</TOKEN>
+				<TOKEN id="token-34-25" start_char="2745" end_char="2748">with</TOKEN>
+				<TOKEN id="token-34-26" start_char="2750" end_char="2750">a</TOKEN>
+				<TOKEN id="token-34-27" start_char="2752" end_char="2755">city</TOKEN>
+				<TOKEN id="token-34-28" start_char="2757" end_char="2758">or</TOKEN>
+				<TOKEN id="token-34-29" start_char="2760" end_char="2760">a</TOKEN>
+				<TOKEN id="token-34-30" start_char="2762" end_char="2767">county</TOKEN>
+				<TOKEN id="token-34-31" start_char="2769" end_char="2774">health</TOKEN>
+				<TOKEN id="token-34-32" start_char="2776" end_char="2784">ordinance</TOKEN>
+				<TOKEN id="token-34-33" start_char="2786" end_char="2787">or</TOKEN>
+				<TOKEN id="token-34-34" start_char="2789" end_char="2790">to</TOKEN>
+				<TOKEN id="token-34-35" start_char="2792" end_char="2795">help</TOKEN>
+				<TOKEN id="token-34-36" start_char="2797" end_char="2800">stop</TOKEN>
+				<TOKEN id="token-34-37" start_char="2802" end_char="2804">the</TOKEN>
+				<TOKEN id="token-34-38" start_char="2806" end_char="2811">spread</TOKEN>
+				<TOKEN id="token-34-39" start_char="2813" end_char="2814">of</TOKEN>
+				<TOKEN id="token-34-40" start_char="2816" end_char="2820">COVID</TOKEN>
+				<TOKEN id="token-34-41" start_char="2821" end_char="2821">-</TOKEN>
+				<TOKEN id="token-34-42" start_char="2822" end_char="2823">19</TOKEN>
+				<TOKEN id="token-34-43" start_char="2825" end_char="2829">while</TOKEN>
+				<TOKEN id="token-34-44" start_char="2831" end_char="2838">carrying</TOKEN>
+				<TOKEN id="token-34-45" start_char="2840" end_char="2840">a</TOKEN>
+				<TOKEN id="token-34-46" start_char="2842" end_char="2850">concealed</TOKEN>
+				<TOKEN id="token-34-47" start_char="2852" end_char="2857">weapon</TOKEN>
+				<TOKEN id="token-34-48" start_char="2859" end_char="2860">in</TOKEN>
+				<TOKEN id="token-34-49" start_char="2862" end_char="2866">South</TOKEN>
+				<TOKEN id="token-34-50" start_char="2868" end_char="2875">Carolina</TOKEN>
+				<TOKEN id="token-34-51" start_char="2876" end_char="2876">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-35" start_char="2878" end_char="3004">
+				<ORIGINAL_TEXT>Anne Teigen, who covers state firearms policy for the National Conference of State Legislatures, offered a broader perspective.</ORIGINAL_TEXT>
+				<TOKEN id="token-35-0" start_char="2878" end_char="2881">Anne</TOKEN>
+				<TOKEN id="token-35-1" start_char="2883" end_char="2888">Teigen</TOKEN>
+				<TOKEN id="token-35-2" start_char="2889" end_char="2889">,</TOKEN>
+				<TOKEN id="token-35-3" start_char="2891" end_char="2893">who</TOKEN>
+				<TOKEN id="token-35-4" start_char="2895" end_char="2900">covers</TOKEN>
+				<TOKEN id="token-35-5" start_char="2902" end_char="2906">state</TOKEN>
+				<TOKEN id="token-35-6" start_char="2908" end_char="2915">firearms</TOKEN>
+				<TOKEN id="token-35-7" start_char="2917" end_char="2922">policy</TOKEN>
+				<TOKEN id="token-35-8" start_char="2924" end_char="2926">for</TOKEN>
+				<TOKEN id="token-35-9" start_char="2928" end_char="2930">the</TOKEN>
+				<TOKEN id="token-35-10" start_char="2932" end_char="2939">National</TOKEN>
+				<TOKEN id="token-35-11" start_char="2941" end_char="2950">Conference</TOKEN>
+				<TOKEN id="token-35-12" start_char="2952" end_char="2953">of</TOKEN>
+				<TOKEN id="token-35-13" start_char="2955" end_char="2959">State</TOKEN>
+				<TOKEN id="token-35-14" start_char="2961" end_char="2972">Legislatures</TOKEN>
+				<TOKEN id="token-35-15" start_char="2973" end_char="2973">,</TOKEN>
+				<TOKEN id="token-35-16" start_char="2975" end_char="2981">offered</TOKEN>
+				<TOKEN id="token-35-17" start_char="2983" end_char="2983">a</TOKEN>
+				<TOKEN id="token-35-18" start_char="2985" end_char="2991">broader</TOKEN>
+				<TOKEN id="token-35-19" start_char="2993" end_char="3003">perspective</TOKEN>
+				<TOKEN id="token-35-20" start_char="3004" end_char="3004">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-36" start_char="3006" end_char="3127">
+				<ORIGINAL_TEXT>She told Lead Stories that 18 states and the District of Columbia have provisions prohibiting masks in certain situations.</ORIGINAL_TEXT>
+				<TOKEN id="token-36-0" start_char="3006" end_char="3008">She</TOKEN>
+				<TOKEN id="token-36-1" start_char="3010" end_char="3013">told</TOKEN>
+				<TOKEN id="token-36-2" start_char="3015" end_char="3018">Lead</TOKEN>
+				<TOKEN id="token-36-3" start_char="3020" end_char="3026">Stories</TOKEN>
+				<TOKEN id="token-36-4" start_char="3028" end_char="3031">that</TOKEN>
+				<TOKEN id="token-36-5" start_char="3033" end_char="3034">18</TOKEN>
+				<TOKEN id="token-36-6" start_char="3036" end_char="3041">states</TOKEN>
+				<TOKEN id="token-36-7" start_char="3043" end_char="3045">and</TOKEN>
+				<TOKEN id="token-36-8" start_char="3047" end_char="3049">the</TOKEN>
+				<TOKEN id="token-36-9" start_char="3051" end_char="3058">District</TOKEN>
+				<TOKEN id="token-36-10" start_char="3060" end_char="3061">of</TOKEN>
+				<TOKEN id="token-36-11" start_char="3063" end_char="3070">Columbia</TOKEN>
+				<TOKEN id="token-36-12" start_char="3072" end_char="3075">have</TOKEN>
+				<TOKEN id="token-36-13" start_char="3077" end_char="3086">provisions</TOKEN>
+				<TOKEN id="token-36-14" start_char="3088" end_char="3098">prohibiting</TOKEN>
+				<TOKEN id="token-36-15" start_char="3100" end_char="3104">masks</TOKEN>
+				<TOKEN id="token-36-16" start_char="3106" end_char="3107">in</TOKEN>
+				<TOKEN id="token-36-17" start_char="3109" end_char="3115">certain</TOKEN>
+				<TOKEN id="token-36-18" start_char="3117" end_char="3126">situations</TOKEN>
+				<TOKEN id="token-36-19" start_char="3127" end_char="3127">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-37" start_char="3129" end_char="3270">
+				<ORIGINAL_TEXT>But that &quot;these provisions in state law do not have anything to do with concealed carry, they are prohibitions in general for wearing a mask.&quot;</ORIGINAL_TEXT>
+				<TOKEN id="token-37-0" start_char="3129" end_char="3131">But</TOKEN>
+				<TOKEN id="token-37-1" start_char="3133" end_char="3136">that</TOKEN>
+				<TOKEN id="token-37-2" start_char="3138" end_char="3138">&quot;</TOKEN>
+				<TOKEN id="token-37-3" start_char="3139" end_char="3143">these</TOKEN>
+				<TOKEN id="token-37-4" start_char="3145" end_char="3154">provisions</TOKEN>
+				<TOKEN id="token-37-5" start_char="3156" end_char="3157">in</TOKEN>
+				<TOKEN id="token-37-6" start_char="3159" end_char="3163">state</TOKEN>
+				<TOKEN id="token-37-7" start_char="3165" end_char="3167">law</TOKEN>
+				<TOKEN id="token-37-8" start_char="3169" end_char="3170">do</TOKEN>
+				<TOKEN id="token-37-9" start_char="3172" end_char="3174">not</TOKEN>
+				<TOKEN id="token-37-10" start_char="3176" end_char="3179">have</TOKEN>
+				<TOKEN id="token-37-11" start_char="3181" end_char="3188">anything</TOKEN>
+				<TOKEN id="token-37-12" start_char="3190" end_char="3191">to</TOKEN>
+				<TOKEN id="token-37-13" start_char="3193" end_char="3194">do</TOKEN>
+				<TOKEN id="token-37-14" start_char="3196" end_char="3199">with</TOKEN>
+				<TOKEN id="token-37-15" start_char="3201" end_char="3209">concealed</TOKEN>
+				<TOKEN id="token-37-16" start_char="3211" end_char="3215">carry</TOKEN>
+				<TOKEN id="token-37-17" start_char="3216" end_char="3216">,</TOKEN>
+				<TOKEN id="token-37-18" start_char="3218" end_char="3221">they</TOKEN>
+				<TOKEN id="token-37-19" start_char="3223" end_char="3225">are</TOKEN>
+				<TOKEN id="token-37-20" start_char="3227" end_char="3238">prohibitions</TOKEN>
+				<TOKEN id="token-37-21" start_char="3240" end_char="3241">in</TOKEN>
+				<TOKEN id="token-37-22" start_char="3243" end_char="3249">general</TOKEN>
+				<TOKEN id="token-37-23" start_char="3251" end_char="3253">for</TOKEN>
+				<TOKEN id="token-37-24" start_char="3255" end_char="3261">wearing</TOKEN>
+				<TOKEN id="token-37-25" start_char="3263" end_char="3263">a</TOKEN>
+				<TOKEN id="token-37-26" start_char="3265" end_char="3268">mask</TOKEN>
+				<TOKEN id="token-37-27" start_char="3269" end_char="3270">.&quot;</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-38" start_char="3272" end_char="3396">
+				<ORIGINAL_TEXT>In North Carolina, for example, it's against the law to wear a mask in public, according to the Nash County Sheriff's Office.</ORIGINAL_TEXT>
+				<TOKEN id="token-38-0" start_char="3272" end_char="3273">In</TOKEN>
+				<TOKEN id="token-38-1" start_char="3275" end_char="3279">North</TOKEN>
+				<TOKEN id="token-38-2" start_char="3281" end_char="3288">Carolina</TOKEN>
+				<TOKEN id="token-38-3" start_char="3289" end_char="3289">,</TOKEN>
+				<TOKEN id="token-38-4" start_char="3291" end_char="3293">for</TOKEN>
+				<TOKEN id="token-38-5" start_char="3295" end_char="3301">example</TOKEN>
+				<TOKEN id="token-38-6" start_char="3302" end_char="3302">,</TOKEN>
+				<TOKEN id="token-38-7" start_char="3304" end_char="3305">it</TOKEN>
+				<TOKEN id="token-38-8" start_char="3306" end_char="3306">'</TOKEN>
+				<TOKEN id="token-38-9" start_char="3307" end_char="3307">s</TOKEN>
+				<TOKEN id="token-38-10" start_char="3309" end_char="3315">against</TOKEN>
+				<TOKEN id="token-38-11" start_char="3317" end_char="3319">the</TOKEN>
+				<TOKEN id="token-38-12" start_char="3321" end_char="3323">law</TOKEN>
+				<TOKEN id="token-38-13" start_char="3325" end_char="3326">to</TOKEN>
+				<TOKEN id="token-38-14" start_char="3328" end_char="3331">wear</TOKEN>
+				<TOKEN id="token-38-15" start_char="3333" end_char="3333">a</TOKEN>
+				<TOKEN id="token-38-16" start_char="3335" end_char="3338">mask</TOKEN>
+				<TOKEN id="token-38-17" start_char="3340" end_char="3341">in</TOKEN>
+				<TOKEN id="token-38-18" start_char="3343" end_char="3348">public</TOKEN>
+				<TOKEN id="token-38-19" start_char="3349" end_char="3349">,</TOKEN>
+				<TOKEN id="token-38-20" start_char="3351" end_char="3359">according</TOKEN>
+				<TOKEN id="token-38-21" start_char="3361" end_char="3362">to</TOKEN>
+				<TOKEN id="token-38-22" start_char="3364" end_char="3366">the</TOKEN>
+				<TOKEN id="token-38-23" start_char="3368" end_char="3371">Nash</TOKEN>
+				<TOKEN id="token-38-24" start_char="3373" end_char="3378">County</TOKEN>
+				<TOKEN id="token-38-25" start_char="3380" end_char="3386">Sheriff</TOKEN>
+				<TOKEN id="token-38-26" start_char="3387" end_char="3387">'</TOKEN>
+				<TOKEN id="token-38-27" start_char="3388" end_char="3388">s</TOKEN>
+				<TOKEN id="token-38-28" start_char="3390" end_char="3395">Office</TOKEN>
+				<TOKEN id="token-38-29" start_char="3396" end_char="3396">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-39" start_char="3398" end_char="3555">
+				<ORIGINAL_TEXT>But authorities there have no plans to arrest anyone wearing a mask and lawfully carrying a concealed weapon, so long as that person isn't committing a crime.</ORIGINAL_TEXT>
+				<TOKEN id="token-39-0" start_char="3398" end_char="3400">But</TOKEN>
+				<TOKEN id="token-39-1" start_char="3402" end_char="3412">authorities</TOKEN>
+				<TOKEN id="token-39-2" start_char="3414" end_char="3418">there</TOKEN>
+				<TOKEN id="token-39-3" start_char="3420" end_char="3423">have</TOKEN>
+				<TOKEN id="token-39-4" start_char="3425" end_char="3426">no</TOKEN>
+				<TOKEN id="token-39-5" start_char="3428" end_char="3432">plans</TOKEN>
+				<TOKEN id="token-39-6" start_char="3434" end_char="3435">to</TOKEN>
+				<TOKEN id="token-39-7" start_char="3437" end_char="3442">arrest</TOKEN>
+				<TOKEN id="token-39-8" start_char="3444" end_char="3449">anyone</TOKEN>
+				<TOKEN id="token-39-9" start_char="3451" end_char="3457">wearing</TOKEN>
+				<TOKEN id="token-39-10" start_char="3459" end_char="3459">a</TOKEN>
+				<TOKEN id="token-39-11" start_char="3461" end_char="3464">mask</TOKEN>
+				<TOKEN id="token-39-12" start_char="3466" end_char="3468">and</TOKEN>
+				<TOKEN id="token-39-13" start_char="3470" end_char="3477">lawfully</TOKEN>
+				<TOKEN id="token-39-14" start_char="3479" end_char="3486">carrying</TOKEN>
+				<TOKEN id="token-39-15" start_char="3488" end_char="3488">a</TOKEN>
+				<TOKEN id="token-39-16" start_char="3490" end_char="3498">concealed</TOKEN>
+				<TOKEN id="token-39-17" start_char="3500" end_char="3505">weapon</TOKEN>
+				<TOKEN id="token-39-18" start_char="3506" end_char="3506">,</TOKEN>
+				<TOKEN id="token-39-19" start_char="3508" end_char="3509">so</TOKEN>
+				<TOKEN id="token-39-20" start_char="3511" end_char="3514">long</TOKEN>
+				<TOKEN id="token-39-21" start_char="3516" end_char="3517">as</TOKEN>
+				<TOKEN id="token-39-22" start_char="3519" end_char="3522">that</TOKEN>
+				<TOKEN id="token-39-23" start_char="3524" end_char="3529">person</TOKEN>
+				<TOKEN id="token-39-24" start_char="3531" end_char="3533">isn</TOKEN>
+				<TOKEN id="token-39-25" start_char="3534" end_char="3534">'</TOKEN>
+				<TOKEN id="token-39-26" start_char="3535" end_char="3535">t</TOKEN>
+				<TOKEN id="token-39-27" start_char="3537" end_char="3546">committing</TOKEN>
+				<TOKEN id="token-39-28" start_char="3548" end_char="3548">a</TOKEN>
+				<TOKEN id="token-39-29" start_char="3550" end_char="3554">crime</TOKEN>
+				<TOKEN id="token-39-30" start_char="3555" end_char="3555">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-40" start_char="3557" end_char="3606">
+				<ORIGINAL_TEXT>Here's what the sheriff's office wrote on Twitter:</ORIGINAL_TEXT>
+				<TOKEN id="token-40-0" start_char="3557" end_char="3560">Here</TOKEN>
+				<TOKEN id="token-40-1" start_char="3561" end_char="3561">'</TOKEN>
+				<TOKEN id="token-40-2" start_char="3562" end_char="3562">s</TOKEN>
+				<TOKEN id="token-40-3" start_char="3564" end_char="3567">what</TOKEN>
+				<TOKEN id="token-40-4" start_char="3569" end_char="3571">the</TOKEN>
+				<TOKEN id="token-40-5" start_char="3573" end_char="3579">sheriff</TOKEN>
+				<TOKEN id="token-40-6" start_char="3580" end_char="3580">'</TOKEN>
+				<TOKEN id="token-40-7" start_char="3581" end_char="3581">s</TOKEN>
+				<TOKEN id="token-40-8" start_char="3583" end_char="3588">office</TOKEN>
+				<TOKEN id="token-40-9" start_char="3590" end_char="3594">wrote</TOKEN>
+				<TOKEN id="token-40-10" start_char="3596" end_char="3597">on</TOKEN>
+				<TOKEN id="token-40-11" start_char="3599" end_char="3605">Twitter</TOKEN>
+				<TOKEN id="token-40-12" start_char="3606" end_char="3606">:</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-41" start_char="3608" end_char="3663">
+				<ORIGINAL_TEXT>Normally it is against the law to wear a mask in public.</ORIGINAL_TEXT>
+				<TOKEN id="token-41-0" start_char="3608" end_char="3615">Normally</TOKEN>
+				<TOKEN id="token-41-1" start_char="3617" end_char="3618">it</TOKEN>
+				<TOKEN id="token-41-2" start_char="3620" end_char="3621">is</TOKEN>
+				<TOKEN id="token-41-3" start_char="3623" end_char="3629">against</TOKEN>
+				<TOKEN id="token-41-4" start_char="3631" end_char="3633">the</TOKEN>
+				<TOKEN id="token-41-5" start_char="3635" end_char="3637">law</TOKEN>
+				<TOKEN id="token-41-6" start_char="3639" end_char="3640">to</TOKEN>
+				<TOKEN id="token-41-7" start_char="3642" end_char="3645">wear</TOKEN>
+				<TOKEN id="token-41-8" start_char="3647" end_char="3647">a</TOKEN>
+				<TOKEN id="token-41-9" start_char="3649" end_char="3652">mask</TOKEN>
+				<TOKEN id="token-41-10" start_char="3654" end_char="3655">in</TOKEN>
+				<TOKEN id="token-41-11" start_char="3657" end_char="3662">public</TOKEN>
+				<TOKEN id="token-41-12" start_char="3663" end_char="3663">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-42" start_char="3665" end_char="3865">
+				<ORIGINAL_TEXT>In light of the recent events with the pandemic and mask mandate, we will not be arresting anyone for wearing a mask &amp; carrying concealed as long as they're carrying legally and not committing a crime.</ORIGINAL_TEXT>
+				<TOKEN id="token-42-0" start_char="3665" end_char="3666">In</TOKEN>
+				<TOKEN id="token-42-1" start_char="3668" end_char="3672">light</TOKEN>
+				<TOKEN id="token-42-2" start_char="3674" end_char="3675">of</TOKEN>
+				<TOKEN id="token-42-3" start_char="3677" end_char="3679">the</TOKEN>
+				<TOKEN id="token-42-4" start_char="3681" end_char="3686">recent</TOKEN>
+				<TOKEN id="token-42-5" start_char="3688" end_char="3693">events</TOKEN>
+				<TOKEN id="token-42-6" start_char="3695" end_char="3698">with</TOKEN>
+				<TOKEN id="token-42-7" start_char="3700" end_char="3702">the</TOKEN>
+				<TOKEN id="token-42-8" start_char="3704" end_char="3711">pandemic</TOKEN>
+				<TOKEN id="token-42-9" start_char="3713" end_char="3715">and</TOKEN>
+				<TOKEN id="token-42-10" start_char="3717" end_char="3720">mask</TOKEN>
+				<TOKEN id="token-42-11" start_char="3722" end_char="3728">mandate</TOKEN>
+				<TOKEN id="token-42-12" start_char="3729" end_char="3729">,</TOKEN>
+				<TOKEN id="token-42-13" start_char="3731" end_char="3732">we</TOKEN>
+				<TOKEN id="token-42-14" start_char="3734" end_char="3737">will</TOKEN>
+				<TOKEN id="token-42-15" start_char="3739" end_char="3741">not</TOKEN>
+				<TOKEN id="token-42-16" start_char="3743" end_char="3744">be</TOKEN>
+				<TOKEN id="token-42-17" start_char="3746" end_char="3754">arresting</TOKEN>
+				<TOKEN id="token-42-18" start_char="3756" end_char="3761">anyone</TOKEN>
+				<TOKEN id="token-42-19" start_char="3763" end_char="3765">for</TOKEN>
+				<TOKEN id="token-42-20" start_char="3767" end_char="3773">wearing</TOKEN>
+				<TOKEN id="token-42-21" start_char="3775" end_char="3775">a</TOKEN>
+				<TOKEN id="token-42-22" start_char="3777" end_char="3780">mask</TOKEN>
+				<TOKEN id="token-42-23" start_char="3782" end_char="3782">&amp;</TOKEN>
+				<TOKEN id="token-42-24" start_char="3784" end_char="3791">carrying</TOKEN>
+				<TOKEN id="token-42-25" start_char="3793" end_char="3801">concealed</TOKEN>
+				<TOKEN id="token-42-26" start_char="3803" end_char="3804">as</TOKEN>
+				<TOKEN id="token-42-27" start_char="3806" end_char="3809">long</TOKEN>
+				<TOKEN id="token-42-28" start_char="3811" end_char="3812">as</TOKEN>
+				<TOKEN id="token-42-29" start_char="3814" end_char="3817">they</TOKEN>
+				<TOKEN id="token-42-30" start_char="3818" end_char="3818">'</TOKEN>
+				<TOKEN id="token-42-31" start_char="3819" end_char="3820">re</TOKEN>
+				<TOKEN id="token-42-32" start_char="3822" end_char="3829">carrying</TOKEN>
+				<TOKEN id="token-42-33" start_char="3831" end_char="3837">legally</TOKEN>
+				<TOKEN id="token-42-34" start_char="3839" end_char="3841">and</TOKEN>
+				<TOKEN id="token-42-35" start_char="3843" end_char="3845">not</TOKEN>
+				<TOKEN id="token-42-36" start_char="3847" end_char="3856">committing</TOKEN>
+				<TOKEN id="token-42-37" start_char="3858" end_char="3858">a</TOKEN>
+				<TOKEN id="token-42-38" start_char="3860" end_char="3864">crime</TOKEN>
+				<TOKEN id="token-42-39" start_char="3865" end_char="3865">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-43" start_char="3867" end_char="3938">
+				<ORIGINAL_TEXT>*Edited for clarity -- Nash County Sheriff (@NashCountySO) June 24, 2020</ORIGINAL_TEXT>
+				<TOKEN id="token-43-0" start_char="3867" end_char="3867">*</TOKEN>
+				<TOKEN id="token-43-1" start_char="3868" end_char="3873">Edited</TOKEN>
+				<TOKEN id="token-43-2" start_char="3875" end_char="3877">for</TOKEN>
+				<TOKEN id="token-43-3" start_char="3879" end_char="3885">clarity</TOKEN>
+				<TOKEN id="token-43-4" start_char="3887" end_char="3888">--</TOKEN>
+				<TOKEN id="token-43-5" start_char="3890" end_char="3893">Nash</TOKEN>
+				<TOKEN id="token-43-6" start_char="3895" end_char="3900">County</TOKEN>
+				<TOKEN id="token-43-7" start_char="3902" end_char="3908">Sheriff</TOKEN>
+				<TOKEN id="token-43-8" start_char="3910" end_char="3911">(@</TOKEN>
+				<TOKEN id="token-43-9" start_char="3912" end_char="3923">NashCountySO</TOKEN>
+				<TOKEN id="token-43-10" start_char="3924" end_char="3924">)</TOKEN>
+				<TOKEN id="token-43-11" start_char="3926" end_char="3929">June</TOKEN>
+				<TOKEN id="token-43-12" start_char="3931" end_char="3932">24</TOKEN>
+				<TOKEN id="token-43-13" start_char="3933" end_char="3933">,</TOKEN>
+				<TOKEN id="token-43-14" start_char="3935" end_char="3938">2020</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-247-44" start_char="3940" end_char="4028">
+				<ORIGINAL_TEXT>Bottom line, it is not illegal to wear a mask while lawfully carrying a concealed weapon.</ORIGINAL_TEXT>
+				<TOKEN id="token-44-0" start_char="3940" end_char="3945">Bottom</TOKEN>
+				<TOKEN id="token-44-1" start_char="3947" end_char="3950">line</TOKEN>
+				<TOKEN id="token-44-2" start_char="3951" end_char="3951">,</TOKEN>
+				<TOKEN id="token-44-3" start_char="3953" end_char="3954">it</TOKEN>
+				<TOKEN id="token-44-4" start_char="3956" end_char="3957">is</TOKEN>
+				<TOKEN id="token-44-5" start_char="3959" end_char="3961">not</TOKEN>
+				<TOKEN id="token-44-6" start_char="3963" end_char="3969">illegal</TOKEN>
+				<TOKEN id="token-44-7" start_char="3971" end_char="3972">to</TOKEN>
+				<TOKEN id="token-44-8" start_char="3974" end_char="3977">wear</TOKEN>
+				<TOKEN id="token-44-9" start_char="3979" end_char="3979">a</TOKEN>
+				<TOKEN id="token-44-10" start_char="3981" end_char="3984">mask</TOKEN>
+				<TOKEN id="token-44-11" start_char="3986" end_char="3990">while</TOKEN>
+				<TOKEN id="token-44-12" start_char="3992" end_char="3999">lawfully</TOKEN>
+				<TOKEN id="token-44-13" start_char="4001" end_char="4008">carrying</TOKEN>
+				<TOKEN id="token-44-14" start_char="4010" end_char="4010">a</TOKEN>
+				<TOKEN id="token-44-15" start_char="4012" end_char="4020">concealed</TOKEN>
+				<TOKEN id="token-44-16" start_char="4022" end_char="4027">weapon</TOKEN>
+				<TOKEN id="token-44-17" start_char="4028" end_char="4028">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

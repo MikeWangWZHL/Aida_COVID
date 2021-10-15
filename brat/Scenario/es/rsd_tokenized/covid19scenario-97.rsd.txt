@@ -1,0 +1,46 @@
+Aunque ya es mucho lo que la ciencia sabe sobre el coronavirus SARS-CoV-2 de la COVID-19, uno de los retos aún pendientes es su origen.
+Han sido tantos los rumores y las hipótesis difundidas, que el ciudadano medio tiene motivos para estar confuso: ¿el brote surgió en un mercado de Wuhan o en otro lugar?
+¿El virus es realmente nuevo?
+¿Saltó a los humanos desde los murciélagos o los pangolines?
+¿Escapó de un laboratorio?
+Aún más, ¿podría tratarse de un arma biológica creada por China, o por EEUU contra China?
+Conviene tener presente qué es lo que la ciencia puede o no puede probar.
+Incluso si todos los indicios científicos apuntan a que el virus es un mero producto de la naturaleza, no existe modo alguno de refutar que se haya construido deliberadamente para que parezca natural.
+Los expertos apuntan que la lógica de las teorías de la conspiración se basa en que son, en sí mismas, irrebatibles.
+Como también es imposible desmentir con pruebas que se trate de un virus natural que escapó de un laboratorio.
+El único antídoto contra estas ideas es el pensamiento racional: la carga de la prueba está en quienes defienden tales tesis.
+Las teorías de la conspiración sobre el coronavirus giran en torno a un estudio de 2015.
+Un equipo de investigadores dirigido por la Universidad de Carolina del Norte publicaba en Nature Medicine la modificación de un coronavirus del Síndrome Respiratorio Agudo Grave (SARS) adaptado a los ratones cuya proteína Spike (S), la llave que el virus emplea para infectar las células, se había sustituido por su equivalente de un coronavirus de murciélagos chinos llamado SHC014.
+El virus quimérico resultante tenía potencial patogénico para los humanos, motivo por el cual el estudio recibió serias críticas.
+En el proyecto participaron científicos del Instituto de Virología de Wuhan, uno de los dos centros de esta ciudad que trabajan con coronavirus de murciélagos.
+Los datos epidemiológicos y genéticos del virus
+A lo sucedido con el estudio de 2015, se unió en febrero de 2020 un breve artículo puramente especulativo —no un estudio, como a veces se ha dado a entender— en el que dos investigadores chinos aventuraban el posible origen del virus en un laboratorio de Wuhan.
+Los rumores escalaron hasta convertirse en un recurso más de la rivalidad entre EEUU y China.
+Mientras el presidente Donald Trump insiste en referirse al coronavirus como el “virus chino”, otros personajes políticos en EEUU han fomentado el rumor de la creación del patógeno en un laboratorio.
+A su vez, responsables del país asiático han contraatacado acusando a EEUU de haber creado y liberado el virus en Wuhan.
+Pero hasta hoy, no existe absolutamente ninguna prueba de nada de esto.
+La comunidad científica, la única fuente que aporta evidencias sólidas y comprobables, ha dejado que sea el propio patógeno el que cuente su historia a través de sus datos epidemiológicos y genéticos.
+Respecto a los primeros, aún no ha podido confirmarse si el brote surgió en el mercado de mariscos de Huanan, en Wuhan, o si fue amplificado allí después de aparecer en otro lugar.
+Pero si aún existen dudas sobre el dónde, en cambio no parece haberlas sobre el cuándo, y ello gracias a los datos genéticos.
+La comparación de los genomas víricos obtenidos a lo largo del tiempo sirve como reloj molecular para determinar el momento aproximado en que el patógeno apareció.
+Estos estudios han situado el primer contagio entre mediados de noviembre y comienzos de diciembre de 2019, en la línea de la estimación del gobierno chino según la cual el primer contagiado contrajo el virus el 17 de noviembre en la provincia de Hubei.
+“Nuestros datos descartan de forma efectiva el escenario de que el virus circulara en los humanos durante largo tiempo antes de eso”, ha declarado la directora de uno de estos estudios, Tanja Stadler, de la Escuela Politécnica Federal de Zúrich en Basilea (Suiza).
+Los análisis genómicos no sugieren otro origen para el coronavirus sino el natural.
+En la revista Nature Medicine, un estudio dirigido por el investigador del Instituto Scripps (EEUU) Kristian Andersen ha escudriñado el ARN del patógeno, llegando a varias conclusiones.
+En primer lugar, no existe ninguna huella genética de que el virus se haya construido con ninguno de los sistemas conocidos de ingeniería genética para coronavirus, como el que se empleó para generar el virus quimérico de 2015.
+“Comparando los datos disponibles de secuencias de genomas de las cepas conocidas de coronavirus, podemos determinar firmemente que el SARS-CoV-2 se originó por procesos naturales”, concluye Andersen.
+El estudio se ha fijado especialmente en dos rasgos clave de la proteína S: su región de unión al receptor celular (Receptor Binding Domain, RBD), llamado ACE2, y una secuencia que permite el corte de la proteína S por una enzima celular denominada furina, lo que aumenta su infectividad.
+En cuanto al RBD, cuya afinidad de unión a ACE2 es muy superior a la del virus del SARS, sin embargo su conformación no es la óptima que los cálculos computacionales habrían aconsejado; la selección natural ha encontrado una solución tan imprevisible como eficaz.
+Un virus que se originó en la naturaleza
+La región de corte por furina es aún una incógnita; en virus como los de la gripe o el VIH estas secuencias se asocian con un alto potencial patogénico, pero no están presentes en los coronavirus más próximos al SARS-CoV-2.
+Según Andersen y sus colaboradores, aún no se sabe si el virus adquirió todos sus rasgos actuales antes o después de saltar desde un animal a los humanos.
+Pero el consenso científico es claro: como señalaba una carta abierta firmada por 27 expertos en la revista The Lancet, todos los estudios “arrolladoramente concluyen que este coronavirus se originó en la naturaleza, como muchos otros patógenos emergentes”.
+En cuanto a la identidad de los huéspedes animales, aún hay cabos por atar.
+El SARS-CoV-2 es muy similar a otros coronavirus de murciélagos y pangolines.
+Una de las primeras secuencias genéticas publicadas del virus reveló un 96% de identidad con un coronavirus de murciélagos llamado RaTG13, indicando que estos animales podrían ser el reservorio original.
+Sin embargo, no existen casos documentados de transmisión directa de murciélagos a humanos, y la similitud en la secuencia de la proteína S es relativamente baja.
+En los pangolines se han encontrado coronavirus con menor similitud genética global con el SARS-CoV-2 que el RaTG13, pero cuyos RBD son casi idénticos al del virus humano.
+El director de uno de estos estudios, Zhigang Zhang, de la Universidad de Yunnan (China), explica que sus resultados “apoyan al pangolín como uno de los posibles reservorios originales, no como un huésped intermedio del SARS-CoV-2.
+De hecho, para el RBD de la proteína Spike del virus, pudieron ocurrir recombinaciones entre coronavirus de pangolín y el RaTG13 de murciélagos”.
+Sin embargo, Zhang reconoce que esto no aclara el origen del sitio de corte por furina, ausente en los virus de pangolines y en el RaTG13; el foco animal del virus aún es una cuestión abierta.
+Javier Yanes

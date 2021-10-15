@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="rus">
+<DOC id="L0C049593" lang="rus" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="4685" raw_text_md5="eade5b01a71df3739def95130ae4cf7c">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="114">
+<ORIGINAL_TEXT>Fact Check: Despite Peruvian Court Declaration, There Is NO Evidence Soros, Gates and Rockefeller Created COVID-19</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="4">Fact</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="6" end_char="10">Check</TOKEN>
+<TOKEN id="token-0-2" pos="punct" morph="none" start_char="11" end_char="11">:</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="13" end_char="19">Despite</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="21" end_char="28">Peruvian</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="30" end_char="34">Court</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="36" end_char="46">Declaration</TOKEN>
+<TOKEN id="token-0-7" pos="punct" morph="none" start_char="47" end_char="47">,</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="49" end_char="53">There</TOKEN>
+<TOKEN id="token-0-9" pos="word" morph="none" start_char="55" end_char="56">Is</TOKEN>
+<TOKEN id="token-0-10" pos="word" morph="none" start_char="58" end_char="59">NO</TOKEN>
+<TOKEN id="token-0-11" pos="word" morph="none" start_char="61" end_char="68">Evidence</TOKEN>
+<TOKEN id="token-0-12" pos="word" morph="none" start_char="70" end_char="74">Soros</TOKEN>
+<TOKEN id="token-0-13" pos="punct" morph="none" start_char="75" end_char="75">,</TOKEN>
+<TOKEN id="token-0-14" pos="word" morph="none" start_char="77" end_char="81">Gates</TOKEN>
+<TOKEN id="token-0-15" pos="word" morph="none" start_char="83" end_char="85">and</TOKEN>
+<TOKEN id="token-0-16" pos="word" morph="none" start_char="87" end_char="97">Rockefeller</TOKEN>
+<TOKEN id="token-0-17" pos="word" morph="none" start_char="99" end_char="105">Created</TOKEN>
+<TOKEN id="token-0-18" pos="unknown" morph="none" start_char="107" end_char="114">COVID-19</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="118" end_char="220">
+<ORIGINAL_TEXT>Bill Gates, who predicted the pandemic, names the next two monster disasters that could shake our world</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="118" end_char="121">Bill</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="123" end_char="127">Gates</TOKEN>
+<TOKEN id="token-1-2" pos="punct" morph="none" start_char="128" end_char="128">,</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="130" end_char="132">who</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="134" end_char="142">predicted</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="144" end_char="146">the</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="148" end_char="155">pandemic</TOKEN>
+<TOKEN id="token-1-7" pos="punct" morph="none" start_char="156" end_char="156">,</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="158" end_char="162">names</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="164" end_char="166">the</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="168" end_char="171">next</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="173" end_char="175">two</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="177" end_char="183">monster</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="185" end_char="193">disasters</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="195" end_char="198">that</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="200" end_char="204">could</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="206" end_char="210">shake</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="212" end_char="214">our</TOKEN>
+<TOKEN id="token-1-18" pos="word" morph="none" start_char="216" end_char="220">world</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="223" end_char="305">
+<ORIGINAL_TEXT>Bill Gates says these are the next 2 COVID-level disasters that will rock the world</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="223" end_char="226">Bill</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="228" end_char="232">Gates</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="234" end_char="237">says</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="239" end_char="243">these</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="245" end_char="247">are</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="249" end_char="251">the</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="253" end_char="256">next</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="258" end_char="258">2</TOKEN>
+<TOKEN id="token-2-8" pos="unknown" morph="none" start_char="260" end_char="270">COVID-level</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="272" end_char="280">disasters</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="282" end_char="285">that</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="287" end_char="290">will</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="292" end_char="295">rock</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="297" end_char="299">the</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="301" end_char="305">world</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="308" end_char="384">
+<ORIGINAL_TEXT>Gillian Leigh Anderson, (born August 9, 1968) is an American–British actress.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="308" end_char="314">Gillian</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="316" end_char="320">Leigh</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="322" end_char="329">Anderson</TOKEN>
+<TOKEN id="token-3-3" pos="punct" morph="none" start_char="330" end_char="330">,</TOKEN>
+<TOKEN id="token-3-4" pos="punct" morph="none" start_char="332" end_char="332">(</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="333" end_char="336">born</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="338" end_char="343">August</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="345" end_char="345">9</TOKEN>
+<TOKEN id="token-3-8" pos="punct" morph="none" start_char="346" end_char="346">,</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="348" end_char="351">1968</TOKEN>
+<TOKEN id="token-3-10" pos="punct" morph="none" start_char="352" end_char="352">)</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="354" end_char="355">is</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="357" end_char="358">an</TOKEN>
+<TOKEN id="token-3-13" pos="unknown" morph="none" start_char="360" end_char="375">American–British</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="377" end_char="383">actress</TOKEN>
+<TOKEN id="token-3-15" pos="punct" morph="none" start_char="384" end_char="384">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="386" end_char="641">
+<ORIGINAL_TEXT>Her credits include the roles of FBI Special Agent Dana Scully in the long-running series The X-Files, ill-fated socialite Lily Bart in Terence Davies' film The House of Mirth (2000), and DSU Stella Gibson on the BBC crime drama television series The Fall.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="386" end_char="388">Her</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="390" end_char="396">credits</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="398" end_char="404">include</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="406" end_char="408">the</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="410" end_char="414">roles</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="416" end_char="417">of</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="419" end_char="421">FBI</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="423" end_char="429">Special</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="431" end_char="435">Agent</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="437" end_char="440">Dana</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="442" end_char="447">Scully</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="449" end_char="450">in</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="452" end_char="454">the</TOKEN>
+<TOKEN id="token-4-13" pos="unknown" morph="none" start_char="456" end_char="467">long-running</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="469" end_char="474">series</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="476" end_char="478">The</TOKEN>
+<TOKEN id="token-4-16" pos="unknown" morph="none" start_char="480" end_char="486">X-Files</TOKEN>
+<TOKEN id="token-4-17" pos="punct" morph="none" start_char="487" end_char="487">,</TOKEN>
+<TOKEN id="token-4-18" pos="unknown" morph="none" start_char="489" end_char="497">ill-fated</TOKEN>
+<TOKEN id="token-4-19" pos="word" morph="none" start_char="499" end_char="507">socialite</TOKEN>
+<TOKEN id="token-4-20" pos="word" morph="none" start_char="509" end_char="512">Lily</TOKEN>
+<TOKEN id="token-4-21" pos="word" morph="none" start_char="514" end_char="517">Bart</TOKEN>
+<TOKEN id="token-4-22" pos="word" morph="none" start_char="519" end_char="520">in</TOKEN>
+<TOKEN id="token-4-23" pos="word" morph="none" start_char="522" end_char="528">Terence</TOKEN>
+<TOKEN id="token-4-24" pos="word" morph="none" start_char="530" end_char="535">Davies</TOKEN>
+<TOKEN id="token-4-25" pos="punct" morph="none" start_char="536" end_char="536">'</TOKEN>
+<TOKEN id="token-4-26" pos="word" morph="none" start_char="538" end_char="541">film</TOKEN>
+<TOKEN id="token-4-27" pos="word" morph="none" start_char="543" end_char="545">The</TOKEN>
+<TOKEN id="token-4-28" pos="word" morph="none" start_char="547" end_char="551">House</TOKEN>
+<TOKEN id="token-4-29" pos="word" morph="none" start_char="553" end_char="554">of</TOKEN>
+<TOKEN id="token-4-30" pos="word" morph="none" start_char="556" end_char="560">Mirth</TOKEN>
+<TOKEN id="token-4-31" pos="punct" morph="none" start_char="562" end_char="562">(</TOKEN>
+<TOKEN id="token-4-32" pos="word" morph="none" start_char="563" end_char="566">2000</TOKEN>
+<TOKEN id="token-4-33" pos="punct" morph="none" start_char="567" end_char="568">),</TOKEN>
+<TOKEN id="token-4-34" pos="word" morph="none" start_char="570" end_char="572">and</TOKEN>
+<TOKEN id="token-4-35" pos="word" morph="none" start_char="574" end_char="576">DSU</TOKEN>
+<TOKEN id="token-4-36" pos="word" morph="none" start_char="578" end_char="583">Stella</TOKEN>
+<TOKEN id="token-4-37" pos="word" morph="none" start_char="585" end_char="590">Gibson</TOKEN>
+<TOKEN id="token-4-38" pos="word" morph="none" start_char="592" end_char="593">on</TOKEN>
+<TOKEN id="token-4-39" pos="word" morph="none" start_char="595" end_char="597">the</TOKEN>
+<TOKEN id="token-4-40" pos="word" morph="none" start_char="599" end_char="601">BBC</TOKEN>
+<TOKEN id="token-4-41" pos="word" morph="none" start_char="603" end_char="607">crime</TOKEN>
+<TOKEN id="token-4-42" pos="word" morph="none" start_char="609" end_char="613">drama</TOKEN>
+<TOKEN id="token-4-43" pos="word" morph="none" start_char="615" end_char="624">television</TOKEN>
+<TOKEN id="token-4-44" pos="word" morph="none" start_char="626" end_char="631">series</TOKEN>
+<TOKEN id="token-4-45" pos="word" morph="none" start_char="633" end_char="635">The</TOKEN>
+<TOKEN id="token-4-46" pos="word" morph="none" start_char="637" end_char="640">Fall</TOKEN>
+<TOKEN id="token-4-47" pos="punct" morph="none" start_char="641" end_char="641">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="643" end_char="760">
+<ORIGINAL_TEXT>Among other honours, Anderson has won a Primetime Emmy Award, a Golden Globe Award and two Screen Actors Guild Awards.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="643" end_char="647">Among</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="649" end_char="653">other</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="655" end_char="661">honours</TOKEN>
+<TOKEN id="token-5-3" pos="punct" morph="none" start_char="662" end_char="662">,</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="664" end_char="671">Anderson</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="673" end_char="675">has</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="677" end_char="679">won</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="681" end_char="681">a</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="683" end_char="691">Primetime</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="693" end_char="696">Emmy</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="698" end_char="702">Award</TOKEN>
+<TOKEN id="token-5-11" pos="punct" morph="none" start_char="703" end_char="703">,</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="705" end_char="705">a</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="707" end_char="712">Golden</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="714" end_char="718">Globe</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="720" end_char="724">Award</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="726" end_char="728">and</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="730" end_char="732">two</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="734" end_char="739">Screen</TOKEN>
+<TOKEN id="token-5-19" pos="word" morph="none" start_char="741" end_char="746">Actors</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="748" end_char="752">Guild</TOKEN>
+<TOKEN id="token-5-21" pos="word" morph="none" start_char="754" end_char="759">Awards</TOKEN>
+<TOKEN id="token-5-22" pos="punct" morph="none" start_char="760" end_char="760">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="762" end_char="876">
+<ORIGINAL_TEXT>She has resided in London since 2002, after earlier years divided between the United Kingdom and the United States.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="762" end_char="764">She</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="766" end_char="768">has</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="770" end_char="776">resided</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="778" end_char="779">in</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="781" end_char="786">London</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="788" end_char="792">since</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="794" end_char="797">2002</TOKEN>
+<TOKEN id="token-6-7" pos="punct" morph="none" start_char="798" end_char="798">,</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="800" end_char="804">after</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="806" end_char="812">earlier</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="814" end_char="818">years</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="820" end_char="826">divided</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="828" end_char="834">between</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="836" end_char="838">the</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="840" end_char="845">United</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="847" end_char="853">Kingdom</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="855" end_char="857">and</TOKEN>
+<TOKEN id="token-6-17" pos="word" morph="none" start_char="859" end_char="861">the</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="863" end_char="868">United</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="870" end_char="875">States</TOKEN>
+<TOKEN id="token-6-20" pos="punct" morph="none" start_char="876" end_char="876">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="878" end_char="1052">
+<ORIGINAL_TEXT>After beginning her career on stage, Anderson achieved international recognition for her role as FBI Special Agent Dana Scully on the American sci-fi drama series The X-Files.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="878" end_char="882">After</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="884" end_char="892">beginning</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="894" end_char="896">her</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="898" end_char="903">career</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="905" end_char="906">on</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="908" end_char="912">stage</TOKEN>
+<TOKEN id="token-7-6" pos="punct" morph="none" start_char="913" end_char="913">,</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="915" end_char="922">Anderson</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="924" end_char="931">achieved</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="933" end_char="945">international</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="947" end_char="957">recognition</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="959" end_char="961">for</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="963" end_char="965">her</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="967" end_char="970">role</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="972" end_char="973">as</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="975" end_char="977">FBI</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="979" end_char="985">Special</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="987" end_char="991">Agent</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="993" end_char="996">Dana</TOKEN>
+<TOKEN id="token-7-19" pos="word" morph="none" start_char="998" end_char="1003">Scully</TOKEN>
+<TOKEN id="token-7-20" pos="word" morph="none" start_char="1005" end_char="1006">on</TOKEN>
+<TOKEN id="token-7-21" pos="word" morph="none" start_char="1008" end_char="1010">the</TOKEN>
+<TOKEN id="token-7-22" pos="word" morph="none" start_char="1012" end_char="1019">American</TOKEN>
+<TOKEN id="token-7-23" pos="unknown" morph="none" start_char="1021" end_char="1026">sci-fi</TOKEN>
+<TOKEN id="token-7-24" pos="word" morph="none" start_char="1028" end_char="1032">drama</TOKEN>
+<TOKEN id="token-7-25" pos="word" morph="none" start_char="1034" end_char="1039">series</TOKEN>
+<TOKEN id="token-7-26" pos="word" morph="none" start_char="1041" end_char="1043">The</TOKEN>
+<TOKEN id="token-7-27" pos="unknown" morph="none" start_char="1045" end_char="1051">X-Files</TOKEN>
+<TOKEN id="token-7-28" pos="punct" morph="none" start_char="1052" end_char="1052">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1054" end_char="1292">
+<ORIGINAL_TEXT>Her film work includes the dramas The Mighty Celt (2005), The Last King of Scotland (2006), Shadow Dancer (2012), Viceroy's House (2017) and two X-Files films: The X-Files: Fight the Future (1998) and The X-Files: I Want to Believe (2008).</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="1054" end_char="1056">Her</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1058" end_char="1061">film</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="1063" end_char="1066">work</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="1068" end_char="1075">includes</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="1077" end_char="1079">the</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="1081" end_char="1086">dramas</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="1088" end_char="1090">The</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="1092" end_char="1097">Mighty</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="1099" end_char="1102">Celt</TOKEN>
+<TOKEN id="token-8-9" pos="punct" morph="none" start_char="1104" end_char="1104">(</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="1105" end_char="1108">2005</TOKEN>
+<TOKEN id="token-8-11" pos="punct" morph="none" start_char="1109" end_char="1110">),</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="1112" end_char="1114">The</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="1116" end_char="1119">Last</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="1121" end_char="1124">King</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="1126" end_char="1127">of</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="1129" end_char="1136">Scotland</TOKEN>
+<TOKEN id="token-8-17" pos="punct" morph="none" start_char="1138" end_char="1138">(</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="1139" end_char="1142">2006</TOKEN>
+<TOKEN id="token-8-19" pos="punct" morph="none" start_char="1143" end_char="1144">),</TOKEN>
+<TOKEN id="token-8-20" pos="word" morph="none" start_char="1146" end_char="1151">Shadow</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="1153" end_char="1158">Dancer</TOKEN>
+<TOKEN id="token-8-22" pos="punct" morph="none" start_char="1160" end_char="1160">(</TOKEN>
+<TOKEN id="token-8-23" pos="word" morph="none" start_char="1161" end_char="1164">2012</TOKEN>
+<TOKEN id="token-8-24" pos="punct" morph="none" start_char="1165" end_char="1166">),</TOKEN>
+<TOKEN id="token-8-25" pos="word" morph="none" start_char="1168" end_char="1176">Viceroy's</TOKEN>
+<TOKEN id="token-8-26" pos="word" morph="none" start_char="1178" end_char="1182">House</TOKEN>
+<TOKEN id="token-8-27" pos="punct" morph="none" start_char="1184" end_char="1184">(</TOKEN>
+<TOKEN id="token-8-28" pos="word" morph="none" start_char="1185" end_char="1188">2017</TOKEN>
+<TOKEN id="token-8-29" pos="punct" morph="none" start_char="1189" end_char="1189">)</TOKEN>
+<TOKEN id="token-8-30" pos="word" morph="none" start_char="1191" end_char="1193">and</TOKEN>
+<TOKEN id="token-8-31" pos="word" morph="none" start_char="1195" end_char="1197">two</TOKEN>
+<TOKEN id="token-8-32" pos="unknown" morph="none" start_char="1199" end_char="1205">X-Files</TOKEN>
+<TOKEN id="token-8-33" pos="word" morph="none" start_char="1207" end_char="1211">films</TOKEN>
+<TOKEN id="token-8-34" pos="punct" morph="none" start_char="1212" end_char="1212">:</TOKEN>
+<TOKEN id="token-8-35" pos="word" morph="none" start_char="1214" end_char="1216">The</TOKEN>
+<TOKEN id="token-8-36" pos="unknown" morph="none" start_char="1218" end_char="1224">X-Files</TOKEN>
+<TOKEN id="token-8-37" pos="punct" morph="none" start_char="1225" end_char="1225">:</TOKEN>
+<TOKEN id="token-8-38" pos="word" morph="none" start_char="1227" end_char="1231">Fight</TOKEN>
+<TOKEN id="token-8-39" pos="word" morph="none" start_char="1233" end_char="1235">the</TOKEN>
+<TOKEN id="token-8-40" pos="word" morph="none" start_char="1237" end_char="1242">Future</TOKEN>
+<TOKEN id="token-8-41" pos="punct" morph="none" start_char="1244" end_char="1244">(</TOKEN>
+<TOKEN id="token-8-42" pos="word" morph="none" start_char="1245" end_char="1248">1998</TOKEN>
+<TOKEN id="token-8-43" pos="punct" morph="none" start_char="1249" end_char="1249">)</TOKEN>
+<TOKEN id="token-8-44" pos="word" morph="none" start_char="1251" end_char="1253">and</TOKEN>
+<TOKEN id="token-8-45" pos="word" morph="none" start_char="1255" end_char="1257">The</TOKEN>
+<TOKEN id="token-8-46" pos="unknown" morph="none" start_char="1259" end_char="1265">X-Files</TOKEN>
+<TOKEN id="token-8-47" pos="punct" morph="none" start_char="1266" end_char="1266">:</TOKEN>
+<TOKEN id="token-8-48" pos="word" morph="none" start_char="1268" end_char="1268">I</TOKEN>
+<TOKEN id="token-8-49" pos="word" morph="none" start_char="1270" end_char="1273">Want</TOKEN>
+<TOKEN id="token-8-50" pos="word" morph="none" start_char="1275" end_char="1276">to</TOKEN>
+<TOKEN id="token-8-51" pos="word" morph="none" start_char="1278" end_char="1284">Believe</TOKEN>
+<TOKEN id="token-8-52" pos="punct" morph="none" start_char="1286" end_char="1286">(</TOKEN>
+<TOKEN id="token-8-53" pos="word" morph="none" start_char="1287" end_char="1290">2008</TOKEN>
+<TOKEN id="token-8-54" pos="punct" morph="none" start_char="1291" end_char="1292">).</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1294" end_char="1539">
+<ORIGINAL_TEXT>Other notable television credits include: Lady Dedlock in Bleak House (2005), Wallis Simpson in Any Human Heart (2010), Miss Havisham in Great Expectations (2011), Dr. Bedelia Du Maurier on Hannibal (2013–2015), and Media on American Gods (2017).</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="1294" end_char="1298">Other</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="1300" end_char="1306">notable</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="1308" end_char="1317">television</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="1319" end_char="1325">credits</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="1327" end_char="1333">include</TOKEN>
+<TOKEN id="token-9-5" pos="punct" morph="none" start_char="1334" end_char="1334">:</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="1336" end_char="1339">Lady</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="1341" end_char="1347">Dedlock</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="1349" end_char="1350">in</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="1352" end_char="1356">Bleak</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="1358" end_char="1362">House</TOKEN>
+<TOKEN id="token-9-11" pos="punct" morph="none" start_char="1364" end_char="1364">(</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="1365" end_char="1368">2005</TOKEN>
+<TOKEN id="token-9-13" pos="punct" morph="none" start_char="1369" end_char="1370">),</TOKEN>
+<TOKEN id="token-9-14" pos="word" morph="none" start_char="1372" end_char="1377">Wallis</TOKEN>
+<TOKEN id="token-9-15" pos="word" morph="none" start_char="1379" end_char="1385">Simpson</TOKEN>
+<TOKEN id="token-9-16" pos="word" morph="none" start_char="1387" end_char="1388">in</TOKEN>
+<TOKEN id="token-9-17" pos="word" morph="none" start_char="1390" end_char="1392">Any</TOKEN>
+<TOKEN id="token-9-18" pos="word" morph="none" start_char="1394" end_char="1398">Human</TOKEN>
+<TOKEN id="token-9-19" pos="word" morph="none" start_char="1400" end_char="1404">Heart</TOKEN>
+<TOKEN id="token-9-20" pos="punct" morph="none" start_char="1406" end_char="1406">(</TOKEN>
+<TOKEN id="token-9-21" pos="word" morph="none" start_char="1407" end_char="1410">2010</TOKEN>
+<TOKEN id="token-9-22" pos="punct" morph="none" start_char="1411" end_char="1412">),</TOKEN>
+<TOKEN id="token-9-23" pos="word" morph="none" start_char="1414" end_char="1417">Miss</TOKEN>
+<TOKEN id="token-9-24" pos="word" morph="none" start_char="1419" end_char="1426">Havisham</TOKEN>
+<TOKEN id="token-9-25" pos="word" morph="none" start_char="1428" end_char="1429">in</TOKEN>
+<TOKEN id="token-9-26" pos="word" morph="none" start_char="1431" end_char="1435">Great</TOKEN>
+<TOKEN id="token-9-27" pos="word" morph="none" start_char="1437" end_char="1448">Expectations</TOKEN>
+<TOKEN id="token-9-28" pos="punct" morph="none" start_char="1450" end_char="1450">(</TOKEN>
+<TOKEN id="token-9-29" pos="word" morph="none" start_char="1451" end_char="1454">2011</TOKEN>
+<TOKEN id="token-9-30" pos="punct" morph="none" start_char="1455" end_char="1456">),</TOKEN>
+<TOKEN id="token-9-31" pos="word" morph="none" start_char="1458" end_char="1459">Dr</TOKEN>
+<TOKEN id="token-9-32" pos="punct" morph="none" start_char="1460" end_char="1460">.</TOKEN>
+<TOKEN id="token-9-33" pos="word" morph="none" start_char="1462" end_char="1468">Bedelia</TOKEN>
+<TOKEN id="token-9-34" pos="word" morph="none" start_char="1470" end_char="1471">Du</TOKEN>
+<TOKEN id="token-9-35" pos="word" morph="none" start_char="1473" end_char="1479">Maurier</TOKEN>
+<TOKEN id="token-9-36" pos="word" morph="none" start_char="1481" end_char="1482">on</TOKEN>
+<TOKEN id="token-9-37" pos="word" morph="none" start_char="1484" end_char="1491">Hannibal</TOKEN>
+<TOKEN id="token-9-38" pos="punct" morph="none" start_char="1493" end_char="1493">(</TOKEN>
+<TOKEN id="token-9-39" pos="unknown" morph="none" start_char="1494" end_char="1502">2013–2015</TOKEN>
+<TOKEN id="token-9-40" pos="punct" morph="none" start_char="1503" end_char="1504">),</TOKEN>
+<TOKEN id="token-9-41" pos="word" morph="none" start_char="1506" end_char="1508">and</TOKEN>
+<TOKEN id="token-9-42" pos="word" morph="none" start_char="1510" end_char="1514">Media</TOKEN>
+<TOKEN id="token-9-43" pos="word" morph="none" start_char="1516" end_char="1517">on</TOKEN>
+<TOKEN id="token-9-44" pos="word" morph="none" start_char="1519" end_char="1526">American</TOKEN>
+<TOKEN id="token-9-45" pos="word" morph="none" start_char="1528" end_char="1531">Gods</TOKEN>
+<TOKEN id="token-9-46" pos="punct" morph="none" start_char="1533" end_char="1533">(</TOKEN>
+<TOKEN id="token-9-47" pos="word" morph="none" start_char="1534" end_char="1537">2017</TOKEN>
+<TOKEN id="token-9-48" pos="punct" morph="none" start_char="1538" end_char="1539">).</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1541" end_char="1627">
+<ORIGINAL_TEXT>In 2019, Anderson began playing Jean Milburn in the Netflix comedy-drama Sex Education.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1541" end_char="1542">In</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1544" end_char="1547">2019</TOKEN>
+<TOKEN id="token-10-2" pos="punct" morph="none" start_char="1548" end_char="1548">,</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1550" end_char="1557">Anderson</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1559" end_char="1563">began</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1565" end_char="1571">playing</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="1573" end_char="1576">Jean</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="1578" end_char="1584">Milburn</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1586" end_char="1587">in</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1589" end_char="1591">the</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="1593" end_char="1599">Netflix</TOKEN>
+<TOKEN id="token-10-11" pos="unknown" morph="none" start_char="1601" end_char="1612">comedy-drama</TOKEN>
+<TOKEN id="token-10-12" pos="word" morph="none" start_char="1614" end_char="1616">Sex</TOKEN>
+<TOKEN id="token-10-13" pos="word" morph="none" start_char="1618" end_char="1626">Education</TOKEN>
+<TOKEN id="token-10-14" pos="punct" morph="none" start_char="1627" end_char="1627">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1629" end_char="1738">
+<ORIGINAL_TEXT>Aside from film and television, Anderson has taken to the stage and received both awards and critical acclaim.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1629" end_char="1633">Aside</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1635" end_char="1638">from</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1640" end_char="1643">film</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1645" end_char="1647">and</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1649" end_char="1658">television</TOKEN>
+<TOKEN id="token-11-5" pos="punct" morph="none" start_char="1659" end_char="1659">,</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1661" end_char="1668">Anderson</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="1670" end_char="1672">has</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="1674" end_char="1678">taken</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="1680" end_char="1681">to</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="1683" end_char="1685">the</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="1687" end_char="1691">stage</TOKEN>
+<TOKEN id="token-11-12" pos="word" morph="none" start_char="1693" end_char="1695">and</TOKEN>
+<TOKEN id="token-11-13" pos="word" morph="none" start_char="1697" end_char="1704">received</TOKEN>
+<TOKEN id="token-11-14" pos="word" morph="none" start_char="1706" end_char="1709">both</TOKEN>
+<TOKEN id="token-11-15" pos="word" morph="none" start_char="1711" end_char="1716">awards</TOKEN>
+<TOKEN id="token-11-16" pos="word" morph="none" start_char="1718" end_char="1720">and</TOKEN>
+<TOKEN id="token-11-17" pos="word" morph="none" start_char="1722" end_char="1729">critical</TOKEN>
+<TOKEN id="token-11-18" pos="word" morph="none" start_char="1731" end_char="1737">acclaim</TOKEN>
+<TOKEN id="token-11-19" pos="punct" morph="none" start_char="1738" end_char="1738">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1740" end_char="2136">
+<ORIGINAL_TEXT>Her stage work includes Absent Friends (1991), for which she won a Theatre World Award for Best Newcomer; A Doll's House (2009), for which she was nominated for a Laurence Olivier Award, and a portrayal of Blanche DuBois in A Streetcar Named Desire (2014, 2016), winning the Evening Standard Theatre Award for Best Actress and receiving a second Laurence Olivier Award nomination for Best Actress.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1740" end_char="1742">Her</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1744" end_char="1748">stage</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="1750" end_char="1753">work</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1755" end_char="1762">includes</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1764" end_char="1769">Absent</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="1771" end_char="1777">Friends</TOKEN>
+<TOKEN id="token-12-6" pos="punct" morph="none" start_char="1779" end_char="1779">(</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="1780" end_char="1783">1991</TOKEN>
+<TOKEN id="token-12-8" pos="punct" morph="none" start_char="1784" end_char="1785">),</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="1787" end_char="1789">for</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="1791" end_char="1795">which</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="1797" end_char="1799">she</TOKEN>
+<TOKEN id="token-12-12" pos="word" morph="none" start_char="1801" end_char="1803">won</TOKEN>
+<TOKEN id="token-12-13" pos="word" morph="none" start_char="1805" end_char="1805">a</TOKEN>
+<TOKEN id="token-12-14" pos="word" morph="none" start_char="1807" end_char="1813">Theatre</TOKEN>
+<TOKEN id="token-12-15" pos="word" morph="none" start_char="1815" end_char="1819">World</TOKEN>
+<TOKEN id="token-12-16" pos="word" morph="none" start_char="1821" end_char="1825">Award</TOKEN>
+<TOKEN id="token-12-17" pos="word" morph="none" start_char="1827" end_char="1829">for</TOKEN>
+<TOKEN id="token-12-18" pos="word" morph="none" start_char="1831" end_char="1834">Best</TOKEN>
+<TOKEN id="token-12-19" pos="word" morph="none" start_char="1836" end_char="1843">Newcomer</TOKEN>
+<TOKEN id="token-12-20" pos="punct" morph="none" start_char="1844" end_char="1844">;</TOKEN>
+<TOKEN id="token-12-21" pos="word" morph="none" start_char="1846" end_char="1846">A</TOKEN>
+<TOKEN id="token-12-22" pos="word" morph="none" start_char="1848" end_char="1853">Doll's</TOKEN>
+<TOKEN id="token-12-23" pos="word" morph="none" start_char="1855" end_char="1859">House</TOKEN>
+<TOKEN id="token-12-24" pos="punct" morph="none" start_char="1861" end_char="1861">(</TOKEN>
+<TOKEN id="token-12-25" pos="word" morph="none" start_char="1862" end_char="1865">2009</TOKEN>
+<TOKEN id="token-12-26" pos="punct" morph="none" start_char="1866" end_char="1867">),</TOKEN>
+<TOKEN id="token-12-27" pos="word" morph="none" start_char="1869" end_char="1871">for</TOKEN>
+<TOKEN id="token-12-28" pos="word" morph="none" start_char="1873" end_char="1877">which</TOKEN>
+<TOKEN id="token-12-29" pos="word" morph="none" start_char="1879" end_char="1881">she</TOKEN>
+<TOKEN id="token-12-30" pos="word" morph="none" start_char="1883" end_char="1885">was</TOKEN>
+<TOKEN id="token-12-31" pos="word" morph="none" start_char="1887" end_char="1895">nominated</TOKEN>
+<TOKEN id="token-12-32" pos="word" morph="none" start_char="1897" end_char="1899">for</TOKEN>
+<TOKEN id="token-12-33" pos="word" morph="none" start_char="1901" end_char="1901">a</TOKEN>
+<TOKEN id="token-12-34" pos="word" morph="none" start_char="1903" end_char="1910">Laurence</TOKEN>
+<TOKEN id="token-12-35" pos="word" morph="none" start_char="1912" end_char="1918">Olivier</TOKEN>
+<TOKEN id="token-12-36" pos="word" morph="none" start_char="1920" end_char="1924">Award</TOKEN>
+<TOKEN id="token-12-37" pos="punct" morph="none" start_char="1925" end_char="1925">,</TOKEN>
+<TOKEN id="token-12-38" pos="word" morph="none" start_char="1927" end_char="1929">and</TOKEN>
+<TOKEN id="token-12-39" pos="word" morph="none" start_char="1931" end_char="1931">a</TOKEN>
+<TOKEN id="token-12-40" pos="word" morph="none" start_char="1933" end_char="1941">portrayal</TOKEN>
+<TOKEN id="token-12-41" pos="word" morph="none" start_char="1943" end_char="1944">of</TOKEN>
+<TOKEN id="token-12-42" pos="word" morph="none" start_char="1946" end_char="1952">Blanche</TOKEN>
+<TOKEN id="token-12-43" pos="word" morph="none" start_char="1954" end_char="1959">DuBois</TOKEN>
+<TOKEN id="token-12-44" pos="word" morph="none" start_char="1961" end_char="1962">in</TOKEN>
+<TOKEN id="token-12-45" pos="word" morph="none" start_char="1964" end_char="1964">A</TOKEN>
+<TOKEN id="token-12-46" pos="word" morph="none" start_char="1966" end_char="1974">Streetcar</TOKEN>
+<TOKEN id="token-12-47" pos="word" morph="none" start_char="1976" end_char="1980">Named</TOKEN>
+<TOKEN id="token-12-48" pos="word" morph="none" start_char="1982" end_char="1987">Desire</TOKEN>
+<TOKEN id="token-12-49" pos="punct" morph="none" start_char="1989" end_char="1989">(</TOKEN>
+<TOKEN id="token-12-50" pos="word" morph="none" start_char="1990" end_char="1993">2014</TOKEN>
+<TOKEN id="token-12-51" pos="punct" morph="none" start_char="1994" end_char="1994">,</TOKEN>
+<TOKEN id="token-12-52" pos="word" morph="none" start_char="1996" end_char="1999">2016</TOKEN>
+<TOKEN id="token-12-53" pos="punct" morph="none" start_char="2000" end_char="2001">),</TOKEN>
+<TOKEN id="token-12-54" pos="word" morph="none" start_char="2003" end_char="2009">winning</TOKEN>
+<TOKEN id="token-12-55" pos="word" morph="none" start_char="2011" end_char="2013">the</TOKEN>
+<TOKEN id="token-12-56" pos="word" morph="none" start_char="2015" end_char="2021">Evening</TOKEN>
+<TOKEN id="token-12-57" pos="word" morph="none" start_char="2023" end_char="2030">Standard</TOKEN>
+<TOKEN id="token-12-58" pos="word" morph="none" start_char="2032" end_char="2038">Theatre</TOKEN>
+<TOKEN id="token-12-59" pos="word" morph="none" start_char="2040" end_char="2044">Award</TOKEN>
+<TOKEN id="token-12-60" pos="word" morph="none" start_char="2046" end_char="2048">for</TOKEN>
+<TOKEN id="token-12-61" pos="word" morph="none" start_char="2050" end_char="2053">Best</TOKEN>
+<TOKEN id="token-12-62" pos="word" morph="none" start_char="2055" end_char="2061">Actress</TOKEN>
+<TOKEN id="token-12-63" pos="word" morph="none" start_char="2063" end_char="2065">and</TOKEN>
+<TOKEN id="token-12-64" pos="word" morph="none" start_char="2067" end_char="2075">receiving</TOKEN>
+<TOKEN id="token-12-65" pos="word" morph="none" start_char="2077" end_char="2077">a</TOKEN>
+<TOKEN id="token-12-66" pos="word" morph="none" start_char="2079" end_char="2084">second</TOKEN>
+<TOKEN id="token-12-67" pos="word" morph="none" start_char="2086" end_char="2093">Laurence</TOKEN>
+<TOKEN id="token-12-68" pos="word" morph="none" start_char="2095" end_char="2101">Olivier</TOKEN>
+<TOKEN id="token-12-69" pos="word" morph="none" start_char="2103" end_char="2107">Award</TOKEN>
+<TOKEN id="token-12-70" pos="word" morph="none" start_char="2109" end_char="2118">nomination</TOKEN>
+<TOKEN id="token-12-71" pos="word" morph="none" start_char="2120" end_char="2122">for</TOKEN>
+<TOKEN id="token-12-72" pos="word" morph="none" start_char="2124" end_char="2127">Best</TOKEN>
+<TOKEN id="token-12-73" pos="word" morph="none" start_char="2129" end_char="2135">Actress</TOKEN>
+<TOKEN id="token-12-74" pos="punct" morph="none" start_char="2136" end_char="2136">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="2138" end_char="2283">
+<ORIGINAL_TEXT>In 2019, she portrayed Margo Channing in the stage production of All About Eve for which she received her third Laurence Olivier Award nomination.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="2138" end_char="2139">In</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="2141" end_char="2144">2019</TOKEN>
+<TOKEN id="token-13-2" pos="punct" morph="none" start_char="2145" end_char="2145">,</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="2147" end_char="2149">she</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="2151" end_char="2159">portrayed</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="2161" end_char="2165">Margo</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="2167" end_char="2174">Channing</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="2176" end_char="2177">in</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="2179" end_char="2181">the</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="2183" end_char="2187">stage</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="2189" end_char="2198">production</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="2200" end_char="2201">of</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="2203" end_char="2205">All</TOKEN>
+<TOKEN id="token-13-13" pos="word" morph="none" start_char="2207" end_char="2211">About</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="2213" end_char="2215">Eve</TOKEN>
+<TOKEN id="token-13-15" pos="word" morph="none" start_char="2217" end_char="2219">for</TOKEN>
+<TOKEN id="token-13-16" pos="word" morph="none" start_char="2221" end_char="2225">which</TOKEN>
+<TOKEN id="token-13-17" pos="word" morph="none" start_char="2227" end_char="2229">she</TOKEN>
+<TOKEN id="token-13-18" pos="word" morph="none" start_char="2231" end_char="2238">received</TOKEN>
+<TOKEN id="token-13-19" pos="word" morph="none" start_char="2240" end_char="2242">her</TOKEN>
+<TOKEN id="token-13-20" pos="word" morph="none" start_char="2244" end_char="2248">third</TOKEN>
+<TOKEN id="token-13-21" pos="word" morph="none" start_char="2250" end_char="2257">Laurence</TOKEN>
+<TOKEN id="token-13-22" pos="word" morph="none" start_char="2259" end_char="2265">Olivier</TOKEN>
+<TOKEN id="token-13-23" pos="word" morph="none" start_char="2267" end_char="2271">Award</TOKEN>
+<TOKEN id="token-13-24" pos="word" morph="none" start_char="2273" end_char="2282">nomination</TOKEN>
+<TOKEN id="token-13-25" pos="punct" morph="none" start_char="2283" end_char="2283">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="2285" end_char="2411">
+<ORIGINAL_TEXT>Anderson is the co-writer of The Earthend Saga novel trilogy and the self-help guide book WE: A Manifesto for Women Everywhere.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="2285" end_char="2292">Anderson</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="2294" end_char="2295">is</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="2297" end_char="2299">the</TOKEN>
+<TOKEN id="token-14-3" pos="unknown" morph="none" start_char="2301" end_char="2309">co-writer</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="2311" end_char="2312">of</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="2314" end_char="2316">The</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="2318" end_char="2325">Earthend</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="2327" end_char="2330">Saga</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="2332" end_char="2336">novel</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="2338" end_char="2344">trilogy</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="2346" end_char="2348">and</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="2350" end_char="2352">the</TOKEN>
+<TOKEN id="token-14-12" pos="unknown" morph="none" start_char="2354" end_char="2362">self-help</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="2364" end_char="2368">guide</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="2370" end_char="2373">book</TOKEN>
+<TOKEN id="token-14-15" pos="word" morph="none" start_char="2375" end_char="2376">WE</TOKEN>
+<TOKEN id="token-14-16" pos="punct" morph="none" start_char="2377" end_char="2377">:</TOKEN>
+<TOKEN id="token-14-17" pos="word" morph="none" start_char="2379" end_char="2379">A</TOKEN>
+<TOKEN id="token-14-18" pos="word" morph="none" start_char="2381" end_char="2389">Manifesto</TOKEN>
+<TOKEN id="token-14-19" pos="word" morph="none" start_char="2391" end_char="2393">for</TOKEN>
+<TOKEN id="token-14-20" pos="word" morph="none" start_char="2395" end_char="2399">Women</TOKEN>
+<TOKEN id="token-14-21" pos="word" morph="none" start_char="2401" end_char="2410">Everywhere</TOKEN>
+<TOKEN id="token-14-22" pos="punct" morph="none" start_char="2411" end_char="2411">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="2413" end_char="2501">
+<ORIGINAL_TEXT>Anderson has been active in supporting numerous charities and humanitarian organizations.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="2413" end_char="2420">Anderson</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="2422" end_char="2424">has</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="2426" end_char="2429">been</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="2431" end_char="2436">active</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="2438" end_char="2439">in</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="2441" end_char="2450">supporting</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="2452" end_char="2459">numerous</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="2461" end_char="2469">charities</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="2471" end_char="2473">and</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="2475" end_char="2486">humanitarian</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="2488" end_char="2500">organizations</TOKEN>
+<TOKEN id="token-15-11" pos="punct" morph="none" start_char="2501" end_char="2501">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="2503" end_char="2645">
+<ORIGINAL_TEXT>She is an honorary spokesperson for the Neurofibromatosis Network and a co-founder of South African Youth Education for Sustainability (SAYes).</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="2503" end_char="2505">She</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="2507" end_char="2508">is</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="2510" end_char="2511">an</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="2513" end_char="2520">honorary</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="2522" end_char="2533">spokesperson</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="2535" end_char="2537">for</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="2539" end_char="2541">the</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="2543" end_char="2559">Neurofibromatosis</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="2561" end_char="2567">Network</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="2569" end_char="2571">and</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="2573" end_char="2573">a</TOKEN>
+<TOKEN id="token-16-11" pos="unknown" morph="none" start_char="2575" end_char="2584">co-founder</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="2586" end_char="2587">of</TOKEN>
+<TOKEN id="token-16-13" pos="word" morph="none" start_char="2589" end_char="2593">South</TOKEN>
+<TOKEN id="token-16-14" pos="word" morph="none" start_char="2595" end_char="2601">African</TOKEN>
+<TOKEN id="token-16-15" pos="word" morph="none" start_char="2603" end_char="2607">Youth</TOKEN>
+<TOKEN id="token-16-16" pos="word" morph="none" start_char="2609" end_char="2617">Education</TOKEN>
+<TOKEN id="token-16-17" pos="word" morph="none" start_char="2619" end_char="2621">for</TOKEN>
+<TOKEN id="token-16-18" pos="word" morph="none" start_char="2623" end_char="2636">Sustainability</TOKEN>
+<TOKEN id="token-16-19" pos="punct" morph="none" start_char="2638" end_char="2638">(</TOKEN>
+<TOKEN id="token-16-20" pos="word" morph="none" start_char="2639" end_char="2643">SAYes</TOKEN>
+<TOKEN id="token-16-21" pos="punct" morph="none" start_char="2644" end_char="2645">).</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="2647" end_char="2903">
+<ORIGINAL_TEXT>Anderson was appointed an honorary Officer of the Most Excellent Order of the British Empire (OBE) in 2016 for her services to drama.Jamal Ahmad Khashoggi ( Arabic: جمال أحمد خاشقجي‎, romanized: Jamāl ʾAḥmad Ḵāšuqjī, Hejazi pronunciation: [dʒaˈmaːl xaːˈʃʊɡ.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="2647" end_char="2654">Anderson</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="2656" end_char="2658">was</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="2660" end_char="2668">appointed</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="2670" end_char="2671">an</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="2673" end_char="2680">honorary</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="2682" end_char="2688">Officer</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="2690" end_char="2691">of</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="2693" end_char="2695">the</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="2697" end_char="2700">Most</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="2702" end_char="2710">Excellent</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="2712" end_char="2716">Order</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="2718" end_char="2719">of</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="2721" end_char="2723">the</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="2725" end_char="2731">British</TOKEN>
+<TOKEN id="token-17-14" pos="word" morph="none" start_char="2733" end_char="2738">Empire</TOKEN>
+<TOKEN id="token-17-15" pos="punct" morph="none" start_char="2740" end_char="2740">(</TOKEN>
+<TOKEN id="token-17-16" pos="word" morph="none" start_char="2741" end_char="2743">OBE</TOKEN>
+<TOKEN id="token-17-17" pos="punct" morph="none" start_char="2744" end_char="2744">)</TOKEN>
+<TOKEN id="token-17-18" pos="word" morph="none" start_char="2746" end_char="2747">in</TOKEN>
+<TOKEN id="token-17-19" pos="word" morph="none" start_char="2749" end_char="2752">2016</TOKEN>
+<TOKEN id="token-17-20" pos="word" morph="none" start_char="2754" end_char="2756">for</TOKEN>
+<TOKEN id="token-17-21" pos="word" morph="none" start_char="2758" end_char="2760">her</TOKEN>
+<TOKEN id="token-17-22" pos="word" morph="none" start_char="2762" end_char="2769">services</TOKEN>
+<TOKEN id="token-17-23" pos="word" morph="none" start_char="2771" end_char="2772">to</TOKEN>
+<TOKEN id="token-17-24" pos="unknown" morph="none" start_char="2774" end_char="2784">drama.Jamal</TOKEN>
+<TOKEN id="token-17-25" pos="word" morph="none" start_char="2786" end_char="2790">Ahmad</TOKEN>
+<TOKEN id="token-17-26" pos="word" morph="none" start_char="2792" end_char="2800">Khashoggi</TOKEN>
+<TOKEN id="token-17-27" pos="punct" morph="none" start_char="2802" end_char="2802">(</TOKEN>
+<TOKEN id="token-17-28" pos="word" morph="none" start_char="2804" end_char="2809">Arabic</TOKEN>
+<TOKEN id="token-17-29" pos="punct" morph="none" start_char="2810" end_char="2810">:</TOKEN>
+<TOKEN id="token-17-30" pos="word" morph="none" start_char="2812" end_char="2815">جمال</TOKEN>
+<TOKEN id="token-17-31" pos="word" morph="none" start_char="2817" end_char="2820">أحمد</TOKEN>
+<TOKEN id="token-17-32" pos="unknown" morph="none" start_char="2822" end_char="2829">خاشقجي‎,</TOKEN>
+<TOKEN id="token-17-33" pos="word" morph="none" start_char="2831" end_char="2839">romanized</TOKEN>
+<TOKEN id="token-17-34" pos="punct" morph="none" start_char="2840" end_char="2840">:</TOKEN>
+<TOKEN id="token-17-35" pos="word" morph="none" start_char="2842" end_char="2846">Jamāl</TOKEN>
+<TOKEN id="token-17-36" pos="word" morph="none" start_char="2848" end_char="2853">ʾAḥmad</TOKEN>
+<TOKEN id="token-17-37" pos="word" morph="none" start_char="2855" end_char="2861">Ḵāšuqjī</TOKEN>
+<TOKEN id="token-17-38" pos="punct" morph="none" start_char="2862" end_char="2862">,</TOKEN>
+<TOKEN id="token-17-39" pos="word" morph="none" start_char="2864" end_char="2869">Hejazi</TOKEN>
+<TOKEN id="token-17-40" pos="word" morph="none" start_char="2871" end_char="2883">pronunciation</TOKEN>
+<TOKEN id="token-17-41" pos="punct" morph="none" start_char="2884" end_char="2884">:</TOKEN>
+<TOKEN id="token-17-42" pos="punct" morph="none" start_char="2886" end_char="2886">[</TOKEN>
+<TOKEN id="token-17-43" pos="word" morph="none" start_char="2887" end_char="2894">dʒaˈmaːl</TOKEN>
+<TOKEN id="token-17-44" pos="word" morph="none" start_char="2896" end_char="2902">xaːˈʃʊɡ</TOKEN>
+<TOKEN id="token-17-45" pos="punct" morph="none" start_char="2903" end_char="2903">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="2905" end_char="3272">
+<ORIGINAL_TEXT>(d)ʒi]; 13 October 1958 – 2 October 2018) was a Saudi Arabian dissident, author, columnist for The Washington Post, and a general manager and editor-in-chief of Al-Arab News Channel who was assassinated at the Saudi consulate in Istanbul on 2 October 2018 by agents of the Saudi government after they had allegedly used Israeli spyware to hack his friend's cell phone.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="punct" morph="none" start_char="2905" end_char="2905">(</TOKEN>
+<TOKEN id="token-18-1" pos="unknown" morph="none" start_char="2906" end_char="2909">d)ʒi</TOKEN>
+<TOKEN id="token-18-2" pos="punct" morph="none" start_char="2910" end_char="2911">];</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="2913" end_char="2914">13</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="2916" end_char="2922">October</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="2924" end_char="2927">1958</TOKEN>
+<TOKEN id="token-18-6" pos="punct" morph="none" start_char="2929" end_char="2929">–</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="2931" end_char="2931">2</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="2933" end_char="2939">October</TOKEN>
+<TOKEN id="token-18-9" pos="word" morph="none" start_char="2941" end_char="2944">2018</TOKEN>
+<TOKEN id="token-18-10" pos="punct" morph="none" start_char="2945" end_char="2945">)</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="2947" end_char="2949">was</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="2951" end_char="2951">a</TOKEN>
+<TOKEN id="token-18-13" pos="word" morph="none" start_char="2953" end_char="2957">Saudi</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="2959" end_char="2965">Arabian</TOKEN>
+<TOKEN id="token-18-15" pos="word" morph="none" start_char="2967" end_char="2975">dissident</TOKEN>
+<TOKEN id="token-18-16" pos="punct" morph="none" start_char="2976" end_char="2976">,</TOKEN>
+<TOKEN id="token-18-17" pos="word" morph="none" start_char="2978" end_char="2983">author</TOKEN>
+<TOKEN id="token-18-18" pos="punct" morph="none" start_char="2984" end_char="2984">,</TOKEN>
+<TOKEN id="token-18-19" pos="word" morph="none" start_char="2986" end_char="2994">columnist</TOKEN>
+<TOKEN id="token-18-20" pos="word" morph="none" start_char="2996" end_char="2998">for</TOKEN>
+<TOKEN id="token-18-21" pos="word" morph="none" start_char="3000" end_char="3002">The</TOKEN>
+<TOKEN id="token-18-22" pos="word" morph="none" start_char="3004" end_char="3013">Washington</TOKEN>
+<TOKEN id="token-18-23" pos="word" morph="none" start_char="3015" end_char="3018">Post</TOKEN>
+<TOKEN id="token-18-24" pos="punct" morph="none" start_char="3019" end_char="3019">,</TOKEN>
+<TOKEN id="token-18-25" pos="word" morph="none" start_char="3021" end_char="3023">and</TOKEN>
+<TOKEN id="token-18-26" pos="word" morph="none" start_char="3025" end_char="3025">a</TOKEN>
+<TOKEN id="token-18-27" pos="word" morph="none" start_char="3027" end_char="3033">general</TOKEN>
+<TOKEN id="token-18-28" pos="word" morph="none" start_char="3035" end_char="3041">manager</TOKEN>
+<TOKEN id="token-18-29" pos="word" morph="none" start_char="3043" end_char="3045">and</TOKEN>
+<TOKEN id="token-18-30" pos="unknown" morph="none" start_char="3047" end_char="3061">editor-in-chief</TOKEN>
+<TOKEN id="token-18-31" pos="word" morph="none" start_char="3063" end_char="3064">of</TOKEN>
+<TOKEN id="token-18-32" pos="unknown" morph="none" start_char="3066" end_char="3072">Al-Arab</TOKEN>
+<TOKEN id="token-18-33" pos="word" morph="none" start_char="3074" end_char="3077">News</TOKEN>
+<TOKEN id="token-18-34" pos="word" morph="none" start_char="3079" end_char="3085">Channel</TOKEN>
+<TOKEN id="token-18-35" pos="word" morph="none" start_char="3087" end_char="3089">who</TOKEN>
+<TOKEN id="token-18-36" pos="word" morph="none" start_char="3091" end_char="3093">was</TOKEN>
+<TOKEN id="token-18-37" pos="word" morph="none" start_char="3095" end_char="3106">assassinated</TOKEN>
+<TOKEN id="token-18-38" pos="word" morph="none" start_char="3108" end_char="3109">at</TOKEN>
+<TOKEN id="token-18-39" pos="word" morph="none" start_char="3111" end_char="3113">the</TOKEN>
+<TOKEN id="token-18-40" pos="word" morph="none" start_char="3115" end_char="3119">Saudi</TOKEN>
+<TOKEN id="token-18-41" pos="word" morph="none" start_char="3121" end_char="3129">consulate</TOKEN>
+<TOKEN id="token-18-42" pos="word" morph="none" start_char="3131" end_char="3132">in</TOKEN>
+<TOKEN id="token-18-43" pos="word" morph="none" start_char="3134" end_char="3141">Istanbul</TOKEN>
+<TOKEN id="token-18-44" pos="word" morph="none" start_char="3143" end_char="3144">on</TOKEN>
+<TOKEN id="token-18-45" pos="word" morph="none" start_char="3146" end_char="3146">2</TOKEN>
+<TOKEN id="token-18-46" pos="word" morph="none" start_char="3148" end_char="3154">October</TOKEN>
+<TOKEN id="token-18-47" pos="word" morph="none" start_char="3156" end_char="3159">2018</TOKEN>
+<TOKEN id="token-18-48" pos="word" morph="none" start_char="3161" end_char="3162">by</TOKEN>
+<TOKEN id="token-18-49" pos="word" morph="none" start_char="3164" end_char="3169">agents</TOKEN>
+<TOKEN id="token-18-50" pos="word" morph="none" start_char="3171" end_char="3172">of</TOKEN>
+<TOKEN id="token-18-51" pos="word" morph="none" start_char="3174" end_char="3176">the</TOKEN>
+<TOKEN id="token-18-52" pos="word" morph="none" start_char="3178" end_char="3182">Saudi</TOKEN>
+<TOKEN id="token-18-53" pos="word" morph="none" start_char="3184" end_char="3193">government</TOKEN>
+<TOKEN id="token-18-54" pos="word" morph="none" start_char="3195" end_char="3199">after</TOKEN>
+<TOKEN id="token-18-55" pos="word" morph="none" start_char="3201" end_char="3204">they</TOKEN>
+<TOKEN id="token-18-56" pos="word" morph="none" start_char="3206" end_char="3208">had</TOKEN>
+<TOKEN id="token-18-57" pos="word" morph="none" start_char="3210" end_char="3218">allegedly</TOKEN>
+<TOKEN id="token-18-58" pos="word" morph="none" start_char="3220" end_char="3223">used</TOKEN>
+<TOKEN id="token-18-59" pos="word" morph="none" start_char="3225" end_char="3231">Israeli</TOKEN>
+<TOKEN id="token-18-60" pos="word" morph="none" start_char="3233" end_char="3239">spyware</TOKEN>
+<TOKEN id="token-18-61" pos="word" morph="none" start_char="3241" end_char="3242">to</TOKEN>
+<TOKEN id="token-18-62" pos="word" morph="none" start_char="3244" end_char="3247">hack</TOKEN>
+<TOKEN id="token-18-63" pos="word" morph="none" start_char="3249" end_char="3251">his</TOKEN>
+<TOKEN id="token-18-64" pos="word" morph="none" start_char="3253" end_char="3260">friend's</TOKEN>
+<TOKEN id="token-18-65" pos="word" morph="none" start_char="3262" end_char="3265">cell</TOKEN>
+<TOKEN id="token-18-66" pos="word" morph="none" start_char="3267" end_char="3271">phone</TOKEN>
+<TOKEN id="token-18-67" pos="punct" morph="none" start_char="3272" end_char="3272">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="3274" end_char="3390">
+<ORIGINAL_TEXT>He also served as editor for the Saudi Arabian newspaper Al Watan, turning it into a platform for Saudi progressives.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="3274" end_char="3275">He</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="3277" end_char="3280">also</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="3282" end_char="3287">served</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="3289" end_char="3290">as</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="3292" end_char="3297">editor</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="3299" end_char="3301">for</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="3303" end_char="3305">the</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="3307" end_char="3311">Saudi</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="3313" end_char="3319">Arabian</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="3321" end_char="3329">newspaper</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="3331" end_char="3332">Al</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="3334" end_char="3338">Watan</TOKEN>
+<TOKEN id="token-19-12" pos="punct" morph="none" start_char="3339" end_char="3339">,</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="3341" end_char="3347">turning</TOKEN>
+<TOKEN id="token-19-14" pos="word" morph="none" start_char="3349" end_char="3350">it</TOKEN>
+<TOKEN id="token-19-15" pos="word" morph="none" start_char="3352" end_char="3355">into</TOKEN>
+<TOKEN id="token-19-16" pos="word" morph="none" start_char="3357" end_char="3357">a</TOKEN>
+<TOKEN id="token-19-17" pos="word" morph="none" start_char="3359" end_char="3366">platform</TOKEN>
+<TOKEN id="token-19-18" pos="word" morph="none" start_char="3368" end_char="3370">for</TOKEN>
+<TOKEN id="token-19-19" pos="word" morph="none" start_char="3372" end_char="3376">Saudi</TOKEN>
+<TOKEN id="token-19-20" pos="word" morph="none" start_char="3378" end_char="3389">progressives</TOKEN>
+<TOKEN id="token-19-21" pos="punct" morph="none" start_char="3390" end_char="3390">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="3392" end_char="3470">
+<ORIGINAL_TEXT>Khashoggi fled Saudi Arabia in September 2017 and went into self-imposed exile.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="3392" end_char="3400">Khashoggi</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="3402" end_char="3405">fled</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="3407" end_char="3411">Saudi</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="3413" end_char="3418">Arabia</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="3420" end_char="3421">in</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="3423" end_char="3431">September</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="3433" end_char="3436">2017</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="3438" end_char="3440">and</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="3442" end_char="3445">went</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="3447" end_char="3450">into</TOKEN>
+<TOKEN id="token-20-10" pos="unknown" morph="none" start_char="3452" end_char="3463">self-imposed</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="3465" end_char="3469">exile</TOKEN>
+<TOKEN id="token-20-12" pos="punct" morph="none" start_char="3470" end_char="3470">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="3472" end_char="3607">
+<ORIGINAL_TEXT>He said that the Saudi government had "banned him from Twitter", and he later wrote newspaper articles critical of the Saudi government.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="3472" end_char="3473">He</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="3475" end_char="3478">said</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="3480" end_char="3483">that</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="3485" end_char="3487">the</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="3489" end_char="3493">Saudi</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="3495" end_char="3504">government</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="3506" end_char="3508">had</TOKEN>
+<TOKEN id="token-21-7" pos="punct" morph="none" start_char="3510" end_char="3510">"</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="3511" end_char="3516">banned</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="3518" end_char="3520">him</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="3522" end_char="3525">from</TOKEN>
+<TOKEN id="token-21-11" pos="word" morph="none" start_char="3527" end_char="3533">Twitter</TOKEN>
+<TOKEN id="token-21-12" pos="punct" morph="none" start_char="3534" end_char="3535">",</TOKEN>
+<TOKEN id="token-21-13" pos="word" morph="none" start_char="3537" end_char="3539">and</TOKEN>
+<TOKEN id="token-21-14" pos="word" morph="none" start_char="3541" end_char="3542">he</TOKEN>
+<TOKEN id="token-21-15" pos="word" morph="none" start_char="3544" end_char="3548">later</TOKEN>
+<TOKEN id="token-21-16" pos="word" morph="none" start_char="3550" end_char="3554">wrote</TOKEN>
+<TOKEN id="token-21-17" pos="word" morph="none" start_char="3556" end_char="3564">newspaper</TOKEN>
+<TOKEN id="token-21-18" pos="word" morph="none" start_char="3566" end_char="3573">articles</TOKEN>
+<TOKEN id="token-21-19" pos="word" morph="none" start_char="3575" end_char="3582">critical</TOKEN>
+<TOKEN id="token-21-20" pos="word" morph="none" start_char="3584" end_char="3585">of</TOKEN>
+<TOKEN id="token-21-21" pos="word" morph="none" start_char="3587" end_char="3589">the</TOKEN>
+<TOKEN id="token-21-22" pos="word" morph="none" start_char="3591" end_char="3595">Saudi</TOKEN>
+<TOKEN id="token-21-23" pos="word" morph="none" start_char="3597" end_char="3606">government</TOKEN>
+<TOKEN id="token-21-24" pos="punct" morph="none" start_char="3607" end_char="3607">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="3609" end_char="3744">
+<ORIGINAL_TEXT>Khashoggi had been sharply critical of Saudi Arabia's crown prince, Mohammad bin Salman, and the country's king, Salman of Saudi Arabia.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="3609" end_char="3617">Khashoggi</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="3619" end_char="3621">had</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="3623" end_char="3626">been</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="3628" end_char="3634">sharply</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="3636" end_char="3643">critical</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="3645" end_char="3646">of</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="3648" end_char="3652">Saudi</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="3654" end_char="3661">Arabia's</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="3663" end_char="3667">crown</TOKEN>
+<TOKEN id="token-22-9" pos="word" morph="none" start_char="3669" end_char="3674">prince</TOKEN>
+<TOKEN id="token-22-10" pos="punct" morph="none" start_char="3675" end_char="3675">,</TOKEN>
+<TOKEN id="token-22-11" pos="word" morph="none" start_char="3677" end_char="3684">Mohammad</TOKEN>
+<TOKEN id="token-22-12" pos="word" morph="none" start_char="3686" end_char="3688">bin</TOKEN>
+<TOKEN id="token-22-13" pos="word" morph="none" start_char="3690" end_char="3695">Salman</TOKEN>
+<TOKEN id="token-22-14" pos="punct" morph="none" start_char="3696" end_char="3696">,</TOKEN>
+<TOKEN id="token-22-15" pos="word" morph="none" start_char="3698" end_char="3700">and</TOKEN>
+<TOKEN id="token-22-16" pos="word" morph="none" start_char="3702" end_char="3704">the</TOKEN>
+<TOKEN id="token-22-17" pos="word" morph="none" start_char="3706" end_char="3714">country's</TOKEN>
+<TOKEN id="token-22-18" pos="word" morph="none" start_char="3716" end_char="3719">king</TOKEN>
+<TOKEN id="token-22-19" pos="punct" morph="none" start_char="3720" end_char="3720">,</TOKEN>
+<TOKEN id="token-22-20" pos="word" morph="none" start_char="3722" end_char="3727">Salman</TOKEN>
+<TOKEN id="token-22-21" pos="word" morph="none" start_char="3729" end_char="3730">of</TOKEN>
+<TOKEN id="token-22-22" pos="word" morph="none" start_char="3732" end_char="3736">Saudi</TOKEN>
+<TOKEN id="token-22-23" pos="word" morph="none" start_char="3738" end_char="3743">Arabia</TOKEN>
+<TOKEN id="token-22-24" pos="punct" morph="none" start_char="3744" end_char="3744">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="3746" end_char="3805">
+<ORIGINAL_TEXT>He also opposed the Saudi Arabian-led intervention in Yemen.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="3746" end_char="3747">He</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="3749" end_char="3752">also</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="3754" end_char="3760">opposed</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="3762" end_char="3764">the</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="3766" end_char="3770">Saudi</TOKEN>
+<TOKEN id="token-23-5" pos="unknown" morph="none" start_char="3772" end_char="3782">Arabian-led</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="3784" end_char="3795">intervention</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="3797" end_char="3798">in</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="3800" end_char="3804">Yemen</TOKEN>
+<TOKEN id="token-23-9" pos="punct" morph="none" start_char="3805" end_char="3805">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="3807" end_char="3955">
+<ORIGINAL_TEXT>On 2 October 2018, Khashoggi entered the Saudi consulate in Istanbul to obtain documents related to his planned marriage, but was never seen leaving.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="3807" end_char="3808">On</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="3810" end_char="3810">2</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="3812" end_char="3818">October</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="3820" end_char="3823">2018</TOKEN>
+<TOKEN id="token-24-4" pos="punct" morph="none" start_char="3824" end_char="3824">,</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="3826" end_char="3834">Khashoggi</TOKEN>
+<TOKEN id="token-24-6" pos="word" morph="none" start_char="3836" end_char="3842">entered</TOKEN>
+<TOKEN id="token-24-7" pos="word" morph="none" start_char="3844" end_char="3846">the</TOKEN>
+<TOKEN id="token-24-8" pos="word" morph="none" start_char="3848" end_char="3852">Saudi</TOKEN>
+<TOKEN id="token-24-9" pos="word" morph="none" start_char="3854" end_char="3862">consulate</TOKEN>
+<TOKEN id="token-24-10" pos="word" morph="none" start_char="3864" end_char="3865">in</TOKEN>
+<TOKEN id="token-24-11" pos="word" morph="none" start_char="3867" end_char="3874">Istanbul</TOKEN>
+<TOKEN id="token-24-12" pos="word" morph="none" start_char="3876" end_char="3877">to</TOKEN>
+<TOKEN id="token-24-13" pos="word" morph="none" start_char="3879" end_char="3884">obtain</TOKEN>
+<TOKEN id="token-24-14" pos="word" morph="none" start_char="3886" end_char="3894">documents</TOKEN>
+<TOKEN id="token-24-15" pos="word" morph="none" start_char="3896" end_char="3902">related</TOKEN>
+<TOKEN id="token-24-16" pos="word" morph="none" start_char="3904" end_char="3905">to</TOKEN>
+<TOKEN id="token-24-17" pos="word" morph="none" start_char="3907" end_char="3909">his</TOKEN>
+<TOKEN id="token-24-18" pos="word" morph="none" start_char="3911" end_char="3917">planned</TOKEN>
+<TOKEN id="token-24-19" pos="word" morph="none" start_char="3919" end_char="3926">marriage</TOKEN>
+<TOKEN id="token-24-20" pos="punct" morph="none" start_char="3927" end_char="3927">,</TOKEN>
+<TOKEN id="token-24-21" pos="word" morph="none" start_char="3929" end_char="3931">but</TOKEN>
+<TOKEN id="token-24-22" pos="word" morph="none" start_char="3933" end_char="3935">was</TOKEN>
+<TOKEN id="token-24-23" pos="word" morph="none" start_char="3937" end_char="3941">never</TOKEN>
+<TOKEN id="token-24-24" pos="word" morph="none" start_char="3943" end_char="3946">seen</TOKEN>
+<TOKEN id="token-24-25" pos="word" morph="none" start_char="3948" end_char="3954">leaving</TOKEN>
+<TOKEN id="token-24-26" pos="punct" morph="none" start_char="3955" end_char="3955">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="3957" end_char="4120">
+<ORIGINAL_TEXT>Amid news reports claiming that he had been killed and dismembered inside, an inspection of the consulate, by Saudi and Turkish officials, took place on 15 October.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="3957" end_char="3960">Amid</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="3962" end_char="3965">news</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="3967" end_char="3973">reports</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="3975" end_char="3982">claiming</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="3984" end_char="3987">that</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="3989" end_char="3990">he</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="3992" end_char="3994">had</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="3996" end_char="3999">been</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="4001" end_char="4006">killed</TOKEN>
+<TOKEN id="token-25-9" pos="word" morph="none" start_char="4008" end_char="4010">and</TOKEN>
+<TOKEN id="token-25-10" pos="word" morph="none" start_char="4012" end_char="4022">dismembered</TOKEN>
+<TOKEN id="token-25-11" pos="word" morph="none" start_char="4024" end_char="4029">inside</TOKEN>
+<TOKEN id="token-25-12" pos="punct" morph="none" start_char="4030" end_char="4030">,</TOKEN>
+<TOKEN id="token-25-13" pos="word" morph="none" start_char="4032" end_char="4033">an</TOKEN>
+<TOKEN id="token-25-14" pos="word" morph="none" start_char="4035" end_char="4044">inspection</TOKEN>
+<TOKEN id="token-25-15" pos="word" morph="none" start_char="4046" end_char="4047">of</TOKEN>
+<TOKEN id="token-25-16" pos="word" morph="none" start_char="4049" end_char="4051">the</TOKEN>
+<TOKEN id="token-25-17" pos="word" morph="none" start_char="4053" end_char="4061">consulate</TOKEN>
+<TOKEN id="token-25-18" pos="punct" morph="none" start_char="4062" end_char="4062">,</TOKEN>
+<TOKEN id="token-25-19" pos="word" morph="none" start_char="4064" end_char="4065">by</TOKEN>
+<TOKEN id="token-25-20" pos="word" morph="none" start_char="4067" end_char="4071">Saudi</TOKEN>
+<TOKEN id="token-25-21" pos="word" morph="none" start_char="4073" end_char="4075">and</TOKEN>
+<TOKEN id="token-25-22" pos="word" morph="none" start_char="4077" end_char="4083">Turkish</TOKEN>
+<TOKEN id="token-25-23" pos="word" morph="none" start_char="4085" end_char="4093">officials</TOKEN>
+<TOKEN id="token-25-24" pos="punct" morph="none" start_char="4094" end_char="4094">,</TOKEN>
+<TOKEN id="token-25-25" pos="word" morph="none" start_char="4096" end_char="4099">took</TOKEN>
+<TOKEN id="token-25-26" pos="word" morph="none" start_char="4101" end_char="4105">place</TOKEN>
+<TOKEN id="token-25-27" pos="word" morph="none" start_char="4107" end_char="4108">on</TOKEN>
+<TOKEN id="token-25-28" pos="word" morph="none" start_char="4110" end_char="4111">15</TOKEN>
+<TOKEN id="token-25-29" pos="word" morph="none" start_char="4113" end_char="4119">October</TOKEN>
+<TOKEN id="token-25-30" pos="punct" morph="none" start_char="4120" end_char="4120">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="4122" end_char="4312">
+<ORIGINAL_TEXT>Initially the Saudi government denied the death, but following shifting explanations for Khashoggi's death, Saudi Arabia's attorney general eventually stated that the murder was premeditated.</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="4122" end_char="4130">Initially</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="4132" end_char="4134">the</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="4136" end_char="4140">Saudi</TOKEN>
+<TOKEN id="token-26-3" pos="word" morph="none" start_char="4142" end_char="4151">government</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="4153" end_char="4158">denied</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="4160" end_char="4162">the</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="4164" end_char="4168">death</TOKEN>
+<TOKEN id="token-26-7" pos="punct" morph="none" start_char="4169" end_char="4169">,</TOKEN>
+<TOKEN id="token-26-8" pos="word" morph="none" start_char="4171" end_char="4173">but</TOKEN>
+<TOKEN id="token-26-9" pos="word" morph="none" start_char="4175" end_char="4183">following</TOKEN>
+<TOKEN id="token-26-10" pos="word" morph="none" start_char="4185" end_char="4192">shifting</TOKEN>
+<TOKEN id="token-26-11" pos="word" morph="none" start_char="4194" end_char="4205">explanations</TOKEN>
+<TOKEN id="token-26-12" pos="word" morph="none" start_char="4207" end_char="4209">for</TOKEN>
+<TOKEN id="token-26-13" pos="word" morph="none" start_char="4211" end_char="4221">Khashoggi's</TOKEN>
+<TOKEN id="token-26-14" pos="word" morph="none" start_char="4223" end_char="4227">death</TOKEN>
+<TOKEN id="token-26-15" pos="punct" morph="none" start_char="4228" end_char="4228">,</TOKEN>
+<TOKEN id="token-26-16" pos="word" morph="none" start_char="4230" end_char="4234">Saudi</TOKEN>
+<TOKEN id="token-26-17" pos="word" morph="none" start_char="4236" end_char="4243">Arabia's</TOKEN>
+<TOKEN id="token-26-18" pos="word" morph="none" start_char="4245" end_char="4252">attorney</TOKEN>
+<TOKEN id="token-26-19" pos="word" morph="none" start_char="4254" end_char="4260">general</TOKEN>
+<TOKEN id="token-26-20" pos="word" morph="none" start_char="4262" end_char="4271">eventually</TOKEN>
+<TOKEN id="token-26-21" pos="word" morph="none" start_char="4273" end_char="4278">stated</TOKEN>
+<TOKEN id="token-26-22" pos="word" morph="none" start_char="4280" end_char="4283">that</TOKEN>
+<TOKEN id="token-26-23" pos="word" morph="none" start_char="4285" end_char="4287">the</TOKEN>
+<TOKEN id="token-26-24" pos="word" morph="none" start_char="4289" end_char="4294">murder</TOKEN>
+<TOKEN id="token-26-25" pos="word" morph="none" start_char="4296" end_char="4298">was</TOKEN>
+<TOKEN id="token-26-26" pos="word" morph="none" start_char="4300" end_char="4311">premeditated</TOKEN>
+<TOKEN id="token-26-27" pos="punct" morph="none" start_char="4312" end_char="4312">.</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="4314" end_char="4429">
+<ORIGINAL_TEXT>By 16 November 2018, the CIA had concluded Saudi Crown Prince Mohammad bin Salman ordered Khashoggi's assassination.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="4314" end_char="4315">By</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="4317" end_char="4318">16</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="4320" end_char="4327">November</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="4329" end_char="4332">2018</TOKEN>
+<TOKEN id="token-27-4" pos="punct" morph="none" start_char="4333" end_char="4333">,</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="4335" end_char="4337">the</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="4339" end_char="4341">CIA</TOKEN>
+<TOKEN id="token-27-7" pos="word" morph="none" start_char="4343" end_char="4345">had</TOKEN>
+<TOKEN id="token-27-8" pos="word" morph="none" start_char="4347" end_char="4355">concluded</TOKEN>
+<TOKEN id="token-27-9" pos="word" morph="none" start_char="4357" end_char="4361">Saudi</TOKEN>
+<TOKEN id="token-27-10" pos="word" morph="none" start_char="4363" end_char="4367">Crown</TOKEN>
+<TOKEN id="token-27-11" pos="word" morph="none" start_char="4369" end_char="4374">Prince</TOKEN>
+<TOKEN id="token-27-12" pos="word" morph="none" start_char="4376" end_char="4383">Mohammad</TOKEN>
+<TOKEN id="token-27-13" pos="word" morph="none" start_char="4385" end_char="4387">bin</TOKEN>
+<TOKEN id="token-27-14" pos="word" morph="none" start_char="4389" end_char="4394">Salman</TOKEN>
+<TOKEN id="token-27-15" pos="word" morph="none" start_char="4396" end_char="4402">ordered</TOKEN>
+<TOKEN id="token-27-16" pos="word" morph="none" start_char="4404" end_char="4414">Khashoggi's</TOKEN>
+<TOKEN id="token-27-17" pos="word" morph="none" start_char="4416" end_char="4428">assassination</TOKEN>
+<TOKEN id="token-27-18" pos="punct" morph="none" start_char="4429" end_char="4429">.</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="4431" end_char="4615">
+<ORIGINAL_TEXT>On 11 December 2018, Jamal Khashoggi was named Time magazine's person of the year for his work in journalism along with other journalists who faced political persecution for their work.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="4431" end_char="4432">On</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="4434" end_char="4435">11</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="4437" end_char="4444">December</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="4446" end_char="4449">2018</TOKEN>
+<TOKEN id="token-28-4" pos="punct" morph="none" start_char="4450" end_char="4450">,</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="4452" end_char="4456">Jamal</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="4458" end_char="4466">Khashoggi</TOKEN>
+<TOKEN id="token-28-7" pos="word" morph="none" start_char="4468" end_char="4470">was</TOKEN>
+<TOKEN id="token-28-8" pos="word" morph="none" start_char="4472" end_char="4476">named</TOKEN>
+<TOKEN id="token-28-9" pos="word" morph="none" start_char="4478" end_char="4481">Time</TOKEN>
+<TOKEN id="token-28-10" pos="word" morph="none" start_char="4483" end_char="4492">magazine's</TOKEN>
+<TOKEN id="token-28-11" pos="word" morph="none" start_char="4494" end_char="4499">person</TOKEN>
+<TOKEN id="token-28-12" pos="word" morph="none" start_char="4501" end_char="4502">of</TOKEN>
+<TOKEN id="token-28-13" pos="word" morph="none" start_char="4504" end_char="4506">the</TOKEN>
+<TOKEN id="token-28-14" pos="word" morph="none" start_char="4508" end_char="4511">year</TOKEN>
+<TOKEN id="token-28-15" pos="word" morph="none" start_char="4513" end_char="4515">for</TOKEN>
+<TOKEN id="token-28-16" pos="word" morph="none" start_char="4517" end_char="4519">his</TOKEN>
+<TOKEN id="token-28-17" pos="word" morph="none" start_char="4521" end_char="4524">work</TOKEN>
+<TOKEN id="token-28-18" pos="word" morph="none" start_char="4526" end_char="4527">in</TOKEN>
+<TOKEN id="token-28-19" pos="word" morph="none" start_char="4529" end_char="4538">journalism</TOKEN>
+<TOKEN id="token-28-20" pos="word" morph="none" start_char="4540" end_char="4544">along</TOKEN>
+<TOKEN id="token-28-21" pos="word" morph="none" start_char="4546" end_char="4549">with</TOKEN>
+<TOKEN id="token-28-22" pos="word" morph="none" start_char="4551" end_char="4555">other</TOKEN>
+<TOKEN id="token-28-23" pos="word" morph="none" start_char="4557" end_char="4567">journalists</TOKEN>
+<TOKEN id="token-28-24" pos="word" morph="none" start_char="4569" end_char="4571">who</TOKEN>
+<TOKEN id="token-28-25" pos="word" morph="none" start_char="4573" end_char="4577">faced</TOKEN>
+<TOKEN id="token-28-26" pos="word" morph="none" start_char="4579" end_char="4587">political</TOKEN>
+<TOKEN id="token-28-27" pos="word" morph="none" start_char="4589" end_char="4599">persecution</TOKEN>
+<TOKEN id="token-28-28" pos="word" morph="none" start_char="4601" end_char="4603">for</TOKEN>
+<TOKEN id="token-28-29" pos="word" morph="none" start_char="4605" end_char="4609">their</TOKEN>
+<TOKEN id="token-28-30" pos="word" morph="none" start_char="4611" end_char="4614">work</TOKEN>
+<TOKEN id="token-28-31" pos="punct" morph="none" start_char="4615" end_char="4615">.</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="4617" end_char="4681">
+<ORIGINAL_TEXT>Time magazine referred to Khashoggi as a "Guardian of the Truth".</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="4617" end_char="4620">Time</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="4622" end_char="4629">magazine</TOKEN>
+<TOKEN id="token-29-2" pos="word" morph="none" start_char="4631" end_char="4638">referred</TOKEN>
+<TOKEN id="token-29-3" pos="word" morph="none" start_char="4640" end_char="4641">to</TOKEN>
+<TOKEN id="token-29-4" pos="word" morph="none" start_char="4643" end_char="4651">Khashoggi</TOKEN>
+<TOKEN id="token-29-5" pos="word" morph="none" start_char="4653" end_char="4654">as</TOKEN>
+<TOKEN id="token-29-6" pos="word" morph="none" start_char="4656" end_char="4656">a</TOKEN>
+<TOKEN id="token-29-7" pos="punct" morph="none" start_char="4658" end_char="4658">"</TOKEN>
+<TOKEN id="token-29-8" pos="word" morph="none" start_char="4659" end_char="4666">Guardian</TOKEN>
+<TOKEN id="token-29-9" pos="word" morph="none" start_char="4668" end_char="4669">of</TOKEN>
+<TOKEN id="token-29-10" pos="word" morph="none" start_char="4671" end_char="4673">the</TOKEN>
+<TOKEN id="token-29-11" pos="word" morph="none" start_char="4675" end_char="4679">Truth</TOKEN>
+<TOKEN id="token-29-12" pos="punct" morph="none" start_char="4680" end_char="4681">".</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

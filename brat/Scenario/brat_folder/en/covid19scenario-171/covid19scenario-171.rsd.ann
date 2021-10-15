@@ -1,0 +1,26 @@
+T1	GPE 43 48	Italy
+T2	GPE 53 58	Japan
+T3	FAC 71 78	schools
+T4	PER 108 119	communities
+T5	GPE 127 140	United States
+T6	PER 193 199	people
+T7	PER 359 361	we
+T8	FAC 387 393	school
+T9	MHI 406 413	disease
+T10	MHI 438 447	influenza
+T11	PER 458 466	children
+T12	PER 550 558	Children
+T13	MHI 584 593	influenza
+T14	PER 613 617	they
+T15	PER 646 652	people
+T16	PER 666 672	adults
+T17	ORG 718 725	schools
+T18	FAC 849 856	schools
+T19	GPE 868 875	country
+T20	ORG 891 896	C.D.C
+T21	PER 916 923	parents
+T22	PER 987 995	children
+T23	FAC 1032 1036	home
+T24	LOC 1055 1060	sites
+T25	FAC 1122 1129	schools
+T26	MHI 1201 1204	flu

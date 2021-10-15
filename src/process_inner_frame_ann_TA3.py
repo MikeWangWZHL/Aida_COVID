@@ -322,14 +322,31 @@ def get_claim_semantic_associate_dict(attributes, relations):
                     claim_associate_dict[attr['value']].append(attr['arg_id']) # add event
     return claim_semantic_dict, claim_associate_dict
 
+def get_child_parent_dict(parent_child_tab):
+    if os.path.isfile(parent_child_tab):    
+        root_id_dict = {}
+        with open(parent_child_tab) as f:
+            for line in f:
+                if line.startswith('catalog_id'):
+                    continue
+                parsed_line = line.split('\t')
+                if parsed_line[5].strip() == '.ltf.xml':
+                    root_id = parsed_line[2].strip()
+                    child_id = parsed_line[3].strip()
+                    root_id_dict[child_id] = root_id
+    else:
+        root_id_dict = None
+    return root_id_dict
+
 def main():
 
     '''config'''
-    annotated_innerframe_dir_path = '/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/results/9-4-dump/annotated_inner_frame/LDC2021E11_TA3_annotation_batch_1_EN'
-    ltf_dir_path = '/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/brat/Aida_TA3_First_batch/ltf/en'
-    out_dir_path = '/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/results/9-4-dump/out/TA3'
+    annotated_innerframe_dir_path = '/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/results/aida_hackathon_hw_9-21/annotated_inner_frame'
+    ltf_dir_path = '/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/brat/Aida_hackathon/aida_hackathon_hw_9-21/ltf/en'
+    out_dir_path = '/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/results/aida_hackathon_hw_9-21/processed_inner_frame'
     
     xpo_ontology_json = '/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/ontology/json/kairos_event_ontology_xpo-7_19.json'
+    parent_child_tab_path = '/shared/nas/data/m1/wangz3/brat/Aida_Kairos_COVID/src/parent_child_tabs/LDC2021E11_AIDA_Phase_3_Practice_Topic_Source_Data_V2.0.tab'
     
     '''load ontology'''
     xpo_ontology = json.load(open(xpo_ontology_json))
@@ -345,6 +362,9 @@ def main():
     inner_frame_dirs = glob(os.path.join(annotated_innerframe_dir_path,'*'))
     ann_file_paths = [os.path.join(dir_path, os.path.basename(dir_path) + '.rsd.ann') for dir_path in inner_frame_dirs if os.path.isdir(dir_path)]
     
+    '''get child2rootid'''
+    child_2_rootid = get_child_parent_dict(parent_child_tab_path)
+
     '''inner frame'''
     for ann_path in ann_file_paths: 
         # make dir for each document
@@ -363,11 +383,16 @@ def main():
         
         # output KE tabs
         child_id = os.path.basename(ann_path)[:-8]
-        generate_LDC_tabs_TA3('TA3_evt_KEs.tab', child_id, entities, events, relations, output_dir = doc_out_dir, root_id = NA_FILLER, ltf_dir = ltf_dir_path)
-        generate_LDC_tabs_TA3('TA3_rel_KEs.tab', child_id, entities, events, relations, output_dir = doc_out_dir, root_id = NA_FILLER, ltf_dir = ltf_dir_path)
-        generate_LDC_tabs_TA3('TA3_arg_KEs.tab', child_id, entities, events, relations, output_dir = doc_out_dir, root_id = NA_FILLER, ltf_dir = ltf_dir_path)
-        generate_LDC_tabs_TA3('TA3_evt_slots.tab', child_id, entities, events, relations, output_dir = doc_out_dir, root_id = NA_FILLER, ltf_dir = ltf_dir_path)
-        generate_LDC_tabs_TA3('TA3_rel_slots.tab', child_id, entities, events, relations, output_dir = doc_out_dir, root_id = NA_FILLER, ltf_dir = ltf_dir_path)
+        if child_id in child_2_rootid:
+            root_id = child_2_rootid[child_id]
+        else:
+            root_id = NA_FILLER
+
+        generate_LDC_tabs_TA3('TA3_evt_KEs.tab', child_id, entities, events, relations, output_dir = doc_out_dir, root_id = root_id, ltf_dir = ltf_dir_path)
+        generate_LDC_tabs_TA3('TA3_rel_KEs.tab', child_id, entities, events, relations, output_dir = doc_out_dir, root_id = root_id, ltf_dir = ltf_dir_path)
+        generate_LDC_tabs_TA3('TA3_arg_KEs.tab', child_id, entities, events, relations, output_dir = doc_out_dir, root_id = root_id, ltf_dir = ltf_dir_path)
+        generate_LDC_tabs_TA3('TA3_evt_slots.tab', child_id, entities, events, relations, output_dir = doc_out_dir, root_id = root_id, ltf_dir = ltf_dir_path)
+        generate_LDC_tabs_TA3('TA3_rel_slots.tab', child_id, entities, events, relations, output_dir = doc_out_dir, root_id = root_id, ltf_dir = ltf_dir_path)
 
         # output events, entities, relations, attributes
         # change keys to unique ids:
@@ -523,7 +548,7 @@ def get_clean_annotation():
 
 if __name__ == '__main__':
     '''process TA3'''
-    # main()
+    main()
 
     '''get inner frame clean annotation sentences'''
-    get_clean_annotation()
+    # get_clean_annotation()

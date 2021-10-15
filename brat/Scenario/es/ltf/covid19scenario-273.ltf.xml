@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-273">
+		<TEXT>
+			<SEG id="covid19scenario-273-0" start_char="0" end_char="209">
+				<ORIGINAL_TEXT>Entre toda la información que ha surgido en la red acerca del coronavirus, recientemente se difundió la 'noticia' de que la cocaína era capaz de acabar con el mortal virus, generando confusión entre el público.</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="4">Entre</TOKEN>
+				<TOKEN id="token-0-1" start_char="6" end_char="9">toda</TOKEN>
+				<TOKEN id="token-0-2" start_char="11" end_char="12">la</TOKEN>
+				<TOKEN id="token-0-3" start_char="14" end_char="24">información</TOKEN>
+				<TOKEN id="token-0-4" start_char="26" end_char="28">que</TOKEN>
+				<TOKEN id="token-0-5" start_char="30" end_char="31">ha</TOKEN>
+				<TOKEN id="token-0-6" start_char="33" end_char="39">surgido</TOKEN>
+				<TOKEN id="token-0-7" start_char="41" end_char="42">en</TOKEN>
+				<TOKEN id="token-0-8" start_char="44" end_char="45">la</TOKEN>
+				<TOKEN id="token-0-9" start_char="47" end_char="49">red</TOKEN>
+				<TOKEN id="token-0-10" start_char="51" end_char="56">acerca</TOKEN>
+				<TOKEN id="token-0-11" start_char="58" end_char="60">del</TOKEN>
+				<TOKEN id="token-0-12" start_char="62" end_char="72">coronavirus</TOKEN>
+				<TOKEN id="token-0-13" start_char="73" end_char="73">,</TOKEN>
+				<TOKEN id="token-0-14" start_char="75" end_char="87">recientemente</TOKEN>
+				<TOKEN id="token-0-15" start_char="89" end_char="90">se</TOKEN>
+				<TOKEN id="token-0-16" start_char="92" end_char="99">difundió</TOKEN>
+				<TOKEN id="token-0-17" start_char="101" end_char="102">la</TOKEN>
+				<TOKEN id="token-0-18" start_char="104" end_char="104">'</TOKEN>
+				<TOKEN id="token-0-19" start_char="105" end_char="111">noticia</TOKEN>
+				<TOKEN id="token-0-20" start_char="112" end_char="112">'</TOKEN>
+				<TOKEN id="token-0-21" start_char="114" end_char="115">de</TOKEN>
+				<TOKEN id="token-0-22" start_char="117" end_char="119">que</TOKEN>
+				<TOKEN id="token-0-23" start_char="121" end_char="122">la</TOKEN>
+				<TOKEN id="token-0-24" start_char="124" end_char="130">cocaína</TOKEN>
+				<TOKEN id="token-0-25" start_char="132" end_char="134">era</TOKEN>
+				<TOKEN id="token-0-26" start_char="136" end_char="140">capaz</TOKEN>
+				<TOKEN id="token-0-27" start_char="142" end_char="143">de</TOKEN>
+				<TOKEN id="token-0-28" start_char="145" end_char="150">acabar</TOKEN>
+				<TOKEN id="token-0-29" start_char="152" end_char="154">con</TOKEN>
+				<TOKEN id="token-0-30" start_char="156" end_char="157">el</TOKEN>
+				<TOKEN id="token-0-31" start_char="159" end_char="164">mortal</TOKEN>
+				<TOKEN id="token-0-32" start_char="166" end_char="170">virus</TOKEN>
+				<TOKEN id="token-0-33" start_char="171" end_char="171">,</TOKEN>
+				<TOKEN id="token-0-34" start_char="173" end_char="181">generando</TOKEN>
+				<TOKEN id="token-0-35" start_char="183" end_char="191">confusión</TOKEN>
+				<TOKEN id="token-0-36" start_char="193" end_char="197">entre</TOKEN>
+				<TOKEN id="token-0-37" start_char="199" end_char="200">el</TOKEN>
+				<TOKEN id="token-0-38" start_char="202" end_char="208">público</TOKEN>
+				<TOKEN id="token-0-39" start_char="209" end_char="209">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-273-1" start_char="211" end_char="272">
+				<ORIGINAL_TEXT>Sin embargo, los especialistas comparten una opinión distinta.</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="211" end_char="213">Sin</TOKEN>
+				<TOKEN id="token-1-1" start_char="215" end_char="221">embargo</TOKEN>
+				<TOKEN id="token-1-2" start_char="222" end_char="222">,</TOKEN>
+				<TOKEN id="token-1-3" start_char="224" end_char="226">los</TOKEN>
+				<TOKEN id="token-1-4" start_char="228" end_char="240">especialistas</TOKEN>
+				<TOKEN id="token-1-5" start_char="242" end_char="250">comparten</TOKEN>
+				<TOKEN id="token-1-6" start_char="252" end_char="254">una</TOKEN>
+				<TOKEN id="token-1-7" start_char="256" end_char="262">opinión</TOKEN>
+				<TOKEN id="token-1-8" start_char="264" end_char="271">distinta</TOKEN>
+				<TOKEN id="token-1-9" start_char="272" end_char="272">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-273-2" start_char="274" end_char="494">
+				<ORIGINAL_TEXT>Fue a finales del mes de enero que dicha información comenzó a propagarse acompañada de una fotografía de una mano sosteniendo una bolsa con la mencionada sustancia, la cual aseguraba que 'La cocaína mata al coronavirus'.</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="274" end_char="276">Fue</TOKEN>
+				<TOKEN id="token-2-1" start_char="278" end_char="278">a</TOKEN>
+				<TOKEN id="token-2-2" start_char="280" end_char="286">finales</TOKEN>
+				<TOKEN id="token-2-3" start_char="288" end_char="290">del</TOKEN>
+				<TOKEN id="token-2-4" start_char="292" end_char="294">mes</TOKEN>
+				<TOKEN id="token-2-5" start_char="296" end_char="297">de</TOKEN>
+				<TOKEN id="token-2-6" start_char="299" end_char="303">enero</TOKEN>
+				<TOKEN id="token-2-7" start_char="305" end_char="307">que</TOKEN>
+				<TOKEN id="token-2-8" start_char="309" end_char="313">dicha</TOKEN>
+				<TOKEN id="token-2-9" start_char="315" end_char="325">información</TOKEN>
+				<TOKEN id="token-2-10" start_char="327" end_char="333">comenzó</TOKEN>
+				<TOKEN id="token-2-11" start_char="335" end_char="335">a</TOKEN>
+				<TOKEN id="token-2-12" start_char="337" end_char="346">propagarse</TOKEN>
+				<TOKEN id="token-2-13" start_char="348" end_char="357">acompañada</TOKEN>
+				<TOKEN id="token-2-14" start_char="359" end_char="360">de</TOKEN>
+				<TOKEN id="token-2-15" start_char="362" end_char="364">una</TOKEN>
+				<TOKEN id="token-2-16" start_char="366" end_char="375">fotografía</TOKEN>
+				<TOKEN id="token-2-17" start_char="377" end_char="378">de</TOKEN>
+				<TOKEN id="token-2-18" start_char="380" end_char="382">una</TOKEN>
+				<TOKEN id="token-2-19" start_char="384" end_char="387">mano</TOKEN>
+				<TOKEN id="token-2-20" start_char="389" end_char="399">sosteniendo</TOKEN>
+				<TOKEN id="token-2-21" start_char="401" end_char="403">una</TOKEN>
+				<TOKEN id="token-2-22" start_char="405" end_char="409">bolsa</TOKEN>
+				<TOKEN id="token-2-23" start_char="411" end_char="413">con</TOKEN>
+				<TOKEN id="token-2-24" start_char="415" end_char="416">la</TOKEN>
+				<TOKEN id="token-2-25" start_char="418" end_char="427">mencionada</TOKEN>
+				<TOKEN id="token-2-26" start_char="429" end_char="437">sustancia</TOKEN>
+				<TOKEN id="token-2-27" start_char="438" end_char="438">,</TOKEN>
+				<TOKEN id="token-2-28" start_char="440" end_char="441">la</TOKEN>
+				<TOKEN id="token-2-29" start_char="443" end_char="446">cual</TOKEN>
+				<TOKEN id="token-2-30" start_char="448" end_char="456">aseguraba</TOKEN>
+				<TOKEN id="token-2-31" start_char="458" end_char="460">que</TOKEN>
+				<TOKEN id="token-2-32" start_char="462" end_char="462">'</TOKEN>
+				<TOKEN id="token-2-33" start_char="463" end_char="464">La</TOKEN>
+				<TOKEN id="token-2-34" start_char="466" end_char="472">cocaína</TOKEN>
+				<TOKEN id="token-2-35" start_char="474" end_char="477">mata</TOKEN>
+				<TOKEN id="token-2-36" start_char="479" end_char="480">al</TOKEN>
+				<TOKEN id="token-2-37" start_char="482" end_char="492">coronavirus</TOKEN>
+				<TOKEN id="token-2-38" start_char="493" end_char="494">'.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-273-3" start_char="496" end_char="744">
+				<ORIGINAL_TEXT>Pero, tal como se esperaba, esto no es más que una 'fake news', ya que hasta el momento, según los especialistas de los CDC (Centros de Control para Prevención de Enfermedades), no existe ninguna cura para la letal enfermedad conocida como COVID-19.</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="496" end_char="499">Pero</TOKEN>
+				<TOKEN id="token-3-1" start_char="500" end_char="500">,</TOKEN>
+				<TOKEN id="token-3-2" start_char="502" end_char="504">tal</TOKEN>
+				<TOKEN id="token-3-3" start_char="506" end_char="509">como</TOKEN>
+				<TOKEN id="token-3-4" start_char="511" end_char="512">se</TOKEN>
+				<TOKEN id="token-3-5" start_char="514" end_char="521">esperaba</TOKEN>
+				<TOKEN id="token-3-6" start_char="522" end_char="522">,</TOKEN>
+				<TOKEN id="token-3-7" start_char="524" end_char="527">esto</TOKEN>
+				<TOKEN id="token-3-8" start_char="529" end_char="530">no</TOKEN>
+				<TOKEN id="token-3-9" start_char="532" end_char="533">es</TOKEN>
+				<TOKEN id="token-3-10" start_char="535" end_char="537">más</TOKEN>
+				<TOKEN id="token-3-11" start_char="539" end_char="541">que</TOKEN>
+				<TOKEN id="token-3-12" start_char="543" end_char="545">una</TOKEN>
+				<TOKEN id="token-3-13" start_char="547" end_char="547">'</TOKEN>
+				<TOKEN id="token-3-14" start_char="548" end_char="551">fake</TOKEN>
+				<TOKEN id="token-3-15" start_char="553" end_char="556">news</TOKEN>
+				<TOKEN id="token-3-16" start_char="557" end_char="558">',</TOKEN>
+				<TOKEN id="token-3-17" start_char="560" end_char="561">ya</TOKEN>
+				<TOKEN id="token-3-18" start_char="563" end_char="565">que</TOKEN>
+				<TOKEN id="token-3-19" start_char="567" end_char="571">hasta</TOKEN>
+				<TOKEN id="token-3-20" start_char="573" end_char="574">el</TOKEN>
+				<TOKEN id="token-3-21" start_char="576" end_char="582">momento</TOKEN>
+				<TOKEN id="token-3-22" start_char="583" end_char="583">,</TOKEN>
+				<TOKEN id="token-3-23" start_char="585" end_char="589">según</TOKEN>
+				<TOKEN id="token-3-24" start_char="591" end_char="593">los</TOKEN>
+				<TOKEN id="token-3-25" start_char="595" end_char="607">especialistas</TOKEN>
+				<TOKEN id="token-3-26" start_char="609" end_char="610">de</TOKEN>
+				<TOKEN id="token-3-27" start_char="612" end_char="614">los</TOKEN>
+				<TOKEN id="token-3-28" start_char="616" end_char="618">CDC</TOKEN>
+				<TOKEN id="token-3-29" start_char="620" end_char="620">(</TOKEN>
+				<TOKEN id="token-3-30" start_char="621" end_char="627">Centros</TOKEN>
+				<TOKEN id="token-3-31" start_char="629" end_char="630">de</TOKEN>
+				<TOKEN id="token-3-32" start_char="632" end_char="638">Control</TOKEN>
+				<TOKEN id="token-3-33" start_char="640" end_char="643">para</TOKEN>
+				<TOKEN id="token-3-34" start_char="645" end_char="654">Prevención</TOKEN>
+				<TOKEN id="token-3-35" start_char="656" end_char="657">de</TOKEN>
+				<TOKEN id="token-3-36" start_char="659" end_char="670">Enfermedades</TOKEN>
+				<TOKEN id="token-3-37" start_char="671" end_char="672">),</TOKEN>
+				<TOKEN id="token-3-38" start_char="674" end_char="675">no</TOKEN>
+				<TOKEN id="token-3-39" start_char="677" end_char="682">existe</TOKEN>
+				<TOKEN id="token-3-40" start_char="684" end_char="690">ninguna</TOKEN>
+				<TOKEN id="token-3-41" start_char="692" end_char="695">cura</TOKEN>
+				<TOKEN id="token-3-42" start_char="697" end_char="700">para</TOKEN>
+				<TOKEN id="token-3-43" start_char="702" end_char="703">la</TOKEN>
+				<TOKEN id="token-3-44" start_char="705" end_char="709">letal</TOKEN>
+				<TOKEN id="token-3-45" start_char="711" end_char="720">enfermedad</TOKEN>
+				<TOKEN id="token-3-46" start_char="722" end_char="729">conocida</TOKEN>
+				<TOKEN id="token-3-47" start_char="731" end_char="734">como</TOKEN>
+				<TOKEN id="token-3-48" start_char="736" end_char="740">COVID</TOKEN>
+				<TOKEN id="token-3-49" start_char="741" end_char="741">-</TOKEN>
+				<TOKEN id="token-3-50" start_char="742" end_char="743">19</TOKEN>
+				<TOKEN id="token-3-51" start_char="744" end_char="744">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-273-4" start_char="746" end_char="867">
+				<ORIGINAL_TEXT>Cabe destacar que dicha 'noticia' vino del sitio 'Break your own news', el cual permite crear titulares de sucesos falsos.</ORIGINAL_TEXT>
+				<TOKEN id="token-4-0" start_char="746" end_char="749">Cabe</TOKEN>
+				<TOKEN id="token-4-1" start_char="751" end_char="758">destacar</TOKEN>
+				<TOKEN id="token-4-2" start_char="760" end_char="762">que</TOKEN>
+				<TOKEN id="token-4-3" start_char="764" end_char="768">dicha</TOKEN>
+				<TOKEN id="token-4-4" start_char="770" end_char="770">'</TOKEN>
+				<TOKEN id="token-4-5" start_char="771" end_char="777">noticia</TOKEN>
+				<TOKEN id="token-4-6" start_char="778" end_char="778">'</TOKEN>
+				<TOKEN id="token-4-7" start_char="780" end_char="783">vino</TOKEN>
+				<TOKEN id="token-4-8" start_char="785" end_char="787">del</TOKEN>
+				<TOKEN id="token-4-9" start_char="789" end_char="793">sitio</TOKEN>
+				<TOKEN id="token-4-10" start_char="795" end_char="795">'</TOKEN>
+				<TOKEN id="token-4-11" start_char="796" end_char="800">Break</TOKEN>
+				<TOKEN id="token-4-12" start_char="802" end_char="805">your</TOKEN>
+				<TOKEN id="token-4-13" start_char="807" end_char="809">own</TOKEN>
+				<TOKEN id="token-4-14" start_char="811" end_char="814">news</TOKEN>
+				<TOKEN id="token-4-15" start_char="815" end_char="816">',</TOKEN>
+				<TOKEN id="token-4-16" start_char="818" end_char="819">el</TOKEN>
+				<TOKEN id="token-4-17" start_char="821" end_char="824">cual</TOKEN>
+				<TOKEN id="token-4-18" start_char="826" end_char="832">permite</TOKEN>
+				<TOKEN id="token-4-19" start_char="834" end_char="838">crear</TOKEN>
+				<TOKEN id="token-4-20" start_char="840" end_char="848">titulares</TOKEN>
+				<TOKEN id="token-4-21" start_char="850" end_char="851">de</TOKEN>
+				<TOKEN id="token-4-22" start_char="853" end_char="859">sucesos</TOKEN>
+				<TOKEN id="token-4-23" start_char="861" end_char="866">falsos</TOKEN>
+				<TOKEN id="token-4-24" start_char="867" end_char="867">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-273-5" start_char="869" end_char="903">
+				<ORIGINAL_TEXT>Fuente: www.elsiglodetorreon.com.mx</ORIGINAL_TEXT>
+				<TOKEN id="token-5-0" start_char="869" end_char="874">Fuente</TOKEN>
+				<TOKEN id="token-5-1" start_char="875" end_char="875">:</TOKEN>
+				<TOKEN id="token-5-2" start_char="877" end_char="879">www</TOKEN>
+				<TOKEN id="token-5-3" start_char="880" end_char="880">.</TOKEN>
+				<TOKEN id="token-5-4" start_char="881" end_char="896">elsiglodetorreon</TOKEN>
+				<TOKEN id="token-5-5" start_char="897" end_char="897">.</TOKEN>
+				<TOKEN id="token-5-6" start_char="898" end_char="900">com</TOKEN>
+				<TOKEN id="token-5-7" start_char="901" end_char="901">.</TOKEN>
+				<TOKEN id="token-5-8" start_char="902" end_char="903">mx</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

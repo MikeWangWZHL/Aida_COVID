@@ -1,0 +1,141 @@
+What helps, what doesn't, and what's in the pipeline
+Most people who become ill with COVID-19 will be able to recover at home.
+Some of the same things you do to feel better if you have the flu — getting enough rest, staying well hydrated, and taking medications to relieve fever and aches and pains — also help with COVID-19.
+Beyond that, the FDA has also authorized treatments that may be used for people who have been hospitalized with COVID-19 and other medications to curb the progression of COVID-19 in people who are not hospitalized but who are at risk for developing severe illness.
+Scientists continue working hard to develop other effective treatments.
+Visit our Coronavirus Resource Center for more information on coronavirus and COVID-19.
+What therapies might help people with severe COVID-19 prior to hospitalization?
+In November 2020, the FDA granted emergency use authorization to two monoclonal antibody treatments (bamlanivimab, made by Eli Lilly; and a combination of casirivimab and imdevimab, made by Regeneron).
+Both treatments have been approved for non-hospitalized adults and children over age 12 with mild to moderate COVID-19 symptoms who are at risk for developing severe COVID-19 or being hospitalized for it.
+In these patients, the approved treatments can reduce the risk of hospitalization and emergency room visits.
+These therapies must be given intravenously (by IV) soon after developing symptoms.
+If you are recovering at home, these measures can help reduce symptoms:
+While you don't need to stay in bed, you should get plenty of rest.
+Stay well hydrated.
+To reduce fever and ease aches and pains, take acetaminophen.
+Be sure to follow directions.
+If you are taking any combination cold or flu medicine, keep track of all the ingredients and the doses.
+For acetaminophen, the total daily dose from all products should not exceed 3,000 milligrams.
+What medications can doctors use for people hospitalized with COVID-19?
+Dexamethasone
+Many doctors, including those in the United States, have been treating very ill COVID-19 patients with corticosteroids since the pandemic began.
+It makes biologic sense for those patients who have developed a hyper-immune response (a cytokine storm) to the viral infection.
+In these cases, it is the immune system's overreaction that is damaging the lungs and other organs, and too often leading to death.
+Dexamethasone and other corticosteroids (prednisone, methylprednisolone) are potent anti-inflammatory drugs.
+They are readily available and inexpensive.
+The NIH COVID-19 treatment guidelines recommend the use of dexamethasone in certain people hospitalized with severe COVID-19.
+The recommendation was based on results from the RECOVERY trial.
+In the study, more than 6,000 patients hospitalized with COVID-19 randomly received either dexamethasone or standard treatment.
+Patients who required supplemental oxygen or ventilators and who received dexamethasone were less likely to die within 28 days than those who received standard care.
+Dexamethasone did not have a benefit in patients who did not need respiratory support.
+Remdesivir
+In October 2020, the FDA approved the antiviral drug remdesivir to treat COVID-19.
+The drug may be used to treat adults and children ages 12 and older and weighing at least 88 pounds, who have been hospitalized for COVID-19.
+Clinical trials suggest that in these patients, remdesivir may modestly speed up recovery time.
+Baricitinib in combination with remdesivir
+In November 2020, the Food and Drug Administration (FDA) issued an emergency use authorization (EUA) for the use of baricitinib in combination with remdesivir in hospitalized adults and children 2 years and older who require respiratory support.
+However, there is not yet enough evidence to support the use of this therapy instead of dexamethasone with or without remdesivir.
+Anticoagulation drugs ("blood thinners")
+Almost all people admitted to the hospital with COVID receive medications to help prevent blood clots.
+Doctors usually prescribe low-dose heparin or enoxaparin.
+However, some patients require full doses of anticoagulants if they already have developed blood clots or have a high risk of doing so.
+Doctors always need to balance the risk of dangerous bleeding when prescribing full doses.
+What are monoclonal antibodies?
+Can they help treat COVID-19?
+Three monoclonal antibody treatments for COVID-19 have been granted emergency use authorization (EUA) by the FDA.
+All three treatments may be used to treat non-hospitalized adults and children over age 12 with mild to moderate symptoms who have recently tested positive for COVID-19, and who are at risk for developing severe COVID-19 or being hospitalized for it.
+This includes people over 65, people with obesity, and those with certain chronic medical conditions.
+Monoclonal antibodies are manmade versions of the antibodies that our bodies naturally make to fight invaders, such as the SARS-CoV-2 virus.
+All three of the FDA-authorized therapies attack the coronavirus's spike protein, making it more difficult for the virus to attach to and enter human cells.
+The three monoclonal antibody treatments that have received EUA are bamlanivimab, made by Eli Lilly; a combination of casirivimab and imdevimab, made by Regeneron; and a combination of bamlanivimab and etesevimab, made by Eli Lilly.
+These treatments must be given intravenously in a clinic or hospital.
+The three monoclonal antibody treatments were tested in separate clinical trials.
+Bamlanivimab alone and the combination of casirivimab and imdevimab were both found to significantly reduce the risk of being hospitalized or visiting the ER within 28 days after treatment, compared to placebo.
+The bamlanivimab/etesevimab combination was found to significantly reduce the risk of hospitalization or death within 29 days of treatment, compared to placebo.
+These treatments are not authorized for hospitalized COVID-19 patients or those receiving oxygen therapy.
+They have not shown to benefit these patients and could lead to worse outcomes in these patients.
+What is convalescent plasma?
+Does it help people with COVID-19?
+When people recover from COVID-19, their blood contains antibodies that their bodies produced to fight the coronavirus and help them get well.
+Antibodies are found in plasma, a component of blood.
+Convalescent plasma — literally plasma from recovered patients — has been used for more than 100 years to treat a variety of illnesses from measles to polio, chickenpox, and SARS.
+It is widely believed to be safe.
+In August 2020, the FDA issued an emergency use authorization (EUA) for convalescent plasma in patients hospitalized with COVID-19.
+A small but well-designed trial (randomized, double-blind, and placebo-controlled) was published in the New England Journal of Medicine in January 2021.
+The study only enrolled patients 65 and older, and researchers screened the convalescent plasma to ensure it contained high levels of antibodies.
+The researchers found that patients who received convalescent plasma within three days of developing symptoms were 48% less likely to develop severe COVID illness, compared to patients who received placebo.
+However, a meta-analysis of four peer-reviewed and published randomized clinical trials, published in JAMA, had less promising results.
+The trials included in the analysis included 1,060 patients with COVID-19 who received either convalescent plasma, a placebo, or standard treatment.
+Compared to placebo and standard treatment, convalescent plasma did not significantly improve risk of death, length of hospital stay, or the need for a ventilator.
+The study authors noted that the studies used for this analysis were small, and future clinical trials might suggest more benefit from the therapy.
+Who can donate plasma for COVID-19?
+In order to donate plasma, a person must meet several criteria.
+They have to have tested positive for COVID-19, recovered, have no symptoms for 14 days, currently test negative for COVID-19, and have high enough antibody levels in their plasma.
+A donor and patient must also have compatible blood types.
+Once plasma is donated, it is screened for other infectious diseases, such as HIV.
+Each donor produces enough plasma to treat one to three patients.
+Donating plasma should not weaken the donor's immune system, nor make the donor more susceptible to getting reinfected with the virus.
+Why is it so difficult to develop treatments for viral illnesses?
+An antiviral drug must be able to target the specific part of a virus's life cycle that is necessary for it to reproduce.
+In addition, an antiviral drug must be able to kill a virus without killing the human cell it occupies.
+And viruses are highly adaptive.
+Because they reproduce so rapidly, they have plenty of opportunity to mutate (change their genetic information) with each new generation, potentially developing resistance to whatever drugs or vaccines we develop.
+Is it safe to take ibuprofen to treat symptoms of COVID-19?
+Some French doctors advise against using ibuprofen (Motrin, Advil, many generic versions) for COVID-19 symptoms based on reports of otherwise healthy people with confirmed COVID-19 who were taking an NSAID for symptom relief and developed a severe illness, especially pneumonia.
+These are only observations and not based on scientific studies.
+The WHO initially recommended using acetaminophen instead of ibuprofen to help reduce fever and aches and pains related to this coronavirus infection, but now states that either acetaminophen or ibuprofen can be used.
+Rapid changes in recommendations create uncertainty.
+Since some doctors remain concerned about NSAIDs, it still seems prudent to choose acetaminophen first, with a total dose not exceeding 3,000 milligrams per day.
+However, if you suspect or know you have COVID-19 and cannot take acetaminophen, or have taken the maximum dose and still need symptom relief, taking over-the-counter ibuprofen does not need to be specifically avoided.
+Is hydroxychloroquine safe and effective for treating COVID-19?
+Hydroxychloroquine is primarily used to treat malaria and several inflammatory diseases, including lupus and rheumatoid arthritis.
+It is inexpensive and readily available.
+Early reports from China and France were promising, suggesting that patients with severe symptoms of COVID-19 improved more quickly when given hydroxychloroquine.
+However, in an article published in December 2020 in JAMA, researchers reported that hydroxychloroquine did not result in any clinical benefits for adults hospitalized with respiratory illness from COVID-19, compared with placebo.
+The NIH treatment guidelines recommend against the use of hydroxychloroquine for COVID-19, in both hospitalized and non-hospitalized patients.
+Does vitamin D protect against COVID-19?
+There is some evidence to suggest that vitamin D might help protect against becoming infected with, and developing serious symptoms of, COVID-19.
+We know, for example, that people with low vitamin D levels may be more susceptible to upper respiratory tract infections.
+One meta-analysis found that people who took vitamin D supplements, particularly those who had low vitamin D levels, were less likely to develop acute respiratory tract infections than those who didn't.
+Vitamin D may protect against COVID-19 in two ways.
+First, it may help boost our bodies' natural defense against viruses and bacteria.
+Second, it may help prevent an exaggerated inflammatory response, which has been shown to contribute to severe illness in some people with COVID-19.
+Our bodies make vitamin D when exposed to sunshine.
+Five to 10 minutes of sun exposure on some or most days of the week to the arms, legs, or back without sunscreen will enable you to make enough of the vitamin.
+Good food sources of vitamin D include fatty fish (such as tuna, mackerel, and salmon), foods fortified with vitamin D (such as dairy products, soy milk, and cereals), cheese, and egg yolks.
+The recommended dietary dose of vitamin D is 600 IU each day for adults 70 and younger and 800 IU each day for adults over 70.
+A daily supplement containing 1,000 to 2,000 IU of vitamin D is likely safe for most people.
+For adults, the risk of harmful effects increases above 4,000 IU per day.
+I've heard that high-dose vitamin C is being used to treat patients with COVID-19.
+Does it work?
+And should I take vitamin C to prevent infection with the COVID-19 virus?
+Some critically ill patients with COVID-19 have been treated with high doses of intravenous (IV) vitamin C in the hope that it will hasten recovery.
+However, there is no clear or convincing scientific evidence that it works for COVID-19 infections, and it is not a standard part of treatment for this infection.
+Regarding prevention, there is no evidence that taking vitamin C will help prevent infection with the coronavirus that causes COVID-19.
+While standard doses of vitamin C are generally harmless, high doses can cause a number of side effects, including nausea, cramps, and an increased risk of kidney stones.
+What is serologic (antibody) testing for COVID-19?
+What can it be used for?
+A serologic test is a blood test that looks for antibodies created by your immune system.
+There are many reasons you might make antibodies, the most important of which is to help fight infections.
+The serologic test for COVID-19 specifically looks for antibodies against the COVID-19 virus.
+Your body takes at least one to three weeks after you have acquired the infection to develop antibodies to this virus.
+For this reason, serologic tests are not sensitive enough to accurately diagnose an active COVID-19 infection, even in people with symptoms.
+However, serologic tests can help identify anyone who has recovered from coronavirus.
+This may include people who were not initially identified as having COVID-19 because they had no symptoms, had mild symptoms, chose not to get tested, had a false-negative test, or could not get tested for any reason.
+Serologic tests will provide a more accurate picture of how many people have been infected with, and recovered from, coronavirus, as well as the true fatality rate.
+Serologic tests may also provide information about whether people become immune to coronavirus once they've recovered and, if so, how long that immunity lasts.
+The accuracy of serologic tests varies depending on the test and when in the course of infection the test is performed.
+Blog posts
+Do vitamin D, zinc, and other supplements help prevent COVID-19 or hasten healing?
+Podcasts
+COVID-19 therapies update: There are three potential pathways forming a bridge to a vaccine (recorded 4/13/20)
+You've probably heard the anti-malarial drug hydroxychloroqine is getting a hard look as a potential therapeutic agent in the fight against COVID-19.
+However, as Harvard Health Publishing senior faculty editor Dr.
+Rob Shmerling points out, evidence remains weak.
+On the brighter side, he points to three potential avenues in COVID-19 research where therapies may be put to use while a vaccine remains in development.
+Visit our Coronavirus Resource Center for more information on coronavirus and COVID-19.
+Image: fizkes/Getty Images
+Disclaimer:
+As a service to our readers, Harvard Health Publishing provides access to our library of archived content.
+Please note the date of last review or update on all articles.
+No content on this site, regardless of date, should ever be used as a substitute for direct medical advice from your doctor or other qualified clinician.

@@ -1,0 +1,37 @@
+T1	GPE 4 17	United States
+T2	GPE 38 43	China
+T3	GPE 61 72	Philippines
+T4	GPE 77 83	Taiwan
+T5	GPE 132 139	Beijing
+T6	GPE 143 153	Washington
+T7	GPE 171 174	its
+T8	GPE 175 183	partners
+T9	GPE 214 225	Philippines
+T10	ORG 233 239	forces
+T11	VEH 248 255	vessels
+T12	VEH 259 267	aircraft
+T13	LOC 275 282	Pacific
+T14	LOC 301 316	South China Sea
+T15	GPE 331 334	our
+T16	GPE 357 359	US
+T17	GPE 360 371	Philippines
+T18	ORG 396 412	State Department
+T19	PER 413 422	spokesman
+T20	PER 423 432	Ned Price
+T21	PER 438 447	reporters
+T22	GPE 450 452	We
+T23	GPE 475 478	our
+T24	GPE 479 489	Philippine
+T25	GPE 490 496	allies
+T26	GPE 541 544	PRC
+T27	PER 554 561	militia
+T28	LOC 571 583	Whitsun Reef
+T29	PER 586 591	Price
+T30	GPE 615 641	People's Republic of China
+T31	GPE 657 664	Chinese
+T32	VEH 665 670	boats
+T33	LOC 704 716	Whitsun Reef
+T34	LOC 760 774	Palawan Island
+T35	LOC 792 807	South China Sea
+T36	VEH 818 822	many
+T37	LOC 855 870	Spratly Islands

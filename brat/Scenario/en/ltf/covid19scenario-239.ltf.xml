@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-239">
+		<TEXT>
+			<SEG id="covid19scenario-239-0" start_char="0" end_char="89">
+				<ORIGINAL_TEXT>The rumor spreading on social media is false and spreads a stigma against Asian-Americans.</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="2">The</TOKEN>
+				<TOKEN id="token-0-1" start_char="4" end_char="8">rumor</TOKEN>
+				<TOKEN id="token-0-2" start_char="10" end_char="18">spreading</TOKEN>
+				<TOKEN id="token-0-3" start_char="20" end_char="21">on</TOKEN>
+				<TOKEN id="token-0-4" start_char="23" end_char="28">social</TOKEN>
+				<TOKEN id="token-0-5" start_char="30" end_char="34">media</TOKEN>
+				<TOKEN id="token-0-6" start_char="36" end_char="37">is</TOKEN>
+				<TOKEN id="token-0-7" start_char="39" end_char="43">false</TOKEN>
+				<TOKEN id="token-0-8" start_char="45" end_char="47">and</TOKEN>
+				<TOKEN id="token-0-9" start_char="49" end_char="55">spreads</TOKEN>
+				<TOKEN id="token-0-10" start_char="57" end_char="57">a</TOKEN>
+				<TOKEN id="token-0-11" start_char="59" end_char="64">stigma</TOKEN>
+				<TOKEN id="token-0-12" start_char="66" end_char="72">against</TOKEN>
+				<TOKEN id="token-0-13" start_char="74" end_char="78">Asian</TOKEN>
+				<TOKEN id="token-0-14" start_char="79" end_char="79">-</TOKEN>
+				<TOKEN id="token-0-15" start_char="80" end_char="88">Americans</TOKEN>
+				<TOKEN id="token-0-16" start_char="89" end_char="89">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-239-1" start_char="91" end_char="112">
+				<ORIGINAL_TEXT>WASHINGTON — Question:</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="91" end_char="100">WASHINGTON</TOKEN>
+				<TOKEN id="token-1-1" start_char="102" end_char="102">—</TOKEN>
+				<TOKEN id="token-1-2" start_char="104" end_char="111">Question</TOKEN>
+				<TOKEN id="token-1-3" start_char="112" end_char="112">:</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-239-2" start_char="114" end_char="175">
+				<ORIGINAL_TEXT>Are you at risk of getting coronavirus by eating Chinese food?</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="114" end_char="116">Are</TOKEN>
+				<TOKEN id="token-2-1" start_char="118" end_char="120">you</TOKEN>
+				<TOKEN id="token-2-2" start_char="122" end_char="123">at</TOKEN>
+				<TOKEN id="token-2-3" start_char="125" end_char="128">risk</TOKEN>
+				<TOKEN id="token-2-4" start_char="130" end_char="131">of</TOKEN>
+				<TOKEN id="token-2-5" start_char="133" end_char="139">getting</TOKEN>
+				<TOKEN id="token-2-6" start_char="141" end_char="151">coronavirus</TOKEN>
+				<TOKEN id="token-2-7" start_char="153" end_char="154">by</TOKEN>
+				<TOKEN id="token-2-8" start_char="156" end_char="161">eating</TOKEN>
+				<TOKEN id="token-2-9" start_char="163" end_char="169">Chinese</TOKEN>
+				<TOKEN id="token-2-10" start_char="171" end_char="174">food</TOKEN>
+				<TOKEN id="token-2-11" start_char="175" end_char="175">?</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-239-3" start_char="177" end_char="183">
+				<ORIGINAL_TEXT>Answer:</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="177" end_char="182">Answer</TOKEN>
+				<TOKEN id="token-3-1" start_char="183" end_char="183">:</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-239-4" start_char="185" end_char="187">
+				<ORIGINAL_TEXT>No.</ORIGINAL_TEXT>
+				<TOKEN id="token-4-0" start_char="185" end_char="186">No</TOKEN>
+				<TOKEN id="token-4-1" start_char="187" end_char="187">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-239-5" start_char="189" end_char="264">
+				<ORIGINAL_TEXT>The rumor is completely false, and spreads a stigma against Asian-Americans.</ORIGINAL_TEXT>
+				<TOKEN id="token-5-0" start_char="189" end_char="191">The</TOKEN>
+				<TOKEN id="token-5-1" start_char="193" end_char="197">rumor</TOKEN>
+				<TOKEN id="token-5-2" start_char="199" end_char="200">is</TOKEN>
+				<TOKEN id="token-5-3" start_char="202" end_char="211">completely</TOKEN>
+				<TOKEN id="token-5-4" start_char="213" end_char="217">false</TOKEN>
+				<TOKEN id="token-5-5" start_char="218" end_char="218">,</TOKEN>
+				<TOKEN id="token-5-6" start_char="220" end_char="222">and</TOKEN>
+				<TOKEN id="token-5-7" start_char="224" end_char="230">spreads</TOKEN>
+				<TOKEN id="token-5-8" start_char="232" end_char="232">a</TOKEN>
+				<TOKEN id="token-5-9" start_char="234" end_char="239">stigma</TOKEN>
+				<TOKEN id="token-5-10" start_char="241" end_char="247">against</TOKEN>
+				<TOKEN id="token-5-11" start_char="249" end_char="253">Asian</TOKEN>
+				<TOKEN id="token-5-12" start_char="254" end_char="254">-</TOKEN>
+				<TOKEN id="token-5-13" start_char="255" end_char="263">Americans</TOKEN>
+				<TOKEN id="token-5-14" start_char="264" end_char="264">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-239-6" start_char="266" end_char="273">
+				<ORIGINAL_TEXT>Sources:</ORIGINAL_TEXT>
+				<TOKEN id="token-6-0" start_char="266" end_char="272">Sources</TOKEN>
+				<TOKEN id="token-6-1" start_char="273" end_char="273">:</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-239-7" start_char="275" end_char="389">
+				<ORIGINAL_TEXT>Amesh Adalja, Infectious Disease Physician and Adjunct Professor at Johns Hopkins Bloomberg School of Public Health</ORIGINAL_TEXT>
+				<TOKEN id="token-7-0" start_char="275" end_char="279">Amesh</TOKEN>
+				<TOKEN id="token-7-1" start_char="281" end_char="286">Adalja</TOKEN>
+				<TOKEN id="token-7-2" start_char="287" end_char="287">,</TOKEN>
+				<TOKEN id="token-7-3" start_char="289" end_char="298">Infectious</TOKEN>
+				<TOKEN id="token-7-4" start_char="300" end_char="306">Disease</TOKEN>
+				<TOKEN id="token-7-5" start_char="308" end_char="316">Physician</TOKEN>
+				<TOKEN id="token-7-6" start_char="318" end_char="320">and</TOKEN>
+				<TOKEN id="token-7-7" start_char="322" end_char="328">Adjunct</TOKEN>
+				<TOKEN id="token-7-8" start_char="330" end_char="338">Professor</TOKEN>
+				<TOKEN id="token-7-9" start_char="340" end_char="341">at</TOKEN>
+				<TOKEN id="token-7-10" start_char="343" end_char="347">Johns</TOKEN>
+				<TOKEN id="token-7-11" start_char="349" end_char="355">Hopkins</TOKEN>
+				<TOKEN id="token-7-12" start_char="357" end_char="365">Bloomberg</TOKEN>
+				<TOKEN id="token-7-13" start_char="367" end_char="372">School</TOKEN>
+				<TOKEN id="token-7-14" start_char="374" end_char="375">of</TOKEN>
+				<TOKEN id="token-7-15" start_char="377" end_char="382">Public</TOKEN>
+				<TOKEN id="token-7-16" start_char="384" end_char="389">Health</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-239-8" start_char="391" end_char="398">
+				<ORIGINAL_TEXT>Process:</ORIGINAL_TEXT>
+				<TOKEN id="token-8-0" start_char="391" end_char="397">Process</TOKEN>
+				<TOKEN id="token-8-1" start_char="398" end_char="398">:</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-239-9" start_char="400" end_char="444">
+				<ORIGINAL_TEXT>There is a lot of fear about the coronavirus.</ORIGINAL_TEXT>
+				<TOKEN id="token-9-0" start_char="400" end_char="404">There</TOKEN>
+				<TOKEN id="token-9-1" start_char="406" end_char="407">is</TOKEN>
+				<TOKEN id="token-9-2" start_char="409" end_char="409">a</TOKEN>
+				<TOKEN id="token-9-3" start_char="411" end_char="413">lot</TOKEN>
+				<TOKEN id="token-9-4" start_char="415" end_char="416">of</TOKEN>
+				<TOKEN id="token-9-5" start_char="418" end_char="421">fear</TOKEN>
+				<TOKEN id="token-9-6" start_char="423" end_char="427">about</TOKEN>
+				<TOKEN id="token-9-7" start_char="429" end_char="431">the</TOKEN>
+				<TOKEN id="token-9-8" start_char="433" end_char="443">coronavirus</TOKEN>
+				<TOKEN id="token-9-9" start_char="444" end_char="444">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-239-10" start_char="446" end_char="499">
+				<ORIGINAL_TEXT>As a result, many myths have surfaced on social media.</ORIGINAL_TEXT>
+				<TOKEN id="token-10-0" start_char="446" end_char="447">As</TOKEN>
+				<TOKEN id="token-10-1" start_char="449" end_char="449">a</TOKEN>
+				<TOKEN id="token-10-2" start_char="451" end_char="456">result</TOKEN>
+				<TOKEN id="token-10-3" start_char="457" end_char="457">,</TOKEN>
+				<TOKEN id="token-10-4" start_char="459" end_char="462">many</TOKEN>
+				<TOKEN id="token-10-5" start_char="464" end_char="468">myths</TOKEN>
+				<TOKEN id="token-10-6" start_char="470" end_char="473">have</TOKEN>
+				<TOKEN id="token-10-7" start_char="475" end_char="482">surfaced</TOKEN>
+				<TOKEN id="token-10-8" start_char="484" end_char="485">on</TOKEN>
+				<TOKEN id="token-10-9" start_char="487" end_char="492">social</TOKEN>
+				<TOKEN id="token-10-10" start_char="494" end_char="498">media</TOKEN>
+				<TOKEN id="token-10-11" start_char="499" end_char="499">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-239-11" start_char="501" end_char="605">
+				<ORIGINAL_TEXT>One claim that has been spread online is that eating Chinese food may put you at risk of the coronavirus.</ORIGINAL_TEXT>
+				<TOKEN id="token-11-0" start_char="501" end_char="503">One</TOKEN>
+				<TOKEN id="token-11-1" start_char="505" end_char="509">claim</TOKEN>
+				<TOKEN id="token-11-2" start_char="511" end_char="514">that</TOKEN>
+				<TOKEN id="token-11-3" start_char="516" end_char="518">has</TOKEN>
+				<TOKEN id="token-11-4" start_char="520" end_char="523">been</TOKEN>
+				<TOKEN id="token-11-5" start_char="525" end_char="530">spread</TOKEN>
+				<TOKEN id="token-11-6" start_char="532" end_char="537">online</TOKEN>
+				<TOKEN id="token-11-7" start_char="539" end_char="540">is</TOKEN>
+				<TOKEN id="token-11-8" start_char="542" end_char="545">that</TOKEN>
+				<TOKEN id="token-11-9" start_char="547" end_char="552">eating</TOKEN>
+				<TOKEN id="token-11-10" start_char="554" end_char="560">Chinese</TOKEN>
+				<TOKEN id="token-11-11" start_char="562" end_char="565">food</TOKEN>
+				<TOKEN id="token-11-12" start_char="567" end_char="569">may</TOKEN>
+				<TOKEN id="token-11-13" start_char="571" end_char="573">put</TOKEN>
+				<TOKEN id="token-11-14" start_char="575" end_char="577">you</TOKEN>
+				<TOKEN id="token-11-15" start_char="579" end_char="580">at</TOKEN>
+				<TOKEN id="token-11-16" start_char="582" end_char="585">risk</TOKEN>
+				<TOKEN id="token-11-17" start_char="587" end_char="588">of</TOKEN>
+				<TOKEN id="token-11-18" start_char="590" end_char="592">the</TOKEN>
+				<TOKEN id="token-11-19" start_char="594" end_char="604">coronavirus</TOKEN>
+				<TOKEN id="token-11-20" start_char="605" end_char="605">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-239-12" start_char="607" end_char="688">
+				<ORIGINAL_TEXT>&quot;I haven’t eaten Chinese Food since Coronavirus hit,&quot; wrote one person on Twitter.</ORIGINAL_TEXT>
+				<TOKEN id="token-12-0" start_char="607" end_char="607">&quot;</TOKEN>
+				<TOKEN id="token-12-1" start_char="608" end_char="608">I</TOKEN>
+				<TOKEN id="token-12-2" start_char="610" end_char="614">haven</TOKEN>
+				<TOKEN id="token-12-3" start_char="615" end_char="615">’</TOKEN>
+				<TOKEN id="token-12-4" start_char="616" end_char="616">t</TOKEN>
+				<TOKEN id="token-12-5" start_char="618" end_char="622">eaten</TOKEN>
+				<TOKEN id="token-12-6" start_char="624" end_char="630">Chinese</TOKEN>
+				<TOKEN id="token-12-7" start_char="632" end_char="635">Food</TOKEN>
+				<TOKEN id="token-12-8" start_char="637" end_char="641">since</TOKEN>
+				<TOKEN id="token-12-9" start_char="643" end_char="653">Coronavirus</TOKEN>
+				<TOKEN id="token-12-10" start_char="655" end_char="657">hit</TOKEN>
+				<TOKEN id="token-12-11" start_char="658" end_char="659">,&quot;</TOKEN>
+				<TOKEN id="token-12-12" start_char="661" end_char="665">wrote</TOKEN>
+				<TOKEN id="token-12-13" start_char="667" end_char="669">one</TOKEN>
+				<TOKEN id="token-12-14" start_char="671" end_char="676">person</TOKEN>
+				<TOKEN id="token-12-15" start_char="678" end_char="679">on</TOKEN>
+				<TOKEN id="token-12-16" start_char="681" end_char="687">Twitter</TOKEN>
+				<TOKEN id="token-12-17" start_char="688" end_char="688">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-239-13" start_char="690" end_char="848">
+				<ORIGINAL_TEXT>To find out if this claim was true, The Verify team reached out to Amesh Adalja, an infectious disease physician and professor at the Johns Hopkins University.</ORIGINAL_TEXT>
+				<TOKEN id="token-13-0" start_char="690" end_char="691">To</TOKEN>
+				<TOKEN id="token-13-1" start_char="693" end_char="696">find</TOKEN>
+				<TOKEN id="token-13-2" start_char="698" end_char="700">out</TOKEN>
+				<TOKEN id="token-13-3" start_char="702" end_char="703">if</TOKEN>
+				<TOKEN id="token-13-4" start_char="705" end_char="708">this</TOKEN>
+				<TOKEN id="token-13-5" start_char="710" end_char="714">claim</TOKEN>
+				<TOKEN id="token-13-6" start_char="716" end_char="718">was</TOKEN>
+				<TOKEN id="token-13-7" start_char="720" end_char="723">true</TOKEN>
+				<TOKEN id="token-13-8" start_char="724" end_char="724">,</TOKEN>
+				<TOKEN id="token-13-9" start_char="726" end_char="728">The</TOKEN>
+				<TOKEN id="token-13-10" start_char="730" end_char="735">Verify</TOKEN>
+				<TOKEN id="token-13-11" start_char="737" end_char="740">team</TOKEN>
+				<TOKEN id="token-13-12" start_char="742" end_char="748">reached</TOKEN>
+				<TOKEN id="token-13-13" start_char="750" end_char="752">out</TOKEN>
+				<TOKEN id="token-13-14" start_char="754" end_char="755">to</TOKEN>
+				<TOKEN id="token-13-15" start_char="757" end_char="761">Amesh</TOKEN>
+				<TOKEN id="token-13-16" start_char="763" end_char="768">Adalja</TOKEN>
+				<TOKEN id="token-13-17" start_char="769" end_char="769">,</TOKEN>
+				<TOKEN id="token-13-18" start_char="771" end_char="772">an</TOKEN>
+				<TOKEN id="token-13-19" start_char="774" end_char="783">infectious</TOKEN>
+				<TOKEN id="token-13-20" start_char="785" end_char="791">disease</TOKEN>
+				<TOKEN id="token-13-21" start_char="793" end_char="801">physician</TOKEN>
+				<TOKEN id="token-13-22" start_char="803" end_char="805">and</TOKEN>
+				<TOKEN id="token-13-23" start_char="807" end_char="815">professor</TOKEN>
+				<TOKEN id="token-13-24" start_char="817" end_char="818">at</TOKEN>
+				<TOKEN id="token-13-25" start_char="820" end_char="822">the</TOKEN>
+				<TOKEN id="token-13-26" start_char="824" end_char="828">Johns</TOKEN>
+				<TOKEN id="token-13-27" start_char="830" end_char="836">Hopkins</TOKEN>
+				<TOKEN id="token-13-28" start_char="838" end_char="847">University</TOKEN>
+				<TOKEN id="token-13-29" start_char="848" end_char="848">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-239-14" start_char="850" end_char="887">
+				<ORIGINAL_TEXT>He said the claim is completely false.</ORIGINAL_TEXT>
+				<TOKEN id="token-14-0" start_char="850" end_char="851">He</TOKEN>
+				<TOKEN id="token-14-1" start_char="853" end_char="856">said</TOKEN>
+				<TOKEN id="token-14-2" start_char="858" end_char="860">the</TOKEN>
+				<TOKEN id="token-14-3" start_char="862" end_char="866">claim</TOKEN>
+				<TOKEN id="token-14-4" start_char="868" end_char="869">is</TOKEN>
+				<TOKEN id="token-14-5" start_char="871" end_char="880">completely</TOKEN>
+				<TOKEN id="token-14-6" start_char="882" end_char="886">false</TOKEN>
+				<TOKEN id="token-14-7" start_char="887" end_char="887">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-239-15" start_char="889" end_char="947">
+				<ORIGINAL_TEXT>&quot;The virus spreads through the respiratory route,&quot; he said.</ORIGINAL_TEXT>
+				<TOKEN id="token-15-0" start_char="889" end_char="889">&quot;</TOKEN>
+				<TOKEN id="token-15-1" start_char="890" end_char="892">The</TOKEN>
+				<TOKEN id="token-15-2" start_char="894" end_char="898">virus</TOKEN>
+				<TOKEN id="token-15-3" start_char="900" end_char="906">spreads</TOKEN>
+				<TOKEN id="token-15-4" start_char="908" end_char="914">through</TOKEN>
+				<TOKEN id="token-15-5" start_char="916" end_char="918">the</TOKEN>
+				<TOKEN id="token-15-6" start_char="920" end_char="930">respiratory</TOKEN>
+				<TOKEN id="token-15-7" start_char="932" end_char="936">route</TOKEN>
+				<TOKEN id="token-15-8" start_char="937" end_char="938">,&quot;</TOKEN>
+				<TOKEN id="token-15-9" start_char="940" end_char="941">he</TOKEN>
+				<TOKEN id="token-15-10" start_char="943" end_char="946">said</TOKEN>
+				<TOKEN id="token-15-11" start_char="947" end_char="947">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-239-16" start_char="949" end_char="994">
+				<ORIGINAL_TEXT>&quot;And droplets that are in coughs and sneezes.&quot;</ORIGINAL_TEXT>
+				<TOKEN id="token-16-0" start_char="949" end_char="949">&quot;</TOKEN>
+				<TOKEN id="token-16-1" start_char="950" end_char="952">And</TOKEN>
+				<TOKEN id="token-16-2" start_char="954" end_char="961">droplets</TOKEN>
+				<TOKEN id="token-16-3" start_char="963" end_char="966">that</TOKEN>
+				<TOKEN id="token-16-4" start_char="968" end_char="970">are</TOKEN>
+				<TOKEN id="token-16-5" start_char="972" end_char="973">in</TOKEN>
+				<TOKEN id="token-16-6" start_char="975" end_char="980">coughs</TOKEN>
+				<TOKEN id="token-16-7" start_char="982" end_char="984">and</TOKEN>
+				<TOKEN id="token-16-8" start_char="986" end_char="992">sneezes</TOKEN>
+				<TOKEN id="token-16-9" start_char="993" end_char="994">.&quot;</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-239-17" start_char="996" end_char="1077">
+				<ORIGINAL_TEXT>He said there is absolutely no evidence that this virus is a &quot;food-borne-illness.&quot;</ORIGINAL_TEXT>
+				<TOKEN id="token-17-0" start_char="996" end_char="997">He</TOKEN>
+				<TOKEN id="token-17-1" start_char="999" end_char="1002">said</TOKEN>
+				<TOKEN id="token-17-2" start_char="1004" end_char="1008">there</TOKEN>
+				<TOKEN id="token-17-3" start_char="1010" end_char="1011">is</TOKEN>
+				<TOKEN id="token-17-4" start_char="1013" end_char="1022">absolutely</TOKEN>
+				<TOKEN id="token-17-5" start_char="1024" end_char="1025">no</TOKEN>
+				<TOKEN id="token-17-6" start_char="1027" end_char="1034">evidence</TOKEN>
+				<TOKEN id="token-17-7" start_char="1036" end_char="1039">that</TOKEN>
+				<TOKEN id="token-17-8" start_char="1041" end_char="1044">this</TOKEN>
+				<TOKEN id="token-17-9" start_char="1046" end_char="1050">virus</TOKEN>
+				<TOKEN id="token-17-10" start_char="1052" end_char="1053">is</TOKEN>
+				<TOKEN id="token-17-11" start_char="1055" end_char="1055">a</TOKEN>
+				<TOKEN id="token-17-12" start_char="1057" end_char="1057">&quot;</TOKEN>
+				<TOKEN id="token-17-13" start_char="1058" end_char="1061">food</TOKEN>
+				<TOKEN id="token-17-14" start_char="1062" end_char="1062">-</TOKEN>
+				<TOKEN id="token-17-15" start_char="1063" end_char="1067">borne</TOKEN>
+				<TOKEN id="token-17-16" start_char="1068" end_char="1068">-</TOKEN>
+				<TOKEN id="token-17-17" start_char="1069" end_char="1075">illness</TOKEN>
+				<TOKEN id="token-17-18" start_char="1076" end_char="1077">.&quot;</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-239-18" start_char="1079" end_char="1201">
+				<ORIGINAL_TEXT>&quot;People's reaction to this virus has been outweighing the damage of the virus... especially in the United States,&quot; he said.</ORIGINAL_TEXT>
+				<TOKEN id="token-18-0" start_char="1079" end_char="1079">&quot;</TOKEN>
+				<TOKEN id="token-18-1" start_char="1080" end_char="1085">People</TOKEN>
+				<TOKEN id="token-18-2" start_char="1086" end_char="1086">'</TOKEN>
+				<TOKEN id="token-18-3" start_char="1087" end_char="1087">s</TOKEN>
+				<TOKEN id="token-18-4" start_char="1089" end_char="1096">reaction</TOKEN>
+				<TOKEN id="token-18-5" start_char="1098" end_char="1099">to</TOKEN>
+				<TOKEN id="token-18-6" start_char="1101" end_char="1104">this</TOKEN>
+				<TOKEN id="token-18-7" start_char="1106" end_char="1110">virus</TOKEN>
+				<TOKEN id="token-18-8" start_char="1112" end_char="1114">has</TOKEN>
+				<TOKEN id="token-18-9" start_char="1116" end_char="1119">been</TOKEN>
+				<TOKEN id="token-18-10" start_char="1121" end_char="1131">outweighing</TOKEN>
+				<TOKEN id="token-18-11" start_char="1133" end_char="1135">the</TOKEN>
+				<TOKEN id="token-18-12" start_char="1137" end_char="1142">damage</TOKEN>
+				<TOKEN id="token-18-13" start_char="1144" end_char="1145">of</TOKEN>
+				<TOKEN id="token-18-14" start_char="1147" end_char="1149">the</TOKEN>
+				<TOKEN id="token-18-15" start_char="1151" end_char="1155">virus</TOKEN>
+				<TOKEN id="token-18-16" start_char="1156" end_char="1158">...</TOKEN>
+				<TOKEN id="token-18-17" start_char="1160" end_char="1169">especially</TOKEN>
+				<TOKEN id="token-18-18" start_char="1171" end_char="1172">in</TOKEN>
+				<TOKEN id="token-18-19" start_char="1174" end_char="1176">the</TOKEN>
+				<TOKEN id="token-18-20" start_char="1178" end_char="1183">United</TOKEN>
+				<TOKEN id="token-18-21" start_char="1185" end_char="1190">States</TOKEN>
+				<TOKEN id="token-18-22" start_char="1191" end_char="1192">,&quot;</TOKEN>
+				<TOKEN id="token-18-23" start_char="1194" end_char="1195">he</TOKEN>
+				<TOKEN id="token-18-24" start_char="1197" end_char="1200">said</TOKEN>
+				<TOKEN id="token-18-25" start_char="1201" end_char="1201">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-239-19" start_char="1203" end_char="1242">
+				<ORIGINAL_TEXT>The Food and Drug Administration agreed.</ORIGINAL_TEXT>
+				<TOKEN id="token-19-0" start_char="1203" end_char="1205">The</TOKEN>
+				<TOKEN id="token-19-1" start_char="1207" end_char="1210">Food</TOKEN>
+				<TOKEN id="token-19-2" start_char="1212" end_char="1214">and</TOKEN>
+				<TOKEN id="token-19-3" start_char="1216" end_char="1219">Drug</TOKEN>
+				<TOKEN id="token-19-4" start_char="1221" end_char="1234">Administration</TOKEN>
+				<TOKEN id="token-19-5" start_char="1236" end_char="1241">agreed</TOKEN>
+				<TOKEN id="token-19-6" start_char="1242" end_char="1242">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-239-20" start_char="1244" end_char="1372">
+				<ORIGINAL_TEXT>&quot;There is no evidence of food or food packaging being associated with the transmission,&quot; the administration wrote in a statement.</ORIGINAL_TEXT>
+				<TOKEN id="token-20-0" start_char="1244" end_char="1244">&quot;</TOKEN>
+				<TOKEN id="token-20-1" start_char="1245" end_char="1249">There</TOKEN>
+				<TOKEN id="token-20-2" start_char="1251" end_char="1252">is</TOKEN>
+				<TOKEN id="token-20-3" start_char="1254" end_char="1255">no</TOKEN>
+				<TOKEN id="token-20-4" start_char="1257" end_char="1264">evidence</TOKEN>
+				<TOKEN id="token-20-5" start_char="1266" end_char="1267">of</TOKEN>
+				<TOKEN id="token-20-6" start_char="1269" end_char="1272">food</TOKEN>
+				<TOKEN id="token-20-7" start_char="1274" end_char="1275">or</TOKEN>
+				<TOKEN id="token-20-8" start_char="1277" end_char="1280">food</TOKEN>
+				<TOKEN id="token-20-9" start_char="1282" end_char="1290">packaging</TOKEN>
+				<TOKEN id="token-20-10" start_char="1292" end_char="1296">being</TOKEN>
+				<TOKEN id="token-20-11" start_char="1298" end_char="1307">associated</TOKEN>
+				<TOKEN id="token-20-12" start_char="1309" end_char="1312">with</TOKEN>
+				<TOKEN id="token-20-13" start_char="1314" end_char="1316">the</TOKEN>
+				<TOKEN id="token-20-14" start_char="1318" end_char="1329">transmission</TOKEN>
+				<TOKEN id="token-20-15" start_char="1330" end_char="1331">,&quot;</TOKEN>
+				<TOKEN id="token-20-16" start_char="1333" end_char="1335">the</TOKEN>
+				<TOKEN id="token-20-17" start_char="1337" end_char="1350">administration</TOKEN>
+				<TOKEN id="token-20-18" start_char="1352" end_char="1356">wrote</TOKEN>
+				<TOKEN id="token-20-19" start_char="1358" end_char="1359">in</TOKEN>
+				<TOKEN id="token-20-20" start_char="1361" end_char="1361">a</TOKEN>
+				<TOKEN id="token-20-21" start_char="1363" end_char="1371">statement</TOKEN>
+				<TOKEN id="token-20-22" start_char="1372" end_char="1372">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-239-21" start_char="1374" end_char="1410">
+				<ORIGINAL_TEXT>These online rumors are not harmless.</ORIGINAL_TEXT>
+				<TOKEN id="token-21-0" start_char="1374" end_char="1378">These</TOKEN>
+				<TOKEN id="token-21-1" start_char="1380" end_char="1385">online</TOKEN>
+				<TOKEN id="token-21-2" start_char="1387" end_char="1392">rumors</TOKEN>
+				<TOKEN id="token-21-3" start_char="1394" end_char="1396">are</TOKEN>
+				<TOKEN id="token-21-4" start_char="1398" end_char="1400">not</TOKEN>
+				<TOKEN id="token-21-5" start_char="1402" end_char="1409">harmless</TOKEN>
+				<TOKEN id="token-21-6" start_char="1410" end_char="1410">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-239-22" start_char="1412" end_char="1622">
+				<ORIGINAL_TEXT>The Centers for Disease Control and Prevention said that people of Chinese and Asian descent are &quot;facing stigma in their communities” due to the virus, including people avoiding their businesses or restaurants.&quot;</ORIGINAL_TEXT>
+				<TOKEN id="token-22-0" start_char="1412" end_char="1414">The</TOKEN>
+				<TOKEN id="token-22-1" start_char="1416" end_char="1422">Centers</TOKEN>
+				<TOKEN id="token-22-2" start_char="1424" end_char="1426">for</TOKEN>
+				<TOKEN id="token-22-3" start_char="1428" end_char="1434">Disease</TOKEN>
+				<TOKEN id="token-22-4" start_char="1436" end_char="1442">Control</TOKEN>
+				<TOKEN id="token-22-5" start_char="1444" end_char="1446">and</TOKEN>
+				<TOKEN id="token-22-6" start_char="1448" end_char="1457">Prevention</TOKEN>
+				<TOKEN id="token-22-7" start_char="1459" end_char="1462">said</TOKEN>
+				<TOKEN id="token-22-8" start_char="1464" end_char="1467">that</TOKEN>
+				<TOKEN id="token-22-9" start_char="1469" end_char="1474">people</TOKEN>
+				<TOKEN id="token-22-10" start_char="1476" end_char="1477">of</TOKEN>
+				<TOKEN id="token-22-11" start_char="1479" end_char="1485">Chinese</TOKEN>
+				<TOKEN id="token-22-12" start_char="1487" end_char="1489">and</TOKEN>
+				<TOKEN id="token-22-13" start_char="1491" end_char="1495">Asian</TOKEN>
+				<TOKEN id="token-22-14" start_char="1497" end_char="1503">descent</TOKEN>
+				<TOKEN id="token-22-15" start_char="1505" end_char="1507">are</TOKEN>
+				<TOKEN id="token-22-16" start_char="1509" end_char="1509">&quot;</TOKEN>
+				<TOKEN id="token-22-17" start_char="1510" end_char="1515">facing</TOKEN>
+				<TOKEN id="token-22-18" start_char="1517" end_char="1522">stigma</TOKEN>
+				<TOKEN id="token-22-19" start_char="1524" end_char="1525">in</TOKEN>
+				<TOKEN id="token-22-20" start_char="1527" end_char="1531">their</TOKEN>
+				<TOKEN id="token-22-21" start_char="1533" end_char="1543">communities</TOKEN>
+				<TOKEN id="token-22-22" start_char="1544" end_char="1544">”</TOKEN>
+				<TOKEN id="token-22-23" start_char="1546" end_char="1548">due</TOKEN>
+				<TOKEN id="token-22-24" start_char="1550" end_char="1551">to</TOKEN>
+				<TOKEN id="token-22-25" start_char="1553" end_char="1555">the</TOKEN>
+				<TOKEN id="token-22-26" start_char="1557" end_char="1561">virus</TOKEN>
+				<TOKEN id="token-22-27" start_char="1562" end_char="1562">,</TOKEN>
+				<TOKEN id="token-22-28" start_char="1564" end_char="1572">including</TOKEN>
+				<TOKEN id="token-22-29" start_char="1574" end_char="1579">people</TOKEN>
+				<TOKEN id="token-22-30" start_char="1581" end_char="1588">avoiding</TOKEN>
+				<TOKEN id="token-22-31" start_char="1590" end_char="1594">their</TOKEN>
+				<TOKEN id="token-22-32" start_char="1596" end_char="1605">businesses</TOKEN>
+				<TOKEN id="token-22-33" start_char="1607" end_char="1608">or</TOKEN>
+				<TOKEN id="token-22-34" start_char="1610" end_char="1620">restaurants</TOKEN>
+				<TOKEN id="token-22-35" start_char="1621" end_char="1622">.&quot;</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

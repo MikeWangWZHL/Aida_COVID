@@ -1,0 +1,102 @@
+T1	PER 0 8	Expertos
+T2	ORG 92 95	AFP
+T3	PER 368 376	expertos
+T4	PER 379 390	autoridades
+T5	ORG 416 427	AFP Factual
+T6	GPE 487 493	países
+T7	PER 600 607	PLÁTANO
+T8	GPE 639 650	CORONAVIRUS
+T9	LOC 763 770	potasio
+T10	ORG 984 992	Facebook
+T11	PER 1043 1065	Sudhansu Bhattacharyya
+T12	PER 1067 1073	médico
+T13	ORG 1078 1095	hospital Lilavati
+T14	GPE 1099 1105	Bombay
+T15	GPE 1107 1112	India
+T16	ORG 1186 1194	Facebook
+T17	ORG 1233 1281	Institutos Nacionales de Salud de Estados Unidos
+T18	ORG 1283 1286	NIH
+T19	PER 1539 1541	sí
+T20	PER 1731 1739	viróloga
+T21	PER 1740 1764	María Fernanda Gutiérrez
+T22	ORG 1772 1805	Universidad Javeriana de Colombia
+T23	ORG 1946 1957	publicación
+T24	PER 2113 2116	sus
+T25	PER 2299 2308	Gutiérrez
+T26	PER 2314 2316	su
+T27	PER 2324 2341	Giovanny Garavito
+T28	PER 2343 2351	profesor
+T29	ORG 2356 2380	Departamento de Farmacia
+T30	ORG 2387 2419	Universidad Nacional de Colombia
+T31	ORG 2439 2444	grupo
+T32	ORG 2448 2455	FaMeTra
+T33	ORG 2458 2507	Farmacología de la Medicina Tradicional y Popular
+T34	PER 3085 3087	su
+T35	PER 3269 3278	Gutiérrez
+T36	PER 3724 3733	Gutiérrez
+T37	ORG 3782 3814	Organización Mundial de la Salud
+T38	ORG 3816 3819	OMS
+T39	ORG 4194 4206	organización
+T40	PER 4437 4439	se
+T41	PER 4462 4469	persona
+T42	PER 4494 4496	su
+T43	ORG 4687 4698	AFP Factual
+T44	PER 4699 4723	Antonio Castillo Carrera
+T45	PER 4725 4731	decano
+T46	ORG 4736 4769	Colegio de Nutricionistas de Perú
+T47	PER 4771 4779	Garavito
+T48	PER 4793 4801	Castillo
+T49	PER 5102 5115	publicaciones
+T50	PER 5244 5252	expertos
+T51	ORG 5376 5439	Centro Nacional de Información Biotecnológica de Estados Unidos
+T52	PER 5536 5544	nuestros
+T53	PER 5657 5665	Garativo
+T54	PER 5667 5672	quien
+T55	PER 5851 5856	pares
+T56	MHI 6025 6028	VIH
+T57	MHI 6102 6105	VIH
+T58	PER 6108 6110	su
+T59	PER 6368 6376	viróloga
+T60	PER 6377 6386	Gutiérrez
+T61	PER 6400 6408	Garativo
+T62	PER 6826 6837	autoridades
+T63	PER 6840 6848	expertos
+T64	ORG 7081 7114	Oficina de Suplementos Dietéticos
+T65	ORG 7116 7119	ODS
+T66	ORG 7128 7131	NIH
+T67	PER 7361 7369	viróloga
+T68	PER 7370 7379	Gutiérrez
+T69	ORG 7385 7458	Centros para el Control y la Prevención de Enfermedades de Estados Unidos
+T70	ORG 7460 7463	CDC
+T71	PER 7800 7808	sí mismo
+T72	ORG 7924 7973	Biblioteca Nacional de Medicina de Estados Unidos
+T73	ORG 7974 7977	que
+T74	PER 8066 8075	Gutiérrez
+T75	PER 8661 8669	Garavito
+T76	PER 8939 8952	Bhattacharyya
+T77	PER 8957 8965	cirujano
+T78	ORG 8991 8997	Google
+T79	PER 9023 9045	Sudhansu Bhattacharyya
+T80	ORG 9052 9060	hospital
+T81	PER 9085 9091	médico
+T82	ORG 9116 9122	centro
+T83	ORG 9162 9170	hospital
+T84	ORG 9173 9179	centro
+T85	ORG 9197 9205	Lilavati
+T86	PER 9207 9220	Bhattacharyya
+T87	ORG 9234 9283	Departamento de Cirugía Cardiovascular y Torácica
+T88	ORG 9310 9315	ellos
+T89	PER 9371 9373	su
+T90	PER 9429 9431	su
+T91	ORG 9511 9521	plataforma
+T92	GPE 9528 9533	India
+T93	GPE 9565 9569	país
+T94	PER 9582 9595	Bhattacharyya
+T95	PER 9600 9603	uno
+T96	PER 9619 9628	cirujanos
+T97	GPE 9642 9648	Bombay
+T98	ORG 9651 9662	AFP Factual
+T99	PER 9690 9696	médico
+T100	ORG 9706 9714	hospital
+T101	PER 9799 9807	expertos
+T102	PER 9810 9821	autoridades

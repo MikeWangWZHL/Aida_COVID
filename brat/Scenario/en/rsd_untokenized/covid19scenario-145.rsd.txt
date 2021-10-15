@@ -1,0 +1,23 @@
+A clinical hold on a potential treatment for COVID-19 is becoming political.
+The U.S. Food and Drug Administration (FDA) placed a hold on the Emergency Use Authorization for convalescent plasma as a potential treatment for COVID-19 over what was described as a lack of robust data supporting its use.
+Some small studies have demonstrated the potential for convalescent plasma in treating COVID-19 patients, but there are also some contradictory studies as well.
+First reported by The New York Times, the hold was placed after senior U.S. public health policy officials in charge of the national COVID-19 response, including National Institutes of Health Director Francis Collins, National Institute of Allergy and Infectious Diseases Director Anthony Fauci and Clifford Lane, NIAID deputy director, argued the emerging data was not strong enough to support approval under EUA.
+"The three of us are pretty aligned on the importance of robust data through randomized control trials, and that a pandemic does not change that," Lane told the Times, as reported by CNN.
+Convalescent plasma is collected from patients who have recovered from a virus such as the novel coronavirus that causes COVID-19.
+The idea is that the plasma, which contains antibodies against the virus, will be administered into patients who are critically ill.
+In March, the FDA created a pathway with strict guidelines for physicians to use convalescent plasma on seriously ill COVID-19 patients.
+That pathway is still available for physicians to use should they deem it necessary, but the granting of a broader EUA is still up for debate – and that is not sitting well with President Donald Trump.
+During a press briefing Wednesday, Trump questioned whether or not the decision to withhold EUA was political, rather than clinical.
+“I hear great things about it ... that’s all I can tell you,” Trump said, according to CNBC.
+“It could be a political decision because you have a lot of people over there who don’t want to rush things because they want to do it after Nov. 3, and you’ve heard that one before.”
+
+Trump added that he heard convalescent plasma was “good” from “people at the FDA” and said it should be approved “if it’s good.” He stated that success rates from the use of convalescent plasma are “way over” 50% and urged approval of the plasma treatment.
+In July, the National Institute of Health updated its treatment guidelines which suggest there is “insufficient data” to support convalescent plasma as an approved treatment for COVID-19, CNBC said.
+That guideline could change as there are multiple convalescent plasma clinical studies being conducted across the globe.
+Takeda Pharmaceutical is known to be working on developing a treatment for COVID-19 from the blood of patients who have recovered.
+Takeda’s TAK-888 is an anti-SARS-CoV-2 polyclonal hyperimmune globulin currently in development to treat high-risk individuals with COVID-19.
+The state of New York, which was the U.S. epicenter for COVID-19 in the spring, initiated a clinical trial to study the efficacy of the blood-based treatment.
+This week, the U.S. Department of Defense awarded Plasma Technologies a $750,000 contract to scale up convalescent plasma as a potential COVID-19 treatment.
+The use of convalescent plasma has been studied in outbreaks of other respiratory infections, including the 2009-2010 H1N1 influenza virus pandemic, 2003 SARS-CoV-1 epidemic, and the 2012 MERS-CoV epidemic.
+“Although promising, convalescent plasma has not been shown to be effective in every disease studied.
+It is therefore important to determine through clinical trials, before routinely administering convalescent plasma to patients with COVID-19, that it is safe and effective to do so,” the FDA said in its guidance back in March.

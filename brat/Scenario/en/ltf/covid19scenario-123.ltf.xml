@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-123">
+		<TEXT>
+			<SEG id="covid19scenario-123-0" start_char="0" end_char="6">
+				<ORIGINAL_TEXT>Summary</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="6">Summary</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-123-1" start_char="8" end_char="103">
+				<ORIGINAL_TEXT>The Coronavirus may be caused by a US biological attack that targeted China first and then Iran.</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="8" end_char="10">The</TOKEN>
+				<TOKEN id="token-1-1" start_char="12" end_char="22">Coronavirus</TOKEN>
+				<TOKEN id="token-1-2" start_char="24" end_char="26">may</TOKEN>
+				<TOKEN id="token-1-3" start_char="28" end_char="29">be</TOKEN>
+				<TOKEN id="token-1-4" start_char="31" end_char="36">caused</TOKEN>
+				<TOKEN id="token-1-5" start_char="38" end_char="39">by</TOKEN>
+				<TOKEN id="token-1-6" start_char="41" end_char="41">a</TOKEN>
+				<TOKEN id="token-1-7" start_char="43" end_char="44">US</TOKEN>
+				<TOKEN id="token-1-8" start_char="46" end_char="55">biological</TOKEN>
+				<TOKEN id="token-1-9" start_char="57" end_char="62">attack</TOKEN>
+				<TOKEN id="token-1-10" start_char="64" end_char="67">that</TOKEN>
+				<TOKEN id="token-1-11" start_char="69" end_char="76">targeted</TOKEN>
+				<TOKEN id="token-1-12" start_char="78" end_char="82">China</TOKEN>
+				<TOKEN id="token-1-13" start_char="84" end_char="88">first</TOKEN>
+				<TOKEN id="token-1-14" start_char="90" end_char="92">and</TOKEN>
+				<TOKEN id="token-1-15" start_char="94" end_char="97">then</TOKEN>
+				<TOKEN id="token-1-16" start_char="99" end_char="102">Iran</TOKEN>
+				<TOKEN id="token-1-17" start_char="103" end_char="103">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-123-2" start_char="105" end_char="319">
+				<ORIGINAL_TEXT>There are great scientists who confirmed this concept (biological attack), including the Russian biological scientist Igor (Nikulin) who emphasised that this is not a normal virus and was formulated in laboratories.</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="105" end_char="109">There</TOKEN>
+				<TOKEN id="token-2-1" start_char="111" end_char="113">are</TOKEN>
+				<TOKEN id="token-2-2" start_char="115" end_char="119">great</TOKEN>
+				<TOKEN id="token-2-3" start_char="121" end_char="130">scientists</TOKEN>
+				<TOKEN id="token-2-4" start_char="132" end_char="134">who</TOKEN>
+				<TOKEN id="token-2-5" start_char="136" end_char="144">confirmed</TOKEN>
+				<TOKEN id="token-2-6" start_char="146" end_char="149">this</TOKEN>
+				<TOKEN id="token-2-7" start_char="151" end_char="157">concept</TOKEN>
+				<TOKEN id="token-2-8" start_char="159" end_char="159">(</TOKEN>
+				<TOKEN id="token-2-9" start_char="160" end_char="169">biological</TOKEN>
+				<TOKEN id="token-2-10" start_char="171" end_char="176">attack</TOKEN>
+				<TOKEN id="token-2-11" start_char="177" end_char="178">),</TOKEN>
+				<TOKEN id="token-2-12" start_char="180" end_char="188">including</TOKEN>
+				<TOKEN id="token-2-13" start_char="190" end_char="192">the</TOKEN>
+				<TOKEN id="token-2-14" start_char="194" end_char="200">Russian</TOKEN>
+				<TOKEN id="token-2-15" start_char="202" end_char="211">biological</TOKEN>
+				<TOKEN id="token-2-16" start_char="213" end_char="221">scientist</TOKEN>
+				<TOKEN id="token-2-17" start_char="223" end_char="226">Igor</TOKEN>
+				<TOKEN id="token-2-18" start_char="228" end_char="228">(</TOKEN>
+				<TOKEN id="token-2-19" start_char="229" end_char="235">Nikulin</TOKEN>
+				<TOKEN id="token-2-20" start_char="236" end_char="236">)</TOKEN>
+				<TOKEN id="token-2-21" start_char="238" end_char="240">who</TOKEN>
+				<TOKEN id="token-2-22" start_char="242" end_char="251">emphasised</TOKEN>
+				<TOKEN id="token-2-23" start_char="253" end_char="256">that</TOKEN>
+				<TOKEN id="token-2-24" start_char="258" end_char="261">this</TOKEN>
+				<TOKEN id="token-2-25" start_char="263" end_char="264">is</TOKEN>
+				<TOKEN id="token-2-26" start_char="266" end_char="268">not</TOKEN>
+				<TOKEN id="token-2-27" start_char="270" end_char="270">a</TOKEN>
+				<TOKEN id="token-2-28" start_char="272" end_char="277">normal</TOKEN>
+				<TOKEN id="token-2-29" start_char="279" end_char="283">virus</TOKEN>
+				<TOKEN id="token-2-30" start_char="285" end_char="287">and</TOKEN>
+				<TOKEN id="token-2-31" start_char="289" end_char="291">was</TOKEN>
+				<TOKEN id="token-2-32" start_char="293" end_char="302">formulated</TOKEN>
+				<TOKEN id="token-2-33" start_char="304" end_char="305">in</TOKEN>
+				<TOKEN id="token-2-34" start_char="307" end_char="318">laboratories</TOKEN>
+				<TOKEN id="token-2-35" start_char="319" end_char="319">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-123-3" start_char="321" end_char="392">
+				<ORIGINAL_TEXT>The US has 25 dangerous laboratories surrounding China, Russia and Iran.</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="321" end_char="323">The</TOKEN>
+				<TOKEN id="token-3-1" start_char="325" end_char="326">US</TOKEN>
+				<TOKEN id="token-3-2" start_char="328" end_char="330">has</TOKEN>
+				<TOKEN id="token-3-3" start_char="332" end_char="333">25</TOKEN>
+				<TOKEN id="token-3-4" start_char="335" end_char="343">dangerous</TOKEN>
+				<TOKEN id="token-3-5" start_char="345" end_char="356">laboratories</TOKEN>
+				<TOKEN id="token-3-6" start_char="358" end_char="368">surrounding</TOKEN>
+				<TOKEN id="token-3-7" start_char="370" end_char="374">China</TOKEN>
+				<TOKEN id="token-3-8" start_char="375" end_char="375">,</TOKEN>
+				<TOKEN id="token-3-9" start_char="377" end_char="382">Russia</TOKEN>
+				<TOKEN id="token-3-10" start_char="384" end_char="386">and</TOKEN>
+				<TOKEN id="token-3-11" start_char="388" end_char="391">Iran</TOKEN>
+				<TOKEN id="token-3-12" start_char="392" end_char="392">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-123-4" start_char="394" end_char="519">
+				<ORIGINAL_TEXT>Even in American films, we see that the American administration carries about experiments and testing on Americans themselves.</ORIGINAL_TEXT>
+				<TOKEN id="token-4-0" start_char="394" end_char="397">Even</TOKEN>
+				<TOKEN id="token-4-1" start_char="399" end_char="400">in</TOKEN>
+				<TOKEN id="token-4-2" start_char="402" end_char="409">American</TOKEN>
+				<TOKEN id="token-4-3" start_char="411" end_char="415">films</TOKEN>
+				<TOKEN id="token-4-4" start_char="416" end_char="416">,</TOKEN>
+				<TOKEN id="token-4-5" start_char="418" end_char="419">we</TOKEN>
+				<TOKEN id="token-4-6" start_char="421" end_char="423">see</TOKEN>
+				<TOKEN id="token-4-7" start_char="425" end_char="428">that</TOKEN>
+				<TOKEN id="token-4-8" start_char="430" end_char="432">the</TOKEN>
+				<TOKEN id="token-4-9" start_char="434" end_char="441">American</TOKEN>
+				<TOKEN id="token-4-10" start_char="443" end_char="456">administration</TOKEN>
+				<TOKEN id="token-4-11" start_char="458" end_char="464">carries</TOKEN>
+				<TOKEN id="token-4-12" start_char="466" end_char="470">about</TOKEN>
+				<TOKEN id="token-4-13" start_char="472" end_char="482">experiments</TOKEN>
+				<TOKEN id="token-4-14" start_char="484" end_char="486">and</TOKEN>
+				<TOKEN id="token-4-15" start_char="488" end_char="494">testing</TOKEN>
+				<TOKEN id="token-4-16" start_char="496" end_char="497">on</TOKEN>
+				<TOKEN id="token-4-17" start_char="499" end_char="507">Americans</TOKEN>
+				<TOKEN id="token-4-18" start_char="509" end_char="518">themselves</TOKEN>
+				<TOKEN id="token-4-19" start_char="519" end_char="519">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-123-5" start_char="521" end_char="764">
+				<ORIGINAL_TEXT>It’s quite possible that Europe and America will gradually reveal the fact that they already possess a vaccine (for the Coronavirus), but are just waiting for the price to be raised in order to make more money by using it later on commercially.</ORIGINAL_TEXT>
+				<TOKEN id="token-5-0" start_char="521" end_char="522">It</TOKEN>
+				<TOKEN id="token-5-1" start_char="523" end_char="523">’</TOKEN>
+				<TOKEN id="token-5-2" start_char="524" end_char="524">s</TOKEN>
+				<TOKEN id="token-5-3" start_char="526" end_char="530">quite</TOKEN>
+				<TOKEN id="token-5-4" start_char="532" end_char="539">possible</TOKEN>
+				<TOKEN id="token-5-5" start_char="541" end_char="544">that</TOKEN>
+				<TOKEN id="token-5-6" start_char="546" end_char="551">Europe</TOKEN>
+				<TOKEN id="token-5-7" start_char="553" end_char="555">and</TOKEN>
+				<TOKEN id="token-5-8" start_char="557" end_char="563">America</TOKEN>
+				<TOKEN id="token-5-9" start_char="565" end_char="568">will</TOKEN>
+				<TOKEN id="token-5-10" start_char="570" end_char="578">gradually</TOKEN>
+				<TOKEN id="token-5-11" start_char="580" end_char="585">reveal</TOKEN>
+				<TOKEN id="token-5-12" start_char="587" end_char="589">the</TOKEN>
+				<TOKEN id="token-5-13" start_char="591" end_char="594">fact</TOKEN>
+				<TOKEN id="token-5-14" start_char="596" end_char="599">that</TOKEN>
+				<TOKEN id="token-5-15" start_char="601" end_char="604">they</TOKEN>
+				<TOKEN id="token-5-16" start_char="606" end_char="612">already</TOKEN>
+				<TOKEN id="token-5-17" start_char="614" end_char="620">possess</TOKEN>
+				<TOKEN id="token-5-18" start_char="622" end_char="622">a</TOKEN>
+				<TOKEN id="token-5-19" start_char="624" end_char="630">vaccine</TOKEN>
+				<TOKEN id="token-5-20" start_char="632" end_char="632">(</TOKEN>
+				<TOKEN id="token-5-21" start_char="633" end_char="635">for</TOKEN>
+				<TOKEN id="token-5-22" start_char="637" end_char="639">the</TOKEN>
+				<TOKEN id="token-5-23" start_char="641" end_char="651">Coronavirus</TOKEN>
+				<TOKEN id="token-5-24" start_char="652" end_char="653">),</TOKEN>
+				<TOKEN id="token-5-25" start_char="655" end_char="657">but</TOKEN>
+				<TOKEN id="token-5-26" start_char="659" end_char="661">are</TOKEN>
+				<TOKEN id="token-5-27" start_char="663" end_char="666">just</TOKEN>
+				<TOKEN id="token-5-28" start_char="668" end_char="674">waiting</TOKEN>
+				<TOKEN id="token-5-29" start_char="676" end_char="678">for</TOKEN>
+				<TOKEN id="token-5-30" start_char="680" end_char="682">the</TOKEN>
+				<TOKEN id="token-5-31" start_char="684" end_char="688">price</TOKEN>
+				<TOKEN id="token-5-32" start_char="690" end_char="691">to</TOKEN>
+				<TOKEN id="token-5-33" start_char="693" end_char="694">be</TOKEN>
+				<TOKEN id="token-5-34" start_char="696" end_char="701">raised</TOKEN>
+				<TOKEN id="token-5-35" start_char="703" end_char="704">in</TOKEN>
+				<TOKEN id="token-5-36" start_char="706" end_char="710">order</TOKEN>
+				<TOKEN id="token-5-37" start_char="712" end_char="713">to</TOKEN>
+				<TOKEN id="token-5-38" start_char="715" end_char="718">make</TOKEN>
+				<TOKEN id="token-5-39" start_char="720" end_char="723">more</TOKEN>
+				<TOKEN id="token-5-40" start_char="725" end_char="729">money</TOKEN>
+				<TOKEN id="token-5-41" start_char="731" end_char="732">by</TOKEN>
+				<TOKEN id="token-5-42" start_char="734" end_char="738">using</TOKEN>
+				<TOKEN id="token-5-43" start_char="740" end_char="741">it</TOKEN>
+				<TOKEN id="token-5-44" start_char="743" end_char="747">later</TOKEN>
+				<TOKEN id="token-5-45" start_char="749" end_char="750">on</TOKEN>
+				<TOKEN id="token-5-46" start_char="752" end_char="763">commercially</TOKEN>
+				<TOKEN id="token-5-47" start_char="764" end_char="764">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

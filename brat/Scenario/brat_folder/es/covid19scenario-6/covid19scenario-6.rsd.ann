@@ -1,0 +1,26 @@
+T1	PER 25 33	personas
+T2	MHI 173 183	enfermedad
+T3	PER 282 289	humanos
+T4	ORG 344 353	coalición
+T5	PER 357 371	investigadores
+T6	LOC 372 380	europeos
+T7	ORG 473 517	International Journal of Infectious Diseases
+T8	MHI 556 568	enfermedades
+T9	FAC 1043 1054	laboratorio
+T10	PER 1065 1077	Denis Kainov
+T11	PER 1079 1086	coautor
+T12	ORG 1116 1159	Universidad Noruega de Ciencia y Tecnología
+T13	ORG 1161 1165	NTNU
+T14	PER 1168 1174	Kainov
+T15	PER 1177 1180	sus
+T16	PER 1181 1194	colaboradores
+T17	PER 1362 1365	ser
+T18	MHI 1640 1650	enfermedad
+T19	MHI 1942 1950	dolencia
+T20	PER 2082 2085	ser
+T21	PER 2395 2402	autores
+T22	PER 2420 2434	investigadores
+T23	MHI 2796 2806	enfermedad
+T24	PER 2849 2863	investigadores
+T25	PER 2958 2968	candidatos
+T26	ORG 3039 3043	NCYT

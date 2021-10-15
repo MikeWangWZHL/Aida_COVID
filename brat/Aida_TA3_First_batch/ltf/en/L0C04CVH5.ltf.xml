@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="spa">
+<DOC id="L0C04CVH5" lang="spa" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="4414" raw_text_md5="03ae4188004d1758c9710e5a829dd490">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="80">
+<ORIGINAL_TEXT>No, There Will NOT a Travel Ban Between New Jersey &amp;amp;amp; New York This Month</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="2">No</TOKEN>
+<TOKEN id="token-0-1" pos="punct" morph="none" start_char="3" end_char="3">,</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="5" end_char="9">There</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="11" end_char="14">Will</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="16" end_char="18">NOT</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="20" end_char="20">a</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="22" end_char="27">Travel</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="29" end_char="31">Ban</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="33" end_char="39">Between</TOKEN>
+<TOKEN id="token-0-9" pos="word" morph="none" start_char="41" end_char="43">New</TOKEN>
+<TOKEN id="token-0-10" pos="word" morph="none" start_char="45" end_char="50">Jersey</TOKEN>
+<TOKEN id="token-0-11" pos="punct" morph="none" start_char="52" end_char="52">&amp;</TOKEN>
+<TOKEN id="token-0-12" pos="unknown" morph="none" start_char="53" end_char="59">amp;amp</TOKEN>
+<TOKEN id="token-0-13" pos="punct" morph="none" start_char="60" end_char="60">;</TOKEN>
+<TOKEN id="token-0-14" pos="word" morph="none" start_char="62" end_char="64">New</TOKEN>
+<TOKEN id="token-0-15" pos="word" morph="none" start_char="66" end_char="69">York</TOKEN>
+<TOKEN id="token-0-16" pos="word" morph="none" start_char="71" end_char="74">This</TOKEN>
+<TOKEN id="token-0-17" pos="word" morph="none" start_char="76" end_char="80">Month</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="84" end_char="220">
+<ORIGINAL_TEXT>NO travel ban between New York state and New Jersey has been planned, despite any internet rumors you may have read suggesting otherwise.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="84" end_char="85">NO</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="87" end_char="92">travel</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="94" end_char="96">ban</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="98" end_char="104">between</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="106" end_char="108">New</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="110" end_char="113">York</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="115" end_char="119">state</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="121" end_char="123">and</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="125" end_char="127">New</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="129" end_char="134">Jersey</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="136" end_char="138">has</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="140" end_char="143">been</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="145" end_char="151">planned</TOKEN>
+<TOKEN id="token-1-13" pos="punct" morph="none" start_char="152" end_char="152">,</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="154" end_char="160">despite</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="162" end_char="164">any</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="166" end_char="173">internet</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="175" end_char="180">rumors</TOKEN>
+<TOKEN id="token-1-18" pos="word" morph="none" start_char="182" end_char="184">you</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="186" end_char="188">may</TOKEN>
+<TOKEN id="token-1-20" pos="word" morph="none" start_char="190" end_char="193">have</TOKEN>
+<TOKEN id="token-1-21" pos="word" morph="none" start_char="195" end_char="198">read</TOKEN>
+<TOKEN id="token-1-22" pos="word" morph="none" start_char="200" end_char="209">suggesting</TOKEN>
+<TOKEN id="token-1-23" pos="word" morph="none" start_char="211" end_char="219">otherwise</TOKEN>
+<TOKEN id="token-1-24" pos="punct" morph="none" start_char="220" end_char="220">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="223" end_char="401">
+<ORIGINAL_TEXT>New Jersey’s Office of Homeland Security and Preparedness issued a statement about a bogus letter, which has reportedly made its rounds on the web to remind us that it’s not true.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="223" end_char="225">New</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="227" end_char="234">Jersey’s</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="236" end_char="241">Office</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="243" end_char="244">of</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="246" end_char="253">Homeland</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="255" end_char="262">Security</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="264" end_char="266">and</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="268" end_char="279">Preparedness</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="281" end_char="286">issued</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="288" end_char="288">a</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="290" end_char="298">statement</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="300" end_char="304">about</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="306" end_char="306">a</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="308" end_char="312">bogus</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="314" end_char="319">letter</TOKEN>
+<TOKEN id="token-2-15" pos="punct" morph="none" start_char="320" end_char="320">,</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="322" end_char="326">which</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="328" end_char="330">has</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="332" end_char="341">reportedly</TOKEN>
+<TOKEN id="token-2-19" pos="word" morph="none" start_char="343" end_char="346">made</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="348" end_char="350">its</TOKEN>
+<TOKEN id="token-2-21" pos="word" morph="none" start_char="352" end_char="357">rounds</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="359" end_char="360">on</TOKEN>
+<TOKEN id="token-2-23" pos="word" morph="none" start_char="362" end_char="364">the</TOKEN>
+<TOKEN id="token-2-24" pos="word" morph="none" start_char="366" end_char="368">web</TOKEN>
+<TOKEN id="token-2-25" pos="word" morph="none" start_char="370" end_char="371">to</TOKEN>
+<TOKEN id="token-2-26" pos="word" morph="none" start_char="373" end_char="378">remind</TOKEN>
+<TOKEN id="token-2-27" pos="word" morph="none" start_char="380" end_char="381">us</TOKEN>
+<TOKEN id="token-2-28" pos="word" morph="none" start_char="383" end_char="386">that</TOKEN>
+<TOKEN id="token-2-29" pos="word" morph="none" start_char="388" end_char="391">it’s</TOKEN>
+<TOKEN id="token-2-30" pos="word" morph="none" start_char="393" end_char="395">not</TOKEN>
+<TOKEN id="token-2-31" pos="word" morph="none" start_char="397" end_char="400">true</TOKEN>
+<TOKEN id="token-2-32" pos="punct" morph="none" start_char="401" end_char="401">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="404" end_char="687">
+<ORIGINAL_TEXT>The bogus letter, which appears to have seals of several government agencies (including the New Jersey State Police, the Department of Homeland Security, and more) alleges that "as of May 10, New York residents will not be permitted to enter New Jersey due to the spread of COVID-19."</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="404" end_char="406">The</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="408" end_char="412">bogus</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="414" end_char="419">letter</TOKEN>
+<TOKEN id="token-3-3" pos="punct" morph="none" start_char="420" end_char="420">,</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="422" end_char="426">which</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="428" end_char="434">appears</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="436" end_char="437">to</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="439" end_char="442">have</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="444" end_char="448">seals</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="450" end_char="451">of</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="453" end_char="459">several</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="461" end_char="470">government</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="472" end_char="479">agencies</TOKEN>
+<TOKEN id="token-3-13" pos="punct" morph="none" start_char="481" end_char="481">(</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="482" end_char="490">including</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="492" end_char="494">the</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="496" end_char="498">New</TOKEN>
+<TOKEN id="token-3-17" pos="word" morph="none" start_char="500" end_char="505">Jersey</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="507" end_char="511">State</TOKEN>
+<TOKEN id="token-3-19" pos="word" morph="none" start_char="513" end_char="518">Police</TOKEN>
+<TOKEN id="token-3-20" pos="punct" morph="none" start_char="519" end_char="519">,</TOKEN>
+<TOKEN id="token-3-21" pos="word" morph="none" start_char="521" end_char="523">the</TOKEN>
+<TOKEN id="token-3-22" pos="word" morph="none" start_char="525" end_char="534">Department</TOKEN>
+<TOKEN id="token-3-23" pos="word" morph="none" start_char="536" end_char="537">of</TOKEN>
+<TOKEN id="token-3-24" pos="word" morph="none" start_char="539" end_char="546">Homeland</TOKEN>
+<TOKEN id="token-3-25" pos="word" morph="none" start_char="548" end_char="555">Security</TOKEN>
+<TOKEN id="token-3-26" pos="punct" morph="none" start_char="556" end_char="556">,</TOKEN>
+<TOKEN id="token-3-27" pos="word" morph="none" start_char="558" end_char="560">and</TOKEN>
+<TOKEN id="token-3-28" pos="word" morph="none" start_char="562" end_char="565">more</TOKEN>
+<TOKEN id="token-3-29" pos="punct" morph="none" start_char="566" end_char="566">)</TOKEN>
+<TOKEN id="token-3-30" pos="word" morph="none" start_char="568" end_char="574">alleges</TOKEN>
+<TOKEN id="token-3-31" pos="word" morph="none" start_char="576" end_char="579">that</TOKEN>
+<TOKEN id="token-3-32" pos="punct" morph="none" start_char="581" end_char="581">"</TOKEN>
+<TOKEN id="token-3-33" pos="word" morph="none" start_char="582" end_char="583">as</TOKEN>
+<TOKEN id="token-3-34" pos="word" morph="none" start_char="585" end_char="586">of</TOKEN>
+<TOKEN id="token-3-35" pos="word" morph="none" start_char="588" end_char="590">May</TOKEN>
+<TOKEN id="token-3-36" pos="word" morph="none" start_char="592" end_char="593">10</TOKEN>
+<TOKEN id="token-3-37" pos="punct" morph="none" start_char="594" end_char="594">,</TOKEN>
+<TOKEN id="token-3-38" pos="word" morph="none" start_char="596" end_char="598">New</TOKEN>
+<TOKEN id="token-3-39" pos="word" morph="none" start_char="600" end_char="603">York</TOKEN>
+<TOKEN id="token-3-40" pos="word" morph="none" start_char="605" end_char="613">residents</TOKEN>
+<TOKEN id="token-3-41" pos="word" morph="none" start_char="615" end_char="618">will</TOKEN>
+<TOKEN id="token-3-42" pos="word" morph="none" start_char="620" end_char="622">not</TOKEN>
+<TOKEN id="token-3-43" pos="word" morph="none" start_char="624" end_char="625">be</TOKEN>
+<TOKEN id="token-3-44" pos="word" morph="none" start_char="627" end_char="635">permitted</TOKEN>
+<TOKEN id="token-3-45" pos="word" morph="none" start_char="637" end_char="638">to</TOKEN>
+<TOKEN id="token-3-46" pos="word" morph="none" start_char="640" end_char="644">enter</TOKEN>
+<TOKEN id="token-3-47" pos="word" morph="none" start_char="646" end_char="648">New</TOKEN>
+<TOKEN id="token-3-48" pos="word" morph="none" start_char="650" end_char="655">Jersey</TOKEN>
+<TOKEN id="token-3-49" pos="word" morph="none" start_char="657" end_char="659">due</TOKEN>
+<TOKEN id="token-3-50" pos="word" morph="none" start_char="661" end_char="662">to</TOKEN>
+<TOKEN id="token-3-51" pos="word" morph="none" start_char="664" end_char="666">the</TOKEN>
+<TOKEN id="token-3-52" pos="word" morph="none" start_char="668" end_char="673">spread</TOKEN>
+<TOKEN id="token-3-53" pos="word" morph="none" start_char="675" end_char="676">of</TOKEN>
+<TOKEN id="token-3-54" pos="unknown" morph="none" start_char="678" end_char="685">COVID-19</TOKEN>
+<TOKEN id="token-3-55" pos="punct" morph="none" start_char="686" end_char="687">."</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="690" end_char="731">
+<ORIGINAL_TEXT>New Jersey Department of Homeland Security</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="690" end_char="692">New</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="694" end_char="699">Jersey</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="701" end_char="710">Department</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="712" end_char="713">of</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="715" end_char="722">Homeland</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="724" end_char="731">Security</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="735" end_char="903">
+<ORIGINAL_TEXT>The warning letter (which has a lot of typos, by the way) says that those who cannot provide a New Jersey ID will be "taken into custody, and escorted back to New York."</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="735" end_char="737">The</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="739" end_char="745">warning</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="747" end_char="752">letter</TOKEN>
+<TOKEN id="token-5-3" pos="punct" morph="none" start_char="754" end_char="754">(</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="755" end_char="759">which</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="761" end_char="763">has</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="765" end_char="765">a</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="767" end_char="769">lot</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="771" end_char="772">of</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="774" end_char="778">typos</TOKEN>
+<TOKEN id="token-5-10" pos="punct" morph="none" start_char="779" end_char="779">,</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="781" end_char="782">by</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="784" end_char="786">the</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="788" end_char="790">way</TOKEN>
+<TOKEN id="token-5-14" pos="punct" morph="none" start_char="791" end_char="791">)</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="793" end_char="796">says</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="798" end_char="801">that</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="803" end_char="807">those</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="809" end_char="811">who</TOKEN>
+<TOKEN id="token-5-19" pos="word" morph="none" start_char="813" end_char="818">cannot</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="820" end_char="826">provide</TOKEN>
+<TOKEN id="token-5-21" pos="word" morph="none" start_char="828" end_char="828">a</TOKEN>
+<TOKEN id="token-5-22" pos="word" morph="none" start_char="830" end_char="832">New</TOKEN>
+<TOKEN id="token-5-23" pos="word" morph="none" start_char="834" end_char="839">Jersey</TOKEN>
+<TOKEN id="token-5-24" pos="word" morph="none" start_char="841" end_char="842">ID</TOKEN>
+<TOKEN id="token-5-25" pos="word" morph="none" start_char="844" end_char="847">will</TOKEN>
+<TOKEN id="token-5-26" pos="word" morph="none" start_char="849" end_char="850">be</TOKEN>
+<TOKEN id="token-5-27" pos="punct" morph="none" start_char="852" end_char="852">"</TOKEN>
+<TOKEN id="token-5-28" pos="word" morph="none" start_char="853" end_char="857">taken</TOKEN>
+<TOKEN id="token-5-29" pos="word" morph="none" start_char="859" end_char="862">into</TOKEN>
+<TOKEN id="token-5-30" pos="word" morph="none" start_char="864" end_char="870">custody</TOKEN>
+<TOKEN id="token-5-31" pos="punct" morph="none" start_char="871" end_char="871">,</TOKEN>
+<TOKEN id="token-5-32" pos="word" morph="none" start_char="873" end_char="875">and</TOKEN>
+<TOKEN id="token-5-33" pos="word" morph="none" start_char="877" end_char="884">escorted</TOKEN>
+<TOKEN id="token-5-34" pos="word" morph="none" start_char="886" end_char="889">back</TOKEN>
+<TOKEN id="token-5-35" pos="word" morph="none" start_char="891" end_char="892">to</TOKEN>
+<TOKEN id="token-5-36" pos="word" morph="none" start_char="894" end_char="896">New</TOKEN>
+<TOKEN id="token-5-37" pos="word" morph="none" start_char="898" end_char="901">York</TOKEN>
+<TOKEN id="token-5-38" pos="punct" morph="none" start_char="902" end_char="903">."</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="906" end_char="935">
+<ORIGINAL_TEXT>The letter is simply not true.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="906" end_char="908">The</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="910" end_char="915">letter</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="917" end_char="918">is</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="920" end_char="925">simply</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="927" end_char="929">not</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="931" end_char="934">true</TOKEN>
+<TOKEN id="token-6-6" pos="punct" morph="none" start_char="935" end_char="935">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="937" end_char="1083">
+<ORIGINAL_TEXT>Of course, in an era where there is a ton of information, it is easy to fall victim to a scam like this… especially since it’s prying on our fears.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="937" end_char="938">Of</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="940" end_char="945">course</TOKEN>
+<TOKEN id="token-7-2" pos="punct" morph="none" start_char="946" end_char="946">,</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="948" end_char="949">in</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="951" end_char="952">an</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="954" end_char="956">era</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="958" end_char="962">where</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="964" end_char="968">there</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="970" end_char="971">is</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="973" end_char="973">a</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="975" end_char="977">ton</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="979" end_char="980">of</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="982" end_char="992">information</TOKEN>
+<TOKEN id="token-7-13" pos="punct" morph="none" start_char="993" end_char="993">,</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="995" end_char="996">it</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="998" end_char="999">is</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="1001" end_char="1004">easy</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="1006" end_char="1007">to</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="1009" end_char="1012">fall</TOKEN>
+<TOKEN id="token-7-19" pos="word" morph="none" start_char="1014" end_char="1019">victim</TOKEN>
+<TOKEN id="token-7-20" pos="word" morph="none" start_char="1021" end_char="1022">to</TOKEN>
+<TOKEN id="token-7-21" pos="word" morph="none" start_char="1024" end_char="1024">a</TOKEN>
+<TOKEN id="token-7-22" pos="word" morph="none" start_char="1026" end_char="1029">scam</TOKEN>
+<TOKEN id="token-7-23" pos="word" morph="none" start_char="1031" end_char="1034">like</TOKEN>
+<TOKEN id="token-7-24" pos="word" morph="none" start_char="1036" end_char="1039">this</TOKEN>
+<TOKEN id="token-7-25" pos="punct" morph="none" start_char="1040" end_char="1040">…</TOKEN>
+<TOKEN id="token-7-26" pos="word" morph="none" start_char="1042" end_char="1051">especially</TOKEN>
+<TOKEN id="token-7-27" pos="word" morph="none" start_char="1053" end_char="1057">since</TOKEN>
+<TOKEN id="token-7-28" pos="word" morph="none" start_char="1059" end_char="1062">it’s</TOKEN>
+<TOKEN id="token-7-29" pos="word" morph="none" start_char="1064" end_char="1069">prying</TOKEN>
+<TOKEN id="token-7-30" pos="word" morph="none" start_char="1071" end_char="1072">on</TOKEN>
+<TOKEN id="token-7-31" pos="word" morph="none" start_char="1074" end_char="1076">our</TOKEN>
+<TOKEN id="token-7-32" pos="word" morph="none" start_char="1078" end_char="1082">fears</TOKEN>
+<TOKEN id="token-7-33" pos="punct" morph="none" start_char="1083" end_char="1083">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1086" end_char="1196">
+<ORIGINAL_TEXT>There are resources that are available from the state and the federal government to help disseminate the truth.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="1086" end_char="1090">There</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1092" end_char="1094">are</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="1096" end_char="1104">resources</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="1106" end_char="1109">that</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="1111" end_char="1113">are</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="1115" end_char="1123">available</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="1125" end_char="1128">from</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="1130" end_char="1132">the</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="1134" end_char="1138">state</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="1140" end_char="1142">and</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="1144" end_char="1146">the</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="1148" end_char="1154">federal</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="1156" end_char="1165">government</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="1167" end_char="1168">to</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="1170" end_char="1173">help</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="1175" end_char="1185">disseminate</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="1187" end_char="1189">the</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="1191" end_char="1195">truth</TOKEN>
+<TOKEN id="token-8-18" pos="punct" morph="none" start_char="1196" end_char="1196">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1198" end_char="1236">
+<ORIGINAL_TEXT>Here are some of those local resources:</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="1198" end_char="1201">Here</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="1203" end_char="1205">are</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="1207" end_char="1210">some</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="1212" end_char="1213">of</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="1215" end_char="1219">those</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="1221" end_char="1225">local</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="1227" end_char="1235">resources</TOKEN>
+<TOKEN id="token-9-7" pos="punct" morph="none" start_char="1236" end_char="1236">:</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1239" end_char="1336">
+<ORIGINAL_TEXT>New Jersey’s COVID-19 Hub is constantly updated with the latest information from public officials.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1239" end_char="1241">New</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1243" end_char="1250">Jersey’s</TOKEN>
+<TOKEN id="token-10-2" pos="unknown" morph="none" start_char="1252" end_char="1259">COVID-19</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1261" end_char="1263">Hub</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1265" end_char="1266">is</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1268" end_char="1277">constantly</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="1279" end_char="1285">updated</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="1287" end_char="1290">with</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1292" end_char="1294">the</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1296" end_char="1301">latest</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="1303" end_char="1313">information</TOKEN>
+<TOKEN id="token-10-11" pos="word" morph="none" start_char="1315" end_char="1318">from</TOKEN>
+<TOKEN id="token-10-12" pos="word" morph="none" start_char="1320" end_char="1325">public</TOKEN>
+<TOKEN id="token-10-13" pos="word" morph="none" start_char="1327" end_char="1335">officials</TOKEN>
+<TOKEN id="token-10-14" pos="punct" morph="none" start_char="1336" end_char="1336">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1338" end_char="1457">
+<ORIGINAL_TEXT>Additionally, it has hundreds of links to resources for residents, business owners, health care professionals, and more.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1338" end_char="1349">Additionally</TOKEN>
+<TOKEN id="token-11-1" pos="punct" morph="none" start_char="1350" end_char="1350">,</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1352" end_char="1353">it</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1355" end_char="1357">has</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1359" end_char="1366">hundreds</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1368" end_char="1369">of</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1371" end_char="1375">links</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="1377" end_char="1378">to</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="1380" end_char="1388">resources</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="1390" end_char="1392">for</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="1394" end_char="1402">residents</TOKEN>
+<TOKEN id="token-11-11" pos="punct" morph="none" start_char="1403" end_char="1403">,</TOKEN>
+<TOKEN id="token-11-12" pos="word" morph="none" start_char="1405" end_char="1412">business</TOKEN>
+<TOKEN id="token-11-13" pos="word" morph="none" start_char="1414" end_char="1419">owners</TOKEN>
+<TOKEN id="token-11-14" pos="punct" morph="none" start_char="1420" end_char="1420">,</TOKEN>
+<TOKEN id="token-11-15" pos="word" morph="none" start_char="1422" end_char="1427">health</TOKEN>
+<TOKEN id="token-11-16" pos="word" morph="none" start_char="1429" end_char="1432">care</TOKEN>
+<TOKEN id="token-11-17" pos="word" morph="none" start_char="1434" end_char="1446">professionals</TOKEN>
+<TOKEN id="token-11-18" pos="punct" morph="none" start_char="1447" end_char="1447">,</TOKEN>
+<TOKEN id="token-11-19" pos="word" morph="none" start_char="1449" end_char="1451">and</TOKEN>
+<TOKEN id="token-11-20" pos="word" morph="none" start_char="1453" end_char="1456">more</TOKEN>
+<TOKEN id="token-11-21" pos="punct" morph="none" start_char="1457" end_char="1457">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1459" end_char="1492">
+<ORIGINAL_TEXT>Click here to visit their website.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1459" end_char="1463">Click</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1465" end_char="1468">here</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="1470" end_char="1471">to</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1473" end_char="1477">visit</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1479" end_char="1483">their</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="1485" end_char="1491">website</TOKEN>
+<TOKEN id="token-12-6" pos="punct" morph="none" start_char="1492" end_char="1492">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1495" end_char="1595">
+<ORIGINAL_TEXT>The New Jersey Office of Homeland Security and Preparedness has set up a COVID-19 hub online as well.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1495" end_char="1497">The</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1499" end_char="1501">New</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="1503" end_char="1508">Jersey</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1510" end_char="1515">Office</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="1517" end_char="1518">of</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1520" end_char="1527">Homeland</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1529" end_char="1536">Security</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="1538" end_char="1540">and</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1542" end_char="1553">Preparedness</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="1555" end_char="1557">has</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="1559" end_char="1561">set</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="1563" end_char="1564">up</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="1566" end_char="1566">a</TOKEN>
+<TOKEN id="token-13-13" pos="unknown" morph="none" start_char="1568" end_char="1575">COVID-19</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="1577" end_char="1579">hub</TOKEN>
+<TOKEN id="token-13-15" pos="word" morph="none" start_char="1581" end_char="1586">online</TOKEN>
+<TOKEN id="token-13-16" pos="word" morph="none" start_char="1588" end_char="1589">as</TOKEN>
+<TOKEN id="token-13-17" pos="word" morph="none" start_char="1591" end_char="1594">well</TOKEN>
+<TOKEN id="token-13-18" pos="punct" morph="none" start_char="1595" end_char="1595">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1597" end_char="1704">
+<ORIGINAL_TEXT>Their page, which can be accessed by clicking here, offers specific updates about misinformation and rumors.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1597" end_char="1601">Their</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="1603" end_char="1606">page</TOKEN>
+<TOKEN id="token-14-2" pos="punct" morph="none" start_char="1607" end_char="1607">,</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="1609" end_char="1613">which</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="1615" end_char="1617">can</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="1619" end_char="1620">be</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="1622" end_char="1629">accessed</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="1631" end_char="1632">by</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="1634" end_char="1641">clicking</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="1643" end_char="1646">here</TOKEN>
+<TOKEN id="token-14-10" pos="punct" morph="none" start_char="1647" end_char="1647">,</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="1649" end_char="1654">offers</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="1656" end_char="1663">specific</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="1665" end_char="1671">updates</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="1673" end_char="1677">about</TOKEN>
+<TOKEN id="token-14-15" pos="word" morph="none" start_char="1679" end_char="1692">misinformation</TOKEN>
+<TOKEN id="token-14-16" pos="word" morph="none" start_char="1694" end_char="1696">and</TOKEN>
+<TOKEN id="token-14-17" pos="word" morph="none" start_char="1698" end_char="1703">rumors</TOKEN>
+<TOKEN id="token-14-18" pos="punct" morph="none" start_char="1704" end_char="1704">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1707" end_char="1794">
+<ORIGINAL_TEXT>Plus, these federal government resources are available to help dispel false information:</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="1707" end_char="1710">Plus</TOKEN>
+<TOKEN id="token-15-1" pos="punct" morph="none" start_char="1711" end_char="1711">,</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="1713" end_char="1717">these</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="1719" end_char="1725">federal</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="1727" end_char="1736">government</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="1738" end_char="1746">resources</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="1748" end_char="1750">are</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="1752" end_char="1760">available</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="1762" end_char="1763">to</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="1765" end_char="1768">help</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="1770" end_char="1775">dispel</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="1777" end_char="1781">false</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="1783" end_char="1793">information</TOKEN>
+<TOKEN id="token-15-13" pos="punct" morph="none" start_char="1794" end_char="1794">:</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1797" end_char="1861">
+<ORIGINAL_TEXT>KEEP READING: These are the top 6 scams connected to the pandemic</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="1797" end_char="1800">KEEP</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="1802" end_char="1808">READING</TOKEN>
+<TOKEN id="token-16-2" pos="punct" morph="none" start_char="1809" end_char="1809">:</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="1811" end_char="1815">These</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="1817" end_char="1819">are</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="1821" end_char="1823">the</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="1825" end_char="1827">top</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="1829" end_char="1829">6</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="1831" end_char="1835">scams</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="1837" end_char="1845">connected</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="1847" end_char="1848">to</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="1850" end_char="1852">the</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="1854" end_char="1861">pandemic</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="1865" end_char="1866">
+<ORIGINAL_TEXT>1.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="1865" end_char="1865">1</TOKEN>
+<TOKEN id="token-17-1" pos="punct" morph="none" start_char="1866" end_char="1866">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="1868" end_char="1899">
+<ORIGINAL_TEXT>Cures, Masks, and Empty Promises</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="1868" end_char="1872">Cures</TOKEN>
+<TOKEN id="token-18-1" pos="punct" morph="none" start_char="1873" end_char="1873">,</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="1875" end_char="1879">Masks</TOKEN>
+<TOKEN id="token-18-3" pos="punct" morph="none" start_char="1880" end_char="1880">,</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="1882" end_char="1884">and</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="1886" end_char="1890">Empty</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="1892" end_char="1899">Promises</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="1903" end_char="2068">
+<ORIGINAL_TEXT>The BBB has received many reports of scammers contacting people, claiming that they have a surefire cure for coronavirus, that the government has been keeping secret.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="1903" end_char="1905">The</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="1907" end_char="1909">BBB</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="1911" end_char="1913">has</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="1915" end_char="1922">received</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="1924" end_char="1927">many</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="1929" end_char="1935">reports</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="1937" end_char="1938">of</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="1940" end_char="1947">scammers</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="1949" end_char="1958">contacting</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="1960" end_char="1965">people</TOKEN>
+<TOKEN id="token-19-10" pos="punct" morph="none" start_char="1966" end_char="1966">,</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="1968" end_char="1975">claiming</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="1977" end_char="1980">that</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="1982" end_char="1985">they</TOKEN>
+<TOKEN id="token-19-14" pos="word" morph="none" start_char="1987" end_char="1990">have</TOKEN>
+<TOKEN id="token-19-15" pos="word" morph="none" start_char="1992" end_char="1992">a</TOKEN>
+<TOKEN id="token-19-16" pos="word" morph="none" start_char="1994" end_char="2001">surefire</TOKEN>
+<TOKEN id="token-19-17" pos="word" morph="none" start_char="2003" end_char="2006">cure</TOKEN>
+<TOKEN id="token-19-18" pos="word" morph="none" start_char="2008" end_char="2010">for</TOKEN>
+<TOKEN id="token-19-19" pos="word" morph="none" start_char="2012" end_char="2022">coronavirus</TOKEN>
+<TOKEN id="token-19-20" pos="punct" morph="none" start_char="2023" end_char="2023">,</TOKEN>
+<TOKEN id="token-19-21" pos="word" morph="none" start_char="2025" end_char="2028">that</TOKEN>
+<TOKEN id="token-19-22" pos="word" morph="none" start_char="2030" end_char="2032">the</TOKEN>
+<TOKEN id="token-19-23" pos="word" morph="none" start_char="2034" end_char="2043">government</TOKEN>
+<TOKEN id="token-19-24" pos="word" morph="none" start_char="2045" end_char="2047">has</TOKEN>
+<TOKEN id="token-19-25" pos="word" morph="none" start_char="2049" end_char="2052">been</TOKEN>
+<TOKEN id="token-19-26" pos="word" morph="none" start_char="2054" end_char="2060">keeping</TOKEN>
+<TOKEN id="token-19-27" pos="word" morph="none" start_char="2062" end_char="2067">secret</TOKEN>
+<TOKEN id="token-19-28" pos="punct" morph="none" start_char="2068" end_char="2068">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="2070" end_char="2156">
+<ORIGINAL_TEXT>Or they claim that they can provide you with a supply of masks that never materializes.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="2070" end_char="2071">Or</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="2073" end_char="2076">they</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="2078" end_char="2082">claim</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="2084" end_char="2087">that</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="2089" end_char="2092">they</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="2094" end_char="2096">can</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="2098" end_char="2104">provide</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="2106" end_char="2108">you</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="2110" end_char="2113">with</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="2115" end_char="2115">a</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="2117" end_char="2122">supply</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="2124" end_char="2125">of</TOKEN>
+<TOKEN id="token-20-12" pos="word" morph="none" start_char="2127" end_char="2131">masks</TOKEN>
+<TOKEN id="token-20-13" pos="word" morph="none" start_char="2133" end_char="2136">that</TOKEN>
+<TOKEN id="token-20-14" pos="word" morph="none" start_char="2138" end_char="2142">never</TOKEN>
+<TOKEN id="token-20-15" pos="word" morph="none" start_char="2144" end_char="2155">materializes</TOKEN>
+<TOKEN id="token-20-16" pos="punct" morph="none" start_char="2156" end_char="2156">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="2158" end_char="2243">
+<ORIGINAL_TEXT>The goal, in both cases, is to get your health insurance and/or financial information.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="2158" end_char="2160">The</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="2162" end_char="2165">goal</TOKEN>
+<TOKEN id="token-21-2" pos="punct" morph="none" start_char="2166" end_char="2166">,</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="2168" end_char="2169">in</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="2171" end_char="2174">both</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="2176" end_char="2180">cases</TOKEN>
+<TOKEN id="token-21-6" pos="punct" morph="none" start_char="2181" end_char="2181">,</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="2183" end_char="2184">is</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="2186" end_char="2187">to</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="2189" end_char="2191">get</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="2193" end_char="2196">your</TOKEN>
+<TOKEN id="token-21-11" pos="word" morph="none" start_char="2198" end_char="2203">health</TOKEN>
+<TOKEN id="token-21-12" pos="word" morph="none" start_char="2205" end_char="2213">insurance</TOKEN>
+<TOKEN id="token-21-13" pos="unknown" morph="none" start_char="2215" end_char="2220">and/or</TOKEN>
+<TOKEN id="token-21-14" pos="word" morph="none" start_char="2222" end_char="2230">financial</TOKEN>
+<TOKEN id="token-21-15" pos="word" morph="none" start_char="2232" end_char="2242">information</TOKEN>
+<TOKEN id="token-21-16" pos="punct" morph="none" start_char="2243" end_char="2243">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="2245" end_char="2289">
+<ORIGINAL_TEXT>At this point, there is no cure for COVID-19.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="2245" end_char="2246">At</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="2248" end_char="2251">this</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="2253" end_char="2257">point</TOKEN>
+<TOKEN id="token-22-3" pos="punct" morph="none" start_char="2258" end_char="2258">,</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="2260" end_char="2264">there</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="2266" end_char="2267">is</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="2269" end_char="2270">no</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="2272" end_char="2275">cure</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="2277" end_char="2279">for</TOKEN>
+<TOKEN id="token-22-9" pos="unknown" morph="none" start_char="2281" end_char="2288">COVID-19</TOKEN>
+<TOKEN id="token-22-10" pos="punct" morph="none" start_char="2289" end_char="2289">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="2291" end_char="2380">
+<ORIGINAL_TEXT>And, if you want protective masks, get them from a reputable dealer or make them yourself.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="2291" end_char="2293">And</TOKEN>
+<TOKEN id="token-23-1" pos="punct" morph="none" start_char="2294" end_char="2294">,</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="2296" end_char="2297">if</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="2299" end_char="2301">you</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="2303" end_char="2306">want</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="2308" end_char="2317">protective</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="2319" end_char="2323">masks</TOKEN>
+<TOKEN id="token-23-7" pos="punct" morph="none" start_char="2324" end_char="2324">,</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="2326" end_char="2328">get</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="2330" end_char="2333">them</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="2335" end_char="2338">from</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="2340" end_char="2340">a</TOKEN>
+<TOKEN id="token-23-12" pos="word" morph="none" start_char="2342" end_char="2350">reputable</TOKEN>
+<TOKEN id="token-23-13" pos="word" morph="none" start_char="2352" end_char="2357">dealer</TOKEN>
+<TOKEN id="token-23-14" pos="word" morph="none" start_char="2359" end_char="2360">or</TOKEN>
+<TOKEN id="token-23-15" pos="word" morph="none" start_char="2362" end_char="2365">make</TOKEN>
+<TOKEN id="token-23-16" pos="word" morph="none" start_char="2367" end_char="2370">them</TOKEN>
+<TOKEN id="token-23-17" pos="word" morph="none" start_char="2372" end_char="2379">yourself</TOKEN>
+<TOKEN id="token-23-18" pos="punct" morph="none" start_char="2380" end_char="2380">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="2383" end_char="2384">
+<ORIGINAL_TEXT>2.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="2383" end_char="2383">2</TOKEN>
+<TOKEN id="token-24-1" pos="punct" morph="none" start_char="2384" end_char="2384">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="2386" end_char="2407">
+<ORIGINAL_TEXT>Stealing Your Stimulus</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="2386" end_char="2393">Stealing</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="2395" end_char="2398">Your</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="2400" end_char="2407">Stimulus</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="2411" end_char="2504">
+<ORIGINAL_TEXT>Even before the stimulus checks started going out, scammers were contacting potential victims.</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="2411" end_char="2414">Even</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="2416" end_char="2421">before</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="2423" end_char="2425">the</TOKEN>
+<TOKEN id="token-26-3" pos="word" morph="none" start_char="2427" end_char="2434">stimulus</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="2436" end_char="2441">checks</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="2443" end_char="2449">started</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="2451" end_char="2455">going</TOKEN>
+<TOKEN id="token-26-7" pos="word" morph="none" start_char="2457" end_char="2459">out</TOKEN>
+<TOKEN id="token-26-8" pos="punct" morph="none" start_char="2460" end_char="2460">,</TOKEN>
+<TOKEN id="token-26-9" pos="word" morph="none" start_char="2462" end_char="2469">scammers</TOKEN>
+<TOKEN id="token-26-10" pos="word" morph="none" start_char="2471" end_char="2474">were</TOKEN>
+<TOKEN id="token-26-11" pos="word" morph="none" start_char="2476" end_char="2485">contacting</TOKEN>
+<TOKEN id="token-26-12" pos="word" morph="none" start_char="2487" end_char="2495">potential</TOKEN>
+<TOKEN id="token-26-13" pos="word" morph="none" start_char="2497" end_char="2503">victims</TOKEN>
+<TOKEN id="token-26-14" pos="punct" morph="none" start_char="2504" end_char="2504">.</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="2506" end_char="2725">
+<ORIGINAL_TEXT>They usually claimed that the resident needed to pay a fee to release their stimulus check (i.e. paying taxes ahead of time), or that they needed to give their bank account info over the phone, to get the direct deposit.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="2506" end_char="2509">They</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="2511" end_char="2517">usually</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="2519" end_char="2525">claimed</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="2527" end_char="2530">that</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="2532" end_char="2534">the</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="2536" end_char="2543">resident</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="2545" end_char="2550">needed</TOKEN>
+<TOKEN id="token-27-7" pos="word" morph="none" start_char="2552" end_char="2553">to</TOKEN>
+<TOKEN id="token-27-8" pos="word" morph="none" start_char="2555" end_char="2557">pay</TOKEN>
+<TOKEN id="token-27-9" pos="word" morph="none" start_char="2559" end_char="2559">a</TOKEN>
+<TOKEN id="token-27-10" pos="word" morph="none" start_char="2561" end_char="2563">fee</TOKEN>
+<TOKEN id="token-27-11" pos="word" morph="none" start_char="2565" end_char="2566">to</TOKEN>
+<TOKEN id="token-27-12" pos="word" morph="none" start_char="2568" end_char="2574">release</TOKEN>
+<TOKEN id="token-27-13" pos="word" morph="none" start_char="2576" end_char="2580">their</TOKEN>
+<TOKEN id="token-27-14" pos="word" morph="none" start_char="2582" end_char="2589">stimulus</TOKEN>
+<TOKEN id="token-27-15" pos="word" morph="none" start_char="2591" end_char="2595">check</TOKEN>
+<TOKEN id="token-27-16" pos="punct" morph="none" start_char="2597" end_char="2597">(</TOKEN>
+<TOKEN id="token-27-17" pos="unknown" morph="none" start_char="2598" end_char="2600">i.e</TOKEN>
+<TOKEN id="token-27-18" pos="punct" morph="none" start_char="2601" end_char="2601">.</TOKEN>
+<TOKEN id="token-27-19" pos="word" morph="none" start_char="2603" end_char="2608">paying</TOKEN>
+<TOKEN id="token-27-20" pos="word" morph="none" start_char="2610" end_char="2614">taxes</TOKEN>
+<TOKEN id="token-27-21" pos="word" morph="none" start_char="2616" end_char="2620">ahead</TOKEN>
+<TOKEN id="token-27-22" pos="word" morph="none" start_char="2622" end_char="2623">of</TOKEN>
+<TOKEN id="token-27-23" pos="word" morph="none" start_char="2625" end_char="2628">time</TOKEN>
+<TOKEN id="token-27-24" pos="punct" morph="none" start_char="2629" end_char="2630">),</TOKEN>
+<TOKEN id="token-27-25" pos="word" morph="none" start_char="2632" end_char="2633">or</TOKEN>
+<TOKEN id="token-27-26" pos="word" morph="none" start_char="2635" end_char="2638">that</TOKEN>
+<TOKEN id="token-27-27" pos="word" morph="none" start_char="2640" end_char="2643">they</TOKEN>
+<TOKEN id="token-27-28" pos="word" morph="none" start_char="2645" end_char="2650">needed</TOKEN>
+<TOKEN id="token-27-29" pos="word" morph="none" start_char="2652" end_char="2653">to</TOKEN>
+<TOKEN id="token-27-30" pos="word" morph="none" start_char="2655" end_char="2658">give</TOKEN>
+<TOKEN id="token-27-31" pos="word" morph="none" start_char="2660" end_char="2664">their</TOKEN>
+<TOKEN id="token-27-32" pos="word" morph="none" start_char="2666" end_char="2669">bank</TOKEN>
+<TOKEN id="token-27-33" pos="word" morph="none" start_char="2671" end_char="2677">account</TOKEN>
+<TOKEN id="token-27-34" pos="word" morph="none" start_char="2679" end_char="2682">info</TOKEN>
+<TOKEN id="token-27-35" pos="word" morph="none" start_char="2684" end_char="2687">over</TOKEN>
+<TOKEN id="token-27-36" pos="word" morph="none" start_char="2689" end_char="2691">the</TOKEN>
+<TOKEN id="token-27-37" pos="word" morph="none" start_char="2693" end_char="2697">phone</TOKEN>
+<TOKEN id="token-27-38" pos="punct" morph="none" start_char="2698" end_char="2698">,</TOKEN>
+<TOKEN id="token-27-39" pos="word" morph="none" start_char="2700" end_char="2701">to</TOKEN>
+<TOKEN id="token-27-40" pos="word" morph="none" start_char="2703" end_char="2705">get</TOKEN>
+<TOKEN id="token-27-41" pos="word" morph="none" start_char="2707" end_char="2709">the</TOKEN>
+<TOKEN id="token-27-42" pos="word" morph="none" start_char="2711" end_char="2716">direct</TOKEN>
+<TOKEN id="token-27-43" pos="word" morph="none" start_char="2718" end_char="2724">deposit</TOKEN>
+<TOKEN id="token-27-44" pos="punct" morph="none" start_char="2725" end_char="2725">.</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="2727" end_char="2797">
+<ORIGINAL_TEXT>The result could be identity theft or loss of money from bank accounts.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="2727" end_char="2729">The</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="2731" end_char="2736">result</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="2738" end_char="2742">could</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="2744" end_char="2745">be</TOKEN>
+<TOKEN id="token-28-4" pos="word" morph="none" start_char="2747" end_char="2754">identity</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="2756" end_char="2760">theft</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="2762" end_char="2763">or</TOKEN>
+<TOKEN id="token-28-7" pos="word" morph="none" start_char="2765" end_char="2768">loss</TOKEN>
+<TOKEN id="token-28-8" pos="word" morph="none" start_char="2770" end_char="2771">of</TOKEN>
+<TOKEN id="token-28-9" pos="word" morph="none" start_char="2773" end_char="2777">money</TOKEN>
+<TOKEN id="token-28-10" pos="word" morph="none" start_char="2779" end_char="2782">from</TOKEN>
+<TOKEN id="token-28-11" pos="word" morph="none" start_char="2784" end_char="2787">bank</TOKEN>
+<TOKEN id="token-28-12" pos="word" morph="none" start_char="2789" end_char="2796">accounts</TOKEN>
+<TOKEN id="token-28-13" pos="punct" morph="none" start_char="2797" end_char="2797">.</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="2800" end_char="2801">
+<ORIGINAL_TEXT>3.</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="2800" end_char="2800">3</TOKEN>
+<TOKEN id="token-29-1" pos="punct" morph="none" start_char="2801" end_char="2801">.</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="2803" end_char="2815">
+<ORIGINAL_TEXT>Gone Phishing</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="word" morph="none" start_char="2803" end_char="2806">Gone</TOKEN>
+<TOKEN id="token-30-1" pos="word" morph="none" start_char="2808" end_char="2815">Phishing</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="2819" end_char="2907">
+<ORIGINAL_TEXT>The BBB says one of the most common phishing scams is targeting people working from home.</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="word" morph="none" start_char="2819" end_char="2821">The</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="2823" end_char="2825">BBB</TOKEN>
+<TOKEN id="token-31-2" pos="word" morph="none" start_char="2827" end_char="2830">says</TOKEN>
+<TOKEN id="token-31-3" pos="word" morph="none" start_char="2832" end_char="2834">one</TOKEN>
+<TOKEN id="token-31-4" pos="word" morph="none" start_char="2836" end_char="2837">of</TOKEN>
+<TOKEN id="token-31-5" pos="word" morph="none" start_char="2839" end_char="2841">the</TOKEN>
+<TOKEN id="token-31-6" pos="word" morph="none" start_char="2843" end_char="2846">most</TOKEN>
+<TOKEN id="token-31-7" pos="word" morph="none" start_char="2848" end_char="2853">common</TOKEN>
+<TOKEN id="token-31-8" pos="word" morph="none" start_char="2855" end_char="2862">phishing</TOKEN>
+<TOKEN id="token-31-9" pos="word" morph="none" start_char="2864" end_char="2868">scams</TOKEN>
+<TOKEN id="token-31-10" pos="word" morph="none" start_char="2870" end_char="2871">is</TOKEN>
+<TOKEN id="token-31-11" pos="word" morph="none" start_char="2873" end_char="2881">targeting</TOKEN>
+<TOKEN id="token-31-12" pos="word" morph="none" start_char="2883" end_char="2888">people</TOKEN>
+<TOKEN id="token-31-13" pos="word" morph="none" start_char="2890" end_char="2896">working</TOKEN>
+<TOKEN id="token-31-14" pos="word" morph="none" start_char="2898" end_char="2901">from</TOKEN>
+<TOKEN id="token-31-15" pos="word" morph="none" start_char="2903" end_char="2906">home</TOKEN>
+<TOKEN id="token-31-16" pos="punct" morph="none" start_char="2907" end_char="2907">.</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="2909" end_char="3008">
+<ORIGINAL_TEXT>Someone contacts you, claiming to be from IT, and demands access to your computer, to fix a problem.</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="word" morph="none" start_char="2909" end_char="2915">Someone</TOKEN>
+<TOKEN id="token-32-1" pos="word" morph="none" start_char="2917" end_char="2924">contacts</TOKEN>
+<TOKEN id="token-32-2" pos="word" morph="none" start_char="2926" end_char="2928">you</TOKEN>
+<TOKEN id="token-32-3" pos="punct" morph="none" start_char="2929" end_char="2929">,</TOKEN>
+<TOKEN id="token-32-4" pos="word" morph="none" start_char="2931" end_char="2938">claiming</TOKEN>
+<TOKEN id="token-32-5" pos="word" morph="none" start_char="2940" end_char="2941">to</TOKEN>
+<TOKEN id="token-32-6" pos="word" morph="none" start_char="2943" end_char="2944">be</TOKEN>
+<TOKEN id="token-32-7" pos="word" morph="none" start_char="2946" end_char="2949">from</TOKEN>
+<TOKEN id="token-32-8" pos="word" morph="none" start_char="2951" end_char="2952">IT</TOKEN>
+<TOKEN id="token-32-9" pos="punct" morph="none" start_char="2953" end_char="2953">,</TOKEN>
+<TOKEN id="token-32-10" pos="word" morph="none" start_char="2955" end_char="2957">and</TOKEN>
+<TOKEN id="token-32-11" pos="word" morph="none" start_char="2959" end_char="2965">demands</TOKEN>
+<TOKEN id="token-32-12" pos="word" morph="none" start_char="2967" end_char="2972">access</TOKEN>
+<TOKEN id="token-32-13" pos="word" morph="none" start_char="2974" end_char="2975">to</TOKEN>
+<TOKEN id="token-32-14" pos="word" morph="none" start_char="2977" end_char="2980">your</TOKEN>
+<TOKEN id="token-32-15" pos="word" morph="none" start_char="2982" end_char="2989">computer</TOKEN>
+<TOKEN id="token-32-16" pos="punct" morph="none" start_char="2990" end_char="2990">,</TOKEN>
+<TOKEN id="token-32-17" pos="word" morph="none" start_char="2992" end_char="2993">to</TOKEN>
+<TOKEN id="token-32-18" pos="word" morph="none" start_char="2995" end_char="2997">fix</TOKEN>
+<TOKEN id="token-32-19" pos="word" morph="none" start_char="2999" end_char="2999">a</TOKEN>
+<TOKEN id="token-32-20" pos="word" morph="none" start_char="3001" end_char="3007">problem</TOKEN>
+<TOKEN id="token-32-21" pos="punct" morph="none" start_char="3008" end_char="3008">.</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="3010" end_char="3121">
+<ORIGINAL_TEXT>Or, they may send you to a link that, when clicked on, will give them free reign to all your online information.</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="word" morph="none" start_char="3010" end_char="3011">Or</TOKEN>
+<TOKEN id="token-33-1" pos="punct" morph="none" start_char="3012" end_char="3012">,</TOKEN>
+<TOKEN id="token-33-2" pos="word" morph="none" start_char="3014" end_char="3017">they</TOKEN>
+<TOKEN id="token-33-3" pos="word" morph="none" start_char="3019" end_char="3021">may</TOKEN>
+<TOKEN id="token-33-4" pos="word" morph="none" start_char="3023" end_char="3026">send</TOKEN>
+<TOKEN id="token-33-5" pos="word" morph="none" start_char="3028" end_char="3030">you</TOKEN>
+<TOKEN id="token-33-6" pos="word" morph="none" start_char="3032" end_char="3033">to</TOKEN>
+<TOKEN id="token-33-7" pos="word" morph="none" start_char="3035" end_char="3035">a</TOKEN>
+<TOKEN id="token-33-8" pos="word" morph="none" start_char="3037" end_char="3040">link</TOKEN>
+<TOKEN id="token-33-9" pos="word" morph="none" start_char="3042" end_char="3045">that</TOKEN>
+<TOKEN id="token-33-10" pos="punct" morph="none" start_char="3046" end_char="3046">,</TOKEN>
+<TOKEN id="token-33-11" pos="word" morph="none" start_char="3048" end_char="3051">when</TOKEN>
+<TOKEN id="token-33-12" pos="word" morph="none" start_char="3053" end_char="3059">clicked</TOKEN>
+<TOKEN id="token-33-13" pos="word" morph="none" start_char="3061" end_char="3062">on</TOKEN>
+<TOKEN id="token-33-14" pos="punct" morph="none" start_char="3063" end_char="3063">,</TOKEN>
+<TOKEN id="token-33-15" pos="word" morph="none" start_char="3065" end_char="3068">will</TOKEN>
+<TOKEN id="token-33-16" pos="word" morph="none" start_char="3070" end_char="3073">give</TOKEN>
+<TOKEN id="token-33-17" pos="word" morph="none" start_char="3075" end_char="3078">them</TOKEN>
+<TOKEN id="token-33-18" pos="word" morph="none" start_char="3080" end_char="3083">free</TOKEN>
+<TOKEN id="token-33-19" pos="word" morph="none" start_char="3085" end_char="3089">reign</TOKEN>
+<TOKEN id="token-33-20" pos="word" morph="none" start_char="3091" end_char="3092">to</TOKEN>
+<TOKEN id="token-33-21" pos="word" morph="none" start_char="3094" end_char="3096">all</TOKEN>
+<TOKEN id="token-33-22" pos="word" morph="none" start_char="3098" end_char="3101">your</TOKEN>
+<TOKEN id="token-33-23" pos="word" morph="none" start_char="3103" end_char="3108">online</TOKEN>
+<TOKEN id="token-33-24" pos="word" morph="none" start_char="3110" end_char="3120">information</TOKEN>
+<TOKEN id="token-33-25" pos="punct" morph="none" start_char="3121" end_char="3121">.</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="3124" end_char="3125">
+<ORIGINAL_TEXT>4.</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="word" morph="none" start_char="3124" end_char="3124">4</TOKEN>
+<TOKEN id="token-34-1" pos="punct" morph="none" start_char="3125" end_char="3125">.</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="3127" end_char="3160">
+<ORIGINAL_TEXT>Hello, This is NOT Your Government</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="word" morph="none" start_char="3127" end_char="3131">Hello</TOKEN>
+<TOKEN id="token-35-1" pos="punct" morph="none" start_char="3132" end_char="3132">,</TOKEN>
+<TOKEN id="token-35-2" pos="word" morph="none" start_char="3134" end_char="3137">This</TOKEN>
+<TOKEN id="token-35-3" pos="word" morph="none" start_char="3139" end_char="3140">is</TOKEN>
+<TOKEN id="token-35-4" pos="word" morph="none" start_char="3142" end_char="3144">NOT</TOKEN>
+<TOKEN id="token-35-5" pos="word" morph="none" start_char="3146" end_char="3149">Your</TOKEN>
+<TOKEN id="token-35-6" pos="word" morph="none" start_char="3151" end_char="3160">Government</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="3164" end_char="3263">
+<ORIGINAL_TEXT>Impersonating the government is a common scam, and for the pandemic, crooks are using it once again.</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="word" morph="none" start_char="3164" end_char="3176">Impersonating</TOKEN>
+<TOKEN id="token-36-1" pos="word" morph="none" start_char="3178" end_char="3180">the</TOKEN>
+<TOKEN id="token-36-2" pos="word" morph="none" start_char="3182" end_char="3191">government</TOKEN>
+<TOKEN id="token-36-3" pos="word" morph="none" start_char="3193" end_char="3194">is</TOKEN>
+<TOKEN id="token-36-4" pos="word" morph="none" start_char="3196" end_char="3196">a</TOKEN>
+<TOKEN id="token-36-5" pos="word" morph="none" start_char="3198" end_char="3203">common</TOKEN>
+<TOKEN id="token-36-6" pos="word" morph="none" start_char="3205" end_char="3208">scam</TOKEN>
+<TOKEN id="token-36-7" pos="punct" morph="none" start_char="3209" end_char="3209">,</TOKEN>
+<TOKEN id="token-36-8" pos="word" morph="none" start_char="3211" end_char="3213">and</TOKEN>
+<TOKEN id="token-36-9" pos="word" morph="none" start_char="3215" end_char="3217">for</TOKEN>
+<TOKEN id="token-36-10" pos="word" morph="none" start_char="3219" end_char="3221">the</TOKEN>
+<TOKEN id="token-36-11" pos="word" morph="none" start_char="3223" end_char="3230">pandemic</TOKEN>
+<TOKEN id="token-36-12" pos="punct" morph="none" start_char="3231" end_char="3231">,</TOKEN>
+<TOKEN id="token-36-13" pos="word" morph="none" start_char="3233" end_char="3238">crooks</TOKEN>
+<TOKEN id="token-36-14" pos="word" morph="none" start_char="3240" end_char="3242">are</TOKEN>
+<TOKEN id="token-36-15" pos="word" morph="none" start_char="3244" end_char="3248">using</TOKEN>
+<TOKEN id="token-36-16" pos="word" morph="none" start_char="3250" end_char="3251">it</TOKEN>
+<TOKEN id="token-36-17" pos="word" morph="none" start_char="3253" end_char="3256">once</TOKEN>
+<TOKEN id="token-36-18" pos="word" morph="none" start_char="3258" end_char="3262">again</TOKEN>
+<TOKEN id="token-36-19" pos="punct" morph="none" start_char="3263" end_char="3263">.</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="3265" end_char="3383">
+<ORIGINAL_TEXT>Usually, they're claiming that you need to take an online coronavirus test, or that they can give you access to a cure.</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="word" morph="none" start_char="3265" end_char="3271">Usually</TOKEN>
+<TOKEN id="token-37-1" pos="punct" morph="none" start_char="3272" end_char="3272">,</TOKEN>
+<TOKEN id="token-37-2" pos="word" morph="none" start_char="3274" end_char="3280">they're</TOKEN>
+<TOKEN id="token-37-3" pos="word" morph="none" start_char="3282" end_char="3289">claiming</TOKEN>
+<TOKEN id="token-37-4" pos="word" morph="none" start_char="3291" end_char="3294">that</TOKEN>
+<TOKEN id="token-37-5" pos="word" morph="none" start_char="3296" end_char="3298">you</TOKEN>
+<TOKEN id="token-37-6" pos="word" morph="none" start_char="3300" end_char="3303">need</TOKEN>
+<TOKEN id="token-37-7" pos="word" morph="none" start_char="3305" end_char="3306">to</TOKEN>
+<TOKEN id="token-37-8" pos="word" morph="none" start_char="3308" end_char="3311">take</TOKEN>
+<TOKEN id="token-37-9" pos="word" morph="none" start_char="3313" end_char="3314">an</TOKEN>
+<TOKEN id="token-37-10" pos="word" morph="none" start_char="3316" end_char="3321">online</TOKEN>
+<TOKEN id="token-37-11" pos="word" morph="none" start_char="3323" end_char="3333">coronavirus</TOKEN>
+<TOKEN id="token-37-12" pos="word" morph="none" start_char="3335" end_char="3338">test</TOKEN>
+<TOKEN id="token-37-13" pos="punct" morph="none" start_char="3339" end_char="3339">,</TOKEN>
+<TOKEN id="token-37-14" pos="word" morph="none" start_char="3341" end_char="3342">or</TOKEN>
+<TOKEN id="token-37-15" pos="word" morph="none" start_char="3344" end_char="3347">that</TOKEN>
+<TOKEN id="token-37-16" pos="word" morph="none" start_char="3349" end_char="3352">they</TOKEN>
+<TOKEN id="token-37-17" pos="word" morph="none" start_char="3354" end_char="3356">can</TOKEN>
+<TOKEN id="token-37-18" pos="word" morph="none" start_char="3358" end_char="3361">give</TOKEN>
+<TOKEN id="token-37-19" pos="word" morph="none" start_char="3363" end_char="3365">you</TOKEN>
+<TOKEN id="token-37-20" pos="word" morph="none" start_char="3367" end_char="3372">access</TOKEN>
+<TOKEN id="token-37-21" pos="word" morph="none" start_char="3374" end_char="3375">to</TOKEN>
+<TOKEN id="token-37-22" pos="word" morph="none" start_char="3377" end_char="3377">a</TOKEN>
+<TOKEN id="token-37-23" pos="word" morph="none" start_char="3379" end_char="3382">cure</TOKEN>
+<TOKEN id="token-37-24" pos="punct" morph="none" start_char="3383" end_char="3383">.</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="3385" end_char="3456">
+<ORIGINAL_TEXT>If it's by phone, they'll ask for your health and financial information.</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="word" morph="none" start_char="3385" end_char="3386">If</TOKEN>
+<TOKEN id="token-38-1" pos="word" morph="none" start_char="3388" end_char="3391">it's</TOKEN>
+<TOKEN id="token-38-2" pos="word" morph="none" start_char="3393" end_char="3394">by</TOKEN>
+<TOKEN id="token-38-3" pos="word" morph="none" start_char="3396" end_char="3400">phone</TOKEN>
+<TOKEN id="token-38-4" pos="punct" morph="none" start_char="3401" end_char="3401">,</TOKEN>
+<TOKEN id="token-38-5" pos="word" morph="none" start_char="3403" end_char="3409">they'll</TOKEN>
+<TOKEN id="token-38-6" pos="word" morph="none" start_char="3411" end_char="3413">ask</TOKEN>
+<TOKEN id="token-38-7" pos="word" morph="none" start_char="3415" end_char="3417">for</TOKEN>
+<TOKEN id="token-38-8" pos="word" morph="none" start_char="3419" end_char="3422">your</TOKEN>
+<TOKEN id="token-38-9" pos="word" morph="none" start_char="3424" end_char="3429">health</TOKEN>
+<TOKEN id="token-38-10" pos="word" morph="none" start_char="3431" end_char="3433">and</TOKEN>
+<TOKEN id="token-38-11" pos="word" morph="none" start_char="3435" end_char="3443">financial</TOKEN>
+<TOKEN id="token-38-12" pos="word" morph="none" start_char="3445" end_char="3455">information</TOKEN>
+<TOKEN id="token-38-13" pos="punct" morph="none" start_char="3456" end_char="3456">.</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="3458" end_char="3545">
+<ORIGINAL_TEXT>If it's in your email, they'll provide a link that will upload malware to your computer.</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="word" morph="none" start_char="3458" end_char="3459">If</TOKEN>
+<TOKEN id="token-39-1" pos="word" morph="none" start_char="3461" end_char="3464">it's</TOKEN>
+<TOKEN id="token-39-2" pos="word" morph="none" start_char="3466" end_char="3467">in</TOKEN>
+<TOKEN id="token-39-3" pos="word" morph="none" start_char="3469" end_char="3472">your</TOKEN>
+<TOKEN id="token-39-4" pos="word" morph="none" start_char="3474" end_char="3478">email</TOKEN>
+<TOKEN id="token-39-5" pos="punct" morph="none" start_char="3479" end_char="3479">,</TOKEN>
+<TOKEN id="token-39-6" pos="word" morph="none" start_char="3481" end_char="3487">they'll</TOKEN>
+<TOKEN id="token-39-7" pos="word" morph="none" start_char="3489" end_char="3495">provide</TOKEN>
+<TOKEN id="token-39-8" pos="word" morph="none" start_char="3497" end_char="3497">a</TOKEN>
+<TOKEN id="token-39-9" pos="word" morph="none" start_char="3499" end_char="3502">link</TOKEN>
+<TOKEN id="token-39-10" pos="word" morph="none" start_char="3504" end_char="3507">that</TOKEN>
+<TOKEN id="token-39-11" pos="word" morph="none" start_char="3509" end_char="3512">will</TOKEN>
+<TOKEN id="token-39-12" pos="word" morph="none" start_char="3514" end_char="3519">upload</TOKEN>
+<TOKEN id="token-39-13" pos="word" morph="none" start_char="3521" end_char="3527">malware</TOKEN>
+<TOKEN id="token-39-14" pos="word" morph="none" start_char="3529" end_char="3530">to</TOKEN>
+<TOKEN id="token-39-15" pos="word" morph="none" start_char="3532" end_char="3535">your</TOKEN>
+<TOKEN id="token-39-16" pos="word" morph="none" start_char="3537" end_char="3544">computer</TOKEN>
+<TOKEN id="token-39-17" pos="punct" morph="none" start_char="3545" end_char="3545">.</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="3548" end_char="3549">
+<ORIGINAL_TEXT>5.</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="word" morph="none" start_char="3548" end_char="3548">5</TOKEN>
+<TOKEN id="token-40-1" pos="punct" morph="none" start_char="3549" end_char="3549">.</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="3551" end_char="3593">
+<ORIGINAL_TEXT>We Have the Perfect Job for You (for a fee)</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="word" morph="none" start_char="3551" end_char="3552">We</TOKEN>
+<TOKEN id="token-41-1" pos="word" morph="none" start_char="3554" end_char="3557">Have</TOKEN>
+<TOKEN id="token-41-2" pos="word" morph="none" start_char="3559" end_char="3561">the</TOKEN>
+<TOKEN id="token-41-3" pos="word" morph="none" start_char="3563" end_char="3569">Perfect</TOKEN>
+<TOKEN id="token-41-4" pos="word" morph="none" start_char="3571" end_char="3573">Job</TOKEN>
+<TOKEN id="token-41-5" pos="word" morph="none" start_char="3575" end_char="3577">for</TOKEN>
+<TOKEN id="token-41-6" pos="word" morph="none" start_char="3579" end_char="3581">You</TOKEN>
+<TOKEN id="token-41-7" pos="punct" morph="none" start_char="3583" end_char="3583">(</TOKEN>
+<TOKEN id="token-41-8" pos="word" morph="none" start_char="3584" end_char="3586">for</TOKEN>
+<TOKEN id="token-41-9" pos="word" morph="none" start_char="3588" end_char="3588">a</TOKEN>
+<TOKEN id="token-41-10" pos="word" morph="none" start_char="3590" end_char="3592">fee</TOKEN>
+<TOKEN id="token-41-11" pos="punct" morph="none" start_char="3593" end_char="3593">)</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="3597" end_char="3730">
+<ORIGINAL_TEXT>With so many people out of work, because of the pandemic, scammers have come up with some pretty convincing work-from-home job offers.</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="word" morph="none" start_char="3597" end_char="3600">With</TOKEN>
+<TOKEN id="token-42-1" pos="word" morph="none" start_char="3602" end_char="3603">so</TOKEN>
+<TOKEN id="token-42-2" pos="word" morph="none" start_char="3605" end_char="3608">many</TOKEN>
+<TOKEN id="token-42-3" pos="word" morph="none" start_char="3610" end_char="3615">people</TOKEN>
+<TOKEN id="token-42-4" pos="word" morph="none" start_char="3617" end_char="3619">out</TOKEN>
+<TOKEN id="token-42-5" pos="word" morph="none" start_char="3621" end_char="3622">of</TOKEN>
+<TOKEN id="token-42-6" pos="word" morph="none" start_char="3624" end_char="3627">work</TOKEN>
+<TOKEN id="token-42-7" pos="punct" morph="none" start_char="3628" end_char="3628">,</TOKEN>
+<TOKEN id="token-42-8" pos="word" morph="none" start_char="3630" end_char="3636">because</TOKEN>
+<TOKEN id="token-42-9" pos="word" morph="none" start_char="3638" end_char="3639">of</TOKEN>
+<TOKEN id="token-42-10" pos="word" morph="none" start_char="3641" end_char="3643">the</TOKEN>
+<TOKEN id="token-42-11" pos="word" morph="none" start_char="3645" end_char="3652">pandemic</TOKEN>
+<TOKEN id="token-42-12" pos="punct" morph="none" start_char="3653" end_char="3653">,</TOKEN>
+<TOKEN id="token-42-13" pos="word" morph="none" start_char="3655" end_char="3662">scammers</TOKEN>
+<TOKEN id="token-42-14" pos="word" morph="none" start_char="3664" end_char="3667">have</TOKEN>
+<TOKEN id="token-42-15" pos="word" morph="none" start_char="3669" end_char="3672">come</TOKEN>
+<TOKEN id="token-42-16" pos="word" morph="none" start_char="3674" end_char="3675">up</TOKEN>
+<TOKEN id="token-42-17" pos="word" morph="none" start_char="3677" end_char="3680">with</TOKEN>
+<TOKEN id="token-42-18" pos="word" morph="none" start_char="3682" end_char="3685">some</TOKEN>
+<TOKEN id="token-42-19" pos="word" morph="none" start_char="3687" end_char="3692">pretty</TOKEN>
+<TOKEN id="token-42-20" pos="word" morph="none" start_char="3694" end_char="3703">convincing</TOKEN>
+<TOKEN id="token-42-21" pos="unknown" morph="none" start_char="3705" end_char="3718">work-from-home</TOKEN>
+<TOKEN id="token-42-22" pos="word" morph="none" start_char="3720" end_char="3722">job</TOKEN>
+<TOKEN id="token-42-23" pos="word" morph="none" start_char="3724" end_char="3729">offers</TOKEN>
+<TOKEN id="token-42-24" pos="punct" morph="none" start_char="3730" end_char="3730">.</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="3732" end_char="3786">
+<ORIGINAL_TEXT>Some even use the names and logos of popular companies.</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="word" morph="none" start_char="3732" end_char="3735">Some</TOKEN>
+<TOKEN id="token-43-1" pos="word" morph="none" start_char="3737" end_char="3740">even</TOKEN>
+<TOKEN id="token-43-2" pos="word" morph="none" start_char="3742" end_char="3744">use</TOKEN>
+<TOKEN id="token-43-3" pos="word" morph="none" start_char="3746" end_char="3748">the</TOKEN>
+<TOKEN id="token-43-4" pos="word" morph="none" start_char="3750" end_char="3754">names</TOKEN>
+<TOKEN id="token-43-5" pos="word" morph="none" start_char="3756" end_char="3758">and</TOKEN>
+<TOKEN id="token-43-6" pos="word" morph="none" start_char="3760" end_char="3764">logos</TOKEN>
+<TOKEN id="token-43-7" pos="word" morph="none" start_char="3766" end_char="3767">of</TOKEN>
+<TOKEN id="token-43-8" pos="word" morph="none" start_char="3769" end_char="3775">popular</TOKEN>
+<TOKEN id="token-43-9" pos="word" morph="none" start_char="3777" end_char="3785">companies</TOKEN>
+<TOKEN id="token-43-10" pos="punct" morph="none" start_char="3786" end_char="3786">.</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="3788" end_char="3880">
+<ORIGINAL_TEXT>The scammers may ask for financial info to set up direct deposit, or charge you for training.</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="word" morph="none" start_char="3788" end_char="3790">The</TOKEN>
+<TOKEN id="token-44-1" pos="word" morph="none" start_char="3792" end_char="3799">scammers</TOKEN>
+<TOKEN id="token-44-2" pos="word" morph="none" start_char="3801" end_char="3803">may</TOKEN>
+<TOKEN id="token-44-3" pos="word" morph="none" start_char="3805" end_char="3807">ask</TOKEN>
+<TOKEN id="token-44-4" pos="word" morph="none" start_char="3809" end_char="3811">for</TOKEN>
+<TOKEN id="token-44-5" pos="word" morph="none" start_char="3813" end_char="3821">financial</TOKEN>
+<TOKEN id="token-44-6" pos="word" morph="none" start_char="3823" end_char="3826">info</TOKEN>
+<TOKEN id="token-44-7" pos="word" morph="none" start_char="3828" end_char="3829">to</TOKEN>
+<TOKEN id="token-44-8" pos="word" morph="none" start_char="3831" end_char="3833">set</TOKEN>
+<TOKEN id="token-44-9" pos="word" morph="none" start_char="3835" end_char="3836">up</TOKEN>
+<TOKEN id="token-44-10" pos="word" morph="none" start_char="3838" end_char="3843">direct</TOKEN>
+<TOKEN id="token-44-11" pos="word" morph="none" start_char="3845" end_char="3851">deposit</TOKEN>
+<TOKEN id="token-44-12" pos="punct" morph="none" start_char="3852" end_char="3852">,</TOKEN>
+<TOKEN id="token-44-13" pos="word" morph="none" start_char="3854" end_char="3855">or</TOKEN>
+<TOKEN id="token-44-14" pos="word" morph="none" start_char="3857" end_char="3862">charge</TOKEN>
+<TOKEN id="token-44-15" pos="word" morph="none" start_char="3864" end_char="3866">you</TOKEN>
+<TOKEN id="token-44-16" pos="word" morph="none" start_char="3868" end_char="3870">for</TOKEN>
+<TOKEN id="token-44-17" pos="word" morph="none" start_char="3872" end_char="3879">training</TOKEN>
+<TOKEN id="token-44-18" pos="punct" morph="none" start_char="3880" end_char="3880">.</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="3882" end_char="4016">
+<ORIGINAL_TEXT>Before accepting an offer, don't be afraid to reach out to the real company, using the phone number from the business's actual website.</ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="word" morph="none" start_char="3882" end_char="3887">Before</TOKEN>
+<TOKEN id="token-45-1" pos="word" morph="none" start_char="3889" end_char="3897">accepting</TOKEN>
+<TOKEN id="token-45-2" pos="word" morph="none" start_char="3899" end_char="3900">an</TOKEN>
+<TOKEN id="token-45-3" pos="word" morph="none" start_char="3902" end_char="3906">offer</TOKEN>
+<TOKEN id="token-45-4" pos="punct" morph="none" start_char="3907" end_char="3907">,</TOKEN>
+<TOKEN id="token-45-5" pos="word" morph="none" start_char="3909" end_char="3913">don't</TOKEN>
+<TOKEN id="token-45-6" pos="word" morph="none" start_char="3915" end_char="3916">be</TOKEN>
+<TOKEN id="token-45-7" pos="word" morph="none" start_char="3918" end_char="3923">afraid</TOKEN>
+<TOKEN id="token-45-8" pos="word" morph="none" start_char="3925" end_char="3926">to</TOKEN>
+<TOKEN id="token-45-9" pos="word" morph="none" start_char="3928" end_char="3932">reach</TOKEN>
+<TOKEN id="token-45-10" pos="word" morph="none" start_char="3934" end_char="3936">out</TOKEN>
+<TOKEN id="token-45-11" pos="word" morph="none" start_char="3938" end_char="3939">to</TOKEN>
+<TOKEN id="token-45-12" pos="word" morph="none" start_char="3941" end_char="3943">the</TOKEN>
+<TOKEN id="token-45-13" pos="word" morph="none" start_char="3945" end_char="3948">real</TOKEN>
+<TOKEN id="token-45-14" pos="word" morph="none" start_char="3950" end_char="3956">company</TOKEN>
+<TOKEN id="token-45-15" pos="punct" morph="none" start_char="3957" end_char="3957">,</TOKEN>
+<TOKEN id="token-45-16" pos="word" morph="none" start_char="3959" end_char="3963">using</TOKEN>
+<TOKEN id="token-45-17" pos="word" morph="none" start_char="3965" end_char="3967">the</TOKEN>
+<TOKEN id="token-45-18" pos="word" morph="none" start_char="3969" end_char="3973">phone</TOKEN>
+<TOKEN id="token-45-19" pos="word" morph="none" start_char="3975" end_char="3980">number</TOKEN>
+<TOKEN id="token-45-20" pos="word" morph="none" start_char="3982" end_char="3985">from</TOKEN>
+<TOKEN id="token-45-21" pos="word" morph="none" start_char="3987" end_char="3989">the</TOKEN>
+<TOKEN id="token-45-22" pos="word" morph="none" start_char="3991" end_char="4000">business's</TOKEN>
+<TOKEN id="token-45-23" pos="word" morph="none" start_char="4002" end_char="4007">actual</TOKEN>
+<TOKEN id="token-45-24" pos="word" morph="none" start_char="4009" end_char="4015">website</TOKEN>
+<TOKEN id="token-45-25" pos="punct" morph="none" start_char="4016" end_char="4016">.</TOKEN>
+</SEG>
+<SEG id="segment-46" start_char="4019" end_char="4020">
+<ORIGINAL_TEXT>6.</ORIGINAL_TEXT>
+<TOKEN id="token-46-0" pos="word" morph="none" start_char="4019" end_char="4019">6</TOKEN>
+<TOKEN id="token-46-1" pos="punct" morph="none" start_char="4020" end_char="4020">.</TOKEN>
+</SEG>
+<SEG id="segment-47" start_char="4022" end_char="4056">
+<ORIGINAL_TEXT>You Want How Much for Toilet Paper?</ORIGINAL_TEXT>
+<TOKEN id="token-47-0" pos="word" morph="none" start_char="4022" end_char="4024">You</TOKEN>
+<TOKEN id="token-47-1" pos="word" morph="none" start_char="4026" end_char="4029">Want</TOKEN>
+<TOKEN id="token-47-2" pos="word" morph="none" start_char="4031" end_char="4033">How</TOKEN>
+<TOKEN id="token-47-3" pos="word" morph="none" start_char="4035" end_char="4038">Much</TOKEN>
+<TOKEN id="token-47-4" pos="word" morph="none" start_char="4040" end_char="4042">for</TOKEN>
+<TOKEN id="token-47-5" pos="word" morph="none" start_char="4044" end_char="4049">Toilet</TOKEN>
+<TOKEN id="token-47-6" pos="word" morph="none" start_char="4051" end_char="4055">Paper</TOKEN>
+<TOKEN id="token-47-7" pos="punct" morph="none" start_char="4056" end_char="4056">?</TOKEN>
+</SEG>
+<SEG id="segment-48" start_char="4060" end_char="4119">
+<ORIGINAL_TEXT>I did some online browsing, the other day, for toilet paper.</ORIGINAL_TEXT>
+<TOKEN id="token-48-0" pos="word" morph="none" start_char="4060" end_char="4060">I</TOKEN>
+<TOKEN id="token-48-1" pos="word" morph="none" start_char="4062" end_char="4064">did</TOKEN>
+<TOKEN id="token-48-2" pos="word" morph="none" start_char="4066" end_char="4069">some</TOKEN>
+<TOKEN id="token-48-3" pos="word" morph="none" start_char="4071" end_char="4076">online</TOKEN>
+<TOKEN id="token-48-4" pos="word" morph="none" start_char="4078" end_char="4085">browsing</TOKEN>
+<TOKEN id="token-48-5" pos="punct" morph="none" start_char="4086" end_char="4086">,</TOKEN>
+<TOKEN id="token-48-6" pos="word" morph="none" start_char="4088" end_char="4090">the</TOKEN>
+<TOKEN id="token-48-7" pos="word" morph="none" start_char="4092" end_char="4096">other</TOKEN>
+<TOKEN id="token-48-8" pos="word" morph="none" start_char="4098" end_char="4100">day</TOKEN>
+<TOKEN id="token-48-9" pos="punct" morph="none" start_char="4101" end_char="4101">,</TOKEN>
+<TOKEN id="token-48-10" pos="word" morph="none" start_char="4103" end_char="4105">for</TOKEN>
+<TOKEN id="token-48-11" pos="word" morph="none" start_char="4107" end_char="4112">toilet</TOKEN>
+<TOKEN id="token-48-12" pos="word" morph="none" start_char="4114" end_char="4118">paper</TOKEN>
+<TOKEN id="token-48-13" pos="punct" morph="none" start_char="4119" end_char="4119">.</TOKEN>
+</SEG>
+<SEG id="segment-49" start_char="4121" end_char="4194">
+<ORIGINAL_TEXT>Not because I needed it, but because I wanted to see how expensive it was.</ORIGINAL_TEXT>
+<TOKEN id="token-49-0" pos="word" morph="none" start_char="4121" end_char="4123">Not</TOKEN>
+<TOKEN id="token-49-1" pos="word" morph="none" start_char="4125" end_char="4131">because</TOKEN>
+<TOKEN id="token-49-2" pos="word" morph="none" start_char="4133" end_char="4133">I</TOKEN>
+<TOKEN id="token-49-3" pos="word" morph="none" start_char="4135" end_char="4140">needed</TOKEN>
+<TOKEN id="token-49-4" pos="word" morph="none" start_char="4142" end_char="4143">it</TOKEN>
+<TOKEN id="token-49-5" pos="punct" morph="none" start_char="4144" end_char="4144">,</TOKEN>
+<TOKEN id="token-49-6" pos="word" morph="none" start_char="4146" end_char="4148">but</TOKEN>
+<TOKEN id="token-49-7" pos="word" morph="none" start_char="4150" end_char="4156">because</TOKEN>
+<TOKEN id="token-49-8" pos="word" morph="none" start_char="4158" end_char="4158">I</TOKEN>
+<TOKEN id="token-49-9" pos="word" morph="none" start_char="4160" end_char="4165">wanted</TOKEN>
+<TOKEN id="token-49-10" pos="word" morph="none" start_char="4167" end_char="4168">to</TOKEN>
+<TOKEN id="token-49-11" pos="word" morph="none" start_char="4170" end_char="4172">see</TOKEN>
+<TOKEN id="token-49-12" pos="word" morph="none" start_char="4174" end_char="4176">how</TOKEN>
+<TOKEN id="token-49-13" pos="word" morph="none" start_char="4178" end_char="4186">expensive</TOKEN>
+<TOKEN id="token-49-14" pos="word" morph="none" start_char="4188" end_char="4189">it</TOKEN>
+<TOKEN id="token-49-15" pos="word" morph="none" start_char="4191" end_char="4193">was</TOKEN>
+<TOKEN id="token-49-16" pos="punct" morph="none" start_char="4194" end_char="4194">.</TOKEN>
+</SEG>
+<SEG id="segment-50" start_char="4196" end_char="4272">
+<ORIGINAL_TEXT>The price gouging was shocking, and that's the BBB's 6th warning about scams.</ORIGINAL_TEXT>
+<TOKEN id="token-50-0" pos="word" morph="none" start_char="4196" end_char="4198">The</TOKEN>
+<TOKEN id="token-50-1" pos="word" morph="none" start_char="4200" end_char="4204">price</TOKEN>
+<TOKEN id="token-50-2" pos="word" morph="none" start_char="4206" end_char="4212">gouging</TOKEN>
+<TOKEN id="token-50-3" pos="word" morph="none" start_char="4214" end_char="4216">was</TOKEN>
+<TOKEN id="token-50-4" pos="word" morph="none" start_char="4218" end_char="4225">shocking</TOKEN>
+<TOKEN id="token-50-5" pos="punct" morph="none" start_char="4226" end_char="4226">,</TOKEN>
+<TOKEN id="token-50-6" pos="word" morph="none" start_char="4228" end_char="4230">and</TOKEN>
+<TOKEN id="token-50-7" pos="word" morph="none" start_char="4232" end_char="4237">that's</TOKEN>
+<TOKEN id="token-50-8" pos="word" morph="none" start_char="4239" end_char="4241">the</TOKEN>
+<TOKEN id="token-50-9" pos="word" morph="none" start_char="4243" end_char="4247">BBB's</TOKEN>
+<TOKEN id="token-50-10" pos="word" morph="none" start_char="4249" end_char="4251">6th</TOKEN>
+<TOKEN id="token-50-11" pos="word" morph="none" start_char="4253" end_char="4259">warning</TOKEN>
+<TOKEN id="token-50-12" pos="word" morph="none" start_char="4261" end_char="4265">about</TOKEN>
+<TOKEN id="token-50-13" pos="word" morph="none" start_char="4267" end_char="4271">scams</TOKEN>
+<TOKEN id="token-50-14" pos="punct" morph="none" start_char="4272" end_char="4272">.</TOKEN>
+</SEG>
+<SEG id="segment-51" start_char="4274" end_char="4391">
+<ORIGINAL_TEXT>Whether it's household items or protective gear, scammers will find a way to charge as much as they can get away with.</ORIGINAL_TEXT>
+<TOKEN id="token-51-0" pos="word" morph="none" start_char="4274" end_char="4280">Whether</TOKEN>
+<TOKEN id="token-51-1" pos="word" morph="none" start_char="4282" end_char="4285">it's</TOKEN>
+<TOKEN id="token-51-2" pos="word" morph="none" start_char="4287" end_char="4295">household</TOKEN>
+<TOKEN id="token-51-3" pos="word" morph="none" start_char="4297" end_char="4301">items</TOKEN>
+<TOKEN id="token-51-4" pos="word" morph="none" start_char="4303" end_char="4304">or</TOKEN>
+<TOKEN id="token-51-5" pos="word" morph="none" start_char="4306" end_char="4315">protective</TOKEN>
+<TOKEN id="token-51-6" pos="word" morph="none" start_char="4317" end_char="4320">gear</TOKEN>
+<TOKEN id="token-51-7" pos="punct" morph="none" start_char="4321" end_char="4321">,</TOKEN>
+<TOKEN id="token-51-8" pos="word" morph="none" start_char="4323" end_char="4330">scammers</TOKEN>
+<TOKEN id="token-51-9" pos="word" morph="none" start_char="4332" end_char="4335">will</TOKEN>
+<TOKEN id="token-51-10" pos="word" morph="none" start_char="4337" end_char="4340">find</TOKEN>
+<TOKEN id="token-51-11" pos="word" morph="none" start_char="4342" end_char="4342">a</TOKEN>
+<TOKEN id="token-51-12" pos="word" morph="none" start_char="4344" end_char="4346">way</TOKEN>
+<TOKEN id="token-51-13" pos="word" morph="none" start_char="4348" end_char="4349">to</TOKEN>
+<TOKEN id="token-51-14" pos="word" morph="none" start_char="4351" end_char="4356">charge</TOKEN>
+<TOKEN id="token-51-15" pos="word" morph="none" start_char="4358" end_char="4359">as</TOKEN>
+<TOKEN id="token-51-16" pos="word" morph="none" start_char="4361" end_char="4364">much</TOKEN>
+<TOKEN id="token-51-17" pos="word" morph="none" start_char="4366" end_char="4367">as</TOKEN>
+<TOKEN id="token-51-18" pos="word" morph="none" start_char="4369" end_char="4372">they</TOKEN>
+<TOKEN id="token-51-19" pos="word" morph="none" start_char="4374" end_char="4376">can</TOKEN>
+<TOKEN id="token-51-20" pos="word" morph="none" start_char="4378" end_char="4380">get</TOKEN>
+<TOKEN id="token-51-21" pos="word" morph="none" start_char="4382" end_char="4385">away</TOKEN>
+<TOKEN id="token-51-22" pos="word" morph="none" start_char="4387" end_char="4390">with</TOKEN>
+<TOKEN id="token-51-23" pos="punct" morph="none" start_char="4391" end_char="4391">.</TOKEN>
+</SEG>
+<SEG id="segment-52" start_char="4393" end_char="4410">
+<ORIGINAL_TEXT>Don't fall for it.</ORIGINAL_TEXT>
+<TOKEN id="token-52-0" pos="word" morph="none" start_char="4393" end_char="4397">Don't</TOKEN>
+<TOKEN id="token-52-1" pos="word" morph="none" start_char="4399" end_char="4402">fall</TOKEN>
+<TOKEN id="token-52-2" pos="word" morph="none" start_char="4404" end_char="4406">for</TOKEN>
+<TOKEN id="token-52-3" pos="word" morph="none" start_char="4408" end_char="4409">it</TOKEN>
+<TOKEN id="token-52-4" pos="punct" morph="none" start_char="4410" end_char="4410">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

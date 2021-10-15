@@ -1,0 +1,93 @@
+ProPublica is a nonprofit newsroom that investigates abuses of power.
+Sign up to receive our biggest stories as soon as they’re published.
+President Donald Trump and Vice President Mike Pence have repeatedly attributed the increase in the coronavirus case count in the United States to an increase in testing.
+“We’re doing so much testing, so much more than any other country,” Trump said in an interview with CBN News on Monday.
+“And to be honest with you, when you do more testing, you find more cases.
+And then they report our cases are through the roof.”
+
+Get Our Top Investigations Subscribe to the Big Story newsletter.
+“I would just encourage you all, as we talk about these things, to make sure and continue to explain to your citizens the magnitude of increase in testing,” Pence said on a call with the nation’s governors last week, according to audio obtained by The New York Times.
+“And that in most of the cases where we are seeing some marginal rise in number, that’s more a result of the extraordinary work you’re doing.”
+
+Help Us Continue Reporting on COVID-19 Are you a public health worker or front-line medical provider?
+Do you work for or with a government agency involved in the effort to protect the public?
+Have you or your family personally been affected?
+Show us what we should be covering or serve as an expert to make sure we’re on track.
+Note: If you develop emergency warning signs for COVID-19, such as difficulty breathing or bluish lips, get medical attention immediately.
+The CDC has more information on what to do if you are sick.
+These assertions are not backed up by the data, a ProPublica analysis shows.
+While it is true that there has been a dramatic increase in testing since the start of the coronavirus pandemic, the increase in positive cases in recent weeks cannot be attributed to the rise in testing alone.
+After weeks in which coronavirus cases and deaths were slowly declining, the tide has turned.
+On Wednesday, the United States surpassed its previous record high number of cases, reached in April when the virus was battering the Northeast, according to data gathered from states by The COVID Tracking Project.
+Hospitalizations are also increasing, though they are far from their peak nationally in April.
+“The tip of the iceberg can’t be growing with the iceberg shrinking,” said Dr. Sten Vermund, dean of the Yale School of Public Health.
+“It violates laws of physics and oceanography.”
+
+A White House spokesman did not return an email seeking comment.
+Deaths have not increased, but they are considered a lagging indicator.
+It takes several days after exposure for someone with COVID-19 to show symptoms and an additional five to seven days, on average, for the illness to be severe enough to require hospitalization.
+After that, it can take a couple days to a week to progress to intensive care, and a patient can linger there for some time before recovering or dying.
+“Just speaking as an epidemiologist, if I saw rising testing, rising case numbers and declining hospitalizations and deaths, I would say that Donald Trump and Vice President Pence are correct,” Vermund said.
+Conversely, if those measures are rising, “I would say that they are blowing smoke.”
+
+ProPublica looked at changes in the seven-day average of COVID-19 tests performed and the change in the overall number of positive tests in each state from Memorial Day, May 25, to Tuesday.
+By Memorial Day, most states had reopened and news reports noted that groups were congregating again.
+In some states, such as New York, Illinois and Indiana, testing has stayed about the same or increased while the share of positive tests has dropped.
+Source: The COVID Tracking Project
+
+In recent days, for instance, New York has performed, on average, more than 64,000 tests, about 50% more than it was performing in the seven days leading up to Memorial Day.
+But only about 1% of those cases have been positive for the coronavirus, indicating that community spread of the virus in the state has greatly decreased.
+To be sure, the virus exacted a tremendous toll on New York state and on New York City.
+Though COVID-19 now appears to be under control, more than 389,000 residents of New York state were infected and more than 24,700 died.
+In other states, including Arizona, Texas and Florida, which did not see a wave of early cases and deaths, the increase in positive results has far surpassed testing growth.
+In Florida, testing has even decreased a bit comparing the seven days through Tuesday to the same period before Memorial Day.
+(Florida recorded an abnormally high number of new tests on May 20, which may have inflated the rolling average on May 25.)
+Source: The COVID Tracking Project
+
+Texas and Florida each logged more than 5,000 new cases Wednesday.
+Hospitalizations are also on the rise in these states.
+Florida Gov.
+Ron DeSantis told reporters on Saturday that testing alone does not account for the increase in COVID-19 cases in his state.
+“Even with the testing increasing or being flat, the number of people testing positive is accelerating faster than that,” DeSantis said at a briefing at the state Capitol.
+“You know that’s evidence that there’s transmission within those communities.”
+
+Texas Gov.
+Greg Abbott acknowledged Wednesday that the state is experiencing a “massive outbreak” and that additional restrictions may be needed to ensure hospitals don’t become overloaded.
+On Thursday, he paused the state’s reopening and ordered a halt to elective surgeries in four large counties.
+As of Thursday morning, the state reported that 4,739 patients were hospitalized with confirmed COVID-19 infections.
+That compares to 1,511 on Memorial Day.
+The Texas Medical Center, which encompasses several major teaching hospitals in Houston, reported that 97% of its 1,330 ICU beds were full on Wednesday.
+It expects to exceed its ICU capacity by Thursday and then run through its “sustainable surge capacity” in about 12 days.
+The situation is so dire that Texas Children’s Hospital is now admitting adult patients because of the spike in cases in the Houston region.
+A handful of states, including California and North Carolina, saw increases in both testing and in positive results that roughly tracked each other, though the increase in positive cases outpaced the increase in testing.
+In the case of California, the share of positive results has recently pulled away from any increase in testing.
+California reported more than 7,000 new infections on Wednesday.
+Source: The COVID Tracking Project
+
+Caitlin Rivers, an assistant professor at Johns Hopkins Bloomberg School of Public Health, said she considers three factors when assessing the pandemic’s direction in a state: the number of new cases, the percentage of tests that are positive and hospitalizations.
+If cases are going up and everything else is declining or remaining flat, Rivers said, there may not be reason to be concerned.
+“For the states that we know are in trouble and it looks like exponential growth has resumed, it looks like those other indicators are headed in the wrong direction,” she said.
+It’s difficult to compare what’s happening in states experiencing current waves with what occurred in New York, New Jersey and Michigan in late March and early April.
+Because of severe shortages in testing and problems with the accuracy of tests, many people who were sick or exposed to someone who was sick weren’t able to get tested.
+Even still, this image tweeted Thursday by New Jersey Gov.
+Phil Murphy shows the shape of the curve of positive tests.
+At one point, one in every two tests came back positive for the coronavirus.
+(Gov.
+Phil Murphy via Twitter)
+
+By comparison, more than 20% of tests are coming back positive in Arizona; the figure has topped 10% in Texas.
+(View data from your state here.)
+Read More My Kids’ School Closed Again.
+So I Started Calling Experts.
+Many New York City public schools have been repeatedly closed because of two positive COVID-19 tests, even without evidence of in-school spread.
+Experts call it “crazy.” And it’s driving me nuts.
+If anything, experts say, the increase in testing over the past two months should bring with it a lower rate of positive results.
+Now that tests are readily available, people can get tested, whether they have symptoms of COVID-19 or not.
+This includes the “worried well,” meaning people with no known exposure and no symptoms who are nervous that they may have the virus.
+If the virus is under control, “the likelihood of an increasing positivity rate with substantial increase in testing is low,” Vermund said.
+Help Us Continue Reporting on COVID-19 Are you a public health worker or front-line medical provider?
+Do you work for or with a government agency involved in the effort to protect the public?
+Have you or your family personally been affected?
+Show us what we should be covering or serve as an expert to make sure we’re on track.
+This form requires JavaScript to complete.
+Powered by CityBase.

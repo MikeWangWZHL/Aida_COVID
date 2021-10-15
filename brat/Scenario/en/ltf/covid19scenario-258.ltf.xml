@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-258">
+		<TEXT>
+			<SEG id="covid19scenario-258-0" start_char="0" end_char="160">
+				<ORIGINAL_TEXT>But the Chinese research and articles in the magazine Science that he quotes do not actually call into question China being the place where the outbreak started.</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="2">But</TOKEN>
+				<TOKEN id="token-0-1" start_char="4" end_char="6">the</TOKEN>
+				<TOKEN id="token-0-2" start_char="8" end_char="14">Chinese</TOKEN>
+				<TOKEN id="token-0-3" start_char="16" end_char="23">research</TOKEN>
+				<TOKEN id="token-0-4" start_char="25" end_char="27">and</TOKEN>
+				<TOKEN id="token-0-5" start_char="29" end_char="36">articles</TOKEN>
+				<TOKEN id="token-0-6" start_char="38" end_char="39">in</TOKEN>
+				<TOKEN id="token-0-7" start_char="41" end_char="43">the</TOKEN>
+				<TOKEN id="token-0-8" start_char="45" end_char="52">magazine</TOKEN>
+				<TOKEN id="token-0-9" start_char="54" end_char="60">Science</TOKEN>
+				<TOKEN id="token-0-10" start_char="62" end_char="65">that</TOKEN>
+				<TOKEN id="token-0-11" start_char="67" end_char="68">he</TOKEN>
+				<TOKEN id="token-0-12" start_char="70" end_char="75">quotes</TOKEN>
+				<TOKEN id="token-0-13" start_char="77" end_char="78">do</TOKEN>
+				<TOKEN id="token-0-14" start_char="80" end_char="82">not</TOKEN>
+				<TOKEN id="token-0-15" start_char="84" end_char="91">actually</TOKEN>
+				<TOKEN id="token-0-16" start_char="93" end_char="96">call</TOKEN>
+				<TOKEN id="token-0-17" start_char="98" end_char="101">into</TOKEN>
+				<TOKEN id="token-0-18" start_char="103" end_char="110">question</TOKEN>
+				<TOKEN id="token-0-19" start_char="112" end_char="116">China</TOKEN>
+				<TOKEN id="token-0-20" start_char="118" end_char="122">being</TOKEN>
+				<TOKEN id="token-0-21" start_char="124" end_char="126">the</TOKEN>
+				<TOKEN id="token-0-22" start_char="128" end_char="132">place</TOKEN>
+				<TOKEN id="token-0-23" start_char="134" end_char="138">where</TOKEN>
+				<TOKEN id="token-0-24" start_char="140" end_char="142">the</TOKEN>
+				<TOKEN id="token-0-25" start_char="144" end_char="151">outbreak</TOKEN>
+				<TOKEN id="token-0-26" start_char="153" end_char="159">started</TOKEN>
+				<TOKEN id="token-0-27" start_char="160" end_char="160">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-258-1" start_char="162" end_char="285">
+				<ORIGINAL_TEXT>Instead, they only suggest that specifically the animal market in Wuhan may not have been the origin of the new coronavirus.</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="162" end_char="168">Instead</TOKEN>
+				<TOKEN id="token-1-1" start_char="169" end_char="169">,</TOKEN>
+				<TOKEN id="token-1-2" start_char="171" end_char="174">they</TOKEN>
+				<TOKEN id="token-1-3" start_char="176" end_char="179">only</TOKEN>
+				<TOKEN id="token-1-4" start_char="181" end_char="187">suggest</TOKEN>
+				<TOKEN id="token-1-5" start_char="189" end_char="192">that</TOKEN>
+				<TOKEN id="token-1-6" start_char="194" end_char="205">specifically</TOKEN>
+				<TOKEN id="token-1-7" start_char="207" end_char="209">the</TOKEN>
+				<TOKEN id="token-1-8" start_char="211" end_char="216">animal</TOKEN>
+				<TOKEN id="token-1-9" start_char="218" end_char="223">market</TOKEN>
+				<TOKEN id="token-1-10" start_char="225" end_char="226">in</TOKEN>
+				<TOKEN id="token-1-11" start_char="228" end_char="232">Wuhan</TOKEN>
+				<TOKEN id="token-1-12" start_char="234" end_char="236">may</TOKEN>
+				<TOKEN id="token-1-13" start_char="238" end_char="240">not</TOKEN>
+				<TOKEN id="token-1-14" start_char="242" end_char="245">have</TOKEN>
+				<TOKEN id="token-1-15" start_char="247" end_char="250">been</TOKEN>
+				<TOKEN id="token-1-16" start_char="252" end_char="254">the</TOKEN>
+				<TOKEN id="token-1-17" start_char="256" end_char="261">origin</TOKEN>
+				<TOKEN id="token-1-18" start_char="263" end_char="264">of</TOKEN>
+				<TOKEN id="token-1-19" start_char="266" end_char="268">the</TOKEN>
+				<TOKEN id="token-1-20" start_char="270" end_char="272">new</TOKEN>
+				<TOKEN id="token-1-21" start_char="274" end_char="284">coronavirus</TOKEN>
+				<TOKEN id="token-1-22" start_char="285" end_char="285">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

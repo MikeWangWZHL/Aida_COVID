@@ -1,0 +1,42 @@
+T1	PER 74 89	Asian-Americans
+T2	GPE 91 101	WASHINGTON
+T3	PER 118 121	you
+T4	MHI 141 152	coronavirus
+T5	GPE 163 170	Chinese
+T6	PER 249 264	Asian-Americans
+T7	PER 275 287	Amesh Adalja
+T8	MHI 289 307	Infectious Disease
+T9	PER 308 317	Physician
+T10	PER 330 339	Professor
+T11	ORG 343 390	Johns Hopkins Bloomberg School of Public Health
+T12	GPE 554 561	Chinese
+T13	PER 575 578	you
+T14	PER 608 609	I
+T15	MHI 643 654	Coronavirus
+T16	PER 671 677	person
+T17	ORG 681 688	Twitter
+T18	ORG 730 736	Verify
+T19	PER 737 741	team
+T20	PER 757 769	Amesh Adalja
+T21	MHI 785 792	disease
+T22	PER 793 802	physician
+T23	PER 807 816	professor
+T24	ORG 824 848	Johns Hopkins University
+T25	PER 850 852	He
+T26	PER 940 942	he
+T27	PER 996 998	He
+T28	PER 1080 1086	People
+T29	GPE 1178 1191	United States
+T30	PER 1194 1196	he
+T31	ORG 1207 1235	Food and Drug Administration
+T32	ORG 1337 1351	administration
+T33	ORG 1416 1458	Centers for Disease Control and Prevention
+T34	PER 1469 1475	people
+T35	GPE 1479 1486	Chinese
+T36	GPE 1491 1496	Asian
+T37	PER 1527 1532	their
+T38	LOC 1533 1544	communities
+T39	PER 1574 1580	people
+T40	PER 1590 1595	their
+T41	ORG 1596 1606	businesses
+T42	FAC 1610 1621	restaurants

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-102">
+		<TEXT>
+			<SEG id="covid19scenario-102-0" start_char="0" end_char="79">
+				<ORIGINAL_TEXT>Actualiza el navegador para disfrutar de una mejor experiencia de visualización.</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="8">Actualiza</TOKEN>
+				<TOKEN id="token-0-1" start_char="10" end_char="11">el</TOKEN>
+				<TOKEN id="token-0-2" start_char="13" end_char="21">navegador</TOKEN>
+				<TOKEN id="token-0-3" start_char="23" end_char="26">para</TOKEN>
+				<TOKEN id="token-0-4" start_char="28" end_char="36">disfrutar</TOKEN>
+				<TOKEN id="token-0-5" start_char="38" end_char="39">de</TOKEN>
+				<TOKEN id="token-0-6" start_char="41" end_char="43">una</TOKEN>
+				<TOKEN id="token-0-7" start_char="45" end_char="49">mejor</TOKEN>
+				<TOKEN id="token-0-8" start_char="51" end_char="61">experiencia</TOKEN>
+				<TOKEN id="token-0-9" start_char="63" end_char="64">de</TOKEN>
+				<TOKEN id="token-0-10" start_char="66" end_char="78">visualización</TOKEN>
+				<TOKEN id="token-0-11" start_char="79" end_char="79">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-102-1" start_char="81" end_char="227">
+				<ORIGINAL_TEXT>Te recomendamos que actualices tu navegador a la versión más reciente para evitar problemas de compatibilidad con algunas funciones de nuestra web.</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="81" end_char="82">Te</TOKEN>
+				<TOKEN id="token-1-1" start_char="84" end_char="95">recomendamos</TOKEN>
+				<TOKEN id="token-1-2" start_char="97" end_char="99">que</TOKEN>
+				<TOKEN id="token-1-3" start_char="101" end_char="110">actualices</TOKEN>
+				<TOKEN id="token-1-4" start_char="112" end_char="113">tu</TOKEN>
+				<TOKEN id="token-1-5" start_char="115" end_char="123">navegador</TOKEN>
+				<TOKEN id="token-1-6" start_char="125" end_char="125">a</TOKEN>
+				<TOKEN id="token-1-7" start_char="127" end_char="128">la</TOKEN>
+				<TOKEN id="token-1-8" start_char="130" end_char="136">versión</TOKEN>
+				<TOKEN id="token-1-9" start_char="138" end_char="140">más</TOKEN>
+				<TOKEN id="token-1-10" start_char="142" end_char="149">reciente</TOKEN>
+				<TOKEN id="token-1-11" start_char="151" end_char="154">para</TOKEN>
+				<TOKEN id="token-1-12" start_char="156" end_char="161">evitar</TOKEN>
+				<TOKEN id="token-1-13" start_char="163" end_char="171">problemas</TOKEN>
+				<TOKEN id="token-1-14" start_char="173" end_char="174">de</TOKEN>
+				<TOKEN id="token-1-15" start_char="176" end_char="189">compatibilidad</TOKEN>
+				<TOKEN id="token-1-16" start_char="191" end_char="193">con</TOKEN>
+				<TOKEN id="token-1-17" start_char="195" end_char="201">algunas</TOKEN>
+				<TOKEN id="token-1-18" start_char="203" end_char="211">funciones</TOKEN>
+				<TOKEN id="token-1-19" start_char="213" end_char="214">de</TOKEN>
+				<TOKEN id="token-1-20" start_char="216" end_char="222">nuestra</TOKEN>
+				<TOKEN id="token-1-21" start_char="224" end_char="226">web</TOKEN>
+				<TOKEN id="token-1-22" start_char="227" end_char="227">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-102-2" start_char="229" end_char="272">
+				<ORIGINAL_TEXT>Versiones mínimas de navegador recomendadas:</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="229" end_char="237">Versiones</TOKEN>
+				<TOKEN id="token-2-1" start_char="239" end_char="245">mínimas</TOKEN>
+				<TOKEN id="token-2-2" start_char="247" end_char="248">de</TOKEN>
+				<TOKEN id="token-2-3" start_char="250" end_char="258">navegador</TOKEN>
+				<TOKEN id="token-2-4" start_char="260" end_char="271">recomendadas</TOKEN>
+				<TOKEN id="token-2-5" start_char="272" end_char="272">:</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-102-3" start_char="274" end_char="291">
+				<ORIGINAL_TEXT>- Google Chrome 37</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="274" end_char="274">-</TOKEN>
+				<TOKEN id="token-3-1" start_char="276" end_char="281">Google</TOKEN>
+				<TOKEN id="token-3-2" start_char="283" end_char="288">Chrome</TOKEN>
+				<TOKEN id="token-3-3" start_char="290" end_char="291">37</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-102-4" start_char="293" end_char="304">
+				<ORIGINAL_TEXT>- Firefox 40</ORIGINAL_TEXT>
+				<TOKEN id="token-4-0" start_char="293" end_char="293">-</TOKEN>
+				<TOKEN id="token-4-1" start_char="295" end_char="301">Firefox</TOKEN>
+				<TOKEN id="token-4-2" start_char="303" end_char="304">40</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-102-5" start_char="306" end_char="329">
+				<ORIGINAL_TEXT>- Internet Explorer Edge</ORIGINAL_TEXT>
+				<TOKEN id="token-5-0" start_char="306" end_char="306">-</TOKEN>
+				<TOKEN id="token-5-1" start_char="308" end_char="315">Internet</TOKEN>
+				<TOKEN id="token-5-2" start_char="317" end_char="324">Explorer</TOKEN>
+				<TOKEN id="token-5-3" start_char="326" end_char="329">Edge</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-102-6" start_char="331" end_char="340">
+				<ORIGINAL_TEXT>- Safari 2</ORIGINAL_TEXT>
+				<TOKEN id="token-6-0" start_char="331" end_char="331">-</TOKEN>
+				<TOKEN id="token-6-1" start_char="333" end_char="338">Safari</TOKEN>
+				<TOKEN id="token-6-2" start_char="340" end_char="340">2</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-102-7" start_char="342" end_char="351">
+				<ORIGINAL_TEXT>- Opera 36</ORIGINAL_TEXT>
+				<TOKEN id="token-7-0" start_char="342" end_char="342">-</TOKEN>
+				<TOKEN id="token-7-1" start_char="344" end_char="348">Opera</TOKEN>
+				<TOKEN id="token-7-2" start_char="350" end_char="351">36</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-102-8" start_char="353" end_char="429">
+				<ORIGINAL_TEXT>Para conocer qué versión de navegador tienes, puedes utilizar whatbrowser.org</ORIGINAL_TEXT>
+				<TOKEN id="token-8-0" start_char="353" end_char="356">Para</TOKEN>
+				<TOKEN id="token-8-1" start_char="358" end_char="364">conocer</TOKEN>
+				<TOKEN id="token-8-2" start_char="366" end_char="368">qué</TOKEN>
+				<TOKEN id="token-8-3" start_char="370" end_char="376">versión</TOKEN>
+				<TOKEN id="token-8-4" start_char="378" end_char="379">de</TOKEN>
+				<TOKEN id="token-8-5" start_char="381" end_char="389">navegador</TOKEN>
+				<TOKEN id="token-8-6" start_char="391" end_char="396">tienes</TOKEN>
+				<TOKEN id="token-8-7" start_char="397" end_char="397">,</TOKEN>
+				<TOKEN id="token-8-8" start_char="399" end_char="404">puedes</TOKEN>
+				<TOKEN id="token-8-9" start_char="406" end_char="413">utilizar</TOKEN>
+				<TOKEN id="token-8-10" start_char="415" end_char="425">whatbrowser</TOKEN>
+				<TOKEN id="token-8-11" start_char="426" end_char="426">.</TOKEN>
+				<TOKEN id="token-8-12" start_char="427" end_char="429">org</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-51">
+		<TEXT>
+			<SEG id="covid19scenario-51-0" start_char="0" end_char="53">
+				<ORIGINAL_TEXT>Orange Juice Is A Hot Commodity During The Coronavirus</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="5">Orange</TOKEN>
+				<TOKEN id="token-0-1" start_char="7" end_char="11">Juice</TOKEN>
+				<TOKEN id="token-0-2" start_char="13" end_char="14">Is</TOKEN>
+				<TOKEN id="token-0-3" start_char="16" end_char="16">A</TOKEN>
+				<TOKEN id="token-0-4" start_char="18" end_char="20">Hot</TOKEN>
+				<TOKEN id="token-0-5" start_char="22" end_char="30">Commodity</TOKEN>
+				<TOKEN id="token-0-6" start_char="32" end_char="37">During</TOKEN>
+				<TOKEN id="token-0-7" start_char="39" end_char="41">The</TOKEN>
+				<TOKEN id="token-0-8" start_char="43" end_char="53">Coronavirus</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-51-1" start_char="55" end_char="145">
+				<ORIGINAL_TEXT>Enlarge this image toggle caption Justin Sullivan/Getty Images Justin Sullivan/Getty Images</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="55" end_char="61">Enlarge</TOKEN>
+				<TOKEN id="token-1-1" start_char="63" end_char="66">this</TOKEN>
+				<TOKEN id="token-1-2" start_char="68" end_char="72">image</TOKEN>
+				<TOKEN id="token-1-3" start_char="74" end_char="79">toggle</TOKEN>
+				<TOKEN id="token-1-4" start_char="81" end_char="87">caption</TOKEN>
+				<TOKEN id="token-1-5" start_char="89" end_char="94">Justin</TOKEN>
+				<TOKEN id="token-1-6" start_char="96" end_char="103">Sullivan</TOKEN>
+				<TOKEN id="token-1-7" start_char="104" end_char="104">/</TOKEN>
+				<TOKEN id="token-1-8" start_char="105" end_char="109">Getty</TOKEN>
+				<TOKEN id="token-1-9" start_char="111" end_char="116">Images</TOKEN>
+				<TOKEN id="token-1-10" start_char="118" end_char="123">Justin</TOKEN>
+				<TOKEN id="token-1-11" start_char="125" end_char="132">Sullivan</TOKEN>
+				<TOKEN id="token-1-12" start_char="133" end_char="133">/</TOKEN>
+				<TOKEN id="token-1-13" start_char="134" end_char="138">Getty</TOKEN>
+				<TOKEN id="token-1-14" start_char="140" end_char="145">Images</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-51-2" start_char="147" end_char="175">
+				<ORIGINAL_TEXT>Orange juice is suddenly hot.</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="147" end_char="152">Orange</TOKEN>
+				<TOKEN id="token-2-1" start_char="154" end_char="158">juice</TOKEN>
+				<TOKEN id="token-2-2" start_char="160" end_char="161">is</TOKEN>
+				<TOKEN id="token-2-3" start_char="163" end_char="170">suddenly</TOKEN>
+				<TOKEN id="token-2-4" start_char="172" end_char="174">hot</TOKEN>
+				<TOKEN id="token-2-5" start_char="175" end_char="175">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-51-3" start_char="177" end_char="283">
+				<ORIGINAL_TEXT>In the commodity markets, frozen concentrate orange juice futures have soared 25% — just in the past month.</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="177" end_char="178">In</TOKEN>
+				<TOKEN id="token-3-1" start_char="180" end_char="182">the</TOKEN>
+				<TOKEN id="token-3-2" start_char="184" end_char="192">commodity</TOKEN>
+				<TOKEN id="token-3-3" start_char="194" end_char="200">markets</TOKEN>
+				<TOKEN id="token-3-4" start_char="201" end_char="201">,</TOKEN>
+				<TOKEN id="token-3-5" start_char="203" end_char="208">frozen</TOKEN>
+				<TOKEN id="token-3-6" start_char="210" end_char="220">concentrate</TOKEN>
+				<TOKEN id="token-3-7" start_char="222" end_char="227">orange</TOKEN>
+				<TOKEN id="token-3-8" start_char="229" end_char="233">juice</TOKEN>
+				<TOKEN id="token-3-9" start_char="235" end_char="241">futures</TOKEN>
+				<TOKEN id="token-3-10" start_char="243" end_char="246">have</TOKEN>
+				<TOKEN id="token-3-11" start_char="248" end_char="253">soared</TOKEN>
+				<TOKEN id="token-3-12" start_char="255" end_char="256">25</TOKEN>
+				<TOKEN id="token-3-13" start_char="257" end_char="257">%</TOKEN>
+				<TOKEN id="token-3-14" start_char="259" end_char="259">—</TOKEN>
+				<TOKEN id="token-3-15" start_char="261" end_char="264">just</TOKEN>
+				<TOKEN id="token-3-16" start_char="266" end_char="267">in</TOKEN>
+				<TOKEN id="token-3-17" start_char="269" end_char="271">the</TOKEN>
+				<TOKEN id="token-3-18" start_char="273" end_char="276">past</TOKEN>
+				<TOKEN id="token-3-19" start_char="278" end_char="282">month</TOKEN>
+				<TOKEN id="token-3-20" start_char="283" end_char="283">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-51-4" start_char="285" end_char="336">
+				<ORIGINAL_TEXT>(Yes, you're thinking of the comedy Trading Places.)</ORIGINAL_TEXT>
+				<TOKEN id="token-4-0" start_char="285" end_char="285">(</TOKEN>
+				<TOKEN id="token-4-1" start_char="286" end_char="288">Yes</TOKEN>
+				<TOKEN id="token-4-2" start_char="289" end_char="289">,</TOKEN>
+				<TOKEN id="token-4-3" start_char="291" end_char="293">you</TOKEN>
+				<TOKEN id="token-4-4" start_char="294" end_char="294">'</TOKEN>
+				<TOKEN id="token-4-5" start_char="295" end_char="296">re</TOKEN>
+				<TOKEN id="token-4-6" start_char="298" end_char="305">thinking</TOKEN>
+				<TOKEN id="token-4-7" start_char="307" end_char="308">of</TOKEN>
+				<TOKEN id="token-4-8" start_char="310" end_char="312">the</TOKEN>
+				<TOKEN id="token-4-9" start_char="314" end_char="319">comedy</TOKEN>
+				<TOKEN id="token-4-10" start_char="321" end_char="327">Trading</TOKEN>
+				<TOKEN id="token-4-11" start_char="329" end_char="334">Places</TOKEN>
+				<TOKEN id="token-4-12" start_char="335" end_char="336">.)</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-51-5" start_char="338" end_char="552">
+				<ORIGINAL_TEXT>&quot;People understand that orange juice is a great source of vitamin C and clearly vitamin C boosts your immune system,&quot; said Andrew Meadows, director of communications at Florida Citrus Mutual, a growers' trade group.</ORIGINAL_TEXT>
+				<TOKEN id="token-5-0" start_char="338" end_char="338">&quot;</TOKEN>
+				<TOKEN id="token-5-1" start_char="339" end_char="344">People</TOKEN>
+				<TOKEN id="token-5-2" start_char="346" end_char="355">understand</TOKEN>
+				<TOKEN id="token-5-3" start_char="357" end_char="360">that</TOKEN>
+				<TOKEN id="token-5-4" start_char="362" end_char="367">orange</TOKEN>
+				<TOKEN id="token-5-5" start_char="369" end_char="373">juice</TOKEN>
+				<TOKEN id="token-5-6" start_char="375" end_char="376">is</TOKEN>
+				<TOKEN id="token-5-7" start_char="378" end_char="378">a</TOKEN>
+				<TOKEN id="token-5-8" start_char="380" end_char="384">great</TOKEN>
+				<TOKEN id="token-5-9" start_char="386" end_char="391">source</TOKEN>
+				<TOKEN id="token-5-10" start_char="393" end_char="394">of</TOKEN>
+				<TOKEN id="token-5-11" start_char="396" end_char="402">vitamin</TOKEN>
+				<TOKEN id="token-5-12" start_char="404" end_char="404">C</TOKEN>
+				<TOKEN id="token-5-13" start_char="406" end_char="408">and</TOKEN>
+				<TOKEN id="token-5-14" start_char="410" end_char="416">clearly</TOKEN>
+				<TOKEN id="token-5-15" start_char="418" end_char="424">vitamin</TOKEN>
+				<TOKEN id="token-5-16" start_char="426" end_char="426">C</TOKEN>
+				<TOKEN id="token-5-17" start_char="428" end_char="433">boosts</TOKEN>
+				<TOKEN id="token-5-18" start_char="435" end_char="438">your</TOKEN>
+				<TOKEN id="token-5-19" start_char="440" end_char="445">immune</TOKEN>
+				<TOKEN id="token-5-20" start_char="447" end_char="452">system</TOKEN>
+				<TOKEN id="token-5-21" start_char="453" end_char="454">,&quot;</TOKEN>
+				<TOKEN id="token-5-22" start_char="456" end_char="459">said</TOKEN>
+				<TOKEN id="token-5-23" start_char="461" end_char="466">Andrew</TOKEN>
+				<TOKEN id="token-5-24" start_char="468" end_char="474">Meadows</TOKEN>
+				<TOKEN id="token-5-25" start_char="475" end_char="475">,</TOKEN>
+				<TOKEN id="token-5-26" start_char="477" end_char="484">director</TOKEN>
+				<TOKEN id="token-5-27" start_char="486" end_char="487">of</TOKEN>
+				<TOKEN id="token-5-28" start_char="489" end_char="502">communications</TOKEN>
+				<TOKEN id="token-5-29" start_char="504" end_char="505">at</TOKEN>
+				<TOKEN id="token-5-30" start_char="507" end_char="513">Florida</TOKEN>
+				<TOKEN id="token-5-31" start_char="515" end_char="520">Citrus</TOKEN>
+				<TOKEN id="token-5-32" start_char="522" end_char="527">Mutual</TOKEN>
+				<TOKEN id="token-5-33" start_char="528" end_char="528">,</TOKEN>
+				<TOKEN id="token-5-34" start_char="530" end_char="530">a</TOKEN>
+				<TOKEN id="token-5-35" start_char="532" end_char="538">growers</TOKEN>
+				<TOKEN id="token-5-36" start_char="539" end_char="539">'</TOKEN>
+				<TOKEN id="token-5-37" start_char="541" end_char="545">trade</TOKEN>
+				<TOKEN id="token-5-38" start_char="547" end_char="551">group</TOKEN>
+				<TOKEN id="token-5-39" start_char="552" end_char="552">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-51-6" start_char="554" end_char="623">
+				<ORIGINAL_TEXT>&quot;We're now in a time where people want to have a strong immune system.</ORIGINAL_TEXT>
+				<TOKEN id="token-6-0" start_char="554" end_char="554">&quot;</TOKEN>
+				<TOKEN id="token-6-1" start_char="555" end_char="556">We</TOKEN>
+				<TOKEN id="token-6-2" start_char="557" end_char="557">'</TOKEN>
+				<TOKEN id="token-6-3" start_char="558" end_char="559">re</TOKEN>
+				<TOKEN id="token-6-4" start_char="561" end_char="563">now</TOKEN>
+				<TOKEN id="token-6-5" start_char="565" end_char="566">in</TOKEN>
+				<TOKEN id="token-6-6" start_char="568" end_char="568">a</TOKEN>
+				<TOKEN id="token-6-7" start_char="570" end_char="573">time</TOKEN>
+				<TOKEN id="token-6-8" start_char="575" end_char="579">where</TOKEN>
+				<TOKEN id="token-6-9" start_char="581" end_char="586">people</TOKEN>
+				<TOKEN id="token-6-10" start_char="588" end_char="591">want</TOKEN>
+				<TOKEN id="token-6-11" start_char="593" end_char="594">to</TOKEN>
+				<TOKEN id="token-6-12" start_char="596" end_char="599">have</TOKEN>
+				<TOKEN id="token-6-13" start_char="601" end_char="601">a</TOKEN>
+				<TOKEN id="token-6-14" start_char="603" end_char="608">strong</TOKEN>
+				<TOKEN id="token-6-15" start_char="610" end_char="615">immune</TOKEN>
+				<TOKEN id="token-6-16" start_char="617" end_char="622">system</TOKEN>
+				<TOKEN id="token-6-17" start_char="623" end_char="623">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-51-7" start_char="625" end_char="657">
+				<ORIGINAL_TEXT>I think that's what's happening.&quot;</ORIGINAL_TEXT>
+				<TOKEN id="token-7-0" start_char="625" end_char="625">I</TOKEN>
+				<TOKEN id="token-7-1" start_char="627" end_char="631">think</TOKEN>
+				<TOKEN id="token-7-2" start_char="633" end_char="636">that</TOKEN>
+				<TOKEN id="token-7-3" start_char="637" end_char="637">'</TOKEN>
+				<TOKEN id="token-7-4" start_char="638" end_char="638">s</TOKEN>
+				<TOKEN id="token-7-5" start_char="640" end_char="643">what</TOKEN>
+				<TOKEN id="token-7-6" start_char="644" end_char="644">'</TOKEN>
+				<TOKEN id="token-7-7" start_char="645" end_char="645">s</TOKEN>
+				<TOKEN id="token-7-8" start_char="647" end_char="655">happening</TOKEN>
+				<TOKEN id="token-7-9" start_char="656" end_char="657">.&quot;</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-51-8" start_char="659" end_char="749">
+				<ORIGINAL_TEXT>That's even though there's no evidence that vitamin C is effective against the coronavirus.</ORIGINAL_TEXT>
+				<TOKEN id="token-8-0" start_char="659" end_char="662">That</TOKEN>
+				<TOKEN id="token-8-1" start_char="663" end_char="663">'</TOKEN>
+				<TOKEN id="token-8-2" start_char="664" end_char="664">s</TOKEN>
+				<TOKEN id="token-8-3" start_char="666" end_char="669">even</TOKEN>
+				<TOKEN id="token-8-4" start_char="671" end_char="676">though</TOKEN>
+				<TOKEN id="token-8-5" start_char="678" end_char="682">there</TOKEN>
+				<TOKEN id="token-8-6" start_char="683" end_char="683">'</TOKEN>
+				<TOKEN id="token-8-7" start_char="684" end_char="684">s</TOKEN>
+				<TOKEN id="token-8-8" start_char="686" end_char="687">no</TOKEN>
+				<TOKEN id="token-8-9" start_char="689" end_char="696">evidence</TOKEN>
+				<TOKEN id="token-8-10" start_char="698" end_char="701">that</TOKEN>
+				<TOKEN id="token-8-11" start_char="703" end_char="709">vitamin</TOKEN>
+				<TOKEN id="token-8-12" start_char="711" end_char="711">C</TOKEN>
+				<TOKEN id="token-8-13" start_char="713" end_char="714">is</TOKEN>
+				<TOKEN id="token-8-14" start_char="716" end_char="724">effective</TOKEN>
+				<TOKEN id="token-8-15" start_char="726" end_char="732">against</TOKEN>
+				<TOKEN id="token-8-16" start_char="734" end_char="736">the</TOKEN>
+				<TOKEN id="token-8-17" start_char="738" end_char="748">coronavirus</TOKEN>
+				<TOKEN id="token-8-18" start_char="749" end_char="749">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-51-9" start_char="751" end_char="860">
+				<ORIGINAL_TEXT>But industry officials say that people looking to increase their vitamin C intake have been boosting OJ sales.</ORIGINAL_TEXT>
+				<TOKEN id="token-9-0" start_char="751" end_char="753">But</TOKEN>
+				<TOKEN id="token-9-1" start_char="755" end_char="762">industry</TOKEN>
+				<TOKEN id="token-9-2" start_char="764" end_char="772">officials</TOKEN>
+				<TOKEN id="token-9-3" start_char="774" end_char="776">say</TOKEN>
+				<TOKEN id="token-9-4" start_char="778" end_char="781">that</TOKEN>
+				<TOKEN id="token-9-5" start_char="783" end_char="788">people</TOKEN>
+				<TOKEN id="token-9-6" start_char="790" end_char="796">looking</TOKEN>
+				<TOKEN id="token-9-7" start_char="798" end_char="799">to</TOKEN>
+				<TOKEN id="token-9-8" start_char="801" end_char="808">increase</TOKEN>
+				<TOKEN id="token-9-9" start_char="810" end_char="814">their</TOKEN>
+				<TOKEN id="token-9-10" start_char="816" end_char="822">vitamin</TOKEN>
+				<TOKEN id="token-9-11" start_char="824" end_char="824">C</TOKEN>
+				<TOKEN id="token-9-12" start_char="826" end_char="831">intake</TOKEN>
+				<TOKEN id="token-9-13" start_char="833" end_char="836">have</TOKEN>
+				<TOKEN id="token-9-14" start_char="838" end_char="841">been</TOKEN>
+				<TOKEN id="token-9-15" start_char="843" end_char="850">boosting</TOKEN>
+				<TOKEN id="token-9-16" start_char="852" end_char="853">OJ</TOKEN>
+				<TOKEN id="token-9-17" start_char="855" end_char="859">sales</TOKEN>
+				<TOKEN id="token-9-18" start_char="860" end_char="860">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-51-10" start_char="862" end_char="1024">
+				<ORIGINAL_TEXT>Sales jumped nearly 10% in the four weeks that ended March 14 compared with a year earlier, according to Nielsen data provided by the Florida Department of Citrus.</ORIGINAL_TEXT>
+				<TOKEN id="token-10-0" start_char="862" end_char="866">Sales</TOKEN>
+				<TOKEN id="token-10-1" start_char="868" end_char="873">jumped</TOKEN>
+				<TOKEN id="token-10-2" start_char="875" end_char="880">nearly</TOKEN>
+				<TOKEN id="token-10-3" start_char="882" end_char="883">10</TOKEN>
+				<TOKEN id="token-10-4" start_char="884" end_char="884">%</TOKEN>
+				<TOKEN id="token-10-5" start_char="886" end_char="887">in</TOKEN>
+				<TOKEN id="token-10-6" start_char="889" end_char="891">the</TOKEN>
+				<TOKEN id="token-10-7" start_char="893" end_char="896">four</TOKEN>
+				<TOKEN id="token-10-8" start_char="898" end_char="902">weeks</TOKEN>
+				<TOKEN id="token-10-9" start_char="904" end_char="907">that</TOKEN>
+				<TOKEN id="token-10-10" start_char="909" end_char="913">ended</TOKEN>
+				<TOKEN id="token-10-11" start_char="915" end_char="919">March</TOKEN>
+				<TOKEN id="token-10-12" start_char="921" end_char="922">14</TOKEN>
+				<TOKEN id="token-10-13" start_char="924" end_char="931">compared</TOKEN>
+				<TOKEN id="token-10-14" start_char="933" end_char="936">with</TOKEN>
+				<TOKEN id="token-10-15" start_char="938" end_char="938">a</TOKEN>
+				<TOKEN id="token-10-16" start_char="940" end_char="943">year</TOKEN>
+				<TOKEN id="token-10-17" start_char="945" end_char="951">earlier</TOKEN>
+				<TOKEN id="token-10-18" start_char="952" end_char="952">,</TOKEN>
+				<TOKEN id="token-10-19" start_char="954" end_char="962">according</TOKEN>
+				<TOKEN id="token-10-20" start_char="964" end_char="965">to</TOKEN>
+				<TOKEN id="token-10-21" start_char="967" end_char="973">Nielsen</TOKEN>
+				<TOKEN id="token-10-22" start_char="975" end_char="978">data</TOKEN>
+				<TOKEN id="token-10-23" start_char="980" end_char="987">provided</TOKEN>
+				<TOKEN id="token-10-24" start_char="989" end_char="990">by</TOKEN>
+				<TOKEN id="token-10-25" start_char="992" end_char="994">the</TOKEN>
+				<TOKEN id="token-10-26" start_char="996" end_char="1002">Florida</TOKEN>
+				<TOKEN id="token-10-27" start_char="1004" end_char="1013">Department</TOKEN>
+				<TOKEN id="token-10-28" start_char="1015" end_char="1016">of</TOKEN>
+				<TOKEN id="token-10-29" start_char="1018" end_char="1023">Citrus</TOKEN>
+				<TOKEN id="token-10-30" start_char="1024" end_char="1024">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-51-11" start_char="1026" end_char="1052">
+				<ORIGINAL_TEXT>Frozen OJ sales soared 27%.</ORIGINAL_TEXT>
+				<TOKEN id="token-11-0" start_char="1026" end_char="1031">Frozen</TOKEN>
+				<TOKEN id="token-11-1" start_char="1033" end_char="1034">OJ</TOKEN>
+				<TOKEN id="token-11-2" start_char="1036" end_char="1040">sales</TOKEN>
+				<TOKEN id="token-11-3" start_char="1042" end_char="1047">soared</TOKEN>
+				<TOKEN id="token-11-4" start_char="1049" end_char="1050">27</TOKEN>
+				<TOKEN id="token-11-5" start_char="1051" end_char="1052">%.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-51-12" start_char="1054" end_char="1178">
+				<ORIGINAL_TEXT>That's a big turnaround from the prior report for February, which showed overall OJ sales down 2% and frozen juice down 1.3%.</ORIGINAL_TEXT>
+				<TOKEN id="token-12-0" start_char="1054" end_char="1057">That</TOKEN>
+				<TOKEN id="token-12-1" start_char="1058" end_char="1058">'</TOKEN>
+				<TOKEN id="token-12-2" start_char="1059" end_char="1059">s</TOKEN>
+				<TOKEN id="token-12-3" start_char="1061" end_char="1061">a</TOKEN>
+				<TOKEN id="token-12-4" start_char="1063" end_char="1065">big</TOKEN>
+				<TOKEN id="token-12-5" start_char="1067" end_char="1076">turnaround</TOKEN>
+				<TOKEN id="token-12-6" start_char="1078" end_char="1081">from</TOKEN>
+				<TOKEN id="token-12-7" start_char="1083" end_char="1085">the</TOKEN>
+				<TOKEN id="token-12-8" start_char="1087" end_char="1091">prior</TOKEN>
+				<TOKEN id="token-12-9" start_char="1093" end_char="1098">report</TOKEN>
+				<TOKEN id="token-12-10" start_char="1100" end_char="1102">for</TOKEN>
+				<TOKEN id="token-12-11" start_char="1104" end_char="1111">February</TOKEN>
+				<TOKEN id="token-12-12" start_char="1112" end_char="1112">,</TOKEN>
+				<TOKEN id="token-12-13" start_char="1114" end_char="1118">which</TOKEN>
+				<TOKEN id="token-12-14" start_char="1120" end_char="1125">showed</TOKEN>
+				<TOKEN id="token-12-15" start_char="1127" end_char="1133">overall</TOKEN>
+				<TOKEN id="token-12-16" start_char="1135" end_char="1136">OJ</TOKEN>
+				<TOKEN id="token-12-17" start_char="1138" end_char="1142">sales</TOKEN>
+				<TOKEN id="token-12-18" start_char="1144" end_char="1147">down</TOKEN>
+				<TOKEN id="token-12-19" start_char="1149" end_char="1149">2</TOKEN>
+				<TOKEN id="token-12-20" start_char="1150" end_char="1150">%</TOKEN>
+				<TOKEN id="token-12-21" start_char="1152" end_char="1154">and</TOKEN>
+				<TOKEN id="token-12-22" start_char="1156" end_char="1161">frozen</TOKEN>
+				<TOKEN id="token-12-23" start_char="1163" end_char="1167">juice</TOKEN>
+				<TOKEN id="token-12-24" start_char="1169" end_char="1172">down</TOKEN>
+				<TOKEN id="token-12-25" start_char="1174" end_char="1174">1</TOKEN>
+				<TOKEN id="token-12-26" start_char="1175" end_char="1175">.</TOKEN>
+				<TOKEN id="token-12-27" start_char="1176" end_char="1176">3</TOKEN>
+				<TOKEN id="token-12-28" start_char="1177" end_char="1178">%.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-51-13" start_char="1180" end_char="1313">
+				<ORIGINAL_TEXT>And demand is outpacing the supply, said Marisa Zansler, director of economic and market research at the Florida Department of Citrus.</ORIGINAL_TEXT>
+				<TOKEN id="token-13-0" start_char="1180" end_char="1182">And</TOKEN>
+				<TOKEN id="token-13-1" start_char="1184" end_char="1189">demand</TOKEN>
+				<TOKEN id="token-13-2" start_char="1191" end_char="1192">is</TOKEN>
+				<TOKEN id="token-13-3" start_char="1194" end_char="1202">outpacing</TOKEN>
+				<TOKEN id="token-13-4" start_char="1204" end_char="1206">the</TOKEN>
+				<TOKEN id="token-13-5" start_char="1208" end_char="1213">supply</TOKEN>
+				<TOKEN id="token-13-6" start_char="1214" end_char="1214">,</TOKEN>
+				<TOKEN id="token-13-7" start_char="1216" end_char="1219">said</TOKEN>
+				<TOKEN id="token-13-8" start_char="1221" end_char="1226">Marisa</TOKEN>
+				<TOKEN id="token-13-9" start_char="1228" end_char="1234">Zansler</TOKEN>
+				<TOKEN id="token-13-10" start_char="1235" end_char="1235">,</TOKEN>
+				<TOKEN id="token-13-11" start_char="1237" end_char="1244">director</TOKEN>
+				<TOKEN id="token-13-12" start_char="1246" end_char="1247">of</TOKEN>
+				<TOKEN id="token-13-13" start_char="1249" end_char="1256">economic</TOKEN>
+				<TOKEN id="token-13-14" start_char="1258" end_char="1260">and</TOKEN>
+				<TOKEN id="token-13-15" start_char="1262" end_char="1267">market</TOKEN>
+				<TOKEN id="token-13-16" start_char="1269" end_char="1276">research</TOKEN>
+				<TOKEN id="token-13-17" start_char="1278" end_char="1279">at</TOKEN>
+				<TOKEN id="token-13-18" start_char="1281" end_char="1283">the</TOKEN>
+				<TOKEN id="token-13-19" start_char="1285" end_char="1291">Florida</TOKEN>
+				<TOKEN id="token-13-20" start_char="1293" end_char="1302">Department</TOKEN>
+				<TOKEN id="token-13-21" start_char="1304" end_char="1305">of</TOKEN>
+				<TOKEN id="token-13-22" start_char="1307" end_char="1312">Citrus</TOKEN>
+				<TOKEN id="token-13-23" start_char="1313" end_char="1313">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-51-14" start_char="1315" end_char="1492">
+				<ORIGINAL_TEXT>&quot;The unforeseen and significant increase in the demand for orange juice exceeded the current supply of orange juice on the U.S. market in recent weeks,&quot; Zansler said in an email.</ORIGINAL_TEXT>
+				<TOKEN id="token-14-0" start_char="1315" end_char="1315">&quot;</TOKEN>
+				<TOKEN id="token-14-1" start_char="1316" end_char="1318">The</TOKEN>
+				<TOKEN id="token-14-2" start_char="1320" end_char="1329">unforeseen</TOKEN>
+				<TOKEN id="token-14-3" start_char="1331" end_char="1333">and</TOKEN>
+				<TOKEN id="token-14-4" start_char="1335" end_char="1345">significant</TOKEN>
+				<TOKEN id="token-14-5" start_char="1347" end_char="1354">increase</TOKEN>
+				<TOKEN id="token-14-6" start_char="1356" end_char="1357">in</TOKEN>
+				<TOKEN id="token-14-7" start_char="1359" end_char="1361">the</TOKEN>
+				<TOKEN id="token-14-8" start_char="1363" end_char="1368">demand</TOKEN>
+				<TOKEN id="token-14-9" start_char="1370" end_char="1372">for</TOKEN>
+				<TOKEN id="token-14-10" start_char="1374" end_char="1379">orange</TOKEN>
+				<TOKEN id="token-14-11" start_char="1381" end_char="1385">juice</TOKEN>
+				<TOKEN id="token-14-12" start_char="1387" end_char="1394">exceeded</TOKEN>
+				<TOKEN id="token-14-13" start_char="1396" end_char="1398">the</TOKEN>
+				<TOKEN id="token-14-14" start_char="1400" end_char="1406">current</TOKEN>
+				<TOKEN id="token-14-15" start_char="1408" end_char="1413">supply</TOKEN>
+				<TOKEN id="token-14-16" start_char="1415" end_char="1416">of</TOKEN>
+				<TOKEN id="token-14-17" start_char="1418" end_char="1423">orange</TOKEN>
+				<TOKEN id="token-14-18" start_char="1425" end_char="1429">juice</TOKEN>
+				<TOKEN id="token-14-19" start_char="1431" end_char="1432">on</TOKEN>
+				<TOKEN id="token-14-20" start_char="1434" end_char="1436">the</TOKEN>
+				<TOKEN id="token-14-21" start_char="1438" end_char="1438">U</TOKEN>
+				<TOKEN id="token-14-22" start_char="1439" end_char="1439">.</TOKEN>
+				<TOKEN id="token-14-23" start_char="1440" end_char="1440">S</TOKEN>
+				<TOKEN id="token-14-24" start_char="1441" end_char="1441">.</TOKEN>
+				<TOKEN id="token-14-25" start_char="1443" end_char="1448">market</TOKEN>
+				<TOKEN id="token-14-26" start_char="1450" end_char="1451">in</TOKEN>
+				<TOKEN id="token-14-27" start_char="1453" end_char="1458">recent</TOKEN>
+				<TOKEN id="token-14-28" start_char="1460" end_char="1464">weeks</TOKEN>
+				<TOKEN id="token-14-29" start_char="1465" end_char="1466">,&quot;</TOKEN>
+				<TOKEN id="token-14-30" start_char="1468" end_char="1474">Zansler</TOKEN>
+				<TOKEN id="token-14-31" start_char="1476" end_char="1479">said</TOKEN>
+				<TOKEN id="token-14-32" start_char="1481" end_char="1482">in</TOKEN>
+				<TOKEN id="token-14-33" start_char="1484" end_char="1485">an</TOKEN>
+				<TOKEN id="token-14-34" start_char="1487" end_char="1491">email</TOKEN>
+				<TOKEN id="token-14-35" start_char="1492" end_char="1492">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-51-15" start_char="1494" end_char="1605">
+				<ORIGINAL_TEXT>&quot;The rise in the futures price is certainly indicative of the higher cost to supply the sudden spike in demand.&quot;</ORIGINAL_TEXT>
+				<TOKEN id="token-15-0" start_char="1494" end_char="1494">&quot;</TOKEN>
+				<TOKEN id="token-15-1" start_char="1495" end_char="1497">The</TOKEN>
+				<TOKEN id="token-15-2" start_char="1499" end_char="1502">rise</TOKEN>
+				<TOKEN id="token-15-3" start_char="1504" end_char="1505">in</TOKEN>
+				<TOKEN id="token-15-4" start_char="1507" end_char="1509">the</TOKEN>
+				<TOKEN id="token-15-5" start_char="1511" end_char="1517">futures</TOKEN>
+				<TOKEN id="token-15-6" start_char="1519" end_char="1523">price</TOKEN>
+				<TOKEN id="token-15-7" start_char="1525" end_char="1526">is</TOKEN>
+				<TOKEN id="token-15-8" start_char="1528" end_char="1536">certainly</TOKEN>
+				<TOKEN id="token-15-9" start_char="1538" end_char="1547">indicative</TOKEN>
+				<TOKEN id="token-15-10" start_char="1549" end_char="1550">of</TOKEN>
+				<TOKEN id="token-15-11" start_char="1552" end_char="1554">the</TOKEN>
+				<TOKEN id="token-15-12" start_char="1556" end_char="1561">higher</TOKEN>
+				<TOKEN id="token-15-13" start_char="1563" end_char="1566">cost</TOKEN>
+				<TOKEN id="token-15-14" start_char="1568" end_char="1569">to</TOKEN>
+				<TOKEN id="token-15-15" start_char="1571" end_char="1576">supply</TOKEN>
+				<TOKEN id="token-15-16" start_char="1578" end_char="1580">the</TOKEN>
+				<TOKEN id="token-15-17" start_char="1582" end_char="1587">sudden</TOKEN>
+				<TOKEN id="token-15-18" start_char="1589" end_char="1593">spike</TOKEN>
+				<TOKEN id="token-15-19" start_char="1595" end_char="1596">in</TOKEN>
+				<TOKEN id="token-15-20" start_char="1598" end_char="1603">demand</TOKEN>
+				<TOKEN id="token-15-21" start_char="1604" end_char="1605">.&quot;</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-51-16" start_char="1607" end_char="1689">
+				<ORIGINAL_TEXT>Meadows emphasized that the industry has not been marketing around the coronavirus.</ORIGINAL_TEXT>
+				<TOKEN id="token-16-0" start_char="1607" end_char="1613">Meadows</TOKEN>
+				<TOKEN id="token-16-1" start_char="1615" end_char="1624">emphasized</TOKEN>
+				<TOKEN id="token-16-2" start_char="1626" end_char="1629">that</TOKEN>
+				<TOKEN id="token-16-3" start_char="1631" end_char="1633">the</TOKEN>
+				<TOKEN id="token-16-4" start_char="1635" end_char="1642">industry</TOKEN>
+				<TOKEN id="token-16-5" start_char="1644" end_char="1646">has</TOKEN>
+				<TOKEN id="token-16-6" start_char="1648" end_char="1650">not</TOKEN>
+				<TOKEN id="token-16-7" start_char="1652" end_char="1655">been</TOKEN>
+				<TOKEN id="token-16-8" start_char="1657" end_char="1665">marketing</TOKEN>
+				<TOKEN id="token-16-9" start_char="1667" end_char="1672">around</TOKEN>
+				<TOKEN id="token-16-10" start_char="1674" end_char="1676">the</TOKEN>
+				<TOKEN id="token-16-11" start_char="1678" end_char="1688">coronavirus</TOKEN>
+				<TOKEN id="token-16-12" start_char="1689" end_char="1689">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-51-17" start_char="1691" end_char="1740">
+				<ORIGINAL_TEXT>&quot;We're not trying to capitalize on this,&quot; he said.</ORIGINAL_TEXT>
+				<TOKEN id="token-17-0" start_char="1691" end_char="1691">&quot;</TOKEN>
+				<TOKEN id="token-17-1" start_char="1692" end_char="1693">We</TOKEN>
+				<TOKEN id="token-17-2" start_char="1694" end_char="1694">'</TOKEN>
+				<TOKEN id="token-17-3" start_char="1695" end_char="1696">re</TOKEN>
+				<TOKEN id="token-17-4" start_char="1698" end_char="1700">not</TOKEN>
+				<TOKEN id="token-17-5" start_char="1702" end_char="1707">trying</TOKEN>
+				<TOKEN id="token-17-6" start_char="1709" end_char="1710">to</TOKEN>
+				<TOKEN id="token-17-7" start_char="1712" end_char="1721">capitalize</TOKEN>
+				<TOKEN id="token-17-8" start_char="1723" end_char="1724">on</TOKEN>
+				<TOKEN id="token-17-9" start_char="1726" end_char="1729">this</TOKEN>
+				<TOKEN id="token-17-10" start_char="1730" end_char="1731">,&quot;</TOKEN>
+				<TOKEN id="token-17-11" start_char="1733" end_char="1734">he</TOKEN>
+				<TOKEN id="token-17-12" start_char="1736" end_char="1739">said</TOKEN>
+				<TOKEN id="token-17-13" start_char="1740" end_char="1740">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-51-18" start_char="1742" end_char="1762">
+				<ORIGINAL_TEXT>&quot;We wouldn't do that.</ORIGINAL_TEXT>
+				<TOKEN id="token-18-0" start_char="1742" end_char="1742">&quot;</TOKEN>
+				<TOKEN id="token-18-1" start_char="1743" end_char="1744">We</TOKEN>
+				<TOKEN id="token-18-2" start_char="1746" end_char="1751">wouldn</TOKEN>
+				<TOKEN id="token-18-3" start_char="1752" end_char="1752">'</TOKEN>
+				<TOKEN id="token-18-4" start_char="1753" end_char="1753">t</TOKEN>
+				<TOKEN id="token-18-5" start_char="1755" end_char="1756">do</TOKEN>
+				<TOKEN id="token-18-6" start_char="1758" end_char="1761">that</TOKEN>
+				<TOKEN id="token-18-7" start_char="1762" end_char="1762">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-51-19" start_char="1764" end_char="1766">
+				<ORIGINAL_TEXT>...</ORIGINAL_TEXT>
+				<TOKEN id="token-19-0" start_char="1764" end_char="1766">...</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-51-20" start_char="1768" end_char="1897">
+				<ORIGINAL_TEXT>But it is beneficial to us, it is heartening to us that people still understand that orange juice is a great source of vitamin C.&quot;</ORIGINAL_TEXT>
+				<TOKEN id="token-20-0" start_char="1768" end_char="1770">But</TOKEN>
+				<TOKEN id="token-20-1" start_char="1772" end_char="1773">it</TOKEN>
+				<TOKEN id="token-20-2" start_char="1775" end_char="1776">is</TOKEN>
+				<TOKEN id="token-20-3" start_char="1778" end_char="1787">beneficial</TOKEN>
+				<TOKEN id="token-20-4" start_char="1789" end_char="1790">to</TOKEN>
+				<TOKEN id="token-20-5" start_char="1792" end_char="1793">us</TOKEN>
+				<TOKEN id="token-20-6" start_char="1794" end_char="1794">,</TOKEN>
+				<TOKEN id="token-20-7" start_char="1796" end_char="1797">it</TOKEN>
+				<TOKEN id="token-20-8" start_char="1799" end_char="1800">is</TOKEN>
+				<TOKEN id="token-20-9" start_char="1802" end_char="1811">heartening</TOKEN>
+				<TOKEN id="token-20-10" start_char="1813" end_char="1814">to</TOKEN>
+				<TOKEN id="token-20-11" start_char="1816" end_char="1817">us</TOKEN>
+				<TOKEN id="token-20-12" start_char="1819" end_char="1822">that</TOKEN>
+				<TOKEN id="token-20-13" start_char="1824" end_char="1829">people</TOKEN>
+				<TOKEN id="token-20-14" start_char="1831" end_char="1835">still</TOKEN>
+				<TOKEN id="token-20-15" start_char="1837" end_char="1846">understand</TOKEN>
+				<TOKEN id="token-20-16" start_char="1848" end_char="1851">that</TOKEN>
+				<TOKEN id="token-20-17" start_char="1853" end_char="1858">orange</TOKEN>
+				<TOKEN id="token-20-18" start_char="1860" end_char="1864">juice</TOKEN>
+				<TOKEN id="token-20-19" start_char="1866" end_char="1867">is</TOKEN>
+				<TOKEN id="token-20-20" start_char="1869" end_char="1869">a</TOKEN>
+				<TOKEN id="token-20-21" start_char="1871" end_char="1875">great</TOKEN>
+				<TOKEN id="token-20-22" start_char="1877" end_char="1882">source</TOKEN>
+				<TOKEN id="token-20-23" start_char="1884" end_char="1885">of</TOKEN>
+				<TOKEN id="token-20-24" start_char="1887" end_char="1893">vitamin</TOKEN>
+				<TOKEN id="token-20-25" start_char="1895" end_char="1895">C</TOKEN>
+				<TOKEN id="token-20-26" start_char="1896" end_char="1897">.&quot;</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-51-21" start_char="1899" end_char="1976">
+				<ORIGINAL_TEXT>The good news for growers comes at a challenging time for the citrus industry.</ORIGINAL_TEXT>
+				<TOKEN id="token-21-0" start_char="1899" end_char="1901">The</TOKEN>
+				<TOKEN id="token-21-1" start_char="1903" end_char="1906">good</TOKEN>
+				<TOKEN id="token-21-2" start_char="1908" end_char="1911">news</TOKEN>
+				<TOKEN id="token-21-3" start_char="1913" end_char="1915">for</TOKEN>
+				<TOKEN id="token-21-4" start_char="1917" end_char="1923">growers</TOKEN>
+				<TOKEN id="token-21-5" start_char="1925" end_char="1929">comes</TOKEN>
+				<TOKEN id="token-21-6" start_char="1931" end_char="1932">at</TOKEN>
+				<TOKEN id="token-21-7" start_char="1934" end_char="1934">a</TOKEN>
+				<TOKEN id="token-21-8" start_char="1936" end_char="1946">challenging</TOKEN>
+				<TOKEN id="token-21-9" start_char="1948" end_char="1951">time</TOKEN>
+				<TOKEN id="token-21-10" start_char="1953" end_char="1955">for</TOKEN>
+				<TOKEN id="token-21-11" start_char="1957" end_char="1959">the</TOKEN>
+				<TOKEN id="token-21-12" start_char="1961" end_char="1966">citrus</TOKEN>
+				<TOKEN id="token-21-13" start_char="1968" end_char="1975">industry</TOKEN>
+				<TOKEN id="token-21-14" start_char="1976" end_char="1976">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-51-22" start_char="1978" end_char="2071">
+				<ORIGINAL_TEXT>Florida growers have been battling citrus greening, canker and other plant diseases for years.</ORIGINAL_TEXT>
+				<TOKEN id="token-22-0" start_char="1978" end_char="1984">Florida</TOKEN>
+				<TOKEN id="token-22-1" start_char="1986" end_char="1992">growers</TOKEN>
+				<TOKEN id="token-22-2" start_char="1994" end_char="1997">have</TOKEN>
+				<TOKEN id="token-22-3" start_char="1999" end_char="2002">been</TOKEN>
+				<TOKEN id="token-22-4" start_char="2004" end_char="2011">battling</TOKEN>
+				<TOKEN id="token-22-5" start_char="2013" end_char="2018">citrus</TOKEN>
+				<TOKEN id="token-22-6" start_char="2020" end_char="2027">greening</TOKEN>
+				<TOKEN id="token-22-7" start_char="2028" end_char="2028">,</TOKEN>
+				<TOKEN id="token-22-8" start_char="2030" end_char="2035">canker</TOKEN>
+				<TOKEN id="token-22-9" start_char="2037" end_char="2039">and</TOKEN>
+				<TOKEN id="token-22-10" start_char="2041" end_char="2045">other</TOKEN>
+				<TOKEN id="token-22-11" start_char="2047" end_char="2051">plant</TOKEN>
+				<TOKEN id="token-22-12" start_char="2053" end_char="2060">diseases</TOKEN>
+				<TOKEN id="token-22-13" start_char="2062" end_char="2064">for</TOKEN>
+				<TOKEN id="token-22-14" start_char="2066" end_char="2070">years</TOKEN>
+				<TOKEN id="token-22-15" start_char="2071" end_char="2071">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-51-23" start_char="2073" end_char="2205">
+				<ORIGINAL_TEXT>And orange juice has been squeezed by competition from sports and energy drinks, bottled water and exotic juice blends, Meadows said.</ORIGINAL_TEXT>
+				<TOKEN id="token-23-0" start_char="2073" end_char="2075">And</TOKEN>
+				<TOKEN id="token-23-1" start_char="2077" end_char="2082">orange</TOKEN>
+				<TOKEN id="token-23-2" start_char="2084" end_char="2088">juice</TOKEN>
+				<TOKEN id="token-23-3" start_char="2090" end_char="2092">has</TOKEN>
+				<TOKEN id="token-23-4" start_char="2094" end_char="2097">been</TOKEN>
+				<TOKEN id="token-23-5" start_char="2099" end_char="2106">squeezed</TOKEN>
+				<TOKEN id="token-23-6" start_char="2108" end_char="2109">by</TOKEN>
+				<TOKEN id="token-23-7" start_char="2111" end_char="2121">competition</TOKEN>
+				<TOKEN id="token-23-8" start_char="2123" end_char="2126">from</TOKEN>
+				<TOKEN id="token-23-9" start_char="2128" end_char="2133">sports</TOKEN>
+				<TOKEN id="token-23-10" start_char="2135" end_char="2137">and</TOKEN>
+				<TOKEN id="token-23-11" start_char="2139" end_char="2144">energy</TOKEN>
+				<TOKEN id="token-23-12" start_char="2146" end_char="2151">drinks</TOKEN>
+				<TOKEN id="token-23-13" start_char="2152" end_char="2152">,</TOKEN>
+				<TOKEN id="token-23-14" start_char="2154" end_char="2160">bottled</TOKEN>
+				<TOKEN id="token-23-15" start_char="2162" end_char="2166">water</TOKEN>
+				<TOKEN id="token-23-16" start_char="2168" end_char="2170">and</TOKEN>
+				<TOKEN id="token-23-17" start_char="2172" end_char="2177">exotic</TOKEN>
+				<TOKEN id="token-23-18" start_char="2179" end_char="2183">juice</TOKEN>
+				<TOKEN id="token-23-19" start_char="2185" end_char="2190">blends</TOKEN>
+				<TOKEN id="token-23-20" start_char="2191" end_char="2191">,</TOKEN>
+				<TOKEN id="token-23-21" start_char="2193" end_char="2199">Meadows</TOKEN>
+				<TOKEN id="token-23-22" start_char="2201" end_char="2204">said</TOKEN>
+				<TOKEN id="token-23-23" start_char="2205" end_char="2205">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

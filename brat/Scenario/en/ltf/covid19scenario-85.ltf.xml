@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="covid19scenario-85">
+		<TEXT>
+			<SEG id="covid19scenario-85-0" start_char="0" end_char="92">
+				<ORIGINAL_TEXT>There's no evidence that taking vitamin C regularly can help prevent coronavirus or COVID-19.</ORIGINAL_TEXT>
+				<TOKEN id="token-0-0" start_char="0" end_char="4">There</TOKEN>
+				<TOKEN id="token-0-1" start_char="5" end_char="5">'</TOKEN>
+				<TOKEN id="token-0-2" start_char="6" end_char="6">s</TOKEN>
+				<TOKEN id="token-0-3" start_char="8" end_char="9">no</TOKEN>
+				<TOKEN id="token-0-4" start_char="11" end_char="18">evidence</TOKEN>
+				<TOKEN id="token-0-5" start_char="20" end_char="23">that</TOKEN>
+				<TOKEN id="token-0-6" start_char="25" end_char="30">taking</TOKEN>
+				<TOKEN id="token-0-7" start_char="32" end_char="38">vitamin</TOKEN>
+				<TOKEN id="token-0-8" start_char="40" end_char="40">C</TOKEN>
+				<TOKEN id="token-0-9" start_char="42" end_char="50">regularly</TOKEN>
+				<TOKEN id="token-0-10" start_char="52" end_char="54">can</TOKEN>
+				<TOKEN id="token-0-11" start_char="56" end_char="59">help</TOKEN>
+				<TOKEN id="token-0-12" start_char="61" end_char="67">prevent</TOKEN>
+				<TOKEN id="token-0-13" start_char="69" end_char="79">coronavirus</TOKEN>
+				<TOKEN id="token-0-14" start_char="81" end_char="82">or</TOKEN>
+				<TOKEN id="token-0-15" start_char="84" end_char="88">COVID</TOKEN>
+				<TOKEN id="token-0-16" start_char="89" end_char="89">-</TOKEN>
+				<TOKEN id="token-0-17" start_char="90" end_char="91">19</TOKEN>
+				<TOKEN id="token-0-18" start_char="92" end_char="92">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-85-1" start_char="94" end_char="218">
+				<ORIGINAL_TEXT>In fact, there's a lot of research looking at vitamin C to help prevent the common cold and it has shown to not be effective.</ORIGINAL_TEXT>
+				<TOKEN id="token-1-0" start_char="94" end_char="95">In</TOKEN>
+				<TOKEN id="token-1-1" start_char="97" end_char="100">fact</TOKEN>
+				<TOKEN id="token-1-2" start_char="101" end_char="101">,</TOKEN>
+				<TOKEN id="token-1-3" start_char="103" end_char="107">there</TOKEN>
+				<TOKEN id="token-1-4" start_char="108" end_char="108">'</TOKEN>
+				<TOKEN id="token-1-5" start_char="109" end_char="109">s</TOKEN>
+				<TOKEN id="token-1-6" start_char="111" end_char="111">a</TOKEN>
+				<TOKEN id="token-1-7" start_char="113" end_char="115">lot</TOKEN>
+				<TOKEN id="token-1-8" start_char="117" end_char="118">of</TOKEN>
+				<TOKEN id="token-1-9" start_char="120" end_char="127">research</TOKEN>
+				<TOKEN id="token-1-10" start_char="129" end_char="135">looking</TOKEN>
+				<TOKEN id="token-1-11" start_char="137" end_char="138">at</TOKEN>
+				<TOKEN id="token-1-12" start_char="140" end_char="146">vitamin</TOKEN>
+				<TOKEN id="token-1-13" start_char="148" end_char="148">C</TOKEN>
+				<TOKEN id="token-1-14" start_char="150" end_char="151">to</TOKEN>
+				<TOKEN id="token-1-15" start_char="153" end_char="156">help</TOKEN>
+				<TOKEN id="token-1-16" start_char="158" end_char="164">prevent</TOKEN>
+				<TOKEN id="token-1-17" start_char="166" end_char="168">the</TOKEN>
+				<TOKEN id="token-1-18" start_char="170" end_char="175">common</TOKEN>
+				<TOKEN id="token-1-19" start_char="177" end_char="180">cold</TOKEN>
+				<TOKEN id="token-1-20" start_char="182" end_char="184">and</TOKEN>
+				<TOKEN id="token-1-21" start_char="186" end_char="187">it</TOKEN>
+				<TOKEN id="token-1-22" start_char="189" end_char="191">has</TOKEN>
+				<TOKEN id="token-1-23" start_char="193" end_char="197">shown</TOKEN>
+				<TOKEN id="token-1-24" start_char="199" end_char="200">to</TOKEN>
+				<TOKEN id="token-1-25" start_char="202" end_char="204">not</TOKEN>
+				<TOKEN id="token-1-26" start_char="206" end_char="207">be</TOKEN>
+				<TOKEN id="token-1-27" start_char="209" end_char="217">effective</TOKEN>
+				<TOKEN id="token-1-28" start_char="218" end_char="218">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-85-2" start_char="220" end_char="313">
+				<ORIGINAL_TEXT>There is a small study looking at high doses of vitamin C either by mouth of IV (intravenous).</ORIGINAL_TEXT>
+				<TOKEN id="token-2-0" start_char="220" end_char="224">There</TOKEN>
+				<TOKEN id="token-2-1" start_char="226" end_char="227">is</TOKEN>
+				<TOKEN id="token-2-2" start_char="229" end_char="229">a</TOKEN>
+				<TOKEN id="token-2-3" start_char="231" end_char="235">small</TOKEN>
+				<TOKEN id="token-2-4" start_char="237" end_char="241">study</TOKEN>
+				<TOKEN id="token-2-5" start_char="243" end_char="249">looking</TOKEN>
+				<TOKEN id="token-2-6" start_char="251" end_char="252">at</TOKEN>
+				<TOKEN id="token-2-7" start_char="254" end_char="257">high</TOKEN>
+				<TOKEN id="token-2-8" start_char="259" end_char="263">doses</TOKEN>
+				<TOKEN id="token-2-9" start_char="265" end_char="266">of</TOKEN>
+				<TOKEN id="token-2-10" start_char="268" end_char="274">vitamin</TOKEN>
+				<TOKEN id="token-2-11" start_char="276" end_char="276">C</TOKEN>
+				<TOKEN id="token-2-12" start_char="278" end_char="283">either</TOKEN>
+				<TOKEN id="token-2-13" start_char="285" end_char="286">by</TOKEN>
+				<TOKEN id="token-2-14" start_char="288" end_char="292">mouth</TOKEN>
+				<TOKEN id="token-2-15" start_char="294" end_char="295">of</TOKEN>
+				<TOKEN id="token-2-16" start_char="297" end_char="298">IV</TOKEN>
+				<TOKEN id="token-2-17" start_char="300" end_char="300">(</TOKEN>
+				<TOKEN id="token-2-18" start_char="301" end_char="311">intravenous</TOKEN>
+				<TOKEN id="token-2-19" start_char="312" end_char="313">).</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-85-3" start_char="315" end_char="434">
+				<ORIGINAL_TEXT>In that study, high-dose vitamin C appeared to decrease the time on a ventilator for seriously ill people with COVID-19.</ORIGINAL_TEXT>
+				<TOKEN id="token-3-0" start_char="315" end_char="316">In</TOKEN>
+				<TOKEN id="token-3-1" start_char="318" end_char="321">that</TOKEN>
+				<TOKEN id="token-3-2" start_char="323" end_char="327">study</TOKEN>
+				<TOKEN id="token-3-3" start_char="328" end_char="328">,</TOKEN>
+				<TOKEN id="token-3-4" start_char="330" end_char="333">high</TOKEN>
+				<TOKEN id="token-3-5" start_char="334" end_char="334">-</TOKEN>
+				<TOKEN id="token-3-6" start_char="335" end_char="338">dose</TOKEN>
+				<TOKEN id="token-3-7" start_char="340" end_char="346">vitamin</TOKEN>
+				<TOKEN id="token-3-8" start_char="348" end_char="348">C</TOKEN>
+				<TOKEN id="token-3-9" start_char="350" end_char="357">appeared</TOKEN>
+				<TOKEN id="token-3-10" start_char="359" end_char="360">to</TOKEN>
+				<TOKEN id="token-3-11" start_char="362" end_char="369">decrease</TOKEN>
+				<TOKEN id="token-3-12" start_char="371" end_char="373">the</TOKEN>
+				<TOKEN id="token-3-13" start_char="375" end_char="378">time</TOKEN>
+				<TOKEN id="token-3-14" start_char="380" end_char="381">on</TOKEN>
+				<TOKEN id="token-3-15" start_char="383" end_char="383">a</TOKEN>
+				<TOKEN id="token-3-16" start_char="385" end_char="394">ventilator</TOKEN>
+				<TOKEN id="token-3-17" start_char="396" end_char="398">for</TOKEN>
+				<TOKEN id="token-3-18" start_char="400" end_char="408">seriously</TOKEN>
+				<TOKEN id="token-3-19" start_char="410" end_char="412">ill</TOKEN>
+				<TOKEN id="token-3-20" start_char="414" end_char="419">people</TOKEN>
+				<TOKEN id="token-3-21" start_char="421" end_char="424">with</TOKEN>
+				<TOKEN id="token-3-22" start_char="426" end_char="430">COVID</TOKEN>
+				<TOKEN id="token-3-23" start_char="431" end_char="431">-</TOKEN>
+				<TOKEN id="token-3-24" start_char="432" end_char="433">19</TOKEN>
+				<TOKEN id="token-3-25" start_char="434" end_char="434">.</TOKEN>
+			</SEG>
+			<SEG id="covid19scenario-85-4" start_char="436" end_char="535">
+				<ORIGINAL_TEXT>More research is underway to better understand how we might use IV vitamin C to help treat COVID-19.</ORIGINAL_TEXT>
+				<TOKEN id="token-4-0" start_char="436" end_char="439">More</TOKEN>
+				<TOKEN id="token-4-1" start_char="441" end_char="448">research</TOKEN>
+				<TOKEN id="token-4-2" start_char="450" end_char="451">is</TOKEN>
+				<TOKEN id="token-4-3" start_char="453" end_char="460">underway</TOKEN>
+				<TOKEN id="token-4-4" start_char="462" end_char="463">to</TOKEN>
+				<TOKEN id="token-4-5" start_char="465" end_char="470">better</TOKEN>
+				<TOKEN id="token-4-6" start_char="472" end_char="481">understand</TOKEN>
+				<TOKEN id="token-4-7" start_char="483" end_char="485">how</TOKEN>
+				<TOKEN id="token-4-8" start_char="487" end_char="488">we</TOKEN>
+				<TOKEN id="token-4-9" start_char="490" end_char="494">might</TOKEN>
+				<TOKEN id="token-4-10" start_char="496" end_char="498">use</TOKEN>
+				<TOKEN id="token-4-11" start_char="500" end_char="501">IV</TOKEN>
+				<TOKEN id="token-4-12" start_char="503" end_char="509">vitamin</TOKEN>
+				<TOKEN id="token-4-13" start_char="511" end_char="511">C</TOKEN>
+				<TOKEN id="token-4-14" start_char="513" end_char="514">to</TOKEN>
+				<TOKEN id="token-4-15" start_char="516" end_char="519">help</TOKEN>
+				<TOKEN id="token-4-16" start_char="521" end_char="525">treat</TOKEN>
+				<TOKEN id="token-4-17" start_char="527" end_char="531">COVID</TOKEN>
+				<TOKEN id="token-4-18" start_char="532" end_char="532">-</TOKEN>
+				<TOKEN id="token-4-19" start_char="533" end_char="534">19</TOKEN>
+				<TOKEN id="token-4-20" start_char="535" end_char="535">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

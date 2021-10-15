@@ -1,0 +1,52 @@
+*Editor's Note (1/3/21): The number of COVID deaths in the U.S. is now more than 350,000, as of the beginning of January, according to the Johns Hopkins University Coronavirus Resource Center.
+A persistent falsehood has been circulating on social media: the number of COVID deaths is much lower than official statistics, and therefore the danger of the disease has been overblown.
+In August, President Donald Trump retweeted a post claiming that only 6 percent of these reported deaths were actually from COVID-19.
+(The tweet originated from a follower of the debunked conspiracy fantasy QAnon.)
+Twitter removed the post for containing false information, but fabrications such as these continue to spread.
+In September outgoing U.S. Representative Roger Marshall of Kansas—now incoming senator—complained that Facebook had removed a post in which he claimed that 94 percent of COVID-19 deaths reported by the Centers for Disease Control and Prevention “were the result of 2-3 additional serious illnesses and were of advanced age.”
+Now some facts: Researchers know beyond a doubt that the number of COVID-19 deaths in the U.S. surpassed a quarter of a million people by November 2020.
+This number is supported by three lines of evidence, including death certificates.
+The inaccurate idea that only 6 percent of the deaths were really caused by the coronavirus is “a gross misinterpretation” of how death certificates work, says Robert Anderson, chief mortality statistician at the CDC's National Center for Health Statistics.
+The scope of the coronavirus's deadly toll is clear, even if the exact toll varies by a small fraction depending on the reporting system.
+“We're pretty confident about the scale and order of magnitude of deaths, but we're not clear on the exact number yet,” says Justin Lessler, an infectious disease epidemiologist at the Johns Hopkins Bloomberg School of Public Health.
+To understand why the figures converge, even if they contain some uncertainty, it is important to know how they are collected and calculated.
+The first source of death data is called case surveillance.
+Health-care providers are required to report cases and deaths from certain diseases, including measles, mumps and now COVID-19, to state health departments, which pass this information along to the CDC, Anderson says.
+The surveillance data are a kind of “quick and dirty” accounting, says Shawna Webster, executive director of the National Association for Public Health Statistics and Information Systems.
+States gather all the information they can on these diseases, but this is the first pass—no one has time to double-check the information or look for missing laboratory tests, she says.
+For that, you have to look for the next source of information: vital records.
+Credit: Youyou Zhou; Sources: U.S. Census, Centers for Disease Control and Prevention, and National Center for Health Statistics
+Credit: Youyou Zhou; Sources: U.S. Census, Centers for Disease Control and Prevention, and National Center for Health Statistics
+Credit: Youyou Zhou; Sources: Centers for Disease Control and Prevention, National Center for Health Statistics
+This second line of evidence comes from the National Vital Statistics System, which records birth and death certificates.
+When somebody dies, a death certificate is filed in the state where the death occurred.
+After the records are registered at a state level, they are sent to the National Center for Health Statistics, which tracks deaths at a national level.
+Death certificates are not filed in the system until outstanding test results are in and the information is as complete as possible.
+By the time a record gets to the vital records system, “it is as close to perfect as it's going to get,” Webster says.
+A physician, medical examiner or coroner fills out the cause of mortality on the death certificate.
+That specialist is instructed to include only conditions that caused or contributed to death, Anderson says.
+One field lists the sequence of events leading to the death.
+“What we're really trying to get at is the condition or disease that started the chain of events leading to the death,” Anderson says.
+“For COVID-19, that might be something like acute respiratory distress due to pneumonia due to COVID-19.” A second part of the certificate lists other conditions that may have contributed to the death yet were not part of the sequence of events that led up to it, he says.
+These are called comorbidities, and although they can be contributing factors, they cannot be directly involved in the chain of cause and effect that ended in death.
+Medical conditions such as diabetes or heart disease are common comorbidities, and they can make a person more vulnerable to the coronavirus, Anderson says, “but the fact is: they're not dying from that preexisting condition.”
+“When we ask if COVID killed somebody, it means ‘Did they die sooner than they would have if they didn't have the virus?’” Lessler says.
+Even a person with a potentially life-shortening condition such as heart disease may have lived another five, 10 or more years, had they not become infected with COVID-19.
+The 6 percent number touted by Trump and QAnon comes from a weekly CDC report stating that in 6 percent of the coronavirus mortality cases it counted, COVID-19 was the only condition listed on the death certificate.
+That observation most likely means that those death certificates were incomplete because the certifiers gave only the underlying cause of death and not the full causal sequence that led to it, Anderson says.
+Even someone who does not have another health condition and dies from COVID-19 will also have comorbidities in the form of symptoms, such as respiratory failure, caused by the coronavirus.
+The idea that a death certificate with ailments listed in addition to COVID-19 means that the person did not really die from the virus is simply false, Anderson says.
+Medical personnel move a deceased patient to a refrigerated truck serving as a makeshift morgue at Brooklyn Hospital Center in New York City on April 9, 2020. Credit: Angela Weiss Getty Images
+The surveillance and vital statistics data provide a pretty good picture of how many deaths are attributable to the coronavirus, but they do not capture all of them, and that is where the final line of evidence come in: excess deaths.
+They are the number of deaths that occur above and beyond the historical pattern for that time period, says Steven Woolf, a physician and population health researcher at the Virginia Commonwealth University School of Medicine.
+In a paper published in October 2020 in JAMA, Woolf and his colleagues examined death records in the U.S. from March 1 through August 1 and compared them with the expected mortality numbers.
+They found that there was a 20 percent increase in deaths during this time period—for a total of 225,530 excess deaths—compared with previous years.
+Two thirds of these cases were attributed to COVID-19 on the death certificates, and Woolf says there are two types of explanations for the rest: Some of them were COVID-19 deaths that simply were not documented as such, perhaps because the person died at home and was never tested or because the certificate was miscoded.
+And some of the extra deaths were probably a consequence of the pandemic yet not necessarily of the virus itself.
+For instance, he says, imagine a patient with chest pain who is scared to go to the hospital because he or she does not want to get the virus and then dies of a heart attack.
+Woolf calls this “indirect mortality.” “The deaths aren't literally caused by the virus itself, but the pandemic is claiming lives,” he says.
+The numbers in Woolf's study come from provisional death data, the kind that the CDC has not yet checked for miscoding or other issues.
+What builds his confidence in these results, however, is that they have been replicated numerous times by his group and others.
+“All serious analyses of these data are showing that the number of deaths we're hearing on the news is an undercount,” he says.
+COVID-19 is now the third leading cause of death in the U.S., and the toll continues to rise as cases, hospitalizations and fatalities surge across the country.
+The complete number may never be known, even after the pandemic ends, but already it is a staggering number of lives cut short.
